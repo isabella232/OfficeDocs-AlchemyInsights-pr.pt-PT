@@ -1,0 +1,28 @@
+---
+title: Mensagem de erro quando a partilha de ficheiros do Explorador do Windows
+ms.author: kirks
+author: Techwriter40
+ms.date: 9/19/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
+ms.openlocfilehash: 64a1ece4c9904dc0054e1c4340f3f7ae9111fb95
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: pt-PT
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28306304"
+---
+# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Mensagem de erro quando a partilha de ficheiros do Explorador do Windows
+
+Quando tentar partilhar do Explorador do Windows, poderá receber a seguinte mensagem de erro:
+  
+"Lamentamos, mas não nos é possível alcançar o servidor agora. Tente novamente mais tarde"
+  
+Para resolver o erro mensagem, a partir do Internet Explorer vá para **Ferramentas** \> **Opções da Internet** \> clique no separador **Avançadas** e, em seguida, desmarque a caixa de verificação intitulada **não guardar páginas encriptadas no disco**. 
+  
+ **Nota**: poderá ter de reiniciar o browser para a definição tenha efeito. Para obter informações adicionais, consulte ["Não é possível alcançar o servidor agora" mensagem de erro quando a partilha de ficheiros](https://go.microsoft.com/fwlink/?linkid=2022914).
+  
+

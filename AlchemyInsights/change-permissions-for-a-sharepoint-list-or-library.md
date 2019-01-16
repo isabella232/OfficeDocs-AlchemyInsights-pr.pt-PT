@@ -1,0 +1,31 @@
+---
+title: Alterar permissões para uma lista do SharePoint ou biblioteca
+ms.author: mikeplum
+author: MikePlumleyMSFT
+manager: scotv
+ms.date: 5/17/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
+ms.openlocfilehash: 87f4b9ee252d3a7786a52b53b3fc5b40db38ef2a
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: pt-PT
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28306234"
+---
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Alterar permissões para uma lista do SharePoint ou biblioteca
+
+1. Vá para o site do SharePoint num web browser e abrir a lista ou biblioteca.
+    
+2. Clique no ícone de definições no canto superior direito e, em seguida, clique em **definições da biblioteca** ou **lista**. (Se não vir o comando, seleccione o separador de **lista** ou **biblioteca** para abrir o Friso e, em seguida, clique em **Definições da biblioteca** ou **Lista de definições** no Friso.) 
+    
+3. Em **permissões e gestão**, clique em **permissões para esta lista** ou **permissões para esta biblioteca de documentos**.
+    
+Note que, por predefinição, listas do SharePoint e bibliotecas de herdam as permissões do site. Se interromper a herança de permissões, as permissões actuais serão copiadas para a lista ou biblioteca e tudo dentro do mesmo. Se as permissões para o site mais tarde forem alteradas, as alterações não aplicadas a lista ou biblioteca e os produtos dentro do mesmo.
+  
+

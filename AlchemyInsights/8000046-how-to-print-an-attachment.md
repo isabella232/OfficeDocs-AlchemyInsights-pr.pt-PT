@@ -1,0 +1,31 @@
+---
+title: 8000046 como imprimir um anexo
+ms.author: daeite
+author: daeite
+manager: jackiesm
+ms.date: 9/13/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: 5e2f1581-027a-4417-8d7a-6cae5c6d52b6
+ms.openlocfilehash: c43ef598905322b7c7685fcbb89d77153d9ea66f
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: pt-PT
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28306268"
+---
+# <a name="print-an-attachment"></a>Imprimir um anexo
+
+Para imprimir anexos de correio electrónico, transferir e guardar os anexos no computador local ou OneDrive e, em seguida, abri-los com o programa apropriado.
+  
+1. Abra a mensagem que contém o anexo que pretende imprimir.
+    
+2. Abaixo o anexo, seleccione a **Transferir**. 
+    
+3. Depois de ter transferido o ficheiro, abra-o com o programa adequado e escolha a opção para imprimir. Por exemplo, abrir um ficheiro. doc no Word e, em seguida, imprimir.
+    
+Para mais informações, leia [mensagens de correio electrónico de impressão e anexos em Outlook.com](https://go.microsoft.com/fwlink/?linkid=2021110&amp;clcid=0x409).
+  
+

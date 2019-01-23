@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: pt-PT
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383417"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 11/1/2019 | [Eliminar utilizadores](/AlchemyInsights/deleting-users) | modificado |
 | 11/1/2019 | [Implementar sem costura Single Sign-On](/AlchemyInsights/deploy-seamless-single-sign-on) | modificado |
 | 11/1/2019 | [Desactivar o acesso do Yammer](/AlchemyInsights/disable-access-to-yammer) | modificado |
+
+
+## <a name="week-of-january-14-2019"></a>Semana de 14 de Janeiro de 2019
+
+
+| Publicado em |Título do tópico | Alterar |
+|------|------------|--------|
+| 14/1/2019 | Marcador de posição de Alquimia | removido |
+| 14/1/2019 | Adicionar Alquimia de domínio | removido |
+| 14/1/2019 | [Home page de conhecimentos aprofundados de Alquimia](/AlchemyInsights/index) | modificado |
+| 17/1/2019 | [mesmo que o nome de ficheiro é melhor [regra #-descrição]](/AlchemyInsights/1-alchemy-insight-template) | adicionado |

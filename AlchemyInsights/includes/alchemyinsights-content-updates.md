@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383417"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454441"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383417"
 ## <a name="week-of-january-07-2019"></a>Semana 07 de Janeiro de Maio de 2019
 
 
-| Publicado em |Título do tópico | Alterar |
+| Publicado em |Título do tópico | Alterar. |
 |------|------------|--------|
 | 7/1/2019 | [Alterar a palavra-passe](/AlchemyInsights/change-your-password-in-outlook.com) | adicionado |
 | 7/1/2019 | [Alterar as permissões numa caixa de correio](/AlchemyInsights/changing-permissions-on-a-mailbox) | adicionado |
@@ -218,7 +218,7 @@ ms.locfileid: "29383417"
 | 1/10/2019 | [Adicionar ou remover um alias de correio electrónico para um utilizador](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | adicionado |
 | 1/10/2019 | [Adicionar uma subscrição pré-paga bancos](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | adicionado |
 | 1/10/2019 | [Adicionar uma subscrição pré-paga bancos](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | adicionado |
-| 1/10/2019 | [Adicionar utilizadores ao Office 365](/AlchemyInsights/add-users-to-office-365) | adicionado |
+| 1/10/2019 | Adicionar utilizadores ao Office 365 | adicionado |
 | 1/10/2019 | [Adicionar utilizadores externos a um grupo de distribuição?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | adicionado |
 | 1/10/2019 | [Adicionar utilizadores externos](/AlchemyInsights/adding-external-users) | adicionado |
 | 1/10/2019 | [Federação ADFS certificado expirar](/AlchemyInsights/adfs-federation-certificate-expiring) | adicionado |
@@ -272,7 +272,7 @@ ms.locfileid: "29383417"
 | 1/10/2019 | [Alterar o nome de domínio no SharePoint Online](/AlchemyInsights/change-domain-name-in-sharepoint-online) | adicionado |
 | 1/10/2019 | [Alterar a frequência de pagar](/AlchemyInsights/change-how-often-you-pay) | adicionado |
 | 1/10/2019 | [Alterar a autoridade do MDM](/AlchemyInsights/change-mdm-authority) | adicionado |
-| 1/10/2019 | [Alterar NameServers](/AlchemyInsights/change-nameservers) | adicionado |
+| 1/10/2019 | Change nameservers | adicionado |
 | 1/10/2019 | [Alterar OneDrive de quota de armazenamento de negócio](/AlchemyInsights/change-onedrive-for-business-storage-quota) | adicionado |
 | 1/10/2019 | [Alterar método de pagamento](/AlchemyInsights/change-payment-method) | adicionado |
 | 1/10/2019 | [Alterar permissões para uma lista do SharePoint ou biblioteca](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | adicionado |
@@ -515,7 +515,7 @@ ms.locfileid: "29383417"
 | 11/1/2019 | [Adicionar ou remover um alias de correio electrónico para um utilizador](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | modificado |
 | 11/1/2019 | [Adicionar uma subscrição pré-paga bancos](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | modificado |
 | 11/1/2019 | [Adicionar uma subscrição pré-paga bancos](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | modificado |
-| 11/1/2019 | [Adicionar utilizadores ao Office 365](/AlchemyInsights/add-users-to-office-365) | modificado |
+| 11/1/2019 | Adicionar utilizadores ao Office 365 | modificado |
 | 11/1/2019 | [Adicionar utilizadores externos a um grupo de distribuição?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | modificado |
 | 11/1/2019 | [Adicionar utilizadores externos](/AlchemyInsights/adding-external-users) | modificado |
 | 11/1/2019 | [Federação ADFS certificado expirar](/AlchemyInsights/adfs-federation-certificate-expiring) | modificado |
@@ -569,7 +569,7 @@ ms.locfileid: "29383417"
 | 11/1/2019 | [Alterar o nome de domínio no SharePoint Online](/AlchemyInsights/change-domain-name-in-sharepoint-online) | modificado |
 | 11/1/2019 | [Alterar a frequência de pagar](/AlchemyInsights/change-how-often-you-pay) | modificado |
 | 11/1/2019 | [Alterar a autoridade do MDM](/AlchemyInsights/change-mdm-authority) | modificado |
-| 11/1/2019 | [Alterar NameServers](/AlchemyInsights/change-nameservers) | modificado |
+| 11/1/2019 | Change nameservers | modificado |
 | 11/1/2019 | [Alterar OneDrive de quota de armazenamento de negócio](/AlchemyInsights/change-onedrive-for-business-storage-quota) | modificado |
 | 11/1/2019 | [Alterar método de pagamento](/AlchemyInsights/change-payment-method) | modificado |
 | 11/1/2019 | [Alterar permissões para uma lista do SharePoint ou biblioteca](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | modificado |
@@ -637,7 +637,7 @@ ms.locfileid: "29383417"
 ## <a name="week-of-january-14-2019"></a>Semana de 14 de Janeiro de 2019
 
 
-| Publicado em |Título do tópico | Alterar |
+| Publicado em |Título do tópico | Alterar. |
 |------|------------|--------|
 | 14/1/2019 | Marcador de posição de Alquimia | removido |
 | 14/1/2019 | Adicionar Alquimia de domínio | removido |

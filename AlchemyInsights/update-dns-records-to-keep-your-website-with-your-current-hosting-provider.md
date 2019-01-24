@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
 ms.openlocfilehash: 58b9b6d4d5de9b9863bf9c2ab0b55e50ca074e45
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28305190"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29484298"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Atualizar os registos DNS para manter o seu Web site junto do seu fornecedor de alojamento atual
 

@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
 ms.openlocfilehash: 506287d5ecc7a725d490b3cdc32c3ab45373ffba
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28305201"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29483726"
 ---
 Quando uma caixa de correio do arquivo está activada, pode utilizar a **detecção de procura de dados electrónicos e à exportação** para detectar conteúdo na caixa de correio primário e de arquivo. Para obter informações sobre como utilizar a **detecção de dados electrónicos exportar de procura** para localizar esse conteúdo, siga os passos descritos [aqui](https://docs.microsoft.com/en-us/office365/securitycompliance/export-search-results).
   

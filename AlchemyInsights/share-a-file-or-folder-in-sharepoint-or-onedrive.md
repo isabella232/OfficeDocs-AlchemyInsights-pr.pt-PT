@@ -9,31 +9,31 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
 ms.openlocfilehash: a7bcfa9ea64d11032fdd738484a16810c965c96e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28305223"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29483881"
 ---
-# <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a><span data-ttu-id="a3997-102">Partilhar um ficheiro ou pasta no SharePoint ou OneDrive</span><span class="sxs-lookup"><span data-stu-id="a3997-102">Share a file or folder in SharePoint or OneDrive</span></span>
+# <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a><span data-ttu-id="676f9-102">Partilhar um ficheiro ou pasta no SharePoint ou OneDrive</span><span class="sxs-lookup"><span data-stu-id="676f9-102">Share a file or folder in SharePoint or OneDrive</span></span>
 
-1. <span data-ttu-id="a3997-103">Abra um browser e vá para o ficheiro ou pasta que pretende partilhar, seleccione-o e, em seguida, seleccione a **partilhar**.</span><span class="sxs-lookup"><span data-stu-id="a3997-103">Open a browser and go to the file or folder you want to share, select it, and then select **Share**.</span></span> 
+1. <span data-ttu-id="676f9-103">Abra um browser e vá para o ficheiro ou pasta que pretende partilhar, seleccione-o e, em seguida, seleccione a **partilhar**.</span><span class="sxs-lookup"><span data-stu-id="676f9-103">Open a browser and go to the file or folder you want to share, select it, and then select **Share**.</span></span> 
     
-2. <span data-ttu-id="a3997-104">(Opcional) Se o tipo de ligação não for aquele que pretende, clique na seta para baixo para seleccionar um tipo diferente:</span><span class="sxs-lookup"><span data-stu-id="a3997-104">(Optional) If the link type isn't the one you want, click the down arrow to select a different type:</span></span>
+2. <span data-ttu-id="676f9-104">(Opcional) Se o tipo de ligação não for aquele que pretende, clique na seta para baixo para seleccionar um tipo diferente:</span><span class="sxs-lookup"><span data-stu-id="676f9-104">(Optional) If the link type isn't the one you want, click the down arrow to select a different type:</span></span>
     
-  - <span data-ttu-id="a3997-p101">**Qualquer pessoa que** concede acesso a qualquer pessoa que recebe esta hiperligação se recebê-lo directamente a partir, ou reencaminhado a partir de outra pessoa. Isto pode incluir pessoas fora da organização.</span><span class="sxs-lookup"><span data-stu-id="a3997-p101">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.</span></span> 
+  - <span data-ttu-id="676f9-p101">**Qualquer pessoa que** concede acesso a qualquer pessoa que recebe esta hiperligação se recebê-lo directamente a partir, ou reencaminhado a partir de outra pessoa. Isto pode incluir pessoas fora da organização.</span><span class="sxs-lookup"><span data-stu-id="676f9-p101">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.</span></span> 
     
-  - <span data-ttu-id="a3997-107">\*\*As pessoas em \<o organização\> \*\* dá-todos os utilizadores no access a organização para a ligação, se recebem diretamente a si ou reencaminhado a partir de outra pessoa.</span><span class="sxs-lookup"><span data-stu-id="a3997-107">**People in \<Your Organization\>** gives everyone in your organization access to the link, whether they receive it directly from you or forwarded from someone else.</span></span> 
+  - <span data-ttu-id="676f9-107">\*\*As pessoas em \<o organização\> \*\* dá-todos os utilizadores no access a organização para a ligação, se recebem diretamente a si ou reencaminhado a partir de outra pessoa.</span><span class="sxs-lookup"><span data-stu-id="676f9-107">**People in \<Your Organization\>** gives everyone in your organization access to the link, whether they receive it directly from you or forwarded from someone else.</span></span> 
     
-  - <span data-ttu-id="a3997-p102">Permite que **utilizadores específicos** acesso apenas às pessoas Especifica, apesar de outras pessoas podem já ter acesso. Se as pessoas reencaminhar o convite de partilha, apenas as pessoas que já têm acesso ao item será possível utilizar a ligação.</span><span class="sxs-lookup"><span data-stu-id="a3997-p102">**Specific people** gives access only to the people you specify, although other people may already have access. If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
+  - <span data-ttu-id="676f9-p102">Permite que **utilizadores específicos** acesso apenas às pessoas Especifica, apesar de outras pessoas podem já ter acesso. Se as pessoas reencaminhar o convite de partilha, apenas as pessoas que já têm acesso ao item será possível utilizar a ligação.</span><span class="sxs-lookup"><span data-stu-id="676f9-p102">**Specific people** gives access only to the people you specify, although other people may already have access. If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
     
     > [!NOTE]
-    > <span data-ttu-id="a3997-p103">Se uma destas opções não estiver disponível, ou se pretender que um tipo de ligação diferente apareça por predefinição, pode alterar as definições de toda a organização vai para o Centro de administração do SharePoint clássico e clicando em **partilhar** no painel da esquerda. [Mais informações](https://go.microsoft.com/fwlink/?linkid=866426)</span><span class="sxs-lookup"><span data-stu-id="a3997-p103">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the classic SharePoint admin center and clicking **sharing** in the left pane. [Learn more](https://go.microsoft.com/fwlink/?linkid=866426)</span></span>
+    > <span data-ttu-id="676f9-p103">Se uma destas opções não estiver disponível, ou se pretender que um tipo de ligação diferente apareça por predefinição, pode alterar as definições de toda a organização vai para o Centro de administração do SharePoint clássico e clicando em **partilhar** no painel da esquerda. [Mais informações](https://go.microsoft.com/fwlink/?linkid=866426)</span><span class="sxs-lookup"><span data-stu-id="676f9-p103">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the classic SharePoint admin center and clicking **sharing** in the left pane. [Learn more](https://go.microsoft.com/fwlink/?linkid=866426)</span></span>
   
-3. <span data-ttu-id="a3997-p104">Por predefinição, a **Permitir a edição** está activada. Se pretende que as pessoas para ver apenas os ficheiros, desmarque a caixa de verificação.</span><span class="sxs-lookup"><span data-stu-id="a3997-p104">By default, **Allow editing** is turned on. If you want people to only view your files, clear the check box.</span></span> 
+3. <span data-ttu-id="676f9-p104">Por predefinição, a **Permitir a edição** está activada. Se pretende que as pessoas para ver apenas os ficheiros, desmarque a caixa de verificação.</span><span class="sxs-lookup"><span data-stu-id="676f9-p104">By default, **Allow editing** is turned on. If you want people to only view your files, clear the check box.</span></span> 
     
-4. <span data-ttu-id="a3997-114">Introduza os nomes das pessoas que pretende partilhar com e uma mensagem, se desejar.</span><span class="sxs-lookup"><span data-stu-id="a3997-114">Enter the names of the people you want to share with and a message, if you want.</span></span>
+4. <span data-ttu-id="676f9-114">Introduza os nomes das pessoas que pretende partilhar com e uma mensagem, se desejar.</span><span class="sxs-lookup"><span data-stu-id="676f9-114">Enter the names of the people you want to share with and a message, if you want.</span></span>
     
-5. <span data-ttu-id="a3997-115">Clique em **Enviar**.</span><span class="sxs-lookup"><span data-stu-id="a3997-115">Click **Send**.</span></span> 
+5. <span data-ttu-id="676f9-115">Clique em **Enviar**.</span><span class="sxs-lookup"><span data-stu-id="676f9-115">Click **Send**.</span></span> 
     
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
 ms.openlocfilehash: c3c078f8fb058a409e0fe4aa427f86e328ae4ce7
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28305617"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29484590"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Está à procura de comprar uma nova subscrição?
 
@@ -36,7 +36,7 @@ Se já tiver o Office 365 para a subscrição de negócio e que pretende adquiri
   
 - [Atribuir licenças a utilizadores no Office 365 para empresas](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [Cancelar Office 365 para a empresa](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Cancelar o Office 365 para empresas](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
 - Se estiver interessado em subscrições de comutação, consulte [Mudar para uma diferente Office 365 para o plano de negócios.](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)
     

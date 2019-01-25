@@ -1,5 +1,5 @@
 ---
-title: Expandir a versão de avaliação do Office 365 para a empresa
+title: Expandir a sua versão de avaliação do Office 365 para empresas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
 ms.openlocfilehash: c325ca115037831d220d9dd5a7b092ab74aee593
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28305195"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29483778"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Expandir a versão de avaliação do Office 365 para a empresa
+# <a name="extend-your-trial-for-office-365-for-business"></a>Expandir a sua versão de avaliação do Office 365 para empresas
 
 Se a subscrição de avaliação no prazo de 15 dias de expirar e a versão de avaliação ainda não foi expandido antes, pode expandir a apresentação para outro período de 30 dias. Só pode fazê-desta vez.
   

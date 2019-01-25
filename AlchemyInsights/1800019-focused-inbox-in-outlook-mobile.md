@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
 ms.openlocfilehash: 3a236072479b58b729f7a3cd752cae32e6b9728b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28305166"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29484081"
 ---
 # <a name="focused-inbox-for-outlook-mobile"></a>Centrar-se a pasta a receber do Outlook mobile
 

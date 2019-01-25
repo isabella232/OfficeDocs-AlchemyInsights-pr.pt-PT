@@ -13,11 +13,11 @@ ms.custom: Adm_O365
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
 description: Poderá ver este erro se o software antivírus, firewall, definições de proxy ou ligação impedirem a instalação do Office. Eis algumas coisas que pode tentar corrigir o problema.
 ms.openlocfilehash: 14ccd27264f357af9cd735bfceebb0bddca19eaf
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28306110"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29484162"
 ---
 Poderá ver este erro se o software antivírus, firewall, definições de proxy ou ligação impedirem a instalação do Office. Eis algumas coisas que pode tentar corrigir o problema.
   

@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.assetid: 153af363-624c-4985-84e1-92e75def8fd8
 description: 'Inicie o seu artigo com uma introdução muito curta (1 frase). Ponha-se no local do leitor: razão pela qual são aqui? O que fazer?'
 ms.openlocfilehash: 848bd6e338a9d811b36093509ed80f98d6062d83
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28305981"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29484307"
 ---
 Inicie o seu artigo com uma introdução muito curta (1 frase). Ponha-se no local do leitor: razão pela qual são aqui? O que fazer? 
   

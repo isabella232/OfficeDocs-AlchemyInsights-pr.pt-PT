@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
 ms.openlocfilehash: c8037f4ab43b37f7340b3d7fa315ba1296adf5d2
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28305498"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29483866"
 ---
 # <a name="focused-inbox-in-outlook"></a>Pasta a receber centrada no Outlook
 
@@ -22,7 +22,7 @@ Focused ' a receber ' separa a pasta a receber em dois separadores, Focused e ou
   
 [Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | [Outlook na web](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [de 2016 Outlook para Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409) | [Mail for Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
   
-Obtenha mais informações:
+Mais informações
   
 - [Ver direccionadas para a pasta a receber em acção](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
     

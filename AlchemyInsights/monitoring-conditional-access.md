@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 06307b57475e8828e6d4e5e01625d5100576f12b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f4153f8a87a138d548c133142b0d48a319bd4b71
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29483617"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656578"
 ---
 # <a name="monitoring-conditional-access"></a>Controlo de acesso condicional
 
@@ -35,6 +35,6 @@ Os utilizadores visados com acesso condicional irão receber uma notificação p
     
 4. Para direccionar uma determinada política a alguém, tem de adicioná-los à lista de **inclusão** . Para assegurar que uma pessoa for omitida da política, adicioná-los à lista de **exclusão** . 
     
-Ler mais: [como dispositivos de Monitor de acesso condicional](https://docs.microsoft.com/en-us/intune/conditional-access-exchange-monitor)
+Ler mais: [como dispositivos de Monitor de acesso condicional](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 

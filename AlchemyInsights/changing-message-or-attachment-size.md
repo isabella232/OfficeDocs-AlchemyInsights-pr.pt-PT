@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: e6527fff1ff5937f20ba15bd5e191b02bcd12715
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 404891638a59c0adbb7f23f1e0d334fe9a9d9ccb
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29483736"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660646"
 ---
 # <a name="changing-message-or-attachment-size"></a>Alterar o tamanho da mensagem ou anexo
 
@@ -21,8 +21,8 @@ Como administrador do Office 365, pode alterar o tamanho máximo / mínimo de me
   
 - Para alterar o tamanho da mensagem para um utilizador específico, vá para **centros de Admin** \> **Exchange** \> **destinatários** \> **caixas de correio**. Seleccione a caixa de correio do utilizador. Clique no ícone de edição, em seguida, em **Restrições de tamanho de mensagem**, escolha **visualizar detalhes** e especifique o novo tamanho máximo da mensagem. 
     
-- Para obter informações sobre como alterar esta definição para todas as caixas de correio, consulte [Este artigo](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- Para obter informações sobre como alterar esta definição para todas as caixas de correio, consulte [Este artigo](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
     
-- Para mais informações acerca de limites máximos utilizando o Outlook ou Outlook na web, consulte [Este artigo](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx#MessageLimits). Outlook Mobile tem um limite máximo de 25MB. Para obter o Outlook iOS e Android suporte, [clique aqui](https://support.office.com/en-us/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).
+- Para mais informações acerca de limites máximos utilizando o Outlook ou Outlook na web, consulte [Este artigo](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). Outlook Mobile tem um limite máximo de 25MB. Para obter o Outlook iOS e Android suporte, [clique aqui](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).
     
 

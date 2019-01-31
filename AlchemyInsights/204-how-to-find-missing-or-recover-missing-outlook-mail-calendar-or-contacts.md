@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: f26d72af2eb985b2781209f38de37c24e30bfa7e
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: a03d07cd43664c2b01ee231033c46178269746e3
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29483982"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661330"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Como localizar e recuperar mensagens em falta, contactos ou itens de calendário do Outlook
 
 - Pode utilizar o [Estou a ter problemas a enviar, receber ou localizar a ferramenta de mensagens de correio electrónico](https://aka.ms/SaRA-OutlookSendReceive) no computador afectado. Esta ferramenta irá verificar a existência de um número de problemas e sugere possíveis soluções. 
     
-- [Determinar se a conta for comprometida](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Se comprometida, siga os passos no [responder a uma conta de correio electrónico comprometido no Office 365.](https://docs.microsoft.com/en-us/office365/enterprise/responding-to-a-compromised-email-account)
+- [Determinar se a conta for comprometida](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Se comprometida, siga os passos no [responder a uma conta de correio electrónico comprometido no Office 365.](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account)
     
 - [Localizar a mensagem ou um item utilizando a pesquisa instantânea](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
     

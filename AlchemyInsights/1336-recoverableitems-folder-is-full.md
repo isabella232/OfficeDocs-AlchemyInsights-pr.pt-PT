@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: ee96abfa179c36ebaf43dbd327d4608b849395d3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b8b3e5389778b3aff0fbe2f6506ba2b2fc3abc7e
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29484068"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655678"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>A pasta de itens recuperável está cheia
 
@@ -36,7 +36,7 @@ Para caixas de correio que não estão em espera, admins pode utilizar o `Search
     
 - [Caixa de correio de procura](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
     
-Para caixas de correio que estão em espera, admins devem remover o antes de poderem itens eliminados da pasta itens recuperável. Para mais informações, consulte [Eliminar itens em itens recuperável mantenha pasta baseada na nuvem caixas de correio](https://docs.microsoft.com/en-us/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Para caixas de correio que estão em espera, admins devem remover o antes de poderem itens eliminados da pasta itens recuperável. Para mais informações, consulte [Eliminar itens em itens recuperável mantenha pasta baseada na nuvem caixas de correio](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
   
 Para ajudar a evitar que a pasta itens recuperável se torne completo, admins pode aumentar o limite de armazenamento dos itens recuperável mantenha a tecla de pasta para caixas de correio e configurar uma política de retenção de caixa de correio que move itens da pasta itens recuperável para arquivo do utilizador caixa de correio. Consulte a [aumentar os itens recuperável mantenha de quota para caixas de correio](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
   

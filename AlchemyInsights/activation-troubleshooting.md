@@ -2,44 +2,28 @@
 title: Resolução de problemas de activação
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: 'Inicie o seu artigo com uma introdução muito curta (1 frase). Ponha-se no local do leitor: razão pela qual são aqui? O que fazer?'
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498277"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646970"
 ---
-Inicie o seu artigo com uma introdução muito curta (1 frase). Ponha-se no local do leitor: razão pela qual são aqui? O que fazer? 
-  
-1. Obter directamente para rapidamente uma lista de passos para concluir a tarefa.
-    
-    Se é necessário explicar um conceito, ou que têm de efectuar passos previamente requeridos, adicione um resumo rápido abaixo do salto sempre que necessário e [ligação](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) para o conceito ou passos. 
-    
-2. Manter procedimentos curtos - passos, de preferência, 5 ou menos, não superior a 8.
-    
-3. Utilizar o **estilo da IU** para elementos da interface de utilizador ou para o texto necessitam introduzir as pessoas. 
-    
-4. Utilizar os verbos de escolha, seleccione, ou introduza como acções e formatar menus como **Menu** \> **comando**.
-    
-5. Opcionalmente, adicione uma imagem de ecrã para o contexto (se UI é difícil localizar ou necessário para concluir a tarefa).
-    
-    Largura máxima: 520 pixels. Utilizar um tema padrão, não mostrar todas as informações pessoais e de recorte para mostrar apenas o que é relevante. 
-    
-    ![Marcador de posição - largura máxima de ClipArt de artigo SOC é 520 pixels](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-Se pretender adicionar um vídeo ou de captura de ecrã, utilize uma grelha de duas colunas e os passos no lado esquerdo e o vídeo ou de captura de ecrã à direita - consulte [os passos e um exemplo de grelha de vídeo](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx). 
-  
-Não superior a 500 palavras de um artigo de destino.
-  
-# <a name="example-article"></a>Artigo de exemplo
+# <a name="activation-troubleshooting"></a>Resolução de problemas de activação
 
-[Alterar as minhas fotografias](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+No **Painel de controlo** \> de **programas e funcionalidades**, procura do Office. Deverá ver o Microsoft Office 365 ProPlus ou empresarial do Microsoft Office 365. Se vir mais do que uma versão do Office listado, desinstale a versão que não estiver a utilizar. 
   
-
+Se não conseguir desinstalar com êxito utilizando o painel de controlo, utilize o [Assistente de recuperação e suporte](https://aka.ms/SARA-OfficeUninstall-Alchemy) para desinstalar a versão que não está a utilizar. 
+  
+Se ainda não licenciada Office, volte ao **Painel de controlo** \> **programas e funcionalidades**. A restante instalação do Office com o botão direito, seleccione **Modificar** (ou alterar) e, em seguida, seleccione **Reparar Online**. A reparação online poderá demorar algum tempo. Em seguida, reiniciar o Office e inicie sessão utilizando o seu trabalho ou escola conta, se lhe for pedido.
+  
+Se ainda não licenciada Office, transfira e execute a [resolução de problemas de activação](https://aka.ms/SARA-OfficeActivation-Alchemy) no computador afectado para corrigir os problemas de activação. 
+  
+Para mais informações, consulte: [produto não licenciado e erros de activação do Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

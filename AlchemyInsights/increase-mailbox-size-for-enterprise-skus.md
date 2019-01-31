@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: bf1843d007da336520c47d3a6782fb43d280bcb3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 62876e70201a5df147d1720303d53c951b205058
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29483791"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661942"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>O que fazer se o tamanho da caixa de correio já está a ser 100GB
 
@@ -32,6 +32,6 @@ Para activar o arquivo de correio electrónico:
     
 4. Após alguns minutos, uma nova pasta aparecerá no Outlook do utilizador na web chamado *Arquivo no local* ou na aplicação do Outlook denominado *arquivo Online - \<nome\> * . O utilizador pode arrastar e largar a mensagem de correio electrónico para o arquivo. 
     
-Pode aceder a uma quantidade ilimitada de armazenamento para o arquivo. Para obter mais informações, consulte [Activar o arquivo ilimitado](https://support.office.com/en-us/article/enable-unlimited-archiving-in-office-365-admin-help-e2a789f2-9962-4960-9fd4-a00aa063559e).
+Pode aceder a uma quantidade ilimitada de armazenamento para o arquivo. Para obter mais informações, consulte [Activar o arquivo ilimitado](https://support.office.com/article/enable-unlimited-archiving-in-office-365-admin-help-e2a789f2-9962-4960-9fd4-a00aa063559e).
   
 

@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 4f05d1e94e7b44ccf2034c2d01e4e4c9216e94bd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 99ce258f5d3b18db1df3cad492f24ca75a23e93a
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29484602"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660898"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Planos de parâmetro aumentar o tamanho da caixa de correio
 
-Se o tamanho da caixa de correio é de 50 GB, pode aumentar o tamanho da caixa de correio para 100 GB mudando para a [E3 de empresa do Office 365](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software) ou [E5 de empresa do Office 365](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software). Eis os passos para mudar para um plano diferente do Office 365:
+Se o tamanho da caixa de correio é de 50 GB, pode aumentar o tamanho da caixa de correio para 100 GB mudando para a [E3 de empresa do Office 365](https://products.office.com/business/office-365-enterprise-e3-business-software) ou [E5 de empresa do Office 365](https://products.office.com/business/office-365-enterprise-e5-business-software). Eis os passos para mudar para um plano diferente do Office 365:
   
 1. No Centro de administração de Office 365, vá para a página de [subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) ou escolha **Facturação** \> **subscrições**.
     

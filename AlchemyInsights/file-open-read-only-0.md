@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a828f8d-ff31-40a7-b701-b2339e771817
-ms.openlocfilehash: cbc3a97debc70ce7be02f651253c71651bbb2643
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ed1db79b7c0aef53c7ded1a8d2119fd326a84832
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29484538"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661258"
 ---
 # <a name="file-open-read-only"></a>Ficheiro aberto como só de leitura
 
@@ -30,7 +30,7 @@ Pode verificar as propriedades de ficheiro clicando no ficheiro e escolha Propri
   
  **O conteúdo está na vista protegida**
   
-Ficheiros da Internet e de outras localizações potencialmente não seguras podem conter vírus, worms ou outros tipos de malware que podem danificar o computador. Isto também é normalmente o caso com anexos de correio electrónico ou ficheiros que transferiu. Para ajudar a proteger o computador, os ficheiros a partir destas localizações potencialmente não seguras são abertos na vista protegida. Utilizando a vista protegida, pode ler um ficheiro e ver o seu conteúdo reduzindo os riscos. Para mais informações sobre vista protegido e como alterar as definições, consulte este artigo: [o que é a vista protegida?](https://support.office.com/en-us/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Ficheiros da Internet e de outras localizações potencialmente não seguras podem conter vírus, worms ou outros tipos de malware que podem danificar o computador. Isto também é normalmente o caso com anexos de correio electrónico ou ficheiros que transferiu. Para ajudar a proteger o computador, os ficheiros a partir destas localizações potencialmente não seguras são abertos na vista protegida. Utilizando a vista protegida, pode ler um ficheiro e ver o seu conteúdo reduzindo os riscos. Para mais informações sobre vista protegido e como alterar as definições, consulte este artigo: [o que é a vista protegida?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **OneDrive está cheio?**
   
@@ -38,7 +38,7 @@ Se o ficheiro está armazenado em OneDrive e o espaço de armazenamento OneDrive
   
  **Office está activado?**
   
-Se o Office não está activada, ou se a sua subscrição expirou, poderia ser no modo só de leitura os modo de funcionalidade reduzida. Para obter informações sobre como activar o Office, consulte: [produto não licenciado e erros de activação do Office](https://support.office.com/en-us/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Se o Office não está activada, ou se a sua subscrição expirou, poderia ser no modo só de leitura os modo de funcionalidade reduzida. Para obter informações sobre como activar o Office, consulte: [produto não licenciado e erros de activação do Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Se tudo o resto falhar...**
   

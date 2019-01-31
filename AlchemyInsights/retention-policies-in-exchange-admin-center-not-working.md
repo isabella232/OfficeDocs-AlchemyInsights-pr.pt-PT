@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 0ceb1737040f0304bfe8b611241ce1deef487652
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6c69511f6bcdad5793cd2473a20a2d168d2ac260
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29484371"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660718"
 ---
  **Problema:** Recentemente criados ou políticas de retenção actualizado no Centro de administração do Exchange não estão a aplicar às caixas de correio ou itens não são movidos para a caixa de correio do arquivo ou eliminadas. 
   
  **Causas raiz:**
   
-- Isto pode ser porque o **Assistente da pasta gerida** não processou caixa de correio do utilizador. O Managed Assistente da pasta tenta processar cada caixa de correio na sua organização baseada na nuvem em sete dias. Se alterar um código de retenção ou aplicar uma política de retenção diferente a uma caixa de correio, pode esperar até que a pasta Assist geridos processa a caixa de correio ou pode executar o cmdlet Start-ManagedFolderAssistant para iniciar o Managed Assistente da pasta para processar um específico caixa de correio. Executar este cmdlet é útil para testar ou resolver problemas de definições de etiqueta de retenção ou de uma política de retenção. Para mais informações, visite a [executar o Managed Assistente da pasta](https://msdn.microsoft.com/en-us/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
+- Isto pode ser porque o **Assistente da pasta gerida** não processou caixa de correio do utilizador. O Managed Assistente da pasta tenta processar cada caixa de correio na sua organização baseada na nuvem em sete dias. Se alterar um código de retenção ou aplicar uma política de retenção diferente a uma caixa de correio, pode esperar até que a pasta Assist geridos processa a caixa de correio ou pode executar o cmdlet Start-ManagedFolderAssistant para iniciar o Managed Assistente da pasta para processar um específico caixa de correio. Executar este cmdlet é útil para testar ou resolver problemas de definições de etiqueta de retenção ou de uma política de retenção. Para mais informações, visite a [executar o Managed Assistente da pasta](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
   - **Solução:** Execute o seguinte comando para iniciar o Managed Assistente da pasta para uma caixa de correio específica: 
     
@@ -28,11 +28,11 @@ ms.locfileid: "29484371"
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- Isto também pode ser ocorrer se **RetentionHold** tiver sido **activada** a caixa de correio. Se a caixa de correio tiver sido colocada sobre uma RetentionHold, a política de retenção sobre a caixa de correio não será processada durante esse período. Para mais informações sobre sobre consulte de definição RetentionHold: [Mantenha de retenção de caixa de correio](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
+- Isto também pode ser ocorrer se **RetentionHold** tiver sido **activada** a caixa de correio. Se a caixa de correio tiver sido colocada sobre uma RetentionHold, a política de retenção sobre a caixa de correio não será processada durante esse período. Para mais informações sobre sobre consulte de definição RetentionHold: [Mantenha de retenção de caixa de correio](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
-    Solution
+    **Solução:**
     
-  - Verifique o estado da definição da caixa de correio específica no [EXO powershell](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)RetentionHold:
+  - Verifique o estado da definição da caixa de correio específica no [EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)RetentionHold:
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*

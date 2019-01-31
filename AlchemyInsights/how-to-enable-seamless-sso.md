@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: 9ee9fe3a5cb9f1c40a1141a9abe241c4f7fdc360
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: abadf8e1fdba18a4c31f349498bc2abb75d66a43
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29484466"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661150"
 ---
 # <a name="how-to-enable-seamless-sso"></a>Como activar SSO sem costura
 
-Active SSO simplificada através de [Azure AD ligar](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect).
+Active SSO simplificada através de [Azure AD ligar](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-Se estiver a efectuar uma instalação nova do Azure AD ligar, seleccione o [caminho de instalação personalizada](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Na página de **início de sessão de utilizador** , seleccione a opção de **Activar o início de sessão único** . 
+Se estiver a efectuar uma instalação nova do Azure AD ligar, seleccione o [caminho de instalação personalizada](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Na página de **início de sessão de utilizador** , seleccione a opção de **Activar o início de sessão único** . 
   
 Para verificar que activou SSO sem costura correctamente:
   
@@ -32,6 +32,6 @@ Para verificar que activou SSO sem costura correctamente:
     
 3. Certifique-se de que sem costura de sessão único está **activado**.
     
-Para obter mais informações, consulte [Azure Active Directory sem costura Single Sign-On: início rápido](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+Para obter mais informações, consulte [Azure Active Directory sem costura Single Sign-On: início rápido](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   
 

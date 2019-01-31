@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: a4c99f544a7046ef19d1ab047792f3f7fdce13f7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b6246bdf76865be65f61fc820b975b76b62d62f8
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29483767"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655498"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Cancelar a sua subscrição do Office 365?
 
@@ -26,6 +26,6 @@ Com base nos dados da organização, acreditamos que todas as subscrições actu
   
 Em alternativa, utilize a opção "diga-nos chamada" falar com um engenheiro de suporte.
   
-Para mais informações sobre como cancelar uma subscrição ou para obter instruções passo a passo, consulte este artigo: [Cancelar Office 365 para a empresa](https://support.office.com/en-us/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+Para mais informações sobre como cancelar uma subscrição ou para obter instruções passo a passo, consulte este artigo: [Cancelar Office 365 para a empresa](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
   
 

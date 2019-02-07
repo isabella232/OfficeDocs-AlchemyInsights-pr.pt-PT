@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
-ms.openlocfilehash: 7060d993bb216352140d00c9d6de4a8c6dbc3804
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 895e1914954f7d7758dfae53c5be92f4bfbcd1d1
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29483794"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29756987"
 ---
 # <a name="add-or-remove-an-email-address-for-a-user"></a>Adicionar ou remover um endereço de correio electrónico para um utilizador
 
-- [Clique aqui para começar a trabalhar ](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions).
+[Clique aqui para começar a trabalhar](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions).
     
  **Nota**: pode ter mais do que um endereço de correio electrónico para um utilizador, mas adicionais *aliases de correio electrónico* só pode ser utilizado para a recepção de correio electrónico. Se necessitar de enviar correio electrónico com um alias, crie uma [caixa de correio partilhada](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9). Desta forma obterá o alias para enviar e receber correio. 
   

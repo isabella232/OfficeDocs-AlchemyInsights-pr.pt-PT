@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: 5722f7b6c9a2f905fed2ef4164787e020260edf7
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: ec7f11676982b56a46c83bf276c2212ce765ba6f
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29656434"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786709"
 ---
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>Problemas com DLP - e.u.a. / números de Passport do Reino Unido
+
 Está a ter problemas com o **Data Loss Prevention (DLP)** não funcionar para que contenha conteúdo uma **dos e.u.a. / número do passaporte UK** quando utilizar um tipo de informações sensíveis do DLP em O365? Nesse caso, certifique-se o conteúdo contém as informações necessárias para que a política do DLP está à procura quando é avaliado. 
   
 Por exemplo, para um **dos e.u.a. / número do passaporte UK** política configurada com um nível de confiança de 75%, os seguintes são avaliados e deve ser detectados para a regra accionar 

@@ -1,21 +1,21 @@
 ---
-title: Enable an Archive Mailbox
+title: Activar uma caixa de correio do arquivo
 ms.author: markjjo
 author: markjjo
 ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 1e883894d97e6aff5de740d91a80aba25846953a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d2d30d6f78c99fe11fcf77dc010e6eddf0ddb482
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29483843"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29927839"
 ---
-# <a name="enable-an-archive-mailbox"></a>Enable an Archive Mailbox
+# <a name="enable-an-archive-mailbox"></a>Activar uma caixa de correio do arquivo
 
 Caixas de correio do arquivo no Office 365 (também chamados *Arquivos Online* ) fornecem aos utilizadores o armazenamento de correio electrónico adicionais. Os utilizadores podem mover ou copiar itens para a respectiva caixa de correio do arquivo e admins, pode criar uma política de arquivo move automaticamente itens para arquivar as caixas de correio. 
   

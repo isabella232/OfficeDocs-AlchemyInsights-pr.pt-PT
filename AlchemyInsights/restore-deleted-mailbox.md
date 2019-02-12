@@ -6,7 +6,7 @@ ms.date: 9/12/2017
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 search.appverid:
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 62c85c6207b618a4be267ed3b4b65b56c48b3646
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f9529dc92637e6b6174ff3cb8d1587ab2dffd0e2
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29483867"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29927515"
 ---
-# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="99185-102">Restaurar uma caixa de correio eliminada</span><span class="sxs-lookup"><span data-stu-id="99185-102">Restore a deleted mailbox</span></span>
+# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="d6767-102">Restaurar uma caixa de correio eliminada</span><span class="sxs-lookup"><span data-stu-id="d6767-102">Restore a deleted mailbox</span></span>
 
-<span data-ttu-id="99185-103">Quando o utilizador perde a respectiva licença Exchange Online, a caixa de correio é mantida durante 30 dias e pode ser recuperada simplesmente voltar a atribuir a licença para o utilizador.</span><span class="sxs-lookup"><span data-stu-id="99185-103">When the user loses its Exchange Online license, their mailbox is retained for 30 days and can be recovered by simply re-assigning the license to the user.</span></span>
+<span data-ttu-id="d6767-103">Quando o utilizador perde a respectiva licença Exchange Online, a caixa de correio é mantida durante 30 dias e pode ser recuperada simplesmente voltar a atribuir a licença para o utilizador.</span><span class="sxs-lookup"><span data-stu-id="d6767-103">When the user loses its Exchange Online license, their mailbox is retained for 30 days and can be recovered by simply re-assigning the license to the user.</span></span>
   
- <span data-ttu-id="99185-p101">*Isto funcionará apenas dentro de 30 dias.*  No Admin Portal, vá para:</span><span class="sxs-lookup"><span data-stu-id="99185-p101">*This will work only within 30 days.*  In the Admin Portal, go to:</span></span> 
+ <span data-ttu-id="d6767-p101">*Isto funcionará apenas dentro de 30 dias.*  No Admin Portal, vá para:</span><span class="sxs-lookup"><span data-stu-id="d6767-p101">*This will work only within 30 days.*  In the Admin Portal, go to:</span></span> 
   
-1. <span data-ttu-id="99185-p102">**Utilizadores** \> Os utilizadores **activos** . Seleccione o utilizador em questão.</span><span class="sxs-lookup"><span data-stu-id="99185-p102">**Users** \> **Active** users. Select the user in question.</span></span> 
+1. <span data-ttu-id="d6767-p102">**Utilizadores** \> Os utilizadores **activos** . Seleccione o utilizador em questão.</span><span class="sxs-lookup"><span data-stu-id="d6767-p102">**Users** \> **Active** users. Select the user in question.</span></span> 
     
-2. <span data-ttu-id="99185-108">Prima **Editar** para modificar as licenças de produto</span><span class="sxs-lookup"><span data-stu-id="99185-108">Press **Edit** to modify Product licenses</span></span> 
+2. <span data-ttu-id="d6767-108">Prima **Editar** para modificar as licenças de produto</span><span class="sxs-lookup"><span data-stu-id="d6767-108">Press **Edit** to modify Product licenses</span></span> 
     
-3. <span data-ttu-id="99185-109">Atribuir a licença Exchange Online e prima **Guardar**</span><span class="sxs-lookup"><span data-stu-id="99185-109">Assign the Exchange Online license and press **Save**</span></span>
+3. <span data-ttu-id="d6767-109">Atribuir a licença Exchange Online e prima **Guardar**</span><span class="sxs-lookup"><span data-stu-id="d6767-109">Assign the Exchange Online license and press **Save**</span></span>
     
-<span data-ttu-id="99185-p103">Se está a tentar recuperar uma caixa de correio partilhada, também é recuperável durante 30 dias. Pode encontrá-las em **utilizadores** \> utilizadores **eliminado** . Caixas de correio partilhadas não requer uma licença.</span><span class="sxs-lookup"><span data-stu-id="99185-p103">If you are trying to recover a Shared mailbox, it is also recoverable for 30 days. You can find them under **Users** \> **Deleted** users. Shared mailboxes do not require a license.</span></span> 
+<span data-ttu-id="d6767-p103">Se está a tentar recuperar uma caixa de correio partilhada, também é recuperável durante 30 dias. Pode encontrá-las em **utilizadores** \> utilizadores **eliminado** . Caixas de correio partilhadas não requer uma licença.</span><span class="sxs-lookup"><span data-stu-id="d6767-p103">If you are trying to recover a Shared mailbox, it is also recoverable for 30 days. You can find them under **Users** \> **Deleted** users. Shared mailboxes do not require a license.</span></span> 
   
 

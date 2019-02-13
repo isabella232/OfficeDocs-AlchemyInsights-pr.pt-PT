@@ -6,25 +6,25 @@ ms.date: 9/6/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 9f8e385b-dd2c-4d4e-b5f0-e28a24db4d83
-ms.openlocfilehash: 5cf8511c2b7322f40aa8e911ced63980b8e800ed
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 02e13e033d695d7388c78a58baebb210a7ea8cc3
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498565"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29903647"
 ---
-# <a name="create-a-classic-site"></a><span data-ttu-id="438f2-102">Criar um site clássico</span><span class="sxs-lookup"><span data-stu-id="438f2-102">Create a classic site</span></span>
+# <a name="create-a-classic-site"></a><span data-ttu-id="ccb06-102">Criar um site clássico</span><span class="sxs-lookup"><span data-stu-id="ccb06-102">Create a classic site</span></span>
 
-- <span data-ttu-id="438f2-103">Vá para a [página de Sites no Centro de administração do Office 365](https://portal.office.com/adminportal/home#/SitesList)e, em seguida, seleccione **Adicionar um site**.</span><span class="sxs-lookup"><span data-stu-id="438f2-103">Go to the [Sites page in the Office 365 admin center](https://portal.office.com/adminportal/home#/SitesList), and then select **Add a site**.</span></span> 
+- <span data-ttu-id="ccb06-103">Vá para a [página de Sites no Centro de administração do Office 365](https://portal.office.com/adminportal/home#/SitesList)e, em seguida, seleccione **Adicionar um site**.</span><span class="sxs-lookup"><span data-stu-id="ccb06-103">Go to the [Sites page in the Office 365 admin center](https://portal.office.com/adminportal/home#/SitesList), and then select **Add a site**.</span></span> 
     
-- <span data-ttu-id="438f2-104">No Centro de administração SharePoint clássico, na página de colecções de sites, seleccione **Nova** \> **Privada de colecção de sites**.</span><span class="sxs-lookup"><span data-stu-id="438f2-104">In the classic SharePoint admin center, on the site collections page, select **New** \> **Private Site Collection**.</span></span> 
+- <span data-ttu-id="ccb06-104">No Centro de administração SharePoint clássico, na página de colecções de sites, seleccione **Nova** \> **Privada de colecção de sites**.</span><span class="sxs-lookup"><span data-stu-id="ccb06-104">In the classic SharePoint admin center, on the site collections page, select **New** \> **Private Site Collection**.</span></span> 
     
- <span data-ttu-id="438f2-105">**Nota:** Não é possível criar um novo site que tenha o mesmo URL com um site existente.</span><span class="sxs-lookup"><span data-stu-id="438f2-105">**Note:** You cannot create a new site that has the same URL with an existing site.</span></span> 
+ <span data-ttu-id="ccb06-105">**Nota:** Não é possível criar um novo site que tenha o mesmo URL com um site existente.</span><span class="sxs-lookup"><span data-stu-id="ccb06-105">**Note:** You cannot create a new site that has the same URL with an existing site.</span></span> 
   
-<span data-ttu-id="438f2-106">Para obter mais informações sobre como criar um site clássico, consulte [criar uma colecção de sites](https://go.microsoft.com/fwlink/?linkid=866295).</span><span class="sxs-lookup"><span data-stu-id="438f2-106">For more info about creating a classic site, see [Create a site collection](https://go.microsoft.com/fwlink/?linkid=866295).</span></span>
+<span data-ttu-id="ccb06-106">Para obter mais informações sobre como criar um site clássico, consulte [criar uma colecção de sites](https://go.microsoft.com/fwlink/?linkid=866295).</span><span class="sxs-lookup"><span data-stu-id="ccb06-106">For more info about creating a classic site, see [Create a site collection](https://go.microsoft.com/fwlink/?linkid=866295).</span></span>
   
-<span data-ttu-id="438f2-107">Para informações sobre como permitir que os utilizadores criem sites próprios, consulte [Gerir a criação de sites no SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span><span class="sxs-lookup"><span data-stu-id="438f2-107">For info about allowing users to create their own sites, see [Manage site creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span></span>
+<span data-ttu-id="ccb06-107">Para informações sobre como permitir que os utilizadores criem sites próprios, consulte [Gerir a criação de sites no SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span><span class="sxs-lookup"><span data-stu-id="ccb06-107">For info about allowing users to create their own sites, see [Manage site creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span></span>
   
 

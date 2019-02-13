@@ -8,40 +8,40 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 0d50ac1aed1bd8168daa45e33b6e0bc37e95d1b7
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 1e5ff53d903a14064147621df0a883152c32eff5
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29661984"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29919667"
 ---
-# <a name="dlp-not-working-as-expected"></a><span data-ttu-id="163dd-102">DLP não funcionar conforme esperado</span><span class="sxs-lookup"><span data-stu-id="163dd-102">DLP not working as expected</span></span>
+# <a name="dlp-not-working-as-expected"></a><span data-ttu-id="7ca5f-102">DLP não funcionar conforme esperado</span><span class="sxs-lookup"><span data-stu-id="7ca5f-102">DLP not working as expected</span></span>
 
 
-<span data-ttu-id="163dd-p101">Está a ter problemas com o **Data Loss Prevention (DLP)** no Office 365 não funcionar conforme esperado? Se assim for, certifique-se de que a **política do DLP** está configurado correctamente e que os seus dados contiverem que a **política do DLP** está à procura quando este está a ser avaliada.</span><span class="sxs-lookup"><span data-stu-id="163dd-p101">Are you having problems with **Data Loss Prevention (DLP)** in Office 365 not working as expected? If so, make sure that your **DLP policy** is setup correctly, and that your data contains what the **DLP policy** is looking for when it is being evaluated.</span></span> 
+<span data-ttu-id="7ca5f-p101">Está a ter problemas com o **Data Loss Prevention (DLP)** no Office 365 não funcionar conforme esperado? Se assim for, certifique-se de que a **política do DLP** está configurado correctamente e que os seus dados contiverem que a **política do DLP** está à procura quando este está a ser avaliada.</span><span class="sxs-lookup"><span data-stu-id="7ca5f-p101">Are you having problems with **Data Loss Prevention (DLP)** in Office 365 not working as expected? If so, make sure that your **DLP policy** is setup correctly, and that your data contains what the **DLP policy** is looking for when it is being evaluated.</span></span> 
   
- <span data-ttu-id="163dd-105">**Configurar DLP:**</span><span class="sxs-lookup"><span data-stu-id="163dd-105">**Setting up DLP:**</span></span>
+ <span data-ttu-id="7ca5f-105">**Configurar DLP:**</span><span class="sxs-lookup"><span data-stu-id="7ca5f-105">**Setting up DLP:**</span></span>
   
-<span data-ttu-id="163dd-p102">Políticas do DLP permite-lhe identificar e proteger informações confidenciais na sua organização. Para configurar as políticas do DLP, utilize as informações [aqui](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).</span><span class="sxs-lookup"><span data-stu-id="163dd-p102">DLP policies allows you to identify and protect sensitive information in your organization. To setup DLP policies, use the information [here](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).</span></span>
+<span data-ttu-id="7ca5f-p102">Políticas do DLP permite-lhe identificar e proteger informações confidenciais na sua organização. Para configurar as políticas do DLP, utilize as informações [aqui](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).</span><span class="sxs-lookup"><span data-stu-id="7ca5f-p102">DLP policies allows you to identify and protect sensitive information in your organization. To setup DLP policies, use the information [here](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).</span></span>
   
- <span data-ttu-id="163dd-108">**Quais as políticas DLP procure:**</span><span class="sxs-lookup"><span data-stu-id="163dd-108">**What DLP policies look for:**</span></span>
+ <span data-ttu-id="7ca5f-108">**Quais as políticas DLP procure:**</span><span class="sxs-lookup"><span data-stu-id="7ca5f-108">**What DLP policies look for:**</span></span>
   
-<span data-ttu-id="163dd-109">Quando utilizar os **tipos de informações sensíveis incorporada** no Centro de segurança do Office 365 e conformidade, as políticas do DLP procuram padrões específicos e elementos quando detectar estes tipos sensíveis.</span><span class="sxs-lookup"><span data-stu-id="163dd-109">When using the **built-in sensitive information types** in Office 365 Security and Compliance center, DLP policies look for specific patterns and elements when detecting these sensitive types.</span></span> 
+<span data-ttu-id="7ca5f-109">Quando utilizar os **tipos de informações sensíveis incorporada** no Centro de segurança do Office 365 e conformidade, as políticas do DLP procuram padrões específicos e elementos quando detectar estes tipos sensíveis.</span><span class="sxs-lookup"><span data-stu-id="7ca5f-109">When using the **built-in sensitive information types** in Office 365 Security and Compliance center, DLP policies look for specific patterns and elements when detecting these sensitive types.</span></span> 
   
-- <span data-ttu-id="163dd-110">**Tipos de informações sensíveis incorporada:**</span><span class="sxs-lookup"><span data-stu-id="163dd-110">**Built-in Sensitive Information Types:**</span></span>
+- <span data-ttu-id="7ca5f-110">**Tipos de informações sensíveis incorporada:**</span><span class="sxs-lookup"><span data-stu-id="7ca5f-110">**Built-in Sensitive Information Types:**</span></span>
     
-    <span data-ttu-id="163dd-111">Para obter informações sobre os tipos de sensíveis incorporados e o que uma política do DLP procura quando detectar o tipo sensível, consulte: [procuram a que os tipos de informações sensíveis](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).</span><span class="sxs-lookup"><span data-stu-id="163dd-111">For information on the built-in Sensitive types and what a DLP policy looks for when detecting the Sensitive type, see: [What the sensitive information types look for](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).</span></span>
+    <span data-ttu-id="7ca5f-111">Para obter informações sobre os tipos de sensíveis incorporados e o que uma política do DLP procura quando detectar o tipo sensível, consulte: [procuram a que os tipos de informações sensíveis](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).</span><span class="sxs-lookup"><span data-stu-id="7ca5f-111">For information on the built-in Sensitive types and what a DLP policy looks for when detecting the Sensitive type, see: [What the sensitive information types look for](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).</span></span>
     
-- <span data-ttu-id="163dd-112">**Tipos de informações sensíveis personalizadas:**</span><span class="sxs-lookup"><span data-stu-id="163dd-112">**Custom Sensitive Information Types:**</span></span>
+- <span data-ttu-id="7ca5f-112">**Tipos de informações sensíveis personalizadas:**</span><span class="sxs-lookup"><span data-stu-id="7ca5f-112">**Custom Sensitive Information Types:**</span></span>
     
-    <span data-ttu-id="163dd-113">Se está a tentar criar tipos de informações sensíveis personalizadas, utilize o seguinte artigo para obter informações sobre como criar um tipo personalizado sensível: [criar um tipo de informações sensíveis personalizadas](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).</span><span class="sxs-lookup"><span data-stu-id="163dd-113">If you are trying to create custom sensitive information types, use the following article for information on how to create a custom sensitive type: [Create a custom sensitive information type](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).</span></span>
+    <span data-ttu-id="7ca5f-113">Se está a tentar criar tipos de informações sensíveis personalizadas, utilize o seguinte artigo para obter informações sobre como criar um tipo personalizado sensível: [criar um tipo de informações sensíveis personalizadas](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).</span><span class="sxs-lookup"><span data-stu-id="7ca5f-113">If you are trying to create custom sensitive information types, use the following article for information on how to create a custom sensitive type: [Create a custom sensitive information type](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).</span></span>
     
- <span data-ttu-id="163dd-114">**Relatórios:**</span><span class="sxs-lookup"><span data-stu-id="163dd-114">**Reports:**</span></span>
+ <span data-ttu-id="7ca5f-114">**Relatórios:**</span><span class="sxs-lookup"><span data-stu-id="7ca5f-114">**Reports:**</span></span>
   
-- <span data-ttu-id="163dd-115">Obter conhecimentos aprofundados de dados importantes com [relatórios do DLP.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)</span><span class="sxs-lookup"><span data-stu-id="163dd-115">Get sensitive data insights with [DLP Reports.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)</span></span>
+- <span data-ttu-id="7ca5f-115">Obter conhecimentos aprofundados de dados importantes com [relatórios do DLP.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)</span><span class="sxs-lookup"><span data-stu-id="7ca5f-115">Get sensitive data insights with [DLP Reports.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)</span></span>
     
-- <span data-ttu-id="163dd-116">Ver detalhes do evento com um [Relatório de acidente](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).</span><span class="sxs-lookup"><span data-stu-id="163dd-116">See specific details of the event with an [Incident Report](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).</span></span>
+- <span data-ttu-id="7ca5f-116">Ver detalhes do evento com um [Relatório de acidente](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).</span><span class="sxs-lookup"><span data-stu-id="7ca5f-116">See specific details of the event with an [Incident Report](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).</span></span>
     
 

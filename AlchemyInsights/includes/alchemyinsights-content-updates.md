@@ -838,3 +838,57 @@
 | 30/1/2019 | [123 obter uma conta desactivada erro no OWA?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | modificado |
 | 1/2/2019 | [mesmo que o nome de ficheiro é melhor [regra #-descrição]](/AlchemyInsights/1-alchemy-insight-template) | modificado |
 | 1/2/2019 | [Alterar as permissões numa caixa de correio](/AlchemyInsights/changing-permissions-on-a-mailbox) | modificado |
+
+
+## <a name="week-of-february-04-2019"></a>Semana de Fevereiro de 04 de Maio de 2019
+
+
+| Publicado em |Título do tópico | Alterar |
+|------|------------|--------|
+| 2/4/2019 | [Adicionar utilizadores ao Office 365](/AlchemyInsights/add-users-to-office-365) | modificado |
+| 6/2/2019 | [Empregado sair](/AlchemyInsights/employee-leaving) | modificado |
+| 6/2/2019 | [Aquisição de Admin](/AlchemyInsights/admin-takeover) | modificado |
+| 6/2/2019 | [127 obter um erro de TenantAccessBlockedException quando aceder a correio electrónico?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | modificado |
+| 6/2/2019 | [Nome a apresentar 959 alteração](/AlchemyInsights/959-change-display-name) | modificado |
+| 6/2/2019 | [Adicionar ou remover um alias de correio electrónico para um utilizador](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | modificado |
+| 6/2/2019 | Adicionar uma subscrição pré-paga bancos | removido |
+| 6/2/2019 | [Adicionar utilizadores ao Office 365](/AlchemyInsights/add-users-to-office-365) | modificado |
+| 6/2/2019 | [Adicionar utilizadores externos a um grupo de distribuição?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | modificado |
+| 6/2/2019 | Admin - o programa de configuração do Global Office 365 e administração | removido |
+| 6/2/2019 | Admin - gerir os meus utilizadores, grupos e recursos | removido |
+| 6/2/2019 | Admin - domínio o programa de configuração e as definições de DNS | removido |
+| 6/2/2019 | Admin - início de sessão e palavra-passe problemas | removido |
+| 6/2/2019 | [Cancelar a subscrição do Office 365](/AlchemyInsights/cancel-office-365-subscription) | modificado |
+| 6/2/2019 | [Alterar o endereço de nome e correio electrónico do utilizador](/AlchemyInsights/change-a-user-s-name-and-email-address) | modificado |
+| 6/2/2019 | Comércio - gerir contas a pagar, pagamentos, subscrições e licenças | removido |
+| 6/2/2019 | [Obter um erro de TenantAccessBlockedException quando aceder a correio electrónico?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | modificado |
+| 6/2/2019 | [Está a ter problemas de entrega de correio electrónico?](/AlchemyInsights/having-email-delivery-issues-0) | modificado |
+| 6/2/2019 | [Está a ter problemas de entrega de correio electrónico?](/AlchemyInsights/having-email-delivery-issues) | modificado |
+| 6/2/2019 | [Problemas de obter o Outlook para ligar?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | modificado |
+| 6/2/2019 | [Problemas de obter o Outlook para ligar?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | modificado |
+| 6/2/2019 | Intune - transferir, configurar e utilizar Intune | removido |
+| 6/2/2019 | [Problema com o Skype para a empresa?](/AlchemyInsights/issue-with-skype-for-business) | modificado |
+| 6/2/2019 | ODSP | removido |
+| 6/2/2019 | Cliente do Office - Excel | removido |
+| 6/2/2019 | [Utilizador de restaurar eliminado](/AlchemyInsights/restore-deleted-user) | modificado |
+| 6/2/2019 | [Incidentes de serviço em curso](/AlchemyInsights/service-incident-in-progress-0) | modificado |
+| 6/2/2019 | [Incidentes de serviço em curso](/AlchemyInsights/service-incident-in-progress-1) | modificado |
+| 6/2/2019 | [Incidentes de serviço em curso](/AlchemyInsights/service-incident-in-progress-2) | modificado |
+| 6/2/2019 | [Incidentes de serviço em curso](/AlchemyInsights/service-incident-in-progress-3) | modificado |
+| 6/2/2019 | [Incidentes de serviço em curso](/AlchemyInsights/service-incident-in-progress-4) | modificado |
+| 6/2/2019 | [Incidentes de serviço em curso](/AlchemyInsights/service-incident-in-progress-5) | modificado |
+| 6/2/2019 | [Incidentes de serviço em curso](/AlchemyInsights/service-incident-in-progress) | modificado |
+| 6/2/2019 | [Definição de projecto](/AlchemyInsights/setting-up-project) | modificado |
+| 6/2/2019 | Funcionalidades de configuração de conformidade como o arquivo, retenção, litígios, detecção de dados electrónicos e MDM | removido |
+| 6/2/2019 | Utilizando o programa de instalação Offline para o Office | removido |
+| 6/2/2019 | Do Yammer - programa de configuração e utilizar os serviços do Yammer | removido |
+| 2/7/2019 | [Redução da duração do Excel?](/AlchemyInsights/excel-crashing) | modificado |
+| 2/7/2019 | [Como adicionar ou editar um VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | modificado |
+| 2/7/2019 | [Livre de educação para edição de Minecraft com o Office 365](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | modificado |
+| 2/7/2019 | [606 informações sobre a delegação](/AlchemyInsights/606-information-on-delegation) | modificado |
+| 2/7/2019 | [O grupo não estiver visível na lista de grupos](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | modificado |
+| 2/8/2019 | [Sugestões de políticas do DLP não funcionar](/AlchemyInsights/dlp-policy-tips-not-working) | modificado |
+| 2/8/2019 | [Regra do DLP para e.u.a. / número do passaporte Reino Unido não funcionar](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | modificado |
+| 2/8/2019 | [Livre de educação para Office 365](/AlchemyInsights/office-365-education-for-free) | modificado |
+| 2/8/2019 | [Licenças necessárias para Microsoft ToDo](/AlchemyInsights/required-licences-for-microsoft-todo) | modificado |
+| 2/8/2019 | [Políticas de retenção no Centro de administração do Exchange não funciona](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | modificado |

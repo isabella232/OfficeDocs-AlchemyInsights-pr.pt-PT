@@ -14,12 +14,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: f9529dc92637e6b6174ff3cb8d1587ab2dffd0e2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: da3d35e5f86f2b76fe6bd25829458b1b2d1a1e9a
+ms.sourcegitcommit: c3ed7525f24f80cc6372aa3f496463500bb0c3ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927515"
+ms.lasthandoff: 02/19/2019
+ms.locfileid: "30088124"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Restaurar uma caixa de correio eliminada
 
@@ -33,6 +33,6 @@ Quando o utilizador perde a respectiva licença Exchange Online, a caixa de corr
     
 3. Atribuir a licença Exchange Online e prima **Guardar**
     
-Se está a tentar recuperar uma caixa de correio partilhada, também é recuperável durante 30 dias. Pode encontrá-las em **utilizadores** \> utilizadores **eliminado** . Caixas de correio partilhadas não requer uma licença. 
+Se está a tentar recuperar uma caixa de correio partilhada, também é recuperável durante 30 dias. Pode encontrá-las em **utilizadores** \> utilizadores **eliminados** ; caixas de correio partilhadas não requer uma licença. Se se aperceber de que necessite de restaurar um utilizador eliminado, consulte [restaurar um utilizador no Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user).
   
 

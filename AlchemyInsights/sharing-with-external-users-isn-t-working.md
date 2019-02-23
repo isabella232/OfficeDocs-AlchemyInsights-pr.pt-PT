@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 20b538846997c021b6e88596a1e8aff401ea935b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4b132a3cb0fac015ab44a1fa08565af15b7e8121
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900893"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207696"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Corrigir problemas de partilha do conteúdo do SharePoint com utilizadores externos
 
 Certifique-se de partilha externa está activada para a sua organização:
   
-1. Vá para o [Serviços de &amp; página de suplementos no Office 365 admin Centro](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)e clique em **Sites**.
+1. Vá para o [Serviços de &amp; página de suplementos no Centro de administração de Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)e clique em **Sites**.
     
-2. Certifique-se que a definição é ligada como "On". Se estão seleccionados "Só utilizadores externos existentes", certifique-se o utilizador externo é listado no Centro de administração do Office 365.
+2. Certifique-se que a definição é ligada como "On". Se estão seleccionados "Só utilizadores externos existentes", certifique-se o utilizador externo é listado no Centro de administração de Microsoft 365.
     
 Certifique-se externo partilha activada para o site. Para uma colecção de sites clássico:
   

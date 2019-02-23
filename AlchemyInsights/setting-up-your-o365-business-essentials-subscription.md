@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 4d375f6357539db79c870c5c32e7201bc93081b8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f32262a370abf8b6e0801cd0741f827a9d4be707
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915311"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207876"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Configurar a sua subscrição de O365 o essencial dos negócios
 
@@ -21,7 +21,7 @@ Criar contas do Office 365 e adicionar o domínio
   
 - Neste passo, utilize o Assistente de configuração para criar contas de Office 365 para os utilizadores e adicionar o seu próprio domínio. O assistente permite-lhe personalizar o ID de utilizador e uma mensagem de correio electrónico para a sua empresa, tal como [rob@contoso.com](mailto:rob@contoso.com)de todos os participantes.
     
-- Aceda ao [centro de administração do Office 365](https://login.partner.microsoftonline.cn/).
+- Ir para o [Centro de administração do Microsoft 365](https://login.partner.microsoftonline.cn/).
     
 - Para iniciar o assistente, escolha ' **Ir para o programa de configuração**. Para obter mais informações, consulte [Adicionar utilizadores e de domínio para o Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
     

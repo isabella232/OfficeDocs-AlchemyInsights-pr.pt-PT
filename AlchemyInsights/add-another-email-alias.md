@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 831d5a97b9d6006b63ae5540b8d4505bc5a98fee
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1fd498dbbc96b2226c42553b652c04cfbb5e75ca
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918587"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208020"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Criar ou adicionar um alias de correio electrónico para um utilizador
 
 Tem de criar um alias de correio electrónico para um utilizador ou adicionar um endereço de correio electrónico adicionais? Basta seguir estes passos!
   
-1. O Centro admin do Office 365, vá para a página de [utilizadores](https://go.microsoft.com/fwlink/p/?linkid=834822) ou escolher **utilizadores** \> **Os utilizadores activos**.
+1. No Centro de administração de Microsoft 365, vá para a página de [utilizadores](https://go.microsoft.com/fwlink/p/?linkid=834822) ou escolher **utilizadores** \> **Os utilizadores activos**.
     
 2. Na página **Utilizadores Ativos**, selecione o nome da pessoa que pretende editar. 
     

@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: da8aef3d9709cd42bec3246c689ad842569400e2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d758ccc963a317fdd7523d67739953fe3db34c7d
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926291"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210036"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Elimine sites pertencentes a um grupo do Office 365:
 
 Quando os utilizadores criam um novo site de equipa da home page do SharePoint (ou criar um novo site de equipa a partir da pré-visualização de centro de administração do SharePoint nova), um grupo do Office 365 correspondente é criado automaticamente. Sites de equipa de grupo ligados 365 do Office também são criados quando cria um grupo do Office 365 ou uma equipa no Teams da Microsoft. Para eliminar um site SharePoint que pertence a um grupo do Office 365, tem de eliminar o grupo do Office 365 propriamente dito. 
   
-1. Vá para a [página de grupos do Centro admin do Office 365](https://portal.office.com/adminportal/home#/groups).
+1. Vá para a [página de grupos do Centro de administração do Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
 2. Seleccione a caixa de verificação junto do grupo.
     

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: bb2dc43b2035510c86a51d605325957c945be2f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 64b492aefa16a5e53a93536bbd3f62021341766f
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916823"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207732"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>O que fazer se o tamanho da caixa de correio já está a ser 100GB
 
@@ -24,7 +24,7 @@ Com um plano E3 ou E5, o tamanho da caixa de correio já está a ser 100 GB e n�
   
 Para activar o arquivo de correio electrónico:
   
-1. No Centro de administração de Office 365, vá para **centros de Admin** \> **Exchange**. 
+1. No Centro de administração de Microsoft 365, vá para **centros de Admin** \> **Exchange**. 
     
 2. Escolher **destinatários** \> * * caixas de correio * * e seleccione uma caixa de correio. 
     

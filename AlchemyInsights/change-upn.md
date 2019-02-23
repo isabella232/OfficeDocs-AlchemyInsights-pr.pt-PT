@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 7788acd13218b6e15a7accb7e87ca14e9c90b691
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 999008cd1b8f5d4b07660351605e60b87d557883
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901055"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208452"
 ---
 # <a name="change-a-users-email-address"></a>Alterar o endereço de e-mail de um utilizador
 
 Alterar o endereço de correio electrónico de alguém é fácil! Basta seguir estes passos:
   
-1. O Centro admin do Office 365, vá para a página de [utilizadores](https://go.microsoft.com/fwlink/p/?linkid=834822) ou escolher **utilizadores** \> **Os utilizadores activos**.
+1. No Centro de administração de Microsoft 365, vá para a página de [utilizadores](https://go.microsoft.com/fwlink/p/?linkid=834822) ou escolher **utilizadores** \> **Os utilizadores activos**.
     
 2. Seleccione o utilizador.
     

@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 78dd997b1e8870fc5a06fc6560753717b8d7e39d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e15b6e7c958d3efdfe8baa21494c356c7b7d7614
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905339"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209460"
 ---
 # <a name="reactivate-a-subscription"></a>Reactivar uma subscrição
 
-Se a subscrição expirar, foi desactivada pela Microsoft, ou é cancelada no meio de um período de subscrição, poderá reactivá-lo no Centro de administração do Office 365.
+Se a subscrição expirar, foi desactivada pela Microsoft, ou é cancelada no meio de um período de subscrição, poderá reactivá-lo no Centro de administração de Microsoft 365.
   
 1. No Centro de Administração, aceda à página [Subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) ou selecione **Faturação** \> **Subscrições**.
     

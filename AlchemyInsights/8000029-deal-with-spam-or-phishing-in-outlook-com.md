@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e03a7476-f02d-4c2c-bc55-42cad0ab8622
-ms.openlocfilehash: 0b9022698567a572156201a40271ee46ec01e5fc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 26e7ecf0d6c2fe5eb94fa2fc10015e45850f955e
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920135"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244736"
 ---
 # <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a>Lidar com esquemas fraudulentos de spam ou de phishing, na pasta a receber
 
@@ -26,7 +26,7 @@ Os filtros de correio publicitário não solicitado na Outlook.com melhoram quan
   
 Se acha que recebeu um phishing ou fraudes de Ocultação de conteúdos, marque o correio electrónico como publicidade não solicitada, vá para a pasta correio publicitário não solicitado e seleccione **não solicitado** \> **Phishing** para o marcar como um esquema de phishing. Saber mais sobre como em [caso de abuso, phishing ou ocultação de conteúdos](https://go.microsoft.com/fwlink/p/?linkid=873139).
   
-Para bloquear endereços de correio electrónico, vá para **definições de**![definições de](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Opções** \> **Remetentes bloqueados**. Para adicionar endereços ou domínios à lista de remetentes seguros, seleccione **' Remetentes seguros '**. 
+Para bloquear endereços de correio electrónico, vá para **definições de** \> **Opções** \> **Remetentes bloqueados**. Para adicionar endereços ou domínios à lista de remetentes seguros, seleccione **' Remetentes seguros '**. 
   
 Se está a ver um aumento de spam, leia como [ajudar a manter o spam e correio publicitário não solicitado da pasta a receber](https://go.microsoft.com/fwlink/p/?linkid=873140).
   

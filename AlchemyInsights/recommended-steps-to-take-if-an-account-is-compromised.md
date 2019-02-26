@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 32da2272-cfdd-4d47-91da-9258167b67d8
-ms.openlocfilehash: 40368816ac3a8aa5652bbe502ba0293fbc24ceef
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1f7fcac094135573220aef58ca20008223046474
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927443"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244052"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Passos recomendados que deverá tomar se uma conta for comprometida
 
-[![Fixação de uma conta comprometida do Office 365](media/797f355b-22a1-468e-91a4-a9d5bc45b19a.png)](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[VÍDEO: Corrigir uma conta comprometida do Office 365](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. [Repor a palavra-passe do utilizador](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c) imediatamente. Não comunicar a nova palavra-passe através do correio electrónico para o utilizador final. 
     

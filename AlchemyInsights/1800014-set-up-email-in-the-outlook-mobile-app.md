@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 7345e635de059adc10a07be8edf854431b133e72
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8b47c1963523c9be8eb5e1fb2cdfd283f82c321c
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925535"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244376"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Configurar correio electrónico na aplicação móvel de Outlook
 
-1. Seleccione **Introdução** se for a primeira hora configurar o correio electrónico no móvel App. caso contrário, toque em **Menu**![de Menu do botão](media/265b9089-9630-42dd-a244-d9a412d8fe47.png) e, em seguida, toque em **Definições** \> **Adicionar conta** \> **Adicionar conta de correio electrónico**. 
+1. Seleccione se for a primeira vez que configurar correio electrónico no App móvel Otherwise a **Introdução** , toque em **Menu** e, em seguida, toque em **Definições** \> **Adicionar conta** \> **Adicionar conta de correio electrónico**. 
     
 2. Introduza o endereço de correio electrónico completo e toque em **continuar** ou em **Adicionar conta**.
     

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 824035f6-90d3-4ea2-a92b-6b73b4ec0076
-ms.openlocfilehash: 059944c6d5b95314a6eba48800458c926225d4ef
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 05dee3deb71542cd2bbc7f3fe7be574a85c522d1
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29910199"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244016"
 ---
 # <a name="change-font-or-font-size-in-outlookcom"></a>Alterar o tipo de letra ou tamanho de tipo de letra em Outlook.com
 
@@ -24,11 +24,11 @@ Durante a leitura de correio electrónico, pode utilizar a função ' zoom ' do 
   
 Para alterar o tipo de letra ou tamanho de tipo de letra ao compor uma mensagem:
   
-1. Na parte inferior do painel de composição, seleccione o **tipo de letra**![tipo de letra](media/6d9372e0-cde5-49fc-a457-aafb62255163.png) ou o **tamanho do tipo de letra**![ícone de tamanho do tipo de letra](media/9334f617-9593-4bd0-afb1-c53308ad7591.png).
+1. Na parte inferior do painel de composição, seleccione o **tipo de letra** ou **tamanho de tipo de letra**.
     
 2. Escolha o tipo de letra ou tamanho de tipo de letra que pretende utilizar.
     
-Se não vir o menu de opções de formatação na parte inferior do painel de composição, seleccione **Opções de formatação**![ícone de opções de formatação a](media/13103798-e3ea-4069-a7a0-63f8903c8c3a.png).
+Se não vir o menu de opções de formatação na parte inferior do painel de composição, seleccione **Opções de formatação**.
   
 Para mais informações, consulte [alterar o tamanho do tipo de letra e o aspecto da mensagem de correio electrónico no Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873130).
   

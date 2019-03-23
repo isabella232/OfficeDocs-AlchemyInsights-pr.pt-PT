@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 3ecff82230295ca161dc83efcede3d989bb7cb5a
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208308"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752141"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Planos de parâmetro aumentar o tamanho da caixa de correio
 
@@ -34,4 +34,4 @@ Se o tamanho da caixa de correio é de 50 GB, pode aumentar-100 GB mudando para 
     
 Para obter mais detalhes, consulte [Mudar para um plano diferente do Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-
+Se tiver um [plano de O365, que suporta um arquivo no local](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), também pode obter o armazenamento de correio electrónico adicionais, permitindo uma caixa de correio do arquivo.  Uma caixa de correio do arquivo dá-lhe o armazenamento adicional e permite-lhe mover, copiar e procura de mensagens em ambos os principal e caixa de correio do arquivo. Para obter os passos sobre como activar uma caixa de correio do arquivo de mensagens em fila, consulte [Activar uma caixa de correio do arquivo](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).

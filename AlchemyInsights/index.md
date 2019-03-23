@@ -6,17 +6,12 @@ manager: mnirkhe
 ms.date: 3/27/2018
 ms.audience: Admin
 ms.topic: article
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.openlocfilehash: 9c41a881309e38ecb271718c7e8e4af446306a20
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
-ms.translationtype: MT
-ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29934823"
+ms.custom: null
 ---
-# <a name="alchemy-insights"></a><span data-ttu-id="b077f-102">Conhecimentos aprofundados de Alquimia</span><span class="sxs-lookup"><span data-stu-id="b077f-102">Alchemy Insights</span></span>
 
-<span data-ttu-id="b077f-103">Esta biblioteca está reservada para o conteúdo da ajuda na aplicação.</span><span class="sxs-lookup"><span data-stu-id="b077f-103">This library is reserved for in-app help content.</span></span>
+# <a name="alchemy-insights"></a><span data-ttu-id="6752b-102">Conhecimentos aprofundados de Alquimia</span><span class="sxs-lookup"><span data-stu-id="6752b-102">Alchemy Insights</span></span>
+
+<span data-ttu-id="6752b-103">Esta biblioteca está reservada para o conteúdo da ajuda na aplicação.</span><span class="sxs-lookup"><span data-stu-id="6752b-103">This library is reserved for in-app help content.</span></span>

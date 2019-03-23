@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: 122ffe07011a549d213c0c7acc5177ab6e3e952c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: fa174850f1e2810a2d38833f5dca4360ee53d4be
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29907652"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753365"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a><span data-ttu-id="c6d87-102">Ajuda do valor de Noções sobre adicionados impostos (IVA)</span><span class="sxs-lookup"><span data-stu-id="c6d87-102">Help understanding value added tax (VAT)</span></span>
+# <a name="help-understanding-value-added-tax-vat"></a><span data-ttu-id="d157d-102">Ajuda do valor de Noções sobre adicionados impostos (IVA)</span><span class="sxs-lookup"><span data-stu-id="d157d-102">Help understanding value added tax (VAT)</span></span>
 
-<span data-ttu-id="c6d87-103">Se estiver num país que utiliza avaliado imposto acrescentado (IVA), por exemplo, o Reino Unido, Microsoft Invoicing calcula o IVA de e aplica o valor para as facturas.</span><span class="sxs-lookup"><span data-stu-id="c6d87-103">If you are in a country that uses valued added tax (VAT), such as the United Kingdom, Microsoft Invoicing calculates the VAT for you, and applies the amount to your invoices.</span></span>
+<span data-ttu-id="d157d-103">Se estiver num país que utiliza avaliado imposto acrescentado (IVA), por exemplo, o Reino Unido, Microsoft Invoicing calcula o IVA de e aplica o valor para as facturas.</span><span class="sxs-lookup"><span data-stu-id="d157d-103">If you are in a country that uses valued added tax (VAT), such as the United Kingdom, Microsoft Invoicing calculates the VAT for you, and applies the amount to your invoices.</span></span>
   
-<span data-ttu-id="c6d87-104">Por razões fiscais, também tem de especificar o número de contribuinte nas definições para facturação.</span><span class="sxs-lookup"><span data-stu-id="c6d87-104">For tax reasons, you must also specify your VAT registration number in the settings for Invoicing.</span></span>
+<span data-ttu-id="d157d-104">Por razões fiscais, também tem de especificar o número de contribuinte nas definições para facturação.</span><span class="sxs-lookup"><span data-stu-id="d157d-104">For tax reasons, you must also specify your VAT registration number in the settings for Invoicing.</span></span>
   
-<span data-ttu-id="c6d87-p101">Não é possível adicionar ou remover as taxas de ICMS, mas pode alterar a taxa de ICMS predefinida nas definições. Por predefinição, a facturação utiliza um serviço para validar números de contribuinte, mas recomendamos que leia a [exclusão de responsabilidade VIES](https://go.microsoft.com/fwlink/?LinkID=841741) publicadas pela Comissão Europeia. Se optar por desactivar o serviço, tem de verificar todos os números de contribuinte.</span><span class="sxs-lookup"><span data-stu-id="c6d87-p101">You can't add or remove VAT rates, but you can change the default VAT rate in Settings. By default, Invoicing uses a service to validate VAT registration numbers, but we recommend that you read [VIES disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) published by the European commission. If you choose to disable the service, you must verify all VAT registration numbers.</span></span> 
+<span data-ttu-id="d157d-105">Não é possível adicionar ou remover as taxas de ICMS, mas pode alterar a taxa de ICMS predefinida nas definições.</span><span class="sxs-lookup"><span data-stu-id="d157d-105">You can't add or remove VAT rates, but you can change the default VAT rate in Settings.</span></span> <span data-ttu-id="d157d-106">Por predefinição, a facturação utiliza um serviço para validar números de contribuinte, mas recomendamos que leia a [exclusão de responsabilidade VIES](https://go.microsoft.com/fwlink/?LinkID=841741) publicadas pela Comissão Europeia.</span><span class="sxs-lookup"><span data-stu-id="d157d-106">By default, Invoicing uses a service to validate VAT registration numbers, but we recommend that you read [VIES disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) published by the European commission.</span></span> <span data-ttu-id="d157d-107">Se optar por desactivar o serviço, tem de verificar todos os números de contribuinte.</span><span class="sxs-lookup"><span data-stu-id="d157d-107">If you choose to disable the service, you must verify all VAT registration numbers.</span></span> 
   
 

@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: dd4152d2942e93b1fa4d291fcead2266b9e31e91
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 911d4a61ebdfc8b7c1ff084cba268b0509b59955
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208344"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755813"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>Quando é gerado o extracto de conta
 
-Todos os meses receberá uma mensagem de correio electrónico que indica que o extracto de conta novo está disponível no Centro de administração de Microsoft 365. A factura contém duas páginas. Página 1 é a factura resumo e contém informações gerais sobre a factura, encomenda, montante devido, como fazer um pagamento e como contactar o suporte. Página 2 contém detalhes sobre a actividade de facturação para cada subscrição.
+Todos os meses receberá uma mensagem de correio electrónico que indica que o extracto de conta novo está disponível no Centro de administração de Microsoft 365. A sua fatura contém duas páginas. A página 1 é o resumo da fatura e contém as informações gerais sobre a fatura, a encomenda, o montante a pagar, como efetuar o pagamento e como contactar o suporte. A página 2 contém os detalhes sobre a atividade de faturação de cada subscrição.
   
 Para obter mais informações sobre conceitos de facturação, consulte [Compreender a factura](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507).
   

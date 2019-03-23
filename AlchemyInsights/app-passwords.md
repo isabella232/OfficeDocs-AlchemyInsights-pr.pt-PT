@@ -1,39 +1,37 @@
 ---
-title: Palavras-passe de aplicações
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 palavras-passe de aplicações
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938243"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762543"
 ---
 # <a name="app-passwords"></a>Palavras-passe de aplicações
 
-Uma palavra-passe de aplicações é um código que proporciona uma aplicação ou dispositivo de permissão para aceder à conta do Office 365. Se o administrador tiver activada a autenticação multi-factores para a sua organização e estiver a utilizar aplicações que ligar à sua conta do Office 365, terá de gerar uma palavra-passe de aplicações para a aplicação pode ligar ao Office 365. Por exemplo, se estiver a utilizar o Outlook de 2016 ou anterior com o Office 365, terá de criar uma palavra-passe de aplicações.
+Uma palavra-passe de aplicações é um código que proporciona uma aplicação ou dispositivo permissão para aceder o trabalho do Office 365 ou escola conta. Se a conta de requer autenticação multi-factores (AMF), e a aplicação estabelece ligação à sua conta, é necessário gerar uma palavra-passe de aplicações para a aplicação pode ligar ao Office 365. Por exemplo, de 2016 Outlook e Outlook de requerer uma palavra-passe de aplicações de versões anteriores.
   
-1. Verifique se o admin do Office 365 tenha activada a autenticação multi-factores para a sua conta. Se ainda não estes, quando tenta efectuar estes passos não verá as opções no Office 365.
+ **Nota**: antes de tentar os seguintes passos, certifique-se com o Office 365 admin que AMF é necessária para a sua conta. Caso contrário, as opções descritas nos passos não estarão disponíveis para si.
+  
+1. Iniciar sessão no Office 365 com o trabalho escolar conta e a palavra-passe.
     
-2. Iniciar sessão no Office 365, com a sua conta de trabalho ou escolares com a palavra-passe como faria normalmente. Depois de escolher **Iniciar sessão**, verá uma página com o nome de utilizador e algumas opções 
+2. Escolha **configurar agora**.
     
-3. Escolha **configurar agora**. 
+3. Seleccione o método de autenticação e siga as instruções.
     
-4. Seleccione o método de autenticação e, em seguida, siga as instruções na página.
+4. Depois de verificar o método de contacto alternativo, escolha **seguinte**.
     
-5. Depois de verificar o método de contacto alternativo, escolha **seguinte**. 
-    
-6. Obterá uma palavra-passe de aplicações que pode utilizar com o Outlook, Apple Mail, etc. Seleccione o ícone de cópia para copiar a palavra-passe para a área de transferência. Não é necessário memorize esta palavra-passe. 
-    
-7. Quando adiciona a conta de correio electrónico do Office 365 para Outlook (ou outra aplicação), e é-lhe pedido para uma palavra-passe, passados esta palavra-passe de aplicações na caixa de palavra-passe, em vez de escrever a palavra-passe de conta. 
+5. Obterá uma palavra-passe de aplicações que pode utilizar com o Outlook, Apple Mail e outras aplicações que o exijam. Escolha **Copiar** para copiar a palavra-passe de modo a poder colá-la noutro local (não tem a memorizá-la). 
     
 

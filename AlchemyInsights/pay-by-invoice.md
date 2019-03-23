@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 3e687777-13bf-467e-9746-a1f35571178f
-ms.openlocfilehash: 6e4ce2a604ebee4d80a8625f45d6d4eab323d63d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: aa1dafada1f55da1b4d561f0facf5307925d37a0
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29924671"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753401"
 ---
 # <a name="pay-by-invoice"></a>Pagamento por fatura
 
 Se a sua subscrição do Office 365 custar mais do que um determinado montante (este montante varia consoante a localização do serviço), terá a opção de pagar por fatura através de um cheque ou EFT. Poderá ser necessária uma verificação de crédito para pagamentos de valores elevados por fatura. Se for necessária uma verificação de crédito, será notificado quando comprar a sua subscrição. Para além disso, se concordar em ser contactado, receberá um e-mail com mais informações sobre como se candidatar a uma aprovação de crédito. Normalmente, as verificações de crédito são concluídas dentro de dois dias úteis.
   
-Se pagar a factura para a sua subscrição, receberá uma mensagem de correio electrónico indicar que está pronto para ver o extracto de facturação. Esta mensagem de correio electrónico não contém uma cópia do seu extracto de facturação. No entanto, também pode receber [uma cópia do seu extracto de facturação por correio electrónico](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216). O extracto de facturação inclui detalhes sobre as opções para efectuar um pagamento. Se introduzir um número de encomenda de compra quando adquirir uma subscrição, o número aparece no seu extracto de facturação. Para obter informações sobre como aceder a facturação, consulte [visualizar a remessa ou factura para o Office 365 para a empresa](https://support.office.com/article/2ae3ea58-4fce-4592-91d6-46e9ae3ec218).
+Se pagar a sua subscrição através de fatura, receberá um e-mail a informar que já pode ver o seu extrato de faturação. Este e-mail não contém uma cópia do seu extrato de faturação. No entanto, também pode receber [uma cópia do seu extracto de facturação por correio electrónico](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216). O seu extrato de faturação inclui detalhes sobre as suas opções para efetuar pagamentos. Se introduzir um número de nota de encomenda (PO) ao comprar uma subscrição, o número será apresentado no seu extrato de faturação. Para obter informações sobre como aceder aos extratos de faturação, consulte [Ver a sua fatura do Office 365 para empresas](https://support.office.com/article/2ae3ea58-4fce-4592-91d6-46e9ae3ec218).
   
 Para obter mais informações sobre o pagamento por fatura consulte [pagamento para a sua subscrição de negócio do Office 365](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).
   

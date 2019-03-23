@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 3bc62deb513c809a25277295642394c5cab9436c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9b920dff8facdec51f005489e7433db738447e5e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917867"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754445"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Partilhar ficheiros em OneDrive com pessoas fora da organização
 
@@ -31,7 +31,7 @@ ms.locfileid: "29917867"
   - Permite que **utilizadores específicos** acesso apenas às pessoas Especifica, apesar de outras pessoas podem já ter acesso. Se as pessoas reencaminhar o convite de partilha, apenas as pessoas que já têm acesso ao item será possível utilizar a ligação. 
     
     > [!NOTE]
-    > Se uma destas opções não estiver disponível, ou se pretender que um tipo de ligação diferente apareça por predefinição, pode alterar as definições de toda a organização vai para o Centro de administração OneDrive e clicando em **partilhar** no painel da esquerda. [Mais informações](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Se uma destas opções não estiver disponível, ou se pretender que um tipo de ligação diferente apareça por predefinição, pode alterar as definições de toda a organização vai para o Centro de administração OneDrive e clicando em **partilhar** no painel da esquerda. [Obter mais informações](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. Por predefinição, a **Permitir a edição** está activada. Se pretender que as pessoas para ver apenas os ficheiros, desmarque a caixa de verificação. 
     

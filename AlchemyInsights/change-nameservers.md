@@ -1,5 +1,5 @@
 ---
-title: Alterar NameServers
+title: Alterar os Servidores de Nomes
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: 61c4c5e43a247679bf18fd3861dd98fbe9a7b3eb
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: ea25afd85e9ef1ae89f3a8908dc1e83a4433c890
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405334"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754697"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>Atualizar os servidores de nomes do seu domínio para o Office 365
 
-Nota: As alterações de servidor de nomes, por vezes, podem demorar até 48 horas para propagar.
+Nota: as alterações aos servidores de nomes podem, por vezes, demorar até 48 horas a serem propagadas.
   
 Para configurar o seu domínio no Office 365, os servidores de nomes na sua entidade de registo têm de ser atualizados. Crie ou edite os registos do seu servidor de nomes na sua entidade de registo de domínios.
   
@@ -28,9 +28,9 @@ Para configurar o seu domínio no Office 365, os servidores de nomes na sua enti
     
 2. Crie ou edite dois registos de servidor de nomes de forma a que correspondam a estes valores:
     
-  - ns1.BDM.microsoftonline.com
+  - ns1.bdm.microsoftonline.com
     
-  - ns2.BDM.microsoftonline.com
+  - ns2.bdm.microsoftonline.com
     
 3. Guarde as alterações.
     

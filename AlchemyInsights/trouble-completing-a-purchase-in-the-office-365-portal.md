@@ -1,5 +1,5 @@
 ---
-title: Problemas com a concluir uma compra no portal Office 365
+title: Problemas ao concluir uma compra no portal do Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 3933a621a50812f2e03813664c36cca1a5e23a4f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 2364912c0753d649536e3d98c358ed4c726dbfad
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405154"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754769"
 ---
-# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Problemas com a concluir uma compra no portal Office 365
+# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Problemas ao concluir uma compra no portal do Office 365
 
-Ao tentar efectuar uma compra, se tiver sido solicitados várias vezes para iniciar sessão no portal Office 365 ou recebe uma mensagem que foi encontrado um problema, é o primeiro passo melhor a tentar utilizar o modo de inprivate/incognito do browser. Depois de abrir uma janela de inprivate/incognito, vá para o site da [portal.office.com](https://portal.office.com) e iniciar sessão com as credenciais de administrador. Em seguida, avance para concluir a compra. 
+Ao tentar fazer uma compra, se lhe for pedido múltiplas vezes para iniciar sessão no portal do Office 365 ou se receber uma mensagem a indicar que foi encontrado um problema, o primeiro passo é tentar utilizar o modo InPrivate/Anónimo do seu browser. Depois de abrir uma janela InPrivate/Anónima, aceda ao site [portal.office.com](https://portal.office.com) e inicie sessão com as suas credenciais de administrador. Em seguida, conclua a sua compra. 
   
 

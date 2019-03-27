@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: 0cf6f678f7310d2b82aeee025298229b8d7e67e4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: adad4b8d16185db033a5405b2b09dc8f72fb221b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942347"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766719"
 ---
-# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="5f063-102">Quando é cobrada meu cartão de crédito?</span><span class="sxs-lookup"><span data-stu-id="5f063-102">When is my credit card charged?</span></span>
+# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="046c9-102">Quando é cobrada meu cartão de crédito?</span><span class="sxs-lookup"><span data-stu-id="046c9-102">When is my credit card charged?</span></span>
 
-<span data-ttu-id="5f063-103">Com uma compra inicial, pode demorar até dois dias para o encargo ocorrer.</span><span class="sxs-lookup"><span data-stu-id="5f063-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
+<span data-ttu-id="046c9-103">Com uma compra inicial, pode demorar até dois dias para o encargo ocorrer.</span><span class="sxs-lookup"><span data-stu-id="046c9-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
   
-<span data-ttu-id="5f063-104">Encargos periódicos ocorrem dentro de um dia da factura a ser criada.</span><span class="sxs-lookup"><span data-stu-id="5f063-104">Recurring charges happen within one day of the invoice being created.</span></span>
+<span data-ttu-id="046c9-104">Encargos periódicos ocorrem dentro de um dia da factura a ser criada.</span><span class="sxs-lookup"><span data-stu-id="046c9-104">Recurring charges happen within one day of the invoice being created.</span></span>
   
-<span data-ttu-id="5f063-p101">Se o encargo não tiver êxito, o sistema irá continuar a tentar liquidar o saldo durante as próximas semanas alguns. Pode efectuar actualizações para as informações de pagamento em qualquer altura a fim de garantir que a próxima tentativa de juros for bem sucedida. Para mais informações, consulte [Adicionar, actualizar ou remover um cartão de crédito ou conta bancária no Office 365 para a empresa](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span><span class="sxs-lookup"><span data-stu-id="5f063-p101">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks. You can make updates to your payment information at any time to insure the next charge attempt is successful. For more information, see [Add, update or remove a credit card or bank account in Office 365 for business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span></span>
+<span data-ttu-id="046c9-105">Se o encargo não tiver êxito, o sistema irá continuar a tentar liquidar o saldo durante as próximas semanas alguns.</span><span class="sxs-lookup"><span data-stu-id="046c9-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="046c9-106">Pode efectuar actualizações para as informações de pagamento em qualquer altura a fim de garantir que a próxima tentativa de juros for bem sucedida.</span><span class="sxs-lookup"><span data-stu-id="046c9-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="046c9-107">Para mais informações, consulte [Adicionar, actualizar ou remover um cartão de crédito ou conta bancária no Office 365 para a empresa](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span><span class="sxs-lookup"><span data-stu-id="046c9-107">For more information, see [Add, update or remove a credit card or bank account in Office 365 for business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span></span>
   
 

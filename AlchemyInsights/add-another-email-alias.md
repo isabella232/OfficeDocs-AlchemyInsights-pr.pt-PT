@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 1fd498dbbc96b2226c42553b652c04cfbb5e75ca
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 66d20ca17287ee762266a22a376f59f5f8975a00
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208020"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767331"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Criar ou adicionar um alias de correio electrónico para um utilizador
 
@@ -28,7 +28,7 @@ Tem de criar um alias de correio electrónico para um utilizador ou adicionar um
     
 3. À direita, na linha **Nome de utilizador/Aliases de E-mail**, selecione **Editar**.
     
-4. Na caixa **Alias** , escreva uma nova mensagem de correio electrónico, em seguida, seleccione **Adicionar**. Se adquiriu a subscrição de GoDaddy ou outro parceiro, para definir o novo alias como principal, tem de ir para a consola de gestão de GoDaddy/parceiro. 
+4. Na caixa **Alias** , escreva uma nova mensagem de correio electrónico, em seguida, seleccione **Adicionar**. Se tiver comprado a sua subscrição na GoDaddy ou noutro parceiro, para definir o novo alias como o principal, tem de aceder à consola de gestão de parceiros/GoDaddy. 
     
     **IMPORTANTE**: se for apresentada a mensagem de erro " **Não é possível localizar um parâmetro que corresponde ao nome do parâmetro 'EmailAddresses'**", significa que o Office 365 está a demorar um pouco mais a terminar a configuração do seu inquilino ou do seu domínio personalizado, se tiver adicionado um recentemente. O processo de configuração pode demorar até quatro horas para ser concluído. Aguarde um pouco para que o processo de configuração seja concluído e, em seguida, tente novamente. Se o problema persistir, contacte o Suporte e este fará uma sincronização completa automaticamente.
     

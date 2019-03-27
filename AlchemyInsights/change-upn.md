@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 999008cd1b8f5d4b07660351605e60b87d557883
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: f8c412bda739179b295d62a1d6a6e31a88cf59c2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208452"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767043"
 ---
 # <a name="change-a-users-email-address"></a>Alterar o endereço de e-mail de um utilizador
 
@@ -30,11 +30,11 @@ Alterar o endereço de correio electrónico de alguém é fácil! Basta seguir e
     
 4. Na caixa **Alias** , escreva uma nova mensagem de correio electrónico, em seguida, seleccione **Adicionar**.
     
-    **Importante**: Se receber a mensagem de erro " **não é possível encontrar um parâmetro que corresponda ao nome do parâmetro ' EmailAddresses**" significa que está a demorar um pouco mais tempo do Office 365 terminar de configurar o locatário ou o domínio personalizado se adicionou recentemente um . O processo de configuração pode demorar até 4 horas a concluir. Aguarde um momento para que o processo de configuração tenha tempo para concluir e, em seguida, tente novamente. Se o problema persistir, contacte o suporte e realizar uma sincronização total para si.
+    **IMPORTANTE**: se for apresentada a mensagem de erro " **Não é possível localizar um parâmetro que corresponde ao nome do parâmetro 'EmailAddresses'**", significa que o Office 365 está a demorar um pouco mais a terminar a configuração do seu inquilino ou do seu domínio personalizado, se tiver adicionado um recentemente. O processo de configuração pode demorar até quatro horas para ser concluído. Aguarde um pouco para que o processo de configuração seja concluído e, em seguida, tente novamente. Se o problema continuar, contacte o Suporte e este fará uma sincronização completa automaticamente.
     
     Se obtiver a mensagem de erro " **Pedimos desculpas, que o utilizador não puderam ser editado. Reveja as informações de utilizador e volte a tentar**"significa que não um administrador global do Office 365 e não tem permissões para alterar o nome do utilizador.
     
-5. Escolha o **conjunto como principal** para o endereço de correio electrónico que pretende definir como o endereço de correio electrónico principal para essa pessoa. Se adquiriu a subscrição de GoDaddy, tem de iniciar sessão sua consola de gestão para definir o endereço de correio electrónico principal. 
+5. Selecione **Definir como Principal** para o endereço de e-mail que pretende definir como endereço de e-mail principal dessa pessoa. Se adquiriu a subscrição de GoDaddy, tem de iniciar sessão sua consola de gestão para definir o endereço de correio electrónico principal. 
     
 6. Escolha **Guardar**, em seguida, **Fechar**, e já está!
     

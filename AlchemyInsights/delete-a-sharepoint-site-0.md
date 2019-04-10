@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754661"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31748005"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Elimine sites pertencentes a um grupo do Office 365:
 
-Quando os utilizadores criam um novo site de equipa da home page do SharePoint (ou criar um novo site de equipa a partir da pré-visualização de centro de administração do SharePoint nova), um grupo do Office 365 correspondente é criado automaticamente. Sites de equipa de grupo ligados 365 do Office também são criados quando cria um grupo do Office 365 ou uma equipa no Teams da Microsoft. Para eliminar um site SharePoint que pertence a um grupo do Office 365, tem de eliminar o grupo do Office 365 propriamente dito. 
+Quando os utilizadores criam um novo site de equipa da home page do SharePoint ou criar um novo site de equipa a partir do Centro de administração do SharePoint novo, um grupo do Office 365 correspondente é criado automaticamente. Sites de equipa de grupo ligados 365 do Office também são criados quando cria um grupo do Office 365 ou uma equipa no Teams da Microsoft. Para eliminar um site SharePoint que pertence a um grupo do Office 365, tem de eliminar o grupo do Office 365 propriamente dito. 
   
 1. Vá para a [página de grupos do Centro de administração do Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
@@ -40,11 +40,11 @@ Nota: Quando eliminar um grupo, pode existir um atraso antes do site é removido
   
 **Elimine uma colecção de sites do SharePoint:**
 
-Para eliminar uma colecção de sites clássico:
+Para eliminar um site:
   
-1. No Centro de administração SharePoint clássico, na página de colecções de sites, seleccione a **caixa de verificação** junto a colecção de sites. 
+1. No novo Centro de administração do SharePoint, na página Sites, clique na **caixa de verificação** junto do site que pretende eliminar. 
     
-2. No separador colecções de sites, seleccione **eliminar.**
+2. Na barra de ferramentas do Friso, clique em **eliminar.**
     
 **Eliminar um site acidentalmente?**
 

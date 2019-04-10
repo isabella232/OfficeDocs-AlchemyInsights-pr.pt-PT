@@ -9,24 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: a631af20e28a531a40f078e290239a372c38ab74
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 37f256ef31402f5139fdd7c2af8f3a6ca9dc3525
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941725"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747214"
 ---
-Problemas ao arquivo de itens na caixa de correio do arquivo. Certifique-se de que mandar efectuar os seguintes passos:
-  
-1. Confirme que a um **arquivo de caixa de correio** foi activada. Caso contrário, utilize os passos [neste](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) artigo para activar a caixa de correio do arquivo. 
+# <a name="move-email-to-the-archive-mailbox"></a>Mover a mensagem de correio electrónico na caixa de correio do arquivo
+ 
+1. Confirme que a um **arquivo de caixa de correio** foi activada. Caso contrário, utilize os passos [neste](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) artigo para activar a caixa de correio do arquivo.
+
+2. Para arquivar mensagens automaticamente para a caixa de correio do arquivo, tem de ser definido um código de retenção com a acção de **Mover para arquivar** aplicado **automaticamente a tag de caixa de correio inteiro (predefinição)**. Utilize os passos aqui para criar a tag: [tag de arquivo predefinido](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Foffice365%2Fsecuritycompliance%2Fset-up-an-archive-and-deletion-policy-for-mailboxes%23create-a-custom-archive-default-policy-tag&data=04%7C01%7Cstephow%40microsoft.com%7C89934e16dbd84ebdef6708d6b319b348%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636893320296576506%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C-1&sdata=UibWi%2BtrO3ITZ6iF%2FtKQj5JyxzEb9Mu9frBJPT6FNFI%3D&reserved=0).
     
-2. No Centro de administração do Exchange, seleccione **Os códigos de retenção** em **Gestão de conformidade**, criar uma **tag de retenção** com a acção de **Mover para o arquivo** de mensagens em fila que contém a **Idade de retenção**de pretendido.
+3. Em seguida, adicione a tag de **arquivo** para a política de retenção. No Centro de administração de Exchange, escolha **As políticas de retenção** > adicionar **mover a tag de arquivo** para o > de política **Guardar**. 
     
-3. No Centro de administração do Exchange, seleccione **As políticas de retenção**, criar uma **Política de retenção** e adicione o código de retenção **Mover para arquivo** para essa política. 
+4. Agora a [atribuir a política de retenção](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) a caixa de correio do utilizador específico. A mesma política será aplicada para o **principal** e a caixa de correio do **arquivo** . 
     
-4. [Atribuir a política de retenção](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) a caixa de correio do utilizador específico. A mesma política será aplicada para o **principal** e a caixa de correio do **arquivo** . 
-    
-Caixa de correio do utilizador deverá ter uma política de arquivo para mover itens para a caixa de correio do arquivo. Poderá ser necessário forçar o Managed pasta Assistente (AMF) para executar e aplicar as novas definições a caixa de correio do utilizador. Execute o seguinte comando enquanto [ligado à EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) para iniciar o Managed Assistente da pasta para uma caixa de correio específica: 
+Poderá ser necessário forçar o Managed pasta Assistente (AMF) para executar e aplicar as novas definições a caixa de correio do utilizador. Execute o seguinte comando enquanto [ligado à EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) para iniciar o Managed Assistente da pasta para uma caixa de correio específica: 
   
 ```
 Start-ManagedFolderAssistant -Identity <name of the mailbox>

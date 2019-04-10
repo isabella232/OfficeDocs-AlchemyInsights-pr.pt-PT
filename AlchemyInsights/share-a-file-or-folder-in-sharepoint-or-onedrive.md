@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: 29e4e5c105fa5c68a286c277c4039f15a77d5c5d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941771"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747861"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Partilhar um ficheiro ou pasta no SharePoint ou OneDrive
 
@@ -28,7 +28,7 @@ ms.locfileid: "29941771"
   - Permite que **utilizadores específicos** acesso apenas às pessoas Especifica, apesar de outras pessoas podem já ter acesso. Se as pessoas reencaminhar o convite de partilha, apenas as pessoas que já têm acesso ao item será possível utilizar a ligação. 
     
     > [!NOTE]
-    > Se uma destas opções não estiver disponível, ou se pretender que um tipo de ligação diferente apareça por predefinição, pode alterar as definições de toda a organização vai para o Centro de administração do SharePoint clássico e clicando em **partilhar** no painel da esquerda. [Mais informações](https://go.microsoft.com/fwlink/?linkid=866426)
+    > Se uma destas opções não estiver disponível, ou se pretender que um tipo de ligação diferente apareça por predefinição, pode alterar as definições de toda a organização vai para o novo Centro de administração do SharePoint e clicando em **partilhar** no painel da esquerda. [Obter mais informações](https://go.microsoft.com/fwlink/?linkid=866426)
   
 3. Por predefinição, a **Permitir a edição** está activada. Se pretende que as pessoas para ver apenas os ficheiros, desmarque a caixa de verificação. 
     

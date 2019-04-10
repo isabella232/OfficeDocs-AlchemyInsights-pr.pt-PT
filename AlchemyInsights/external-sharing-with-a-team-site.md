@@ -8,24 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 8753cb5595607a7ea63e1861affcd16d61e7827e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cc5f917522f31349c48c8232496dc862d6769539
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936299"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747501"
 ---
 # <a name="external-sharing-with-a-team-site"></a>Externo partilha com um Site de equipa
 
 Para activar a partilha para Sites de equipa do utilizador externo, siga estes passos: 
   
-1. Abrir **Moderno Admin Center** - se estiver no Centro de administração clássico irá ver um botão **Experimente agora** ou **a pré-visualização** do canto superior direito. Isto leva-o para o Centro de administração moderna. 
+1. No novo Centro de administração do SharePoint, clique em **Sites activos**.
   
-2. Seleccione **Sites activos**. 
+2. Seleccione um site que tenha um modelo de **Site de equipa** . 
   
-3. Seleccione um site que tenha um modelo de **Site de equipa** . 
-  
-4. Seleccione o botão de **partilha** a partir do menu superior. 
+3. Seleccione o botão de **partilha** a partir do menu superior. 
   
  **Nota**: por predefinição, quando é criado um Site de equipa moderna, externo opção de partilha será definido para novo e existentes utilizadores externos. 
   

@@ -1,5 +1,5 @@
 ---
-title: Eliminar colecção de sites
+title: Eliminar um Site
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: 04edde4c22c9ab465cbcff4cb08d8f5965943fad
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 37606af8cbbd1d54cde646400386652b0d5aae56
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757541"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747573"
 ---
-# <a name="delete-a-sharepoint-site-collection"></a>Eliminar uma colecção de sites do SharePoint
+# <a name="delete-a-sharepoint-site"></a>Eliminar um site do SharePoint
 
-1. No Centro de administração SharePoint clássico, na página de colecções de sites, seleccione a caixa de verificação junto a colecção de sites.
+1. No novo Centro de administração do SharePoint, na página Sites, clique na caixa de verificação junto do site que pretende eliminar.
     
-2. No separador colecções de sites, seleccione **Eliminar**.
+2. Na barra de ferramentas do Friso, clique em **Eliminar**.
     
 

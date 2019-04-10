@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 9e46335584c21d3d464a68a85f52a2f6c3c91a28
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 6bd3ae49d26594200ed6c46bb7f6138f1ae6100c
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762651"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747717"
 ---
 # <a name="restore-a-deleted-subsite"></a>Restaurar um subsite eliminado
 
 Subsites eliminadas são enviadas para a colecção de sites ' Reciclagem ', onde está a mantidos durante dias 93. Para restaurar um subsite eliminado:
   
-1. No novo Centro de administração do SharePoint (pré-visualização) ou centro de administração do SharePoint clássico, localizar a colecção de sites a partir do qual foi eliminado o subsite e certifique-se de que está a uma colecção de sites Administrador. 
+1. O novo Centro de administração do SharePoint, localizar o site a partir do qual foi eliminado o subsite e certifique-se de que está a uma colecção de sites Administrador. 
     
-2. Vá para a colecção de sites. Clique em **' Reciclagem '** no painel da esquerda. (Se não vir a ' Reciclagem ', clique no ícone definições e, em seguida, clique em **conteúdo de Site**. A ' Reciclagem ' encontra-se no extremo direito da barra de comandos na parte superior.)
+2. Ir para o site. Clique em **' Reciclagem '** no painel da esquerda. (Se não vir a ' Reciclagem ', clique no ícone definições e, em seguida, clique em **conteúdo de Site**. A ' Reciclagem ' encontra-se no extremo direito da barra de comandos na parte superior.)
     
 3. Na parte inferior da página, clique em **Reciclagem de segunda fase**.
     

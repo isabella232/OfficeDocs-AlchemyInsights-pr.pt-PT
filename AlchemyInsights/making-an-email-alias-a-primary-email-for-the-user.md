@@ -11,17 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 723
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: 52fabdc28785a00435286c41d88425d8014695e6
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: fcd588428ef75efa81763f1fa418304e692a7b5c
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785682"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859043"
 ---
 # <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Tornar o endereço primário para um utilizador de um alias de correio electrónico
 
 Para obter instruções, consulte [Adicionar outro alias de correio electrónico para um utilizador](https://support.office.com/article/0b0bd900-68b1-4bf5-808b-5d240a7739f4).
-  
- **Nota**: se a organização estiver no modo de híbridos, terá de alterar o endereço de correio electrónico principal na organização do Exchange no local. Para mais informações, consulte [endereços de correio electrónico de adicionar ou remover uma caixa de correio](https://technet.microsoft.com/library/bb123794.aspx).
-  
 
+**Nota**: se a organização estiver no modo de híbridos, terá de alterar o endereço de correio electrónico principal na organização do Exchange no local. Para mais informações, consulte [endereços de correio electrónico de adicionar ou remover uma caixa de correio](https://technet.microsoft.com/library/bb123794.aspx).

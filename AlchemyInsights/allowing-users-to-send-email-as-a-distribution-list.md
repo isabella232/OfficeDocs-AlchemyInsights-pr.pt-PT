@@ -11,23 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 717
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: 726249eff30b6c07f06a7179703429369ab7fcad
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: bf8f5d3bfea09ddbedc8572b0e15bd3c95c2a890
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30783862"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858539"
 ---
 # <a name="allow-users-to-send-email-as-a-distribution-group"></a>Permitir que os utilizadores enviem correio electrónico como um grupo de distribuição
 
 Para permitir aos utilizadores enviar mensagens que parecem vir de um grupo de distribuição existente, siga estes passos:
-  
-1. No [Centro de administração do Exchange](https://outlook.office365.com/ecp/), vá para **destinatários** \> **grupos**.
-    
-2. Seleccione o grupo de distribuição que pretende modificar e, em seguida, clique em **Editar**.
-    
-3. Nas propriedades do grupo, vá para o separador de **delegação de grupo** para especificar os utilizadores que podem enviar como ou enviar em nome do grupo de distribuição. 
-    
-Para mais informações, consulte [Opções de correio electrónico](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).
-  
 
+1. No [Centro de administração do Exchange](https://outlook.office365.com/ecp/), vá para **destinatários** \> **grupos**.
+
+2. Seleccione o grupo de distribuição que pretende modificar e, em seguida, clique em **Editar**.
+
+3. Nas propriedades do grupo, vá para o separador de **delegação de grupo** para especificar os utilizadores que podem enviar como ou enviar em nome do grupo de distribuição.
+
+Para mais informações, consulte [Opções de correio electrónico](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).

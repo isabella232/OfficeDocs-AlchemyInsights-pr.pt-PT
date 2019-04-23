@@ -10,15 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000059
 ms.assetid: 8ea65090-8e05-4ab8-a30c-3bb6db6b75dd
-ms.openlocfilehash: 4b76cc006933a266d51ad06f6f5d2cf1a460a840
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7e28c8593639a759876f2a91c7d6ffefdeef77a4
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30781587"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903639"
 ---
 # <a name="how-to-change-your-layout"></a>Como alterar o esquema
 
-É fácil alterar definições Outlook.com para procura e o comportamento pretendido. Seleccione **Definições** na barra de ferramentas para ver as opções. 
+É fácil alterar definições Outlook.com para procura e o comportamento pretendido. Seleccione **Definições** na barra de ferramentas para as opções mais populares. 
+
+Para ver todas as opções de esquema, seleccione **as definições de** > **série** > [**esquema**](https://outlook.live.com/mail/options/mail/layout). 
   
 

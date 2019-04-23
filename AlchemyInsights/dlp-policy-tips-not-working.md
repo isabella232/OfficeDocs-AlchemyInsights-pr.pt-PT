@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: ffed863e8d44d2513fbcf53edd9bfa14b859b913
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cddc790c7ad64cb917fb91df9fcdb60fd22bb306
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900803"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869606"
 ---
 # <a name="dlp-policy-tip-issues"></a>Problemas de sugestão de políticas do DLP
 
 Quando utilizar **políticas do DLP**, os utilizadores podem ser notificados de uma violação da política com **sugestões de política**. Administradores podem configurar sugestões de política para apresentar ao testar a sua política DLP ou quando a política está no modo de imposição total. 
   
-Para configurar a política sugestões sobre a política do DLP no Centro de segurança e conformidade em modo de imposição total, efectue o seguinte:
+Para configurar sugestões de política sobre a política do DLP no Centro de segurança e conformidade em modo de imposição total, efectue o seguinte:
   
 - Certifique-se sugestões de política tem sido **activada** a regra do DLP utilizando os passos [aqui](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
     

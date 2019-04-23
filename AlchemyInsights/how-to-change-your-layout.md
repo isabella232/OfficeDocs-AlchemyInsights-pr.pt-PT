@@ -10,15 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000059
 ms.assetid: 8ea65090-8e05-4ab8-a30c-3bb6db6b75dd
-ms.openlocfilehash: 4b76cc006933a266d51ad06f6f5d2cf1a460a840
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7e28c8593639a759876f2a91c7d6ffefdeef77a4
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30781587"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903639"
 ---
-# <a name="how-to-change-your-layout"></a><span data-ttu-id="98d2f-102">Como alterar o esquema</span><span class="sxs-lookup"><span data-stu-id="98d2f-102">How to change your layout</span></span>
+# <a name="how-to-change-your-layout"></a><span data-ttu-id="94125-102">Como alterar o esquema</span><span class="sxs-lookup"><span data-stu-id="94125-102">How to change your layout</span></span>
 
-<span data-ttu-id="98d2f-103">É fácil alterar definições Outlook.com para procura e o comportamento pretendido.</span><span class="sxs-lookup"><span data-stu-id="98d2f-103">It's easy to change settings in Outlook.com so it looks and behaves the way you want it to.</span></span> <span data-ttu-id="98d2f-104">Seleccione **Definições** na barra de ferramentas para ver as opções.</span><span class="sxs-lookup"><span data-stu-id="98d2f-104">Select **Settings** on the toolbar to see your choices.</span></span> 
+<span data-ttu-id="94125-103">É fácil alterar definições Outlook.com para procura e o comportamento pretendido.</span><span class="sxs-lookup"><span data-stu-id="94125-103">It's easy to change settings in Outlook.com so it looks and behaves the way you want it to.</span></span> <span data-ttu-id="94125-104">Seleccione **Definições** na barra de ferramentas para as opções mais populares.</span><span class="sxs-lookup"><span data-stu-id="94125-104">Select **Settings** on the toolbar to the most popular options.</span></span> 
+
+<span data-ttu-id="94125-105">Para ver todas as opções de esquema, seleccione **as definições de** > **série** > [**esquema**](https://outlook.live.com/mail/options/mail/layout).</span><span class="sxs-lookup"><span data-stu-id="94125-105">To see all layout options, Select **Settings** > **Mail** > [**Layout**](https://outlook.live.com/mail/options/mail/layout).</span></span> 
   
 

@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.openlocfilehash: 3f4f6cf96f8197b0840f26e922e1158c18d07c63
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932411"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369545"
 ---
-<span data-ttu-id="da1e5-102">"Configurar"</span><span class="sxs-lookup"><span data-stu-id="da1e5-102">"Setting up"</span></span>
+<span data-ttu-id="292c5-102">"Configurar"</span><span class="sxs-lookup"><span data-stu-id="292c5-102">"Setting up"</span></span>
 
-# <a name="sharepoint-online-or-onedrive-setting-up"></a><span data-ttu-id="da1e5-103">SharePoint Online ou OneDrive "Configurar"</span><span class="sxs-lookup"><span data-stu-id="da1e5-103">SharePoint Online or OneDrive "Setting up"</span></span>
+# <a name="sharepoint-online-or-onedrive-setting-up"></a><span data-ttu-id="292c5-103">SharePoint Online ou OneDrive "Configurar"</span><span class="sxs-lookup"><span data-stu-id="292c5-103">SharePoint Online or OneDrive "Setting up"</span></span>
 
-<span data-ttu-id="da1e5-104">Quando um utilizador é adicionado a um locatário existente do Office 365, os poderão ver o SharePoint Online ou OneDrive para ícones de negócio, é apresentadas como "Configurar" até o processo de aprovisionamento foi concluído.</span><span class="sxs-lookup"><span data-stu-id="da1e5-104">When a user is added to an existing Office 365 tenant, they may see the SharePoint Online or OneDrive for Business icons displayed as "Setting up" until the provisioning process has been completed.</span></span>
+<span data-ttu-id="292c5-104">Quando um utilizador é adicionado a um locatário existente do Office 365, os poderão ver o SharePoint Online ou OneDrive para ícones de negócio, é apresentadas como "Configurar" até o processo de aprovisionamento foi concluído.</span><span class="sxs-lookup"><span data-stu-id="292c5-104">When a user is added to an existing Office 365 tenant, they may see the SharePoint Online or OneDrive for Business icons displayed as "Setting up" until the provisioning process has been completed.</span></span>
   
-<span data-ttu-id="da1e5-p101">Se tiverem passado mais de 24 horas desde que a visualizou pela primeira vez a este problema, inicie a sessão de um incidente de suporte. Em muitos casos, a Microsoft já estiver a trabalhar numa solução. Forneça pelo menos 24 horas para concluir uma solução.</span><span class="sxs-lookup"><span data-stu-id="da1e5-p101">If more than 24 hours have passed since you first saw this issue, please log a support case. In many cases, we're already working on a solution. Please give us at least 24 hours to complete a solution.</span></span>
+<span data-ttu-id="292c5-105">Se tiverem passado mais de 24 horas desde que a visualizou pela primeira vez a este problema, inicie a sessão de um incidente de suporte.</span><span class="sxs-lookup"><span data-stu-id="292c5-105">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="292c5-106">Em muitos casos, a Microsoft já estiver a trabalhar numa solução.</span><span class="sxs-lookup"><span data-stu-id="292c5-106">In many cases, we're already working on a solution.</span></span> <span data-ttu-id="292c5-107">Forneça pelo menos 24 horas para concluir uma solução.</span><span class="sxs-lookup"><span data-stu-id="292c5-107">Please give us at least 24 hours to complete a solution.</span></span>
   
 

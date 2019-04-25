@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
 ms.openlocfilehash: ffdede78f772a4efc1f1803f9494c9766e33550d
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30752357"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421647"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="02b4b-102">Palavras-passe de conjunto para nunca expirar</span><span class="sxs-lookup"><span data-stu-id="02b4b-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="d7f47-102">Palavras-passe de conjunto para nunca expirar</span><span class="sxs-lookup"><span data-stu-id="d7f47-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="02b4b-103">Para definir todas as palavras-passe para nunca expirar, vá para [segurança &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span><span class="sxs-lookup"><span data-stu-id="02b4b-103">To set ALL passwords to never expire, go to [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span></span> <span data-ttu-id="02b4b-104">Clique em **Editar** junto a **Política de palavra-passe**e activar o controlo de deslize para **no**.</span><span class="sxs-lookup"><span data-stu-id="02b4b-104">Click **Edit** next to **Password Policy**, and turn the slider to **On**.</span></span>
+<span data-ttu-id="d7f47-103">Para definir todas as palavras-passe para nunca expirar, vá para [segurança &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span><span class="sxs-lookup"><span data-stu-id="d7f47-103">To set ALL passwords to never expire, go to [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span></span> <span data-ttu-id="d7f47-104">Clique em **Editar** junto a **Política de palavra-passe**e activar o controlo de deslize para **no**.</span><span class="sxs-lookup"><span data-stu-id="d7f47-104">Click **Edit** next to **Password Policy**, and turn the slider to **On**.</span></span>
   
-<span data-ttu-id="02b4b-105">Para obter informações mais detalhadas, consulte: [definir a política de expiração de palavra-passe para a sua organização.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="02b4b-105">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
+<span data-ttu-id="d7f47-105">Para obter informações mais detalhadas, consulte: [definir a política de expiração de palavra-passe para a sua organização.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="d7f47-105">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
   
-[<span data-ttu-id="02b4b-106">Definir palavra-passe nunca expire para utilizadores específicos</span><span class="sxs-lookup"><span data-stu-id="02b4b-106">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[<span data-ttu-id="d7f47-106">Definir palavra-passe nunca expire para utilizadores específicos</span><span class="sxs-lookup"><span data-stu-id="d7f47-106">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
   
 

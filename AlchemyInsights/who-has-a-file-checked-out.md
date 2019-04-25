@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
 ms.openlocfilehash: 994d71ca6f140008336d7edb8387f6e044c22d2d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940403"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422726"
 ---
-# <a name="who-has-a-file-checked-out"></a><span data-ttu-id="cda60-102">Quem tem um ficheiro com saída dada?</span><span class="sxs-lookup"><span data-stu-id="cda60-102">Who has a file checked out?</span></span>
+# <a name="who-has-a-file-checked-out"></a><span data-ttu-id="05056-102">Quem tem um ficheiro com saída dada?</span><span class="sxs-lookup"><span data-stu-id="05056-102">Who has a file checked out?</span></span>
 
-<span data-ttu-id="cda60-103">Para ver quem tem um ficheiro com saída dada pode efectuar qualquer um dos seguintes passos:</span><span class="sxs-lookup"><span data-stu-id="cda60-103">To see who has a file checked out you can do either one of the following steps:</span></span>
+<span data-ttu-id="05056-103">Para ver quem tem um ficheiro com saída dada pode efectuar qualquer um dos seguintes passos:</span><span class="sxs-lookup"><span data-stu-id="05056-103">To see who has a file checked out you can do either one of the following steps:</span></span>
   
-1. <span data-ttu-id="cda60-104">Paire sobre **Dar saída** para ver uma sugestão que indica que tem o ficheiro com saída dada.</span><span class="sxs-lookup"><span data-stu-id="cda60-104">Hover over **Checked Out** to see a tooltip that tells you who has the file checked out.</span></span> 
+1. <span data-ttu-id="05056-104">Paire sobre **Dar saída** para ver uma sugestão que indica que tem o ficheiro com saída dada.</span><span class="sxs-lookup"><span data-stu-id="05056-104">Hover over **Checked Out** to see a tooltip that tells you who has the file checked out.</span></span> 
     
-2. <span data-ttu-id="cda60-p101">Adicionar o \* \* dada saída por \* \* coluna para a vista predefinida da biblioteca. Desta forma, todos os utilizadores podem facilmente ver quem tem um documento com saída dada.</span><span class="sxs-lookup"><span data-stu-id="cda60-p101">Add the \*\* Checked Out By \*\* column to the default view of the library. This way, everyone can easily see who has a document checked out.</span></span> 
+2. <span data-ttu-id="05056-105">Adicionar o \* \* dada saída por \* \* coluna para a vista predefinida da biblioteca.</span><span class="sxs-lookup"><span data-stu-id="05056-105">Add the \*\* Checked Out By \*\* column to the default view of the library.</span></span> <span data-ttu-id="05056-106">Desta forma, todos os utilizadores podem facilmente ver quem tem um documento com saída dada.</span><span class="sxs-lookup"><span data-stu-id="05056-106">This way, everyone can easily see who has a document checked out.</span></span> 
     
-<span data-ttu-id="cda60-107">Para obter informações sobre como adicionar uma coluna dada saída por no SharePoint, consulte [criar uma coluna numa lista ou biblioteca](https://go.microsoft.com/fwlink/?linkid=2019591).</span><span class="sxs-lookup"><span data-stu-id="cda60-107">To learn how to add a Checked Out By column in SharePoint, see [Create a column in a list or library](https://go.microsoft.com/fwlink/?linkid=2019591).</span></span> 
+<span data-ttu-id="05056-107">Para obter informações sobre como adicionar uma coluna dada saída por no SharePoint, consulte [criar uma coluna numa lista ou biblioteca](https://go.microsoft.com/fwlink/?linkid=2019591).</span><span class="sxs-lookup"><span data-stu-id="05056-107">To learn how to add a Checked Out By column in SharePoint, see [Create a column in a list or library](https://go.microsoft.com/fwlink/?linkid=2019591).</span></span> 
   
-<span data-ttu-id="cda60-108">Ver mais perguntas mais frequentes sobre a marca de verificação na ou dar saída, consulte [perguntas sobre a verificação de saída de verificação](https://go.microsoft.com/fwlink/?linkid=2018786).</span><span class="sxs-lookup"><span data-stu-id="cda60-108">See more frequently asked questions about check in or check out, see [Top questions about check out, check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
+<span data-ttu-id="05056-108">Ver mais perguntas mais frequentes sobre a marca de verificação na ou dar saída, consulte [perguntas sobre a verificação de saída de verificação](https://go.microsoft.com/fwlink/?linkid=2018786).</span><span class="sxs-lookup"><span data-stu-id="05056-108">See more frequently asked questions about check in or check out, see [Top questions about check out, check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
   
 

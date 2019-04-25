@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
 ms.openlocfilehash: 88f91f897aacf22ae9c82c59d5eb50b3ffcd5330
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758945"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369725"
 ---
-# <a name="how-to-share-in-sharepoint-online"></a><span data-ttu-id="aedb4-102">Como partilhar no SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="aedb4-102">How to share in SharePoint Online</span></span>
+# <a name="how-to-share-in-sharepoint-online"></a><span data-ttu-id="feae2-102">Como partilhar no SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="feae2-102">How to share in SharePoint Online</span></span>
 
-<span data-ttu-id="aedb4-103">Para partilhar um site:</span><span class="sxs-lookup"><span data-stu-id="aedb4-103">To share a site:</span></span>
+<span data-ttu-id="feae2-103">Para partilhar um site:</span><span class="sxs-lookup"><span data-stu-id="feae2-103">To share a site:</span></span>
   
-1. <span data-ttu-id="aedb4-104">Abra o site num web browser.</span><span class="sxs-lookup"><span data-stu-id="aedb4-104">Open the site in a web browser.</span></span>
+1. <span data-ttu-id="feae2-104">Abra o site num web browser.</span><span class="sxs-lookup"><span data-stu-id="feae2-104">Open the site in a web browser.</span></span>
     
-2. <span data-ttu-id="aedb4-105">Se o site pertence a um grupo do Office 365, clique no ícone de definições no canto superior direito e, em seguida, clique em **permissões do Site**.</span><span class="sxs-lookup"><span data-stu-id="aedb4-105">If the site belongs to an Office 365 group, click the Settings icon in the upper right, and then click **Site permissions**.</span></span> <span data-ttu-id="aedb4-106">Clique em **Convidar pessoas**e, em seguida, optar por adicionar membros ao grupo do Office 365 ou partilhar apenas o site.</span><span class="sxs-lookup"><span data-stu-id="aedb4-106">Click **Invite people**, and then choose to add members to the Office 365 group or share only the site.</span></span> 
+2. <span data-ttu-id="feae2-105">Se o site pertence a um grupo do Office 365, clique no ícone de definições no canto superior direito e, em seguida, clique em **permissões do Site**.</span><span class="sxs-lookup"><span data-stu-id="feae2-105">If the site belongs to an Office 365 group, click the Settings icon in the upper right, and then click **Site permissions**.</span></span> <span data-ttu-id="feae2-106">Clique em **Convidar pessoas**e, em seguida, optar por adicionar membros ao grupo do Office 365 ou partilhar apenas o site.</span><span class="sxs-lookup"><span data-stu-id="feae2-106">Click **Invite people**, and then choose to add members to the Office 365 group or share only the site.</span></span> 
     
-    <span data-ttu-id="aedb4-107">Para um site de comunicação, clique em **sites do Share** no canto superior direito, introduza o nome da pessoa e, em seguida, seleccione o nível de permissão (ler, editar ou controlo total).</span><span class="sxs-lookup"><span data-stu-id="aedb4-107">For a communication site, click **Share site** in the upper-right, enter the person's name, and then select the permission level (Read, Edit, or Full Control).</span></span> 
+    <span data-ttu-id="feae2-107">Para um site de comunicação, clique em **sites do Share** no canto superior direito, introduza o nome da pessoa e, em seguida, seleccione o nível de permissão (ler, editar ou controlo total).</span><span class="sxs-lookup"><span data-stu-id="feae2-107">For a communication site, click **Share site** in the upper-right, enter the person's name, and then select the permission level (Read, Edit, or Full Control).</span></span> 
     
-    <span data-ttu-id="aedb4-108">Para um site de equipa clássico, clique em **partilhar** no canto superior direito.</span><span class="sxs-lookup"><span data-stu-id="aedb4-108">For a classic team site, click **Share** in the upper-right.</span></span> <span data-ttu-id="aedb4-109">Introduza o nome da pessoa que pretende convidar ou escreva todos para partilhar com todos os utilizadores na organização.</span><span class="sxs-lookup"><span data-stu-id="aedb4-109">Enter the name of the person you want to invite or type Everyone to share with everyone in your organization.</span></span> <span data-ttu-id="aedb4-110">Clique em **partilhar**.</span><span class="sxs-lookup"><span data-stu-id="aedb4-110">Click **Share**.</span></span>
+    <span data-ttu-id="feae2-108">Para um site de equipa clássico, clique em **partilhar** no canto superior direito.</span><span class="sxs-lookup"><span data-stu-id="feae2-108">For a classic team site, click **Share** in the upper-right.</span></span> <span data-ttu-id="feae2-109">Introduza o nome da pessoa que pretende convidar ou escreva todos para partilhar com todos os utilizadores na organização.</span><span class="sxs-lookup"><span data-stu-id="feae2-109">Enter the name of the person you want to invite or type Everyone to share with everyone in your organization.</span></span> <span data-ttu-id="feae2-110">Clique em **partilhar**.</span><span class="sxs-lookup"><span data-stu-id="feae2-110">Click **Share**.</span></span>
     
-[<span data-ttu-id="aedb4-111">Obter informações sobre como partilhar um ficheiro ou pasta</span><span class="sxs-lookup"><span data-stu-id="aedb4-111">Learn how to share a file or folder</span></span>](https://go.microsoft.com/fwlink/?linkid=511430)
+[<span data-ttu-id="feae2-111">Obter informações sobre como partilhar um ficheiro ou pasta</span><span class="sxs-lookup"><span data-stu-id="feae2-111">Learn how to share a file or folder</span></span>](https://go.microsoft.com/fwlink/?linkid=511430)
   
 

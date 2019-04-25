@@ -17,11 +17,11 @@ search.appverid:
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
 ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: c2070de81172fe627f489adf391f3c4bed222c4d
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379436"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32403686"
 ---
 # <a name="enable-multi-factor-authentication"></a>Activar autenticação multi-factores
 
@@ -33,7 +33,7 @@ ms.locfileid: "30379436"
     
 4. Seleccione a caixa de verificação junto dos utilizadores que pretende activar.
     
-5.  No painel de informações de utilizador à direita, ao abrigo de **passos rápidos** vai consulte Activar e gerir as definições do utilizador. Seleccione **Activar**. 
+5.  No painel de informações de utilizador à direita, ao abrigo de **passos rápidos** vai consulte Activar e gerir as definições do utilizador. Selecione **Ativar**. 
     
 6. Na caixa de diálogo que abre, **clique em activar a autenticação de factor múltiplos**. 
     

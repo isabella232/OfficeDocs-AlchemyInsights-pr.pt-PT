@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom: 1554
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
 ms.openlocfilehash: 7651effc43cb0c4bc2fbbe5349bb72303943f493
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859151"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419991"
 ---
-# <a name="winsock-error-10061"></a><span data-ttu-id="da5fb-102">Erro de Winsock 10061</span><span class="sxs-lookup"><span data-stu-id="da5fb-102">Winsock error 10061</span></span>
+# <a name="winsock-error-10061"></a><span data-ttu-id="f7731-102">Erro de Winsock 10061</span><span class="sxs-lookup"><span data-stu-id="f7731-102">Winsock error 10061</span></span>
 
-<span data-ttu-id="da5fb-103">Este código de erro significa que o Office 365 não foi possível estabelecer um socket TCP (ligação) com o anfitrião de destino.</span><span class="sxs-lookup"><span data-stu-id="da5fb-103">This error code means that Office 365 couldn't establish a TCP socket (connection) with the target host.</span></span> <span data-ttu-id="da5fb-104">A causa mais provável deste erro é um problema com a configuração do firewall.</span><span class="sxs-lookup"><span data-stu-id="da5fb-104">The most likely cause of this error is a problem with your firewall configuration.</span></span> <span data-ttu-id="da5fb-105">Para corrigir o problema, verifique estas definições:</span><span class="sxs-lookup"><span data-stu-id="da5fb-105">To fix the problem, check these settings:</span></span>
+<span data-ttu-id="f7731-103">Este código de erro significa que o Office 365 não foi possível estabelecer um socket TCP (ligação) com o anfitrião de destino.</span><span class="sxs-lookup"><span data-stu-id="f7731-103">This error code means that Office 365 couldn't establish a TCP socket (connection) with the target host.</span></span> <span data-ttu-id="f7731-104">A causa mais provável deste erro é um problema com a configuração do firewall.</span><span class="sxs-lookup"><span data-stu-id="f7731-104">The most likely cause of this error is a problem with your firewall configuration.</span></span> <span data-ttu-id="f7731-105">Para corrigir o problema, verifique estas definições:</span><span class="sxs-lookup"><span data-stu-id="f7731-105">To fix the problem, check these settings:</span></span>
 
-- <span data-ttu-id="da5fb-106">Verifique a configuração de firewall com as informações no [Office 365 URLs e intervalos de endereços IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span><span class="sxs-lookup"><span data-stu-id="da5fb-106">Verify your firewall configuration with the information in [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span></span>
+- <span data-ttu-id="f7731-106">Verifique a configuração de firewall com as informações no [Office 365 URLs e intervalos de endereços IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span><span class="sxs-lookup"><span data-stu-id="f7731-106">Verify your firewall configuration with the information in [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span></span>
 
-- <span data-ttu-id="da5fb-107">Se o erro é específico para Exchange Online protecção (EOP), deve tiver sido previamente notificado a uma alteração para os [endereços IP de protecção Online do Exchange](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).</span><span class="sxs-lookup"><span data-stu-id="da5fb-107">If the error is specific to Exchange Online Protection (EOP), you should have been previously notified to a change to the [Exchange Online Protection IP addresses](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).</span></span>
+- <span data-ttu-id="f7731-107">Se o erro é específico para Exchange Online protecção (EOP), deve tiver sido previamente notificado a uma alteração para os [endereços IP de protecção Online do Exchange](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).</span><span class="sxs-lookup"><span data-stu-id="f7731-107">If the error is specific to Exchange Online Protection (EOP), you should have been previously notified to a change to the [Exchange Online Protection IP addresses](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).</span></span>
 
-- <span data-ttu-id="da5fb-108">Certifique-se de que o fornecedor de serviços Internet (ISP) não está a bloquear a porta.</span><span class="sxs-lookup"><span data-stu-id="da5fb-108">Verify that your Internet Service Provider (ISP) isn't blocking the port.</span></span>
+- <span data-ttu-id="f7731-108">Certifique-se de que o fornecedor de serviços Internet (ISP) não está a bloquear a porta.</span><span class="sxs-lookup"><span data-stu-id="f7731-108">Verify that your Internet Service Provider (ISP) isn't blocking the port.</span></span>
 
-- <span data-ttu-id="da5fb-109">Verifique as definições de servidor de anfitrião e de destino inteligentes os conectores.</span><span class="sxs-lookup"><span data-stu-id="da5fb-109">Verify the smart host and target server settings in your connectors.</span></span>
+- <span data-ttu-id="f7731-109">Verifique as definições de servidor de anfitrião e de destino inteligentes os conectores.</span><span class="sxs-lookup"><span data-stu-id="f7731-109">Verify the smart host and target server settings in your connectors.</span></span>
 
-<span data-ttu-id="da5fb-110">Tenha em atenção que o Office 365 não bloquear ligações a *receber* desta forma.</span><span class="sxs-lookup"><span data-stu-id="da5fb-110">Note that Office 365 doesn't block *incoming* connections in this manner.</span></span>
+<span data-ttu-id="f7731-110">Tenha em atenção que o Office 365 não bloquear ligações a *receber* desta forma.</span><span class="sxs-lookup"><span data-stu-id="f7731-110">Note that Office 365 doesn't block *incoming* connections in this manner.</span></span>

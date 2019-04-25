@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
 ms.openlocfilehash: f2cdb319e56b82c09b7a9856c81a45e69dee6759
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760997"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423734"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="5e617-102">Atualizar os registos DNS para manter o seu Web site junto do seu fornecedor de alojamento atual</span><span class="sxs-lookup"><span data-stu-id="5e617-102">Update DNS records to keep your website with your current hosting provider</span></span>
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="29951-102">Atualizar os registos DNS para manter o seu Web site junto do seu fornecedor de alojamento atual</span><span class="sxs-lookup"><span data-stu-id="29951-102">Update DNS records to keep your website with your current hosting provider</span></span>
 
-1. <span data-ttu-id="5e617-103">Na página [Domínios](https://portal.office.com/adminportal/home#/Domains), na lista de domínios, selecione o domínio que está a utilizar para o seu site e, em seguida, selecione **Definições de DNS** no painel de gestão.</span><span class="sxs-lookup"><span data-stu-id="5e617-103">On the [Domains](https://portal.office.com/adminportal/home#/Domains) page, in the list of domains, select the domain you're using for your website, and then select **DNS settings** in the management pane.</span></span> 
+1. <span data-ttu-id="29951-103">Na página [Domínios](https://portal.office.com/adminportal/home#/Domains), na lista de domínios, selecione o domínio que está a utilizar para o seu site e, em seguida, selecione **Definições de DNS** no painel de gestão.</span><span class="sxs-lookup"><span data-stu-id="29951-103">On the [Domains](https://portal.office.com/adminportal/home#/Domains) page, in the list of domains, select the domain you're using for your website, and then select **DNS settings** in the management pane.</span></span> 
     
-2. <span data-ttu-id="5e617-104">Selecione **+ Novo registo personalizado** e introduza o seguinte:</span><span class="sxs-lookup"><span data-stu-id="5e617-104">Select **+ New custom record** and enter the following:</span></span> 
+2. <span data-ttu-id="29951-104">Selecione **+ Novo registo personalizado** e introduza o seguinte:</span><span class="sxs-lookup"><span data-stu-id="29951-104">Select **+ New custom record** and enter the following:</span></span> 
     
-  - <span data-ttu-id="5e617-105">Para **Tipo de DNS**, introduza: **A (Endereço)**</span><span class="sxs-lookup"><span data-stu-id="5e617-105">For **DNS type** enter: **A (Address)**</span></span>
+  - <span data-ttu-id="29951-105">Para **Tipo de DNS**, introduza: **A (Endereço)**</span><span class="sxs-lookup"><span data-stu-id="29951-105">For **DNS type** enter: **A (Address)**</span></span>
     
-  - <span data-ttu-id="5e617-106">Em **Nome do anfitrião ou Alias**, escreva o seguinte: **@**</span><span class="sxs-lookup"><span data-stu-id="5e617-106">For **Host name or Alias**, type the following: **@**</span></span>
+  - <span data-ttu-id="29951-106">Em **Nome do anfitrião ou Alias**, escreva o seguinte: **@**</span><span class="sxs-lookup"><span data-stu-id="29951-106">For **Host name or Alias**, type the following: **@**</span></span>
     
-  - <span data-ttu-id="5e617-107">Em **Endereço IP**, escreva o endereço IP estático onde o seu site está atualmente alojado (por exemplo, 172.16.140.1).</span><span class="sxs-lookup"><span data-stu-id="5e617-107">For **IP Address**, type the static IP address for your website where it's currently hosted (for example, 172.16.140.1).</span></span> 
+  - <span data-ttu-id="29951-107">Em **Endereço IP**, escreva o endereço IP estático onde o seu site está atualmente alojado (por exemplo, 172.16.140.1).</span><span class="sxs-lookup"><span data-stu-id="29951-107">For **IP Address**, type the static IP address for your website where it's currently hosted (for example, 172.16.140.1).</span></span> 
     
-    <span data-ttu-id="5e617-p101">Tem de ser um endereço IP  *estático*  do site e não um endereço IP  *dinâmico*  . Verifique onde o seu site está alojado para se certificar de que consegue obter um endereço IP estático do seu site público.</span><span class="sxs-lookup"><span data-stu-id="5e617-p101">This must be a  *static*  IP address for the website, not a  *dynamic*  IP address. Check with site where your website is hosted to make sure you can get a static IP address for your public website.</span></span> 
+    <span data-ttu-id="29951-p101">Tem de ser um endereço IP  *estático*  do site e não um endereço IP  *dinâmico*  . Verifique onde o seu site está alojado para se certificar de que consegue obter um endereço IP estático do seu site público.</span><span class="sxs-lookup"><span data-stu-id="29951-p101">This must be a  *static*  IP address for the website, not a  *dynamic*  IP address. Check with site where your website is hosted to make sure you can get a static IP address for your public website.</span></span> 
     
-3. <span data-ttu-id="5e617-110">Selecione **Guardar**.</span><span class="sxs-lookup"><span data-stu-id="5e617-110">Select **Save**.</span></span> 
+3. <span data-ttu-id="29951-110">Selecione **Guardar**.</span><span class="sxs-lookup"><span data-stu-id="29951-110">Select **Save**.</span></span> 
     
-<span data-ttu-id="5e617-111">Além disso, pode criar um registo CNAME para ajudar os clientes a encontrarem o seu site.</span><span class="sxs-lookup"><span data-stu-id="5e617-111">In addition, you can create a CNAME record to help customers find your website.</span></span>
+<span data-ttu-id="29951-111">Além disso, pode criar um registo CNAME para ajudar os clientes a encontrarem o seu site.</span><span class="sxs-lookup"><span data-stu-id="29951-111">In addition, you can create a CNAME record to help customers find your website.</span></span>
   
-1. <span data-ttu-id="5e617-112">Selecione **+ Novo registo personalizado** e introduza o seguinte:</span><span class="sxs-lookup"><span data-stu-id="5e617-112">Select **+ New custom record** and enter the following:</span></span> 
+1. <span data-ttu-id="29951-112">Selecione **+ Novo registo personalizado** e introduza o seguinte:</span><span class="sxs-lookup"><span data-stu-id="29951-112">Select **+ New custom record** and enter the following:</span></span> 
     
-  - <span data-ttu-id="5e617-113">Para **Tipo de DNS**, introduza: **CNAME (Alias)**</span><span class="sxs-lookup"><span data-stu-id="5e617-113">For **DNS type** enter: **CNAME (Alias)**</span></span>
+  - <span data-ttu-id="29951-113">Para **Tipo de DNS**, introduza: **CNAME (Alias)**</span><span class="sxs-lookup"><span data-stu-id="29951-113">For **DNS type** enter: **CNAME (Alias)**</span></span>
     
-  - <span data-ttu-id="5e617-114">Em **Nome do anfitrião ou Alias**, escreva o seguinte: **www**</span><span class="sxs-lookup"><span data-stu-id="5e617-114">For **Host name or Alias**, type the following: **www**</span></span>
+  - <span data-ttu-id="29951-114">Em **Nome do anfitrião ou Alias**, escreva o seguinte: **www**</span><span class="sxs-lookup"><span data-stu-id="29951-114">For **Host name or Alias**, type the following: **www**</span></span>
     
-  - <span data-ttu-id="5e617-115">Em **Aponta para o endereço**, escreva o nome de domínio completamente qualificado (FQDN) do site, (por exemplo: contoso.com</span><span class="sxs-lookup"><span data-stu-id="5e617-115">For **Points to address**, type the fully qualified domain name (FQDN) for your website (for example, contoso.com).</span></span> 
+  - <span data-ttu-id="29951-115">Em **Aponta para o endereço**, escreva o nome de domínio completamente qualificado (FQDN) do site, (por exemplo: contoso.com</span><span class="sxs-lookup"><span data-stu-id="29951-115">For **Points to address**, type the fully qualified domain name (FQDN) for your website (for example, contoso.com).</span></span> 
     
-2. <span data-ttu-id="5e617-116">Selecione **Guardar**.</span><span class="sxs-lookup"><span data-stu-id="5e617-116">Select **Save**.</span></span> 
+2. <span data-ttu-id="29951-116">Selecione **Guardar**.</span><span class="sxs-lookup"><span data-stu-id="29951-116">Select **Save**.</span></span> 
     
 

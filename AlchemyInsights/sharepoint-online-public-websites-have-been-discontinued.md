@@ -11,13 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 044820bc6bce19ea1235bffa49b46f92d778b157
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 69f43d060d4ca8d99f25cf6813baa1b2fb35125f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34719422"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34758881"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a><span data-ttu-id="777d7-102">Web sites públicos SharePoint Online foram descontinuados</span><span class="sxs-lookup"><span data-stu-id="777d7-102">SharePoint Online public websites have been discontinued</span></span>
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a><span data-ttu-id="5304c-102">Web sites públicos SharePoint Online foram descontinuados</span><span class="sxs-lookup"><span data-stu-id="5304c-102">SharePoint Online public websites have been discontinued</span></span>
 
-<p><span data-ttu-id="777d7-103"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Web sites públicos SharePoint Online foram descontinuados.&nbsp;</span></span><span class="sxs-lookup"><span data-stu-id="777d7-103"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">SharePoint Online public websites have been discontinued.&nbsp;</span></span></span></p> <p><span data-ttu-id="777d7-104"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Se criou um Web site público SharePoint Online, foi possível continuar a utilizar a 31 de Março de 2018. Se pretender continuar a ter um Web site público, terá de criar um novo com um novo fornecedor. O conteúdo no Web site público do SharePoint Online foi eliminado.&nbsp;</span></span><span class="sxs-lookup"><span data-stu-id="777d7-104"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">If you created a SharePoint Online public website, you were able to continue using it thru March 31, 2018. If you want to continue having a public website, you need to create a new one with a new provider. The content on your SharePoint Online public website has been deleted.&nbsp;</span></span></span></p> <p><span data-ttu-id="777d7-105"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Para informações sobre a interrupção do Web site público, consulte os <a href="https://go.microsoft.com/fwlink/?linkid=866980">detalhes sobre o processo de interrupção de funcionalidade</a>.</span></span><span class="sxs-lookup"><span data-stu-id="777d7-105"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">For info about the public website discontinuation, see <a href="https://go.microsoft.com/fwlink/?linkid=866980">Details about the feature discontinuation process</a>.</span></span></span></p>
+<span data-ttu-id="5304c-103">Web sites públicos SharePoint Online foram descontinuados.</span><span class="sxs-lookup"><span data-stu-id="5304c-103">SharePoint Online public websites have been discontinued.</span></span>
+
+<span data-ttu-id="5304c-104">Se criou um Web site público SharePoint Online, foi possível continuar a utilizar a 31 de Março de 2018.</span><span class="sxs-lookup"><span data-stu-id="5304c-104">If you created a SharePoint Online public website, you were able to continue using it thru March 31, 2018.</span></span> <span data-ttu-id="5304c-105">Se pretender continuar a ter um Web site público, terá de criar um novo com um novo fornecedor.</span><span class="sxs-lookup"><span data-stu-id="5304c-105">If you want to continue having a public website, you need to create a new one with a new provider.</span></span> <span data-ttu-id="5304c-106">O conteúdo no Web site público do SharePoint Online foi eliminado.</span><span class="sxs-lookup"><span data-stu-id="5304c-106">The content on your SharePoint Online public website has been deleted.</span></span>
+
+<span data-ttu-id="5304c-107">Para informações sobre a interrupção do Web site público, consulte os [detalhes sobre o processo de interrupção de funcionalidade](https://go.microsoft.com/fwlink/?linkid=866980).</span><span class="sxs-lookup"><span data-stu-id="5304c-107">For info about the public website discontinuation, see [Details about the feature discontinuation process](https://go.microsoft.com/fwlink/?linkid=866980).</span></span>

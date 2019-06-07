@@ -12,24 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 76aba7b2c065e78364ba48eabdae1436e2e6e9cc
-ms.sourcegitcommit: f2b5fdfde0b407828b06fa5c91403c960a30294f
+ms.openlocfilehash: ff9fa79aa4124c7af0521e07a5f1ce243f9e7f47
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34738066"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34757337"
 ---
 # <a name="upgrade-to-visio-2019"></a>Actualizar para o Visio 2019
 
-Se tiver instalado a aplicação de ambiente de trabalho do Visio como parte da sua subscrição Online do Visio, já tem a versão mais recente. Para comparar os planos do Visio e opções de não-subscrição, consulte Opções de comparar o Visio.
+Os utilizadores que instalaram a aplicação de ambiente de trabalho do Visio como parte de uma subscrição Online do Visio já têm a versão mais recente. 
 
-Se tiver uma versão de não-subscrição do Visio, tal como o Visio 2016 e pretende actualizar para o Visio 2019 tem de comprar o Visio 2019 ou adquirir uma subscrição Online do Visio. Se já tiver o Visio 2019 e está pronto para instalá-lo, consulte [Instalar o Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798). 
+Para actualizar uma versão de não-subscrição, tais como o Visio 2016, necessita de comprar uma subscrição Online do Visio ou compra única do Visio Standard ou Professional de visão 2019. Ver [Opções de comparar o Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).
 
-Se estiver a instalar o Visio lado a lado com o Office no mesmo computador, consulte os [cenários suportados para instalar versões diferentes do Office, Project e do Visio no mesmo computador](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
+Se já adquiriu uma versão mais recente e está pronto para instalá-lo, consulte [Instalar o Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) e siga os passos para a sua versão. 
 
-**Nota**: A versão principal do Visio 2019 tenha estada no 16,0.
+Para instalar o Visio lado a lado com o Office, consulte os [cenários suportados para instalar versões diferentes do Office, Project e do Visio no mesmo computador](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
 
-Para mais informações, consulte: [Guia de implementação para o Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)
-[o número de versão principal do Visio 2019 tenha estada no 16,0](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)
-[designação em aplicações de cliente do Office de 2016 e Office 365 será removida entradas de menu de início do ano](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) 
- [Office 2019 comercial para Windows e Mac perguntas mais frequentes](https://support.microsoft.com/help/4133312) 
+Para obter mais informações, consulte:<br>
+[Guia de implementação para o Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[O número de versão principal do Visio 2019 tenha estada no 16,0](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
+[Designação do ano em aplicações de cliente do Office de 2016 e Office 365 será removida entradas de menu Iniciar](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
+[Office 2019 comercial para Windows e Mac perguntas mais frequentes](https://support.microsoft.com/help/4133312) 

@@ -2,7 +2,7 @@
 title: 713 adicionar um endereço de correio electrónico adicionais a uma lista de distribuição
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 713
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 491014e8f452faed4b78140b5fdf4bbd82ddba58
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7f43bbc893a3163eb76a3239b689c76f266adca5
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398613"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34754574"
 ---
 # <a name="add-an-email-address-for-a-distribution-group"></a>Adicionar um endereço de correio electrónico para um grupo de distribuição
 

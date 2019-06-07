@@ -8,15 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 620a1094c1926b2c095c057a1791aaed8383afb3
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: b157ce22962ac1616d6e9b3a5475edaec7fed9f7
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34716937"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761269"
 ---
 # <a name="sharepoint-online-throttling"></a>A optimização Online do SharePoint
 
-<p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Os utilizadores poderão receber um 503 servidor estiver ocupado erro quando tentar navegar para sites Sharepoint ou OneDrive.</span></p> <p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Este erro pode ser causado pelo estreitamento dentro do serviço Sharepoint. SharePoint Online utiliza optimização para manter um óptimo desempenho e fiabilidade do serviço Online do SharePoint. Limites de estreitamento o número de acções do utilizador ou em simultâneo chamadas (por script ou código) para impedir a utilização excessiva de recursos. Se é limitada, 99% de tempo deve-se a código personalizado.</span></p> <p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Para mais informações sobre optimização <a href="https://docs.microsoft.com/en-us/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online">evitar obter limitada ou bloqueado no SharePoint Online</a>, consulte.</span></p> <p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Se acha que este erro está relacionado com o estreitamento, pode verificar se existe manutenção activa que ocorram no seu tenant navegando para o <a href="https://portal.office.com/adminportal/home#/MessageCenter">Centro de mensagens</a>. Finalmente, certifique-se de que visitar a página de <a href="https://portal.office.com/adminportal/home#/servicehealth">Estado de funcionamento do serviço</a> para verificar a existência de quaisquer avisos/incidentes que pode estar a ocorrer.</span></p> <p>&nbsp;</p>
+Os utilizadores poderão receber um 503 servidor estiver ocupado erro quando tentar navegar para sites SharePoint ou OneDrive. 
 
+Este erro pode ser causado pelo estreitamento dentro do serviço SharePoint. SharePoint Online utiliza optimização para manter um óptimo desempenho e fiabilidade do serviço Online do SharePoint. Limites de estreitamento o número de acções do utilizador ou em simultâneo chamadas (por script ou código) para impedir a utilização excessiva de recursos. Se é limitada, 99% de tempo deve-se a código personalizado.
+
+Para mais informações sobre optimização [evitar obter limitada ou bloqueado no SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online), consulte.
+
+Se acha que este erro está relacionado com o estreitamento, pode verificar se existe manutenção activa que ocorram no seu tenant navegando para o [Centro de mensagens](https://portal.office.com/adminportal/home#/MessageCenter).
+
+ Finalmente, certifique-se de que visitar a página de [Estado de funcionamento do serviço](https://portal.office.com/adminportal/home#/servicehealth) para verificar a existência de quaisquer avisos/incidentes que pode estar a ocorrer.
 

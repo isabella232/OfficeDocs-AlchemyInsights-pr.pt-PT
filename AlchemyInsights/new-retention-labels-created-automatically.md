@@ -9,16 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 950b20b9982bbac8620a153315598a2b6ea08c6f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6f36420280cc016c1117d19c15c2887d4e308f77
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418144"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771210"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Novos rótulos de retenção criados automaticamente
 
-Poderá visualizar [três novos rótulos de retenção](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) criada automaticamente na organização em **etiquetas de retenção** no Centro de administração de segurança ou de conformidade. Os nomes de etiqueta são:
+Poderá visualizar [três novos rótulos de retenção](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) criada automaticamente na organização em **etiquetas de retenção** no Centro de administração de segurança ou de conformidade. Os nomes de etiqueta são:
 
 - Procedimento operacional
 - Negócio geral
@@ -30,4 +30,4 @@ Isto acontece escolher o **Plano de ficheiro** se existirem outros sistemas de r
 
 1. Seleccionar os rótulos de retenção que pretende remover **Eliminar a etiqueta**de > > **Sim** para eliminar a etiqueta.
 
-Com o Gestor de planeamento de ficheiro, pode gerir etiquetas de retenção e políticas na sua organização, para mais informações, consulte [Descrição geral do Gestor de plano de ficheiros](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager).
+Com o Gestor de planeamento de ficheiro, pode gerir etiquetas de retenção e políticas na sua organização, para mais informações, consulte [Descrição geral do Gestor de plano de ficheiros](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).

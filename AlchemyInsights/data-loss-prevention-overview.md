@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: 4c7d9fd144203ff321fc14e762e8b7d28ea12ca4
-ms.sourcegitcommit: 03258ec4f5476a1ea6dd3a31d17bda815bc5a18a
+ms.openlocfilehash: e9ebad31e64aacedb32adcfc12e18313139058e2
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/24/2019
-ms.locfileid: "33243586"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769834"
 ---
 # <a name="data-loss-prevention-dlp-overview"></a>Descrição geral da Loss Prevention (DLP) de dados
 
@@ -26,5 +26,5 @@ Por exemplo, pode identificar qualquer documento que contenha um número de cart
 - Impedir a partilha acidental de informações sensíveis.
 
 
-Para mais informações, consulte o seguinte [artigo](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies).
+Para mais informações, consulte o seguinte [artigo](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
 

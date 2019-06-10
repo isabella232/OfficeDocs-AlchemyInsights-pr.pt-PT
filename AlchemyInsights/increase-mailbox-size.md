@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f30db7cdb083356b0ad02348b7c5188280dc88f0
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412506"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769906"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Planos de parâmetro aumentar o tamanho da caixa de correio
 
@@ -34,4 +34,4 @@ Se o tamanho da caixa de correio é de 50 GB, pode aumentar-100 GB mudando para 
     
 Para obter mais detalhes, consulte [Mudar para um plano diferente do Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-Se tiver um [plano de O365, que suporta um arquivo no local](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), também pode obter o armazenamento de correio electrónico adicionais, permitindo uma caixa de correio do arquivo.  Uma caixa de correio do arquivo dá-lhe o armazenamento adicional e permite-lhe mover, copiar e procura de mensagens em ambos os principal e caixa de correio do arquivo. Para obter os passos sobre como activar uma caixa de correio do arquivo de mensagens em fila, consulte [Activar uma caixa de correio do arquivo](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).
+Se tiver um [plano de O365, que suporta um arquivo no local](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), também pode obter o armazenamento de correio electrónico adicionais, permitindo uma caixa de correio do arquivo.  Uma caixa de correio do arquivo dá-lhe o armazenamento adicional e permite-lhe mover, copiar e procura de mensagens em ambos os principal e caixa de correio do arquivo. Para obter os passos sobre como activar uma caixa de correio do arquivo de mensagens em fila, consulte [Activar uma caixa de correio do arquivo](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).

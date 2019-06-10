@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096590"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770819"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Resgatar ou substituir uma mensagem de correio electrónico
 
@@ -36,7 +36,7 @@ Para mais informações, incluindo como verificar a recuperação, consulte [res
 
 ***Procurar e eliminar mensagens de correio electrónico na organização*** Para procurar e eliminar mensagens de correio electrónico na organização, é mais fácil se for um administrador global. Se não for um administrador global, deve ser adicionada a conta para o grupo de funções de Gestor de detecção de dados electrónicos, ou para a função de gestão da procura de conformidade. Para eliminar mensagens, terá de associar o grupo de funções de gestão da organização ou a função de gestão de procura e remover. Permissões para estas funções são atribuídas no [Centro de conformidade de & de segurança](https://protection.office.com/).
 
-1. [Criar um conteúdo de procura](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) para localizar a mensagem para eliminar.
-2. [Estabelecer ligação com segurança & conformidade Centro PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Criar um conteúdo de procura](https://docs.microsoft.com/office365/securitycompliance/content-search) para localizar a mensagem para eliminar.
+2. [Estabelecer ligação com segurança & conformidade Centro PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Se estiver a utilizar AMF, consulte [ligar a & de segurança do Office 365 PowerShell do Centro de conformidade a utilizar a autenticação de factor múltiplos](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Se estiver a utilizar AMF, consulte [ligar a & de segurança do Office 365 PowerShell do Centro de conformidade a utilizar a autenticação de factor múltiplos](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

@@ -10,19 +10,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: ee05de080a9bde2dd150cdfe340dd29875242f71
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ce55961326ca15fbe15386455be94f800b5861bf
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 06/07/2019
-ms.locfileid: "34756652"
+ms.locfileid: "34770643"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Ferramenta de procura para localizar as informações relevantes de conteúdo
 
 Utilize a ferramenta Procurar conteúdo no & Security Center de conformidade para localizar rapidamente correio electrónico em caixas de correio do Exchange, documentos em sites do SharePoint e localizações de OneDrive e conversações em Skype para a empresa de mensagens instantâneas. Pode utilizar a ferramenta de conteúdo de procura para procurar por correio electrónico, documentos e conversações em ferramentas de colaboração do Office 365, tais como Teams da Microsoft e do Office 365 grupos de mensagens instantâneas.
 
 
-Antes de utilizar a [Pesquisa de conteúdo](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) a partir do [Security & Center de conformidade](https://sip.protection.office.com/homepage), vai pretender concluir as definições de configuração, incluindo [configurar permissões](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [velocidades de transferência de definição](https://docs.microsoft.com/en-us/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) e [Exportar definições](https://docs.microsoft.com/en-us/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
+Antes de utilizar a [Pesquisa de conteúdo](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) a partir do [Security & Center de conformidade](https://sip.protection.office.com/homepage), vai pretender concluir as definições de configuração, incluindo [configurar permissões](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [velocidades de transferência de definição](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) e [Exportar definições](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
 
 Compreenda mais sobre conteúdo de procura por rever os [requisitos e os limites](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [responsáveis pelo inquérito produtos parcialmente indexados](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) e outros resultados para ter em consideração.
 

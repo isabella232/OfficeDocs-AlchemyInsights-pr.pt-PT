@@ -9,16 +9,19 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 37905f9c673b1597779f558a4c6d9b5a8bc28ad8
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 17554fdefd4ac8a9248e3e375301edf25edebf05
+ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752930"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35115606"
 ---
 # <a name="delete-a-sharepoint-site"></a>Eliminar um site do SharePoint
 **Eliminar sites a partir do novo Centro de administração do SharePoint** Utilizando o novo Centro de administração do SharePoint, pode eliminar sites clássicos e modernas. Seleccionar **sites activos**, seleccione o site e, em seguida, seleccione **Eliminar**. Para [Ver e restaurar eliminados sites o novo Centro de administração do SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), seleccione **Eliminar sites**. Para obter mais informações, consulte [Eliminar um site no novo Centro de administração do SharePoint](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
-**Importante:** Se o site for parte de uma política de retenção, não poderá eliminá-la até que o site é removido o [segurança &amp; política do Centro de administração de conformidade](https://protection.office.com/?rfr=AdminCenter#/homepage). Para obter mais informações, consulte [Descrição geral de políticas de retenção](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . Sugestões:
+
+**Importante:** Se o site for parte de uma política de retenção, não poderá eliminá-la até que o site é removido o [segurança &amp; política do Centro de administração de conformidade](https://protection.office.com/?rfr=AdminCenter#/homepage). Para obter mais informações, consulte [Descrição geral de políticas de retenção](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
+
+Sugestões:
 - Administradores do SharePoint poderá agora eliminar sites pertencentes a **Grupos do Office 365**. Esta acção irá eliminar o grupo e todos os seus recursos, incluindo a caixa de correio do Outlook, calendário e os canais de equipas. Para obter mais informações, consulte [Eliminar um site do SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
 - Pode recuperar sites eliminadas para dias 93. Tenha em atenção que devem ser restaurados eliminados grupos dentro de 30 dias. Para obter mais informações, consulte a [vista e o restauro eliminar sites](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
 - Para remover permanentemente um site, consulte [Eliminar permanentemente um site](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). Este passo será necessário se estiver a planear utilizar novamente o URL. 

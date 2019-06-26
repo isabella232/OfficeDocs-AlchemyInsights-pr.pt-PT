@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 2432b84a06dbf3e5efd69945516174a1f70e0a9f
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: a541c6829d688f06fa4bc207b517cff68170e1da
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760668"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223831"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Activar a partilha externo no SharePoint Online
 
@@ -20,25 +20,25 @@ Se a organização efectua um trabalho que envolva a partilha de documentos ou c
 
 Para mais informações sobre a partilha externo (convidados), visite as hiperligações abaixo.
 
-[O que é um utilizador externo?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [O que é um utilizador externo?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-[O que acontece quando partilhar um documento ou site?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [O que acontece quando partilhar um documento ou site?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-[Ativar ou desativar a partilha externa do SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Ativar ou desativar a partilha externa do SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-[Activar ou desactivar a partilha de um site externo](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Activar ou desactivar a partilha de um site externo](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-[Gerir o acesso de convidado em grupos do Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Gerir o acesso de convidado em grupos do Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
-[Utilizar o Sharepoint Online como uma solução de extranet business-to-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Utilizar o Sharepoint Online como uma solução de extranet business-to-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-[Partilhar ficheiros do SharePoint ou pasta](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Partilhar ficheiros do SharePoint ou pasta](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-[Terminar a partilha de ficheiros de OneDrive ou SharePoint ou pastas, ou alterar permissões](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Terminar a partilha de ficheiros de OneDrive ou SharePoint ou pastas, ou alterar permissões](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-[Eliminar um utilizador externo](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [Eliminar um utilizador externo](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-Receber um erro com um utilizador externo (convidados)?
+**Receber um erro com um utilizador externo (convidados)?**
 
 Verifique as hiperligações abaixo. 
 

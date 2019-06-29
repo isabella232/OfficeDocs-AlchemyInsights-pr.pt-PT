@@ -9,29 +9,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "438"
+- "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: eda1feb55a22a21849b6d017600b7c47e49b5174
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: cfb1012b644d3fa54d385636642b8f7d02a09c0c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420929"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35367660"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Mudar para uma diferente do Office 365 para planear de negócio
 
 Quando o seu negócio sofrer alterações, ou necessitar de mais funcionalidades do Office 365, pode mudar planos.
   
 1. No Centro de Administração, aceda à página [Subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) ou selecione **Faturação** \> **Subscrições**.
-    
-2. Escolha **os planos de parâmetro** para ver a lista dos novos planos que estão disponíveis. 
-    
-3. Escolha um plano para ver o custo total por mês. Certifique-se de que ler as informações da chave, em seguida, seleccione **seguinte** para dar saída. 
-    
+
+2. Escolha **os planos de parâmetro** para ver a lista dos novos planos que estão disponíveis.
+
+3. Escolha um plano para ver o custo total por mês. Certifique-se de que ler as informações da chave, em seguida, seleccione **seguinte** para dar saída.
+
 O botão de planos de parâmetro não é suportado em todas as situações. Em alguns casos, poderá mudar manualmente planos.
   
-Se o botão de **Alternar planos** não estiver disponível, pode tentar [comutar planos manualmente](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209) ou utilizar a opção "diga-nos chamada" para falar com um engenheiro de suporte. 
+Se o botão de **Alternar planos** não estiver disponível, pode tentar [comutar planos manualmente](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209) ou utilizar a opção "diga-nos chamada" para falar com um engenheiro de suporte.
   
 Para todas as variações de planos de comutação, consulte [Mudar para um 3635 do Office diferente para o plano de negócio](https://support.office.com/article/49d77463-d3da-4106-abcf-2d5209106ea2).
   
-

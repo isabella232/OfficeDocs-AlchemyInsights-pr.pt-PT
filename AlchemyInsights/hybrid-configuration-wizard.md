@@ -8,22 +8,23 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "603"
+- "3500010"
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
-ms.openlocfilehash: 480dfc466a8f4f3ef40cfb50f76b8e6d46d45771
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 2a7828af4de1fb3febd6c0e76657d1605a3404cb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755235"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35383252"
 ---
-# <a name="hybrid-configuration-wizard"></a><span data-ttu-id="28f75-102">Assistente de configuração de híbridos</span><span class="sxs-lookup"><span data-stu-id="28f75-102">Hybrid Configuration wizard</span></span>
+# <a name="hybrid-configuration-wizard"></a><span data-ttu-id="31f8b-102">Assistente de configuração de híbridos</span><span class="sxs-lookup"><span data-stu-id="31f8b-102">Hybrid Configuration wizard</span></span>
 
-<span data-ttu-id="28f75-103">O Assistente de configuração híbrida é uma aplicação que ajuda a configurar uma nova implementação híbrido entre a organização do Exchange no local e o Office 365.</span><span class="sxs-lookup"><span data-stu-id="28f75-103">The Hybrid Configuration wizard is an app that helps you set up a new hybrid deployment between your on-premises Exchange organization and Office 365.</span></span> <span data-ttu-id="28f75-104">Se já tiver uma implementação de híbridos, configurar, o assistente ajuda-o a actualizar as definições de implementação de híbridos.</span><span class="sxs-lookup"><span data-stu-id="28f75-104">If you already have a hybrid deployment set up, the wizard helps you update your hybrid deployment settings.</span></span> <span data-ttu-id="28f75-105">Para mais informações, consulte:</span><span class="sxs-lookup"><span data-stu-id="28f75-105">For more information, check out:</span></span>
+<span data-ttu-id="31f8b-103">O Assistente de configuração híbrida é uma aplicação que ajuda a configurar uma nova implementação híbrido entre a organização do Exchange no local e o Office 365.</span><span class="sxs-lookup"><span data-stu-id="31f8b-103">The Hybrid Configuration wizard is an app that helps you set up a new hybrid deployment between your on-premises Exchange organization and Office 365.</span></span> <span data-ttu-id="31f8b-104">Se já tiver uma implementação de híbridos, configurar, o assistente ajuda-o a actualizar as definições de implementação de híbridos.</span><span class="sxs-lookup"><span data-stu-id="31f8b-104">If you already have a hybrid deployment set up, the wizard helps you update your hybrid deployment settings.</span></span> <span data-ttu-id="31f8b-105">Para mais informações, consulte:</span><span class="sxs-lookup"><span data-stu-id="31f8b-105">For more information, check out:</span></span>
   
-- [<span data-ttu-id="28f75-106">Executar Assistente de configuração de híbridos</span><span class="sxs-lookup"><span data-stu-id="28f75-106">Run Hybrid Configuration wizard</span></span>](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
-    
-- [<span data-ttu-id="28f75-107">Assistente de configuração de híbridos</span><span class="sxs-lookup"><span data-stu-id="28f75-107">Hybrid Configuration wizard</span></span>](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
-    
-- [<span data-ttu-id="28f75-108">FAQ de Assistente de configuração de híbridos</span><span class="sxs-lookup"><span data-stu-id="28f75-108">Hybrid Configuration wizard FAQs</span></span>](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
-    
+- [<span data-ttu-id="31f8b-106">Executar Assistente de configuração de híbridos</span><span class="sxs-lookup"><span data-stu-id="31f8b-106">Run Hybrid Configuration wizard</span></span>](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
 
+- [<span data-ttu-id="31f8b-107">Assistente de configuração de híbridos</span><span class="sxs-lookup"><span data-stu-id="31f8b-107">Hybrid Configuration wizard</span></span>](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
+
+- [<span data-ttu-id="31f8b-108">FAQ de Assistente de configuração de híbridos</span><span class="sxs-lookup"><span data-stu-id="31f8b-108">Hybrid Configuration wizard FAQs</span></span>](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)

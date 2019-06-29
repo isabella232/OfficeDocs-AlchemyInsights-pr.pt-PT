@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "490"
+- "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: a90c9b76d5ad80508d1e38fabe21eb944fe9681e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: cac2ecccd3026671ef557f0d91264929abf441cc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420999"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354160"
 ---
-# <a name="subscription-information"></a><span data-ttu-id="bfd91-102">Informações de subscrição</span><span class="sxs-lookup"><span data-stu-id="bfd91-102">Subscription information</span></span>
+# <a name="subscription-information"></a><span data-ttu-id="94577-102">Informações de subscrição</span><span class="sxs-lookup"><span data-stu-id="94577-102">Subscription information</span></span>
 
-<span data-ttu-id="bfd91-103">Para obter informações sobre as subscrições própria, vá para a página de [subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) ou escolher **Facturação** \> **subscrições**.</span><span class="sxs-lookup"><span data-stu-id="bfd91-103">For information about the subscriptions you own, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+<span data-ttu-id="94577-103">Para obter informações sobre as subscrições própria, vá para a página de [subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) ou escolher **Facturação** \> **subscrições**.</span><span class="sxs-lookup"><span data-stu-id="94577-103">For information about the subscriptions you own, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
   
-<span data-ttu-id="bfd91-104">Informações chave sobre cada subscrição:</span><span class="sxs-lookup"><span data-stu-id="bfd91-104">Key information about each subscription:</span></span>
+<span data-ttu-id="94577-104">Informações chave sobre cada subscrição:</span><span class="sxs-lookup"><span data-stu-id="94577-104">Key information about each subscription:</span></span>
   
-- <span data-ttu-id="bfd91-105">Estado de cada</span><span class="sxs-lookup"><span data-stu-id="bfd91-105">Status of each</span></span>
-    
-- <span data-ttu-id="bfd91-106">Licenças adquiridas</span><span class="sxs-lookup"><span data-stu-id="bfd91-106">Licenses purchased</span></span>
-    
-- <span data-ttu-id="bfd91-107">Licenças atribuídas</span><span class="sxs-lookup"><span data-stu-id="bfd91-107">Licenses assigned</span></span>
-    
-- <span data-ttu-id="bfd91-108">Estado de facturação periódico</span><span class="sxs-lookup"><span data-stu-id="bfd91-108">Recurring billing status</span></span>
-    
-- <span data-ttu-id="bfd91-109">Saldo</span><span class="sxs-lookup"><span data-stu-id="bfd91-109">Balance</span></span>
-    
-- <span data-ttu-id="bfd91-110">Método de pagamento</span><span class="sxs-lookup"><span data-stu-id="bfd91-110">Payment method</span></span>
-    
-- <span data-ttu-id="bfd91-111">Próxima data de facturação ou expiração</span><span class="sxs-lookup"><span data-stu-id="bfd91-111">Next billing or expiration date</span></span>
-    
+- <span data-ttu-id="94577-105">Estado de cada</span><span class="sxs-lookup"><span data-stu-id="94577-105">Status of each</span></span>
 
+- <span data-ttu-id="94577-106">Licenças adquiridas</span><span class="sxs-lookup"><span data-stu-id="94577-106">Licenses purchased</span></span>
+
+- <span data-ttu-id="94577-107">Licenças atribuídas</span><span class="sxs-lookup"><span data-stu-id="94577-107">Licenses assigned</span></span>
+
+- <span data-ttu-id="94577-108">Estado de facturação periódico</span><span class="sxs-lookup"><span data-stu-id="94577-108">Recurring billing status</span></span>
+
+- <span data-ttu-id="94577-109">Saldo</span><span class="sxs-lookup"><span data-stu-id="94577-109">Balance</span></span>
+
+- <span data-ttu-id="94577-110">Método de pagamento</span><span class="sxs-lookup"><span data-stu-id="94577-110">Payment method</span></span>
+
+- <span data-ttu-id="94577-111">Próxima data de facturação ou expiração</span><span class="sxs-lookup"><span data-stu-id="94577-111">Next billing or expiration date</span></span>

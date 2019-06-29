@@ -3,26 +3,26 @@ title: Eliminar uma pasta na Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/24/2019
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "8000016"
 - "271"
+- "8000016"
 ms.assetid: 052172e6-bee2-4466-b674-75187f0225e5
-ms.openlocfilehash: 98612a54d07bfa7920b535702243effe79705ee2
-ms.sourcegitcommit: 9c6c2ff5865275dc8e3d48132180108884647365
+ms.openlocfilehash: 64bfa0c25969f98eca254d9fc41dd8132cbe335a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34433702"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375368"
 ---
-# <a name="delete-a-folder"></a><span data-ttu-id="e16f5-102">Eliminar uma pasta</span><span class="sxs-lookup"><span data-stu-id="e16f5-102">Delete a folder</span></span>
+# <a name="delete-a-folder"></a><span data-ttu-id="ed44f-102">Eliminar uma pasta</span><span class="sxs-lookup"><span data-stu-id="ed44f-102">Delete a folder</span></span>
 
-1. <span data-ttu-id="e16f5-103">No painel esquerdo, direito do rato na pasta ou subpasta que pretende eliminar e seleccione **Eliminar pasta**.</span><span class="sxs-lookup"><span data-stu-id="e16f5-103">In the left pane, right-click the folder or subfolder you want to delete and select **Delete folder**.</span></span>
-2. <span data-ttu-id="e16f5-104">Seleccione **OK** para confirmar.</span><span class="sxs-lookup"><span data-stu-id="e16f5-104">Select **OK** to confirm.</span></span>
+1. <span data-ttu-id="ed44f-103">No painel esquerdo, direito do rato na pasta ou subpasta que pretende eliminar e seleccione **Eliminar pasta**.</span><span class="sxs-lookup"><span data-stu-id="ed44f-103">In the left pane, right-click the folder or subfolder you want to delete and select **Delete folder**.</span></span>
+2. <span data-ttu-id="ed44f-104">Seleccione **OK** para confirmar.</span><span class="sxs-lookup"><span data-stu-id="ed44f-104">Select **OK** to confirm.</span></span>
 
-<span data-ttu-id="e16f5-105">Para obter mais informações, consulte [Eliminar uma pasta no Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873134).</span><span class="sxs-lookup"><span data-stu-id="e16f5-105">To learn more, see [Delete a folder in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873134).</span></span>
+<span data-ttu-id="ed44f-105">Para obter mais informações, consulte [trabalhar com pastas de mensagens em Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="ed44f-105">To learn more, see [Working with message folders in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

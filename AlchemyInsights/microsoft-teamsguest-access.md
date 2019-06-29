@@ -8,13 +8,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "311"
+- "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: e49caf53cfbd96704d048a899e123301525a8e6a
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: eaff2e417c2f0b5a5770d4ba73bbeaacf1b7a887
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769870"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35380192"
 ---
 # <a name="microsoft-teams---guest-access"></a>Equipas da Microsoft - acesso de convidado
 
@@ -27,4 +30,3 @@ Eis o que é necessário:
 1. Defina permissões de utilizador convidado.
 
 Para mais informações, incluindo vídeos com procedimentos, consulte [acesso de convidado em equipas da Microsoft](https://docs.microsoft.com/microsoftteams/guest-access).
-

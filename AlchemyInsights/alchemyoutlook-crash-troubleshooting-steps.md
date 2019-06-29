@@ -9,15 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883138"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357580"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Falha do Outlook passos de resolução de problemas
 
@@ -25,10 +27,9 @@ Se estiver a ter problemas de ambiente de trabalho falha do Outlook, inicie segu
   
 Passo 1: Investigue eventuais problemas com suplementos.
   
-Passo 2: O Outlook de reparação e executar a [ferramenta Assistente de recuperação e suporte para resolver problemas relacionados com erros de arranque do Outlook](https://aka.ms/SaRA-OutlookWontStart) no computador afectado. 
+Passo 2: O Outlook de reparação e executar a [ferramenta Assistente de recuperação e suporte para resolver problemas relacionados com erros de arranque do Outlook](https://aka.ms/SaRA-OutlookWontStart) no computador afectado.
   
-Passo 3: Criar um novo perfil do Outlook ou pode executar a [ferramenta de perfil do Outlook](https://aka.ms/SaRA-OutlookSetupProfile) no computador afectado. 
+Passo 3: Criar um novo perfil do Outlook ou pode executar a [ferramenta de perfil do Outlook](https://aka.ms/SaRA-OutlookSetupProfile) no computador afectado.
   
 Se o problema ocorreu após uma actualização e os passos acima não funcionarem, poderá pretender reverter para uma compilação anterior. Veja [como reverter para uma versão anterior do Office 2013 ou Office 2016 clique-e-Use](https://support.microsoft.com/help/2770432).
   
-

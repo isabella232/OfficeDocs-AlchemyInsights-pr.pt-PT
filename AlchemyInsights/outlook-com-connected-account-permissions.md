@@ -8,19 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000093
-ms.openlocfilehash: 9bd711a5780129ac643ec9bf0000adf69ae2153b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1431"
+- "8000093"
+ms.openlocfilehash: da2e08be499afff97fd0f0cf3cf4f1993cb6dba4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417976"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375800"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Como corrigir "Parece não tem permissão"
 
 Se vir a mensagem de erro "parece não ter permissão para obter correio electrónico para..." proceda do seguinte modo:
 
-1. Abrir as [definições da conta ligado](https://outlook.live.com/mail/options/mail/accounts) e remover ou eliminar a conta ligada listada do erro. 
+1. Abrir as [definições da conta ligado](https://outlook.live.com/mail/options/mail/accounts) e remover ou eliminar a conta ligada listada do erro.
 2. Adicione a conta ligada novamente.
 3. Vá [para a caixa de correio](https://outlook.live.com/mail/inbox).
 

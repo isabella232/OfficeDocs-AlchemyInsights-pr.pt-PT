@@ -7,22 +7,24 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1059"
+- "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 06e3df2b5099dbc1f90c1dd06b372dcedfe4fc42
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1f7eb3218d555993a39a0c9313925db09eab29e5
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32402678"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387963"
 ---
-# <a name="error-message-when-sharing-files-from-windows-explorer"></a><span data-ttu-id="7d88a-102">Mensagem de erro quando a partilha de ficheiros do Explorador do Windows</span><span class="sxs-lookup"><span data-stu-id="7d88a-102">Error message when sharing files from Windows Explorer</span></span>
+# <a name="error-message-when-sharing-files-from-windows-explorer"></a><span data-ttu-id="d8c43-102">Mensagem de erro quando a partilha de ficheiros do Explorador do Windows</span><span class="sxs-lookup"><span data-stu-id="d8c43-102">Error message when sharing files from Windows Explorer</span></span>
 
-<span data-ttu-id="7d88a-103">Quando tentar partilhar do Explorador do Windows, poderá receber a seguinte mensagem de erro:</span><span class="sxs-lookup"><span data-stu-id="7d88a-103">When trying to share from Windows Explorer, you may receive the following error message:</span></span>
+<span data-ttu-id="d8c43-103">Quando tentar partilhar do Explorador do Windows, poderá receber a seguinte mensagem de erro:</span><span class="sxs-lookup"><span data-stu-id="d8c43-103">When trying to share from Windows Explorer, you may receive the following error message:</span></span>
   
-<span data-ttu-id="7d88a-104">"Lamentamos, mas não nos é possível alcançar o servidor agora.</span><span class="sxs-lookup"><span data-stu-id="7d88a-104">"Sorry, we're unable to reach the server right now.</span></span> <span data-ttu-id="7d88a-105">Tente novamente mais tarde"</span><span class="sxs-lookup"><span data-stu-id="7d88a-105">Please try again later"</span></span>
+<span data-ttu-id="d8c43-104">"Lamentamos, mas não nos é possível alcançar o servidor agora.</span><span class="sxs-lookup"><span data-stu-id="d8c43-104">"Sorry, we're unable to reach the server right now.</span></span> <span data-ttu-id="d8c43-105">Tente novamente mais tarde"</span><span class="sxs-lookup"><span data-stu-id="d8c43-105">Please try again later"</span></span>
   
-<span data-ttu-id="7d88a-106">Para resolver o erro mensagem, a partir do Internet Explorer vá para **Ferramentas** \> **Opções da Internet** \> clique no separador **Avançadas** e, em seguida, desmarque a caixa de verificação intitulada **não guardar páginas encriptadas no disco**.</span><span class="sxs-lookup"><span data-stu-id="7d88a-106">To resolve error message, from Internet Explorer go to **Tools** \> **Internet Options** \> click the **Advanced** tab, and then clear the checkbox titled **Do not save encrypted pages to disk**.</span></span> 
+<span data-ttu-id="d8c43-106">Para resolver o erro mensagem, a partir do Internet Explorer vá para **Ferramentas** \> **Opções da Internet** \> clique no separador **Avançadas** e, em seguida, desmarque a caixa de verificação intitulada **não guardar páginas encriptadas no disco**.</span><span class="sxs-lookup"><span data-stu-id="d8c43-106">To resolve error message, from Internet Explorer go to **Tools** \> **Internet Options** \> click the **Advanced** tab, and then clear the checkbox titled **Do not save encrypted pages to disk**.</span></span>
   
- <span data-ttu-id="7d88a-107">**Nota**: poderá ter de reiniciar o browser para a definição tenha efeito.</span><span class="sxs-lookup"><span data-stu-id="7d88a-107">**Note**: You may need to restart your browser for the setting to take effect.</span></span> <span data-ttu-id="7d88a-108">Para obter informações adicionais, consulte ["Não é possível alcançar o servidor agora" mensagem de erro quando a partilha de ficheiros](https://go.microsoft.com/fwlink/?linkid=2022914).</span><span class="sxs-lookup"><span data-stu-id="7d88a-108">For additional information see, ["Unable to reach the server right now" error message when sharing files](https://go.microsoft.com/fwlink/?linkid=2022914).</span></span>
+ <span data-ttu-id="d8c43-107">**Nota**: poderá ter de reiniciar o browser para a definição tenha efeito.</span><span class="sxs-lookup"><span data-stu-id="d8c43-107">**Note**: You may need to restart your browser for the setting to take effect.</span></span> <span data-ttu-id="d8c43-108">Para obter informações adicionais, consulte ["Não é possível alcançar o servidor agora" mensagem de erro quando a partilha de ficheiros](https://go.microsoft.com/fwlink/?linkid=2022914).</span><span class="sxs-lookup"><span data-stu-id="d8c43-108">For additional information see, ["Unable to reach the server right now" error message when sharing files](https://go.microsoft.com/fwlink/?linkid=2022914).</span></span>
   
-

@@ -7,21 +7,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 997
-ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685
-ms.openlocfilehash: 6913bee931574266d1464a9f7862393747fe3746
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "997"
+- "6500005"
+ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
+ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34771425"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354016"
 ---
-# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a><span data-ttu-id="3ea8a-102">Desejo inscrever-se livre de equipas, mas não consigo.</span><span class="sxs-lookup"><span data-stu-id="3ea8a-102">I'd like to sign up for Teams free, but I can't.</span></span>
+# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a><span data-ttu-id="3f4dc-102">Desejo inscrever-se livre de equipas, mas não consigo.</span><span class="sxs-lookup"><span data-stu-id="3f4dc-102">I'd like to sign up for Teams free, but I can't.</span></span>
 
-- <span data-ttu-id="3ea8a-103">Se estiver a utilizar um trabalho do Office 365 ou escola conta, esta oferta livre não está disponível.</span><span class="sxs-lookup"><span data-stu-id="3ea8a-103">If you’re using an Office 365 work or school account, this free offer isn’t available.</span></span> <span data-ttu-id="3ea8a-104">O organograma, no entanto, poderá já estar a utilizar equipas.</span><span class="sxs-lookup"><span data-stu-id="3ea8a-104">Your org, though, may already be using Teams.</span></span> <span data-ttu-id="3ea8a-105">Caso contrário, vá para [Equipas da Microsoft](https://products.office.com/microsoft-teams/group-chat-software) para ver se é elegível para uma versão de avaliação gratuita.</span><span class="sxs-lookup"><span data-stu-id="3ea8a-105">If not, go to [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) to see if it’s eligible for a free trial.</span></span>
+- <span data-ttu-id="3f4dc-103">Se estiver a utilizar um trabalho do Office 365 ou escola conta, esta oferta livre não está disponível.</span><span class="sxs-lookup"><span data-stu-id="3f4dc-103">If you’re using an Office 365 work or school account, this free offer isn’t available.</span></span> <span data-ttu-id="3f4dc-104">O organograma, no entanto, poderá já estar a utilizar equipas.</span><span class="sxs-lookup"><span data-stu-id="3f4dc-104">Your org, though, may already be using Teams.</span></span> <span data-ttu-id="3f4dc-105">Caso contrário, vá para [Equipas da Microsoft](https://products.office.com/microsoft-teams/group-chat-software) para ver se é elegível para uma versão de avaliação gratuita.</span><span class="sxs-lookup"><span data-stu-id="3f4dc-105">If not, go to [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) to see if it’s eligible for a free trial.</span></span>
 
-- <span data-ttu-id="3ea8a-106">Instituições académicas não são elegíveis para esta oferta gratuita.</span><span class="sxs-lookup"><span data-stu-id="3ea8a-106">Academic institutions aren't eligible for this free offer.</span></span> <span data-ttu-id="3ea8a-107">Professores e alunos, no entanto, podem obter uma versão gratuita do Office 365. o, que inclui uma versão completa do Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="3ea8a-107">Teachers and students, though, can get a free version of Office 365, which includes a full version of Microsoft Teams.</span></span> <span data-ttu-id="3ea8a-108">Consulte [Licenciamento do Office 365 para equipas da Microsoft](https://docs.microsoft.com/microsoftteams/office-365-licensing).</span><span class="sxs-lookup"><span data-stu-id="3ea8a-108">See [Office 365 licensing for Microsoft Teams](https://docs.microsoft.com/microsoftteams/office-365-licensing).</span></span>
+- <span data-ttu-id="3f4dc-106">Instituições académicas não são elegíveis para esta oferta gratuita.</span><span class="sxs-lookup"><span data-stu-id="3f4dc-106">Academic institutions aren't eligible for this free offer.</span></span> <span data-ttu-id="3f4dc-107">Professores e alunos, no entanto, podem obter uma versão gratuita do Office 365. o, que inclui uma versão completa do Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="3f4dc-107">Teachers and students, though, can get a free version of Office 365, which includes a full version of Microsoft Teams.</span></span> <span data-ttu-id="3f4dc-108">Consulte [Licenciamento do Office 365 para equipas da Microsoft](https://docs.microsoft.com/microsoftteams/office-365-licensing).</span><span class="sxs-lookup"><span data-stu-id="3f4dc-108">See [Office 365 licensing for Microsoft Teams](https://docs.microsoft.com/microsoftteams/office-365-licensing).</span></span>
 
-- <span data-ttu-id="3ea8a-109">Instituições de Governo dos EUA não são elegíveis para esta oferta gratuita.</span><span class="sxs-lookup"><span data-stu-id="3ea8a-109">U.S. government institutions aren't eligible for this free offer.</span></span> <span data-ttu-id="3ea8a-110">Para obter informações sobre planos de Office 365 para organizações de governo (incluindo uma avaliação gratuita), leia o [Licenciamento do Office 365 para equipas da Microsoft](https://docs.microsoft.com/microsoftteams/office-365-licensing).</span><span class="sxs-lookup"><span data-stu-id="3ea8a-110">To learn about Office 365 plans for government organizations (including a free trial), read [Office 365 licensing for Microsoft Teams](https://docs.microsoft.com/microsoftteams/office-365-licensing).</span></span>
-
-
+- <span data-ttu-id="3f4dc-109">Instituições de Governo dos EUA não são elegíveis para esta oferta gratuita.</span><span class="sxs-lookup"><span data-stu-id="3f4dc-109">U.S. government institutions aren't eligible for this free offer.</span></span> <span data-ttu-id="3f4dc-110">Para obter informações sobre planos de Office 365 para organizações de governo (incluindo uma avaliação gratuita), leia o [Licenciamento do Office 365 para equipas da Microsoft](https://docs.microsoft.com/microsoftteams/office-365-licensing).</span><span class="sxs-lookup"><span data-stu-id="3f4dc-110">To learn about Office 365 plans for government organizations (including a free trial), read [Office 365 licensing for Microsoft Teams](https://docs.microsoft.com/microsoftteams/office-365-licensing).</span></span>

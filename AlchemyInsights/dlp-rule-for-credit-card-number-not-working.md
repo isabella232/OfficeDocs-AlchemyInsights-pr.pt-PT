@@ -1,51 +1,55 @@
 ---
 title: Regra do DLP para número de cartão de crédito não funcionar
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: deniseb
+author: denisebmsft
+manager: laurawi
 ms.date: 11/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1270"
+- "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: e1d60c493a27efb7f724d57051e21fad5bd0242f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5d3bdb3b074c485a2b19e934724ba6e74c84deae
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404527"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389588"
 ---
-Está a ter problemas com o **Data Loss Prevention (DLP)** não funcionar para o conteúdo que contenha um **Número de cartão de crédito** quando utilizar um tipo de informações sensíveis do DLP em O365? Se assim for, certifique-se de conteúdo contém as informações necessárias para activar a política DLP quando é avaliado. Por exemplo, para uma **política de cartão de crédito** configurado com um nível de confiança de 85%, a seguir é avaliados e deve ser detectada para a regra accionar: 
+# <a name="dlp-issues-with-credit-card-numbers"></a>Problemas do DLP com números de cartão de crédito
+
+Está a ter problemas com o **Data Loss Prevention (DLP)** não funcionar para o conteúdo que contenha um **Número de cartão de crédito** quando utilizar um tipo de informações sensíveis do DLP em O365? Se assim for, certifique-se de conteúdo contém as informações necessárias para activar a política DLP quando é avaliado. Por exemplo, para uma **política de cartão de crédito** configurado com um nível de confiança de 85%, a seguir é avaliados e deve ser detectada para a regra accionar:
   
-- **[Formato:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 dígitos que podem ser formatados ou formatada (dddddddddddddddd) e tem de passar no teste de Luhn. 
-    
-- **[Padrão:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Padrão de muito complexo e robusto que detecta placas de todas as marcas principais em todo o mundo, incluindo Visa, Mastercard, descobrir o cartão, JCB, American Express, cartões de oferta e cartões de diner. 
-    
-- **[Soma de verificação:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Sim, a soma de verificação de Luhn 
-    
-- **[Definição:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** Uma política DLP é de 85% de certeza de que detectou este tipo de informações sensíveis se, num raio de 300 caracteres: 
-    
+- **[Formato:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 dígitos que podem ser formatados ou formatada (dddddddddddddddd) e tem de passar no teste de Luhn.
+
+- **[Padrão:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Padrão de muito complexo e robusto que detecta placas de todas as marcas principais em todo o mundo, incluindo Visa, MasterCard, descobrir o cartão, JCB, American Express, cartões de oferta e cartões de diner.
+
+- **[Soma de verificação:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Sim, a soma de verificação de Luhn
+
+- **[Definição:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** Uma política DLP é de 85% de certeza de que detectou este tipo de informações sensíveis se, num raio de 300 caracteres:
+
   - A função Func_credit_card localiza conteúdo que corresponda ao padrão.
-    
-  - Uma das seguintes afirmações é verdadeira: 
-    
+
+  - Uma das seguintes afirmações é verdadeira:
+
   - Foi encontrada uma palavra-chave de Keyword_cc_verification.
-    
+
   - Encontra-se uma palavra-chave de Keyword_cc_name
-    
+
   - A função Func_expiration_date localiza uma data no formato de data à direita.
-    
+
   - As fases de soma de verificação
-    
+
     Por exemplo, o seguinte exemplo daria origem para uma política de número de cartão de crédito do DLP:
-    
-  - Visto: 4485 3647 3952 7352 
-    
+
+  - Visto: 4485 3647 3952 7352
+  
   - Expira: 2/2009
-    
+
 Para mais informações sobre o que é necessário para um **Número de cartão de crédito** a ser detectado para o seu conteúdo, consulte a secção seguinte deste artigo: [O que o sensíveis a maiúsculas e tipos de informação procure cartão de crédito #](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)
   
 Utilizando um tipo de informações sensíveis incorporados diferentes, consulte o artigo seguinte para obter informações sobre o que é necessário para outros tipos: [Procurar o que o sensíveis a maiúsculas e tipos de informação](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
   
-

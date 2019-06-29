@@ -6,13 +6,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "9000356"
+- "2009"
 ms.assetid: ''
-ms.openlocfilehash: f5a1e88e4443fdf43cdd4f07cf9e784810df7540
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5f171050479f34077f3dc155bec40437f86b84c0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769460"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359369"
 ---
 # <a name="access-services-retirement"></a>Reforma de serviços de acesso
 
@@ -24,7 +27,7 @@ Iniciar de 2019 Junho, iremos parar a criação de novas bases de dados do Acces
 
 **O que é necessário para preparar para que esta alteração?**
 
-Recomendamos que crie um plano de transição para a bases de dados web de acesso da sua organização. Admins pode utilizar o [scanner de aplicação de acesso ao SharePoint](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) para obter um inventário das aplicações de acesso a sites estão a utilizar. 
+Recomendamos que crie um plano de transição para a bases de dados web de acesso da sua organização. Admins pode utilizar o [scanner de aplicação de acesso ao SharePoint](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) para obter um inventário das aplicações de acesso a sites estão a utilizar.
 
 Existem várias formas para migrar dados de bases de dados do Access web:
 

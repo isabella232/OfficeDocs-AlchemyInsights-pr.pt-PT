@@ -8,26 +8,28 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "639"
+- "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: c5f138cce6efb7764e0fd9f4ba9dd17c166fcfab
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 4e870f153b37e141aa641c4a85a8d759a600ceed
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755860"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35380012"
 ---
 # <a name="migrate-public-folder-data-to-office-365"></a>Migrar dados da pasta pública para o Office 365
 
-Se não tiver uma grande quantidade de pastas públicas para trazer para o Office 365, seria a forma mais fácil para torná-las copiar os dados. PST ficheiros e, em seguida, importá-las Office 365. Para pequenas quantidades de dados, de um simples arrastar e largar da pasta pública para um. Ficheiro PST pode ser suficiente. Se tiver mais dados do que esse (até 30GB), temos [documentados um processo](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) que pode utilizar para Exportar pastas para ficheiros PST. 
+Se não tiver uma grande quantidade de pastas públicas para trazer para o Office 365, seria a forma mais fácil para torná-las copiar os dados. PST ficheiros e, em seguida, importá-las Office 365. Para pequenas quantidades de dados, de um simples arrastar e largar da pasta pública para um. Ficheiro PST pode ser suficiente. Se tiver mais dados do que esse (até 30GB), temos [documentados um processo](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) que pode utilizar para Exportar pastas para ficheiros PST.
   
 Para organizações maiores do que estão a mover pastas públicas no Office 365, temos várias guias disponíveis:
   
-- [Migração de pastas públicas legacy](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 e anterior) 
-    
+- [Migração de pastas públicas legacy](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 e anterior)
+
 - [Migrar pastas públicas do Exchange 2013](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
-    
-- [Mirate pastas públicas do Exchange de 2016](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
-    
+
+- [Migrar pastas públicas do Exchange de 2016](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
+
 Tem também a opção de [migrar pastas públicas a grupos do Office 365](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).
   
-

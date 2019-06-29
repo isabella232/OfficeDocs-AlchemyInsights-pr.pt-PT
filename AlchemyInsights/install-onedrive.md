@@ -7,16 +7,18 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "844"
+- "5800002"
 ms.assetid: 89b29dd9-edfe-49a4-84eb-5dc270d64526
-ms.openlocfilehash: ef4ddd1498fc499a169d9790e175913e144e3c2a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 007c830ff9819f3ad7f6fa250f0b60a9f13b6937
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32410277"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35382028"
 ---
 # <a name="install-onedrive"></a>Instalar OneDrive
 
-O cliente de sincronização de OneDrive é pré-instalado com o Windows 10. Para instalar o OneDrive para o Windows 7 ou Mac ou para obter a aplicação móvel para o seu telemóvel ou um tablet, vá para [http://onedrive.com/download](http://onedrive.com/download).
+O cliente de sincronização OneDrive tiver sido pré-instalado com o Windows 10. Para instalar o OneDrive para o Windows 7 ou Mac ou para obter a aplicação móvel para o seu telemóvel ou um tablet, vá para [http://onedrive.com/download](http://onedrive.com/download).
   
-

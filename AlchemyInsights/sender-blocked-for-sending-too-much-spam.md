@@ -9,23 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "254"
+- "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: c2226a00de806049e92cf0e1e25c75fb57adef53
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 76dc4d5fe0a9c3d348decb9f762b7cc02eb50b43
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422086"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355816"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>A conta foi bloqueada devido ao envio de demasiado spam
 
 A conta de envio poderá ter sido comprometida. Terá de:
   
 1. [Determinar se a conta está comprometida](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Se estiver comprometida, siga os passos no artigo [Responding to a Compromised Email Account in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) (Responder a uma Conta de E-mail Comprometida no Office 365).
-    
-2. Aceda a Utilizadores Restritos para **[desbloquear a conta](https://protection.office.com/?hash=/restrictedusers)** no Centro de Conformidade e Segurança. Quando terminar, deverá conseguir continuar a enviar mensagens *dentro de 1 hora*. 
-    
+
+2. Aceda a Utilizadores Restritos para **[desbloquear a conta](https://protection.office.com/?hash=/restrictedusers)** no Centro de Conformidade e Segurança. Quando terminar, deverá conseguir continuar a enviar mensagens *dentro de 1 hora*.
+
 3. Para ajudar a impedir que a conta seja comprometida no futuro, siga as recomendações no artigo [Security best practices for Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx) (Práticas de segurança recomendadas do Office 365).
   
-

@@ -6,22 +6,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: ''
-ms.openlocfilehash: 6166493f79379f44b1a9bbbaca6becfe624fe912
-ms.sourcegitcommit: 22ce2315c8cf643137ab3420cdc1cda41433d44a
+ms.custom:
+- "1874"
+- "9000265"
+ms.openlocfilehash: 8b45766e920fa5bd6eab8abc6ef808ae978808dc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "34057755"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379652"
 ---
 # <a name="modern-site-as-root-site"></a>Moderno site como site de raiz
 
-Os clientes de [Edição de destino](https://docs.microsoft.com/en-us/office365/admin/manage/release-options-in-office-365?view=o365-worldwide) agora podem activar a experiência de site modernas de comunicação no site de raiz clássico de seu tenant do SharePoint.
+Neste momento, com base nos comentários de pré-visualização, decidimos adiar a implementar a funcionalidade para permitir que um site de comunicação como um site de raiz. Pedimos desculpa por qualquer inconveniente e irá comunicar uma nova agenda através do Centro de mensagens, quando estiver disponível.
 
-Esta funcionalidade pode ser activada ao executar um cmdlet PowerShell simple. Sobre a execução com êxito do comando PowerShell, o site de raiz terá uma nova comunicação site home page. Estão disponíveis no artigo [SPOCommSite activar](https://docs.microsoft.com/en-us/powershell/module/sharepoint-online/Enable-SPOCommSite?view=sharepoint-ps)detalhes sobre os requisitos de cmdlet e funcionalidade do PowerShell. 
+Actualmente, sites de comunicação não podem ser activados como o site de raiz.
 
-Vamos vai ser gradualmente graduais este problema, desligado por predefinição, para clientes alvo Release no início de Maio de 2019, e a expandir o estarão disponível em todo o mundo até ao final de Junho de 2019. Continue a consultar o [Centro de mensagens](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter) para outras funcionalidades novas com moderna. 
-
-**Importante**: não elimine o site de raiz clássico para criar um Site de comunicação modernos. Não é suportada pela Microsoft. Eliminar o site de raiz fará com que todos os sites SharePoint da sua organização inacessíveis a todos os utilizadores, até que restaure o site ou crie um novo site com o mesmo URL. 
- 
- 
+**Importante**: não elimine o site de raiz clássico para criar um Site de comunicação modernos. Não é suportada pela Microsoft. Eliminar o site de raiz fará com que todos os sites SharePoint da sua organização inacessíveis a todos os utilizadores, até que restaure o site ou crie um novo site com o mesmo URL.

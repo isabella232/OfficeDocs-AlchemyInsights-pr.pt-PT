@@ -9,34 +9,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "454"
+- "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: f7cc1369bd179bf410871054b2d4184a55a2b342
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: df62f02790294fa674bf6768924c5a89a7d85dfc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407692"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360316"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Copiar ou mover itens numa biblioteca de documentos do SharePoint
 
 Pode copiar e mover ficheiros, pastas e hiperligações para localizações diferentes dentro de uma biblioteca de documentos. Também pode copiar itens entre sites. Se tiver [definido a opção de libertação de Targeted](https://go.microsoft.com/fwlink/?linkid=622980), pode mover itens entre locais, demasiado.
   
 1. Num browser, navegue para os ficheiros, pastas ou ligações que pretende mover e, em seguida, clique em **Copiar para** ou **Mover para**.
-    
+
     > [!NOTE]
-    > **Copiar para** e **Mover para** não estão disponíveis se estiver a utilizar a experiência clássica do SharePoint Online. 
+    > **Copiar para** e **Mover para** não estão disponíveis se estiver a utilizar a experiência clássica do SharePoint Online.
   
-2. Em **Escolha um destino**, seleccione a localização para o qual pretende copiar ou mover os itens ou clique em **Procurar sites** para ver a lista completa de sites. 
-    
+2. Em **Escolha um destino**, seleccione a localização para o qual pretende copiar ou mover os itens ou clique em **Procurar sites** para ver a lista completa de sites.
+
     > [!NOTE]
-    > Se não vir outros sites listados quando copia itens, copiar através de sites ainda não foi configurado. Para activá-lo, vá para a página de definições do Centro de administração de SharePoint e clique em **OK**. 
+    > Se não vir outros sites listados quando copia itens, copiar através de sites ainda não foi configurado. Para activá-lo, vá para a página de definições do Centro de administração de SharePoint e clique em **OK**.
   
     Para criar uma nova pasta, seleccione uma localização na hierarquia de pastas, clique em **nova pasta**, introduza um nome para a pasta e clique na marca de verificação para guardar o nome.
-    
-3. Clique em **Copiar para aqui** ou **Mover para aqui**.
-    
-> [!NOTE]
->  Pode copiar até 500 MB de ficheiros e pastas ao mesmo tempo. > ao copiar documentos que tenham o histórico de versões, apenas a versão mais recente é copiada. Quando mover documentos, o respectivo histórico também é movido. 
-  
 
+3. Clique em **Copiar para aqui** ou **Mover para aqui**.
+
+> [!NOTE]
+> Pode copiar até 500 MB de ficheiros e pastas ao mesmo tempo. > ao copiar documentos que tenham o histórico de versões, apenas a versão mais recente é copiada. Quando mover documentos, o respectivo histórico também é movido.
+  

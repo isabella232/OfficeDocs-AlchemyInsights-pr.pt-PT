@@ -9,32 +9,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1800001
+ms.custom:
+- "626"
+- "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: ad29c88bde451695c3e9a915f8452f3ea1a5b1ea
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: dad0ecbacf20d5fc2fd0fa46bcf5a30cff44c58d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404976"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389948"
 ---
+# <a name="delete-a-profile"></a>Eliminar um perfil
+
 Para eliminar um perfil, utilize os seguintes passos.
   
 1. No Outlook, seleccione o **ficheiro** \> **Definições da conta de** \> **Gerir perfis**.
-    
-2. Seleccione **Mostrar perfis**.
-    
-3. Na caixa de diálogo de **impressão** , seleccione o perfil que pretende eliminar, em seguida, clique em **Remover**.
-    
-    > [!NOTE]
-    > O Outlook pode avisá-lo de que a eliminação do perfil irá remover os dados offline. Não perderá quaisquer informações armazenadas em ficheiros de dados do Outlook (. pst) ou quaisquer informações armazenadas em suas contas online, por exemplo Outlook.com, Exchange ou o Office 365 contas. 
-  
-Para * * o Outlook para Mac * * gestão de perfil, consulte [Gerir perfis ou identidades no Outlook para Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) ou utilize os seguintes passos. 
-  
-1. A partir do localizador, abra a pasta de **aplicações** . 
-    
-2. CTRL + clique ou o botão direito do rato **Microsoft Outlook**e, em seguida, seleccione **Mostrar conteúdo do pacote**.
-    
-3. Seleccionar **conteúdo** \> **Suporte partilhada**e, em seguida, iniciar **O Gestor de perfis do Outlook**.
-    
 
+2. Seleccione **Mostrar perfis**.
+
+3. Na caixa de diálogo de **impressão** , seleccione o perfil que pretende eliminar, em seguida, clique em **Remover**.
+
+    > [!NOTE]
+    > O Outlook pode avisá-lo de que a eliminação do perfil irá remover os dados offline. Não perderá quaisquer informações armazenadas em ficheiros de dados do Outlook (. pst) ou quaisquer informações armazenadas em suas contas online, por exemplo Outlook.com, Exchange ou o Office 365 contas.
+  
+Para a gestão de perfil do **Outlook para Mac** , consulte [Gerir perfis ou identidades no Outlook para Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) ou utilize os seguintes passos.
+  
+1. A partir do localizador, abra a pasta de **aplicações** .
+
+2. CTRL + clique ou o botão direito do rato **Microsoft Outlook**e, em seguida, seleccione **Mostrar conteúdo do pacote**.
+
+3. Seleccionar **conteúdo** \> **Suporte partilhada**e, em seguida, iniciar **O Gestor de perfis do Outlook**.

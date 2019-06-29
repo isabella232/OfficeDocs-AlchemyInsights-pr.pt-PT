@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1860
+ms.custom:
+- "1860"
+- "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770819"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356608"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Resgatar ou substituir uma mensagem de correio electrónico
 
@@ -25,12 +27,13 @@ ms.locfileid: "34770819"
 - Se for um administrador, pode **resgate de mensagens em nome dos utilizadores através do PowerShell**. Não é possível recuperar mensagens a partir do Centro de administração. Desloque-se para "Procurar e eliminar mensagens de correio electrónico da empresa" para obter mais informações.
 
 ***Resgatar ou substituir uma mensagem de correio electrónico de envio***
+
 1. No painel de pastas do lado esquerdo da janela do Outlook, seleccione a pasta Itens enviados.
 2. Abra a mensagem que pretende recuperar. Deve fazer duplo clique para abrir a mensagem. Seleccionando a mensagem para que apareça no painel de leitura não permite-lhe resgatar a mensagem.
 3. Separador mensagem, seleccione **Acções** > **Resgatar a mensagem**.
 4. Optar por **Eliminar as cópias não lidas desta mensagem** ou **elimine cópias não lidas e substitua por uma nova mensagem**, em seguida, seleccione **' OK '**.
 5. Se estiver a enviar uma mensagem de substituição, compor a mensagem, em seguida, seleccione **Enviar**.
-6. O êxito ou falha do resgate de mensagens depende de definições dos destinatários do Outlook. 
+6. O êxito ou falha do resgate de mensagens depende de definições dos destinatários do Outlook.
 
 Para mais informações, incluindo como verificar a recuperação, consulte [resgatar ou substituir uma mensagem de correio electrónico que enviou](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 

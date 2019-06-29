@@ -1,5 +1,5 @@
 ---
-title: A tentar remover o domínio?
+title: Está a tentar remover o seu domínio?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -8,19 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
-ms.openlocfilehash: 0dcb3505c38b550fac2d22ce027f16179922012a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "28"
+- "9"
+ms.openlocfilehash: 97a7aa7861e716879db8df65ea9bfb6c4e49064b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390546"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353152"
 ---
-# <a name="trying-to-remove-your-domain"></a>A tentar remover o domínio?
+# <a name="trying-to-remove-your-domain"></a>Está a tentar remover o seu domínio?
 
 Para remover o domínio do Office 365, siga os passos descritos neste artigo: [Remover um domínio do Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
   
 Terá de actualizar quaisquer utilizadores ou grupos que são atribuídos a esse nome de domínio antes de remover o domínio.
   
-[Verifique as perguntas mais frequentes de domínios](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) para outras soluções comuns. 
+[Consulte a FAQ sobre domínios](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) para conhecer outras soluções comuns.
   
-

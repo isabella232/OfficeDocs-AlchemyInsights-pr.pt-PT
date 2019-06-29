@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "493"
+- "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 22831d13132fc004bd8f38218e4e598f1ab5679c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 8dfeeded3106f707a57a2d0bcfb84c5e7a3416ec
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370085"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354088"
 ---
 # <a name="subscription-recurring-billing"></a>Faturação da subscrição periódica
 
-Se pretender saber quando a subscrição mensal ou anual será facturado (se **periódico facturação** estiver activado) ou expiram (se **periódico facturação** está desactivado): 
+Se pretender saber quando a subscrição mensal ou anual será facturado (se **periódico facturação** estiver activado) ou expiram (se **periódico facturação** está desactivado):
   
 1. No Centro de Administração, aceda à página [Subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) ou selecione **Faturação** \> **Subscrições**.
-    
-2. Escolha a subscrição à qual pretende obter mais informações.
-    
-3. No lado direito do cartão de subscrição é informações sobre o estado de subscrição, a definição de **Facturação periódico** e a próxima data de facturação ou expiração. 
-    
-4. Para continuar a utilizar o serviço após esta data, mude a alternância de **definições de facturação periódico** para **no**. O estado apresentará a próxima data de facturação para a subscrição.
-    
-5. Para parar o serviço nesta data, mude a alternância de **Facturação periódico** para **Terminar**. O estado irá mostrar a data que a subscrição expira.
-    
 
+2. Escolha a subscrição à qual pretende obter mais informações.
+
+3. No lado direito do cartão de subscrição é informações sobre o estado de subscrição, a definição de **Facturação periódico** e a próxima data de facturação ou expiração.
+
+4. Para continuar a utilizar o serviço após esta data, mude a alternância de **definições de facturação periódico** para **no**. O estado apresentará a próxima data de facturação para a subscrição.
+
+5. Para parar o serviço nesta data, mude a alternância de **Facturação periódico** para **Terminar**. O estado irá mostrar a data que a subscrição expira.

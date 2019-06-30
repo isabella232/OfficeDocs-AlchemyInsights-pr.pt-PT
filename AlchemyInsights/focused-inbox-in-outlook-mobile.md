@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1800019
+ms.custom:
+- "910"
+- "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 46a69512b6d6495b3e211b6d1c7665638002d7b6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a34a94b53d878413a4ce8c04e9a40188f9a0acc5
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401159"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387356"
 ---
 # <a name="focused-inbox-for-outlook-mobile"></a>Centrar-se a pasta a receber do Outlook mobile
 
@@ -31,4 +33,3 @@ ms.locfileid: "32401159"
   
 Obter mais informações: [obter ajuda na aplicação para o Outlook para iOS e Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
   
-

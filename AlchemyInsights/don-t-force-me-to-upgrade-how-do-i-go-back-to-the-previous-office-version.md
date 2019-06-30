@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "265"
+- "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: b14b6c953a7520d248a7df5b4cbbd7e58e1c7817
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 566408a0c38057ee3090acbf155288d579e64b17
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404224"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389084"
 ---
 # <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Não força-me para actualizar. Como posso voltar para a versão anterior do Office?
 
-Quando abrir um ficheiro do Office, pode abrir a versão de avaliação de uma aplicação do Office, em vez de outra versão. Isto acontece se tiver a versão de avaliação do Office 365. 
+Quando abrir um ficheiro do Office, pode abrir a versão de avaliação de uma aplicação do Office, em vez de outra versão. Isto acontece se tiver a versão de avaliação do Office 365.
   
-Quando instala a versão de avaliação do Office 365, a versão de avaliação de 2016 das aplicações instaladas. Estas versões de avaliação tornam-se a predefinição para abrir ficheiros Word, Excel e PowerPoint. Por exemplo, se tiver o Excel 2013 instalado e também instalada a versão de avaliação do Office 365, em seguida, os livros serão aberto na versão de avaliação de 2016 do Excel. 
+Quando instala a versão de avaliação do Office 365, a versão de avaliação de 2016 das aplicações instaladas. Estas versões de avaliação tornam-se a predefinição para abrir ficheiros Word, Excel e PowerPoint. Por exemplo, se tiver o Excel 2013 instalado e também instalada a versão de avaliação do Office 365, em seguida, os livros serão aberto na versão de avaliação de 2016 do Excel.
   
-Se tiver este problema, pode [desinstalar](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) as aplicações de 2016 e utilizar as aplicações que já instalou versões mais antigas. Ou, pode [desinstalar](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) as versões anteriores das aplicações e a actualização para as versões mais recentes incluídas no Office 365. 
-  
-
+Se tiver este problema, pode [desinstalar](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) as aplicações de 2016 e utilizar as aplicações que já instalou versões mais antigas. Ou, pode [desinstalar](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) as versões anteriores das aplicações e a actualização para as versões mais recentes incluídas no Office 365.

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1964"
 - "9000336"
-ms.openlocfilehash: 0bc0672dfb71a65858264c721e9aec3e5fe6339b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 06dd1be1d46d0ff96f90d377e2c70d2a4cfe42fa
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373280"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701262"
 ---
 # <a name="permanently-delete-email"></a>Eliminar permanentemente a mensagem de correio electrónico
 
@@ -27,4 +27,4 @@ Se pretender eliminar a mensagem de correio electrónico ou esvaziar a pasta a r
 1. Na parte superior da página, seleccione **Eliminar** (para a pasta **pasta vazia**ou **Centrar-se vazia** / **outras em branco** se tiver direccionadas para a pasta a receber activado).
 1. Para limpar a mensagem eliminada, abra a [pasta Itens eliminados](https://outlook.live.com/mail/deleteditems) e seleccione a **pasta vazia**, em seguida, seleccione **itens recuperáveis** na parte superior da página e seleccione a **pasta vazia** novamente.
 
-Para obter mais informações, leia a [eliminar correio electrónico no Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4).
+Para obter mais informações, leia a [eliminar correio electrónico no Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy).

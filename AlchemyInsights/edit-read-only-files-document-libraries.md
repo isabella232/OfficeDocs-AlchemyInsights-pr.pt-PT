@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: ebafb4ec807f6e6b9c26935e766456414212de81
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 5da4914548348418c42e1e1b52d1428c0ed0af9b
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132733"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903949"
 ---
 # <a name="edit-a-read-only-file"></a>Editar um ficheiro só de leitura
 
@@ -25,7 +25,7 @@ Em vez de clicar no título do documento, faça clique sobre o **Menu ' Abrir '*
 
 Notas:
 
-- Se tiver seria preferível documentos abertos para edição no Office Online, quando clica no título, pode configurar a biblioteca para o fazer (desde que tenha permissão para alterar as definições de biblioteca).
+- Se terá de abrir para edição no Office, quando clica no título de documentos em vez disso, pode configurar a biblioteca para o fazer (desde que tenha permissão para alterar as definições de biblioteca).
 
 - Se tiver bibliotecas com saída dada, colunas necessárias ou quando biblioteca de documentos apenas os utilizadores que podem editar definições de versão de um SharePoint, estes itens serão sincronizados como só de leitura.
 

@@ -12,29 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "5"
 - "14"
-ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: 148fbee1c14a8da6ede5ec5ccae90b1a4340ce32
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f4b5001f2a6291a422b5cd0c3c40de7be0f1ecf0
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363088"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35902940"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a><span data-ttu-id="2dcf3-102">Atualizar os servidores de nomes do seu domínio para o Office 365</span><span class="sxs-lookup"><span data-stu-id="2dcf3-102">Update your domain nameservers to Office 365</span></span>
+# <a name="update-your-domain-nameservers-to-office-365"></a><span data-ttu-id="3b301-102">Atualizar os servidores de nomes do seu domínio para o Office 365</span><span class="sxs-lookup"><span data-stu-id="3b301-102">Update your domain nameservers to Office 365</span></span>
 
-<span data-ttu-id="2dcf3-103">Nota: as alterações aos servidores de nomes podem, por vezes, demorar até 48 horas a serem propagadas.</span><span class="sxs-lookup"><span data-stu-id="2dcf3-103">Note: Nameserver changes can sometimes take up to 48 hours to propagate.</span></span>
+<span data-ttu-id="3b301-103">Nota: as alterações aos servidores de nomes podem, por vezes, demorar até 48 horas a serem propagadas.</span><span class="sxs-lookup"><span data-stu-id="3b301-103">Note: Nameserver changes can sometimes take up to 48 hours to propagate.</span></span>
   
-<span data-ttu-id="2dcf3-p101">Para configurar o seu domínio no Office 365, os servidores de nomes na sua entidade de registo têm de ser atualizados. Crie ou edite os registos do seu servidor de nomes na sua entidade de registo de domínios.</span><span class="sxs-lookup"><span data-stu-id="2dcf3-p101">To set up your domain in Office 365, the nameservers at your registrar need to be updated. Create or edit your nameserver records at your domain registrar.</span></span>
+<span data-ttu-id="3b301-p101">Para configurar o seu domínio no Office 365, os servidores de nomes na sua entidade de registo têm de ser atualizados. Crie ou edite os registos do seu servidor de nomes na sua entidade de registo de domínios.</span><span class="sxs-lookup"><span data-stu-id="3b301-p101">To set up your domain in Office 365, the nameservers at your registrar need to be updated. Create or edit your nameserver records at your domain registrar.</span></span>
   
-1. <span data-ttu-id="2dcf3-106">Aceda ao site da sua entidade de registo de domínios e procure a área onde pode editar os servidores de nomes.</span><span class="sxs-lookup"><span data-stu-id="2dcf3-106">Go to your domain registrar's website and find the area where you can edit the nameservers.</span></span>
+1. <span data-ttu-id="3b301-106">Aceda ao site da sua entidade de registo de domínios e procure a área onde pode editar os servidores de nomes.</span><span class="sxs-lookup"><span data-stu-id="3b301-106">Go to your domain registrar's website and find the area where you can edit the nameservers.</span></span>
   
-2. <span data-ttu-id="2dcf3-107">Crie ou edite dois registos de servidor de nomes de forma a que correspondam a estes valores:</span><span class="sxs-lookup"><span data-stu-id="2dcf3-107">Create or edit two nameserver records to match these values:</span></span>
+2. <span data-ttu-id="3b301-107">Crie ou edite dois registos de servidor de nomes de forma a que correspondam a estes valores:</span><span class="sxs-lookup"><span data-stu-id="3b301-107">Create or edit two nameserver records to match these values:</span></span>
 
-  - <span data-ttu-id="2dcf3-108">ns1.bdm.microsoftonline.com</span><span class="sxs-lookup"><span data-stu-id="2dcf3-108">ns1.bdm.microsoftonline.com</span></span>
+  - <span data-ttu-id="3b301-108">ns1.bdm.microsoftonline.com</span><span class="sxs-lookup"><span data-stu-id="3b301-108">ns1.bdm.microsoftonline.com</span></span>
 
-  - <span data-ttu-id="2dcf3-109">ns2.bdm.microsoftonline.com</span><span class="sxs-lookup"><span data-stu-id="2dcf3-109">ns2.bdm.microsoftonline.com</span></span>
+  - <span data-ttu-id="3b301-109">ns2.bdm.microsoftonline.com</span><span class="sxs-lookup"><span data-stu-id="3b301-109">ns2.bdm.microsoftonline.com</span></span>
 
-3. <span data-ttu-id="2dcf3-110">Guarde as alterações.</span><span class="sxs-lookup"><span data-stu-id="2dcf3-110">Save changes.</span></span>
+3. <span data-ttu-id="3b301-110">Guarde as alterações.</span><span class="sxs-lookup"><span data-stu-id="3b301-110">Save changes.</span></span>
 
-<span data-ttu-id="2dcf3-111">Também encontrará instruções detalhadas neste artigo: [Alterar servidores de nomes para configurar o Office 365 com qualquer entidade de registo de domínios](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)</span><span class="sxs-lookup"><span data-stu-id="2dcf3-111">You can also find detailed instructions in this article: [Change nameservers to set up Office 365 with any domain registrar](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)</span></span>
+<span data-ttu-id="3b301-111">Também encontrará instruções detalhadas neste artigo: [Alterar servidores de nomes para configurar o Office 365 com qualquer entidade de registo de domínios](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)</span><span class="sxs-lookup"><span data-stu-id="3b301-111">You can also find detailed instructions in this article: [Change nameservers to set up Office 365 with any domain registrar](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)</span></span>
   

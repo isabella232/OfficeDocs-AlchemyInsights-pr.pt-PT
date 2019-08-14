@@ -13,18 +13,18 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 5d446cefffb1598a5d2c8cd17b6eba64205f00f2
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 886f6933daed7fc21c858591286b05b7093d627e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383648"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390847"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Como reativar uma subscrição
 
 Se a sua subscrição expirou, foi cancelada ou desativada pela Microsoft, pode reativá-la no centro de administração do Microsoft 365.
   
-1. No Centro de Administração, aceda à página [Subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) ou selecione **Faturação** \> **Subscrições**.
+1. No centro de administração, aceda à página **Faturação** \> [Subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
 2. Selecione a subscrição que pretende reativar.
 
@@ -36,5 +36,4 @@ Se a sua subscrição expirou, foi cancelada ou desativada pela Microsoft, pode 
 
 6. Se após alguns minutos o estado da subscrição não for Ativo, atualize a página.
 
-Para obter mais informações, consulte: [Renovar o Office 365 para empresas](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-  
+Para obter mais informações, consulte: [Renovar o Office 365 para empresas](https://docs.microsoft.com/pt-PT/office365/admin/subscriptions-and-billing/renew-your-subscription).

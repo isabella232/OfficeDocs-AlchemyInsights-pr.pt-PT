@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903722"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387775"
 ---
 # <a name="update-payment-details"></a>Atualizar detalhes de pagamento
 
-1. No Centro de Administração, aceda à página [Métodos de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806) ou selecione **Faturação** \> **Métodos de pagamento**.
+1. No centro de administração, aceda à página **Faturação** \> [Métodos de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
     > [!NOTE]
     > Caso se depare com um problema que faz com que seja redirecionado repetidamente para a home page de Administração antes de as atualizações serem concluídas, experimente entrar no modo InPrivate ou Anónimo.
@@ -37,4 +37,4 @@ ms.locfileid: "35903722"
 
 5. Para remover este método de pagamento, selecione **Eliminar**.
 
-Para obter mais informações, consulte [Adicionar, atualizar ou remover um cartão de crédito ou conta bancária no Office 365 para Empresas](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) e [Resolver problemas de cartões de crédito e contas bancárias](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Para obter mais informações, consulte [Adicionar, atualizar ou remover um cartão de crédito ou conta bancária no Office 365 para Empresas](https://docs.microsoft.com/pt-PT/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) e [Resolver problemas de cartões de crédito e contas bancárias](https://docs.microsoft.com/pt-PT/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

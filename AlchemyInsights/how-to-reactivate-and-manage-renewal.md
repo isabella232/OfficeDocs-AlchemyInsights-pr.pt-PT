@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383540"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389947"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Como reactivar e gerir a faturação periódica
 
 Parece possui uma subscrição que expirou. Se deseja reactivar, aqui da forma.
   
-1. No Centro de administração, vá para a página de [subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) , ou vá para **Facturação** \> **subscrições**.
+1. No Centro de administração, vá para a **Facturação** \> página de [subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Escolha a subscrição que está **expirado** ou **desactivado**.
 
@@ -36,11 +36,10 @@ Parece possui uma subscrição que expirou. Se deseja reactivar, aqui da forma.
 
 Para gerir a faturação mensal ou anual pode alternar **Facturação periódico** ou desactivar.
   
-1. No Centro de administração, vá para a página de [subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) , ou vá para **Facturação** \> **subscrições**.
+1. No Centro de administração, vá para a **Facturação** \> página de [subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Escolha a subscrição para o qual pretende gerir facturação periódica.
 
 3. Mude a alternância de **Facturação periódico** para **Activar** ou **Desactivar**.
 
-Para mais informações, consulte: [Gerir periódico para facturação para a sua subscrição](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-  
+Para mais informações, consulte [Activar periódico facturação ou desactivar](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

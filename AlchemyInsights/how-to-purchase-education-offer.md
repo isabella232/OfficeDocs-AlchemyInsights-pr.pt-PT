@@ -14,23 +14,21 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: f2603b0ae3d739de43c1ed6bcf7703fcd4c5379c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 208eb40788fcf27332245e4590ad204709b32371
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384239"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390199"
 ---
 # <a name="how-to-purchase-education-offer"></a>Como adquirir a oferta de educação
 
 Foram aprovadas para a educação do Office 365. A compra:
   
-1. No Centro de Administração, aceda à página [Subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) ou selecione **Faturação** \> **Subscrições**.
-    
-2. Escolha a versão de avaliação para a **universidade ou estudantes**.
-    
-3. Escolha **Comprar agora** sobre a versão de avaliação que deseja comprar. 
-    
-Se pretender adquirir uma subscrição que não seja o que há na versão de avaliação, vá para a página de [Serviços de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) ou escolha **Facturação** \> de **Serviços de compra**e escolha na lista em **Planos de educação**.
-  
+1. No Centro de administração, vá para a **Facturação** \> página de [subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
+2. Escolha a versão de avaliação para a **universidade ou estudantes**.
+
+3. Escolha **Comprar agora** sobre a versão de avaliação que deseja comprar. 
+
+Se pretender adquirir uma subscrição que não seja o que há na versão de avaliação, vá para a **Facturação** \> [Serviços de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) de página e escolha na lista em **Planos de educação**.

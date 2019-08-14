@@ -13,18 +13,18 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: beed41b96dde1b120a98391187424367e868071e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d11e5e28dbc524e9e894c0d2e504495f3811a763
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366760"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387855"
 ---
 # <a name="trying-to-find-a-trial"></a>A tentar localizar uma versão de avaliação?
 
-Se pretender tentar um novo serviço que pode encontrar uma lista das subscrições disponíveis para apresentação no Centro de administração de Microsoft 365.
+Se pretender tentar um novo serviço que pode encontrar uma lista das subscrições disponíveis para apresentação no Centro de administração.
   
-1. Vá para a página de [Serviços de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) ou escolha **Facturação** \> **Serviços de compra**.
+1. No Centro de administração, vá para a **Facturação** \> página de [Serviços de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
 2. Localizar a subscrição que corresponda às suas necessidades, do rato sobre ele, e escolher **Iniciar gratuita**.
 

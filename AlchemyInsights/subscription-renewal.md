@@ -13,18 +13,18 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 8dfeeded3106f707a57a2d0bcfb84c5e7a3416ec
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354088"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388208"
 ---
 # <a name="subscription-recurring-billing"></a>Faturação da subscrição periódica
 
 Se pretender saber quando a subscrição mensal ou anual será facturado (se **periódico facturação** estiver activado) ou expiram (se **periódico facturação** está desactivado):
   
-1. No Centro de Administração, aceda à página [Subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) ou selecione **Faturação** \> **Subscrições**.
+1. No Centro de administração, vá para a **Facturação** \> página de [subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Escolha a subscrição à qual pretende obter mais informações.
 
@@ -33,3 +33,5 @@ Se pretender saber quando a subscrição mensal ou anual será facturado (se **p
 4. Para continuar a utilizar o serviço após esta data, mude a alternância de **definições de facturação periódico** para **no**. O estado apresentará a próxima data de facturação para a subscrição.
 
 5. Para parar o serviço nesta data, mude a alternância de **Facturação periódico** para **Terminar**. O estado irá mostrar a data que a subscrição expira.
+
+Está a utilizar o novo Centro de administração? Para obter passos novos, consulte [Activar periódico facturação ou desactivar](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).

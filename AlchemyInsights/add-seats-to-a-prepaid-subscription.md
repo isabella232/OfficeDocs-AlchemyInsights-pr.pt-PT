@@ -13,18 +13,18 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 91b2ddf5a121595ecec8790ae625849894b01875
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358552"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385623"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Adicionar uma subscrição pré-paga bancos
 
-1. No Centro de Administração, aceda à página [Subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) ou selecione **Faturação** \> **Subscrições**.
+1. No Centro de administração, vá para a **Facturação** \> página de [subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Escolha a que gostaria de adicionar utilizadores de subscrição pré-pago.
+2. Escolha a subscrição pré-paga que gostaria de adicionar os utilizadores.
 
 3. No menu **mais acções** , escolher **renovar ou adicionar licenças com token**.
 
@@ -35,3 +35,5 @@ ms.locfileid: "35358552"
 6. Introduza a chave de produto e, em seguida, escolha **seguinte**.
 
 7. Escolha a opção Adicionar mais utilizadores, escolher **seguinte**, em seguida, escolha **resgatar**.
+
+Está a utilizar o novo Centro de administração? Para obter passos novos, consulte [Adicionar licenças para ou expandir uma subscrição paga para utilizar uma chave de produto](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).

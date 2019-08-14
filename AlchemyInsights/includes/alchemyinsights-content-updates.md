@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>Semana de Julho de 01 de Maio de 2019
-
-
-| Publicado em |Título do tópico | Alterar |
-|------|------------|--------|
-| 1/7/2019 | [Relatórios de registo de auditoria SharePoint clássicos](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | modificado |
-| 2/7/2019 | [Obter mais informações sobre políticas de retenção](/AlchemyInsights/office-security-compliance-retention-policy) | modificado |
-
-
 ## <a name="week-of-july-08-2019"></a>Semana de 08 de Julho de Maio de 2019
 
 
@@ -220,3 +211,69 @@
 | 2/8/2019 | [Organizar o correio electrónico no Outlook na web](/AlchemyInsights/owa-organize-email) | modificado |
 | 2/8/2019 | [Imprimir correio electrónico, calendários e anexos no Outlook na web](/AlchemyInsights/owa-print-email-calendars-attachments) | modificado |
 | 2/8/2019 | [Recibos de leitura no Outlook na web](/AlchemyInsights/owa-read-receipts) | modificado |
+
+
+## <a name="week-of-august-05-2019"></a>Semana 05 de Agosto de Maio de 2019
+
+
+| Publicado em |Título do tópico | Alterar |
+|------|------------|--------|
+| 5/8/2019 | [Como responder ou reencaminhar mensagens no Outlook na web](/AlchemyInsights/owa-reply-forward-messages) | modificado |
+| 5/8/2019 | [8000003 de pesquisa de correio e as pessoas no Outlook na web](/AlchemyInsights/owa-search-mail-and-people) | modificado |
+| 5/8/2019 | [Criar uma assinatura no Outlook na web](/AlchemyInsights/owa-signature) | modificado |
+| 5/8/2019 | [S/MIME do Outlook na web](/AlchemyInsights/owa-smime) | modificado |
+| 5/8/2019 | [Deixar mensagens de ir para a pasta correio publicitário não solicitado do Outlook na web](/AlchemyInsights/owa-stop-email-from-going-to-junk-folder) | modificado |
+| 5/8/2019 | [Desactivar direccionadas para a pasta a receber](/AlchemyInsights/owa-turn-off-focused-inbox) | modificado |
+| 5/8/2019 | [1332 OWA - regra (s) de pasta a receber é não execução de uma caixa de correio](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | modificado |
+| 6/8/2019 | [Testar imagens inline de Alquimia](/AlchemyInsights/testing-alchemy-inline-images) | modificado |
+| 6/8/2019 | [Protecção de ameaças avançadas no SharePoint e OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | modificado |
+| 6/8/2019 | [Ataque de ransomware no SharePoint ou OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | modificado |
+| 6/8/2019 | [Site moderna, tal como o site de raiz](/AlchemyInsights/modern-site-as-the-root-site) | modificado |
+| 6/8/2019 | [Problemas durante a migração de dados para o SharePoint Online](/AlchemyInsights/sharepoint-data-size-migration-issues) | modificado |
+| 6/8/2019 | [Transferência ou impedir a transferência de ficheiros de OneDrive ou o SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | modificado |
+| 6/8/2019 | [Resolução de problemas de acesso negado mensagens para OneDrive para sites empresariais](/AlchemyInsights/sharepoint-onedrive-restore-users-admin%20rights) | modificado |
+| 6/8/2019 | [Restaurar uma pasta ou ficheiro eliminado](/AlchemyInsights/sharepoint-deleted-items-restore) | modificado |
+| 6/8/2019 | [Versão OneDrive e do SharePoint](/AlchemyInsights/sharepoint-enable-versioning-list-library) | modificado |
+| 6/8/2019 | [Informações de retenção e eliminação de OneDrive](/AlchemyInsights/one-drive-retention-and-deletion) | modificado |
+| 7/8/2019 | [Impedir que os ficheiros a ser transferido a partir do SharePoint ou OneDrive](/AlchemyInsights/prevent-download) | modificado |
+| 7/8/2019 | [Restaurar uma pasta ou ficheiro eliminado](/AlchemyInsights/sharepoint-deleted-items-restore) | modificado |
+| 7/8/2019 | [Activar a partilha externo no SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing) | modificado |
+| 7/8/2019 | [Corrigir problemas de sincronização de OneDrive](/AlchemyInsights/fix-onedrive-sync-issues) | modificado |
+| 7/8/2019 | [Corrigir problemas de sincronização do OneDrive](/AlchemyInsights/fix-onedrive-sync-problems) | modificado |
+| 7/8/2019 | [Não está a ser enviado correio electrónico de fluxo de trabalho](/AlchemyInsights/workflow-email-not-being-sent) | modificado |
+| 7/8/2019 | [Não está a iniciar o fluxo de trabalho](/AlchemyInsights/workflow-is-not-starting) | modificado |
+| 7/8/2019 | [Protecção de ameaças avançadas no SharePoint e OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | modificado |
+| 7/8/2019 | [Associar um site concentrador](/AlchemyInsights/associate-a-hub-site) | modificado |
+| 7/8/2019 | [Criar um site SharePoint](/AlchemyInsights/create-a-sharepoint-site) | modificado |
+| 7/8/2019 | [Site moderna, tal como o site de raiz](/AlchemyInsights/modern-site-as-the-root-site) | modificado |
+| 7/8/2019 | [Retenção de OneDrive e eliminação](/AlchemyInsights/one-drive-retention-and-deletion) | modificado |
+| 7/8/2019 | [OneDrive problemas e resoluções comuns](/AlchemyInsights/onedrive-common-issues-and-resolutions) | modificado |
+| 7/8/2019 | [Ataque de ransomware no SharePoint ou OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | modificado |
+| 7/8/2019 | [Externo partilha Online no SharePoint](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | modificado |
+| 7/8/2019 | [Versão OneDrive e do SharePoint](/AlchemyInsights/sharepoint-enable-versioning-list-library) | modificado |
+| 7/8/2019 | [Contacto externo está disposto a aceitar um convite de partilha](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | modificado |
+| 7/8/2019 | [SharePoint Online problemas e resoluções comuns](/AlchemyInsights/sharepoint-get-started-faq) | modificado |
+| 7/8/2019 | [Site moderna, tal como o site de raiz](/AlchemyInsights/sharepoint-modernize-classic-site) | modificado |
+| 7/8/2019 | [Transferência ou impedir a transferência de ficheiros de OneDrive ou o SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | modificado |
+| 7/8/2019 | [Instalar o programa de configuração e sincronizar os ficheiros de OneDrive ou SharePoint do Mac](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | modificado |
+| 7/8/2019 | [Resolver problemas de "Abrir com o Explorer" no SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | modificado |
+| 8/8/2019 | [Protecção de ameaças avançadas no SharePoint e OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | modificado |
+| 8/8/2019 | [Associar um site concentrador](/AlchemyInsights/associate-a-hub-site) | modificado |
+| 8/8/2019 | [Criar um site SharePoint](/AlchemyInsights/create-a-sharepoint-site) | modificado |
+| 8/8/2019 | [Erro 404: Ficheiro não encontrado](/AlchemyInsights/error-404-access-site-file-sharepoint-onedrive) | modificado |
+| 8/8/2019 | [Corrigir problemas de sincronização de OneDrive um Mac](/AlchemyInsights/fix-onedrive-sync-issues-on-a-mac) | modificado |
+| 8/8/2019 | [Mapear uma biblioteca do SharePoint para uma unidade de rede](/AlchemyInsights/map-sharepoint-library-to-network-drive-new) | modificado |
+| 8/8/2019 | [Site moderna, tal como o site de raiz](/AlchemyInsights/modern-site-as-the-root-site) | modificado |
+| 8/8/2019 | [Retenção de OneDrive e eliminação](/AlchemyInsights/one-drive-retention-and-deletion) | modificado |
+| 8/8/2019 | [Ataque de ransomware no SharePoint ou OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | modificado |
+| 8/8/2019 | [Restaurar uma pasta ou ficheiro eliminado](/AlchemyInsights/sharepoint-deleted-items-restore) | modificado |
+| 8/8/2019 | [Utilizador externo não é possível aceder ao conteúdo no SharePoint Online](/AlchemyInsights/sharepoint-external-sharing-issues) | modificado |
+| 8/8/2019 | [Descrição geral de sites do SharePoint concentrador](/AlchemyInsights/sharepoint-hub-sites) | modificado |
+| 8/8/2019 | [Transferência ou impedir a transferência de ficheiros de OneDrive ou o SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | modificado |
+| 8/8/2019 | [Gerir o esquema de pesquisa no SharePoint Online](/AlchemyInsights/sharepoint-search-schema) | modificado |
+| 8/8/2019 | [Passos para criar um fluxo de trabalho do SharePoint](/AlchemyInsights/steps-to-create-a-sharepoint-workflow) | modificado |
+| 8/8/2019 | [Trocar o site de raiz Classic com um site Moderno](/AlchemyInsights/swap-your-classic-root-site-with-a-modern-site) | modificado |
+| 8/8/2019 | [Resolver problemas de "Abrir com o Explorer" no SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | modificado |
+| 8/8/2019 | [Resolução de problemas de fluxo de trabalho](/AlchemyInsights/workflow-troubleshooting) | modificado |
+| 8/8/2019 | [Registo de auditoria de procura e activar](/AlchemyInsights/enable-auditing) | modificado |
+| 8/8/2019 | [Activar e procurar o registo de auditoria](/AlchemyInsights/enable-auditing) | modificado |

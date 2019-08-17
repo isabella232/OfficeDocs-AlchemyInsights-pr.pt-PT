@@ -13,33 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371444"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444783"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Como efectuar procuras de conteúdo e procuras de detecção de dados electrónicos
 
-**Pesquisa de conteúdo**
+Utilize a ferramenta Procurar conteúdo no & Security Center de conformidade para localizar rapidamente correio electrónico em caixas de correio do Exchange, documentos em sites do SharePoint e conta de OneDrive e conversações em Skype para a empresa de mensagens instantâneas. Também pode utilizar a ferramenta de pesquisa de conteúdo para procurar a mensagem de correio electrónico, documentos e conversações de mensagens instantâneas em ferramentas de colaboração do Office 365 como Teams da Microsoft e grupos do Office 365.
+
+**Para efectuar uma pesquisa de conteúdo**
 
 1. Vá para a [segurança & Centro de conformidade](https://protection.office.com) e iniciar sessão.
-2. Clique em **Procurar conteúdos do procura & inquérito >**.
+2. Clique em **Procurar conteúdo de > de procura**.
 3. Clique em **nova procura** para criar uma nova procura.
 4. Introduza as condições de procura necessárias, incluindo palavras-chave e localizações de conteúdo.  
 5. Clique em **Guardar & executar** a procura de nomes, iniciá-lo e, em seguida, pré-visualize os resultados.
 
-Para obter instruções detalhadas sobre como criar procuras e exportar resultados, consulte [Este artigo](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Para obter instruções detalhadas sobre pesquisas de conteúdo, exportar resultados e a criação de casos de detecção de dados electrónicos para armazenar dados, consulte o [Conteúdo de procura](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) e [casos de detecção de dados electrónicos](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
 
-**procuras de detecção de dados electrónicos**
-
-1. Vá para a [segurança & Centro de conformidade](https://protection.office.com) e iniciar sessão.
-2. Clique em **Procurar & inquérito > detecção de dados electrónicos**.
-3. Abra um incidente existente ou criar um novo.
-4. No caso da home page, clique no separador de **procuras** .  
-5. Clique em **nova procura** para criar uma nova procura.
-6. Introduza as condições de procura necessárias, incluindo palavras-chave e localizações de conteúdo.  
-7. Clique em **Guardar & executar** a procura de nomes, iniciá-lo e, em seguida, pré-visualize os resultados.
-
-Para obter instruções detalhadas sobre como criar procuras associados um caso de detecção de dados electrónicos e exportar os resultados, consulte [Este artigo](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Compreenda mais sobre como procurar conteúdo por rever os [requisitos e os limites](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) e [investigar parcialmente itens indexados](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) e outros resultados para ter em consideração.

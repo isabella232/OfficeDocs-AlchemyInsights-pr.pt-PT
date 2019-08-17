@@ -12,12 +12,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 9f4a175239bc20aaf489615da63ef35002030a70
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d0af4c933f262fe1ec4c2a6ff16d5f6195398b0d
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369676"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444819"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Políticas de retenção no Centro de administração do Exchange
 
@@ -56,4 +56,9 @@ ms.locfileid: "35369676"
   ```
 
  **Nota:** Se uma caixa de correio for inferior a 10 MB, o Managed Assistente da pasta não irá automaticamente processar a caixa de correio.
-  
+ 
+Para mais informações sobre políticas de retenção no Centro de administração do Exchange, consulte:
+- [Etiquetas de retenção e políticas de retenção](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Aplicar uma política de retenção a caixas de correio](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [Adicionar ou remover marcas de retenção](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [Como identificar o tipo de retenção colocados numa caixa de correio](https://docs.microsoft.com/en-us/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)

@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1926"
 - "6200018"
-ms.openlocfilehash: 4ade8d2f68b465298e2d6efff3eef4f04f25c3bf
-ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
+ms.openlocfilehash: cbdedd2c5fcf5517243e60e36d86479d6c3f7814
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35748413"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36529030"
 ---
 # <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>Evento OnChange não ocorre se o campo é alterado de forma programática
 
-O evento *OnChange* não ocorre se o campo é alterado de forma programática utilizando o *atributo.* método [DefinirValor](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) . Se pretender que os processadores de eventos para o evento *OnChange* ser executado depois de definir o valor tem de utilizar o *atributo formContext.data.entity.* método de [fireOnchange](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) do código.
+O evento *OnChange* não ocorre se o campo é alterado de forma programática utilizando o *atributo.* método [DefinirValor](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) . Se pretender que os processadores de eventos para o evento *OnChange* ser executado depois de definir o valor tem de utilizar o *atributo formContext.data.entity.* método de [fireOnchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) do código.
 
-[https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange)
+[https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange)

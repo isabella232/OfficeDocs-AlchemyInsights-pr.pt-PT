@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: fc49978fbd2c07381dae83061b1a1868cd1df0d0
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059263"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507642"
 ---
-# <a name="search-in-sharepoint-online"></a>Procurar no SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Conteúdo de pesquisa e indexação no SharePoint Online
 
 Conteúdo deve ser pesquisado e adicionado ao índice de procura aos utilizadores a localização daquilo procura no SharePoint Online. Conteúdo é pesquisado automaticamente com base numa agenda de pesquisa predefinido (não é possível alterar a agenda de pesquisa). O crawler capta conteúdo que foi alterado desde a última pesquisa e actualiza o índice. Para garantir o conteúdo é pesquisado e o índice é actualizado, tenha em atenção o seguinte:
 
@@ -30,7 +30,8 @@ Conteúdo deve ser pesquisado e adicionado ao índice de procura aos utilizadore
 
     Se tiverem passado mais de 24 horas desde que iniciou a pesquisa e, em seguida, reindexar completo, inicie a sessão de um incidente de suporte. Em muitos casos, a Microsoft já estiver a trabalhar numa solução. Forneça pelo menos 24 horas para concluir uma solução.
 
->[! Importante!]: se um site, o documento (biblioteca) ou uma lista foi eliminada e ainda mostra nos resultados da procura, os utilizadores devem receber um **Erro 404 ficheiro não encontrado** ao tentar aceder a ele. Este problema deve ser registado como um incidente de suporte para a investigação suplementar. 
+> [!IMPORTANT]
+> Se um site, uma lista ou documento (biblioteca) foi eliminado e continua a aparecer nos resultados da procura, os utilizadores devem receber um **Erro 404 ficheiro não encontrado** ao tentar aceder a ele. Este problema deve ser registado como um incidente de suporte para a investigação suplementar. 
 
 
 

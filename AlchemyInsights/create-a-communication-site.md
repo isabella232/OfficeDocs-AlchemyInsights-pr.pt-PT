@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: b526a87740c44d2b247c202a92d9c35f85383500
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0ab2877a6192af1bf88016ca9cff5ec0aa967e5f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407589"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516287"
 ---
 # <a name="create-a-communication-site"></a>Criar um site de comunicação
 
-Para criar um site de comunicação, conclua os seguintes passos: 
+Para criar um site de comunicação no SharePoint Online, execute os seguintes passos: 
   
 1. No canto superior esquerdo da página, clique em Iniciação de aplicação e seleccione o mosaico do SharePoint. Se não vir o mosaico do SharePoint, clique em **Sites** ou **todas as aplicações** se SharePoint não estiver visível. 
     

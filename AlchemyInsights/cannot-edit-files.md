@@ -8,22 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 149bf3f8d261c2c2945ec47c47cf9ca694f7aec9
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 546d9c63d0ed37403d602e942c18d1b35caf6075
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222967"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519694"
 ---
-# <a name="why-you-might-not-be-able-to-edit-files"></a>Por que motivo poderá não conseguir editar ficheiros?
+# <a name="cant-edit-files"></a>Não pode editar ficheiros?
 
-Se um documento, folha de cálculo ou apresentação está bloqueada para edição e não pode ser aberta, é possível que o ficheiro já está a ser editado por outra pessoa, ou com o ficheiro com saída dada. Vamos observar um breve olhar sobre algumas das razões [por que motivo poderá não conseguir editar o ficheiro](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Se um documento, folha de cálculo ou apresentação está bloqueada para edição e não é possível abrir as aplicações de ambiente de trabalho do Windows, é possível que o ficheiro já está a ser editado por outra pessoa, ou com o ficheiro com saída dada. Vamos observar um breve olhar sobre algumas das razões [por que motivo poderá não conseguir editar o ficheiro](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Nota: Bibliotecas com saída dada, requerido colunas os metadados, ou quando a segurança de itens de rascunho está definida para apenas os utilizadores que podem editar ou apenas os utilizadores que podem aprovar itens nas definições de versão da biblioteca.
+Se tiver bibliotecas com colunas de **saída, necessária** ou de **validação** ou metadados, ou quando a **Segurança de itens de rascunho** é definida como **apenas os utilizadores a quem podem editar** ou **apenas os utilizadores que podem aprovar itens** nas definições de versão das biblioteca:
 
-Para as bibliotecas de OneDrive, OneDrive apresentará um ícone de cadeado junto do Estado da sincronização e o utilizador não conseguirá sincronizar a biblioteca até que as definições mencionadas foram removidas.
+- Para bibliotecas de documentos do SharePoint, estes itens serão sincronizados como só de leitura.
 
-Para mais informações sobre ficheiros bloqueados para o Word/Excel faça referência os artigos abaixo.
+- Para bibliotecas de OneDrive, OneDrive irá mostrar um ícone de cadeado (OneDrive ficheiro bloqueada ícone) junto a sincronização estado e o utilizador não conseguirá sincronizar a biblioteca até que as definições mencionadas foram removidas. 
+
+Para mais informações sobre ficheiros bloqueados para Word ou Excel, consulte os artigos abaixo.
 
 - [Ficheiro de Excel está bloqueado para edição por outro utilizador](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 

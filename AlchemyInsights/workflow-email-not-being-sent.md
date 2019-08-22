@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 49c510668f4c73a71495b89ee9f810d4e7244da3
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270683"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530896"
 ---
-# <a name="workflow-email-is-not-being-sent"></a>Não está a ser enviado correio electrónico de fluxo de trabalho
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Correio electrónico de fluxo de trabalho não está a ser enviado para uma lista do SharePoint ou biblioteca
 
 1. Mensagem de correio electrónico fluxos de trabalho não são enviadas para todos os utilizadores ou apenas utilizadores específicos ou ver que o erro **a mensagem de correio electrónico não pode ser enviado. Certifique-se o correio electrónico tem um destinatário válido**.
 
@@ -30,10 +30,10 @@ ms.locfileid: "36270683"
     - Se o utilizador existir no grupo de permissões, certificar-se de que o endereço de correio electrónico está correcto.
     - Se o endereço de correio electrónico de utilizadores não estiver definido aqui, em seguida, crie um alerta de exemplo para esse utilizador que obriga a sincronização dessa conta de utilizador de perfis de utilizador do SharePoint para esta colecção de sites.
  
-2. Mensagem de correio electrónico fluxos de trabalho são enviados para os administradores de colecção de sites, mas não para outros utilizadores e ver o erro **HTTP proibido a <spam> <spam> ** <spam> <spam>.
+2. Mensagem de correio electrónico fluxos de trabalho são enviados para os administradores de colecção de sites, mas não para outros utilizadores e ver o erro **HTTP proibido a <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    Consulte [Acesso negado ao correio electrónico enviado para grupos](https://docs.microsoft.com/sharepoint/support/server-admin/access-denied-when-send-an-email-to-groups).
+    Consulte [o acesso negado quando envia uma mensagem de correio electrónico a um grupo SharePoint](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
     Além disso, certifique-se de que a funcionalidade de colecção de sites de **modo de bloqueio de permissão de utilizador de acesso limitado** não está activa.
 

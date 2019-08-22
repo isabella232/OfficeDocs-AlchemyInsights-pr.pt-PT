@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385403"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522514"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Como atribuir licenças do Office para os utilizadores do Mac
 
-- No Centro de administração de Microsoft 365, vá para a página de [utilizadores do Active](https://go.microsoft.com/fwlink/p/?linkid=834822) ou escolher **utilizadores** \> **os utilizadores activos**.
+1. No Centro de administração, vá para os **utilizadores** \> página [utilizadores activos](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
-- Selecione a caixa junto ao nome do utilizador a quem pretende atribuir uma licença.
+2. Seleccione o nome do utilizador a quem pretende atribuir, alterar ou remover uma licença.
 
-- Do lado direito, na linha **Licenças de produtos**, selecione **Editar**.
+3. No separador **licenças e aplicações** , seleccione a licença que pretende atribuir a este utilizador.
 
-- No painel de s **licença de produto**, mude a alternar para a posição **** para a licença que pretende atribuir a este utilizador.
+    Por predefinição, todos os serviços associados a essa licença são automaticamente atribuídos ao utilizador. Para limitar quais os serviços estão disponíveis para o utilizador, desmarque a caixa de verificação para os serviços que não pretende que o utilizador tem.
 
-- Na parte inferior do painel **Licenças de produtos**, selecione **Guardar** \> **Fechar** \> **Fechar**.
+4. Na parte inferior do painel, escolha **Guardar as alterações**.
 
 Para obter mais informações: [atribuir licenças aos utilizadores no Office 365 para a empresa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   

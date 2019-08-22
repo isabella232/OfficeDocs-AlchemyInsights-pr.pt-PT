@@ -11,15 +11,15 @@ ms.custom:
 - "9000302"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 572354fb37e8e298194ee4399d23117c2e0dfc93
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1a18674e68eab779984f273f0d90e28f9cdb9921
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372092"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36512290"
 ---
-# <a name="settings-in-outlookcom"></a><span data-ttu-id="8f408-102">Definições de Outlook.com</span><span class="sxs-lookup"><span data-stu-id="8f408-102">Settings in Outlook.com</span></span>
+# <a name="settings-in-outlookcom"></a><span data-ttu-id="746f8-102">Definições de Outlook.com</span><span class="sxs-lookup"><span data-stu-id="746f8-102">Settings in Outlook.com</span></span>
 
-<span data-ttu-id="8f408-103">Se não conseguir abrir definições de Outlook.com, utilize a [clique aqui](https://outlook.live.com/mail/options/general/timeAndLanguage).</span><span class="sxs-lookup"><span data-stu-id="8f408-103">If you can't open Outlook.com settings, please [click here](https://outlook.live.com/mail/options/general/timeAndLanguage).</span></span>
+<span data-ttu-id="746f8-103">Se não conseguir abrir definições de Outlook.com, utilize a [clique aqui](https://outlook.live.com/mail/options/general/timeAndLanguage).</span><span class="sxs-lookup"><span data-stu-id="746f8-103">If you can't open Outlook.com settings, please [click here](https://outlook.live.com/mail/options/general/timeAndLanguage).</span></span>
 
-<span data-ttu-id="8f408-104">Não abram algumas hiperligações directas no momento - estamos a trabalhar no mesmo!</span><span class="sxs-lookup"><span data-stu-id="8f408-104">Some direct links don't open at the moment - we're working on it!</span></span>
+<span data-ttu-id="746f8-104">Não abram algumas hiperligações directas no momento - estamos a trabalhar no mesmo!</span><span class="sxs-lookup"><span data-stu-id="746f8-104">Some direct links don't open at the moment - we're working on it!</span></span>

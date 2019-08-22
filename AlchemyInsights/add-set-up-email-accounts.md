@@ -13,16 +13,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: 1b4c864ef0ad579593032b30581123b0e27ee2ab
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 26e4840f0feb38d8e12c593c00953c376d0817f8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358480"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494970"
 ---
-# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a><span data-ttu-id="ac7b8-102">Problemas ao configurar uma conta de correio electrónico do Exchange no Outlook</span><span class="sxs-lookup"><span data-stu-id="ac7b8-102">Problems setting up an Exchange email account in Outlook</span></span>
+# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a><span data-ttu-id="a78b1-102">Problemas ao configurar uma conta de correio electrónico do Exchange no Outlook</span><span class="sxs-lookup"><span data-stu-id="a78b1-102">Problems setting up an Exchange email account in Outlook</span></span>
 
-<span data-ttu-id="ac7b8-103">Se estiver a ter problemas ao configurar uma conta do Exchange no Outlook, pode executar a [ferramenta de configuração de conta do Outlook](https://aka.ms/SaRA-OutlookSetupProfile) no computador afectado.</span><span class="sxs-lookup"><span data-stu-id="ac7b8-103">If you're having problems setting up an Exchange account in Outlook, you can run the [Outlook account Setup tool](https://aka.ms/SaRA-OutlookSetupProfile) on the affected machine.</span></span> <span data-ttu-id="ac7b8-104">Este irá efectuar várias verificações e fornecer soluções possíveis para o problema de configuração de conta.</span><span class="sxs-lookup"><span data-stu-id="ac7b8-104">It will perform various checks and provide possible solutions to your account setup issue.</span></span>
+<span data-ttu-id="a78b1-103">Se estiver a ter problemas ao configurar uma conta do Exchange no Outlook, pode executar a [ferramenta de configuração de conta do Outlook](https://aka.ms/SaRA-OutlookSetupProfile) no computador afectado.</span><span class="sxs-lookup"><span data-stu-id="a78b1-103">If you're having problems setting up an Exchange account in Outlook, you can run the [Outlook account Setup tool](https://aka.ms/SaRA-OutlookSetupProfile) on the affected machine.</span></span> <span data-ttu-id="a78b1-104">Este irá efectuar várias verificações e fornecer soluções possíveis para o problema de configuração de conta.</span><span class="sxs-lookup"><span data-stu-id="a78b1-104">It will perform various checks and provide possible solutions to your account setup issue.</span></span>
   
-<span data-ttu-id="ac7b8-105">Se continuar a ter problemas, consulte [que o Outlook não é possível configurar um novo perfil utilizando detecção automática do Exchange para uma caixa de correio Exchange Online no Office 365](https://support.microsoft.com/help/2404385/outlook-can-t-set-up-a-new-profile-by-using-exchange-autodiscover-for).</span><span class="sxs-lookup"><span data-stu-id="ac7b8-105">If you're still having issues, see [Outlook can't set up a new profile by using Exchange Autodiscover for an Exchange Online mailbox in Office 365](https://support.microsoft.com/help/2404385/outlook-can-t-set-up-a-new-profile-by-using-exchange-autodiscover-for).</span></span>
+<span data-ttu-id="a78b1-105">Se continuar a ter problemas, consulte [que o Outlook não é possível configurar um novo perfil utilizando detecção automática do Exchange para uma caixa de correio Exchange Online no Office 365](https://support.microsoft.com/help/2404385/outlook-can-t-set-up-a-new-profile-by-using-exchange-autodiscover-for).</span><span class="sxs-lookup"><span data-stu-id="a78b1-105">If you're still having issues, see [Outlook can't set up a new profile by using Exchange Autodiscover for an Exchange Online mailbox in Office 365](https://support.microsoft.com/help/2404385/outlook-can-t-set-up-a-new-profile-by-using-exchange-autodiscover-for).</span></span>
   

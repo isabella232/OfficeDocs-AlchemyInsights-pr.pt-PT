@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: 0a7522f25b2aa4e26e9686040de009bc83fc4a39
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9fc653723e873ca11d83b363af938589b1a5a87b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400427"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523270"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>Problemas de obter o Outlook para ligar?
 
@@ -21,10 +21,10 @@ Detectámos que o Outlook não está configurado para funcionar correctamente co
   
 {HealthCheckString}
   
-Os registos de NS ou CNAME as definições de domínio (DNS) não estão correctamente configurados. Pode fazer referência a [registos de DNS actualização no Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) para obter instruções detalhadas. 
+Os registos de NS ou CNAME as definições de domínio (DNS) não estão correctamente configurados. Para obter instruções detalhadas, consulte [Atualizar registos DNS no Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx). 
   
-Para corrigir, vá para a página de [domínios](https://admin.microsoft.com/adminportal/home#/Domains) no Centro de administração de Microsoft 365 e iremos ajudá-lo com o mesmo. 
+Para corrigir o problema, aceda à página [Domínios](https://admin.microsoft.com/adminportal/home#/Domains) no centro de administração do Microsoft 365. 
   
-[Verifique as perguntas mais frequentes de domínios](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) para outras soluções comuns. 
+[Consulte a FAQ sobre domínios](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) para conhecer outras soluções comuns. 
   
 

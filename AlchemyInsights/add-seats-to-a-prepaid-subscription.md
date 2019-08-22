@@ -13,27 +13,30 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385623"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495042"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="73216-102">Adicionar uma subscrição pré-paga bancos</span><span class="sxs-lookup"><span data-stu-id="73216-102">Add seats to a prepaid subscription</span></span>
+# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="742d0-102">Adicionar uma subscrição pré-paga bancos</span><span class="sxs-lookup"><span data-stu-id="742d0-102">Add seats to a prepaid subscription</span></span>
 
-1. <span data-ttu-id="73216-103">No Centro de administração, vá para a **Facturação** \> página de [subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="73216-103">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+<span data-ttu-id="742d0-103">Pré-pagos Office 365 licenças são emitidas como um código alfanumérico de 25 caracteres.</span><span class="sxs-lookup"><span data-stu-id="742d0-103">Prepaid Office 365 licenses are issued to you as a 25-character alphanumeric code.</span></span> <span data-ttu-id="742d0-104">Depois de adquiriu as licenças de que necessita, pode adicioná-los à sua subscrição.</span><span class="sxs-lookup"><span data-stu-id="742d0-104">After you have purchased the licenses you need, you can add them to your subscription.</span></span> 
 
-2. <span data-ttu-id="73216-104">Escolha a subscrição pré-paga que gostaria de adicionar os utilizadores.</span><span class="sxs-lookup"><span data-stu-id="73216-104">Choose the prepaid subscription you would like to add users to.</span></span>
+1. <span data-ttu-id="742d0-105">No Centro de administração, vá para a **Facturação** > página[produtos e serviços &](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="742d0-105">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-3. <span data-ttu-id="73216-105">No menu **mais acções** , escolher **renovar ou adicionar licenças com token**.</span><span class="sxs-lookup"><span data-stu-id="73216-105">In the **More actions** menu, choose **Renew or add license with token**.</span></span>
+2. <span data-ttu-id="742d0-106">Localize a subscrição à qual pretende adicionar licenças.</span><span class="sxs-lookup"><span data-stu-id="742d0-106">Find the subscription to which you want to add licenses.</span></span> <span data-ttu-id="742d0-107">Seleccione a lista pendente de **mais acções** e, em seguida, escolha **renovar ou adicionar licenças com token**.</span><span class="sxs-lookup"><span data-stu-id="742d0-107">Select the **More actions** drop-down list, and then choose **Renew or add license with token**.</span></span>
 
-4. <span data-ttu-id="73216-106">Seleccione a opção de **chave de produto de novo e não utilizada** .</span><span class="sxs-lookup"><span data-stu-id="73216-106">Select the **new and unused product key** option.</span></span> <span data-ttu-id="73216-107">(Se esta subscrição foi criada com uma chave de produto adquirida numa localização de revenda, poderá ter a opção de adicionar os utilizadores com outros métodos de pagamento.)</span><span class="sxs-lookup"><span data-stu-id="73216-107">(If this subscription was created with a product key purchased at a retail location, you might have the option to add users with other payment methods.)</span></span>
+3. <span data-ttu-id="742d0-108">Sobre o **renovar ou adicionar licenças de utilizador** de página, seleccione **utilizar uma chave de produto de novo e não utilizados**, em seguida, seleccione **seguinte**.</span><span class="sxs-lookup"><span data-stu-id="742d0-108">On the **Renew or add user licenses** page, select **Use a new and unused product key**, then select **Next**.</span></span>
 
-5. <span data-ttu-id="73216-108">Selecione **Seguinte**.</span><span class="sxs-lookup"><span data-stu-id="73216-108">Choose **Next**.</span></span>
+4. <span data-ttu-id="742d0-109">Introduza a chave de produto, em seguida, seleccione **seguinte**.</span><span class="sxs-lookup"><span data-stu-id="742d0-109">Enter the product key, then select **Next**.</span></span>
 
-6. <span data-ttu-id="73216-109">Introduza a chave de produto e, em seguida, escolha **seguinte**.</span><span class="sxs-lookup"><span data-stu-id="73216-109">Enter the product key, then choose **Next**.</span></span>
+    > [!NOTE]
+    > <span data-ttu-id="742d0-110">Se tiver mais do que uma chave de produto, pode seleccionar **Adicionar outra chave de produto** para introduzi-los.</span><span class="sxs-lookup"><span data-stu-id="742d0-110">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
 
-7. <span data-ttu-id="73216-110">Escolha a opção Adicionar mais utilizadores, escolher **seguinte**, em seguida, escolha **resgatar**.</span><span class="sxs-lookup"><span data-stu-id="73216-110">Choose the option to add more users, choose **Next**, then choose **Redeem**.</span></span>
+5. <span data-ttu-id="742d0-111">Optar por adicionar utilizadores à subscrição, em seguida, seleccione **seguinte**.</span><span class="sxs-lookup"><span data-stu-id="742d0-111">Choose to add users to the subscription, then select **Next**.</span></span>
 
-<span data-ttu-id="73216-111">Está a utilizar o novo Centro de administração?</span><span class="sxs-lookup"><span data-stu-id="73216-111">Are you using the new admin center?</span></span> <span data-ttu-id="73216-112">Para obter passos novos, consulte [Adicionar licenças para ou expandir uma subscrição paga para utilizar uma chave de produto](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="73216-112">For new steps, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).</span></span>
+6. <span data-ttu-id="742d0-112">Reveja os detalhes da encomenda e, em seguida, seleccione **resgatar**.</span><span class="sxs-lookup"><span data-stu-id="742d0-112">Review your order details, then select **Redeem**.</span></span>
+
+<span data-ttu-id="742d0-113">Para mais informações, consulte [Adicionar licenças para ou expandir uma subscrição paga para utilizar uma chave de produto](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="742d0-113">For more information, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>

@@ -12,13 +12,13 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 6728f195b83ec7c2cc8583cb003d5978e29ee06f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 48bdc17e8f16d719445492f395c44e10bf6cbaea
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381308"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497814"
 ---
 # <a name="learn-about-external-calendar-sharing-options"></a>Obter informações sobre opções de partilha do calendário externo
 
-Consulte [partilhar calendários com utilizadores externos](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).
+Se necessitar de agendar reuniões com pessoas fora da organização, Office 365 permite-lhe criar calendários disponíveis para "utilizadores externos," aqueles que necessitam para ver a disponibilidade de tempo, mas não têm contas de utilizador para o ambiente do Office 365. Para mais informações, consulte [partilhar calendários com utilizadores externos](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).

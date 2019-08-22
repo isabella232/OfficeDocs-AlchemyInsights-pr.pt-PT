@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 5d88e5bf12d244943e1d985522deb2443f6bb844
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35937869"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540768"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Colocar uma caixa de correio em espera legal
 
@@ -26,4 +26,4 @@ ms.locfileid: "35937869"
 
 - Para activar o litígio mantenha a tecla para um único utilizador, [siga estes passos](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Quando o litígio mantenha estiver activada, todo o conteúdo da caixa de correio é preservado.
 
-- Para colocar uma retenção todas as caixas de correio na organização, pode utilizar uma política de retenção do Office 365, [seguindo estes passos](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-litigation-hold). Tenha em atenção que para as políticas de retenção de toda a organização, novos utilizadores serão automaticamente atribuídos à política.
+- Para colocar uma retenção todas as caixas de correio na organização, pode utilizar uma política de retenção do Office 365, [seguindo estes passos](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Tenha em atenção que para as políticas de retenção de toda a organização, novos utilizadores serão automaticamente atribuídos à política.

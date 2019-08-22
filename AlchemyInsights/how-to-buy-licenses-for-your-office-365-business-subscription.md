@@ -12,22 +12,22 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 58e43416a86dd3fb478dbb89e3ea3a8953a01c2f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d317791c4710453abe0a6eaa4f3e8a5b907c9cf5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385255"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542064"
 ---
 # <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>Como comprar licenças para a sua subscrição de negócio do Office 365
 
 Quando atribuir licenças do Office 365 para os utilizadores, poderá encontrar que o necessita de adquirir licenças adicionais. Para tal:
   
-- No Centro de administração de Microsoft 365, vá para a página de [subscrições]( https://go.microsoft.com/fwlink/p/?linkid=842054) ou escolha **Facturação** \> **subscrições**.
+1.  No Centro de administração, vá para a **Facturação** \> página [produtos e serviços &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-- Na página **Subscrições**, selecione a subscrição à qual pretende adicionar licenças e, em seguida, selecione **Adicionar/Remover licenças**.
+2. Localize a subscrição à qual pretende adicionar licenças e, em seguida, seleccione **Adicionar/remover licenças**.
 
-- Na caixa **Total de licenças**, introduza o número total de licenças de que precisa para esta subscrição e, em seguida, selecione **Submeter** \> **Fechar**. Por exemplo, se tiver 100 licenças e precisar de adicionar mais 5, introduza 105.
+3. Na caixa de **Total de licenças** , introduza o número total de licenças de que necessita para esta subscrição e, em seguida, seleccione **alterar submeter**. Por exemplo, se tiver 100 licenças e precisar de adicionar mais 5, introduza 105.
 
-Para obter mais informações: [comprar licenças para o Office 365 para a subscrição de negócio](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+Para mais informações, consulte [adquirir licenças para o Office 365 para a subscrição de negócio](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1).
   

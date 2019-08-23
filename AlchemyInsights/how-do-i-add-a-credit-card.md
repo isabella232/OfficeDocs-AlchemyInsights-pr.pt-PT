@@ -13,21 +13,21 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: c65d8606b749c76c90271c1d81d78d1c843618a3
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99e8ff13470058dfeeb27b682a0f214c940ca8bd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390451"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523054"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Como posso adicionar um cartão de crédito?
 
-1. No centro de administração, aceda à página **Faturação** \> [Subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. No centro de administração do Microsoft 365, aceda à página **Faturação** \> [Métodos de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Selecione a subscrição que pretende pagar com o novo cartão de crédito ou conta bancária e, em seguida, selecione **Atualizar detalhes de pagamento**.
+2. Selecione **Adicionar um método de pagamento**.
 
-3. Selecione a seta pendente em **Adicionar ou selecionar um método de pagamento** e, em seguida, selecione **Novo cartão de crédito** ou **Nova conta bancária**.
+3. Na página **Métodos de pagamento**, selecione um método de pagamento a partir do menu pendente.
 
-4. Introduza as informações do novo cartão de crédito ou conta bancária e, em seguida, selecione Submeter.
+4. Introduza as informações do novo cartão de crédito ou conta bancária e, em seguida, selecione, **Guardar**.
 
-Está a utilizar o novo centro de administração? Para saber os novos passos, consulte [Adicionar, atualizar ou remover um cartão de crédito ou conta bancária no Office 365 para empresas](https://docs.microsoft.com/pt-PT/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)
+Para mais informações, consulte [Adicionar, atualizar ou remover um cartão de crédito ou conta bancária no Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

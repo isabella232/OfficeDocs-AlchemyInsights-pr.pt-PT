@@ -9,14 +9,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 542d1c91b87e6d7b918d091f463cf56697213778
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c2e43788d674942b14bec3aa7316e34e7126d1be
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389610"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496014"
 ---
-Para definir todas as palavras-passe para nunca expirar, vá para [segurança &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security). Clique em **Editar** junto a **Política de palavra-passe**e activar o controlo de deslize para **no**.
+# <a name="set-passwords-to-never-expire"></a>Palavras-passe de conjunto para nunca expirar 
+
+Para definir todas as palavras-passe para nunca expirar, o Centro de administração do Microsoft 365, vá para as **definições de** > [segurança &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security) página. Seleccione **Editar** junto a **política de palavra-passe**e activar o controlo de deslize para **no**.
   
 Para obter informações mais detalhadas, consulte: [definir a política de expiração de palavra-passe para a sua organização.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
   

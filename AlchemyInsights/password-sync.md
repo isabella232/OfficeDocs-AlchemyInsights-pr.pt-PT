@@ -14,18 +14,18 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 735604a097b6b86bd39207de230f8cef3163e96b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372967"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555388"
 ---
 # <a name="enable-password-sync"></a>Activar a sincronização de palavra-passe
 
-1.  Escolha o **Status de DirSync** na home page do Centro de administração de O365. 
+1.  Escolha o **Status de DirSync** na home page do Microsoft 365 admin Centro. 
     
-     * Como alternativa, pode ir para **os utilizadores** \> * * utilizadores do Active **e na página utilizadores activos, escolha **mais** \> **sincronização de directórios.** * 
+     *Em alternativa, pode ir para **os utilizadores** \> **os utilizadores activos**e na página utilizadores activos, escolha **mais** \> **sincronização de directórios.*** 
     
 2. No painel de sincronização de directórios, escolha a **Ir para a gestão de DirSync**. 
     

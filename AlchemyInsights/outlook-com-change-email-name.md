@@ -12,16 +12,16 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: 353703d159072cc8daa7f52d02f7fc1afd72d1df
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: c20b8c0919ebe89c473a1f7b9067cceecf13f2c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701442"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537468"
 ---
 # <a name="change-your-email-name"></a>Alterar o nome de correio electrónico
 
-Se tiver um endereço de correio electrónico e pretender alterar os destinatários de nome serão apresentado nas mensagens de:
+Se tiver um Outlook.com endereço de correio electrónico e pretender alterar os destinatários de nome serão apresentado nas mensagens de:
   
 1. Seleccione a imagem da conta no canto superior direito da página.
 2. Seleccione o **meu perfil**.

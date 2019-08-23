@@ -13,25 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388611"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554632"
 ---
-# <a name="prepaid-renewal"></a>Renovação de pré-pago
+# <a name="prepaid-office-365-renewal"></a>Pré-pago renovação do Office 365
 
-1. No Centro de administração, vá para a **Facturação** \> página de [subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. No Centro de administração, vá para a **Facturação** \> página [produtos e serviços &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Escolha a subscrição pré-paga que pretende expandir e, em seguida, escolha a **Expandir**.
+2. Localize a subscrição que pretende expandir. Na secção **de facturação** , seleccione a **data de fim de expandir**.
 
-3. Escolha a opção para a **chave de produto**. (Se este for uma chave de produto adquirida numa localização de revenda, poderá ter a opção para expandir com outros métodos de pagamento.)
+3. No painel de **Expandir subscrição** , seleccione **utilizar uma chave de produto de novo e não utilizados**, em seguida, seleccione **seguinte**.
 
-4. Introduza a chave de produto.
+4. Introduza a chave de produto, em seguida, seleccione **seguinte**.
 
-5. Certifique-se que as informações estão correctas e, em seguida, escolha **seguinte**.
+> [!NOTE]
+> Se tiver mais do que uma chave de produto, pode seleccionar **Adicionar outra chave de produto** para introduzi-los.
 
-6. Escolha o botão de opção para expandir a data de fim das licenças existentes e, em seguida, escolha **seguinte**.
+5. Reveja os detalhes da encomenda e, em seguida, seleccione **resgatar**.
 
-Está a utilizar o novo Centro de administração? Para obter passos novos, consulte [Adicionar licenças para ou expandir uma subscrição paga para utilizar uma chave de produto](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+Para mais informações, consulte [Adicionar licenças para ou expandir uma subscrição paga para utilizar uma chave de produto](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

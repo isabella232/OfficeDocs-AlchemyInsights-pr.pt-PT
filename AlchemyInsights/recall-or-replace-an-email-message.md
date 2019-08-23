@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356608"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553443"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Resgatar ou substituir uma mensagem de correio electrónico
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Resgatar ou substituir uma mensagem de correio electrónico no Office 365
 
 - Pode **apenas mensagens de recuperação que são enviadas para pessoas na organização**. Se a mensagem foi enviada para um endereço de Gmail, por exemplo, não se lembrá-lo.
 - Pode **apenas resgatar as mensagens enviadas de 2016 do Outlook para o PC**. Se um utilizador envia uma mensagem utilizando o Outlook para Mac ou o Outlook na web, não se lembrá-lo.
 - Se for um administrador, pode **resgate de mensagens em nome dos utilizadores através do PowerShell**. Não é possível recuperar mensagens a partir do Centro de administração. Desloque-se para "Procurar e eliminar mensagens de correio electrónico da empresa" para obter mais informações.
 
-***Resgatar ou substituir uma mensagem de correio electrónico de envio***
+**Resgatar ou substituir uma mensagem de correio electrónico de envio**
 
 1. No painel de pastas do lado esquerdo da janela do Outlook, seleccione a pasta Itens enviados.
 2. Abra a mensagem que pretende recuperar. Deve fazer duplo clique para abrir a mensagem. Seleccionando a mensagem para que apareça no painel de leitura não permite-lhe resgatar a mensagem.

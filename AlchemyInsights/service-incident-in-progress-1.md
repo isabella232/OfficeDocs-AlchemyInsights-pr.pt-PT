@@ -11,19 +11,19 @@ ms.assetid: 2ed85d10-162f-4e4a-a843-7ad20e00a077
 ms.custom:
 - "121"
 - "1600017"
-ms.openlocfilehash: b9667919238ed5df38bde9f42e814ce486924438
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 60f3f1519a35be77dcb6c31bd2d2f3aa4c2949f6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369280"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36550598"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="cdce2-102">Incidentes de serviço em curso</span><span class="sxs-lookup"><span data-stu-id="cdce2-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="93d4d-102">Incidentes de serviço em curso</span><span class="sxs-lookup"><span data-stu-id="93d4d-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="cdce2-103">Poderá ser afectado por um acidente de serviço ou consultivo que está actualmente a ser investigado.</span><span class="sxs-lookup"><span data-stu-id="cdce2-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="cdce2-104">Pode verificar o estado mais recente, ir para a página de [Estado de funcionamento do serviço](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="cdce2-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="93d4d-103">Poderá ser afectado por um acidente de serviço ou consultivo que está actualmente a ser investigado.</span><span class="sxs-lookup"><span data-stu-id="93d4d-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="93d4d-104">Pode verificar o estado mais recente, ir para a página de [Estado de funcionamento do serviço](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="93d4d-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="cdce2-105">Para sua comodidade, pode encontrar um resumo deste incidente abaixo:</span><span class="sxs-lookup"><span data-stu-id="cdce2-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="93d4d-105">Para sua comodidade, pode encontrar um resumo deste incidente abaixo:</span><span class="sxs-lookup"><span data-stu-id="93d4d-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="cdce2-106">**Número de incidente:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="cdce2-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="93d4d-106">**Número de incidente:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="93d4d-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="cdce2-107">Impacto Descrição: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="cdce2-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="93d4d-107">Impacto Descrição: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="93d4d-107">Impact description: {ImpactDescription}</span></span>

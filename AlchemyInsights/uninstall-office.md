@@ -13,24 +13,24 @@ ms.custom:
 - "2000023"
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
 description: Os passos abaixo descrevem como desinstalar o Office a partir de um PC.
-ms.openlocfilehash: 3878013d452cd03f378254a8dfbbe396e7509d0e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a9d7b9b4239eeff76cb6934184224a2bcb5b98d3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366400"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558448"
 ---
-# <a name="uninstall-office"></a><span data-ttu-id="742b7-103">Desinstalar o Office</span><span class="sxs-lookup"><span data-stu-id="742b7-103">Uninstall Office</span></span>
+# <a name="uninstall-office"></a><span data-ttu-id="5866b-103">Desinstalar o Office</span><span class="sxs-lookup"><span data-stu-id="5866b-103">Uninstall Office</span></span>
 
-<span data-ttu-id="742b7-104">Transferir e instalar o [Assistente de recuperação e suporte](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="742b7-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+<span data-ttu-id="5866b-104">Transferir e instalar o [Assistente de recuperação e suporte](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="5866b-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
   
-1. <span data-ttu-id="742b7-105">Quando é aberto, a partir de **produtos de desinstalar o Office** , seleccione a versão que pretende desinstalar e seleccione **seguinte**.</span><span class="sxs-lookup"><span data-stu-id="742b7-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
+1. <span data-ttu-id="5866b-105">Quando é aberto, a partir de **produtos de desinstalar o Office** , seleccione a versão que pretende desinstalar e seleccione **seguinte**.</span><span class="sxs-lookup"><span data-stu-id="5866b-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
 
-2. <span data-ttu-id="742b7-106">Continuar a percorrer ecrãs e reinicie o computador quando lhe for pedido.</span><span class="sxs-lookup"><span data-stu-id="742b7-106">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="5866b-106">Continuar a percorrer ecrãs e reinicie o computador quando lhe for pedido.</span><span class="sxs-lookup"><span data-stu-id="5866b-106">Continue going through screens and restart your computer when prompted.</span></span>
 
-    <span data-ttu-id="742b7-107">Depois de reiniciar, apoio e Assistente de recuperação automaticamente abre novamente para concluir o processo de desinstalação.</span><span class="sxs-lookup"><span data-stu-id="742b7-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="5866b-107">Depois de reiniciar, apoio e Assistente de recuperação automaticamente abre novamente para concluir o processo de desinstalação.</span><span class="sxs-lookup"><span data-stu-id="5866b-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
 
-3. <span data-ttu-id="742b7-108">Siga os restantes pedidos de informação e [reinstalar o Office](https://portal.office.com/OLS/MySoftware.aspx) ou fechar o assistente.</span><span class="sxs-lookup"><span data-stu-id="742b7-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
+3. <span data-ttu-id="5866b-108">Siga os restantes pedidos de informação e [reinstalar o Office](https://portal.office.com/OLS/MySoftware.aspx) ou fechar o assistente.</span><span class="sxs-lookup"><span data-stu-id="5866b-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
 
-<span data-ttu-id="742b7-109">Para obter uma lista de outras opções de desinstalação, seleccione [Desinstalar o Office a partir de um PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="742b7-109">For a list of other uninstall options, select [Uninstall Office from a PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="5866b-109">Para obter uma lista de outras opções de desinstalação, seleccione [Desinstalar o Office a partir de um PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="5866b-109">For a list of other uninstall options, select [Uninstall Office from a PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).</span></span>
   

@@ -13,12 +13,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9c2f53ff074d548659757cae9456c3c4633d4ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5cf6100e0affd23bc320df8acad7810e402bdb5f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518050"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575959"
 ---
 # <a name="buy-additional-office-365-licenses"></a>Adquirir licenças adicionais do Office 365
 
@@ -32,9 +32,10 @@ ms.locfileid: "36518050"
 
     > [!NOTE]
     > Se pagar a subscrição com cartão de crédito ou através de conta bancária, todas as novas licenças que comprar ficarão disponíveis imediatamente depois de receber uma confirmação da encomenda. Se pagar através de fatura, poderá ter de aguardar por uma verificação de crédito para que as novas licenças fiquem disponíveis para utilizar.
-  
+
+Está a utilizar o Centro admin antigo? Para obter passos antigos ou para obter mais informações, consulte [adquirir licenças para o Office 365 para a subscrição de negócio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+
 **Recursos adicionais**
 
 - [Atribuir licenças aos utilizadores no Office 365 para a empresa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-Para mais informações, consulte [adquirir licenças para o Office 365 para a subscrição de negócio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).

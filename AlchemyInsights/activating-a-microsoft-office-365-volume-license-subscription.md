@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385876"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574481"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Activar uma subscrição de licença de Volume do Microsoft Office 365
 
@@ -32,4 +32,4 @@ ms.locfileid: "36385876"
 
 5. Iniciar sessão no Office 365 ([https://portal.office.com](https://portal.office.com)) utilizando as credenciais de administrador existentes do Office 365. Depois de assinar com êxito, receberá outra mensagem de correio electrónico a confirmar a sua compra.
 
-6. Depois de iniciar sessão, pode ir para a **Facturação** \> página de [subscrições](https://go.microsoft.com/fwlink/p/?linkid=842054) para verificar se as subscrições adquiridas do Office 365 são activadas dentro do tenant. (Pode também escolher o separador de **subscrição** em VLSC para ver os detalhes de verificar que a subscrição tenha sido depositada.)
+6. Depois de iniciar sessão, pode ir para a **Facturação** \> página de [produtos e serviços &](https://go.microsoft.com/fwlink/p/?linkid=842054) para verificar se as subscrições adquiridas do Office 365 são activadas dentro do tenant. (Pode também escolher o separador de **subscrição** em VLSC para ver os detalhes de verificar que a subscrição tenha sido depositada.)

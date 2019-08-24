@@ -1,7 +1,7 @@
 ---
 title: Atribuir ou remover licenças de utilizadores
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 2/24/2018
 ms.audience: Admin
@@ -11,21 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: c1658db24741e91a2ed789d172dda50e3d6bae09
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8d2b79f9a58a32a521022887ba59203c79bfd566
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517870"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574445"
 ---
 # <a name="assign-or-remove-users-licenses"></a>Atribuir ou remover licenças de utilizadores
 
 Como administrador, pode ajustar licenças dos utilizadores conforme necessário. Artigos seguintes mostram como gerir as licenças dos utilizadores, incluindo:
   
-- [Atribuir licenças a utilizadores no Office 365 para empresas](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
-    
-- [Remover licenças de utilizadores no Office 365 para empresas](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1)
-    
-Não respondeu à pergunta? Não há problema! Utilize a opção "diga-nos chamada" falar com um engenheiro de suporte.
-  
+- [Atribuir licenças a utilizadores no Office 365 para empresas](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
+- [Anular a atribuição de licenças de utilizadores no Office 365 para a empresa](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users)
+
+Não respondeu à pergunta? Não há problema! Utilize o botão "Necessita de ajuda" para falar com um engenheiro de suporte.

@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539940"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574773"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Como reativar uma subscrição
 
@@ -26,10 +26,10 @@ Se a sua subscrição expirou, foi cancelada ou desativada pela Microsoft, pode 
   
 1. No centro de administração, aceda à página **Faturação** \> [Produtos e Serviços](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Em **Faturação**, junto a **Renovação a** ou **Expira em**, selecione **Editar**.
+2. Localize a subscrição que pretende reativar. Na secção **Faturação**, selecione **Reativar**.
 
-3. No painel **Definições da faturação periódica**, selecione a opção que pretende. Se a faturação periódica estiver desativada, selecione **Mensalmente** ou **Uma vez** para ativá-la.
+    Se a opção **Reativar** não estiver disponível, contacte o suporte para reativar a sua subscrição.
 
-4. Selecione **Submeter alteração**.
+3. Confirme os seus detalhes de pagamento. Pode atualizar a sua informação de pagamento existente aqui. Quando terminar de introduzir o seu método de pagamento, selecione **Reativar**.
 
-Para obter mais informações, consulte: [Renovar o Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Está a utilizar o centro de administração antigo? Para obter os passos antigos ou para saber mais, consulte [Reativar a sua subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

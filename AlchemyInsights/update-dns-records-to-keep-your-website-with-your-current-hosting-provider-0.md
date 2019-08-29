@@ -3,7 +3,6 @@ title: Atualizar os registos DNS para manter o seu Web site junto do seu fornece
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,16 +13,16 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: a1ea0589def4945da64c73d68b2e4a3d64d6b83d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506418"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665771"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Atualizar os registos DNS para manter o seu Web site junto do seu fornecedor de alojamento atual
 
-1. Na página [domínios](https://portal.office.com/adminportal/home#/Domains) , na lista de domínios, seleccione o domínio que estiver a utilizar para o Web site.
+1. No Centro de administração de Microsoft 365, vá para o **programa de configuração** > [domínios](https://portal.office.com/adminportal/home#/Domains) de página e, na lista de domínios, seleccione o domínio estiver a utilizar para o Web site.
 
 2. Selecione **+ Novo registo personalizado** e introduza o seguinte:
 

@@ -3,25 +3,24 @@ title: 305 aumentar o tamanho da caixa de correio do arquivo
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 28086145d8769bd06ef6352257a820146c5f237d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391457"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661811"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Aumentar o tamanho do arquivo da caixa de correio
 
 Office 365 [limites de](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) tamanho de caixas de correio do arquivo baseada a licença atribuída à conta de utilizador. Quando a caixa de correio do arquivo atinge 90% do tamanho permitido, o utilizador recebe uma notificação por correio electrónico. Quando uma caixa de correio do arquivo atinge o limite de tamanho, o utilizador não pode mover mais itens na caixa de correio do arquivo. Office 365 não aumenta o tamanho de uma caixa de correio do arquivo, uma vez atingido o limite de tamanho. Em vez disso, os utilizadores podem efectuar as seguintes acções para libertar espaço na caixa de correio do arquivo:
 
-- Exportar os itens num ficheiro. pst utilizando o Outlook
+- Exportar os itens num ficheiro. pst utilizando o Outlook.
 
 - Elimine itens da caixa de correio do arquivo.
 

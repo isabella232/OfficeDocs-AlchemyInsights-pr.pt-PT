@@ -13,12 +13,12 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 75ce59fedadc22291062affd2220b08057910966
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576103"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665483"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Cancelar a sua subscrição do Office 365?
 
@@ -28,4 +28,4 @@ Com base nos dados da organização, acreditamos que todas as subscrições actu
   
 Em alternativa, escolha **precisa de ajuda para** falar com um engenheiro de suporte.
   
-Está a utilizar o Centro admin antigo? Para obter passos antigos ou para obter mais informações, consulte [Cancelar a subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Para obter mais informações, consulte [Cancelar a subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

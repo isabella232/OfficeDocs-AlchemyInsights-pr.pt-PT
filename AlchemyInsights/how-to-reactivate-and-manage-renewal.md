@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574553"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663971"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Como reactivar e gerir a faturação periódica
 
@@ -32,7 +32,7 @@ Parece possui uma subscrição que expirou. Se deseja reactivar, aqui da forma.
 
 3. Confirme os detalhes de pagamento. Pode actualizar aqui as informações de pagamento existentes. Quando tiver terminado de introduzir o método de pagamento, seleccione a **Reactivar**.
 
-Está a utilizar o Centro admin antigo? Para obter passos antigos ou para obter mais informações, consulte [reactivar a subscrição](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Para obter mais informações, consulte a [reactivar a subscrição](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Para gerir a faturação mensal ou anual pode alternar **Facturação periódico** ou desactivar.
   
@@ -46,4 +46,4 @@ Para gerir a faturação mensal ou anual pode alternar **Facturação periódico
 
 5. Seleccione **alterar submeter**.
 
-Está a utilizar o Centro admin antigo? Para obter passos antigos ou para obter mais informações, consulte [Activar periódico facturação ou desactivar](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Para obter mais informações, consulte [Activar periódico facturação ou desactivar](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

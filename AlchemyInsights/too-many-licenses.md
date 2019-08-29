@@ -13,12 +13,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ee87eacd784acee9f4e1a34012076f907e4d46a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549086"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665951"
 ---
 # <a name="too-many-licenses"></a>Demasiadas licenças?
 
@@ -32,4 +32,4 @@ Se pensa que está a ser facturada para Demasiadas licenças do Office 365, isto
 
 3. Na caixa de **Total de licenças** , introduza o número total de licenças de que necessita para esta subscrição e, em seguida, seleccione **alterar submeter**. Por exemplo, se tiver 110 licenças e quiser remover 5, deve introduzir 105.
 
-Para obter mais informações, consulte o artigo [Remover licenças da subscrição do Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Para obter mais informações, consulte [remover licenças a partir do Office 365 para a subscrição de negócio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

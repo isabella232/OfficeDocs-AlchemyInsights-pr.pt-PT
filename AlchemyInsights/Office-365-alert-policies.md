@@ -3,7 +3,6 @@ title: 1385-office-365-alerta-políticas
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 46a029f262fa05edffa6f681c7205e289fe448c5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496356"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661307"
 ---
 # <a name="office-365-alert-policies"></a>Políticas de alerta do Office 365
 
-_AMP_ de segurança do Office 365 de ofertas de centro de conformidade [políticas predefinidas de alerta](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) que accionam alertas para organizações com uma subscrição do Office 365 Enterprise ou Office 365 nos Governo E1/G1, E3/G3 ou E5/G5. Por conseguinte, admins poderá receber uma notificação de alerta de correio electrónico enviada pelo Office365Alerts@microsoft.com com uma linha de assunto como "um alerta de baixa gravidade:*nome da política de alerta*". Alertar as notificações são enviadas quando os alertas são accionadas para actividades comuns, tal como quando os utilizadores:
+_AMP_ de segurança do Office 365 de ofertas de centro de conformidade [políticas predefinidas de alerta](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) que accionam alertas para organizações com uma subscrição do Office 365 Enterprise ou Office 365 nos Governo E1/G1, E3/G3 ou E5/G5. Por conseguinte, admins poderá receber uma notificação de alerta de correio electrónico enviada pelo Office365Alerts@microsoft.com com uma linha de assunto como "um alerta de baixa gravidade: *nome da política de alerta*". Alertar as notificações são enviadas quando os alertas são accionadas para actividades comuns, tal como quando os utilizadores:
 
 - Crie regras de pasta a receber que reencaminhar correio electrónico.
 - Atribua permissões a respectiva caixa de correio.
@@ -31,8 +30,8 @@ _AMP_ de segurança do Office 365 de ofertas de centro de conformidade [polític
 
 Para rever e actuar sobre um alerta:
 
-1. Vá para a [segurança & Centro de conformidade](https://protection.office.com) e iniciar sessão.
-2. Clique em **alertas > ver alertas**.
+1. Ir para o [Centro de conformidade de & de segurança](https://protection.office.com) e inicie sessão.
+2. Clique em **alertas** > **visualizar alertas**.
 3. Faça clique sobre um alerta para apresentar uma página de lista de opções com informações sobre o alerta.
 
 Pode agir sobre um alerta, tal como [Remover uma regra de pasta a receber suspeitos](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Ou pode fechar o alerta simplesmente clicando em **resolver** na página lista de opções de alerta.
@@ -41,8 +40,8 @@ Para mais informações sobre como configurar e gerir políticas de alertas, con
 
 **Importante**: notificações de alerta de correio electrónico da Microsoft nunca pedirá que execute o seguinte procedimento:
 
-- Fornece uma palavra-passe.
-- Verifique os detalhes de segurança da sua conta.
-- Voltar a autenticar-se.
+- Fornecer uma palavra-passe
+- Verifique os detalhes de segurança da sua conta
+- Voltar a autenticar-se
 
 Se receber uma mensagem de correio electrónico como esta, não foi enviada pela Microsoft e deve ser considerado um esquema de phishing. Se isso acontecer, utilize a [comunicá-lo à Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).

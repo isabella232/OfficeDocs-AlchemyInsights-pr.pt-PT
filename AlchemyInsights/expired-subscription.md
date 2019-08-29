@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575599"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665051"
 ---
 # <a name="expired-subscription"></a>Subscrição expirada
 
@@ -34,7 +34,7 @@ Se não vir **Reactivar** como uma acção disponível, contacte o suporte para 
 
 3. Confirme os detalhes de pagamento. Pode actualizar aqui as informações de pagamento existentes. Quando tiver terminado de introduzir o método de pagamento, escolha a **Reactivar**.
 
-Está a utilizar o Centro admin antigo? Para obter passos antigos ou para obter mais informações, consulte [reactivar a subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Para obter mais informações, consulte a [reactivar a subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Efectuar uma nova compra**
   
@@ -46,4 +46,4 @@ Está a utilizar o Centro admin antigo? Para obter passos antigos ou para obter 
 
 4. Siga os restantes passos para concluir a verificação de saída.
 
-Está a utilizar o Centro admin antigo? Para obter passos antigos ou para obter mais informações, consulte [adquirir outra subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Para obter mais informações, consulte [adquirir outra subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

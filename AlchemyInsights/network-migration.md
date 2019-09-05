@@ -11,12 +11,12 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 4a98c08eb785b1406c661fb84b5b3e6981c31826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538483"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734716"
 ---
 # <a name="network-migration"></a>Migração de rede
 
@@ -28,7 +28,7 @@ O inquilino O365 está, possivelmente, associado a várias redes Yammer um 1 inq
 
 - Para corrigir a configuração para uma configuração de 1:1, continue a utilizar a ferramenta de migração de rede.
 
-- Para mais informações sobre migração de rede, consulte [migração de rede: consolidar várias redes Yammer](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)
+- Para mais informações sobre migração de rede, consulte [migração de rede: consolidar várias redes Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
 Tenha em atenção:
   

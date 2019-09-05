@@ -1,6 +1,6 @@
 ---
 title: Permissões de utilizador
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 5/21/2018
 ms.audience: ITPro
@@ -8,22 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: b5653648d2c5e136cc35e3fe98f777f5932e4ac8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ca104d8b5ed2a472faae565a04d1926504b1a95f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502782"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749811"
 ---
 # <a name="user-permissions-in-sharepoint"></a>Permissões de utilizador no SharePoint
 
-Depois de ter criado um site do SharePoint, poderá pretender fornecer ou restringir o acesso de utilizador para o site ou o seu conteúdo. A forma mais fácil trabalhar com permissões é utilizar os níveis de permissões e [grupos predefinidos](https://support.office.com/article/default-sharepoint-groups-13bb2b6b-dd8c-447e-b71b-0e4bb9efe1d3) , que abranjam cenários mais comuns. No entanto, se for necessário, pode definir mais permissões detalhadas para além de níveis predefinidos. Para mais informações, consulte [níveis de permissão de compreensão no SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Depois de ter criado um site do SharePoint, poderá pretender fornecer ou restringir o acesso de utilizador para o site ou o seu conteúdo. A forma mais fácil trabalhar com permissões é utilizar os níveis de permissões e [grupos predefinidos](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) , que abranjam cenários mais comuns. No entanto, se for necessário, pode definir mais permissões detalhadas para além de níveis predefinidos. Para mais informações, consulte [níveis de permissão de compreensão no SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
 Para mais informações sobre como gerir níveis de permissão específicos, visite as hiperligações abaixo:
 
 - [Editar e gerir permissões para uma lista do SharePoint ou biblioteca](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-- [Criar e gerir os grupos do SharePoint](https://support.office.com/article/create-and-manage-sharepoint-groups-b1e3cd23-1a78-4264-9284-87fed7282048)
+- [Criar e gerir os grupos do SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
 - [Como criar e editar os níveis de permissão](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
 

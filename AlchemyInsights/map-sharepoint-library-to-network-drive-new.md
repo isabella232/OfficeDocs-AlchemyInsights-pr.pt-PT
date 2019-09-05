@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 8226b88c0f472d0e35ff462dc5a5259487a8ef06
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7b16cb448684d3f68be84fda4d9de201b953ffb
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497036"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734896"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>Mapear uma biblioteca do SharePoint para uma unidade de rede
 
@@ -28,6 +28,6 @@ Se optar por mapear uma unidade em vez de [utilizar o novo cliente de sincroniza
 **Como configurar e resolver problemas de unidades de rede mapeadas**
 
 
-Consulte [configurar e resolver problemas de unidades de rede mapeadas](https://support.office.com/article/troubleshoot-mapped-network-drives-that-connect-to-sharepoint-online-ef399c67-4578-4c3a-adbe-0b489084eabe?ui=en-US&amp;rs=en-US&amp;ad=US).
+Consulte a [resolução de problemas computadorquot que ligar a Onlines do SharePoint](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
 
 Nota: Se utilizar o Internet Explorer 10 com Windows 8 ou o Windows 7 e receber **acesso negado** ou **o caminho é não está acessível** quando mapear uma unidade, instale [Esta correcção](https://support.microsoft.com/help/2846960) para resolver este problema. 

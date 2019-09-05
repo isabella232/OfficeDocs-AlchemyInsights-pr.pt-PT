@@ -12,18 +12,18 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd477d90ab7e6737aafffc57d931aad2bd0351e8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501090"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749271"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Trocar o site de raiz Classic com um site Moderno
 
 Se o ambiente tiver sido configurado antes de Abril de 2019, pode alterar o site de raiz para um site moderno utilizando o Microsoft PowerShell:
 
-- Se tiver um site diferente que pretende utilizar como o site de raiz, pode substituir o site de raiz (comutação) com o mesmo. 
+- Se tiver um site diferente que pretende utilizar como o site de raiz, pode substituir [o site de raiz (comutação)](https://docs.microsoft.com/sharepoint/modern-root-site) com o mesmo. 
     - Utilize [Invoke SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) para mudar a localização de um site com outro site ao arquivar o site original. Disponível para o Site de equipa (não ligado a um grupo) e o Site de comunicação. 
 
 - Capacidades adicionais serão introduzidas mais rapidamente que lhe permitirá manter, utilizando o conteúdo no site, mas converter o site existente para um site de comunicação. 

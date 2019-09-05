@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 3a054debbfa600c42480bb6e6bdd709ba041972a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0d1c3a1bc4e61bd9167a5d7a18f064819a4686c4
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499290"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739252"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Planos de parâmetro aumentar o tamanho da caixa de correio
 
@@ -30,6 +30,6 @@ Se o tamanho da caixa de correio é de 50 GB, pode aumentar o tamanho da caixa d
     
 4. Quando terminar de saída, o Office 365 demora alguns minutos para finalizar o parâmetro. Pode começar a utilizar imediatamente sua nova subscrição.
     
-Para obter mais detalhes, consulte [Mudar para um plano diferente do Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
+Para obter mais detalhes, consulte [Mudar para um plano diferente do Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
   
 

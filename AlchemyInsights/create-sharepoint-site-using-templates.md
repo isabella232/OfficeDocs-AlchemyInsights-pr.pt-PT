@@ -1,6 +1,6 @@
 ---
 title: Criar um site SharePoint Online
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 7c24a0cf3bcae0f2780c1cb33c911cb38c1ca5cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 42430c8dadc17b87dc7741f3fa045ba7c25fab84
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515009"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755319"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>Criar sites do SharePoint utilizando modelos
 
@@ -40,7 +40,7 @@ O modelo pode estar em falta uma [funcionalidade](https://social.technet.microso
 - O site poderá estar a utilizar demasiados recursos e, por conseguinte, o modelo de site excede o limite de 50 MB.
 
 
-- Existem problemas em visualizar dados de uma lista que utiliza uma coluna de pesquisa. Para mais informações, consulte a [lista gerada de modelo não apresenta os dados na lista de pesquisa correcta no SharePoint Online](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).
+- Existem problemas em visualizar dados de uma lista que utiliza uma coluna de pesquisa. Para mais informações, consulte a [lista gerada de modelo não apresenta os dados na lista de pesquisa correcta no SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
 
 Para obter informações mais detalhadas sobre problemas e soluções comuns, consulte [criar e utilizar modelos de site](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
 

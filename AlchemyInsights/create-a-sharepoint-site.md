@@ -14,18 +14,18 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 96780bd2f4182c1385406ec2a31cd62745137985
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515818"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738208"
 ---
 # <a name="create-a-sharepoint-site"></a>Criar um site SharePoint
 
 Pode ver o seguinte para obter informações sobre a criação de sites do SharePoint:
 - [Gerir sites no novo Centro de administração do SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation): obter informações sobre opções de criação de site, incluindo como criar um site clássico ou um site de equipas que não inclui um grupo do Office 365.
-- [Criar um site de equipa do SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US): Aprenda a criar um site de equipa.
+- [Criar um site de equipa do SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d): Aprenda a criar um site de equipa.
 - [Criar um site de comunicação no SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Aprenda a criar um site de comunicações.
 - [Gerir sites no novo Centro de administração do SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Aprenda a criar um site clássico ou um site de equipa que não inclui um grupo do Office 365.
 

@@ -15,12 +15,12 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509191"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734176"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Configurar correio electrónico na aplicação móvel de Outlook
 
@@ -30,7 +30,7 @@ ms.locfileid: "36509191"
 
 3. Introduza a palavra-passe da conta de correio electrónico e toque em **Iniciar sessão** ou **seguinte**.
 
-4. Se a [autenticação multi-factores](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) estiver activada, certifique-se utilizando o método que configurou (código de 6 dígitos, chamada telefónica ou aplicações do Microsoft Authenticator).
+4. Se a [autenticação multi-factores](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) estiver activada, certifique-se utilizando o método que configurou (código de 6 dígitos, chamada telefónica ou aplicações do Microsoft Authenticator).
 
 5. Se a políticas de admin de TI adicionais estarem definidas, toque em **Activar** para lhes permitir.
 

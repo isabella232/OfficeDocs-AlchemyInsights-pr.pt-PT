@@ -1,6 +1,6 @@
 ---
 title: Começar a trabalhar com SharePoint Online
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: ae27a9fc342eb4fc4633ffd5518d63600b978db8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c0220dd2535a1ef41aeef99e2bfc3fe28bac03a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504006"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751683"
 ---
 # <a name="workflows-in-sharepoint"></a>Fluxos de trabalho no SharePoint
 
@@ -29,5 +29,5 @@ Se os fluxos de trabalho do SharePoint não estão a enviar mensagens de correio
 
 Quando executar o fluxo de trabalho, a mensagem de correio electrónico não é enviada e repare a mensagem de erro, o estado interno estiver definido como suspenso ou não é possível enviar para um destinatário é apresentado.
 
-Para mais informações, consulte o seguinte [artigo](https://support.office.com/article/-daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or-unable-to-send-to-a-recipient-error-in-a-sharepoint-online-workflow-89d02169-5fa6-4259-affc-73edb6ca9fb6?ui=en-US&amp;rs=en-US&amp;ad=US).
+Para mais informações, consulte o seguinte [artigo](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running).
 

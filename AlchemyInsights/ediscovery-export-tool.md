@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: d6ffd69cdc02331ecd1290fa3b0cb5a542c8bd58
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528274"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736336"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Não é possível instalar ou executar a detecção de dados electrónicos ferramenta de exportação?
 
@@ -44,7 +44,7 @@ Se não conseguir instalar ou executar a detecção de Office 365 dados electró
 
 - A organização pode estabelecer ligação com o ponto final no Azure, que é ** \*. blob.core.windows.net** (o carácter universal representa um identificador exclusivo para a tarefa de exportação).
 
-- Estão atribuídos a função de exportação a segurança do Office 365 &amp; Centro de conformidade. Por predefinição, esta função só é atribuída para o grupo de funções de Gestor de detecção de dados electrónicos. Consulte [atribuir permissões de detecção de dados electrónicos](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).
+- Estão atribuídos a função de exportação a segurança do Office 365 &amp; Centro de conformidade. Por predefinição, esta função só é atribuída para o grupo de funções de Gestor de detecção de dados electrónicos. Consulte [atribuir permissões de detecção de dados electrónicos](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
-Para mais informações, consulte [os resultados da procura de conteúdo de exportação](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).
+Para mais informações, consulte [os resultados da procura de conteúdo de exportação](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

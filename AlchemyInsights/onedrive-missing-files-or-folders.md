@@ -1,24 +1,24 @@
 ---
 title: 'OneDrive: Faltam ficheiros ou pastas'
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: e24e4e1a0d33f7e857fc6af25914286ae2df0b2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f94eb6f08485c28e0c98e084b25f2bc6456d3350
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521254"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753267"
 ---
 # <a name="onedrive-missing-files-or-folders"></a>OneDrive: Faltam ficheiros ou pastas
 
 **Verifique a Reciclagem do site**.
 
-- [Restaurar itens na Reciclagem de um site SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&rs=en-US&ad=US)
+- [Restaurar itens na Reciclagem de um site SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 - [Restaurar ficheiros eliminados ou pastas em OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 

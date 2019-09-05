@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f389785fcd1029ae5a47e07c723874f9f214109d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d01d985f34d782fe14b3e2e6e6696c0101002db1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504474"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744652"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Notificações de alerta do SharePoint não entregues
 
@@ -26,7 +26,7 @@ Verifique a pasta de publicidade em correio electrónico, como, por vezes, alert
 
 Determinar se **todos os alertas não são entregues** ou se **um alerta individual** de um ficheiro específico ou a biblioteca não é entregue.
 
-- **Alertas individuais não são entregues**: Se não for entregue um alerta individual de um determinado ficheiro ou biblioteca, pode tentar eliminar e recriá-lo. Consulte [Gerir, ver, ou eliminar alertas do SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online) para recriar o alerta.
+- **Alertas individuais não são entregues**: Se não for entregue um alerta individual de um determinado ficheiro ou biblioteca, pode tentar eliminar e recriá-lo. Consulte [Gerir, ver, ou eliminar alertas do SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) para recriar o alerta.
 - **Todos os alertas não são entregues**: todos os alertas de vários ficheiros ou bibliotecas não forem entregues, visite o [dashboard do serviço de saúde](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) para verificar a existência de quaisquer avisos/incidentes que pode estar a ocorrer com SharePoint ou do Exchange. O problema pode ser com a capacidade de alerta do SharePoint ou a atrasos de mensagens de correio electrónico através do Exchange. Também será importante ter em conta se está a ser entregue a outro correio electrónico e, se não, o problema está provavelmente com atrasos de Exchange.
 
 Perguntas mais frequentes sobre alertas:
@@ -47,6 +47,6 @@ Obter mais informações:
 
 Pretende tentar Microsoft Flow no SharePoint Online?
 
-- [Criar fluxo](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+- [Criar fluxo](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [Fluxo e do SharePoint](https://flow.microsoft.com/en-us/blog/sharepoint-and-flow/)
+- [Fluxo e do SharePoint](https://flow.microsoft.com//blog/sharepoint-and-flow/)

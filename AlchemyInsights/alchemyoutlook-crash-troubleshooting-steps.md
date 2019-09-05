@@ -13,16 +13,16 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: bcc23c54e38c0e3f06c243c53a6cc7fd1f8e7c0e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664583"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737129"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Falha do Outlook passos de resolução de problemas
 
-Se estiver a ter problemas de ambiente de trabalho falha do Outlook, iniciar, seguindo os três passos abaixo, que são listados em detalhe neste artigo: [como resolver problemas que fazer com que Outlook falhe ou pare de responder quando utilizado com o Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Se estiver a ter problemas de ambiente de trabalho falha do Outlook, iniciar, seguindo os três passos abaixo, que são listados em detalhe neste artigo: [como resolver problemas que fazer com que Outlook falhe ou pare de responder quando utilizado com o Office 365.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
 Passo 1: Investigue eventuais problemas com suplementos.
   

@@ -7,12 +7,12 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 98c390e1781d9c00fbc0dbabc633594726f2fda0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b6d530d4438eefd509670119cd61847e525ecb22
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527410"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740224"
 ---
 # <a name="error-404-file-not-found"></a>Erro 404: Ficheiro não encontrado
 
@@ -22,4 +22,4 @@ Os utilizadores irão detectar o erro ao tentar aceder a colecção de sites de 
 As seguintes podem ajudar na resolução deste problema:
 - [Ver e restaurar eliminados sites o novo Centro de administração do SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): moderna sites (comunicação, ligados por grupo, ou outros sites) que existe na nova pré-visualização de centro de administração.
 - [Restaurar itens na Reciclagem de um site SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): para resolver o ficheiro (ou outro item) que tiver sido mudado, eliminado ou movido Ir para o site SharePoint ou OneDrive e a vista a Reciclagem de posição do conteúdo de Site.
-- [Procurar o registo de auditoria de segurança do Office 365 &amp; conformidade Centro](https://support.office.com/client/search-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c): procurar o registo de auditoria (se o registo está activado) se ainda não conseguir localizar o item.
+- [Procurar o registo de auditoria de segurança &amp; conformidade Centro](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance): procurar o registo de auditoria (se o registo está activado) se ainda não conseguir localizar o item.

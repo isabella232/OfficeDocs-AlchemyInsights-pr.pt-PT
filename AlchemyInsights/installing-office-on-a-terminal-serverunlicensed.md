@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498426"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735400"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Instalar o Office num servidor de terminais
 
@@ -26,7 +26,7 @@ Para implementar o Office 365 ProPlus num servidor do Windows utilizando os serv
 
 - É necessário activar a [activação do computador partilhado](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Se pretender instalar o Office 365 ProPlus no RDS a partir do portal Office 365, ***que utiliza predefinições de instalação***, siga estes passos:
+Se pretender instalar o Office 365 ProPlus RDS a partir do Centro de administração do Microsoft 365, ***que utiliza predefinições de instalação***, siga estes passos:
   
 1. Verifique qual o plano do Office 365 tiver. [Obter informações sobre como](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -34,7 +34,7 @@ Se pretender instalar o Office 365 ProPlus no RDS a partir do portal Office 365,
 
 3. Se o Office já está instalado no servidor de RDS utilizando outros planos de Office 365, desinstale-o. Por exemplo, através do painel de controlo \> desinstalar um programa. Desinstale a utilizar o [Assistente de recuperação e de suporte da Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) se estiver a executar em problemas.
 
-4. No servidor de RDS, iniciar sessão no portal Office 365 com a conta de administrador e, em seguida, [instalar o Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
+4. No servidor de RDS, iniciar sessão no Centro de administração da Microsoft 365 com a conta de administrador e, em seguida, [instalar o Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
 5. Depois de instalado o Office, ***não abra ou iniciar sessão em*** quaisquer aplicações do Office.
 

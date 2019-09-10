@@ -1,5 +1,5 @@
 ---
-title: 1800029 contas ligadas não suportadas pelo Outlook na web
+title: 1800029 contas conectadas não suportadas no Outlook na Web
 ms.author: daeite
 author: daeite
 ms.date: 12/17/2018
@@ -11,22 +11,22 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4dde8373b1580ad134b3459784e60ed247cc0fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504786"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821813"
 ---
-# <a name="connected-accounts-are-no-longer-supported"></a>Contas ligadas já não são suportadas
+# <a name="connected-accounts-are-no-longer-supported"></a>As contas conectadas não são mais suportadas
 
-A Microsoft tenha removido a capacidade para adicionar novas contas para o Outlook na web utilizando a funcionalidade de contas ligadas em 15 de Setembro de 2018 e irá parar de sincronizar contas existentes no dia 30 de Outubro de 2018 ligados antes de 15 de Setembro de 2018. Em 15 de Novembro, a opção de contas ligado ( **Definições** \> **série** \> **contas**) serão removidos do Outlook na web.Para mais informações, consulte [contas ligadas já não é suportado no Outlook na web (Office 365 para contas de negócio)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
+A Microsoft removeu a capacidade de adicionar novas contas ao Outlook na Web usando o recurso de contas conectadas em 15 de setembro de 2018 e parará de sincronizar contas existentes em 30 de outubro de 2018 que foram conectadas antes de 15 de setembro de 2018. Em 15 de novembro, a opção de contas conectadas ( **configurações** \> de **contas**de **email** \> ) será removida do Outlook na Web.Para obter mais informações, consulte [as contas conectadas não são mais suportadas no Outlook na Web (Office 365 para contas comerciais)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
   
-Para continuar a visualizar correio electrónico de outras contas: ainda pode reencaminhar correio electrónico dessas contas para o Outlook na web. Para obter mais informações, consulte:
+Para continuar a ver emails de outras contas: você ainda pode encaminhar emails dessas contas para o Outlook na Web. Para obter mais informações, consulte:
   
-[Activar ou desactivar o reencaminhamento automático em Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
+[Ativar ou desativar o encaminhamento automático em Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
   
-[Reencaminhar automaticamente mensagens de Gmail para outra conta](https://support.google.com/mail/answer/10957?hl=en)
+[Encaminhar automaticamente mensagens do Gmail para outra conta](https://aka.ms/forward-gmail-messages)
   
-[Reencaminhamento automático de correio no correio do Yahoo](https://help.yahoo.com/kb/SLN22028.mdl?guccounter=1)
+[Encaminhamento de e-mail automático no Yahoo mail](https://aka.ms/yahoo-email-forwarding)
   

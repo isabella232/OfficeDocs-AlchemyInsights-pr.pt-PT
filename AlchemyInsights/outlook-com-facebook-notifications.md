@@ -1,5 +1,5 @@
 ---
-title: Notificações de Outlook.com Facebook
+title: Outlook.com notificações do Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: 80ddadfedb5a8a0dff2a7b9cf371e03fae58bdff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9e389deb7347e13c0e4ba658da4d355ffe11049c
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536986"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822118"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a>Notificações de Facebook utilizando Outlook.com
+# <a name="facebook-notifications-using-outlookcom"></a>Notificações do Facebook usando o Outlook.com
 
-Se não pretender receber notificações de Facebook, pode alterar as [definições de Facebook](https://www.facebook.com/settings?tab=notifications) ou configurar uma regra de pasta a receber.
+Se não pretender receber notificações do Facebook, pode alterar [as definições do Facebook](https://aka.ms/facebook-notifications-settings) ou configurar uma regra de pasta a receber.
 
-1. Vá para [definições de regras](https://outlook.live.com/mail/options/mail/rules/inboxRules).
-1. Seleccione **Adicionar nova regra**.
-1. Nome da regra "Facebook".
-1. Adicionar uma condição de "De" e introduza "notification@facebookmail.com"
-1. Adicione uma acção de "Eliminação". Escolher que DELETE significa que as mensagens permanecem no seu itens eliminados e podem ser recuperados. Se seleccionar "Marcar como solicitado", as mensagens serão automaticamente eliminadas e não podem ser recuperadas.
+1. Vá para [configurações de regras](https://outlook.live.com/mail/options/mail/rules/inboxRules).
+1. Selecione **Adicionar nova regra**.
+1. Nomeie sua regra "Facebook".
+1. Adicione uma condição de "de" e digite "notification@facebookmail.com"
+1. Adicione uma ação de "excluir". Escolhendo Excluir significa que as mensagens permanecem em seus itens excluídos e podem ser recuperadas. Se você selecionar "marcar como lixo", as mensagens serão excluídas automaticamente e não poderão ser recuperadas.
 1. Selecione **Guardar**.

@@ -1,5 +1,5 @@
 ---
-title: Ficheiro aberto como só de leitura
+title: Arquivo aberto somente leitura
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,43 +9,46 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 5c28d5f1c6951971aab329060e24b8458e848dd7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.custom:
+- "765"
+- "2200014"
+ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525682"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822245"
 ---
-# <a name="file-open-read-only"></a>Ficheiro aberto como só de leitura
+# <a name="file-open-read-only"></a>Arquivo aberto somente leitura
 
-Poderá encontrar a que quando estiver a abrir ficheiros, abrem como só de leitura. Em alguns casos, isto é para uma maior segurança, tal como quando estiver a abrir ficheiros da internet e outras vezes, pode ser devido a uma definição que pode ser alterada. Eis alguns cenários onde um ficheiro é aberto como só de leitura e alguns passos que pode tomar para alterar.
+Você pode achar que quando você está abrindo arquivos, eles abrem como somente leitura. Em alguns casos, isso é para segurança adicional, como quando você está abrindo arquivos da Internet e outras vezes, pode ser devido a uma configuração que pode ser alterada. Aqui estão alguns cenários em que um arquivo abre somente leitura e algumas etapas que você pode tomar para alterá-lo.
   
- **O antivírus está a causá-lo a abrir como só de leitura**
+ **Meu antivírus está fazendo com que eles abram somente leitura**
   
-Alguns programas antivírus podem proteger contra ficheiros potencialmente não seguros, abrindo-os como só de leitura. Tem de verificar o fornecedor de antivírus para obter informações sobre como ajustar estas definições. BitDefender, por exemplo, tem conteúdo sobre como adicionar exclusões de aplicações aqui: [como adicionar aplicações ou exclusões de processo no Centro de controlo Bitdefender](https://www.bitdefender.com/support/how-to-add-application-or-process-exclusions-in-bitdefender-control-center-1119.mdl).
+Alguns programas antivírus podem protegê-lo de arquivos potencialmente não seguros, abrindo-os somente leitura. Talvez seja necessário verificar com seu provedor de antivírus para saber como ajustar essas configurações. O BitDefender, por exemplo, tem conteúdo para adicionar exclusões de aplicações aqui: [como adicionar exclusões de aplicações ou processos no centro de controlo BitDefender](https://aka.ms/AA6098i).
   
- **São as propriedades de ficheiro definidas como só de leitura?**
+ **As propriedades do arquivo são definidas como somente leitura?**
   
-Pode verificar as propriedades de ficheiro clicando no ficheiro e escolha Propriedades. Se o atributo só de leitura estiver seleccionado, pode desmarque-a e clique em OK.
+Você pode verificar as propriedades do arquivo clicando com o botão direito do mouse no arquivo e escolhendo Propriedades. Se o atributo somente leitura estiver marcado, você poderá desmarcá-lo e clicar em OK.
   
- **O conteúdo está na vista protegida**
+ **O conteúdo está em modo de exibição protegido**
   
-Ficheiros da Internet e de outras localizações potencialmente não seguras podem conter vírus, worms ou outros tipos de malware que podem danificar o computador. Isto também é normalmente o caso com anexos de correio electrónico ou ficheiros que transferiu. Para ajudar a proteger o computador, os ficheiros a partir destas localizações potencialmente não seguras são abertos na vista protegida. Utilizando a vista protegida, pode ler um ficheiro e ver o seu conteúdo reduzindo os riscos. Para mais informações sobre vista protegido e como alterar as definições, consulte este artigo: [o que é a vista protegida?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Os arquivos da Internet e de outros locais potencialmente inseguros podem conter vírus, worms ou outros tipos de malware que podem prejudicar seu computador. Isso também é comumente o caso com anexos de e-mail ou arquivos que você baixou. Para ajudar a proteger seu computador, os arquivos desses locais potencialmente inseguros são abertos no modo de exibição protegido. Usando o modo de exibição protegido, você pode ler um arquivo e ver seu conteúdo, reduzindo os riscos. Para obter mais informações sobre o modo de exibição protegido e como alterar as configurações, consulte este artigo: [o que é o modo de exibição protegido?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **OneDrive está cheio?**
+ **O OneDrive está cheio?**
   
-Se o ficheiro está armazenado em OneDrive e o espaço de armazenamento OneDrive está cheio, não será possível guardar o documento até ficar dentro do espaço atribuído. Pode verificar o espaço livre no OneDrive, clicando no ícone de OneDrive no Centro de notificação e seleccionando ' Gerir armazenamento ou, pode ir para [http://onedrive.live.com](http://onedrive.live.com), iniciar sessão e anote a quantidade de espaço utilizado no canto inferior esquerdo do ecrã.
+Se o arquivo estiver armazenado no OneDrive e seu espaço de armazenamento do OneDrive estiver cheio, você não poderá salvar o documento até que esteja seu espaço alocado. Você pode verificar seu espaço livre no OneDrive clicando no ícone do OneDrive na central de notificações e escolhendo gerenciar armazenamento, ou você pode ir para [http://onedrive.live.com](http://onedrive.live.com), entrar e observe a quantidade de espaço usado no canto inferior esquerdo da tela.
   
- **Office está activado?**
+ **O Office está activado?**
   
-Se o Office não está activada, ou se a sua subscrição expirou, poderia ser no modo só de leitura os modo de funcionalidade reduzida. Para obter informações sobre como activar o Office, consulte: [produto não licenciado e erros de activação do Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Se o Office não estiver ativado ou se sua assinatura expirar, você poderá estar no modo de funcionalidade reduzida somente leitura. Para obter informações sobre como ativar o Office, consulte: [produtos não licenciados e erros de ativação no Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
- **Se tudo o resto falhar...**
+ **Se tudo mais falhar...**
   
-- Experimente reiniciar o computador
+- Tente reiniciar o computador
     
-- Instalar actualizações do Office
+- Instalar atualizações do Office
     
-- Efectuar uma reparação do Office Online
+- Realize uma reparação online do Office
     
 

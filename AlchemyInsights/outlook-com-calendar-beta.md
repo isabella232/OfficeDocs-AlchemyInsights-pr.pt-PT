@@ -1,5 +1,5 @@
 ---
-title: 9000198 de Outlook.com de calendário Beta
+title: 9000198 Outlook.com Calendar beta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 8e76edd920a86445b2edc4745d39538233413c04
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75622ce992347e11dee57b3ba1b080bc498cda5b
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548150"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821993"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Novo calendário experiências cheguem ao Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Novas experiências de calendário chegando a Outlook.com
 
-O novo aspecto traz as melhores estruturas e experiência de learnings de correio para o calendário.
+O novo visual traz os melhores designs e aprendizados da experiência de email para o calendário.
 
-Vai desfrutar de um design moderno que reduz a confusão visual e dá-lhe formas rápidas para navegar o seu calendário. Também é mais fácil localizar calendários interessantes para as actividades de Favoritos — TV a partir de mostra a equipas desportivas e eventos.
+Você desfrutará de um design moderno que reduz a desordem Visual e oferece maneiras mais rápidas de navegar no seu calendário. Também é mais fácil encontrar calendários interessantes para suas atividades favoritas — de programas de TV a equipes esportivas e eventos.
 
-Vamos expandida nosso conjunto de ícones de eventos e actualizado o aspecto dos objectos existentes, e Vamos agora adicionar automaticamente ícones relevantes para os eventos, para que possa ver facilmente o que está a suceder rapidamente.
+Expandimos nossa coleção de ícones de eventos e atualizamos a aparência dos existentes — e agora adicionamos automaticamente ícones relevantes aos seus eventos, para que você possa ver facilmente o que está acontecendo rapidamente.
 
-Pode fazer comentários sobre as novas funcionalidades através do [canal de Outlook.com UserVoice de calendário](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197).
+Você pode dar feedback sobre novos recursos através do [canal Outlook.com Calendar UserVoice](https://go.microsoft.com/fwlink/?linkid=2103075).

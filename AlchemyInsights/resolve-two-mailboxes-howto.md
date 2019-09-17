@@ -1,5 +1,5 @@
 ---
-title: 1374 resolver duas caixas de correio como
+title: 1374 resolver duas caixas de correio howto
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,16 @@ ms.custom:
 - "1374"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 10fae9040b1d5d75a318721f0300ba722361e8c7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1307e13bf76e0b2afc9038333533d708f5d12f7f
+ms.sourcegitcommit: 16f08d051afca3c6d0de32826324f91cf63ab5ba
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369856"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36992080"
 ---
-# <a name="a-user-has-two-mailboxes"></a>Um utilizador tem duas caixas de correio
+# <a name="a-user-has-two-mailboxes"></a>Um usuário tem duas caixas de correio
 
-Ambientes de híbridas que utilizam Azure Active Directory ligar (das ligar) ou DirSync acidentalmente poderão fazer com que um utilizador tenha duas caixas de correio: um da organização no local e outro na nuvem.
+Ambientes híbridos que usam o Azure Active Directory Connect (AAD conectar) ou DirSync podem acidentalmente fazer com que um usuário tenha duas caixas de correio: uma no local e outra na nuvem. Uma caixa de correio duplicada pode ser criada em qualquer lugar.
 
-Para resolver este problema, consulte [Permanentemente limpar anterior da caixa de correio Info](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/).
+Para resolver este problema, consulte [como recuperar quando existe uma caixa de correio no Exchange Online e no local](https://docs.microsoft.com/en-us/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Se você quiser saber mais sobre como evitar que isso aconteça no futuro, consulte [meu usuário tem uma caixa de correio local e no Exchange Online. Socorro!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+

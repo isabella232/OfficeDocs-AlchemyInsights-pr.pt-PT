@@ -1,5 +1,5 @@
 ---
-title: 2637 ignorar filtragem de spam para permitir mensagens específicas?
+title: 2637 ignorar a filtragem de spam para permitir mensagens específicas?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -8,15 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 2637
+ms.custom:
+- "2637"
+- "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 6a6a119f6ba32df474d44421f0571e882d1fe6ee
-ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
+ms.openlocfilehash: 8d8c9b56c61c17be1001bf9723bc4b5ecbfba031
+ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36406556"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37122173"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Ignorar filtragem para permitir mensagens específicas de spam?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Ignorar a filtragem de spam para permitir mensagens específicas?
 
-Recomendamos [cuidado](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) quando criar uma lista de permissões. Por exemplo, se permitir que o seu domínio, será possível falsificar e enviar como domínio do remetentes maliciosos.  Em vez disso, recomendamos que esta [Guia de resolução de problemas de falsos positivos](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), que irá ajudá-lo para determinar a razão pela qual uma mensagem legítima foi marcada como spam e o que pode fazer para permitir a entrega da mensagem com segurança.
+Recomendamos [cautela](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) ao criar uma lista de permitir. Por exemplo, se você permitir seu próprio domínio, remetentes mal-intencionados poderão falsificar e enviar como seu domínio.  Em vez disso, recomendamos este [Guia de solução de problemas de falsos positivos](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), que o ajudará a determinar por que uma mensagem legítima foi marcada como spam e o que você pode fazer para permitir a entrega da mensagem com segurança.

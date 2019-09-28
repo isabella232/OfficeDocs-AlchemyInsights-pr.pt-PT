@@ -1,8 +1,7 @@
 ---
-title: Orientações de actualização de equipas
+title: Orientação de upgrade de equipes
 ms.author: heidip
 author: microsoftheidi
-ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,14 +11,24 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: fcea046a2ccd03c88fcbfe57a3980b70bd720072
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79c956bd01844d4234500d93d6e5458cc3bb84ad
+ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533890"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37305132"
 ---
-# <a name="upgrade-to-teams"></a>Actualização para equipas
+# <a name="microsoft-teams-upgrade"></a>Atualização do Microsoft Teams
 
-Pode encontrar um guia passo a passo para mover de Skype para a empresa para Teams da Microsoft [aqui](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams).
-  
+Se você está apenas começando com equipes, já usando equipes ao lado de Skype para negócios, ou pronto para atualizar, queremos garantir que você tenha tudo que você precisa para navegar uma jornada bem-sucedida para equipes. Para mais informações, por favor visite os links abaixo.
+
+[Introdução à atualização do Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+
+[Planeje sua atualização](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+
+[Entenda a coexistência do Microsoft Teams e do Skype for Business](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+
+[Realizando a atualização do Skype para negócios online para equipes](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+
+[Realizando a atualização do Skype para negócios no local para equipes](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+ 

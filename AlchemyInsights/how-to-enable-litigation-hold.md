@@ -1,5 +1,5 @@
 ---
-title: 976-How-to-Enable-litigation-Hold
+title: 976-como ativar-litígio-retenção
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
+ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540768"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398638"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Colocar uma caixa de correio em espera legal
+# <a name="place-a-mailbox-on-legal-hold"></a>Colocar uma caixa de correio em retenção legal
 
-- Para colocar mantenha a caixa de correio num litígio mantenha ou no local, é necessária uma licença de Exchange Online planear 2 [Exchange Online planear 2 licenças](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Se uma caixa de correio for atribuída uma licença de plano de 1, pode atribuir uma arquivo Online do Exchange suplemento licença em separado [a licença adicional do arquivo Online do Exchange](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- Para colocar uma caixa de correio em retenção de litígio ou retenção in-loco, uma licença do Exchange Online Plan 2 licença [do Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) é necessária. Se uma caixa de correio for atribuída a uma licença do plano 1, você poderá atribuir uma licença de [complemento](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)de arquivamento do Exchange Online arquivamento de licença do Exchange on-line separada.
 
-- Para activar o litígio mantenha a tecla para um único utilizador, [siga estes passos](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Quando o litígio mantenha estiver activada, todo o conteúdo da caixa de correio é preservado.
+- Para habilitar a retenção de litígio para um único usuário, [siga estas etapas](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Quando a retenção de litígio está habilitada, todo o conteúdo na caixa de correio é preservado.
 
-- Para colocar uma retenção todas as caixas de correio na organização, pode utilizar uma política de retenção do Office 365, [seguindo estes passos](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Tenha em atenção que para as políticas de retenção de toda a organização, novos utilizadores serão automaticamente atribuídos à política.
+- Para preservar o conteúdo em todas as caixas de correio da sua organização, você pode usar uma [política de retenção do Office 365](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)de toda a organização. Observe que, para políticas de retenção em toda a organização, novos usuários serão atribuídos automaticamente à política.

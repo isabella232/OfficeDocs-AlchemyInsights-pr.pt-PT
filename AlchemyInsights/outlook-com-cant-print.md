@@ -12,12 +12,12 @@ ms.custom:
 - "8000046"
 - "2507"
 ms.openlocfilehash: c2ce75066631e822c4cda2f7fa4019e20632cea0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36547934"
 ---
 # <a name="unable-to-print"></a>Não é possível imprimir
 
-Estamos conhecimento de um problema em que alguns utilizadores não conseguem imprimir quando utilizar browsers extremidade ou Safari. Enquanto que uma correcção para esta, utilize outro browser. Pedimos desculpa pelo incómodo.
+Estamos cientes de um problema em que alguns usuários não podem imprimir ao usar navegadores Safari ou Edge. Enquanto nós trabalhamos em uma correção para isso, por favor, use outro navegador. Pedimos desculpas pelo inconveniente.

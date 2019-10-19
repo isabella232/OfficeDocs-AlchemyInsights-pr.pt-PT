@@ -1,5 +1,5 @@
 ---
-title: Gerir utilizadores do Yammer
+title: Gerenciando usuários do Yammer
 ms.author: pebaum
 author: pebaum
 ms.date: 5/1/2018
@@ -12,28 +12,28 @@ ms.custom:
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
 ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36734932"
 ---
-# <a name="managing-yammer-users"></a>Gerir utilizadores do Yammer
+# <a name="managing-yammer-users"></a>Gerenciando usuários do Yammer
 
-1. Para obter informações sobre como gerir utilizadores do Yammer do Office 365, consulte [Gerir do Yammer utilizadores através do respectivo ciclo de vida do Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Isto inclui detalhes sobre:
+1. Para obter informações sobre como gerenciar usuários do Yammer do Office 365, consulte [gerenciar usuários do yammer em seu ciclo de vida do office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Isso inclui detalhes sobre:
 
-  - Criar um utilizador
+  - Criando um usuário
 
-  - Eliminar utilizadores
+  - Excluindo usuários
 
-  - Gerir utilizadores do Yammer do Office 365
+  - Gerenciando usuários do Yammer do Office 365
 
-2. Consulte [Adicionar, bloquear, ou remover utilizadores do Yammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) para obter informações sobre como gerir utilizadores a partir da consola de administração do Yammer. Isto inclui:
+2. Consulte [Adicionar, bloquear ou remover usuários do Yammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) para obter informações sobre como gerenciar usuários do console de administração do Yammer. Isto inclui:
 
-  - Convidar ou remover utilizadores
+  - Convidando ou removendo usuários
 
-  - Os utilizadores convidados a convidar
+  - Convidando usuários convidados
 
-  - Exportar a lista de utilizadores
+  - Exportando a lista de usuários
 
-3. Para obter informações sobre como adicionar, remover e gerir utilizadores externos, consulte [Adicionar participantes mensagens externos à rede do Yammer](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).
+3. Para obter informações sobre como adicionar, remover e gerenciar usuários externos, consulte [Adicionar participantes de mensagens externas à sua rede Yammer](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).

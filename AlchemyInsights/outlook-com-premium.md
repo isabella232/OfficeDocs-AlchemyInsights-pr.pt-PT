@@ -1,5 +1,5 @@
 ---
-title: Prémio de Outlook.com
+title: Outlook.com premium
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.custom:
 - "1831"
 - "9000243"
 ms.openlocfilehash: ad9d095803fae20865bf0161cf4ddc36f86dbaf4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545810"
 ---
-# <a name="outlookcom-premium"></a>Prémio de Outlook.com
+# <a name="outlookcom-premium"></a>Outlook.com premium
 
-**Subscritores do prémio existente**
+**Assinantes Premium existentes**
 
-- Se já tiver uma subscrição do prémio de Outlook.com, leia as [FAQ do prémio de Outlook.com](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
+- Se já tiver uma subscrição do Outlook.com premium, leia as [FAQs do Outlook.com Premium](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
 
-**Novos subscritores**
+**Novos assinantes**
 
-- Lamentamos, mas o prémio de Outlook.com está fechado aos subscritores de novos.
-- Muitas das [funcionalidades e vantagens](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) estão agora incluídas com [subscrições para Office 365 Home e o pessoal do Office 365](https://go.microsoft.com/fwlink/?linkid=2017122).
+- Lamentamos, mas o Outlook.com Premium está agora fechado para novos assinantes.
+- Muitos dos [recursos e benefícios](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) agora estão incluídos com [assinaturas para o Office 365 Home e Office 365 Personal](https://go.microsoft.com/fwlink/?linkid=2017122).

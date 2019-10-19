@@ -1,5 +1,5 @@
 ---
-title: Híbrido mínimo a utilizar para mover para o Office 365
+title: Usando o Hybrid mínimo para mover para o Office 365
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,12 +13,12 @@ ms.custom:
 - "3500010"
 ms.assetid: f974fc09-ae6e-4b3d-94cb-1b1021d2ee31
 ms.openlocfilehash: c1c28be90e04d8132756d65b657a83382bd66808
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36741700"
 ---
-# <a name="using-minimal-hybrid-to-move-to-office-365"></a>Híbrido mínimo a utilizar para mover para o Office 365
+# <a name="using-minimal-hybrid-to-move-to-office-365"></a>Usando o Hybrid mínimo para mover para o Office 365
 
-Para saber mais sobre híbrido mínima, também conhecido como Express migração, dar saída [Híbrido mínima de utilização para rapidamente migrar caixas de correio do Exchange para o Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate).
+Para saber mais sobre o Hybrid mínimo, também conhecido como migração expressa, confira [usar híbrido mínimo para migrar rapidamente caixas de correio do Exchange para o Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate).

@@ -1,5 +1,5 @@
 ---
-title: Resolução de problemas de configuração para transmissão em sequência - gerir o licenciamento de transmissão em sequência
+title: Solucionando problemas de instalação para fluxo-Gerenciando o licenciamento de fluxo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "1339"
 - "2800001"
 ms.openlocfilehash: 9ec942641f04c1649aa3e6ba1e4485f4e4f95d4d
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36742636"
 ---
-# <a name="managing-microsoft-stream-licenses"></a>Gerir licenças Microsoft Stream
+# <a name="managing-microsoft-stream-licenses"></a>Gerenciando licenças do Microsoft Stream
 
-**Importante:** Tem de ter a função de administrador de Tenants para efectuar operações descritas neste tópico.
+**Importante:** Você precisa estar na função de administrador de locatário para executar operações descritas neste tópico.
 
-Tem de ser um Administrador Global ou um administrador de gestão de utilizadores. Para mais informações, consulte [Acerca de funções de administração](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).
+Você precisa ser um administrador global ou um administrador de gerenciamento de usuários. Para obter mais informações, consulte [sobre funções de administrador](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).
 
-Pode atribuir [licenças a contas de utilizador com o PowerShell do Office 365](https://go.microsoft.com/fwlink/p/?linkid=850410).
+Você pode atribuir [licenças a contas de usuário com o Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).

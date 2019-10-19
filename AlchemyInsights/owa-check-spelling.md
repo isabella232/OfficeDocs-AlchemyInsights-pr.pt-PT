@@ -1,5 +1,5 @@
 ---
-title: Verificar a ortografia no Outlook na web
+title: Verificar a ortografia no Outlook na Web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,12 +13,12 @@ ms.custom:
 - "8000007"
 - "1992"
 ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510562"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>Utilize o browser para verificar a ortografia
+# <a name="use-your-browser-to-check-spelling"></a>Use seu navegador para verificar a ortografia
 
-Não existe nenhuma opção de verificação ortográfica no Outlook na web. Para verificar a ortografia, tem de utilizar o web browser. A verificação ortográfica está disponível no Microsoft Edge, Internet Explorer 10 e versões posteriores e versões actuais do Firefox e Safari cromado. Verifique as opções para o web browser obter mais informações sobre como verificar a ortografia.
+Não há nenhuma opção de verificação ortográfica no Outlook na Web. Para verificar a ortografia, você precisará usar seu navegador da Web. A verificação ortográfica está disponível no Microsoft Edge, no Internet Explorer 10 e em versões posteriores e nas versões atuais do Firefox, Chrome e Safari. Verifique as opções do seu navegador da Web para saber mais sobre como verificar a ortografia.

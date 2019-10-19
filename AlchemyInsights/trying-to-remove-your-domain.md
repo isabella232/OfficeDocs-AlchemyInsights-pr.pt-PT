@@ -12,15 +12,15 @@ ms.custom:
 - "28"
 - "9"
 ms.openlocfilehash: a1ea38d29ff31e13fbcee0f18acb5627599a4be6
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36742564"
 ---
 # <a name="trying-to-remove-your-domain"></a>Está a tentar remover o seu domínio?
 
-Para remover o domínio do Office 365, siga os passos descritos neste artigo: [Remover um domínio do Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
+Para remover o domínio do Office 365, siga os passos neste artigo: [remover um domínio do office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
   
 Terá de actualizar quaisquer utilizadores ou grupos que são atribuídos a esse nome de domínio antes de remover o domínio.
   

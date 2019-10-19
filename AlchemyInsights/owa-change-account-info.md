@@ -1,5 +1,5 @@
 ---
-title: Alterar as informações da conta no Outlook na web
+title: Alterar as informações da conta no Outlook na Web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 71895ba9ab1f2ac78bbe59415dd59099c4270cc1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510598"
 ---
-# <a name="change-account-information-in-outlook-on-the-web"></a>Alterar as informações de conta no Outlook na web
+# <a name="change-account-information-in-outlook-on-the-web"></a>Alterar informações de conta no Outlook na Web
 
-1. Na parte superior da página, seleccione a imagem de perfil ou de nome.
-1. Seleccione **a minha conta**.
-1. Seleccione **informações pessoais**.
-1. Alterar ou adicionar informações pessoais.
+1. Na parte superior da página, selecione seu nome ou foto do perfil.
+1. Selecione **minha conta**.
+1. Selecione **informações pessoais**.
+1. Alterar ou adicionar informações sobre si mesmo.
 
-*Nota:* Alguns detalhes, como o título de nome e a tarefa, podem ser disponibilizados pela da empresa ou departamento de recursos humanos. Se pretender actualizar esses detalhes, contacte-os ou o administrador.
+*Nota:* Alguns detalhes, como seu nome e cargo, podem ser fornecidos pelo departamento de ti ou de recursos humanos. Se você quiser atualizar esses detalhes, entre em contato com eles ou com seu administrador.
 
-Para mais informações, consulte [alterar as informações de conta e de fotografias no Outlook na web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Para obter mais informações, consulte [alterar suas informações de foto e conta no Outlook na Web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).

@@ -1,5 +1,5 @@
 ---
-title: 723 efectuar um alias de correio electrónico uma mensagem de correio electrónico primária do utilizador
+title: 723 fazer um alias de e-mail um e-mail principal para o usuário
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,14 +14,14 @@ ms.custom:
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
 ms.openlocfilehash: 3e22655c7408863915ab22389f70d10956839ad8
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36735256"
 ---
-# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Tornar o endereço primário para um utilizador de um alias de correio electrónico
+# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Fazer um alias de e-mail o endereço principal de um usuário
 
-Para obter instruções, consulte [Adicionar outro alias de correio electrónico para um utilizador](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).
+Para obter instruções, consulte [Adicionar outro alias de email para um usuário](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).
 
-**Nota**: se a organização estiver no modo de híbridos, terá de alterar o endereço de correio electrónico principal na organização do Exchange no local. Para mais informações, consulte [endereços de correio electrónico de adicionar ou remover uma caixa de correio](https://technet.microsoft.com/library/bb123794.aspx).
+**Observação**: se sua organização estiver no modo híbrido, você precisará alterar o endereço de email principal em sua organização do Exchange local. Para obter mais informações, consulte [Adicionar ou remover endereços de email de uma caixa de correio](https://technet.microsoft.com/library/bb123794.aspx).

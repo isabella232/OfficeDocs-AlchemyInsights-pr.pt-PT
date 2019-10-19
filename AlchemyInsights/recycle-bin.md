@@ -1,5 +1,5 @@
 ---
-title: Reciclagem
+title: Lixeira
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
 ms.openlocfilehash: 8c61c6007c8e1cc8958993e0f1b3e0e6c0dbb617
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36553005"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>Restaurar itens no SharePoint Online
 
-Quando elimina itens no SharePoint Online, se estiver a mantidas para um total de dias 93. Fiquem a Reciclagem do site todo o período, a menos que esvaziá-la ou elimina os itens do mesmo. Nesse caso, os itens vá para a site Reciclagem da colecção, em que permanecerem durante o resto dos dias 93. No fim do tempo, os itens são eliminados definitivamente. Para restaurar itens eliminados do site Reciclagem:
+Quando você exclui itens no SharePoint Online, eles são mantidos por um total de 93 dias. Eles ficam no site lixeira o tempo todo, a menos que você Esvazie ou exclua os itens dele. Nesse caso, os itens vão para a lixeira do conjunto de sites, onde ficam para o restante dos 93 dias. No final do tempo, os itens são excluídos permanentemente. Para restaurar itens excluídos da lixeira do site:
   
-1. Vá para o site e clique em **' Reciclagem '** no painel da esquerda. 
+1. Vá para o site e clique em **Lixeira** no painel esquerdo. 
     
-    Se não visualizar a **Reciclagem** no painel da esquerda, clique no ícone de definições no canto superior direito e, em seguida, clique em **conteúdo de Site**. A Reciclagem está na extremidade direita da barra de comandos na parte superior.
+    Se você não vir a **Lixeira** no painel esquerdo, clique no ícone configurações no canto superior direito e, em seguida, clique em **conteúdo do site**. A lixeira está na extrema direita da barra de comando na parte superior.
     
-2. Na página **' Reciclagem '** , seleccione os itens que pretende restaurar, apontando para eles e clicando no ícone de marca de verificação que aparece. 
+2. **Na página lixeira** , selecione os itens que deseja restaurar apontando para eles e clicando no ícone de marca de seleção que aparece. 
     
 3. Clique em **Restaurar**.
     
-[Restaurar itens eliminados da colecção de sites da ' Reciclagem '](https://go.microsoft.com/fwlink/?linkid=866439)
+[Restaurar itens excluídos da lixeira do conjunto de sites](https://go.microsoft.com/fwlink/?linkid=866439)
   
 

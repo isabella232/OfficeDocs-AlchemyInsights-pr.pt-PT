@@ -1,5 +1,5 @@
 ---
-title: Configurar definições de auditoria
+title: Configurar configurações de auditoria
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
 ms.openlocfilehash: d5d1da516104d7c062038551142cdd9ccaad4407
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36504978"
 ---
-# <a name="configure-sharepoint-audit-settings"></a>Configurar definições de auditoria do SharePoint
+# <a name="configure-sharepoint-audit-settings"></a>Configurar as configurações de auditoria do SharePoint
 
-Administradores de colecção de site do SharePoint podem controlar acções do utilizador no conteúdo configurando as definições de auditoria.
+Os administradores do conjunto de sites do SharePoint podem rastrear ações do usuário no conteúdo configurando as configurações de auditoria.
   
-1. Abra o site SharePoint.
+1. Abra o site do SharePoint.
     
-2. Clique no ícone definições e, em seguida, clique em **definições do Site**. Se não vir "Definições do Site", clique em **informações do Site**e, em seguida, clique em **Ver todas as definições do site**.
+2. Clique no ícone configurações e, em seguida, clique em **configurações do site**. Se você não vir "configurações do site", clique em **informações do site**e, em seguida, clique em **Exibir todas as configurações do site**.
     
-3. Em **Administração de colecções de sites**, seleccione **definições de auditoria da colecção de sites**. (Se não estiver visível, clique em **Ir para definições de site de nível superior** em primeiro lugar.) 
+3. Em **Administração do conjunto**de sites, selecione **configurações de auditoria do conjunto de sites**. (Se você não vê-lo, clique em **ir para as configurações de site de nível superior** primeiro.) 
     
-Para informações sobre o que está incluída nos relatórios de registo de auditoria do SharePoint e como visualizá-los, consulte [Configurar definições para uma colecção de sites de auditoria](https://go.microsoft.com/fwlink/?linkid=404050).
+Para obter informações sobre o que está incluído nos relatórios de log de auditoria do SharePoint e como visualizá-los, consulte [Configurar configurações de auditoria para um conjunto de sites](https://go.microsoft.com/fwlink/?linkid=404050).
   
 

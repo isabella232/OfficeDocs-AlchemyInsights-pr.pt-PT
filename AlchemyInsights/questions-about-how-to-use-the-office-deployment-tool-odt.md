@@ -1,5 +1,5 @@
 ---
-title: Perguntas sobre como utilizar a ferramenta de implementação do Office (ODT)
+title: Perguntas sobre como usar a ferramenta de implantação do Office (ODT)
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
 ms.openlocfilehash: 604fc200517316de6e0194bd64e6eb3039cfa61b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36553551"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Perguntas sobre como utilizar a ferramenta de implementação do Office (ODT)
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Perguntas sobre como usar a ferramenta de implantação do Office (ODT)
 
-Transferir a ferramenta de implementação do Office a partir do [Centro de transferências da Microsoft](http://go.microsoft.com/fwlink/p/?LinkID=626065).
+Transfira a ferramenta de implementação do Office a partir do [centro de transferências da Microsoft](http://go.microsoft.com/fwlink/p/?LinkID=626065).
   
-Depois de transferir o ficheiro, execute o ficheiro executável extracção automática que contém a implementação de ferramenta do Office executável (setup.exe) e um ficheiro de configuração de exemplo (configuration.xml).
+Depois de baixar o arquivo, execute o arquivo executável de extração automática, que contém o executável da ferramenta de implantação do Office (Setup. exe) e um arquivo de configuração de exemplo (Configuration. xml).
   
- **Para excluir ou remover produtos Office 365 ProPlus de computadores de cliente:**
+ **Para excluir ou remover produtos do Office 365 ProPlus de computadores cliente:**
   
-Quando instalar o Office 365 ProPlus, pode excluir a produtos específicos. Para tal, siga os passos para instalar o Office com a ODT, mas incluir o elemento ExcludeApp no ficheiro de configuração. Por exemplo, este ficheiro de configuração instala todos os produtos do Office 365 ProPlus excepto Publisher:
+Ao instalar o Office 365 ProPlus, você pode excluir produtos específicos. Para fazer isso, siga as etapas para instalar o Office com a ODT, mas inclua o elemento ExcludeApp no arquivo de configuração. Por exemplo, esse arquivo de configuração instala todos os produtos do Office 365 ProPlus, exceto o Publisher:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -35,6 +35,6 @@ Quando instalar o Office 365 ProPlus, pode excluir a produtos específicos. Para
 </Add>
 ```
 
-[Descrição geral da ferramenta de implementação do Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
+[Visão geral da ferramenta de implantação do Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Atacado do Outlook na conta de web
+title: Outlook na conta Web hackeado
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 72dada23e9d69ae1ad55d427766e8cb51b700fa2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511210"
 ---
-# <a name="outlook-on-the-web-account-hacked"></a>Atacado do Outlook na conta de web
+# <a name="outlook-on-the-web-account-hacked"></a>Outlook na conta Web hackeado
 
-Se tiver sido atacada a sua conta, siga as instruções de [como proteger e restaurar a função de correio electrónico para uma suspeita comprometido a conta do Office 365 e caixa de correio](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).
+Se a sua conta foi invadida, siga as instruções em [como proteger e restaurar a função de e-mail para uma suspeita comprometida Office 365 conta e caixa de correio](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).
 
-Para obter mais informações sobre passos adicionais que pode tomar para impedir que a conta ser comprometida, consulte [responder a uma conta de correio electrónico comprometido no Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+Para saber mais sobre as etapas adicionais que você pode tomar para impedir que sua conta seja comprometida, consulte [respondendo a uma conta de email comprometida no Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).

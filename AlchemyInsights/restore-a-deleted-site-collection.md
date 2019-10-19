@@ -1,5 +1,5 @@
 ---
-title: Restaurar um site eliminado
+title: Restaurar um site excluído
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
 ms.openlocfilehash: 9e4e9ade058c60ecd7a6ce1b2a40c4996ac5676f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552486"
 ---
-# <a name="restore-a-deleted-site"></a>Restaurar um site eliminado
+# <a name="restore-a-deleted-site"></a>Restaurar um site excluído
 
-Quando um administrador elimina um site, é colocado na colecção de sites ' Reciclagem ', onde é mantida para 93 dias antes de serem eliminado permanentemente. Para restaurar o site:
+Quando um administrador exclui um site, ele é colocado na lixeira do conjunto de sites, onde é mantido por 93 dias antes de ser excluído permanentemente. Para restaurar o site:
   
-1. No novo Centro de administração do SharePoint, clique em **' Reciclagem '** no Friso. 
+1. No novo centro de administração do SharePoint, clique em **Lixeira** na faixa de opções. 
     
-2. Seleccione a caixa de verificação junto a colecção de sites que pretende restaurar.
+2. Marque a caixa de seleção ao lado do conjunto de sites que você deseja restaurar.
     
-3. Clique em **Restaurar itens eliminados**.
+3. Clique em **restaurar itens excluídos**.
     
-Para restaurar um site de comunicação eliminados, pode utilizar o novo Centro de administração do SharePoint. Caso contrário, terá de utilizar o Microsoft PowerShell. Para restaurar um site a que pertence a um grupo do Office 365, necessita de restaurar o grupo no Centro de administração do Exchange. Grupos podem ser restaurados durante 30 dias depois de serem eliminadas.
+Para restaurar um site de comunicação excluído, você pode usar o novo centro de administração do SharePoint. Caso contrário, você precisará usar o Microsoft PowerShell. Para restaurar um site que pertence a um grupo do Office 365, você precisa restaurar o grupo no centro de administração do Exchange. Os grupos podem ser restaurados por 30 dias após a exclusão.
   
 

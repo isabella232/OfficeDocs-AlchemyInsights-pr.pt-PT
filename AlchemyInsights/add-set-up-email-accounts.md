@@ -1,5 +1,5 @@
 ---
-title: 1800018 adicionar/configurar contas de correio electrónico
+title: 1800018 adicionar/configurar contas de e-mail
 ms.author: pdigia
 author: pebaum
 manager: scotv
@@ -14,15 +14,15 @@ ms.custom:
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
 ms.openlocfilehash: 67420eb543762a42a93c7f727ea5bb5345e00bc8
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36737992"
 ---
-# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a><span data-ttu-id="b47ab-102">Problemas ao configurar uma conta de correio electrónico do Exchange no Outlook</span><span class="sxs-lookup"><span data-stu-id="b47ab-102">Problems setting up an Exchange email account in Outlook</span></span>
+# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a><span data-ttu-id="3701d-102">Problemas ao configurar uma conta de email do Exchange no Outlook</span><span class="sxs-lookup"><span data-stu-id="3701d-102">Problems setting up an Exchange email account in Outlook</span></span>
 
-<span data-ttu-id="b47ab-103">Se estiver a ter problemas ao configurar uma conta do Exchange no Outlook, pode executar a [ferramenta de configuração de conta do Outlook](https://aka.ms/SaRA-OutlookSetupProfile) no computador afectado.</span><span class="sxs-lookup"><span data-stu-id="b47ab-103">If you're having problems setting up an Exchange account in Outlook, you can run the [Outlook account Setup tool](https://aka.ms/SaRA-OutlookSetupProfile) on the affected machine.</span></span> <span data-ttu-id="b47ab-104">Este irá efectuar várias verificações e fornecer soluções possíveis para o problema de configuração de conta.</span><span class="sxs-lookup"><span data-stu-id="b47ab-104">It will perform various checks and provide possible solutions to your account setup issue.</span></span>
+<span data-ttu-id="3701d-103">Se você estiver tendo problemas para configurar uma conta do Exchange no Outlook, poderá executar a [ferramenta de configuração da conta do Outlook](https://aka.ms/SaRA-OutlookSetupProfile) na máquina afetada.</span><span class="sxs-lookup"><span data-stu-id="3701d-103">If you're having problems setting up an Exchange account in Outlook, you can run the [Outlook account Setup tool](https://aka.ms/SaRA-OutlookSetupProfile) on the affected machine.</span></span> <span data-ttu-id="3701d-104">Ele executará várias verificações e fornecerá possíveis soluções para o problema de configuração da conta.</span><span class="sxs-lookup"><span data-stu-id="3701d-104">It will perform various checks and provide possible solutions to your account setup issue.</span></span>
   
-<span data-ttu-id="b47ab-105">Se continuar a ter problemas, consulte [que o Outlook não é possível configurar um novo perfil utilizando detecção automática do Exchange para uma caixa de correio Exchange Online no Office 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).</span><span class="sxs-lookup"><span data-stu-id="b47ab-105">If you're still having issues, see [Outlook can't set up a new profile by using Exchange Autodiscover for an Exchange Online mailbox in Office 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).</span></span>
+<span data-ttu-id="3701d-105">Se você ainda estiver tendo problemas, consulte [o Outlook não pode configurar um novo perfil usando a descoberta automática do Exchange para uma caixa de correio do Exchange Online no Office 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).</span><span class="sxs-lookup"><span data-stu-id="3701d-105">If you're still having issues, see [Outlook can't set up a new profile by using Exchange Autodiscover for an Exchange Online mailbox in Office 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).</span></span>
   

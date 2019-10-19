@@ -1,5 +1,5 @@
 ---
-title: Carregar ficheiros ou uma pasta para uma biblioteca de documentos
+title: Carregar uma pasta ou arquivos em uma biblioteca de documentos
 ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
@@ -11,26 +11,26 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
 ms.openlocfilehash: e8f4bbcfc0b820af5ba54dd643c0e4451964f414
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36750891"
 ---
-# <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-libraries"></a><span data-ttu-id="09df1-102">Não é possível guardar documentos do Office para bibliotecas de documentos do SharePoint ou OneDrive</span><span class="sxs-lookup"><span data-stu-id="09df1-102">Cannot save Office documents to SharePoint or OneDrive document libraries</span></span>
+# <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-libraries"></a><span data-ttu-id="8d7b7-102">Não é possível salvar documentos do Office em bibliotecas de documento do SharePoint ou OneDrive</span><span class="sxs-lookup"><span data-stu-id="8d7b7-102">Cannot save Office documents to SharePoint or OneDrive document libraries</span></span>
 
-<span data-ttu-id="09df1-103">Se tiver problemas ao guardar documentos do Office para bibliotecas de documentos do SharePoint ou OneDrive, eis algumas informações que o poderão ajudar.</span><span class="sxs-lookup"><span data-stu-id="09df1-103">If you have problems saving Office documents to SharePoint or OneDrive document libraries, here is some information that may help.</span></span>
+<span data-ttu-id="8d7b7-103">Se você tiver problemas para salvar documentos do Office em bibliotecas de documento do SharePoint ou do OneDrive, aqui estão algumas informações que podem ajudar.</span><span class="sxs-lookup"><span data-stu-id="8d7b7-103">If you have problems saving Office documents to SharePoint or OneDrive document libraries, here is some information that may help.</span></span>
 
-[<span data-ttu-id="09df1-104">Guardar um ficheiro (Copy)</span><span class="sxs-lookup"><span data-stu-id="09df1-104">Save a File (Copy)</span></span>](https://support.office.com/article/save-a-file-in-microsoft-office-a7f0a209-ad22-4212-bb53-6cd8e801a6fb)
+[<span data-ttu-id="8d7b7-104">Salvar um arquivo (copiar)</span><span class="sxs-lookup"><span data-stu-id="8d7b7-104">Save a File (Copy)</span></span>](https://support.office.com/article/save-a-file-in-microsoft-office-a7f0a209-ad22-4212-bb53-6cd8e801a6fb)
 
-[<span data-ttu-id="09df1-105">O que é a gravação automática?</span><span class="sxs-lookup"><span data-stu-id="09df1-105">What is AutoSave?</span></span>](https://support.office.com/article/what-is-autosave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
+[<span data-ttu-id="8d7b7-105">O que é AutoSave?</span><span class="sxs-lookup"><span data-stu-id="8d7b7-105">What is AutoSave?</span></span>](https://support.office.com/article/what-is-autosave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
 
-[<span data-ttu-id="09df1-106">Verificar limitações de ficheiro para garantir que o ficheiro é suportado.</span><span class="sxs-lookup"><span data-stu-id="09df1-106">Check file limitations to ensure the file is supported.</span></span>](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+[<span data-ttu-id="8d7b7-106">Verifique as limitações do arquivo para garantir que o arquivo é suportado.</span><span class="sxs-lookup"><span data-stu-id="8d7b7-106">Check file limitations to ensure the file is supported.</span></span>](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-[<span data-ttu-id="09df1-107">Eliminar a cache de documentos do office</span><span class="sxs-lookup"><span data-stu-id="09df1-107">Delete your office document cache</span></span>](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
+[<span data-ttu-id="8d7b7-107">Excluir seu cache de documentos do Office</span><span class="sxs-lookup"><span data-stu-id="8d7b7-107">Delete your office document cache</span></span>](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
 
-[<span data-ttu-id="09df1-108">Execute uma reparação no Office</span><span class="sxs-lookup"><span data-stu-id="09df1-108">Run a repair on Office</span></span>](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+[<span data-ttu-id="8d7b7-108">Executar um reparo no Office</span><span class="sxs-lookup"><span data-stu-id="8d7b7-108">Run a repair on Office</span></span>](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-<span data-ttu-id="09df1-109">Para mais informações ou detalhes, consulte o artigo [corrigir problemas ao abrir ou guardar documentos em bibliotecas do SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)</span><span class="sxs-lookup"><span data-stu-id="09df1-109">For more information or details, please check the article [Fix problems opening or saving documents in SharePoint libraries](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)</span></span>
+<span data-ttu-id="8d7b7-109">Para obter mais informações ou detalhes, verifique o artigo [corrigir problemas abrindo ou salvando documentos em bibliotecas do SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)</span><span class="sxs-lookup"><span data-stu-id="8d7b7-109">For more information or details, please check the article [Fix problems opening or saving documents in SharePoint libraries](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)</span></span>
 
 

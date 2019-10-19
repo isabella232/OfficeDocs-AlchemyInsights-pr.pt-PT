@@ -1,5 +1,5 @@
 ---
-title: Adicionar uma subscrição pré-paga bancos
+title: Adicionar assentos a uma subscrição pré-paga
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,27 +14,27 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661019"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a>Adicionar uma subscrição pré-paga bancos
+# <a name="add-seats-to-a-prepaid-subscription"></a>Adicionar assentos a uma subscrição pré-paga
 
-Pré-pagos Office 365 licenças são emitidas como um código alfanumérico de 25 caracteres. Depois de adquiriu as licenças de que necessita, pode adicioná-los à sua subscrição. 
+As licenças do Office 365 pré-pago são emitidas para você como um código alfanumérico de 25 caracteres. Depois de adquirir as licenças necessárias, você poderá adicioná-las à sua assinatura. 
 
-1. No Centro de administração, vá para a **Facturação** > página[produtos e serviços &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. No centro de administração, vá para a página produtos de **faturamento** > [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Localize a subscrição que pretende adicionar licenças. Na secção de **licenças** , seleccione **Adicionar mais licenças**.
+2. Localize a subscrição para a qual pretende adicionar licenças. Na seção **licenças** , selecione **adicionar mais licenças**.
 
-3. No painel de **Adicionar mais licenças** , seleccione **utilizar uma chave de produto de novo e não utilizados**, em seguida, seleccione **seguinte**.
+3. No painel **adicionar mais licenças** , selecione **usar uma chave de produto nova e não utilizada e**selecione **Avançar**.
 
-4. Introduza a chave de produto, em seguida, seleccione **seguinte**.
+4. Insira a chave do produto e selecione **Avançar**.
 
     > [!NOTE]
-    > Se tiver mais do que uma chave de produto, pode seleccionar **Adicionar outra chave de produto** para introduzi-los.
+    > Se você tiver mais de uma chave de produto, poderá selecionar **adicionar outra chave de produto** para inseri-las.
 
-5. Reveja os detalhes da encomenda e, em seguida, seleccione **resgatar**.
+5. Revise os detalhes do seu pedido e selecione **resgatar**.
 
-Para obter mais informações, consulte [Adicionar licenças para ou expandir uma subscrição paga para utilizar uma chave de produto](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Para saber mais, consulte [adicionar licenças ou estender uma assinatura paga usando uma chave de produto](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

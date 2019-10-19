@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
 ms.openlocfilehash: 136b349c374518e2b130184f2dc64d1bf9a7f7b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36494358"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problemas relacionados com correio electrónico de publicidade que afirma ser de LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problemas com lixo eletrônico alegando ser do LinkedIn
 
-Se estiver a receber correio publicitário não solicitado que a LinkedIn, pode criar uma regra para filtrar as mensagens de correio electrónico.
-Para mais informações, consulte [utilizar regras de pasta a receber no Outlook.com](https://aka.ms/OutlookComInboxRules) .
+Se você está recebendo lixo eletrônico que alega ser do LinkedIn, você pode criar uma regra para filtrar esses e-mails.
+Consulte [usar regras de caixa de entrada em Outlook.com](https://aka.ms/OutlookComInboxRules) para obter mais informações.
 
 

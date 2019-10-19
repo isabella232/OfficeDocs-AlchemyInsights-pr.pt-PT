@@ -1,5 +1,5 @@
 ---
-title: Activar e atribuir licenças de software como-a-serviço app
+title: Ativar e atribuir licenças de aplicativos de software como serviço
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "9000563"
 - "2422"
 ms.openlocfilehash: d9cd02a778a7a979271b38e3df06c5bc7c1bdf6a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36385731"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Activar e atribuir licenças de software como-a-serviço app 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Ativar e atribuir licenças de aplicativos de software como serviço 
 
-## <a name="to-activate-apps"></a>Para activar aplicações
+## <a name="to-activate-apps"></a>Para ativar aplicativos
 
-1. No Centro de administração, vá para a **Facturação** > [& de produtos serviços](https://go.microsoft.com/fwlink/p/?linkid=842054) da página, em seguida, seleccione o separador de **aplicações** .
+1. No centro de administração, vá para a página produtos de **faturamento** > [& serviços](https://go.microsoft.com/fwlink/p/?linkid=842054) e, em seguida, escolha a guia **aplicativos** .
 
-2. Localize e seleccione a aplicação que pretende gerir.
+2. Localize e selecione o aplicativo que você deseja gerenciar.
 
-3. Em **licenças**, seleccione **Configurar a conta na mensagem de erro**.  
+3. Em **licenças**, selecione **configurar conta na mensagem de erro**.  
 
-## <a name="to-assign-app-licenses"></a>Para atribuir licenças de aplicação
+## <a name="to-assign-app-licenses"></a>Para atribuir licenças de aplicativo
 
-1. No Centro de administração, vá para a **Facturação** > [& de produtos serviços](https://go.microsoft.com/fwlink/p/?linkid=842054) da página, em seguida, seleccione o separador de **aplicações** .
+1. No centro de administração, vá para a página produtos de **faturamento** > [& serviços](https://go.microsoft.com/fwlink/p/?linkid=842054) e, em seguida, escolha a guia **aplicativos** .
 
-2. Localize e seleccione a aplicação que pretende gerir.  
+2. Localize e selecione o aplicativo que você deseja gerenciar.  
 
-3. No âmbito de **Acções de & de definições**, seleccione a hiperligação para **Gerir no portal do publisher**.
+3. Em **configurações & ações**, selecione o link para **gerenciar no portal do editor**.

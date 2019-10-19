@@ -1,5 +1,5 @@
 ---
-title: Implementar sem costura Single Sign-On
+title: Implantar o logon único sem emenda
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
 ms.openlocfilehash: 0d91638e3b4f3ab0912730dbda47c42d9ae19c16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36512794"
 ---
-# <a name="enable-seamless-sso"></a>Activar SSO sem costura
+# <a name="enable-seamless-sso"></a>Ativar o SSO sem emenda
 
-Azure do Active Directory (Azure AD) sem costura Single Sign-On (sem costura SSO) inicia sessão automaticamente os utilizadores quando estão nos respectivos ambientes de trabalho da empresa que estão ligados à rede da empresa.
+O logon único do Azure Active Directory (Azure AD) sem emenda (SSO sem emenda) assina automaticamente os usuários quando eles estão em seus desktops corporativos que estão conectados à sua rede corporativa.
   
-[Siga os passos descritos neste artigo para activar SSO sem costura](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
+[Siga as etapas neste artigo para habilitar o SSO sem emenda](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   
 

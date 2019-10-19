@@ -1,5 +1,5 @@
 ---
-title: Localizar ficheiros perdidos ou em falta no OneDrive ou o SharePoint
+title: Localizar arquivos perdidos ou ausentes no OneDrive ou no SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
 ms.openlocfilehash: 911b8fffa673e578a7afb83cfff305e4f1806013
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525430"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Localizar ficheiros perdidos ou em falta no OneDrive ou o SharePoint
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Localizar arquivos perdidos ou ausentes no OneDrive ou no SharePoint
 
-- Verifique a Reciclagem para o OneDrive ou o site do SharePoint na web de navegação e clicando em ' Reciclagem ' no painel da esquerda. (Se não vir a Reciclagem de posição no painel da esquerda, clique no ícone definições e, em seguida, seleccione **o conteúdo do Site**. **Reciclagem** encontra-se no extremo direito da barra de comandos na parte superior.) 
+- Verifique a lixeira navegando até o OneDrive ou o site do SharePoint na Web e clicando em lixeira no painel esquerdo. (Se você não vir lixeira no painel esquerdo, clique no ícone configurações e selecione **conteúdo do site**. **Lixeira** está na extrema direita da barra de comando na parte superior.) 
     
-- Se estiver a sincronizar os ficheiros no computador, consulte a ' Reciclagem ' no computador. 
+- Se você estiver sincronizando os arquivos em seu computador, verifique a lixeira no seu computador. 
     
-- Se não vir o item que está a procurar e foi eliminado recentemente, um administrador da colecção de site poderá conseguir restaurar a partir de reciclagem da colecção de sites. Se for o administrador da colecção de sites, consulte [Restaurar itens eliminados de reciclagem da colecção de sites](https://go.microsoft.com/fwlink/?linkid=866439).
+- Se você não vir o item que está procurando e ele foi excluído recentemente, um administrador de conjunto de sites poderá restaurá-lo da lixeira do conjunto de sites. Se você for o administrador do conjunto de sites, consulte [restaurar itens excluídos da lixeira do conjunto de sites](https://go.microsoft.com/fwlink/?linkid=866439).
     
-[Obter mais ajuda a restaurar eliminados ficheiros e pastas em OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
+[Mais ajuda a restaurar ficheiros e pastas eliminados no OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Resgate de ambiente de trabalho do Outlook ou substituir uma mensagem de correio electrónico
+title: Outlook desktop recordar ou substituir uma mensagem de e-mail
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,31 +10,31 @@ ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36496122"
 ---
-# <a name="recall-or-replace-an-outlook-email-message"></a>Resgatar ou substituir uma mensagem de correio electrónico do Outlook
+# <a name="recall-or-replace-an-outlook-email-message"></a>Recuperar ou substituir uma mensagem de email do Outlook
 
-- Como administrador, pode de **resgate de mensagens em nome dos utilizadores utilizando o PowerShell**. Não é possível recuperar mensagens a partir do Centro de administração.
-- Pode **apenas mensagens de recuperação que são enviadas para pessoas na organização**. Se a mensagem foi enviada para um endereço de Gmail, por exemplo, não se lembrá-lo.
-- Pode **apenas resgatar as mensagens enviadas de 2016 do Outlook no computador**. Se um utilizador envia uma mensagem utilizando o Outlook para Mac ou o Outlook na web, não se lembrá-lo.
+- Como administrador, você pode **recuperar mensagens em nome dos usuários usando o PowerShell**. Não é possível recuperar mensagens do centro de administração.
+- Você **só pode recuperar mensagens que são enviadas para pessoas em sua organização**. Se a mensagem foi enviada para um endereço do Gmail, por exemplo, você não pode se lembrar dele.
+- Você **só pode recuperar mensagens enviadas do Outlook 2016 no PC**. Se um usuário envia uma mensagem usando o Outlook para Mac ou Outlook na Web, você não pode se lembrar dele.
 
-Para resgatar ou substituir uma mensagem de correio electrónico:
+Para recordar ou substituir uma mensagem de e-mail:
 
-1. No painel de pastas do lado esquerdo da janela do Outlook, seleccione a pasta Itens enviados.
-1. Faça duplo clique sobre a mensagem que pretende recuperar para o abrir.
-1. Seleccione o separador de **mensagem** e, em seguida, seleccione **Acções** > **Resgatar a mensagem**.
-1. Seleccione **Eliminar cópias não lidas desta mensagem** ou **elimine cópias não lidas e substitua por uma nova mensagem**e, em seguida, seleccione **' OK '**.
-1. Se estiver a enviar uma mensagem de substituição, compor a mensagem e, em seguida, seleccione **Enviar**.
-1. O êxito ou falha do resgate de mensagens depende de definições do destinatário do Outlook. Para obter passos verificar a recuperação, consulte [Este artigo](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+1. No painel de pastas à esquerda da janela do Outlook, selecione a pasta Itens enviados.
+1. Clique duas vezes na mensagem que você deseja recuperar para abri-la.
+1. Selecione a guia **mensagem** e, em seguida, selecione **ações** > para**recuperar esta mensagem**.
+1. Selecione **Excluir cópias não lidas desta mensagem** ou **Excluir cópias não lidas e substitua por uma nova mensagem**e, em seguida, selecione **OK**.
+1. Se você estiver enviando uma mensagem de substituição, componha a mensagem e, em seguida, selecione **Enviar**.
+1. O êxito ou falha de uma recordação de mensagem depende das definições do destinatário no Outlook. Para obter as etapas para verificar o recall, consulte [Este artigo](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-Procure e elimine mensagens de correio electrónico na organização
+Pesquisar e excluir mensagens de email em sua organização
 
-- Se não for um administrador global, a conta deve ser adicionada à função de Gestor de detecção de dados electrónicos ou a função de gestão de conformidade Procurar para procurar mensagens. Para eliminar mensagens, terá de associar o grupo de funções de gestão da organização ou a função de gestão de procura e remover. Permissões para estas funções são atribuídas no [Centro de segurança e conformidade](https://go.microsoft.com/fwlink/?linkid=2083731).
-- [Criar um conteúdo de procura](https://docs.microsoft.com/office365/securitycompliance/content-search) para localizar a mensagem para eliminar.
-- [Ligar a segurança e conformidade Centro PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
+- Se você não for um administrador global, sua conta deverá ser adicionada à função de Gerenciador de eDiscovery ou à função de gerenciamento de pesquisa de conformidade para procurar mensagens. Para excluir mensagens, você precisará ingressar no grupo de funções Gerenciamento da organização ou na função de gerenciamento de pesquisa e remoção. As permissões para essas funções são atribuídas no [centro de conformidade e segurança](https://go.microsoft.com/fwlink/?linkid=2083731).
+- [Crie uma pesquisa de conteúdo](https://docs.microsoft.com/office365/securitycompliance/content-search) para localizar a mensagem a ser excluída.
+- [Conecte-se ao PowerShell do centro de conformidade e segurança](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
-Se estiver a utilizar autenticação multi-factores, consulte [ligar para a segurança do Office 365 e conformidade Centro PowerShell utilizando autenticação multi-factores](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
+Se você estiver usando a autenticação multifator, consulte [conectar-se ao PowerShell do centro de conformidade e segurança do Office 365 usando a autenticação multifator](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

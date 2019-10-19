@@ -1,5 +1,5 @@
 ---
-title: Soluções para questões relacionadas com a instalação do office num servidor de terminais
+title: Soluções para problemas ao redor da instalação do Office em um servidor de terminal
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,34 +10,34 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
 ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36501486"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Soluções para questões relacionadas com a instalação do office num servidor de terminais
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Soluções para problemas ao redor da instalação do Office em um servidor de terminal
 
-Para utilizar a activação do computador partilhado, tem de ter um plano do Office 365 que inclui ProPlus do Office 365.
+Para usar a ativação do computador compartilhado, você deve ter um plano do Office 365 que inclua o Office 365 ProPlus.
   
-- Certifique-se de que a activação do computador partilhado está activada para o Office 365 ProPlus
+- Verificar se a ativação do computador compartilhado está habilitada para o Office 365 ProPlus
     
-- Certifique-se de que a activação do Office 365 ProPlus bem sucedido
+- Verifique se a ativação do Office 365 ProPlus foi bem-sucedida
     
-- Reveja as mensagens de erro de activação do computador partilhado:
+- Revisar mensagens de erro para a ativação do computador compartilhado:
     
-  - "Produtos que encontrámos na sua conta não podem ser utilizados para activar o Office em cenários de computador partilhado"
+  - "Os produtos que encontramos na sua conta não podem ser usados para ativar o Office em cenários de computador compartilhado"
   
-Este erro significa que não tem um plano do Office 365 que inclui ProPlus do Office 365.
+Esse erro significa que você não tem um plano do Office 365 que inclua o Office 365 ProPlus.
     
   - "Produto não licenciado"
     
-  - Verifique se o utilizador está atribuído uma licença de Office 365 ProPlus.
+  - Verifique se o usuário recebe uma licença para o Office 365 ProPlus.
     
-  - Verifique que o utilizador inicia sessão com a respectiva conta de utilizador para o Office 365
+  - Verifique se o usuário entra com sua conta de usuário para o Office 365
     
-  - Verifique se existe conectividade entre o computador partilhado e a Internet.
+  - Verifique se há conectividade entre o computador compartilhado e a Internet.
     
-Para outras sugestões de resolução de problemas, consulte: [problemas de resolução de problemas com a activação do computador partilhado para ProPlus do Office 365](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+Para outras dicas de solução de problemas, consulte: [solucionar problemas com a ativação do computador compartilhado para o Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
   
 

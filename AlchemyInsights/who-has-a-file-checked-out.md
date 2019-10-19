@@ -1,5 +1,5 @@
 ---
-title: Quem tem um ficheiro com saída dada?
+title: Quem tem um arquivo check-out?
 ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
 ms.openlocfilehash: 56aa04f7866227c4b5a1e1828d3c10ea3746d00a
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36748335"
 ---
-# <a name="who-has-a-file-checked-out"></a>Quem tem um ficheiro com saída dada?
+# <a name="who-has-a-file-checked-out"></a>Quem tem um arquivo check-out?
 
-Para ver quem tem um ficheiro com saída dada no SharePoint, pode efectuar qualquer um dos seguintes passos:
+Para ver quem tem um arquivo com check-out no SharePoint, você pode fazer qualquer uma das seguintes etapas:
   
-1. Paire sobre **Dar saída** para ver uma sugestão que indica que tem o ficheiro com saída dada. 
+1. Passe o mouse sobre **check-out** para ver uma dica de ferramenta que informa quem tem o arquivo com check-out. 
     
-2. Adicione **A dada saída por** coluna para a vista predefinida da biblioteca. Desta forma, todos os utilizadores podem facilmente ver quem tem um documento com saída dada. 
+2. Adicione a coluna **check-out por** para o modo de exibição padrão da biblioteca. Desta forma, todos podem facilmente ver quem tem um documento check-out. 
     
-Para obter informações sobre como adicionar uma coluna dada saída por no SharePoint, consulte [criar uma coluna numa lista ou biblioteca](https://go.microsoft.com/fwlink/?linkid=2019591). 
+Para saber como adicionar uma coluna check-out por no SharePoint, consulte [criar uma coluna em uma lista ou biblioteca](https://go.microsoft.com/fwlink/?linkid=2019591). 
   
-Ver mais perguntas mais frequentes sobre a marca de verificação na ou dar saída, consulte [perguntas sobre a verificação de saída de verificação](https://go.microsoft.com/fwlink/?linkid=2018786).
+Veja mais perguntas freqüentes sobre check-in ou check-out, veja [as principais perguntas sobre check-out, check-in](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

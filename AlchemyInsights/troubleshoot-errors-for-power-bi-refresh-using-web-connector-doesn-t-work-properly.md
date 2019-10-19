@@ -1,5 +1,5 @@
 ---
-title: Actualizar utilizando Web connector não funciona correctamente
+title: Atualizar usando o conector da Web não funciona corretamente
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1316"
 - "2500002"
 ms.openlocfilehash: 6bee3c3d0d07f79823fe8683e0bfef33ae6dfdfc
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36748911"
 ---
-# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Actualizar utilizando Web connector não funciona correctamente
+# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Atualizar usando o conector da Web não funciona corretamente
 
-Se tiver um script de conexão da web que está a utilizar a função de [Web.Page](https://msdn.microsoft.com/library/mt260924.aspx) , e tiver actualizado o conjunto de dados ou relatório depois de 18 de Novembro de 2016, tem de utilizar um gateway para a actualização para funcionar correctamente.
+Se você tiver um script de conector da Web que está usando a função [Web. Page](https://msdn.microsoft.com/library/mt260924.aspx) , e você atualizou seu conjunto de dados ou relatório após 18 de novembro de 2016, você precisa usar um gateway para que a atualização funcione corretamente.
 
-Para mais informações:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
+Para obter mais informações:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
 ms.openlocfilehash: 5cc179539dfa99be699fdb17b1a21317e482d978
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753987"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>Migrar opções para o SharePoint Online
 
-Existem diferentes opções disponíveis para migrar conteúdo para SharePoint Online, dependendo do tamanho e a quantidade de ficheiros que necessários para mover.
+Há diferentes opções disponíveis para migrar conteúdo para o SharePoint Online, dependendo do tamanho e da quantidade de arquivos que você precisa mover.
   
-Para mais informações, consulte [Migrar para o SharePoint Online](https://go.microsoft.com/fwlink/?linkid-2022029)
+Para obter mais informações, consulte [migrar para o SharePoint Online](https://go.microsoft.com/fwlink/?linkid-2022029)
   
 

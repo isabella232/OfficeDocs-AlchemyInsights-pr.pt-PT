@@ -1,5 +1,5 @@
 ---
-title: 'OneDrive: Faltam ficheiros ou pastas'
+title: 'OneDrive: ficheiros ou pastas em falta'
 ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
@@ -8,14 +8,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
 ms.openlocfilehash: 5c38d323bd021ded8eccb3f12a46c9d04a3bcd13
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753339"
 ---
-# <a name="onedrive-troubleshoot-processing-changes"></a>OneDrive: Resolução de problemas 'Processamento de alterações'
+# <a name="onedrive-troubleshoot-processing-changes"></a>OneDrive: solucionar problemas de ' alterações de processamento '
 
-Se vir "Processamento de alterações" durante um período prolongado de tempo, pode ser porque tem um ficheiro aberto online, muitos ficheiros bloqueados numa fila ou sincronizar um ficheiro muito grande, consulte [OneDrive colada no processamento](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd).
+Se você vir "Processando alterações" por um longo período de tempo, pode ser porque você tem um arquivo on-line aberto, muitos arquivos presos em uma fila ou uma sincronização de arquivo muito grande, consulte [onedrive bloqueado no processamento](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd).
 
-Leia este artigo para resolver problemas de "Processamento de alterações." Também verá esta mensagem se tiver um ficheiro que altera todo o tempo (como o Outlook. Ficheiro PST ou uma base de dados). Obter informações sobre como [mover os ficheiros de dados do Outlook](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) que está a utilizar regularmente do OneDrive.
+Leia este artigo para solucionar problemas de "processamento de alterações". Você também verá esta mensagem se você tiver um arquivo que muda o tempo todo (como um Outlook. Arquivo PST ou um banco de dados). Saiba como [mover os arquivos de dados do Outlook](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) que você está usando regularmente fora do onedrive.

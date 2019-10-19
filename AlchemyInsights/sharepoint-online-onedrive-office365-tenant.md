@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online ou OneDrive 'Configurar'
+title: SharePoint Online ou OneDrive ' Configurando '
 ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
@@ -7,18 +7,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: f461759a8f9a1f98ea7c5937a9d79e8bc4ebbbda
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.custom:
+- "1161"
+- "5200019"
+ms.openlocfilehash: f451b0ce99dece9e61285de0826e951793c7708f
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36750459"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36818869"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online ou OneDrive "Configurar"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online ou OneDrive "Configurando"
 
-Quando um utilizador é adicionado a um locatário existente do Office 365, eles poderão ver o SharePoint Online ou OneDrive para ícones de negócio listados como "Configurar" até o processo de aprovisionamento foi concluído.
+Quando um usuário é adicionado a um locatário existente do Office 365, eles podem ver os ícones do SharePoint Online ou OneDrive for Business listados como "Configurando" até que o processo de provisionamento tenha sido concluído.
 
-Se tiverem passado mais de 24 horas desde que a visualizou pela primeira vez a este problema, inicie a sessão de um incidente de suporte.
+Se mais de 24 horas se passaram desde que você viu este problema pela primeira vez, registre um caso de suporte.
 
-Compreendemos que 24 horas pode parecer muito tempo. Em muitos casos, a Microsoft já estiver a trabalhar numa solução. Forneça pelo menos 24 horas para concluir uma solução.
+Entendemos que 24 horas podem parecer um longo tempo. Em muitos casos, já estamos trabalhando em uma solução. Por favor, dê-nos pelo menos 24 horas para completar uma solução.
 

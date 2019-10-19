@@ -8,27 +8,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
 ms.openlocfilehash: 5bff8e0d8b0869ea975772d944c3885a3a4cbad5
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36751395"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>Migrar opções para o SharePoint Online
 
-Existem diferentes opções disponíveis para migrar conteúdo para SharePoint Online, dependendo do tamanho e a quantidade de ficheiros que necessários para mover, consulte uma lista de opções, [onde se encontra](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
+Existem diferentes opções disponíveis para migrar conteúdo para o SharePoint Online, dependendo do tamanho e quantidade de arquivos que você precisa mover, consulte uma lista de opções [localizadas aqui](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
-Para mais informações sobre migração de conteúdo, visite as hiperligações abaixo.
+Para obter mais informações sobre a migração de conteúdo, visite os links abaixo.
 
 - [Ferramenta de migração do SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 
-- [Velocidade de migração de dados ODB e do SharePoint Online](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [Velocidade de migração do SharePoint Online e ODB](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
-- [Migração de dados e limitação de serviços SPO](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/).
+- [Migração de dados e limitação do serviço SPO](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/).
 
 
-- [Evitar obter limitada ou bloqueado no SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [Evite ser estrangulado ou bloqueado no SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
 - [Ferramenta de avaliação de migração do SharePoint (SMAT)](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
 
-**Nota**: actualmente a ferramenta de migração do SharePoint só suporta migrações do SharePoint 2010 e 2013. Versão de 2016 ou 2019 não são suportados neste momento.
+**Observação**: atualmente, a ferramenta de migração do SharePoint só oferece suporte a migrações do SharePoint 2010 e 2013. Versão 2016 ou 2019 não são suportadas neste momento.

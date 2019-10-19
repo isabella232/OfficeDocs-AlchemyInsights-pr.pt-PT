@@ -1,5 +1,5 @@
 ---
-title: Nome a apresentar 959 alteração
+title: 959 alterar nome de exibição
 ms.author: pdigia
 author: pebaum
 ms.date: 7/17/2018
@@ -12,24 +12,24 @@ ms.custom:
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
 ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36736732"
 ---
-# <a name="change-your-display-name"></a>Alterar o nome a apresentar
+# <a name="change-your-display-name"></a>Alterar o nome de exibição
   
-Para alterar o nome a apresentar no Outlook, utilize os seguintes passos.
+Para alterar o nome de exibição no Outlook, use as seguintes etapas.
   
-1. No Outlook, seleccione o **ficheiro** \> **Definições da conta de** \> **As definições da conta**.
+1. No Outlook, **selecione configurações de**conta de **configurações** \> de conta de **arquivo** \> .
 
-2. Seleccione a conta de correio electrónico e, em seguida, seleccione a **alteração**.
+2. Selecione a conta de e-mail e, em seguida, selecione **alterar**.
 
     > [!NOTE]
-    > Se não vir a opção para alterar o nome a apresentar, está provavelmente a utilizar uma conta de correio electrónico do Microsoft Exchange. Neste caso, é necessário contactar o administrador para alterar o nome a apresentar. Consulte [alterar um nome de utilizador e a mensagem de correio electrónico endereço no Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
+    > Se não vir a opção para alterar o nome a apresentar, provavelmente está a utilizar uma conta de correio electrónico do Microsoft Exchange. Nesse caso, você precisa entrar em contato com o administrador para alterar o nome de exibição. Consulte [alterar um nome de usuário e endereço de email no Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
-3. Depois de ter alterado o nome a apresentar, clique em **OK** para guardar as alterações. Pode demorar algumas horas para as alterações reflectem toda a organização.
+3. Depois de alterar o nome a apresentar, clique em **OK** para guardar as alterações. Pode demorar algumas horas para que as alterações reflitam em toda a organização.
 
-Para mais informações, consulte [alterar o nome a apresentar que os destinatários de correio electrónico vêem](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
+Para obter mais informações, consulte [alterar o nome de exibição que os destinatários de email veem](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
   

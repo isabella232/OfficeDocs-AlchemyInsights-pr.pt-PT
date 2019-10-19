@@ -1,5 +1,5 @@
 ---
-title: Restringir SharePoint Online para o modo clássico
+title: Restringir o SharePoint Online ao modo clássico
 ms.author: pebaum
 author: Techwriter40
 ms.date: 3/27/2018
@@ -13,25 +13,25 @@ ms.custom:
 - "1889"
 - "9000225"
 ms.openlocfilehash: 18d263593d99f24c3020336ae601df14dbbf5411
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36752079"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a>Restringir SharePoint Online para o modo clássico
+# <a name="restrict-sharepoint-online-to-classic-mode"></a>Restringir o SharePoint Online ao modo clássico
 
-Algumas organizações necessitam da experiência de modo clássico. Enquanto não existem planos para remover de modo clássico a um nível granular, já não é possível restringir toda uma organização (tenant) para o modo clássico para listas e bibliotecas.
+Algumas organizações ainda exigem a experiência de modo clássico. Embora não haja planos para remover o modo clássico em um nível granular, não é mais possível restringir uma organização inteira (locatário) para o modo clássico para listas e bibliotecas.
 
-O administrador terá as seguintes opções para gerir listas e bibliotecas na utilizando parâmetros de cancelamento granulares que fornecemos aos seguintes níveis de modo clássico individuais:
+O administrador terá as seguintes opções para gerenciar listas e bibliotecas individuais no modo clássico usando switches de desativação granular que fornecemos nos seguintes níveis:
 
-- colecção de sites
-- site
-- lista
-- biblioteca
+- coleção de sites
+- Site
+- Lista
+- Biblioteca
 
-Além disso, listas utilizam determinadas funcionalidades e personalizações que não são suportadas pelo moderno serão ainda ser mudadas automaticamente para o modo clássico.
+Além disso, as listas que usam determinados recursos e personalizações que não são suportadas pelo moderno ainda serão automaticamente alternadas para o modo clássico.
 
-Início de Abril de 1 de Maio de 2019, o processo para desactivar o nível de Tenants activamente por não lista moderna e bibliotecas inicia e continue a 31 de Maio de 2019.  As listas e bibliotecas que se encontram no modo clássico na sequência de Tenants opt-out serão automaticamente transferidas para modernas.
+A partir de 1 de abril de 2019, o processo para desativar o nível de inquilino opt out da lista moderna e bibliotecas irá iniciar e continuar até 31 de maio de 2019.  As listas e bibliotecas que estão no modo clássico como resultado da desativação do locatário serão automaticamente deslocadas para o moderno.
 
-Se necessitar de modo clássico mais informações, consulte [aqui](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) e instruções de PnP Powershell [aqui](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) que descreve as opções e ferramentas que pode utilizar hoje para utilizarem a experiência de modo clássico.
+Se você precisar de modo clássico, consulte mais informações [aqui](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) e instruções do PowerShell PNP [aqui](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) que descreve as opções e ferramentas que você pode usar hoje para usar a experiência de modo clássico.

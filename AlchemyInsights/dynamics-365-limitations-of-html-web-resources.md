@@ -1,5 +1,5 @@
 ---
-title: Esquema XML do formulário Dynamics 365
+title: Esquema XML do formulário do Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,16 +10,16 @@ ms.custom:
 - "1473"
 - "6200020"
 ms.openlocfilehash: d3b8dd968b3b4a5f774336b529718bc20870f955
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528526"
 ---
-# <a name="webpage-html-web-resources-limitations"></a>Limitações de recursos web de página Web (HTML)
+# <a name="webpage-html-web-resources-limitations"></a>Limitações de recursos da Web da página (HTML)
 
-* Um recurso web HTML não pode conter qualquer código que tem de ser executado no servidor. Não não possível carregar páginas ASP.NET como recursos web HTML.
+* Um recurso da Web HTML não pode conter qualquer código que deve ser executado no servidor. As páginas ASP.NET não podem ser carregadas como recursos da Web HTML.
 
-* Recursos da web HTML só podem aceitar um número limitado de parâmetros de cadeia de consulta. Mais informações: [passar parâmetros para os recursos web HTML](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* Os recursos da Web em HTML só podem aceitar um número limitado de parâmetros de cadeia de consulta. Mais informações: [passar parâmetros para recursos da Web HTML](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
-[Recursos web de página Web (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[Recursos da Web da página (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

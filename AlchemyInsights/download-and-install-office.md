@@ -1,5 +1,5 @@
 ---
-title: Transferir e instalar o Office
+title: Baixe e instale o Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c040c5d7-ff1c-4a29-91e7-a6ad7c3b410b
 ms.openlocfilehash: 0cf7d60fb0e2d5a64b8df07dbb07060de3e111a9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529498"
 ---
-# <a name="download-and-install-office"></a>Transferir e instalar o Office
+# <a name="download-and-install-office"></a>Baixe e instale o Office
 
-A subscrição **Essencial dos negócios** não inclui as aplicações do Office. Para obter o Office, terá de actualizar para a subscrição de **negócio** ou de **Prémio de negócio** . Veja as subscrições disponíveis com o Office aqui: [Planos de negócio do Office 365](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+Sua assinatura do **Business Essentials** não inclui os aplicativos do Office. Para obter o Office, você precisará atualizar para a assinatura **Business** ou **Business Premium** . Confira as assinaturas disponíveis com o Office aqui: [office 365 planos de negócios](https://products.office.com/compare-all-microsoft-office-products?tab=2)
   
 

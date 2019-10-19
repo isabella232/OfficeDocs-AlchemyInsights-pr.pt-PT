@@ -1,5 +1,5 @@
 ---
-title: S/MIME do Outlook na web
+title: S/MIME no Outlook na Web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
 ms.openlocfilehash: 3702311f55af63ba461bb680fe3eb57e63c5d9ef
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36741304"
 ---
-# <a name="encrypt-messages-using-smime"></a><span data-ttu-id="58c43-102">Encriptar mensagens utilizando S/MIME</span><span class="sxs-lookup"><span data-stu-id="58c43-102">Encrypt messages using S/MIME</span></span>
+# <a name="encrypt-messages-using-smime"></a><span data-ttu-id="cfbe0-102">Criptografar mensagens usando S/MIME</span><span class="sxs-lookup"><span data-stu-id="cfbe0-102">Encrypt messages using S/MIME</span></span>
 
-<span data-ttu-id="58c43-103">Utilize S/MIME do Outlook na web para aumentar a segurança das suas mensagens.</span><span class="sxs-lookup"><span data-stu-id="58c43-103">Use S/MIME in Outlook on the web to increase the security of your messages.</span></span> <span data-ttu-id="58c43-104">Só pode ser aberta uma mensagem codificada digitalmente pelos destinatários que possuam a chave correcta.</span><span class="sxs-lookup"><span data-stu-id="58c43-104">A digitally encrypted message can only be opened by recipients who have the correct key.</span></span> <span data-ttu-id="58c43-105">Uma assinatura digital garante aos destinatários que a mensagem ainda não foi adulterada.</span><span class="sxs-lookup"><span data-stu-id="58c43-105">A digital signature assures recipients that the message hasn’t been tampered with.</span></span>
+<span data-ttu-id="cfbe0-103">Use S/MIME no Outlook na Web para aumentar a segurança de suas mensagens.</span><span class="sxs-lookup"><span data-stu-id="cfbe0-103">Use S/MIME in Outlook on the web to increase the security of your messages.</span></span> <span data-ttu-id="cfbe0-104">Uma mensagem criptografada digitalmente só pode ser aberta por destinatários que têm a chave correta.</span><span class="sxs-lookup"><span data-stu-id="cfbe0-104">A digitally encrypted message can only be opened by recipients who have the correct key.</span></span> <span data-ttu-id="cfbe0-105">Uma assinatura digital assegura aos destinatários que a mensagem não foi adulterada.</span><span class="sxs-lookup"><span data-stu-id="cfbe0-105">A digital signature assures recipients that the message hasn’t been tampered with.</span></span>
 
-<span data-ttu-id="58c43-106">**Nota:** A extensão de S/MIME deve ser instalada pelo administrador.</span><span class="sxs-lookup"><span data-stu-id="58c43-106">**Note:** The S/MIME extension must be installed by your administrator.</span></span>
+<span data-ttu-id="cfbe0-106">**Nota:** A extensão S/MIME deve ser instalada pelo administrador.</span><span class="sxs-lookup"><span data-stu-id="cfbe0-106">**Note:** The S/MIME extension must be installed by your administrator.</span></span>
 
-<span data-ttu-id="58c43-107">Para alterar as definições de S/MIME do Outlook na web:</span><span class="sxs-lookup"><span data-stu-id="58c43-107">To change your S/MIME settings in Outlook on the web:</span></span>
+<span data-ttu-id="cfbe0-107">Para alterar as configurações de S/MIME no Outlook na Web:</span><span class="sxs-lookup"><span data-stu-id="cfbe0-107">To change your S/MIME settings in Outlook on the web:</span></span>
 
-1. <span data-ttu-id="58c43-108">Ir para</span><span class="sxs-lookup"><span data-stu-id="58c43-108">Go to</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- <span data-ttu-id="58c43-109">**Definições de** > **Ver todas as definições do Outlook**.</span><span class="sxs-lookup"><span data-stu-id="58c43-109">**Settings** > **View all Outlook settings**.</span></span>
-2. <span data-ttu-id="58c43-110">Seleccione a **série** > **S/MIME**.</span><span class="sxs-lookup"><span data-stu-id="58c43-110">Select **Mail** > **S/MIME**.</span></span>
+1. <span data-ttu-id="cfbe0-108">Ir para</span><span class="sxs-lookup"><span data-stu-id="cfbe0-108">Go to</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="cfbe0-109">**Configurações** > **Exibir todas as configurações do Outlook**.</span><span class="sxs-lookup"><span data-stu-id="cfbe0-109">**Settings** > **View all Outlook settings**.</span></span>
+2. <span data-ttu-id="cfbe0-110">Selecione **mail** > **S/MIME**.</span><span class="sxs-lookup"><span data-stu-id="cfbe0-110">Select **Mail** > **S/MIME**.</span></span>
 
-<span data-ttu-id="58c43-111">Ler [mensagens de encriptar utilizando S/MIME do Outlook na web](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480?wt.mc_id=Office_Outlook_com_Alchemy) para obter mais informações.</span><span class="sxs-lookup"><span data-stu-id="58c43-111">Read [Encrypt messages by using S/MIME in Outlook on the web](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480?wt.mc_id=Office_Outlook_com_Alchemy) for more information.</span></span>
+<span data-ttu-id="cfbe0-111">Leia [criptografar mensagens usando S/MIME no Outlook na Web](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480?wt.mc_id=Office_Outlook_com_Alchemy) para obter mais informações.</span><span class="sxs-lookup"><span data-stu-id="cfbe0-111">Read [Encrypt messages by using S/MIME in Outlook on the web](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480?wt.mc_id=Office_Outlook_com_Alchemy) for more information.</span></span>

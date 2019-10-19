@@ -1,5 +1,5 @@
 ---
-title: Eliminar itens no SharePoint
+title: Excluir itens no SharePoint
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: af5691d7-a55f-4ece-90c8-d6aaece66b1c
 ms.openlocfilehash: 91f5d3647e6fe4be75f3ce15526d195d61f969c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36513655"
 ---
-# <a name="delete-items-in-sharepoint"></a><span data-ttu-id="45263-102">Eliminar itens no SharePoint</span><span class="sxs-lookup"><span data-stu-id="45263-102">Delete items in SharePoint</span></span>
+# <a name="delete-items-in-sharepoint"></a><span data-ttu-id="232aa-102">Excluir itens no SharePoint</span><span class="sxs-lookup"><span data-stu-id="232aa-102">Delete items in SharePoint</span></span>
 
-[<span data-ttu-id="45263-103">Eliminar uma lista</span><span class="sxs-lookup"><span data-stu-id="45263-103">Delete a list</span></span>](https://go.microsoft.com/fwlink/?linkid=869393)
+[<span data-ttu-id="232aa-103">Excluir uma lista</span><span class="sxs-lookup"><span data-stu-id="232aa-103">Delete a list</span></span>](https://go.microsoft.com/fwlink/?linkid=869393)
   
-[<span data-ttu-id="45263-104">Eliminar uma biblioteca de documentos</span><span class="sxs-lookup"><span data-stu-id="45263-104">Delete a document library</span></span>](https://go.microsoft.com/fwlink/?linkid=869392)
+[<span data-ttu-id="232aa-104">Excluir uma biblioteca de documentos</span><span class="sxs-lookup"><span data-stu-id="232aa-104">Delete a document library</span></span>](https://go.microsoft.com/fwlink/?linkid=869392)
   
-[<span data-ttu-id="45263-105">Eliminar itens de uma lista</span><span class="sxs-lookup"><span data-stu-id="45263-105">Delete items from a list</span></span>](https://go.microsoft.com/fwlink/?linkid=869397)
+[<span data-ttu-id="232aa-105">Excluir itens de uma lista</span><span class="sxs-lookup"><span data-stu-id="232aa-105">Delete items from a list</span></span>](https://go.microsoft.com/fwlink/?linkid=869397)
   
-[<span data-ttu-id="45263-106">Eliminar itens de uma biblioteca de documentos</span><span class="sxs-lookup"><span data-stu-id="45263-106">Delete items from a document library</span></span>](https://go.microsoft.com/fwlink/?linkid=869399)
+[<span data-ttu-id="232aa-106">Excluir itens de uma biblioteca de documentos</span><span class="sxs-lookup"><span data-stu-id="232aa-106">Delete items from a document library</span></span>](https://go.microsoft.com/fwlink/?linkid=869399)
   
-[<span data-ttu-id="45263-107">Eliminar uma coluna numa página</span><span class="sxs-lookup"><span data-stu-id="45263-107">Delete a column on a page</span></span>](https://go.microsoft.com/fwlink/?linkid=869394)
+[<span data-ttu-id="232aa-107">Excluir uma coluna em uma página</span><span class="sxs-lookup"><span data-stu-id="232aa-107">Delete a column on a page</span></span>](https://go.microsoft.com/fwlink/?linkid=869394)
   
-[<span data-ttu-id="45263-108">Eliminar uma coluna numa lista ou biblioteca</span><span class="sxs-lookup"><span data-stu-id="45263-108">Delete a column in a list or library</span></span>](https://go.microsoft.com/fwlink/?linkid=869396)
+[<span data-ttu-id="232aa-108">Excluir uma coluna em uma lista ou biblioteca</span><span class="sxs-lookup"><span data-stu-id="232aa-108">Delete a column in a list or library</span></span>](https://go.microsoft.com/fwlink/?linkid=869396)
   
 

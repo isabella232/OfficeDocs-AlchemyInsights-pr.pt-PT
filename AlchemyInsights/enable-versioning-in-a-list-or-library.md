@@ -1,5 +1,5 @@
 ---
-title: Activar controlo de versões de uma lista ou biblioteca
+title: Habilitar o versionamento em uma lista ou biblioteca
 ms.author: toresing
 author: tomresing
 ms.date: 6/21/2018
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.openlocfilehash: d1ef45ccc997c983715637f7da7b301cdd52e3d9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527446"
 ---
-# <a name="enable-versioning-for-a-list-or-library"></a><span data-ttu-id="5e3ea-102">Activar controlo de versões para uma lista ou biblioteca</span><span class="sxs-lookup"><span data-stu-id="5e3ea-102">Enable versioning for a list or library</span></span>
+# <a name="enable-versioning-for-a-list-or-library"></a><span data-ttu-id="e9402-102">Habilitar o controle de versão para uma lista ou biblioteca</span><span class="sxs-lookup"><span data-stu-id="e9402-102">Enable versioning for a list or library</span></span>
 
-1. <span data-ttu-id="5e3ea-103">Vá para a lista ou biblioteca.</span><span class="sxs-lookup"><span data-stu-id="5e3ea-103">Go to the list or library.</span></span>
+1. <span data-ttu-id="e9402-103">Vá para a lista ou biblioteca.</span><span class="sxs-lookup"><span data-stu-id="e9402-103">Go to the list or library.</span></span>
     
-2. <span data-ttu-id="5e3ea-104">Clique em **Definições**e, em seguida, clique em **definições da biblioteca** ou **lista**.</span><span class="sxs-lookup"><span data-stu-id="5e3ea-104">Click **Settings**, and then click **Library settings** or **List settings**.</span></span>
+2. <span data-ttu-id="e9402-104">Clique em **configurações**e, em seguida, clique em configurações de **biblioteca** ou **configurações de lista**.</span><span class="sxs-lookup"><span data-stu-id="e9402-104">Click **Settings**, and then click **Library settings** or **List settings**.</span></span>
     
-3. <span data-ttu-id="5e3ea-105">Clique em **definições de controlo de versões**.</span><span class="sxs-lookup"><span data-stu-id="5e3ea-105">Click **Versioning settings**.</span></span>
+3. <span data-ttu-id="e9402-105">Clique em **configurações de versionamento**.</span><span class="sxs-lookup"><span data-stu-id="e9402-105">Click **Versioning settings**.</span></span>
     
-4. <span data-ttu-id="5e3ea-106">Seleccione as definições pretendidas e, em seguida, clique em **OK**.</span><span class="sxs-lookup"><span data-stu-id="5e3ea-106">Select the settings you want, and then click **OK**.</span></span>
+4. <span data-ttu-id="e9402-106">Seleccione as definições pretendidas e, em seguida, clique em **OK**.</span><span class="sxs-lookup"><span data-stu-id="e9402-106">Select the settings you want, and then click **OK**.</span></span>
     
 

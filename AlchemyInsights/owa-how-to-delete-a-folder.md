@@ -1,5 +1,5 @@
 ---
-title: '8000016: como eliminar uma pasta'
+title: '8000016: como excluir uma pasta'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "2004"
 ms.assetid: ''
 ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36556540"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Como eliminar uma pasta do Outlook na web
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Como excluir uma pasta no Outlook na Web
 
-1. No painel de pastas, faça duplo clique na pasta ou subpasta que pretende eliminar.
-2. Seleccione **Eliminar pasta**.
-3. Seleccione **OK** para confirmar.
+1. No painel de pastas, clique com o botão direito do mouse na pasta ou subpasta que deseja excluir.
+2. Selecione **Excluir pasta**.
+3. Selecione **OK** para confirmar.
 
-Para obter mais informações, consulte [trabalhar com pastas de mensagens do Outlook na web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Para saber mais, consulte [trabalhando com pastas de mensagens no Outlook na Web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
 

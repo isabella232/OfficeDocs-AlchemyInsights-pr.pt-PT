@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
 ms.openlocfilehash: c9a874c1b2a5d6c7d5e22aeb23b50d61b88c9da3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36516214"
 ---
-# <a name="microsoft-flow"></a>Microsoft fluxo
+# <a name="microsoft-flow"></a>Fluxo da Microsoft
 
-Microsoft Flow ajuda a automatizar tarefas comuns. Utilizado para configurar a fluxos de trabalho para listas e bibliotecas. Para obter informações sobre como adicionar um fluxo para uma lista ou biblioteca no SharePoint Online ou OneDrive, consulte [criar um fluxo](https://go.microsoft.com/fwlink/?linkid=869408).
+O Microsoft Flow ajuda a automatizar tarefas comuns. Use-o para configurar fluxos de trabalho para listas e bibliotecas. Para saber como adicionar um fluxo a uma lista ou biblioteca no SharePoint Online ou no OneDrive, consulte [criar um fluxo](https://go.microsoft.com/fwlink/?linkid=869408).
   
-[Vídeos sobre o fluxo da Microsoft](https://go.microsoft.com/fwlink/?linkid=864641)
+[Vídeos sobre o Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864641)
   
-[Web site do Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864642)
+[Site do Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864642)
   
 

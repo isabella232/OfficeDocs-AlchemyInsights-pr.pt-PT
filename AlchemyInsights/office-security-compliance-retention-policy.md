@@ -1,5 +1,5 @@
 ---
-title: Obter mais informações sobre políticas de retenção
+title: Mais informações sobre políticas de retenção
 ms.author: stephow
 author: stephow-msft
 manager: laurawi
@@ -14,42 +14,42 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753771"
 ---
-# <a name="more-info-about-retention-policies"></a>Obter mais informações sobre políticas de retenção
+# <a name="more-info-about-retention-policies"></a>Mais informações sobre políticas de retenção
 
-Para a maior parte das organizações, o volume e a complexidade dos seus dados está a aumentar diariamente - mensagem de correio electrónico, documentos, mensagens instantâneas e muito mais. Gerir eficazmente ou que regem a esta informação é importante e uma política de retenção pode ajudá-lo a alcançar estes objectivos. Para mais informações sobre políticas de retenção, visite estas hiperligações:
+Para a maioria das organizações, o volume e a complexidade de seus dados estão aumentando diariamente-email, documentos, mensagens instantâneas e muito mais. Gerenciar ou governar efetivamente essas informações é importante e uma política de retenção pode ajudá-lo a atingir esses objetivos. Para obter mais informações sobre políticas de retenção, visite estes links:
 
-## <a name="a-from-security-and-compliance-center"></a>A) partir do Centro de conformidade e segurança
+## <a name="a-from-security-and-compliance-center"></a>A) do centro de conformidade e segurança
 
-- Ir para a segurança e conformidade > dados governação > retenção
-  - Consulte [Este](https://docs.microsoft.com/office365/securitycompliance/retention-policies) artigo
+- Ir para segurança e conformidade > governança de dados > retenção
+  - Consulte [este](https://docs.microsoft.com/office365/securitycompliance/retention-policies) artigo
 
-- Ir para a segurança e conformidade > eDiscovery> avançadas detecção de dados electrónicos 
-  - Consulte [Este](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) artigo
+- Ir para segurança e conformidade > eDiscovery> eDiscovery avançado 
+  - Consulte [este](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) artigo
 
-- Ir para a segurança e retenção de > de classificações de > de conformidade
-  - Consulte os artigos
-    - [Rótulos de confidencialidade](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [Descrição geral de etiquetas](https://docs.microsoft.com/office365/securitycompliance/labels)
+- Ir para segurança e conformidade > classificações > retenção
+  - Veja estes artigos
+    - [Rótulos de sensibilidade](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+    - [Visão geral de rótulos](https://docs.microsoft.com/office365/securitycompliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a>B) políticas de detecção de dados electrónicos de legacy
+## <a name="b-legacy-ediscovery-policies"></a>B) políticas de eDiscovery herdadas
 
-- Consulte [Este](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) artigo
+- Consulte [este](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) artigo
 
-## <a name="c-site-closure-and-deletion-policies"></a>C) políticas de fecho e eliminação de site
+## <a name="c-site-closure-and-deletion-policies"></a>C) políticas de encerramento e exclusão de sites
 
-- Consulte [Este](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) artigo  
+- Consulte [este](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) artigo  
 
-## <a name="d-information-rights-management-irm"></a>D) informações de direitos de gestão (IRM)
+## <a name="d-information-rights-management-irm"></a>D) gerenciamento de direitos de informação (IRM)
 
-- Consulte os artigos
-  - [IRM numa biblioteca/lista](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [Descrição geral do IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+- Veja estes artigos
+  - [IRM em uma lista/biblioteca](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [Visão geral do IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> Recomendamos vivamente a mover para a segurança e conformidade políticas se ainda estiver a utilizar políticas IRM ou encerramento do Site e eliminação ou de detecção de Legacy dados electrónicos.
+> É altamente recomendável mover para diretivas de segurança e conformidade se você ainda estiver usando a descoberta eletrônica herdada ou IRM ou encerramento do site e políticas de exclusão.

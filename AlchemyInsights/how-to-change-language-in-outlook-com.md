@@ -1,5 +1,5 @@
 ---
-title: Como alterar o idioma na Outlook.com
+title: Como alterar o idioma em Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,18 +14,18 @@ ms.custom:
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
 ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36541677"
 ---
-# <a name="change-your-language"></a>Alterar o idioma
+# <a name="change-your-language"></a>Mude o seu idioma
 
-1. Para alterar o idioma no Outlook, vá para definições de [**idioma e a hora**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Definições** \> **Ver todas as definições do Outlook** > **Geral** > **idioma e a hora**).
+1. Para Chang o idioma no Outlook, vá para configurações de [**idioma e hora**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**configurações** \> **Exibir todas as configurações** > do Outlook idioma**geral** > **e hora**).
 
-2. Seleccione o idioma.
+2. Escolha o seu idioma.
 
 3. Selecione **Guardar**.
 
-Para obter mais informações, consulte [alterar o fuso horário e as definições de idioma no Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
+Para saber mais, consulte [alterar as configurações de fuso horário e idioma em Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).

@@ -1,5 +1,5 @@
 ---
-title: Infra-estrutura de publicação com um Site de comunicação
+title: Infraestrutura de publicação com um site de comunicação
 ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms.openlocfilehash: 1d5eca87678ad0588c3dcd7edbf499e13baf09d9
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36750096"
 ---
-# <a name="sharepoint-publishing-infrastructure"></a>Infra-estrutura de publicação do SharePoint
+# <a name="sharepoint-publishing-infrastructure"></a>Infraestrutura de publicação do SharePoint
 
 
-O SharePoint inclui um conjunto de funcionalidades que permitem-lhe criar e publicar páginas Web completas para a intranet clássico. Active a infra-estrutura de publicação de SharePoint ao nível da colecção de sites para activá-los.
+O SharePoint inclui um conjunto clássico de recursos que permitem que você crie e publique páginas da Web ricas para sua intranet. Ative a infraestrutura de publicação do SharePoint no nível do conjunto de sites para ativá-las.
 
-Para obter mais informações, visite as hiperligações abaixo.
+Para mais informações, por favor visite os links abaixo.
 
-[Activar funcionalidades de publicação](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518)
+[Habilitar recursos de publicação](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518)
 
-[Funcionalidades de publicação](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
+[Recursos de publicação](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
 
 Notas:
 
-- Os modelos de site de publicação classic incluem as funcionalidades de publicação por predefinição.
+- Os modelos de site de publicação clássicos incluem os recursos de publicação por padrão.
 
-- Funcionalidades de publicação clássicas não estão disponíveis em sites modernas. Modernos sites fornecem uma alternativa mais recente por predefinição.
+- Os recursos de publicação clássicos não estão disponíveis em sites modernos. Os sites modernos fornecem uma alternativa mais recente por padrão.
 

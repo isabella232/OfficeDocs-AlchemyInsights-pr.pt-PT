@@ -1,5 +1,5 @@
 ---
-title: Alterar a imagem de perfil do Outlook na web
+title: Alterar a sua imagem de perfil no Outlook na Web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 01ebbe085c0f8585171be8ff71fbf5c09eddc8a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557224"
 ---
-# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Alterar a imagem de perfil do Outlook na web
+# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Alterar a sua imagem de perfil no Outlook na Web
 
-1. Na parte superior da página, seleccione a imagem de perfil ou de nome.
-1. No painel de **minha conta** , seleccione a imagem de perfil.
-1. Na caixa de diálogo **alterar sua fotografia** , seleccione **carregar uma nova fotografia**.
-1. Escolha uma fotografia para carregar e seleccionar a **Aplicar**.
+1. Na parte superior da página, selecione seu nome ou foto do perfil.
+1. No painel **minha conta** , selecione sua foto de perfil.
+1. Na caixa de diálogo **alterar sua foto** , selecione **carregar uma nova foto**.
+1. Escolha uma foto para carregar e selecione **aplicar**.
 
-*Nota:* A nova fotografia aparecerá da próxima vez que iniciar sessão no Office 365.
+*Nota:* Sua nova foto aparecerá na próxima vez que você entrar no Office 365.
 
-Para mais informações, consulte [alterar as informações de conta e de fotografias no Outlook na web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Para obter mais informações, consulte [alterar suas informações de foto e conta no Outlook na Web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).

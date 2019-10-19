@@ -12,26 +12,26 @@ ms.custom:
 - "1819"
 - "9000236"
 ms.openlocfilehash: a7eed96ea74b037adaa39bbe2d91936d65fe54c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538211"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a>Adicionar outras contas de correio electrónico para Outlook.com
+# <a name="add-your-other-email-accounts-to-outlookcom"></a>Adicione suas outras contas de e-mail para Outlook.com
 
-Quando adicionar outras contas de correio electrónico para Outlook.com, pode utilizar Outlook.com para enviar e ler mensagens de correio electrónico a partir dessas contas sem sair do Outlook.com. Cada conta que é adicionar a Outlook.com é designado por uma conta conectada.
+Ao adicionar outras contas de email ao Outlook.com, você pode usar o Outlook.com para enviar e ler mensagens de email dessas contas sem sair do Outlook.com. Cada conta que você adiciona ao Outlook.com é chamada de conta conectada.
 
-Nota: Sincronizar com a conta ligada à sua conta Outlook.com é apenas unidireccional. Mensagem de correio electrónico enviada a partir de sua conta ligada utilizando Outlook.com não aparecerá nos itens enviados conta conectada.
+Nota: a sincronização da sua conta conectada com a sua conta Outlook.com é apenas unidirecional. O email enviado de sua conta conectada usando Outlook.com não aparecerá na sua conta conectada itens enviados.
 
 Para adicionar uma conta conectada:
 
-1. Abra as [definições de correio electrónico de sincronização](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Em **contas de ligado**, seleccione **Gmail** ou a **outras contas de correio electrónico**.
-3. Ao ligar a página conta, introduza um nome a apresentar (os destinatários de nome irão ver quando recebem uma mensagem de correio electrónico do utilizador) e o endereço de correio electrónico completo e palavra-passe da conta de correio electrónico que pretende ligar à conta de Outlook.com.
+1. Abra [as configurações de e-mail de sincronização](https://go.microsoft.com/fwlink/?linkid=875264).
+2. Em **contas conectadas**, selecione **gmail** ou **outras contas de e-mail**.
+3. Na página conectar sua conta, insira um nome para exibição (os destinatários do nome irão ver quando receberem uma mensagem de e-mail de você) e o endereço de e-mail completo e a senha da conta de e-mail que você deseja conectar à sua conta do Outlook.com.
 
-Pode enviar correio electrónico a partir de qualquer conta que tenha ligado à sua conta de Outlook.com. Ao compor uma mensagem de correio electrónico, **Seleccione** e escolha qual o endereço de correio electrónico que pretende utilizar ou [actualizar a predefinição do endereço](https://go.microsoft.com/fwlink/?linkid=875264).
+Pode enviar correio eletrónico a partir de qualquer conta que tenha ligado à sua conta Outlook.com. Ao compor um e-mail, selecione **de** e escolha o endereço de e-mail que deseja usar ou [atualize seu endereço padrão](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Para mais informações, leia [Adicionar as outras contas de correio electrónico para Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Para obter mais informações, leia [adicionar suas outras contas de e-mail para Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Se pretender criar um novo endereço de correio electrónico que utiliza a mesma conta de Outlook.com, leia [Adicionar ou remover um alias de correio electrónico](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
+Se pretender criar um novo endereço de correio eletrónico que utilize a mesma conta Outlook.com, leia [Adicionar ou remover um alias de e-mail](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).

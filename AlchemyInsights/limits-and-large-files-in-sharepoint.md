@@ -1,5 +1,5 @@
 ---
-title: Limites e ficheiros de grandes dimensões no SharePoint
+title: Limites e arquivos grandes no SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 20ab2b7effa92a6b3765f6469de2966cbd84e1be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497598"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Ficheiros que não não possível carregar para o SharePoint Online
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Arquivos que não podem ser carregados no SharePoint Online
 
-Se não carregar um ficheiro para o SharePoint Online, certifique-se:
+Se um arquivo não carregar para o SharePoint Online, certifique-se de:
   
-- É inferior a 15 GB de tamanho.
+- Tem menos de 15 GB de tamanho.
     
-- O caminho completo, incluindo o nome do ficheiro é inferior a 400 caracteres.
+- O caminho inteiro, incluindo o nome do arquivo, é menor que 400 caracteres.
     
-- O nome de ficheiro não contém os caracteres " \* : \< \> ? / \ | e não constar da lista de [nomes inválidos](https://go.microsoft.com/fwlink/?linkid=866430).
+- O nome do arquivo não contém os caracteres \* " \< \> :? / \ | e não está na lista de [nomes inválidos](https://go.microsoft.com/fwlink/?linkid=866430).
     
-Se estiver a tentar carregar o ficheiro utilizando a aplicação de ambiente de trabalho de OneDrive, consulte [restrições e limitações quando sincroniza ficheiros e pastas](http://go.microsoft.com/fwlink/p/?LinkID=717734) ou [OneDrive corrigir problemas de sincronização](https://go.microsoft.com/fwlink/?linkid=866431).
+Se você estiver tentando carregar o arquivo usando o aplicativo de área de trabalho do OneDrive, consulte [restrições e limitações ao sincronizar arquivos e pastas](http://go.microsoft.com/fwlink/p/?LinkID=717734) ou [corrigir problemas de sincronização do onedrive](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

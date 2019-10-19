@@ -1,5 +1,5 @@
 ---
-title: Instalação deixa de responder ou obtém bloqueada
+title: A instalação trava ou fica presa
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -13,27 +13,27 @@ ms.custom:
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
 ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36735436"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a>Instalação do Office deixa de responder ou obtém bloqueada
+# <a name="office-installation-hangs-or-gets-stuck"></a>A instalação do Office trava ou fica presa
 
-Poderá ver este comportamento devido a conectividade de rede, o software antivírus ou definições do Windows Update no computador. Eis algumas coisas que pode tentar corrigir o problema.
+Você pode ver esse comportamento devido a conectividade de rede, software antivírus ou configurações do Windows Update em seu computador. Aqui estão algumas coisas que você pode tentar corrigir o problema.
   
-- Reinicie o computador e verificar se o Office instalado
+- Reinicie o computador e verifique se o Office instalado
 
 - Utilizar uma ligação com fios
 
-- Se tiver uma ligação lenta à internet, instalar o Office [utilizando o programa de instalação offline do Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
+- Se você estiver em uma conexão de Internet lenta, instale [o Office usando o instalador offline do Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- Desactivar temporariamente o software antivírus
+- Desativar temporariamente o software antivírus
 
-- Executar reparação online a partir do painel de controlo
+- Executar o reparo on-line no painel de controle
 
 - Remover e reinstalar o Office
 
-[Office está a demorar tempo a instalar](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[O Office está demorando para instalar](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   

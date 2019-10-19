@@ -1,5 +1,5 @@
 ---
-title: 9000199 ficheiros PST na Outlook.com
+title: 9000199 arquivos PST em Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,14 +14,14 @@ ms.custom:
 - "1771"
 - "9000199"
 ms.openlocfilehash: 6b4b5bdf5921153c99c4d1eb109ea0579c08eb37
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36535618"
 ---
-# <a name="pst-data-files-in-outlookcom"></a>Ficheiros de dados do ficheiro PST na Outlook.com
+# <a name="pst-data-files-in-outlookcom"></a>PST arquivos de dados em Outlook.com
 
-Não é possível importar do Outlook. Ficheiro de dados do ficheiro PST para a conta de Outlook.com, utilizando um browser.
+Não é possível importar um Outlook. PST arquivo de dados para sua conta Outlook.com usando um navegador.
 
-Para importar um. Ficheiro de dados do ficheiro PST, tem de utilizar a aplicação de ambiente de trabalho do Outlook. Para obter mais informações, leia [Importar mensagem de correio electrónico, contactos e calendário de um. pst Outlook.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
+Para importar um. Arquivo de dados PST, você deve usar o aplicativo de desktop do Outlook. Para saber mais, leia [importar email, contatos e calendário de um Outlook. pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)

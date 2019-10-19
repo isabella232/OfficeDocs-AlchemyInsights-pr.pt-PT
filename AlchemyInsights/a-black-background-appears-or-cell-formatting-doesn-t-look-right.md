@@ -1,5 +1,5 @@
 ---
-title: Aparece um fundo preto ou formatação de células não tem o aspecto
+title: Um fundo preto aparece, ou A formatação da célula não parece certa
 ms.author: dludwig
 author: dludwig
 manager: jecon
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
 ms.openlocfilehash: 879e482ed3cd80f2918e3cc56f2ba555bccc6f45
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36495978"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Aparece um fundo preto ou formatação de células não tem o aspecto
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Um fundo preto aparece, ou A formatação da célula não parece certa
 
-No Excel de 2016, poderá ver um fundo preto inesperado ou, poderá ver a formatação de célula não aparece correctamente. Isto pode ocorrer depois de adicionar um cabeçalho ou rodapé na vista de esquema de página e aplicar um preenchimento de padrão a uma célula. Este problema foi corrigido na versão 1708 (compilação 8431.2094). Para corrigir este problema, actualize para a versão mais recente do Office. Seleccione o **ficheiro** \> **conta** \> **actualizar as opções da** \> **Actualizar agora**.
+No Excel 2016, você pode ver um plano de fundo preto inesperado, ou você pode ver a formatação de célula que não aparece corretamente. Isso pode acontecer depois de adicionar um cabeçalho ou rodapé no modo de exibição de layout de página e aplicar um preenchimento de padrão a uma célula. Este problema foi corrigido na versão 1708 (compilação 8431,2094). Para corrigir isso, atualize para a versão mais recente do Office. Selecione **** \> **** \> atualizar opções \> de **atualização** de conta de arquivo **agora**.
   
 

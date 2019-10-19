@@ -12,19 +12,19 @@ ms.custom:
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
 ms.openlocfilehash: 33c6f6c5906cd9a2a8f3a5a6e66e13fdaba392f2
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36747651"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>Alterar o nome de domínio no SharePoint Online
 
-Infelizmente, não é possível alterar o nome de domínio Online do SharePoint para a sua organização no Office 365. Por exemplo, se o nome da organização muda de "Contoso" para "Fourth Coffee", não é possível alterar a contoso.sharepoint.com para fourthcoffee.sharepoint.com.
+Infelizmente, não é possível alterar o nome de domínio do SharePoint Online para sua organização no Office 365. Por exemplo, se o nome da sua organização for alterado de "contoso" para "quarto café", você não poderá alterar contoso.sharepoint.com para fourthcoffee.sharepoint.com.
   
-Para utilizar o fourthcoffee.sharepoint.com de nome de domínio, terá de adquirir uma nova subscrição do Office 365 e mover todas as mensagem de correio electrónico, ficheiros e quaisquer outros dados que pretende manter para a nova subscrição.
+Para usar o nome de domínio fourthcoffee.sharepoint.com, você precisaria comprar uma nova assinatura do Office 365 e mover todos os emails, arquivos e quaisquer outros dados que você deseja manter para a nova assinatura.
   
- **Nota**: por exemplo, para alterar o nome de um site da https://contoso.sharepoint.com/sites/sample1 para https://contoso.sharepoint.com/sites/sample2, criar um novo site e, em seguida, mova todo o conteúdo do site antigo para o novo.
+ **Observação**: por exemplo, para alterar o nome de um site de https://contoso.sharepoint.com/sites/sample1 para https://contoso.sharepoint.com/sites/sample2, criar um novo site e, em seguida, mova todo o conteúdo do site antigo para o novo.
   
 Para obter informações sobre como mover itens em bibliotecas de documentos, consulte [mover ou copiar itens de uma biblioteca de documentos do SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).
   

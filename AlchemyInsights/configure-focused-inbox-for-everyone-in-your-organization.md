@@ -1,5 +1,5 @@
 ---
-title: 912 configurar Focused ' a receber ' para todos os utilizadores na organização
+title: 912 configurar a caixa de entrada focada para todos na sua organização
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
 ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36738424"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Activar direccionadas para a pasta a receber ou desactivar para todos os utilizadores
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Ativar ou desativar a caixa de entrada focada para todos
 
-Para obter instruções, consulte [Configurar direccionadas para a pasta a receber para todos os utilizadores na organização](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).
+Para obter instruções, consulte [Configurar a caixa de entrada focada para todos na sua organização](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).
 
-**Nota**: este procedimento requer o Exchange Online PowerShell. Deseja fazer isto no Centro de administração de Microsoft 365? [Vote aqui!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+**Observação**: este procedimento requer o PowerShell do Exchange Online. Você gostaria de fazer isso no centro de administração do Microsoft 365 em vez disso? [Vote aqui!](https://go.microsoft.com/fwlink/p/?linkid=862489)

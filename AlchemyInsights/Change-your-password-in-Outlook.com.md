@@ -1,5 +1,5 @@
 ---
-title: Alterar a palavra-passe
+title: Alterar a sua palavra-passe
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0bd18328-35e4-4e4a-94c3-48430e8e2e77
 ms.openlocfilehash: 9abc97379dc153956e8cf3ce59ddb046623b85d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36496427"
 ---
-# <a name="change-your-password-in-outlook"></a>Alterar a palavra-passe no Outlook
+# <a name="change-your-password-in-outlook"></a>Alterar sua senha no Outlook
 
-Se se esqueceu da palavra-passe, vá para a [página de reposição de palavra-passe de conta de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909). Caso contrário, siga as instruções abaixo.
+Se você esqueceu sua senha, vá para a [página de redefinição de senha da conta da Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909). Caso contrário, siga as instruções abaixo.
   
-1. Seleccione a imagem de perfil ou nome no canto superior direito e seleccione a **conta de vista**.
-2. Em Olá! faixa, seleccione **Alterar palavra-passe**.
-3. Escolha uma palavra-passe nova e seleccione **Guardar**.
+1. Selecione seu nome ou foto de perfil no canto superior direito e selecione **Exibir conta**.
+2. o Olá! Banner, selecione **alterar senha**.
+3. Escolha uma nova senha e selecione **salvar**.
 
-Para obter mais informações, consulte [alterar minha palavra-passe no Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).
+Para saber mais, consulte [alterar minha senha em Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).

@@ -1,5 +1,5 @@
 ---
-title: As restrições e limites do site de concentrador
+title: Limites e restrições de site de Hub
 ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
@@ -8,19 +8,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
 ms.openlocfilehash: fa44561d2e49944d4f9de5995499a961faa2b07b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754707"
 ---
-# <a name="sharepoint-hub-site-limits-and-restrictions"></a>As restrições e limites de site do SharePoint concentrador
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a>Limites e restrições de site de Hub do SharePoint
 
-- Recomenda-se para seleccionar um site de comunicações ou um site de equipa que utiliza o novo modelo Moderno. Se utilizar um site de equipa clássico, a navegação de concentrador irão aparecer apenas páginas modernas e definições do site concentrador só serão apresentado nas páginas modernas.
+- É recomendável selecionar um site de comunicação ou um site de equipe que usa o novo modelo moderno. Se você usar um site de equipe clássico, a navegação do Hub aparecerá somente em páginas modernas, e as configurações do site de Hub só aparecerão em páginas modernas.
 
-- Sites que já estão associados a outro concentrador **não pode** ser convertido para um site concentrador.
+- Os sites que já estão associados a outro hub **não podem** ser convertidos em um site de Hub.
 
-- Pode criar sites de concentrador até 100 para a sua organização. Não existe limite quanto ao número de sites que podem ser associados um site concentrador.
+- Você pode criar até 100 sites de Hub para sua organização. Não há limite para o número de sites que podem ser associados a um site de Hub.
 
-- Quando os utilizadores associam os sites com um site concentrador, este não afecta as permissões do site concentrador ou os sites associados. É importante para se certificar de que todos os utilizadores a que permitir para associar sites a que o concentrador tem permissão para o concentrador.
+- Quando os usuários associam seus sites a um site de Hub, ele não afeta as permissões do site do Hub ou dos sites associados. É importante certificar-se de que todos os usuários que você permite associar sites ao Hub tenham permissão para o Hub.
 

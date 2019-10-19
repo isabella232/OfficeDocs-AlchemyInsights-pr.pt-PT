@@ -12,26 +12,26 @@ ms.custom:
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
 ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36734716"
 ---
 # <a name="network-migration"></a>Migração de rede
 
-O inquilino O365 está, possivelmente, associado a várias redes Yammer um 1 inquilino: configuração de redes muitos. Iniciar de 16 de Outubro de 2018, Yammer deixará de suportar várias redes do Yammer associados a um inquilino do Office 365. Pode efectuar uma migração de rede para obter uma configuração de 1:1 preferida.
+Seu locatário do O365 possivelmente está associado a várias redes do yammer em um locatário 1: configuração de muitas redes. A partir de 16 de outubro de 2018, o Yammer deixará de suportar várias redes do Yammer associadas a um inquilino do Office 365. Você pode executar uma migração de rede para obter uma configuração 1:1 preferida.
   
-- Para ver uma lista de redes associadas com o locatário, inicie sessão no Yammer como um Administrador Global do Office 365 e navegue para a **Administração de rede**, em seguida, a **Migração de rede**. Selecione **Seguinte**.
+- Para exibir uma lista das redes associadas ao seu locatário, faça logon no Yammer como um administrador global do Office 365 e navegue até **administrador de rede**e, em seguida, **migração de rede**. Selecione **Seguinte**.
 
-- Se vir várias redes listadas no passo 2 de 3, tiver várias redes de Yammer associados com o locatário O365.
+- Se você vir várias redes listadas na etapa 2 de 3, você tem várias redes do Yammer associadas ao seu locatário do O365.
 
-- Para corrigir a configuração para uma configuração de 1:1, continue a utilizar a ferramenta de migração de rede.
+- Para corrigir a configuração em uma configuração 1:1, continue usando a ferramenta de migração de rede.
 
-- Para mais informações sobre migração de rede, consulte [migração de rede: consolidar várias redes Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+- Para obter mais informações sobre migração de rede, consulte [migração de rede: consolidar várias redes do Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
-Tenha em atenção:
+Por favor, note:
   
-- **Uma migração de rede migra apenas activa e os utilizadores pendentes.** Juntamente com os utilizadores activos, as informações dos utilizadores, por exemplo, nome e o perfil de imagem, também são migradas. Qualquer conteúdo de rede, incluindo os grupos, não é migrado.
+- **Uma migração de rede migra somente os usuários ativos e pendentes.** Junto com os usuários ativos, as informações dos usuários, como o nome e a imagem do perfil, também são migradas. Qualquer conteúdo de rede, incluindo grupos, não é migrado.
 
-- **Migração de rede não pode ser revertida.** Não poderá aceder à rede da filial e o respectivo conteúdo após a migração. Por isso antes de considerar a migração, que pretende planear cuidadosamente.
+- **A migração de rede não pode ser revertida.** Você não conseguirá acessar sua rede subsidiária e seu conteúdo após a migração. Então, antes de considerar uma migração, você quer planejar com cuidado.

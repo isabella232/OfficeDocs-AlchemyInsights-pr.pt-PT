@@ -1,5 +1,5 @@
 ---
-title: Grupo de empresa todas as de gerir do Yammer
+title: Yammer gerenciar todos os grupo de empresa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1019"
 - "6000003"
 ms.openlocfilehash: 30b258de51ff0140520cf05ca09e6b0a8b872f22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558052"
 ---
-# <a name="all-company-group"></a>Todos os grupo de empresa
+# <a name="all-company-group"></a>Todos os grupos da empresa
 
-O grupo **Todos empresa** é criado automaticamente quando cria uma rede do Yammer. É um grupo de sistema predefinido que não pode ser alterado ou eliminado. Todos podem colocar o grupo **Todos empresa** , mas os administradores de rede do Yammer só podem colocar anúncios ao grupo. Utilize **Informações de grupo**para visualizar informações sobre o compromisso no grupo **Todos empresa** .
+O grupo de **todas as empresas** é criado automaticamente quando você cria uma rede Yammer. É um grupo de sistema padrão que não pode ser renomeado ou excluído. Todos podem postar no grupo de **todas as empresas** , mas somente os administradores de rede do Yammer podem postar anúncios para o grupo. Use o **Group insights**para exibir informações sobre o engajamento no grupo **todas as empresas** .
 
-Para mais informações, consulte [Gerir um grupo no Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).
+Para obter mais informações, consulte [gerenciar um grupo no Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).

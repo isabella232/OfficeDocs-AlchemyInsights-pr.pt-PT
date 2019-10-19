@@ -1,5 +1,5 @@
 ---
-title: Descrição geral de sites do SharePoint concentrador
+title: Visão geral de sites de Hub do SharePoint
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,27 +7,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
-ms.openlocfilehash: ee8c20bff9bf22f8b3eeacf085bce4a7f2d1b0e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.custom:
+- "1591"
+- "5300012"
+ms.openlocfilehash: 189eef97019776b52c8f4f12aaaa303f79704a7a
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503574"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36818905"
 ---
-# <a name="sharepoint-hub-sites-overview"></a>Descrição geral de sites do SharePoint concentrador
+# <a name="sharepoint-hub-sites-overview"></a>Visão geral de sites de Hub do SharePoint
 
-Ajuda de sites SharePoint concentrador que satisfazer as necessidades da organização ligando e organizar sites com base no projecto, departamento, divisão, região, etc., tornando mais fácil:
+Os sites de Hub do SharePoint ajudam você a atender às necessidades de sua organização conectando e organizando sites com base no projeto, departamento, divisão, região, etc. facilitando a:
 
-- Detecte conteúdo relacionado, tais como notícias e outras actividades de site.
+- Descubra conteúdo relacionado, como notícias e outras atividades do site.
 
-- Aplica navegação comuns e imagem corporativa através de sites associados. 
+- Aplique navegação e branding comuns em sites associados. 
 
-- Procurar em todos os sites conexas.
+- Pesquise em todos os sites associados.
 
-Consulte o seguinte para obter mais informações sobre sites de concentrador:
-- [Criar um site concentrador no SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): Aprenda a criar um site concentrador de centro de administração de novo ou PowerShell.
+Consulte o seguinte para obter mais informações sobre sites de Hub:
+- [Criar um site de Hub no SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): saiba como criar um site de Hub a partir do novo centro de administração ou do PowerShell.
 
-- [Associar um site do SharePoint com um site concentrador](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): Obtenha informações sobre a associação a sites existentes a um site concentrador do novo Centro de administração ou PowerShell.
+- [Associe um site do SharePoint](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05)a um site de Hub: saiba como associar sites existentes a um site de Hub do novo centro de administração ou do PowerShell.
 
-- [Remover um site concentrador](https://docs.microsoft.com/sharepoint/remove-hub-site): Obtenha informações sobre como remover um site concentrador de existente no Centro de administração de novo ou PowerShell.
+- [Remover um site de Hub](https://docs.microsoft.com/sharepoint/remove-hub-site): saiba como remover um site de Hub existente no novo centro de administração ou no PowerShell.
 

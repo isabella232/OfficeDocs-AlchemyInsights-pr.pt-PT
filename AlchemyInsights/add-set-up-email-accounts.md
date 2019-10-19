@@ -1,5 +1,5 @@
 ---
-title: 1800018 adicionar/configurar contas de correio electrónico
+title: 1800018 adicionar/configurar contas de e-mail
 ms.author: pdigia
 author: pebaum
 manager: scotv
@@ -14,15 +14,15 @@ ms.custom:
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
 ms.openlocfilehash: 67420eb543762a42a93c7f727ea5bb5345e00bc8
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36737992"
 ---
-# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>Problemas ao configurar uma conta de correio electrónico do Exchange no Outlook
+# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>Problemas ao configurar uma conta de email do Exchange no Outlook
 
-Se estiver a ter problemas ao configurar uma conta do Exchange no Outlook, pode executar a [ferramenta de configuração de conta do Outlook](https://aka.ms/SaRA-OutlookSetupProfile) no computador afectado. Este irá efectuar várias verificações e fornecer soluções possíveis para o problema de configuração de conta.
+Se você estiver tendo problemas para configurar uma conta do Exchange no Outlook, poderá executar a [ferramenta de configuração da conta do Outlook](https://aka.ms/SaRA-OutlookSetupProfile) na máquina afetada. Ele executará várias verificações e fornecerá possíveis soluções para o problema de configuração da conta.
   
-Se continuar a ter problemas, consulte [que o Outlook não é possível configurar um novo perfil utilizando detecção automática do Exchange para uma caixa de correio Exchange Online no Office 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).
+Se você ainda estiver tendo problemas, consulte [o Outlook não pode configurar um novo perfil usando a descoberta automática do Exchange para uma caixa de correio do Exchange Online no Office 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).
   

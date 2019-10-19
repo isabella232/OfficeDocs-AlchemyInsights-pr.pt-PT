@@ -14,19 +14,19 @@ ms.custom:
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
 ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36737093"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Quais são as funções de administração e como pode atribuí-los?
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>O que são funções de administrador e como atribuí-las?
 
-Parece que tenha algumas questões sobre as funções de administração. Estes artigos deverão responder às suas perguntas.
+Parece que você tem algumas perguntas sobre funções de administrador. Estes artigos devem responder a todas as suas perguntas.
   
-- [Acerca de funções de administração](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
+- [Acerca de funções de administrador](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
 
-- [Atribuir funções de administração](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
+- [Atribuir funções de administrador](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
 
-Não respondeu à pergunta? Não há problema! Utilize a opção "diga-nos chamada" falar com um engenheiro de suporte.
+Não respondeu à sua pergunta? Não há problema! Use a opção "Vamos chamá-lo" para falar com um engenheiro de suporte.
   

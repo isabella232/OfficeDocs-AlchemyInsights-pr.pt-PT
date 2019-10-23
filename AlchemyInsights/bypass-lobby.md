@@ -11,16 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: de665ca6defcd0d00d227435473e5a4ccf61bc82
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
+ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376777"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637788"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Controle as configurações do lobby e nível de participação
 
-Essas configurações controlam quais participantes da reunião esperam no lobby antes de serem admitidos na reunião e o nível de participação que são permitidos em uma reunião. Você pode usar o PowerShell para atualizar as configurações de diretiva de reunião que ainda não foram implementadas (rotuladas como "em breve") no centro de administração de equipes.  Veja abaixo um exemplo de cmdlet do PowerShell que permite que todos os usuários ignorem o lobby.  
+Se você quiser permitir que todos, incluindo usuários dial-in, externos e anônimos ignorem o lobby, você pode usar o PowerShell para fazê-lo. Veja um exemplo de como modificar a política de reunião global para sua organização:
+
+`Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
+
+Atualmente, esse cmdlet requer o uso do módulo do PowerShell do Skype for Business. Para obter a configuração para usar esse cmdlet, confira Gerenciando diretivas por meio do PowerShell.
+
+Você pode configurar uma nova política, que precisará aplicá-la aos usuários. Se você modificar a política global, ela será automaticamente aplicada aos usuários. Para qualquer alteração de política, você precisa aguardar pelo menos 4 horas e até 24 horas para que as diretivas tenham efeito.
+
+Certifique-se de rever a documentação abaixo antes de fazer essas alterações para entender exatamente o que isso permite.
+
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Noções básicas sobre equipes reunião controles de diretiva de lobby
 
 - [Admitir automaticamente](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) que as pessoas são uma política por organizador que controla se as pessoas ingressem diretamente em uma reunião ou aguardem no lobby até que sejam admitidas por um usuário autenticado.
 
@@ -30,15 +40,4 @@ Essas configurações controlam quais participantes da reunião esperam no lobby
 
 - [Permitir que os organizadores substituam as configurações do lobby](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**em breve**) é uma política por organizador que controla se o organizador da reunião pode substituir as configurações do lobby que um administrador definir em **admitir automaticamente as pessoas** e **permitir discagem usuários para ignorar o lobby** quando eles agendar uma nova reunião.
 
-**Nota:** Leia [gerenciar diretivas de reunião em equipes](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) para obter uma visão geral completa das diretivas de reunião do Microsoft Teams. 
-
-
-**Exemplo do PowerShell**
-
-Se você quiser permitir que todos, incluindo usuários externos ou anônimos, ignorem o lobby, você também pode usar o PowerShell para realizar essa tarefa.  Veja um exemplo de como modificar a política de reunião global para sua organização.   
-
-(Certifique-se de rever a documentação acima antes de fazer essas alterações para entender exatamente o que isso permite.)
-
-Set-CsTeamsMeetingPolicy-Identity global-Autoadmitedusers "Everyone"-AllowPSTNUsersToBypassLobby $True
-
-Para obter mais informações, consulte [set-CsTeamsMeetingPolicy](https://docs.microsoft.com/powershell/module/skype/set-csteamsmeetingpolicy?view=skype-ps).
+**Nota:** Leia [gerenciar diretivas de reunião em equipes](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) para obter uma visão geral completa das diretivas de reunião do Microsoft Teams.

@@ -1,5 +1,5 @@
 ---
-title: Usando o planejador com o Microsoft Teams
+title: Usando o Planejador com as equipes da Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2653"
 - "9000727"
-ms.openlocfilehash: 0a66d2b39e77284edb8539c22121598183c9bce4
-ms.sourcegitcommit: 3a7c40c232294878ac0c91302e86599ec6f5209e
+ms.openlocfilehash: 04a0bcff06c9a52db4bc7ff55799a1cef8fd1eca
+ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37373274"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37681717"
 ---
-# <a name="using-planner-with-microsoft-teams"></a>Usando o planejador com o Microsoft Teams
+# <a name="using-planner-with-microsoft-teams"></a>Usando o Planejador com as equipes da Microsoft
 
-Organize suas tarefas adicionando uma ou mais guias do planejador a um canal do teams: 
+Organize suas tarefas adicionando uma ou mais guias planner a um canal de equipes: 
 
-- [Adicione uma guia planejador a um canal de equipe](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel). O usuário que adiciona a guia deve ser um membro da equipe, não apenas um proprietário. Você pode adicionar o usuário como um membro por meio da interface do Microsoft Teams.
-- [Adicione um plano existente ao Microsoft Teams](https:/techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463).
-- [Remova uma guia planejador ou exclua um plano](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan). Os planos excluídos não podem ser recuperados em equipes. Se um grupo for excluído já, você poderá [recuperar planos e grupos excluídos](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups).
-- [Habilitar ou desabilitar notificações de atribuição do planejador em equipes](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams).
+- [Adicione uma guia planner a um canal](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel)de equipe. O usuário que adiciona a guia deve ser um membro da equipe, não apenas um proprietário. Você pode adicionar o usuário como um membro através da interface Microsoft Teams.
+- [Adicione um plano existente às equipes da Microsoft.](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)
+- [Remover uma guia planner ou excluir um plano](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan). Planos excluídos não podem ser recuperados em equipes. Se um grupo já for excluído, você pode [recuperar planos e grupos excluídos.](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups)
+- [Ativar ou desativar as notificações de atribuição do Planejador em Equipes.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams)
 
-**Nota:** Para obter uma visão geral da integração do planejador com o Microsoft Teams, consulte [usar planejador no Microsoft Teams](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0).
+**Nota:** Para obter uma visão geral da integração do Planejador com o Microsoft Teams, consulte o Planejador de [Uso no Microsoft Teams.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)

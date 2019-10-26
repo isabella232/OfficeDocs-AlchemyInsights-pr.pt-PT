@@ -1,5 +1,5 @@
 ---
-title: 1800001 de criar ou editar um perfil
+title: 18000001 Criar ou eitar um perfil
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
 ms.openlocfilehash: 3effe20e8831571a34983a1f7a1addd8295551f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36515170"
 ---
-# <a name="create-or-edit-an-outlook-profile"></a>Criar ou editar um perfil do Outlook
+# <a name="create-or-edit-an-outlook-profile"></a>Criar ou eitar um perfil do Outlook
 
-Para criar um novo perfil do Outlook, editar um perfil ou mudar o nome de um perfil, utilize os seguintes passos.
+Para criar um novo perfil do Outlook, eitar um perfil ou mudar o nome de um perfil, use as seguintes etapas.
   
-1. No Outlook, seleccione o **ficheiro** \> **Definições da conta de** \> **Gerir perfis**.
+1. No Outlook, selecione **configurações** \> de conta de **arquivo** \> **gerenciam perfis.**
     
-2. Seleccione a caixa de diálogo **Configuração de correio** , **Mostrar perfis**.
+2. Do diálogo mail **configuração,** selecione **perfis show**.
     
 3. Execute um dos seguintes procedimentos:
     
-  - Para criar um novo perfil, seleccione **Adicionar**.
+  - Para criar um novo perfil, **selecione Adicionar**.
     
-  - Para editar ou mudar o nome de um perfil, seleccione **Propriedades**.
+  - Para eitar ou mudar o nome de um perfil, selecione **Propriedades.**
     
-Se estiver a ter problemas ao criar ou editar um perfil do Outlook, pode executar a [ferramenta de perfil do Outlook](https://aka.ms/SaRA-OutlookSetupProfile) no computador afectado. Efectuará algumas verificações e, quando estiver pronto irá criar um perfil do Outlook com o seu endereço de correio electrónico. 
+Se você está tendo problemas para criar ou editar um perfil do Outlook, você pode executar a ferramenta de [perfil do Outlook](https://aka.ms/SaRA-OutlookSetupProfile) na máquina afetada. Ele realizará algumas verificações e, quando estiver pronto, criará um perfil do Outlook com seu endereço de e-mail. 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Alterar a quantidade de licença do aplicativo
+title: Alterar a quantidade de licença de aplicativo
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,30 +13,30 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.openlocfilehash: 86a61336da218fb64876401741f4babe8958f64c
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36519778"
 ---
-# <a name="change-app-license-quantity"></a>Alterar a quantidade de licença do aplicativo
+# <a name="change-app-license-quantity"></a>Alterar a quantidade de licença de aplicativo
 
-Você pode exibir ou alterar o número de licenças que você tem e atribuí-las aos usuários no centro de administração do Microsoft 365. 
+Você pode visualizar ou alterar o número de licenças que você tem e atribuí-las aos usuários no centro de administração microsoft 365. 
 
-## <a name="to-change-license-quantity"></a>Para alterar a quantidade de licenças
+## <a name="to-change-license-quantity"></a>Para alterar a quantidade de licença
 
-1. Vá para a página produtos de **faturamento** > [& serviços](https://go.microsoft.com/fwlink/p/?linkid=842054) e, em seguida, escolha a guia **aplicativos** .
+1. Acesse a página de[serviços de & de produtos](https://go.microsoft.com/fwlink/p/?linkid=842054) de **faturamento** > e, em seguida, escolha a guia **Apps.**
 
-2. Localize e selecione o aplicativo que você deseja gerenciar.  
+2. Encontre e selecione o aplicativo que deseja gerenciar.  
 
-3. Selecione **Adicionar/remover licenças**.
+3. Selecione **licenças de adicionar/remover**.
 
-4. Insira o novo número de licenças necessárias. Por exemplo, se você tem atualmente 5 licenças e precisa somente 4, incorpore 4 na caixa **total das licenças** . Se você tem atualmente 5 licenças e precisa 10 licenças totais, incorpore 10 na caixa **total das licenças** .
+4. Insira o novo número de licenças necessárias. Por exemplo, se você tiver atualmente 5 licenças e precisar de apenas 4, digite 4 na caixa de **licenças total.** Se você tiver atualmente 5 licenças e precisar de 10 licenças totais, digite 10 na caixa de **licenças totais.**
 
-## <a name="to-assign-app-licenses"></a>Para atribuir licenças de aplicativo
+## <a name="to-assign-app-licenses"></a>Atribuir licenças de aplicativos
 
-1. Vá para a página produtos de **faturamento** > [& serviços](https://go.microsoft.com/fwlink/p/?linkid=842054) e, em seguida, escolha a guia **aplicativos** .
+1. Acesse a página de[serviços de & de produtos](https://go.microsoft.com/fwlink/p/?linkid=842054) de **faturamento** > e, em seguida, escolha a guia **Apps.**
 
-2. Localize e selecione o aplicativo que você deseja gerenciar.  
+2. Encontre e selecione o aplicativo que deseja gerenciar.  
 
-3. Em **configurações & ações**, selecione o link para **gerenciar no portal do editor**.
+3. Em **configurações & ações,** selecione o link para **gerenciar no portal da editora.**

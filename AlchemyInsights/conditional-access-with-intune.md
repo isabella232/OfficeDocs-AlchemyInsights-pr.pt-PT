@@ -1,5 +1,5 @@
 ---
-title: Acesso condicional com o Intune
+title: Acesso condicional com intune
 ms.author: pebaum
 author: pebaum
 ms.date: 10/11/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: e147e7460ee6a786e577a43c0b8355fc27ee367b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36505005"
 ---
-# <a name="conditional-access-with-intune"></a>Acesso condicional com o Intune
+# <a name="conditional-access-with-intune"></a>Acesso condicional com intune
 
-Usar o **acesso condicional** com o Intune requer 3 etapas: 
+O **uso do Acesso Condicional** com o Intune requer 3 etapas: 
   
-- Crie uma **política de acesso condicional** que defina quais recursos estão sendo protegidos e quais condições precisam ser atendidas para acessar esses recursos. Por exemplo, um dispositivo deve ser compatível antes de acessar o email corporativo. 
+- Crie uma Política de **Acesso Condicional** que defina quais recursos estão sendo protegidos e quais condições precisam ser atendidas para acessar esses recursos. Por exemplo, um dispositivo deve estar em conformidade antes de acessar o e-mail corporativo. 
     
-- Crie uma **política de conformidade** para definir as configurações que devem ser atendidas antes que o dispositivo seja considerado compatível. Por exemplo, um dispositivo deve ter um pino de pelo menos 6 dígitos antes de ser considerado compatível. 
+- Crie uma política de **conformidade** para definir configurações que devem ser atendidas antes que o dispositivo seja considerado compatível. Por exemplo, um dispositivo deve ter um pino de pelo menos 6 dígitos antes de ser considerado compatível. 
     
-- Garantir que as **diretivas de conformidade** e as diretivas de **acesso condicional** sejam direcionadas para os grupos de usuários desejados. Isso pode exigir a criação de grupos específicos de usuários no Azure Active Directory. 
+- Garantir que as **Políticas** de Conformidade e as **Políticas** de Acesso Condicional sejam direcionadas aos grupos de usuários desejados. Isso pode exigir a criação de grupos específicos de usuários no Diretório Ativo Do Azure. 
     
 Leia mais:
   
-- [Práticas recomendadas de acesso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [Melhores práticas de acesso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [Introdução ao acesso condicional](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [Começar com acesso condicional](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

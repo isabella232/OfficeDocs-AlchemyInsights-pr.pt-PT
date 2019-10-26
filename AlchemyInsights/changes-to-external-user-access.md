@@ -1,5 +1,5 @@
 ---
-title: Alterações no acesso de usuário externo
+title: Alterações no acesso externo ao usuário
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: abdb45fb-93b0-4df9-994d-b997fcfcaff5
 ms.openlocfilehash: a136938d3962c0b49a8711b5940ed650c0903c27
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36520822"
 ---
-# <a name="changes-to-external-user-access"></a>Alterações no acesso de usuário externo
+# <a name="changes-to-external-user-access"></a>Alterações no acesso externo ao usuário
 
-A partir de 23 de março de 2018, os usuários externos não poderão mais acessar o conteúdo que foi compartilhado com todos, todos os usuários autenticados ou todos os usuários de formulários, mesmo que tenham sido convidados ou adicionados a grupos autorizados. Os usuários externos só poderão acessar o conteúdo que foi compartilhado com o usuário ou com grupos aos quais o usuário pertence. Se você gostaria de manter suas configurações existentes, por favor, veja:https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
+A partir de 23 de março de 2018, os usuários externos não poderão mais acessar conteúdo compartilhado com todos, todos os usuários autenticados ou todos os usuários de formulários, mesmo que tenham sido convidados ou adicionados a grupos autorizados. Os usuários externos só poderão acessar o conteúdo que foi compartilhado com o usuário ou com grupos aos quais o usuário pertence. Se você gostaria de manter suas configurações existentes, consulte:https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
   
 

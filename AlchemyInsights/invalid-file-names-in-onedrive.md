@@ -1,5 +1,5 @@
 ---
-title: Nomes de arquivo inválido no OneDrive
+title: Nomes de arquivos inválidos no OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
 ms.openlocfilehash: 0cbf05f9c0121867aa3b24a10c7037d3a189ad22
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36498210"
 ---
-# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Nomes de arquivo e pasta inválidos no OneDrive e no SharePoint
+# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Nomes inválidos de arquivos e pastas no OneDrive e sharepoint
 
-Esses caracteres não são permitidos em nomes de arquivo e \* pasta \< \> ":? / \ | 
+Esses personagens não são permitidos em \* \< \> nomes de arquivo e pasta " : ? / \ | 
   
-Algumas organizações ainda não têm suporte para # e% ativada. Para saber como permitir esses caracteres em sua organização, consulte [Habilitando # e% support](https://go.microsoft.com/fwlink/?linkid=862611). 
+Algumas organizações ainda não têm apoio para # e % ligado. Para saber como permitir esses personagens em sua organização, [consulte habilitação # e % suporte](https://go.microsoft.com/fwlink/?linkid=862611). 
   
-[Mais informações sobre restrições de nome de ficheiro e pasta](https://go.microsoft.com/fwlink/?linkid=866430)
+[Mais informações sobre restrições de nome de arquivos e pastas](https://go.microsoft.com/fwlink/?linkid=866430)
   
 

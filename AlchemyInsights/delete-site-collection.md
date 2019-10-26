@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
 ms.openlocfilehash: bc91c02f4f7b09f8ec6c3288319afa6c6c3bc400
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36512830"
 ---
-# <a name="delete-a-sharepoint-site"></a>Excluir um site do SharePoint
+# <a name="delete-a-sharepoint-site"></a>Excluir um site sharepoint
 
-1. No novo centro de administração do SharePoint, na página sites, clique na caixa de seleção ao lado do site que você deseja excluir.
+1. No novo centro de administração do SharePoint, na página dos sites, clique na caixa de seleção ao lado do site que deseja excluir.
     
-2. Na barra de ferramentas da faixa de opções, clique em **excluir**.
+2. Na barra de ferramentas da fita, clique **em Excluir**.
     
 

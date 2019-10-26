@@ -1,5 +1,5 @@
 ---
-title: Grupo de distribuição ' {AimKIObject} ' não mostra na lista de grupos após {Aimkitimedecorrido} minutos
+title: Grupo de Distribuição '{AimKIObject}' não mostrando na lista de grupos após {AimKITimeElapsed} minutos
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
 ms.openlocfilehash: af6f3e2040ebf2966f7bf7c4ffe796fa31106ecf
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36530506"
 ---
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Grupo de distribuição "{AimKIObject}" não é exibido na lista de grupos após {Aimkitimedecorrido} minutos
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Grupo de Distribuição "{AimKIObject}" não mostrando na lista de grupos após {AimKITimeElapsed} minutos
 
-Seu grupo "{AimKIObject}" foi criado {Aimkitimedecorrido} minutos atrás. Normalmente, não é necessário mais de 60 minutos para que o novo grupo de distribuição apareça no centro de administração.
+Seu grupo "{AimKIObject}" foi criado {AimKITimeElapsed} minutos atrás. Normalmente não leva mais de 60 minutos para que seu novo grupo de distribuição apareça no centro de Administração.
   
-Talvez você possa usar o recurso de destinatários > grupos no [centro de administração do Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) para gerenciar seu grupo agora, ou use a opção "Vamos chamá-lo" para falar com um engenheiro de suporte. 
+Você pode usar o recurso destinatários > Grupos no [Centro de Administrador de Intercâmbio](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) para gerenciar seu grupo agora, ou usar a opção "Vamos chamá-lo" para conversar com um engenheiro de suporte. 
   
 

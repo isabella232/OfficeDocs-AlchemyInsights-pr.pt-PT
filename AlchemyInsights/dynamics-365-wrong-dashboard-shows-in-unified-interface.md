@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365-mostra de Dashboard errado no Dynamics 365 Unified interface
+title: Dinâmica 365 - Mostras de painel errado na interface unificada dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,34 +10,34 @@ ms.custom:
 - "1484"
 - "6200024"
 ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36528562"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>O painel incorreto mostra na interface unificada do Dynamics 365
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Painel errado mostra na interface unificada dynamics 365
 
-Há várias razões pelas quais você pode ver um painel diferente daquele que você espera:
+Há várias razões pelas quais você pode ver um painel diferente do que você espera:
 
 ## <a name="the-user-has-set-a-user-default-dashboard"></a>O usuário definiu um painel padrão do usuário 
 
-Normalmente, você pode identificar um painel padrão do usuário é definido se o botão **definir como padrão** não aparecer na barra de comandos do Dashboard. O painel padrão do usuário substituirá todos os outros painéis padrão, mesmo que o painel padrão do usuário não esteja no aplicativo atual.
+Normalmente, você pode identificar que um painel padrão do usuário é definido se o botão **Set As Default** não aparecer na barra de comando do painel. O painel padrão do usuário substituirá todos os outros painéis padrão, mesmo que o painel padrão do usuário não esteja no aplicativo atual.
 
-Use a seguinte solução alternativa para desdefinir seu painel padrão.
+Use a seguinte solução para desdefinir seu painel padrão.
 
-1. Crie um novo Dashboard pessoal.
+1. Crie um novo painel pessoal.
 
-2. Defina esse novo Dashboard como o padrão do usuário.
+2. Defina esse novo painel como o padrão do usuário.
 
 3. Exclua esse painel.
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>O Dashboard é definido no sitemap
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>O painel está definido no sitemap
 
-Você pode ter definido um painel padrão da organização selecionando um Dashboard e escolhendo ' definir como padrão ' em ' Personalizar o sistema '. Mas o Dashboard definido no designer do sitemap terá precedência sobre este Dashboard, se o usuário tiver acesso a ele.
+Você pode ter definido um painel padrão da organização selecionando um painel e escolhendo "Set As Default" em "Personalize o sistema". Mas o painel definido no designer do sitemap terá precedência sobre este painel, se o usuário tiver acesso a ele.
 
-Para que os usuários vejam o painel que você definiu como o padrão da organização, você pode:
+Para que os usuários vejam o painel que você definiu como padrão da organização, você também pode:
 
-* Definir esse Dashboard no sitemap
+* Defina esse painel no mapa do site
 
-* Remover o acesso ao Dashboard definido pelo sitemap para esses usuários
+* Remover o acesso ao painel definido pelo mapa do site para esses usuários

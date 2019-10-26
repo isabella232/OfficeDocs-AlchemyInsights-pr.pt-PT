@@ -1,5 +1,5 @@
 ---
-title: Alterar domínio para o grupo do Office 365
+title: Alterar o domínio para o grupo Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
 ms.openlocfilehash: d897efdfb03832179e46f04f5ae6a1986d60e86f
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36736840"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Alterar o domínio para o Office 365 grupo
+# <a name="change-the-domain-for-office-365-group"></a>Alterar o domínio do Grupo Office 365
 
-Se você quiser alterar o domínio de um grupo do Office 365 durante a criação, siga as etapas em [escolher o domínio a ser usado ao criar grupos do office 365](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
+Se você quiser alterar o domínio de um Grupo Office 365 durante a criação, siga as etapas em [Escolha o domínio para usar ao criar grupos do Office 365.](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups)
   
-Depois que o grupo do Office 365 já é criado, não há nenhuma maneira de alterar o domínio. A única maneira é criar um novo grupo do Office 365 e excluir o antigo, se necessário (endereços de email adicionais podem ser adicionados por meio do [centro de administração do Exchange](https://outlook.office365.com/ecp.aspx)).
+Depois que o Grupo Office 365 já for criado, atualmente não há como alterar o domínio. A única maneira é criar um novo Grupo Office 365 e excluir o antigo, se necessário (endereços de e-mail adicionais podem ser adicionados através do [Exchange Admin Center](https://outlook.office365.com/ecp.aspx)).

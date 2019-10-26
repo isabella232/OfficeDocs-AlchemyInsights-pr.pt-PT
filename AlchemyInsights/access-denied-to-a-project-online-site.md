@@ -1,5 +1,5 @@
 ---
-title: Acesso negado a um site do Project Web App
+title: Acesso negado a um site de aplicativos da Web do Projeto
 ms.author: efrene
 author: efrene
 manager: pamg
@@ -12,20 +12,20 @@ ms.custom:
 - "2700001"
 - "1381"
 ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36661235"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Conceder permissões aos usuários no Project online
+# <a name="give-users-permissions-in-project-online"></a>Dar permissão aos usuários no Projeto Online
 
-Conceder aos usuários acesso a um site do Project Web App usando o modo de permissão do SharePoint:
+Dar aos usuários acesso a um site de aplicativos do Site do Projeto usando o Modo de Permissão do SharePoint:
 
-1. Faça logon no Project online como um administrador.
-2. Na home page do Project Web App, selecione **compartilhar** no canto superior direito.
-3. Na caixa de diálogo **compartilhar aplicativo Web do Project** , digite o nome de usuário da pessoa que você deseja conceder acesso na caixa **convidar pessoas** .
-4. Selecione **Mostrar opções**e, no menu **selecionar um nível de permissão** , selecione **gerentes de projeto para o Project Web App**.
+1. Faça login no Project Online como administrador.
+2. Na página inicial do Project Web App, **selecione Compartilhar** no canto superior direito.
+3. Na caixa de diálogo **do Aplicativo Web do Projeto Compartilhar,** digite o nome de usuário da pessoa a quem você deseja dar acesso na caixa de pessoas de **convite.**
+4. Selecione **opções de show**e, no selecione um menu de nível de **permissão,** selecione **gerentes de projeto para o aplicativo da Web de projeto.**
 5. Selecione **compartilhar**.
 
-Se você usar o modo de permissões do projeto, ou para obter mais informações, consulte [adicionar pessoas ao Project online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+Se você usar o modo de Permissões do Projeto ou obter mais informações, [consulte adicionar pessoas ao Projeto Online.](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)

@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
 ms.openlocfilehash: 7363af1d4fc1a0f4131bebc325485dc99a30e2eb
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36545882"
 ---
-# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Meu endereço de e-mail Outlook.com personalizado não está enviando ou recebendo
+# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Meu endereço de e-mail personalizado Outlook.com não está enviando ou recebendo
 
-Selecione o ícone de diamante na barra de ferramentas para abrir o painel Premium.
+Selecione o ícone de diamante na barra de ferramentas para abrir o painel premium.
 
-Se você não vir um ícone de diamante em sua caixa de entrada (e você vê anúncios), isso significa que sua assinatura do Office 365 expirou. Aceda a [https://account.microsoft.com/services](https://account.microsoft.com/services) para reativar a sua subscrição e, em seguida, volte a ligar o seu domínio utilizando os passos em "começar".
+Se você não vir um ícone de diamante em sua caixa de entrada (e você ver anúncios), isso significa que sua assinatura do Office 365 expirou. Vá [https://account.microsoft.com/services](https://account.microsoft.com/services) para reativar sua assinatura e, em seguida, reconecte seu domínio usando as etapas em "Comece".
 
-Se a guia "endereço de email personalizado" tiver uma barra de status vermelha, seu domínio poderá ter expirado.
+Se a aba "endereço de e-mail personalizado" tiver uma barra de status vermelha, seu domínio pode ter expirado.
 
-Leia mais etapas de solução [de problemas em endereços de e-mail personalizados no Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).
+Leia mais etapas de solução de problemas em endereços de [e-mail personalizados no Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).

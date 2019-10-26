@@ -1,5 +1,5 @@
 ---
-title: 305 aumentar o tamanho da caixa de correio de arquivamento
+title: 305 Aumentar o tamanho da caixa de correio de arquivo
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
 ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36661811"
 ---
-# <a name="increase-the-archive-mailbox-size"></a>Aumente o tamanho da caixa de correio de arquivamento
+# <a name="increase-the-archive-mailbox-size"></a>Aumentar o tamanho da caixa de correio de arquivo
 
-O Office 365 [limita](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) o tamanho das caixas de correio de arquivamento com base na licença atribuída à conta de usuário. Quando a caixa de correio de arquivamento atinge 90% do tamanho permitido, o usuário recebe uma notificação por email. Quando uma caixa de correio de arquivamento atinge seu limite de tamanho, o usuário não pode mover mais itens para a caixa de correio de arquivamento. O Office 365 não aumentará o tamanho de uma caixa de correio de arquivamento depois que o limite de tamanho for atingido. Em vez disso, os usuários podem tomar as seguintes ações para liberar espaço na caixa de correio de arquivamento:
+O Office 365 [limita](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) o tamanho das caixas de correio de arquivo com base na licença atribuída à conta do usuário. Quando a caixa de correio do arquivo atinge 90% do seu tamanho permitido, o usuário recebe uma notificação por e-mail. Quando uma caixa de correio de arquivo atinge seu limite de tamanho, o usuário não pode mover mais itens para a caixa de correio do arquivo. O Office 365 não aumentará o tamanho de uma caixa de correio de arquivo assim que o limite de tamanho for atingido. Em vez disso, os usuários podem tomar as seguintes ações para liberar espaço na caixa de correio de arquivo:
 
-- Exporte os itens para um arquivo. pst usando o Outlook.
+- Exportar os itens para um arquivo .pst usando o Outlook.
 
-- Exclua itens da caixa de correio de arquivamento.
+- Excluir itens da caixa de correio do arquivo.
 
-O Office 365 fornece **arquivamento ilimitado** para licenças do Office 365 Enterprise E3 e e5. Um administrador deve habilitar esse recurso antes que a caixa de correio de arquivamento atinja seu tamanho máximo. Quando o arquivamento ilimitado está habilitado, pode demorar até 30 dias antes que o espaço livre seja adicionado à caixa de correio de arquivamento. Portanto, recomendamos que os administradores verifiquem o espaço livre na caixa de correio de arquivamento, o que permite que o usuário continue usando a caixa de correio de arquivamento enquanto ela se expande. Para obter mais informações, consulte [visão geral do arquivamento ilimitado no office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving) e [habilite o arquivamento ilimitado no Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
+O Office 365 oferece **arquivamento ilimitado** para licenças Office 365 Enterprise E3 e E5. Um administrador deve habilitar esse recurso antes que a caixa de correio do arquivo atinja seu tamanho máximo. Quando o arquivamento ilimitado é ativado, pode levar até 30 dias até que o espaço livre seja adicionado à caixa de correio de arquivo. Portanto, recomendamos que os administradores verifiquem o espaço livre na caixa de correio de arquivo, que permite que o usuário continue usando a caixa de correio de arquivo enquanto ela se expande. Para mais informações, consulte [a visão geral de arquivamento ilimitado no Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving) e [permita arquivamento ilimitado no Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
 
-Para obter mais informações sobre como acessar a caixa de correio de arquivamento do Outlook, consulte [requisitos do Outlook para acessar itens em um arquivo expandido automaticamente](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). Para configurar uma política de retenção que mova automaticamente itens para a caixa de correio de arquivamento, consulte [Configurar uma política de arquivamento e exclusão para caixas de correio em sua organização do Office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
+Para obter mais informações sobre o acesso à caixa de correio de arquivo do Outlook, consulte [os requisitos do Outlook para acessar itens em um arquivo expandido automaticamente.](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive) Para configurar uma política de retenção que move automaticamente os itens para a caixa de correio de arquivo, consulte a configuração de uma política de arquivo e exclusão para caixas de [correio em sua organização do Office 365.](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
 
-**Nota**: os arquivos de expansão automática não são suportados para caixas de correio primárias no Exchange 2010.
+**Nota:** Arquivos de expansão automática não são suportados para caixas de correio primárias no Exchange 2010.

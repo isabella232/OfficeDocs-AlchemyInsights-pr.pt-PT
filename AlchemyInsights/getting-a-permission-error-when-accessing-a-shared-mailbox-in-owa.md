@@ -1,5 +1,5 @@
 ---
-title: 124 obtendo um erro de permissão ao acessar uma caixa de correio compartilhada no OWA?
+title: 124 Recebendo um erro de permissão ao acessar uma caixa de correio compartilhada na OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,13 +14,13 @@ ms.custom:
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
 ms.openlocfilehash: bc682538ae8683c8b419d33bfccf96ac080304a6
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36735790"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Obtendo um erro de permissão ao abrir uma caixa de correio compartilhada no Outlook na Web?
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Obter um erro de permissão ao abrir uma caixa de correio compartilhada no Outlook na web?
 
-Se você receber o erro **algo deu errado. Você não tem permissão para abrir esta caixa de correio.** Quando você tenta abrir uma caixa de correio compartilhada no Outlook na Web, sua conta pode não ter permissão para acessar a caixa de correio compartilhada. O administrador da sua organização pode atribuir suas permissões de conta à caixa de correio compartilhada seguindo as instruções do tópico [criar uma caixa de correio compartilhada](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).
+Se você errar o erro **algo deu errado. Você não tem permissão para abrir esta caixa** de correio. Quando você tenta abrir uma caixa de correio compartilhada no Outlook na web, sua conta pode não ter permissão para acessar a caixa de correio compartilhada. O administrador da sua organização pode atribuir as permissões da sua conta à caixa de correio compartilhada seguindo as instruções do tópico [Criar uma caixa de correio compartilhada](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).
   

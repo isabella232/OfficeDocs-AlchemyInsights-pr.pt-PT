@@ -1,5 +1,5 @@
 ---
-title: Onde posso obter aplicações de software como serviço (SaaS)?
+title: Onde faço para obter aplicativos de software como serviço (SaaS)?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,12 +13,12 @@ ms.custom:
 - "9000562"
 - "2421"
 ms.openlocfilehash: 6788a534d19521db98eb3ba59536cebeb02e190c
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36558556"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Onde posso obter aplicativos de software como serviço (SaaS) de parceiros da Microsoft?
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Onde recebo aplicativos de software como serviço (SaaS) de parceiros da Microsoft?
 
-Os clientes podem procurar, Pesquisar e comprar aplicativos SaaS do [Appsource](http://www.appsource.com/).
+Os clientes podem pesquisar, pesquisar e comprar aplicativos SaaS da [AppSource.](http://www.appsource.com/)

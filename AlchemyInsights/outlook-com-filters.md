@@ -1,5 +1,5 @@
 ---
-title: 9000203 Outlook.com filtros
+title: 9000203 filtros de Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,16 +15,16 @@ ms.custom:
 - "9000203"
 - "9000215"
 ms.openlocfilehash: 4835b3996651ccdbd390a1ece2555ffe7f0fe430
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36546695"
 ---
-# <a name="filtering-in-outlookcom"></a>Filtrando em Outlook.com
+# <a name="filtering-in-outlookcom"></a>Filtragem em Outlook.com
 
-Você pode filtrar suas mensagens de e-mail de várias maneiras no Outlook.com:
+Você pode filtrar suas mensagens de e-mail de várias maneiras em Outlook.com:
 
-1. [Alterar a forma como o seu e-mail é classificado](https://support.office.com/article/e650ae23-b558-4fbf-bdd1-73268f6852b7?wt.mc_id=Office_Outlook_com_Alchemy)
-2. [Bloquear um endereço de e-mail ou domínio de e-mail](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
-3. [Usar pesquisa de consulta avançada para refinar resultados](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)
+1. [Alterar a forma como seu e-mail é classificado](https://support.office.com/article/e650ae23-b558-4fbf-bdd1-73268f6852b7?wt.mc_id=Office_Outlook_com_Alchemy)
+2. [Bloqueie um endereço de e-mail ou domínio de e-mail](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
+3. [Use pesquisa avançada de consultas para refinar os resultados](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)

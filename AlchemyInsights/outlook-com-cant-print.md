@@ -1,5 +1,5 @@
 ---
-title: Não é possível imprimir em Outlook.com
+title: Não pode imprimir em Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,12 +12,12 @@ ms.custom:
 - "8000046"
 - "2507"
 ms.openlocfilehash: c2ce75066631e822c4cda2f7fa4019e20632cea0
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36547934"
 ---
-# <a name="unable-to-print"></a>Não é possível imprimir
+# <a name="unable-to-print"></a>Incapaz de imprimir
 
-Estamos cientes de um problema em que alguns usuários não podem imprimir ao usar navegadores Safari ou Edge. Enquanto nós trabalhamos em uma correção para isso, por favor, use outro navegador. Pedimos desculpas pelo inconveniente.
+Estamos cientes de um problema em que alguns usuários não podem imprimir ao usar navegadores Safari ou Edge. Enquanto trabalhamos em uma correção para isso, por favor, use outro navegador. Pedimos desculpas pelo inconveniente.

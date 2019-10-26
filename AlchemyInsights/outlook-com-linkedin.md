@@ -13,16 +13,16 @@ ms.custom:
 - "1276"
 - "8000079"
 ms.openlocfilehash: e0c2029ce40e4c105c7a4790f15555f9cd3b1fee
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36536518"
 ---
 # <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problemas com lixo eletrônico alegando ser do LinkedIn
 
-Estamos cientes de que alguns usuários estão recebendo lixo eletrônico que alega ser do LinkedIn.
+Estamos cientes de que alguns usuários estão recebendo e-mail lixo que afirma ser do LinkedIn.
 
-Recomendamos usar uma regra de caixa de entrada para filtrar esses emails.
+Recomendamos o uso de uma regra de caixa de entrada para filtrar esses e-mails.
 
-Para obter mais informações, leia como [usar as regras de caixa de entrada em Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).
+Para mais informações, leia como [usar as regras da caixa](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)de entrada em Outlook.com .

@@ -1,5 +1,5 @@
 ---
-title: 1385-Office-365-Alert-políticas
+title: 1385-Office-365-alerta-políticas
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,35 +13,35 @@ ms.custom:
 - "3200002"
 ms.assetid: ''
 ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36661307"
 ---
-# <a name="office-365-alert-policies"></a>Políticas de alerta do Office 365
+# <a name="office-365-alert-policies"></a>Políticas de alerta do Escritório 365
 
-O centro de conformidade do Office 365 Security & oferece [políticas de alerta padrão](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) que acionam alertas para organizações com uma assinatura do Office 365 Enterprise ou Office 365 US Government E1/G1, E3/G3 ou E5/G5. Portanto, os administradores podem receber uma notificação de email de alerta enviada por Office365Alerts@microsoft.com com uma linha de assunto como "um alerta de baixa severidade: *nome da política de alerta*". As notificações de alerta são enviadas quando os alertas são acionados para atividades comuns, como quando os usuários:
+O Office 365 Security & Compliance Center oferece [políticas](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) de alerta padrão que acionam alertas para organizações com uma assinatura Do escritório 365 Enterprise ou Office 365 US Government E1/G1, E3/G3 ou E5/G5. Portanto, os administradores podem receber uma notificação de e-mail alerta enviada por Office365Alerts@microsoft.com com uma linha de assunto, como "Um alerta de baixa gravidade: *nome da política de alerta".* Notificações de alerta são enviadas quando os alertas são acionados para atividades comuns, como quando os usuários:
 
-- Crie regras de caixa de entrada que encaminhe emails.
-- Atribua permissões a sua caixa de correio.
-- Compartilhe ou exclua um grande número de arquivos no compartilhamento de arquivo do SharePoint.
-- Crie pesquisas de eDiscovery e exporte resultados de pesquisa.
+- Crie regras de caixa de entrada que encaminhem e-mails.
+- Atribuir permissões à caixa de correio deles.
+- Compartilhe ou exclua um grande número de arquivos no compartilhamento de arquivos do SharePoint.
+- Crie pesquisas eDiscovery e exporte resultados de pesquisa.
 
-Para revisar e atuar em um alerta:
+Para analisar e agir em alerta:
 
-1. Vá para o [centro de conformidade de segurança &](https://protection.office.com) e inicie sessão.
-2. Clique **alertas** > **exibir alertas**.
-3. Clique em um alerta para exibir uma página de submenu com informações sobre o alerta.
+1. Vá ao centro de [conformidade de segurança &](https://protection.office.com) e entre.
+2. Clique **em Alertas** > **Veja alertas.**
+3. Clique em um alerta para exibir uma página de flyout com informações sobre o alerta.
 
-Você pode agir em um alerta, como [remover uma regra de caixa de entrada suspeita](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Ou você pode simplesmente fechar o alerta clicando em **resolver** na página de submenu de alerta.
+Você pode tomar medidas em um alerta, como [a remoção](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)de uma regra de caixa de entrada suspeita . Ou você pode simplesmente fechar o alerta clicando em **Resolve** na página de alerta.
 
-Para obter mais informações sobre como configurar e gerenciar políticas de alerta, consulte [Este artigo](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+Para obter mais informações sobre a configuração e gestão de políticas de alerta, consulte [este artigo.](https://docs.microsoft.com/office365/securitycompliance/alert-policies)
 
-**Importante**: as notificações por email de alerta da Microsoft nunca pedirá que você faça o seguinte:
+**Importante:** As notificações de e-mail de alerta da Microsoft nunca pedirão para você fazer o seguinte:
 
-- Forneça uma senha
-- Verificar os detalhes de segurança da sua conta
-- Re-autenticar-se
+- Fornecer uma senha
+- Verifique os detalhes de segurança da sua conta
+- Reaufinar-se
 
-Se você receber uma mensagem de e-mail como esta, ele não foi enviado pela Microsoft e deve ser considerado um golpe de phishing. Se isso acontecer, por favor [reporte-o à Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Se você receber uma mensagem de e-mail como esta, ela não foi enviada pela Microsoft e deve ser considerada um esquema de phishing. Se isso acontecer, por [favor, denuncie à Microsoft.](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)

@@ -13,14 +13,14 @@ ms.custom:
 - "71"
 - "13"
 ms.openlocfilehash: d43ada137a906f0a4dade37bf6b30b597fd64576
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36736912"
 ---
 # <a name="become-an-admin"></a>Torne-se um administrador
 
-Para assumir a função de administrador para essa organização, você precisa assumir o locatário.
+Para assumir o papel de administrador para esta organização, você precisa assumir o inquilino.
   
-Siga as instruções neste guia: [faça uma aquisição de administrador no Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)
+Siga as instruções neste guia: [Faça uma aquisição de administração no Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)

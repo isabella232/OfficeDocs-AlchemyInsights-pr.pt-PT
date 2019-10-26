@@ -1,5 +1,5 @@
 ---
-title: 9000238 Outlook.com adicionar alias
+title: 9000238 Outlook.com adicionar pseudônimo
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,24 +12,24 @@ ms.custom:
 - "1821"
 - "9000238"
 ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36542712"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a><span data-ttu-id="fda5d-102">Adicionar um alias de email em Outlook.com</span><span class="sxs-lookup"><span data-stu-id="fda5d-102">Add an email alias in Outlook.com</span></span>
+# <a name="add-an-email-alias-in-outlookcom"></a><span data-ttu-id="611d5-102">Adicione um pseudônimo de e-mail em Outlook.com</span><span class="sxs-lookup"><span data-stu-id="611d5-102">Add an email alias in Outlook.com</span></span>
 
-<span data-ttu-id="fda5d-103">Um alias é um endereço de email adicional que usa a mesma caixa de entrada, lista de contatos e configurações de conta como seu endereço de e-mail principal.</span><span class="sxs-lookup"><span data-stu-id="fda5d-103">An alias is an additional email address that uses the same inbox, contact list, and account settings as your primary email address.</span></span> <span data-ttu-id="fda5d-104">Você pode escolher o endereço de e-mail para o qual enviar e-mails, e você pode entrar em sua conta Outlook.com com qualquer um dos seus aliases — todos eles usam a mesma senha.</span><span class="sxs-lookup"><span data-stu-id="fda5d-104">You can choose which email address to send mail from, and you can sign in to your Outlook.com account with any of your aliases — they all use the same password.</span></span>
+<span data-ttu-id="611d5-103">Um pseudônimo é um endereço de e-mail adicional que usa a mesma caixa de entrada, lista de contatos e configurações de conta como seu endereço de e-mail principal.</span><span class="sxs-lookup"><span data-stu-id="611d5-103">An alias is an additional email address that uses the same inbox, contact list, and account settings as your primary email address.</span></span> <span data-ttu-id="611d5-104">Você pode escolher qual endereço de e-mail enviar e-mail e pode entrar na sua conta Outlook.com com qualquer um de seus pseudônimos - todos eles usam a mesma senha.</span><span class="sxs-lookup"><span data-stu-id="611d5-104">You can choose which email address to send mail from, and you can sign in to your Outlook.com account with any of your aliases — they all use the same password.</span></span>
 
-<span data-ttu-id="fda5d-105">Para adicionar um endereço de e-mail:</span><span class="sxs-lookup"><span data-stu-id="fda5d-105">To add an email address:</span></span>
+<span data-ttu-id="611d5-105">Para adicionar um endereço de e-mail:</span><span class="sxs-lookup"><span data-stu-id="611d5-105">To add an email address:</span></span>
 
-1. <span data-ttu-id="fda5d-106">Vá para [Adicionar um alias](https://go.microsoft.com/fwlink/p/?linkid=864833).</span><span class="sxs-lookup"><span data-stu-id="fda5d-106">Go to [Add an alias](https://go.microsoft.com/fwlink/p/?linkid=864833).</span></span> <span data-ttu-id="fda5d-107">Inicie sessão na sua conta Microsoft, se lhe for pedido.</span><span class="sxs-lookup"><span data-stu-id="fda5d-107">Sign in to your Microsoft account, if prompted.</span></span>
-2. <span data-ttu-id="fda5d-108">Em **Adicionar um alias**, ou:</span><span class="sxs-lookup"><span data-stu-id="fda5d-108">Under **Add an alias**, either:</span></span>
-    1. <span data-ttu-id="fda5d-109">Crie um novo endereço de e-mail Outlook.com e adicione-o como um alias.</span><span class="sxs-lookup"><span data-stu-id="fda5d-109">Create a new Outlook.com email address and add it as an alias.</span></span>
-    2. <span data-ttu-id="fda5d-110">Adicione um endereço de e-mail existente como um alias.</span><span class="sxs-lookup"><span data-stu-id="fda5d-110">Add an existing email address as an alias.</span></span>
-3. <span data-ttu-id="fda5d-111">Selecione **Adicionar alias**.</span><span class="sxs-lookup"><span data-stu-id="fda5d-111">Select **Add alias**.</span></span>
+1. <span data-ttu-id="611d5-106">Vá [adicionar um pseudônimo.](https://go.microsoft.com/fwlink/p/?linkid=864833)</span><span class="sxs-lookup"><span data-stu-id="611d5-106">Go to [Add an alias](https://go.microsoft.com/fwlink/p/?linkid=864833).</span></span> <span data-ttu-id="611d5-107">Entre na sua conta da Microsoft, se solicitado.</span><span class="sxs-lookup"><span data-stu-id="611d5-107">Sign in to your Microsoft account, if prompted.</span></span>
+2. <span data-ttu-id="611d5-108">Em **Adicionar um pseudônimo,** qualquer um:</span><span class="sxs-lookup"><span data-stu-id="611d5-108">Under **Add an alias**, either:</span></span>
+    1. <span data-ttu-id="611d5-109">Criar um novo Outlook.com endereço de e-mail e adicioná-lo como um pseudônimo.</span><span class="sxs-lookup"><span data-stu-id="611d5-109">Create a new Outlook.com email address and add it as an alias.</span></span>
+    2. <span data-ttu-id="611d5-110">Adicione um endereço de e-mail existente como um pseudônimo.</span><span class="sxs-lookup"><span data-stu-id="611d5-110">Add an existing email address as an alias.</span></span>
+3. <span data-ttu-id="611d5-111">Selecione **Adicionar pseudônimo.**</span><span class="sxs-lookup"><span data-stu-id="611d5-111">Select **Add alias**.</span></span>
 
-<span data-ttu-id="fda5d-112">Leia mais sobre como [Adicionar ou remover um alias de e-mail em Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="fda5d-112">Read more about how to [add or remove an email alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>  
+<span data-ttu-id="611d5-112">Leia mais sobre como adicionar ou remover um pseudônimo de [e-mail em Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="611d5-112">Read more about how to [add or remove an email alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>  
 
-<span data-ttu-id="fda5d-113">Leia [como conectar outra conta de e-mail](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) à sua conta Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="fda5d-113">Read [how to connect another email account](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) to your Outlook.com account.</span></span>
+<span data-ttu-id="611d5-113">Leia como conectar outra conta de [e-mail](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) à sua conta Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="611d5-113">Read [how to connect another email account](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) to your Outlook.com account.</span></span>

@@ -1,5 +1,5 @@
 ---
-title: Criar uma pasta no Outlook na Web
+title: Criar uma pasta no Outlook na web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.custom:
 - "8000009"
 - "1994"
 ms.openlocfilehash: 75e64ae33750efaeb3a56dde0b1a27f9bafb8b77
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36557260"
 ---
-# <a name="create-a-folder"></a><span data-ttu-id="6c480-102">Criar uma pasta</span><span class="sxs-lookup"><span data-stu-id="6c480-102">Create a folder</span></span>
+# <a name="create-a-folder"></a><span data-ttu-id="e8d0d-102">Criar uma pasta</span><span class="sxs-lookup"><span data-stu-id="e8d0d-102">Create a folder</span></span>
 
-1. <span data-ttu-id="6c480-103">Na parte inferior do painel de pastas no Outlook na Web, selecione **nova pasta**.</span><span class="sxs-lookup"><span data-stu-id="6c480-103">At the bottom of the folder pane in Outlook on the web, select **New folder**.</span></span> <span data-ttu-id="6c480-104">Talvez seja necessário rolar para baixo no painel de pastas para ver o botão **nova pasta** .</span><span class="sxs-lookup"><span data-stu-id="6c480-104">You might need to scroll down in the folder pane to see the **New folder** button.</span></span>
-1. <span data-ttu-id="6c480-105">Na caixa de texto, introduza um nome para a pasta e, em seguida, prima ENTER.</span><span class="sxs-lookup"><span data-stu-id="6c480-105">In the text box, enter a name for the folder and then press Enter.</span></span>
+1. <span data-ttu-id="e8d0d-103">Na parte inferior do painel de pasta no Outlook na web, selecione **nova pasta**.</span><span class="sxs-lookup"><span data-stu-id="e8d0d-103">At the bottom of the folder pane in Outlook on the web, select **New folder**.</span></span> <span data-ttu-id="e8d0d-104">Você pode precisar rolar para baixo no painel de pasta para ver o botão **nova pasta.**</span><span class="sxs-lookup"><span data-stu-id="e8d0d-104">You might need to scroll down in the folder pane to see the **New folder** button.</span></span>
+1. <span data-ttu-id="e8d0d-105">Na caixa de texto, digite um nome para a pasta e, em seguida, pressione Enter.</span><span class="sxs-lookup"><span data-stu-id="e8d0d-105">In the text box, enter a name for the folder and then press Enter.</span></span>
 
-<span data-ttu-id="6c480-106">Para saber mais, consulte [trabalhando com pastas de mensagens no Outlook na Web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="6c480-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
+<span data-ttu-id="e8d0d-106">Para saber mais, veja trabalhando com pastas de [mensagens no Outlook na web.](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)</span><span class="sxs-lookup"><span data-stu-id="e8d0d-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>

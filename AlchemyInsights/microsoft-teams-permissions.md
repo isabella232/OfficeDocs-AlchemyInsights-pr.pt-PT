@@ -12,16 +12,16 @@ ms.custom:
 - "2658"
 - "9000730"
 ms.openlocfilehash: 4bcf450b43ec2c27d7c47ee211c32d614bfedae3
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "37590433"
 ---
 # <a name="microsoft-teams-permissions"></a>Permissões do Microsoft Teams
 
-O Microsoft Teams inclui duas funções de usuário: proprietário e membro. Por padrão, um usuário que cria uma nova equipe é concedido o status do proprietário. Além disso, os proprietários e membros podem ter recursos de moderador para um canal (se a moderação tiver sido configurada). Se uma equipe é criada a partir de um grupo existente do Office 365, as permissões são herdadas. Para obter mais informações, consulte:
+O Microsoft Teams inclui duas funções de usuário: proprietário e membro. Por padrão, um usuário que cria uma nova equipe recebe o status de proprietário. Além disso, os proprietários e membros podem ter recursos de moderador esumário para um canal (se a moderação tiver sido configurada). Se uma equipe for criada a partir de um Grupo Office 365 existente, as permissões são herdadas. Para obter mais informações, consulte:
 
-- [Atribuir Membros e proprietários de equipe no Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
-- [Considerações e permissões de aplicativos do Microsoft Teams](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [Definir permissões de convidado para canais em equipes](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [Atribuir proprietários de equipes e membros no Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- [Microsoft Teams apps permissões e considerações](https://docs.microsoft.com/microsoftteams/app-permissions)
+- [Definir as permissões dos hóspedes para os canais em equipes](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)

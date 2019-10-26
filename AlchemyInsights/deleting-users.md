@@ -13,15 +13,15 @@ ms.custom:
 - "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
 ms.openlocfilehash: efc3680dccdf71b28049d31d86a6d5417437b769
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36740512"
 ---
 # <a name="deleting-users"></a>Excluindo usuários
 
-Se você quiser bloquear imediatamente o acesso do usuário e precisar manter suas informações, consulte [bloquear o acesso de um antigo funcionário aos dados do Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-office-365-data).
+Se você quiser bloquear imediatamente o acesso do usuário e precisar manter suas informações, consulte o [acesso de um ex-funcionário aos dados do Office 365.](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-office-365-data)
   
-Se você simplesmente deseja excluir o usuário e não está preocupado com qualquer um dos seus dados, consulte [excluir um usuário da sua organização](https://docs.microsoft.com/office365/admin/add-users/delete-a-user). Isso irá liberar imediatamente a sua licença.
+Se você simplesmente quiser excluir o usuário e não estiver preocupado com nenhum de seus dados, [consulte excluir um usuário de sua organização.](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) Isso vai liberar imediatamente a sua licença.
   

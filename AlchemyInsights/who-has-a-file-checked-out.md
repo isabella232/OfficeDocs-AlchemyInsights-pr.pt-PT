@@ -1,5 +1,5 @@
 ---
-title: Quem tem um arquivo check-out?
+title: Quem tem um arquivo verificado?
 ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
 ms.openlocfilehash: 56aa04f7866227c4b5a1e1828d3c10ea3746d00a
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36748335"
 ---
-# <a name="who-has-a-file-checked-out"></a>Quem tem um arquivo check-out?
+# <a name="who-has-a-file-checked-out"></a>Quem tem um arquivo verificado?
 
-Para ver quem tem um arquivo com check-out no SharePoint, você pode fazer qualquer uma das seguintes etapas:
+Para ver quem tem um arquivo verificado no SharePoint, você pode fazer qualquer uma das seguintes etapas:
   
-1. Passe o mouse sobre **check-out** para ver uma dica de ferramenta que informa quem tem o arquivo com check-out. 
+1. Hover sobre **check-out** para ver uma ponta de ferramentas que informa quem tem o arquivo verificado. 
     
-2. Adicione a coluna **check-out por** para o modo de exibição padrão da biblioteca. Desta forma, todos podem facilmente ver quem tem um documento check-out. 
+2. Adicione a coluna **Checked By** da lista à visualização padrão da biblioteca. Desta forma, todos podem ver facilmente quem tem um documento verificado. 
     
-Para saber como adicionar uma coluna check-out por no SharePoint, consulte [criar uma coluna em uma lista ou biblioteca](https://go.microsoft.com/fwlink/?linkid=2019591). 
+Para saber como adicionar uma coluna check-out por coluna no SharePoint, veja [criar uma coluna em uma lista ou biblioteca.](https://go.microsoft.com/fwlink/?linkid=2019591) 
   
-Veja mais perguntas freqüentes sobre check-in ou check-out, veja [as principais perguntas sobre check-out, check-in](https://go.microsoft.com/fwlink/?linkid=2018786).
+Veja perguntas mais frequentes sobre o check-in ou check-out, [consulte as principais perguntas sobre o check-out, faça o check-in.](https://go.microsoft.com/fwlink/?linkid=2018786)
   
 

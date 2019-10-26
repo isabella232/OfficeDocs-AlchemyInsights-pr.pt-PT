@@ -1,5 +1,5 @@
 ---
-title: Instalar o Project Professional
+title: Instalar projeto profissional
 ms.author: efrene
 author: efrene
 ms.date: 8/8/2019
@@ -13,19 +13,19 @@ ms.custom:
 - "9000695"
 - "2607"
 ms.openlocfilehash: 9aa41ee8302413fb5c24eca3e7caaf1336fb65ad
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36739144"
 ---
-# <a name="install-project-professional"></a>Instalar o Project Professional
+# <a name="install-project-professional"></a>Instalar projeto profissional
 
-Consulte [instalar o projeto](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) para saber como instalar a versão de assinatura do Project online e a versão de não assinatura do Project 2019, 2016 ou 2013. 
+Veja o [Projeto Instalar](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) para aprender a instalar a versão de assinatura do Project Online e a versão não por assinatura do Projeto 2019, 2016 ou 2013. 
 
-Para o projeto 2010 ou 2007, siga as etapas no [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) ou no [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657). 
+Para o Projeto 2010 ou 2007, siga os passos no [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) ou [No Office 2007.](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657) 
 
-O projeto é vendido como um aplicativo autônomo, portanto, se você ainda não tiver, [compre ou tente o Project](https://products.office.com/project). 
+Projeto é vendido como um aplicativo autônomo, por isso, se você não tê-lo ainda, [Comprar ou tentar Projeto](https://products.office.com/project). 
 
 
 

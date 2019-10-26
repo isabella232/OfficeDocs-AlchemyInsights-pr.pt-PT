@@ -1,5 +1,5 @@
 ---
-title: Alterar o endereço de e-mail alternativo para a notificação de cobrança
+title: Alterar o endereço de e-mail alternativo para notificação de faturamento
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,23 +14,23 @@ ms.custom:
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
 ms.openlocfilehash: 4cb14da2358c4c97814b881de63214fe97f0c2ee
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36738748"
 ---
-# <a name="change-the-alternate-email-address-for-billing-notification"></a>Alterar o endereço de e-mail alternativo para a notificação de cobrança
+# <a name="change-the-alternate-email-address-for-billing-notification"></a>Alterar o endereço de e-mail alternativo para notificação de faturamento
 
-É fácil alterar o endereço de e-mail alternativo para a notificação de cobrança. Basta seguir estes passos:
+Alterar o endereço de e-mail alternativo para notificação de faturamento é fácil. Basta seguir estes passos:
   
-1. No centro de administração do Microsoft 365, vá para a página [notificações](https://go.microsoft.com/fwlink/p/?linkid=853212) de faturamento de **faturamento** \>.  
+1. No centro de administração da Microsoft 365, acesse a página de [Notificações](https://go.microsoft.com/fwlink/p/?linkid=853212) de Faturamento de **Faturamento.** \>  
 
-2. Selecione um nome na lista.
+2. Selecione um nome da lista.
 
-3. Na caixa **endereço de email alternativo** , digite o endereço de email alternativo.
+3. Na caixa de endereço de **e-mail alternativa,** digite o endereço de e-mail alternativo.
 
 4. Selecione **salvar** e você está feito!
 
-Para obter mais detalhes e etapas com capturas de tela, consulte [alterar seus endereços de cobrança para o Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).
+Para mais detalhes e etapas com capturas de tela, veja alterar seus endereços de faturamento para o [Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).
   

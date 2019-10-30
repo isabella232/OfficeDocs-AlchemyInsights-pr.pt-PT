@@ -2,7 +2,6 @@
 title: Usuário externo é incapaz de aceitar um convite de compartilhamento
 ms.author: efrene
 author: efrene
-ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +11,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ebbd33fdff837c02b5f9220b3e895679041330bd
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36735904"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769134"
 ---
-# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a><span data-ttu-id="7db7e-102">Usuário externo é incapaz de aceitar um convite de compartilhamento</span><span class="sxs-lookup"><span data-stu-id="7db7e-102">External user is unable to accept a sharing invitation</span></span>
+# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a><span data-ttu-id="e8aaf-102">Usuário externo é incapaz de aceitar um convite de compartilhamento</span><span class="sxs-lookup"><span data-stu-id="e8aaf-102">External user is unable to accept a sharing invitation</span></span>
 
-<span data-ttu-id="7db7e-103">Se um usuário externo não conseguir aceitar um convite de compartilhamento, tente visitar os links abaixo:</span><span class="sxs-lookup"><span data-stu-id="7db7e-103">If an external user is unable to accept a sharing invite, please try visiting the links below:</span></span> 
+<span data-ttu-id="e8aaf-103">Se um usuário externo não conseguir aceitar um convite de compartilhamento sharepoint ou OneDrive, tente visitar os links abaixo:</span><span class="sxs-lookup"><span data-stu-id="e8aaf-103">If an external user is unable to accept a SharePoint or OneDrive sharing invite, please try visiting the links below:</span></span> 
 
-- [<span data-ttu-id="7db7e-104">"Access Denied", "You need permission to access this site" ou "Usuário não encontrado no diretório" erros no SharePoint Online e OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="7db7e-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [<span data-ttu-id="7db7e-105">"As políticas da sua organização não permitem que você compartilhe com esses usuários" erro ao compartilhar um item ou site no SharePoint Online ou OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="7db7e-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [<span data-ttu-id="7db7e-106">As opções de compartilhamento são acinzentadas ao compartilhar do SharePoint Online ou do OneDrive</span><span class="sxs-lookup"><span data-stu-id="7db7e-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [<span data-ttu-id="7db7e-107">Mensagem de erro quando um usuário externo aceita um convite on-line sharepoint usando outra conta</span><span class="sxs-lookup"><span data-stu-id="7db7e-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
-- [<span data-ttu-id="7db7e-108">Ose erros de partilha em SharePoint e OneDrive</span><span class="sxs-lookup"><span data-stu-id="7db7e-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="e8aaf-104">"Access Denied", "You need permission to access this site" ou "Usuário não encontrado no diretório" erros no SharePoint Online e OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="e8aaf-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [<span data-ttu-id="e8aaf-105">"As políticas da sua organização não permitem que você compartilhe com esses usuários" erro ao compartilhar um item ou site no SharePoint Online ou OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="e8aaf-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [<span data-ttu-id="e8aaf-106">As opções de compartilhamento são acinzentadas ao compartilhar do SharePoint Online ou do OneDrive</span><span class="sxs-lookup"><span data-stu-id="e8aaf-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [<span data-ttu-id="e8aaf-107">Mensagem de erro quando um usuário externo aceita um convite on-line sharepoint usando outra conta</span><span class="sxs-lookup"><span data-stu-id="e8aaf-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [<span data-ttu-id="e8aaf-108">Ose erros de partilha em SharePoint e OneDrive</span><span class="sxs-lookup"><span data-stu-id="e8aaf-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 

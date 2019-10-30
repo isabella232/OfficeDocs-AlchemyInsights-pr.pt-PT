@@ -9,13 +9,13 @@ localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 95c51f61f9f5ac61d77bf3286f4e4602d47e4801
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 66911e4f87d54f635b397d02fefdcaadb68d0ecc
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36528947"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769386"
 ---
 # <a name="business-rule-not-firing-for-a-form"></a>Regra de negócios não disparar por um formulário
 
-* [Sua regra de negócios não está disparando por um formulário?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)
+Uma regra de negócios pode não ser executada porque o campo referenciado na regra de negócios não está incluído no formulário. Para mais informações, ver [é a sua regra de negócios não disparar por um formulário?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form). .

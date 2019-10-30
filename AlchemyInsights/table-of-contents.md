@@ -1,5 +1,5 @@
 ---
-title: Sumário
+title: Tabela de conteúdos
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3042"
 - "9000592"
-ms.openlocfilehash: 388573cc1d5b378f0da9fe8d6d3430cc5000d112
-ms.sourcegitcommit: 8e1fa99a781674a79ae5d0385a48be2e209a2386
+ms.openlocfilehash: a7d34c8b99e1cdab915bfeec20ad5f9bdf1c1603
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37554374"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769782"
 ---
-# <a name="table-of-contents"></a>Sumário
+# <a name="table-of-contents"></a>Tabela de conteúdos
 
-Para obter informações sobre como criar um sumário, consulte [Inserir um](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)Sumário ou baixar nosso [tutorial de Sumário](https://go.microsoft.com/fwlink/?linkid=2065106).
+Para obter informações sobre a criação de uma tabela de conteúdono Word, [consulte inserir uma tabela de conteúdo](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)ou baixe nosso tutorial de Tabela de [Conteúdos.](https://go.microsoft.com/fwlink/?linkid=2065106)
 
-**Soluções para problemas comuns**
+**Soluções para questões comuns**
 
-- O Sumário não contém o título que você acabou de adicionar ao documento.
-  1. Selecione o texto do título, vá para**estilos** **domésticos** > e verifique se um estilo é aplicado ao título.
-  2. Vá para **** > **tabela de atualização** de referências para atualizar o Sumário.
+- A tabela de conteúdo não contém o título que você acabou de adicionar ao seu documento.
+  1. Selecione o texto de título, vá para **Home** > **Styles**e verifique se um estilo é aplicado ao título.
+  2. Acesse a tabela de**atualização** **de referências** > para atualizar a tabela de conteúdo.
 
-- O Sumário está exibindo muito texto. 
-  1. Selecione o texto do parágrafo e, em seguida, vá para**estilos** **domésticos** > .
-  2. Selecione um estilo, como **normal**, que não está incluído no sumário.
+- A tabela de conteúdo está exibindo muito texto. 
+  1. Selecione o texto do parágrafo e, em seguida, vá para **home** > **styles.**
+  2. Selecione um estilo, como **o Normal,** que não está incluído na tabela de conteúdos.

@@ -12,15 +12,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 1649ff6579895a79f6fd0f96db698d40e61ba3b8
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 6643a13ab0c001d882169d280e7b29e0410b288a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36737632"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769746"
 ---
 # <a name="create-and-manage-room-mailboxes"></a>Criar e gerenciar caixas de correio de quarto
 
-Para criar e modificar caixas de correio do quarto, [consulte criar e gerenciar caixas de correio](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)do quarto.
+Para criar e modificar caixas de correio de quarto no centro de administração da Exchange, [consulte criar e gerenciar caixas](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)de correio de quarto.
 
 Para saber mais sobre caixas de correio de quartos e equipamentos (também conhecidas como caixas de correio de recursos), consulte caixas de [correio de quarto e equipamentos.](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)

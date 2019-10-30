@@ -1,9 +1,8 @@
 ---
-title: Onde está dinâmica de energia?
+title: Onde está o Pivot power?
 ms.author: chrsm
 author: chrsm
 manager: jecon
-ms.date: 2/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,31 +14,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 5767fead9f67ad1070b3dbe65415d4c728cfd92f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530969"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769854"
 ---
-# <a name="where-is-power-pivot"></a>Onde está dinâmica de energia?
+# <a name="where-is-power-pivot"></a>Onde está o Pivot power?
 
-Existem três razões por que razão não vir dinâmica de energia:
+Há três razões pelas quais você não pode ver Power Pivot:
   
-**A versão do Excel não incluí-lo**
+**Sua versão do Excel não a inclui**
   
-Nem todas as versões do Excel incluem dinâmica de energia. Terá de actualizar para uma versão do Office que inclui a dinâmica de energia. [Verifique a lista das versões suportadas.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Nem todas as versões do Excel incluem power pivot. Você precisará atualizar para uma versão do Office que inclui power pivot. [Confira a lista de versões suportadas.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
-**Ainda não activou a dinâmica de energia**
+**Você não permitiu o Power Pivot**
   
-Se estiver a trabalhar numa versão do Excel que suporta dinâmica de energia, verifique se o suplemento está activado:
+Se você estiver trabalhando em uma versão do Excel que suporta power pivot, verifique se o add-in está ativado:
   
-1. Escolher **ficheiro de** \> **Opções** \> **Suplementos**.
+1. Escolha **opções** \> de **arquivo** \> **add-ins**.
 
-2. Na caixa pendente **Gerir** , seleccione **suplementos COM** e clique em **Ir**.
+2. Na caixa **de administre,** escolha **com add-ins** e clique **em Go.**
 
-3. Na caixa de diálogo **suplementos Com** , seleccione a caixa de verificação junto a **Microsoft Pivot de energia para o Excel**e, em seguida, clique em **OK**.
+3. Na caixa de diálogo **com add-ins,** selecione a caixa de seleção ao lado do **Microsoft Power Pivot para Excel**e, em seguida, clique em **OK.**
 
-**Tem várias contas ou de subscrições**
+**Você tem várias assinaturas ou contas**
   
-Pode ter diferentes subscrições do Office 365 atribuídas às contas de utilizador diferente. Certifica-se de que tem sessão iniciada para uma conta com uma versão do Excel suporta dinâmica de energia. Verifique a lista de [versões suportadas](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)e siga as instruções para [Alternar entre contas diferentes do Office](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Você pode ter diferentes assinaturas do Office 365 atribuídas a diferentes contas de usuário. Certifique-se de que você está inscrito em uma conta com uma versão do Excel que suporta power pivot. Verifique a lista de [versões suportadas](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)e siga as instruções para [alternar entre as diferentes contas](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)do Office.

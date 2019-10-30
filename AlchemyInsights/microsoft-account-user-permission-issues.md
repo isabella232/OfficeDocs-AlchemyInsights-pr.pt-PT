@@ -1,5 +1,5 @@
 ---
-title: Resolver a questão - o utilizador não encontrado no directório
+title: Problema de solucionamento de problemas - Usuário não encontrado no diretório
 ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754203"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768812"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Resolver a questão - o utilizador não encontrado no directório
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Problema de solucionamento de problemas - Usuário não encontrado no diretório
 
-Se os utilizadores estão a receber erros mensagem "utilizador não é possível localizar" no directório. Tente novamente quando o tipo de problema utilizador não estiver no directório.
+Se os usuários estiverem recebendo mensagem de erro "o usuário não pode ser encontrado" no diretório, tente novamente onde o tipo de edição não está no diretório.
 
-Os seguintes passos podem ser concluídos para resolver o problema.
+As seguintes etapas podem ser concluídas para solucionar o problema.
 
-- Certifique-se a conta que aceite que o convite de correio electrónico é a mesma conta que está a ser utilizada para iniciar sessão mais tarde. Certifique-se do que utilizador está a utilizar a mesma conta para a aceitar o convite e iniciar sessão no site. 
+- Certifique-se de que a conta que aceitou o convite por e-mail é a mesma conta que está sendo usada para entrar mais tarde. Certifique-se de que o usuário está usando a mesma conta para aceitar o convite e entrar no site. 
 
-Para obter mais informações, consulte [como gerir aliases para sua conta Microsoft</a> para gerir o início de sessão do Office 365](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+Para mais informações, veja [como gerenciar pseudônimos para sua conta</a> da Microsoft para gerenciar o login do Office 365.](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases) 
 
-- Navegue para cada site em que o utilizador está a receber o erro. 
+- Navegue para cada site (s) em que o usuário está recebendo o erro. 
 
-Adicionar "/ _layouts/15/people.aspx/membershipgroupid=0" (entre as aspas) para o fim do URL do site. 
+Adicione "/_layouts/15/people.aspx/membershipgroupid=0" (dentro das cotações duplas) até o final da URL do site. 
 
-Exemplo: https://_lT _"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+Exemplo: https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
-- Seleccione o utilizador a partir da lista.
+- Selecione o usuário da lista.
 
-- Clique em **remover permissões de utilizador** do Friso. 
--  Voltar a adicionar o utilizador e reenvie o convite para o utilizador.
+- Clique **em remover as permissões** do usuário da fita. 
+-  Adicione de volta o usuário e reenviar o convite para o usuário.
 

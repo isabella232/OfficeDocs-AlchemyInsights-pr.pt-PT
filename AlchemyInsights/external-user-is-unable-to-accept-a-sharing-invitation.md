@@ -2,7 +2,6 @@
 title: Usuário externo é incapaz de aceitar um convite de compartilhamento
 ms.author: efrene
 author: efrene
-ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +11,16 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ebbd33fdff837c02b5f9220b3e895679041330bd
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36735904"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769134"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Usuário externo é incapaz de aceitar um convite de compartilhamento
 
-Se um usuário externo não conseguir aceitar um convite de compartilhamento, tente visitar os links abaixo: 
+Se um usuário externo não conseguir aceitar um convite de compartilhamento sharepoint ou OneDrive, tente visitar os links abaixo: 
 
 - ["Access Denied", "You need permission to access this site" ou "Usuário não encontrado no diretório" erros no SharePoint Online e OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
 - ["As políticas da sua organização não permitem que você compartilhe com esses usuários" erro ao compartilhar um item ou site no SharePoint Online ou OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)

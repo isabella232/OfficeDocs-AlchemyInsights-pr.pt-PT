@@ -1,5 +1,5 @@
 ---
-title: Enviar ficheiros para OneDrive ou o SharePoint
+title: Faça upload de arquivos para o OneDrive ou sharepoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 90a67243716eb66357ffa362df31f7b064170918
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af01456f453c0d0cffc7c2d89f11eba2beda4ec
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532522"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769890"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Enviar ficheiros para OneDrive ou o SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Faça upload de arquivos para o OneDrive ou sharepoint
 
-1. No web browser, vá para a localização onde pretende carregar ficheiros.
+1. Em seu navegador da web, vá para o local onde você deseja fazer upload de arquivos.
     
-2. Abra o Explorador de ficheiros e procure os ficheiros que pretende carregar.
+2. Abra o File Explorer e navegue pelos arquivos que deseja carregar.
     
-3. Seleccione os ficheiros e arraste-os para a localização no OneDrive ou do SharePoint. Nota: Se utilizar Microsoft Edge, Mozilla FireFox ou Google Chrome, também pode enviar uma pasta e todos os ficheiros nela contidos.
+3. Selecione os arquivos e arraste-os para o local no OneDrive ou sharepoint. Nota: Se você usar o Microsoft Edge, o Mozilla FireFox ou o Google Chrome, você também pode carregar uma pasta e todos os arquivos nela.
     
-> [!NOTE]
->  Pode carregar ficheiros até 15 GB de tamanho. > o caminho completo para um ficheiro (incluindo o nome do ficheiro) não é possível ter mais de 400 caracteres de comprimento. > se necessitar de carregar mais de 100 ficheiros, [Utilize o cliente de sincronização de OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
+**Notas:**
+- Você pode carregar arquivos de até 15 GB de tamanho. 
+- O caminho completo para um arquivo (incluindo o nome do arquivo) não pode ser mais de 400 caracteres de comprimento. 
+- Se você precisar carregar mais de 100 arquivos, use o cliente de [sincronização OneDrive.](https://go.microsoft.com/fwlink/?linkid=866427) 
   
 

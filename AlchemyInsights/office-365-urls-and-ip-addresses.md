@@ -1,5 +1,5 @@
 ---
-title: Endereços IP e de URLs do Office 365
+title: Office 365 URLs e endereços IP
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,13 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: d4cb6e1b2db4fa44305600163cc6bb173972c0a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
+ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522046"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37775326"
 ---
-# <a name="office-365-urls-and-ip-address-ranges"></a>Intervalos de endereços IP e de URLs do Office 365
+# <a name="office-365-urls-and-ip-address-ranges"></a>Office 365 URLs e faixas de endereço IP
 
-Office 365 requer conectividade à Internet. Os pontos finais no presente artigo, [URL do Office 365 e intervalos de endereços IP](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service), tem de ser acessível aos utilizadores acesso Office 365.
+O Office 365 requer conectividade com a Internet através de endereços IP específicos *chamados pontos finais.*
+Para uma lista de pontos finais que precisam ser acessíveis, consulte as faixas de endereço sinuoso [do Office 365 e ip](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
+
+O serviço web de endereço IP e URL do Office 365 ajuda você a identificar e diferenciar melhor o tráfego da rede do Office 365, facilitando a avaliação, configuração e a conseção de alterações atualizadas. Veja o [endereço IP do Office 365 e](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)o serviço web de URL .

@@ -1,9 +1,8 @@
 ---
-title: Questão sobre licenças
+title: Pergunta sobre licenças
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: bc7a921e107b0514e7b922dc146196dc1aff537b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f4a3aa0f932f9f87175b1b67e16c8186e90d1c7b
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666671"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768631"
 ---
-# <a name="questions-about-your-office-365-license"></a>Perguntas sobre a licença do Office 365
+# <a name="questions-about-your-office-365-license"></a>Perguntas sobre sua licença do Office 365
 
-Se pretender saber quantas licenças que adquiriu e quantas licenças são atribuídas de uma subscrição:
+Se você quiser saber quantas licenças você comprou, ou quantas licenças são atribuídas a partir de uma assinatura:
   
-1. No Centro de administração, vá para a **Facturação** \> página [produtos e serviços &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. No centro de administração, aceda à página **Faturação** \> [Produtos e Serviços](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Localize a subscrição que pretende obter mais informações. Pode ver o número de licenças que está a pagar e quantas estão disponíveis a ser atribuído.
+2. Encontre a assinatura que você deseja saber mais sobre. Você pode ver o número de licenças que você está pagando e quantas estão disponíveis para serem atribuídas.
 
-Se pretender adicionar mais licenças, ou se tiver demasiado muitos, escolha **Adicionar/remover licenças** para ajustar a quantidade adquirida.
+Se você quiser adicionar mais licenças, ou se você tiver muitos, escolha **licenças De adicionar/Remover** para ajustar o valor comprado.

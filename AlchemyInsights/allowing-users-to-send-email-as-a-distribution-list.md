@@ -1,9 +1,8 @@
 ---
-title: 717 permitir que os utilizadores enviem correio electrónico como uma lista de distribuição
+title: 717 Permitindo que os usuários enviem e-mails como uma lista de distribuição
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "717"
 - "3"
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: 8fcd76ee85c5108aa6209952085d0488b1883256
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8f4e00d742831f88f6609c55d13e3dfba8ffe3d5
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506179"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768271"
 ---
-# <a name="allow-users-to-send-email-as-a-distribution-group"></a>Permitir que os utilizadores enviem correio electrónico como um grupo de distribuição
+# <a name="allow-users-to-send-email-as-a-distribution-group"></a>Permitir que os usuários enviem e-mails como um grupo de distribuição
 
-Para permitir aos utilizadores enviar mensagens que parecem vir de um grupo de distribuição existente, siga estes passos:
+Para permitir que os usuários enviem mensagens que parecem vir de um grupo de distribuição existente, siga essas etapas:
 
-1. No [Centro de administração do Exchange](https://outlook.office365.com/ecp/), vá para **destinatários** \> **grupos**.
+1. No [centro de administração da Bolsa,](https://outlook.office365.com/ecp/)acesse **Grupos de Beneficiários.** \> ****
 
-2. Seleccione o grupo de distribuição que pretende modificar e, em seguida, clique em **Editar**.
+2. Selecione o grupo de distribuição que deseja modificar e, em seguida, clique em **Eit.**
 
-3. Nas propriedades do grupo, vá para o separador de **delegação de grupo** para especificar os utilizadores que podem enviar como ou enviar em nome do grupo de distribuição.
+3. Nas propriedades do grupo, acesse a guia **da delegação** do Grupo para especificar os usuários que podem enviar como ou enviar em nome do grupo de distribuição.
 
-Para mais informações, consulte [Opções de correio electrónico](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).
+Para mais informações, consulte [as opções de e-mail.](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation)

@@ -1,28 +1,27 @@
 ---
-title: Resolução de problemas de acesso negado mensagens para OneDrive para sites empresariais
+title: Solução de problemas Acesso negado mensagens para OneDrive para sites de negócios
 ms.author: efrene
 author: efrene
 manager: pamgreen
-ms.date: 11/14/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 39f9b9b1ca22f6e5959e2b431fb373b0002c0a92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3c40ad76a8961a3d0b4963483291c2a1364c51d3
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507822"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766722"
 ---
-# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Resolução de problemas de acesso negado mensagens para OneDrive para sites empresariais
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Solução de problemas Acesso negado mensagens para OneDrive para sites de negócios
 
-Este problema ocorre com maior frequência quando um utilizador é eliminado e recriado com o mesmo nome principal de utilizador (UPN). A nova conta é criada utilizando um valor diferente de PUID (ID exclusivo do Passport). Quando o utilizador tenta aceder a uma colecção de sites ou seu OneDrive, o utilizador tem um PUID incorrecto. Um segundo cenário envolve a sincronização de directório com uma unidade organizacional (UO) de Active Directory. Se os utilizadores já iniciado sessão no SharePoint e, em seguida, são movidos para uma UO diferente e resynced com o SharePoint, eles poderão detectar este problema.
+Esse problema ocorre com mais frequência quando um usuário é excluído e recriado com o mesmo nome principal do usuário (UPN). A nova conta é criada usando um valor puid diferente (Passport Unique ID). Quando o usuário tenta acessar uma coleção do site ou seu OneDrive, o usuário tem um PUID incorreto. Um segundo cenário envolve sincronização do diretório com uma unidade organizacional do Diretório Ativo (OU). Se os usuários já entraram no SharePoint e, em seguida, forem transferidos para uma OU diferente e resincronizados com o SharePoint, eles podem experimentar esse problema.
 
-1. Para resolver este problema deve restaurar o UPN original com os passos no artigo[restaurar um utilizador no Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
-2. Se não conseguir restaurar o utilizador original deve remover o utilizador antigo do local do OneDrive com estes passos, [Remover um utilizador na lista de informações do utilizador](). 
-3. Depois de fazer isto, pode verificar que o utilizador tem direitos de administrador para o site de OneDrive, seguindo os passos para [Adicionar administração para OneDrive um utilizador](https://docs.microsoft.com/sharepoint/manage-user-profiles?redirectSourcePath=%252fen-us%252farticle%252fmanage-user-profiles-in-the-sharepoint-admin-center-494bec9c-6654-41f0-920f-f7f937ea9723#add-and-remove-admins-for-a-users-onedrive)
+1. Para resolver esse problema, você deve restaurar a UPN original com as etapas do artigo, [restaure um usuário no Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
+2. Se você não puder restaurar o usuário original, você deve remover o usuário antigo do site OneDrive usando essas etapas, [retire um usuário da lista de informações do usuário.]() 
+3. Depois que isso for feito, você pode verificar se o usuário tem direitos de administração para o site OneDrive, seguindo as etapas para [adicionar admin's para onedrive de um usuário](https://docs.microsoft.com/sharepoint/manage-user-profiles?redirectSourcePath=%252fen-us%252farticle%252fmanage-user-profiles-in-the-sharepoint-admin-center-494bec9c-6654-41f0-920f-f7f937ea9723#add-and-remove-admins-for-a-users-onedrive)
 
-Para mais informações sobre níveis de permissão, consulte o artigo, [níveis de permissão de compreensão no SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Para obter mais informações sobre os níveis de permissão, consulte o artigo, [entendendo os níveis de permissão no SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).

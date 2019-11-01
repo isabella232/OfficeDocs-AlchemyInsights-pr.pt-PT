@@ -1,5 +1,5 @@
 ---
-title: 665 está demasiado phish a receber ou na caixa de correio de spam?
+title: 665 Você está recebendo muito phish ou spam em sua caixa de correio?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,15 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 4ed84484431d430840c5c31c4275e366758f508f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 91c2c347e09706c1e3730eecba053035876d6931
+ms.sourcegitcommit: 0f44a600ae90e7b98a2a10988712a3fc9f837583
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665915"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911642"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>São demasiado phish a receber ou na caixa de correio de spam?
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Você está recebendo muito phish ou spam em sua caixa de correio?
 
-Como um administrador de Microsoft 365, a melhor forma de determinar a razão pela qual foi entregue uma mensagem de phishing ou spam consiste em submeter a amostra para a Microsoft no [Explorador de submissões](https://protection.office.com/reportsubmission). Vai obter feedback imediato relacionados com a filtragem de mensagens e por que razão existem problemas.
+Como administrador do Microsoft 365, a melhor maneira de determinar por que uma mensagem de phishing ou spam foi entregue é enviar a amostra para a Microsoft no [Submissions Explorer](https://protection.office.com/reportsubmission). Você receberá feedback imediato relacionado à filtragem de mensagens e por que há problemas.
 
-Para que easer, pode permitir que os utilizadores comunicar directamente à Microsoft através do [suplemento de mensagem de relatório](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Para torná-lo mais fácil, você pode permitir que seus usuários relatem diretamente à Microsoft por meio do complemento da Mensagem de [Relatório.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
+
+**Você sabia?**: Agora você pode enviar amostras diretamente do rastreamento da [mensagem](https://protection.office.com/messagetrace) e os clientes do Plano 2 e5/ATP podem enviar amostras do [Threat Explorer.](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)

@@ -1,5 +1,5 @@
 ---
-title: Como efectuar uma compra de Office 365
+title: Como fazer uma compra do Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,25 +12,29 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 98713a0d9d62b6eabb857ea8391cb7dff75b4da3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7f741a9aae0c4549f811b05b36498e7a201b7704
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664136"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921861"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="55550-102">Como efectuar uma compra de Office 365</span><span class="sxs-lookup"><span data-stu-id="55550-102">How to make an Office 365 purchase</span></span>
+# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="f1f08-102">Como fazer uma compra do Office 365</span><span class="sxs-lookup"><span data-stu-id="f1f08-102">How to make an Office 365 purchase</span></span>
 
-<span data-ttu-id="55550-103">Compras no Office 365 podem ser efectuadas no Centro de administração.</span><span class="sxs-lookup"><span data-stu-id="55550-103">Purchases in Office 365 can be made in the admin center.</span></span>
+<span data-ttu-id="f1f08-103">As compras no Office 365 podem ser feitas no centro de administração.</span><span class="sxs-lookup"><span data-stu-id="f1f08-103">Purchases in Office 365 can be made in the admin center.</span></span>
   
-- <span data-ttu-id="55550-104">Para adquirir uma subscrição do Office 365, vá para a **Facturação** \> página de [Serviços de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) .</span><span class="sxs-lookup"><span data-stu-id="55550-104">To purchase an Office 365 subscription, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
+- <span data-ttu-id="f1f08-104">Para comprar uma assinatura do Office 365, acesse a página de \> [serviços](https://go.microsoft.com/fwlink/p/?linkid=868433) de Compra **de Faturamento.**</span><span class="sxs-lookup"><span data-stu-id="f1f08-104">To purchase an Office 365 subscription, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
 
-- <span data-ttu-id="55550-105">Para adquirir licenças adicionais, vá para a **Facturação** \> página [produtos e serviços &](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="55550-105">To purchase additional licenses, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="55550-106">Escolha a subscrição que pretende adicionar licenças para e, em seguida, seleccione **Adicionar/remover licenças**.</span><span class="sxs-lookup"><span data-stu-id="55550-106">Choose the subscription that you want to add licenses to, and then select **Add/Remove licenses**.</span></span>
+- <span data-ttu-id="f1f08-105">Para comprar licenças adicionais, acesse a página de [serviços](https://go.microsoft.com/fwlink/p/?linkid=842054) de & de produtos de **faturamento.** \></span><span class="sxs-lookup"><span data-stu-id="f1f08-105">To purchase additional licenses, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="f1f08-106">Escolha a assinatura à qual deseja adicionar licenças e, em seguida, selecione **licenças de adicionar/remover.**</span><span class="sxs-lookup"><span data-stu-id="f1f08-106">Choose the subscription that you want to add licenses to, and then select **Add/Remove licenses**.</span></span>
   
-<span data-ttu-id="55550-107">Para obter mais informações, consulte [adquirir licenças para o Office 365 para a subscrição de negócio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="55550-107">To learn more, see [Buy licenses for your Office 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span></span>
+<span data-ttu-id="f1f08-107">Para saber mais, [consulte as licenças de compra para o seu Office 365 para assinatura de negócios.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)</span><span class="sxs-lookup"><span data-stu-id="f1f08-107">To learn more, see [Buy licenses for your Office 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span></span>
 
-<span data-ttu-id="55550-108">**Recursos adicionais**</span><span class="sxs-lookup"><span data-stu-id="55550-108">**Additional Resources**</span></span>
+<span data-ttu-id="f1f08-108">**Resolução de Problemas**</span><span class="sxs-lookup"><span data-stu-id="f1f08-108">**Troubleshooting**</span></span>
+
+<span data-ttu-id="f1f08-109">Se você tiver problemas com o carregamento da página, tente abrir a página da web em um navegador diferente ou tente abrir a página de uma janela de navegador privada, como uma janela InPrivate no Microsoft Edge ou uma janela incógnita no Google Chrome.</span><span class="sxs-lookup"><span data-stu-id="f1f08-109">If you experience problems with the page loading, try opening the web page in a different browser, or try opening the page a private browser window, such as an InPrivate window in Microsoft Edge or an incognito window in Google Chrome.</span></span> 
+
+<span data-ttu-id="f1f08-110">**Recursos adicionais**</span><span class="sxs-lookup"><span data-stu-id="f1f08-110">**Additional Resources**</span></span>
   
-- [<span data-ttu-id="55550-109">Atribuir licenças a utilizadores no Office 365 para empresas</span><span class="sxs-lookup"><span data-stu-id="55550-109">Assign licenses to users in Office 365 for business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [<span data-ttu-id="f1f08-111">Atribuir licenças a utilizadores no Office 365 para empresas</span><span class="sxs-lookup"><span data-stu-id="f1f08-111">Assign licenses to users in Office 365 for business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [<span data-ttu-id="55550-110">Cancelar Office 365 para a empresa</span><span class="sxs-lookup"><span data-stu-id="55550-110">Cancel Office 365 for Business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [<span data-ttu-id="f1f08-112">Cancelar o Office 365 para negócios</span><span class="sxs-lookup"><span data-stu-id="f1f08-112">Cancel Office 365 for Business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

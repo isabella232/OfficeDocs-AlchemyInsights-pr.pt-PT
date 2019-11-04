@@ -1,5 +1,5 @@
 ---
-title: Como efectuar uma compra de Office 365
+title: Como fazer uma compra do Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,25 +12,29 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 98713a0d9d62b6eabb857ea8391cb7dff75b4da3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7f741a9aae0c4549f811b05b36498e7a201b7704
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664136"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921861"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a>Como efectuar uma compra de Office 365
+# <a name="how-to-make-an-office-365-purchase"></a>Como fazer uma compra do Office 365
 
-Compras no Office 365 podem ser efectuadas no Centro de administração.
+As compras no Office 365 podem ser feitas no centro de administração.
   
-- Para adquirir uma subscrição do Office 365, vá para a **Facturação** \> página de [Serviços de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+- Para comprar uma assinatura do Office 365, acesse a página de \> [serviços](https://go.microsoft.com/fwlink/p/?linkid=868433) de Compra **de Faturamento.**
 
-- Para adquirir licenças adicionais, vá para a **Facturação** \> página [produtos e serviços &](https://go.microsoft.com/fwlink/p/?linkid=842054) . Escolha a subscrição que pretende adicionar licenças para e, em seguida, seleccione **Adicionar/remover licenças**.
+- Para comprar licenças adicionais, acesse a página de [serviços](https://go.microsoft.com/fwlink/p/?linkid=842054) de & de produtos de **faturamento.** \> Escolha a assinatura à qual deseja adicionar licenças e, em seguida, selecione **licenças de adicionar/remover.**
   
-Para obter mais informações, consulte [adquirir licenças para o Office 365 para a subscrição de negócio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Para saber mais, [consulte as licenças de compra para o seu Office 365 para assinatura de negócios.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)
+
+**Resolução de Problemas**
+
+Se você tiver problemas com o carregamento da página, tente abrir a página da web em um navegador diferente ou tente abrir a página de uma janela de navegador privada, como uma janela InPrivate no Microsoft Edge ou uma janela incógnita no Google Chrome. 
 
 **Recursos adicionais**
   
 - [Atribuir licenças a utilizadores no Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Cancelar Office 365 para a empresa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Cancelar o Office 365 para negócios](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

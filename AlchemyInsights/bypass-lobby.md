@@ -12,10 +12,10 @@ ms.custom:
 - "2673"
 - "9000740"
 ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768451"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Controlar as configurações do lobby e o nível de participação
@@ -38,6 +38,6 @@ Certifique-se de rever a documentação abaixo antes de fazer essas alterações
 
 - [Permitir que os usuários dial-in para contornar o lobby](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) **(em breve)** é uma política por organizador que controla se as pessoas que discar por telefone participar da reunião diretamente ou esperar no lobby, independentemente da configuração de **pessoas automaticamente admitir.**
 
-- [Permitir que os organizadores substituam as configurações do lobby](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) **(em breve)** é uma política por organizador que controla se o organizador da reunião pode substituir as configurações do lobby que um administrador definido em **admitir automaticamente as pessoas** e permitir **dial-in usuários para contornar o lobby** quando eles agendar uma nova reunião.
+- [Permitir que os organizadores substituam as configurações do lobby](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) **(em breve)** é uma política por organizador que controla se o organizador da reunião pode substituir as configurações do lobby que um administrador definido em **automaticamente admitir pessoas** e permitir que os **usuários dial-in para contornar o lobby** quando eles agendar uma nova reunião.
 
 **Nota:** Leia as políticas de [reunião gerenciadas em equipes](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) para uma visão geral completa das políticas de reunião do Microsoft Teams.

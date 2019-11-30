@@ -1,5 +1,5 @@
 ---
-title: Equipas da Microsoft - restaurar um Site de equipa eliminados
+title: Equipes da Microsoft - Restaurando um site de equipe excluído
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -10,14 +10,13 @@ ms.custom:
 - "404"
 - "6500002"
 ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
-ms.openlocfilehash: 84aaa331fdd4d4e10fcbebe41800c86b3a457649
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 38eaf578b1b1bdd4df7217b2f0e57433640ee8e0
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666959"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627477"
 ---
-# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Restaurar uma equipa eliminada no Teams da Microsoft
+# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Restaurando uma equipe excluída em equipes da Microsoft
 
-Acidentalmente eliminar uma equipa? Se tiver sido inferior a 30 dias desde que eliminou a equipa, está com sorte; pode restaurá-lo. Para tal, siga os passos aqui: [Restaurar uma equipa eliminada](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
-  
+Você acidentalmente excluiu uma equipe? Se já se passaram menos de 30 dias desde que você apagou a equipe, você está com sorte; você pode restaurá-lo. Para fazer isso, siga os passos aqui: [Restaurar uma equipe excluída](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).

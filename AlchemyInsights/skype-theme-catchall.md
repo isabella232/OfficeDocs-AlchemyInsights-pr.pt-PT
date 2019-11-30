@@ -1,5 +1,5 @@
 ---
-title: Tema Skype catchall
+title: Skype tema catchall
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,27 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000702"
 - "2601"
-ms.openlocfilehash: 893a37e16d9582e1dade8b5cd708dd37cb7b1036
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: 2cc76aee6e904c055fdf2a18a61a9263ecd0ddc0
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316944"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627333"
 ---
-# <a name="skype-for-business-common-issues-and-resolutions"></a>Problemas e resoluções comuns do Skype for Business 
+# <a name="skype-for-business-common-issues-and-resolutions"></a>Skype para negócios problemas comuns e resoluções 
 
-Para perguntas específicas sobre o Skype for Business, reformule brevemente sua pergunta para descrever seu problema, incluindo erros, recursos que você está usando, etc. 
+Para perguntas específicas sobre o Skype for Business, reformular brevemente sua pergunta para descrever seu problema, incluindo erros, recursos que você está usando, etc. 
 
-Aqui estão alguns tópicos solicitados com frequência:
+Aqui estão alguns tópicos frequentemente solicitados:
 
-**Solucionar problemas de logon do Skype for Business:** Primeiro, certifique-se de que o [serviço Skype for Business](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) esteja íntegro. Se for, revise [Solucionando problemas de erros de logon do Skype for Business online](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#check-for-common-causes-of-skype-for-business-online-sign-in-errors) para eliminar as causas comuns de dificuldade de login.
+**Solucionader problemas Skype para login de negócios:** Primeiro, certifique-se de que o [serviço Skype for Business](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) é saudável. Se for, analise erros de login do [Skype para Negócios On-line](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#check-for-common-causes-of-skype-for-business-online-sign-in-errors) para eliminar causas comuns de dificuldade de login.
  
-**Solucionar problemas de áudio e vídeo no Skype for Business:** Revise as [soluções para problemas comuns de áudio e vídeo no Skype for Business](https://support.office.com/article/Troubleshoot-audio-and-video-in-Skype-for-Business-62777bc6-c52b-47ae-84ba-a8905c3b71dc). 
+**Solucionação de problemas de áudio e vídeo no Skype for Business:** Analise as [soluções para problemas comuns](https://support.office.com/article/Troubleshoot-audio-and-video-in-Skype-for-Business-62777bc6-c52b-47ae-84ba-a8905c3b71dc)de áudio e vídeo no Skype for Business. 
 
-**Solucionar problemas de conexão no Skype for Business:** Revise as [soluções para problemas comuns de conexão no Skype for Business](https://support.office.com/article/troubleshoot-connection-issues-in-skype-for-business-ca302828-783f-425c-bbe2-356348583771).
+**Problemas de conexão de solucionamento de problemas no Skype for Business:** Analise as [soluções para problemas de conexão comuns no Skype for Business.](https://support.office.com/article/troubleshoot-connection-issues-in-skype-for-business-ca302828-783f-425c-bbe2-356348583771)
 
-**Comunique-se com Skype externo para contatos de negócios (Federação):** [Configurar Skype para negócios para contatar Skype externo para usuários corporativos](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
+**Comunique-se com o Skype externo para contatos comerciais (Federação):** Configure o [Skype para negócios para entrar em contato com o Skype externo para usuários empresariais.](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-**Comunique-se com contatos do Skype:** [permita que os usuários do Skype for Business adicionem contatos](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)do Skype.
+**Comunique-se com os contatos do Skype:** [permita que o Skype para usuários empresariais adicione contatos do Skype.](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
 
-**Atualize o Skype for Business para o Microsoft Teams:** Revise [a introdução à atualização do Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/upgrade-start-here) e saiba mais sobre [coexistência](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) com o Microsoft Teams ao adotar equipes em sua organização. 
+**Atualize o Skype para negócios para as equipes da Microsoft:** O início do início do estão sendo [iniciados com a atualização do Microsoft Teams](https://docs.microsoft.com/microsoftteams/upgrade-start-here) e saiba mais sobre a [coexistência](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) com o Microsoft Teams à medida que adota equipes em sua organização. 

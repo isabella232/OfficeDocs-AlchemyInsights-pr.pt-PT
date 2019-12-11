@@ -1,0 +1,51 @@
+---
+title: Implantação do Office 365 ProPlus para uso compartilhado em RDS, Terminal Server ou VDI
+ms.author: v-todmc
+author: todmccoy
+manager: mnirkhe
+ms.date: 12/9/2019
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9001419"
+- "3411"
+ms.openlocfilehash: 2312cca9ebf5dad1322bc98335cef6a6bc81f03e
+ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.translationtype: MT
+ms.contentlocale: pt-PT
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39959470"
+---
+# <a name="deploying-office-365-proplus-for-shared-use-on-rds-terminal-server-or-vdi"></a><span data-ttu-id="49e26-102">Implantação do Office 365 ProPlus para uso compartilhado em RDS, Terminal Server ou VDI</span><span class="sxs-lookup"><span data-stu-id="49e26-102">Deploying Office 365 ProPlus for shared use on RDS, Terminal Server, or VDI</span></span>
+
+<span data-ttu-id="49e26-103">Para implantar o Office 365 ProPlus usando serviços de desktop remoto (RDS), anteriormente chamado de Serviços terminais:</span><span class="sxs-lookup"><span data-stu-id="49e26-103">To deploy Office 365 ProPlus using Remote Desktop Services (RDS), formerly named Terminal Services:</span></span>
+- <span data-ttu-id="49e26-104">Você deve ter um plano Microsoft 365 For Business ou um plano do Office 365 que inclua o Office 365 ProPlus, como o Office 365 Enterprise E3 ou o Enterprise E5.</span><span class="sxs-lookup"><span data-stu-id="49e26-104">You must have a Microsoft 365 For Business plan or an Office 365 plan that includes Office 365 ProPlus, such as Office 365 Enterprise E3 or Enterprise E5.</span></span>
+   > [!NOTE] 
+   > <span data-ttu-id="49e26-105">Os planos Office 365 Business and Office 365 Business Premium não incluem o Office 365 ProPlus.</span><span class="sxs-lookup"><span data-stu-id="49e26-105">The Office 365 Business and Office 365 Business Premium plans do not include Office 365 ProPlus.</span></span>
+- <span data-ttu-id="49e26-106">Você deve habilitar a [ativação do computador compartilhado.](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)</span><span class="sxs-lookup"><span data-stu-id="49e26-106">You must enable [shared computer activation](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="49e26-107">Você também pode baixar e executar o Assistente de [Suporte e Recuperação](https://aka.ms/SaRA_OfficeSCA_M365Portal) da Microsoft para instalar o Office 365 ProPlus no modo de ativação de computador compartilhado.</span><span class="sxs-lookup"><span data-stu-id="49e26-107">You can also download and run the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) to install Office 365 ProPlus in shared computer activation mode.</span></span>
+
+<span data-ttu-id="49e26-108">Para obter mais informações sobre pré-requisitos, instruções de configuração e orientação sobre instalações personalizadas usando a ferramenta de implantação do office, [consulte o Deploy Office 365 ProPlus usando serviços](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services)de desktop remotos.</span><span class="sxs-lookup"><span data-stu-id="49e26-108">For more information on prerequisites, setup instructions, and guidance on customized installations by using the Office Deployment Tool, see [Deploy Office 365 ProPlus by using Remote Desktop Services](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).</span></span>
+
+<span data-ttu-id="49e26-109">Corrigir erros relacionados à ativação do computador compartilhado:</span><span class="sxs-lookup"><span data-stu-id="49e26-109">To fix errors related to shared computer activation:</span></span>
+- <span data-ttu-id="49e26-110">Veja problemas de [solucionação de problemas com ativação de computador compartilhado para o Office 365 ProPlus.](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)</span><span class="sxs-lookup"><span data-stu-id="49e26-110">See [Troubleshoot issues with shared computer activation for Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).</span></span>
+- <span data-ttu-id="49e26-111">Veja o estado de [ativação do Reset Office 365 ProPlus](https://go.microsoft.com/fwlink/?linkid=2109218).</span><span class="sxs-lookup"><span data-stu-id="49e26-111">See [Reset Office 365 ProPlus activation state](https://go.microsoft.com/fwlink/?linkid=2109218).</span></span>
+
+<span data-ttu-id="49e26-112">Se você quiser instalar o Office 365 ProPlus no RDS do centro de administração Microsoft 365, que usa configurações de instalação padrão, use as ***seguintes etapas:***</span><span class="sxs-lookup"><span data-stu-id="49e26-112">If you want to install Office 365 ProPlus on RDS from the Microsoft 365 admin center, ***which uses default installation settings***, use the following steps:</span></span>
+
+1.  <span data-ttu-id="49e26-113">Verifique o plano do Office 365 que você tem.</span><span class="sxs-lookup"><span data-stu-id="49e26-113">Check what Office 365 plan you have.</span></span> <span data-ttu-id="49e26-114">[Saiba como](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).</span><span class="sxs-lookup"><span data-stu-id="49e26-114">[Learn how](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).</span></span>
+2.  <span data-ttu-id="49e26-115">Se necessário, mude para um plano diferente do Office 365.</span><span class="sxs-lookup"><span data-stu-id="49e26-115">If necessary, switch to a different Office 365 plan.</span></span> <span data-ttu-id="49e26-116">[Saiba como](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).</span><span class="sxs-lookup"><span data-stu-id="49e26-116">[Learn how](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).</span></span>
+3.  <span data-ttu-id="49e26-117">Se o Office já estiver instalado no servidor RDS usando quaisquer outros planos do Office 365, desinstalá-lo.</span><span class="sxs-lookup"><span data-stu-id="49e26-117">If Office is already installed on the RDS server using any other Office 365 plans, uninstall it.</span></span> <span data-ttu-id="49e26-118">Por exemplo, indo para **o Painel** > de Controle**desinstalar um programa**.</span><span class="sxs-lookup"><span data-stu-id="49e26-118">For example, by going to **Control Panel** > **Uninstall a program**.</span></span> <span data-ttu-id="49e26-119">Desinstale o uso do [Microsoft Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) se você estiver se deparando com problemas.</span><span class="sxs-lookup"><span data-stu-id="49e26-119">Uninstall using [Microsoft Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) if you're running into issues.</span></span>
+4.  <span data-ttu-id="49e26-120">No servidor RDS, entre no centro de administração do Microsoft 365 com sua conta de administrador e instale o [Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="49e26-120">On the RDS server, sign in to the Microsoft 365 admin center with your administrator account and [install Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+5.  <span data-ttu-id="49e26-121">Depois que o Office for instalado, ***não abra ou entre em*** nenhuma inscrição no Office.</span><span class="sxs-lookup"><span data-stu-id="49e26-121">After Office is installed, ***don't open or sign in*** to any Office applications.</span></span>
+6.  <span data-ttu-id="49e26-122">No servidor RDS, habilite a ativação compartilhada do computador editando o registro seguindo essas etapas:</span><span class="sxs-lookup"><span data-stu-id="49e26-122">On the RDS server, enable shared computer activation by editing the registry by following these steps:</span></span>
+   1. <span data-ttu-id="49e26-123">Clique à direita no botão Do Windows no canto inferior esquerdo da tela e selecione **Run**.</span><span class="sxs-lookup"><span data-stu-id="49e26-123">Right-click the Windows button in the lower left-corner of your screen and select **Run**.</span></span> <span data-ttu-id="49e26-124">Na caixa aberta, tipo **regedit,** e selecione então **APROVADO.**</span><span class="sxs-lookup"><span data-stu-id="49e26-124">In the Open box, type **regedit**, and then select **OK**.</span></span>
+   2. <span data-ttu-id="49e26-125">Selecione **sim** quando solicitado a permitir que o Editor de Registro faça alterações em seu dispositivo.</span><span class="sxs-lookup"><span data-stu-id="49e26-125">Select **Yes** when prompted to allow Registry Editor to make changes to your device.</span></span>
+   3. <span data-ttu-id="49e26-126">No editor de registro, adicione um valor de corda de **SharedComputerLicensing** com uma configuração de 1 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.</span><span class="sxs-lookup"><span data-stu-id="49e26-126">In the Registry Editor, add a string value of **SharedComputerLicensing** with a setting of 1 under HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.</span></span>
+   4. <span data-ttu-id="49e26-127">No servidor RDS, ***entre como usuário final*** e verifique se a [ativação compartilhada do computador está ativada para o Office 365 ProPlus.](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)</span><span class="sxs-lookup"><span data-stu-id="49e26-127">On the RDS server, ***sign in as an end user*** and [verify that shared computer activation is enabled for Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).</span></span>
+

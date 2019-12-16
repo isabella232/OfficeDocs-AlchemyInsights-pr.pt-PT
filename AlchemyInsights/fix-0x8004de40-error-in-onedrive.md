@@ -1,32 +1,32 @@
 ---
-title: Corrigir o erro de 0x8004de40 em OneDrive
+title: Corrigir erro 0x8004de40 no OneDrive
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 6/20/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: aa0e0a63ac1e365a7cdce018626740446040a664
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 48b29f57763ca22a71a23b2afddcac0e8e8a95db
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755859"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052048"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a><span data-ttu-id="2a985-102">Corrigir o erro de 0x8004de40 em OneDrive</span><span class="sxs-lookup"><span data-stu-id="2a985-102">Fix 0x8004de40 error in OneDrive</span></span>
+# <a name="fix-0x8004de40-error-in-onedrive"></a><span data-ttu-id="266c3-102">Corrigir erro 0x8004de40 no OneDrive</span><span class="sxs-lookup"><span data-stu-id="266c3-102">Fix 0x8004de40 error in OneDrive</span></span>
 
-<span data-ttu-id="2a985-103">Se receber um erro de 0x8004de40 com OneDrive:</span><span class="sxs-lookup"><span data-stu-id="2a985-103">If you receive an 0x8004de40 error with OneDrive:</span></span>
+<span data-ttu-id="266c3-103">Se você receber um erro 0x8004de40 com OneDrive:</span><span class="sxs-lookup"><span data-stu-id="266c3-103">If you receive an 0x8004de40 error with OneDrive:</span></span>
 
-- <span data-ttu-id="2a985-104">Reinicie o computador afectado enquanto estiver ligado ao domínio do directório Acitve.</span><span class="sxs-lookup"><span data-stu-id="2a985-104">Reboot the affected computer while connected to your Acitve Directory domain.</span></span>
-- <span data-ttu-id="2a985-105">Se reiniciar o computador não corrigir o problema, desligar e voltar a aderir o dispositivo do Azure AD.</span><span class="sxs-lookup"><span data-stu-id="2a985-105">If a reboot doesn't fix the issue, unjoin and rejoin your device from Azure AD.</span></span> 
+- <span data-ttu-id="266c3-104">Reiniciar o computador afetado enquanto estiver conectado ao seu domínio acitve diretório.</span><span class="sxs-lookup"><span data-stu-id="266c3-104">Reboot the affected computer while connected to your Acitve Directory domain.</span></span>
+- <span data-ttu-id="266c3-105">Se uma reinicialização não corrigir o problema, unjoin e voltar ao seu dispositivo a partir de AD Azure.</span><span class="sxs-lookup"><span data-stu-id="266c3-105">If a reboot doesn't fix the issue, unjoin and rejoin your device from Azure AD.</span></span> 
 
-<span data-ttu-id="2a985-106">**Nota**: deve estar na rede da empresa ao efectuar estes passos.</span><span class="sxs-lookup"><span data-stu-id="2a985-106">**Note**: You should be on your corporate network while performing these steps.</span></span> <span data-ttu-id="2a985-107">Não efectue estes passos quando não conseguir estabelecer ligação com a infra-estrutura da empresa (por exemplo, quando estou em viagem).</span><span class="sxs-lookup"><span data-stu-id="2a985-107">Don't perform these steps when you aren't able to connect to your corporate infrastructure (for example, while traveling).</span></span> 
+<span data-ttu-id="266c3-106">**Nota:** Você deve estar em sua rede corporativa durante a execução dessas etapas.</span><span class="sxs-lookup"><span data-stu-id="266c3-106">**Note**: You should be on your corporate network while performing these steps.</span></span> <span data-ttu-id="266c3-107">Não execute essas etapas quando você não é capaz de se conectar à sua infraestrutura corporativa (por exemplo, durante a viagem).</span><span class="sxs-lookup"><span data-stu-id="266c3-107">Don't perform these steps when you aren't able to connect to your corporate infrastructure (for example, while traveling).</span></span> 
 
-- <span data-ttu-id="2a985-108">Abra uma linha de comandos elevada.</span><span class="sxs-lookup"><span data-stu-id="2a985-108">Open an elevated command prompt.</span></span> 
-- <span data-ttu-id="2a985-109">Para abrir uma linha de comandos elevada, clique - **Iniciar**, clique em **linha de comandos**e, em seguida, clique em **Executar como administrador**.</span><span class="sxs-lookup"><span data-stu-id="2a985-109">To open an elevated command prompt, click - **Start**, right-click **Command Prompt**, and then click **Run as administrator**.</span></span>
-- <span data-ttu-id="2a985-110">Escreva *dsregcmd /leave* e prima **Enter**.</span><span class="sxs-lookup"><span data-stu-id="2a985-110">Type *dsregcmd /leave* and press **Enter**.</span></span>
-- <span data-ttu-id="2a985-111">Quando tiver terminado, escreva *dsregcmd /join* e prima **Enter**.</span><span class="sxs-lookup"><span data-stu-id="2a985-111">When complete, type *dsregcmd /join* and press **Enter**.</span></span>
-- <span data-ttu-id="2a985-112">Quando tiver terminado, feche a linha de comandos.</span><span class="sxs-lookup"><span data-stu-id="2a985-112">When complete, close the command prompt.</span></span>
-- <span data-ttu-id="2a985-113">Reinicie o computador e inicie sessão em OneDrive.</span><span class="sxs-lookup"><span data-stu-id="2a985-113">Reboot the computer, and log into OneDrive.</span></span>
+- <span data-ttu-id="266c3-108">Abra uma alerta de comando elevado.</span><span class="sxs-lookup"><span data-stu-id="266c3-108">Open an elevated command prompt.</span></span> 
+- <span data-ttu-id="266c3-109">Para abrir um alerta de comando elevado, clique em - **Comece,** clique à direita **no Comando Prompt**e, em seguida, clique em Correr como **administrador.**</span><span class="sxs-lookup"><span data-stu-id="266c3-109">To open an elevated command prompt, click - **Start**, right-click **Command Prompt**, and then click **Run as administrator**.</span></span>
+- <span data-ttu-id="266c3-110">Tipo *dsregcmd /leave* and press **Enter**.</span><span class="sxs-lookup"><span data-stu-id="266c3-110">Type *dsregcmd /leave* and press **Enter**.</span></span>
+- <span data-ttu-id="266c3-111">Quando completo, tipo *dsregcmd /join* e **pressione Entre.**</span><span class="sxs-lookup"><span data-stu-id="266c3-111">When complete, type *dsregcmd /join* and press **Enter**.</span></span>
+- <span data-ttu-id="266c3-112">Quando estiver completo, feche o alerta de comando.</span><span class="sxs-lookup"><span data-stu-id="266c3-112">When complete, close the command prompt.</span></span>
+- <span data-ttu-id="266c3-113">Reiniciar o computador, e entrar em OneDrive.</span><span class="sxs-lookup"><span data-stu-id="266c3-113">Reboot the computer, and log into OneDrive.</span></span>

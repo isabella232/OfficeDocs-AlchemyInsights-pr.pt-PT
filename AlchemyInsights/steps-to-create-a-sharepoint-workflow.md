@@ -1,7 +1,7 @@
 ---
-title: Passos para criar um fluxo de trabalho do SharePoint
-ms.author: efrene
-author: efrene
+title: Etapas para criar um fluxo de trabalho sharepoint
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,29 +12,29 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "1718"
-ms.openlocfilehash: 5d346c68490fb6fde4bd86c24947e2e56d88fb15
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ee76edc1ab5d4b174d72e61f432f3ff7fe07e0c5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559640"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053560"
 ---
-# <a name="steps-to-create-a-sharepoint-workflow"></a>Passos para criar um fluxo de trabalho do SharePoint
+# <a name="steps-to-create-a-sharepoint-workflow"></a>Etapas para criar um fluxo de trabalho sharepoint
 
-- Se não é possível adicionar um fluxo de trabalho do SharePoint 2010 aprovação, consulte [não é possível adicionar predefinição fluxo de trabalho de aprovação de 2010](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow).
+- Se você não conseguir adicionar um fluxo de trabalho de aprovação do SharePoint 2010, veja não pode adicionar fluxo de trabalho de [aprovação padrão de 2010.](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow)
 - Como criar fluxos de trabalho:
-    - [Fluxo de trabalho de 2013 partir do SharePoint Designer](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
-    - [2010 fluxo de trabalho do SharePoint Designer](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
-    - [Introdução a diagramas de fluxo de trabalho do SharePoint](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
+    - [Fluxo de trabalho de 2013 do Designer SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
+    - [Fluxo de trabalho de 2010 do Designer SharePoint](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
+    - [Introdução ao fluxo de trabalho sharepoint](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
 
-- Resolução de problemas de fluxo de trabalho e de depuração:
-    - Depuração de fluxos de trabalho é semelhante à de versões anteriores.  Para mais informações, consulte os [fluxos de trabalho do SharePoint de depuração](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-    - Para mais informações sobre resolução de problemas, consulte [resolver problemas relacionados com o SharePoint Server erros de validação de fluxo de trabalho](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+- Fluxo de trabalho solução de problemas e depuração:
+    - Os fluxos de trabalho de depuração assemelham-se aos das versões anteriores.  Para mais informações, consulte os fluxos de [trabalho do Debugging SharePoint.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
+    - Para obter mais informações sobre solução de problemas, consulte erros de validação de fluxo de trabalho do [Servidor do Troubleshoot SharePoint.](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
  
 
 ## <a name="related-topics"></a>Tópicos relacionados
-Pretende tentar Microsoft Flow no SharePoint Online?
+Quer experimentar o Microsoft Flow no SharePoint Online?
 - [Criar fluxo](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [Fluxo e do SharePoint](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [SharePoint e Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

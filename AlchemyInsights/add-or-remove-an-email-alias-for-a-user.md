@@ -1,7 +1,7 @@
 ---
-title: Adicionar ou remover um alias de correio electrónico para um utilizador
-ms.author: dianef
-author: dianef77
+title: Adicionar ou remover um pseudônimo de e-mail para um usuário
+ms.author: pebaum
+author: pebaum
 ms.date: 4/16/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,16 +11,16 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9"
 - "1"
-ms.openlocfilehash: 4e0ce3d7c12ecad04e13a179fd833e6b935fadfa
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 006fb3ea242d43cd4ad3aa589ca876b33bca618b
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737236"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050464"
 ---
-# <a name="add-or-remove-an-email-address-for-a-user"></a>Adicionar ou remover um endereço de correio electrónico para um utilizador
+# <a name="add-or-remove-an-email-address-for-a-user"></a>Adicionar ou remover um endereço de e-mail para um usuário
 
-[Siga estes passos](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) no Centro de administração de Microsoft 365 para começar a trabalhar.
+[Siga esses passos](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) no centro de administração microsoft 365 para começar.
 
- **Nota**: pode ter mais do que um endereço de correio electrónico para um utilizador, mas adicionais *aliases de correio electrónico* só pode ser utilizado para a recepção de correio electrónico. Se necessitar de enviar correio electrónico com um alias, crie uma [caixa de correio partilhada](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox). Desta forma obterá o alias para enviar e receber correio.
+ **Nota:** Você pode ter mais de um endereço de e-mail para um usuário, mas pseudônimos de *e-mail* adicionais só podem ser usados para receber e-mail. Se você precisa enviar e-mail com um pseudônimo, crie uma caixa de [correio compartilhada.](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) Desta forma, você receberá o pseudônimo de enviar e receber e-mail.
   

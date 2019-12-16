@@ -1,25 +1,25 @@
 ---
-title: Não é possível abrir documentos no SharePoint
+title: Incapaz de abrir documentos no SharePoint
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9534aaa07e54d35f6600053e88f2072936c1c461
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 5b50f77b4656a0418786a557f2023abfd0b6d84f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36748554"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054929"
 ---
-# <a name="unable-to-open-documents-in-sharepoint"></a>Não é possível abrir documentos no SharePoint
+# <a name="unable-to-open-documents-in-sharepoint"></a>Incapaz de abrir documentos no SharePoint
 
-Se tiver problemas ao abrir ficheiros do Office e documentos a partir de bibliotecas de documentos do SharePoint ou OneDrive, aqui estão algumas sugestões para o ajudar a corrigir:
+Se você tiver problemas para abrir arquivos e documentos do Office das bibliotecas de documentos SharePoint ou OneDrive, aqui estão algumas sugestões para ajudá-los a corrigi-los:
 
-- [Verificar limitações de ficheiro para garantir que o ficheiro é suportado](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
-- [Eliminar a cache de documentos do office](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
-- [Execute uma reparação no Office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+- [Verifique as limitações do arquivo para garantir que o arquivo seja suportado](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- [Excluir o cache de documentos do escritório](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
+- [Executar um reparo no escritório](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-Para obter mais informações ou detalhes consulte [corrigir problemas ao abrir documentos em bibliotecas do SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
+Para obter mais informações ou detalhes, veja [problemas de correção abrindo documentos nas bibliotecas do SharePoint.](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)

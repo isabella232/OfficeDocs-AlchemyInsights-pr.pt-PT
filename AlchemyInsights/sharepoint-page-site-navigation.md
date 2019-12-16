@@ -1,7 +1,7 @@
 ---
-title: Começar a trabalhar com SharePoint Online
+title: Comece com sharepoint on-line
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,27 +10,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 74ac6eb23552ccd70de3efabeb2eed7caf249dba
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 6ecd33e81f9918c5b4baac8da264ad79773a20f9
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36750135"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044214"
 ---
-# <a name="site-and-page-navigation-in-sharepoint-sites"></a>Site e página de navegação em sites do SharePoint
+# <a name="site-and-page-navigation-in-sharepoint-sites"></a>Navegação de sites e páginas em sites do SharePoint
 
-Os princípios fundamentais e boas práticas para a navegação do site e página são igualmente aplicáveis às arquitecturas de SharePoint clássicas e modernas. No entanto, as opções de navegação de execução difere baseiam o quadro para a sites e a intranet. Por exemplo, as experiências de navegação herdadas disponível em hierarquias de site SharePoint clássicas (sites com subsites) não estão disponíveis a experiência moderna, mas [concentrador sites](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) fornecem uma excelente forma de obter as funcionalidades de navegação de sites anteriormente disponível em hierarquias de navegação e site geridas no SharePoint clássico.
+Os princípios fundamentais e as boas práticas para a navegação do site e da página são igualmente aplicáveis às arquiteturas clássicas e modernas do SharePoint. No entanto, suas opções para implementar a navegação diferem com base na estrutura de seus sites e intranet. Por exemplo, as experiências de navegação herdadas disponíveis nas hierarquias clássicas do site SharePoint (sites com subsites) não estão disponíveis na experiência moderna, mas os sites de [hub](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) fornecem uma ótima maneira de alcançar os recursos de navegação entre sites anteriormente disponíveis na navegação gerenciada e hierarquias de sites no Clássico SharePoint.
 
- Para mais informações sobre opções de navegação, visite as hiperligações abaixo.
+ Para mais informações sobre as opções de navegação, visite os links abaixo.
 
- - [Planeamento de navegação para a experiência do SharePoint moderna](https://docs.microsoft.com/sharepoint/plan-navigation-modern-experience)
+ - [Planejamento de navegação para a experiência moderna sharepoint](https://docs.microsoft.com/sharepoint/plan-navigation-modern-experience)
 
-- [Personaliza a navegação no site do SharePoint](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
+- [Personalize a navegação no site do SharePoint](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
 
-- [Opções de navegação para o SharePoint Online](https://docs.microsoft.com/office365/enterprise/navigation-options-for-sharepoint-online)
+- [Opções de navegação para SharePoint Online](https://docs.microsoft.com/office365/enterprise/navigation-options-for-sharepoint-online)
  
-- [Organizar os sites SharePoint com navegação megamenu](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Organize-your-SharePoint-sites-with-megamenu-navigation-and-new/ba-p/328068)
+- [Organize seus sites SharePoint com navegação megamenu](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Organize-your-SharePoint-sites-with-megamenu-navigation-and-new/ba-p/328068)
 
-- [Metadados geridos e navegação no SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/managed-metadata-and-navigation-in-sharepoint)
+- [Metadados gerenciados e navegação no SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/managed-metadata-and-navigation-in-sharepoint)
 
 

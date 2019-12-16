@@ -1,7 +1,7 @@
 ---
-title: Procura e híbrido
-ms.author: efrene
-author: efrene
+title: Pesquisa e híbrido
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: ''
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: adc5dace5da9e9b1c52697211e5b770d5483994b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79b1c47b33e2e5c8b46a93ef2edbb1e9e0c8ff1d
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504834"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048699"
 ---
-# <a name="search-and-hybrid"></a>Procura e híbrido
+# <a name="search-and-hybrid"></a>Pesquisa e híbrido
 
-- É necessário obter informações sobre híbridas e pesquisa federada no SharePoint Online? Se assim for, consulte [Este artigo](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
+- Você precisa de informações sobre pesquisa híbrida e federada no SharePoint Online? Se assim for, veja [este artigo](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
 
-- Necessita de informações sobre como planear uma pesquisa federada híbrida?  Se assim for, consulte [Este artigo](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
+- Você precisa de informações sobre o planejamento de uma pesquisa federada híbrida?  Se assim for, veja [este artigo](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
 
 
 

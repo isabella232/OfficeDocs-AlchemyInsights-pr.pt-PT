@@ -1,7 +1,7 @@
 ---
-title: Definições de política da organização para os utilizadores externos
-ms.author: efrene
-author: efrene
+title: Configurações de política de organização para usuários externos
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,22 +10,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 1ba83b938600196e1c40e8e8d228eecf5bb939cf
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 18a313ef54d94374b475ebc7f98c8ad62c5b0ee7
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36756371"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054497"
 ---
-# <a name="organization-policy-settings-for-external-users"></a>Definições de política da organização para os utilizadores externos
+# <a name="organization-policy-settings-for-external-users"></a>Configurações de política de organização para usuários externos
 
-Os utilizadores podem ver a seguinte mensagem de aviso quando tenta partilhar com utilizadores externos da organização: 
+Os usuários podem ver a seguinte mensagem de aviso quando tentam compartilhar com usuários externos de sua organização: 
 
-   **As políticas de organização não permitem partilhar com estes utilizadores. Vá para a partilha externo no Centro de administração do Office 365 para activá-la.** 
+   **As políticas da sua organização não permitem que você compartilhe com esses usuários. Acesse o Compartilhamento Externo no centro de administração do Office 365 para habilitá-lo.** 
 
-Isto acontece frequentemente a primeira vez que tentar partilhar com utilizadores externos ou, quando partilhar com novos utilizadores externos. Para mais informações, consulte o artigo abaixo:
+Isso geralmente acontece pela primeira vez tentando compartilhar com usuários externos ou ao compartilhar com novos usuários externos. Para mais informações, consulte o artigo abaixo:
 
-[As políticas de organização não lhe permitem partilhar com estes utilizadores](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+[As políticas da sua organização não permitem que você compartilhe com esses usuários](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 
 
 

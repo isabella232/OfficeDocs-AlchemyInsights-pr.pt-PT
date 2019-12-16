@@ -1,7 +1,7 @@
 ---
-title: Optimização durante a migração do SharePoint
+title: Limitação durante a migração do SharePoint
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,21 +10,21 @@ ms.custom:
 - "1987"
 - "9000353"
 ms.assetid: ''
-ms.openlocfilehash: 6958e9ae6ed322bdbdcfa49d977eafd420a68c31
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: a03014eff1b03367103242ba630ace6ee0f4acca
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36749127"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052444"
 ---
-# <a name="sharepoint-throttling"></a>Optimização do SharePoint
+# <a name="sharepoint-throttling"></a>Limitação sharepoint
 
-SharePoint Online utiliza optimização para manter um óptimo desempenho e fiabilidade do serviço Online do SharePoint. Limites de estreitamento o número de acções do utilizador ou em simultâneo chamadas (por script ou código) para impedir a utilização excessiva de recursos.
+O SharePoint Online usa a limitação para manter o desempenho ideal e a confiabilidade do serviço SharePoint Online. A limitação limita o número de ações do usuário ou chamadas simultâneas (por script ou código) para evitar o uso excessivo de recursos.
 
-Para obter mais informações, visite as hiperligações abaixo:
+Para mais informações, visite os links abaixo:
 
-- [Evitar obter limitada ou bloqueado no SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-- [Migração de dados e a optimização de SPO](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
-- [Velocidade de migração de OneDrive e do SharePoint Online](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
-- [Processar SharePoint Online utilizando exponencial término de optimização](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
-- [Planear capacidade e a carga de ensaio SharePoint Online](https://support.office.com/article/Capacity-planning-and-load-testing-SharePoint-Online-c932bd9b-fb9a-47ab-a330-6979d03688c0)
+- [Evite ser estrangulado ou bloqueado no SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [Migração de dados e limitação de SPO](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
+- [SharePoint online e onedrive velocidade de migração](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [Lidar com a limitação on-line SharePoint usando recuo exponencial](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
+- [Planejamento de capacidade e testes de carga SharePoint Online](https://support.office.com/article/Capacity-planning-and-load-testing-SharePoint-Online-c932bd9b-fb9a-47ab-a330-6979d03688c0)

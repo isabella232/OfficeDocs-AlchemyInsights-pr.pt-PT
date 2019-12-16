@@ -1,7 +1,7 @@
 ---
-title: Restaurar um grupo eliminado do Office 365
-ms.author: kaarins
-author: kaarins
+title: Restaurar um grupo excluído do Office 365
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 3/23/2018
 ms.audience: Admin
@@ -13,20 +13,20 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: e1f0ecaeca3154096c952c0a5018805ac46d8d3f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2e89b479f8cfc0ee0e590b64d09abae8a678e1cc
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509264"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048843"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>Restaurar um grupo eliminado do Office 365
+# <a name="restore-a-deleted-office-365-group"></a>Restaurar um grupo excluído do Office 365
 
-Grupos eliminados são mantidos durante 30 dias. Para restaurar um grupo eliminado:
+Os grupos excluídos são mantidos por 30 dias. Para restaurar um grupo excluído:
   
-1. No [Centro de administração do Exchange](https://outlook.office365.com/ecp/), seleccione **os destinatários** no painel da esquerda e, em seguida, seleccione os **grupos**. Se um grupo que foram eliminado há menos de 30 dias, será apresentado na lista e a coluna Estado será a data eliminada da lista.
+1. No [centro de administração da Troca,](https://outlook.office365.com/ecp/)selecione **destinatários** no painel esquerdo e, em seguida, selecione **grupos.** Se um grupo foi excluído há menos de 30 dias, ele aparecerá na lista e a coluna STATUS listará a data excluída.
 
-2. Seleccione o grupo e, em seguida, clique em **Restaurar** na barra de comando ou clique na hiperligação "Clique aqui para restaurar" no painel de detalhes.
+2. Selecione o grupo e, em seguida, clique em **Restaurar** na barra de comando ou clique no link "Clique aqui para restaurar" no painel de detalhes.
 
-Para obter mais informações, ou para obter informações sobre como restaurar grupos utilizando o PowerShell, consulte [restaurar um grupo eliminado do Office 365](https://go.microsoft.com/fwlink/?linkid=867802).
+Para mais informações, ou para aprender a restaurar grupos usando powershell, [consulte restaurar um grupo excluído do Office 365](https://go.microsoft.com/fwlink/?linkid=867802).
   

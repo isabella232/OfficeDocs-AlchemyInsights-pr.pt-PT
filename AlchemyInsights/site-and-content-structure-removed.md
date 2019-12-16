@@ -1,26 +1,26 @@
 ---
-title: Site e estrutura do conteúdo removidos
+title: Estrutura do site e conteúdo removida
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 55060d5c-fb1c-4812-bc66-181a7aa2cdea
-ms.openlocfilehash: c4301fd892e82f2d41c69f0e65b319b92f676be2
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: cbdb461220acd38a0b7c1ec45fb76da67068010a
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36749487"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053596"
 ---
-# <a name="site-and-content-structure-removed"></a>Site e estrutura do conteúdo removidos
+# <a name="site-and-content-structure-removed"></a>Estrutura do site e conteúdo removida
 
-A partir de Outubro de 2018, o conteúdo do Site e a estrutura de página deixarão de ser suportadas ou recebem actualizações de funcionalidade. A hiperligação de definições para a página de SiteManager.aspx será removida do SharePoint Online e acesso directo será limitado aos administradores de colecção de Site até Março de 2019, altura em que a página de conteúdo do Site e a estrutura será totalmente retirada. 
+A partir de outubro de 2018, a página conteúdo e estrutura do site não será mais suportada ou receberá atualizações de recursos. O link de configurações para a página SiteManager.aspx será removido do SharePoint Online e o acesso direto será restrito aos Administradores de Coleta de Sites até março de 2019, momento em que a página de Conteúdo e Estrutura do Site será totalmente aposentada. 
 
-Nota: Como solução até que a funcionalidade totalmente é retirada, os administradores de colecção de sites pode navegar para o Centro admin do Microsoft 365, seleccione o mosaico do SharePoint e acrescentar ou editar o URL, substituindo ' / Sharepoint.aspx' com ' / Sitemanager.aspx'. 
+Nota: Como uma solução alternativa até que o recurso esteja totalmente aposentado, os administradores de coleta do site podem navegar até o centro de administração do Microsoft 365, selecionar o azulejo SharePoint e anexar ou eitar a URL substituindo '/Sharepoint.aspx' por '/Sitemanager.aspx'. 
 
 
-Utilize cópia e mudança de ficheiro para gerir o conteúdo do site e a estrutura. Para mais informações, consulte a [copiar ficheiros e pastas entre sites SharePoint ou OneDrive](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f). 
+Use o Movimento e a Cópia do Arquivo para gerenciar o conteúdo e a estrutura do site. Para mais informações, [consulte arquivos e pastas de cópia entre os sites OneDrive e SharePoint.](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f) 
 
-Para mais informações, consulte [trabalhar com o conteúdo do site e a estrutura](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).
+Para mais informações, consulte o trabalho com conteúdo e estrutura do [site.](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f)

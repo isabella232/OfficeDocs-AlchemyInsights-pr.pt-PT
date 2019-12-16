@@ -1,7 +1,7 @@
 ---
-title: S/MIME do Outlook na web
+title: S/MIME em Outlook na web
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 6915470655b85922f6f97e8ca6fac353224b1ae0
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 33e94eac6a2982b8036e13d17bf60015f244f2cb
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752871"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053236"
 ---
-# <a name="encrypt-email-messages-in-outlook"></a>Encriptar mensagens de correio electrónico no Outlook
+# <a name="encrypt-email-messages-in-outlook"></a>Criptografar mensagens de e-mail no Outlook
 
-Encriptação de mensagens do Office 365 foi criada no Microsoft Azure gestão de direitos (Azure RMS), que faz parte da protecção de informações de Azure. Se a subscrição inclui a gestão de direitos Azure ou protecção de informações Azure, **não é necessário efectuar quaisquer acções para activar manualmente ou activar** o serviço de gestão de direitos.
+A criptografia de mensagens do Office 365 é construída no Microsoft Azure Rights Management (Azure RMS), que faz parte da Proteção de Informações do Azure. Se sua assinatura incluir a Gestão de Direitos Do Azure ou a Proteção de Informações do Azure, **você não precisará tomar nenhuma ação para ativar ou ativar manualmente** o Serviço de Gerenciamento de Direitos.
 
-Com base nos comentários dos clientes, a Microsoft já não activar regras de fluxo de correio Exchange encriptar automaticamente correio electrónico enviado com determinado tipo de informações sensíveis no seu tenant por predefinição. Em vez disso, estamos a fornecer instruções detalhadas sobre como pode fazê-lo mitos. Para obter detalhes adicionais sobre como criar uma regra de transporte para encriptar informações sensíveis, consulte [Este artigo](https://aka.ms/OmeEtr).
+Com base no feedback do cliente, não estaremos mais permitindo que as regras de fluxo de e-mail da Exchange criptografem automaticamente o e-mail de saída contendo determinado tipo de informação sensível em seu locatário por padrão. Em vez disso, estamos fornecendo instruções detalhadas sobre como você pode fazê-lo sozinhos. Para obter detalhes adicionais sobre como criar uma regra de transporte para criptografar informações confidenciais, consulte [este artigo.](https://aka.ms/OmeEtr)
 
-- Se utilizar o Outlook na Web (anteriormente **OWA**): quando estiver a compor uma mensagem de correio electrónico, basta clicar **proteger** no OWA. Isto aplicará a permissão "Não reencaminhar". Clique em **Alterar permissão** e escolher **encriptar** apenas a encriptar a mensagem.
+- Se estiver usando o Outlook na Web (anteriormente **OWA):** Ao compor uma mensagem de e-mail, basta clicar em **Proteger** na OWA. Isso aplicará a permissão "Não encaminhe". Clique **na permissão de alteração** e escolha **criptografar** apenas a mensagem.
 
-- Se utilizar o **cliente Outlook**: para enviar uma mensagem encriptada a partir do Outlook 2013 ou de 2016, ou de 2016 do Outlook para Mac, seleccione **Opções** > **permissões**, em seguida, seleccione a opção de protecção que necessita.
+- Se estiver usando o **cliente do Outlook:** Para enviar uma mensagem criptografada do Outlook 2013 ou 2016, ou Outlook 2016 para Mac, selecione**Permissões**de **Opções** > e selecione a opção de proteção de que precisa.
 
-- Para **encriptar automaticamente todas as mensagem de correio electrónico** enviadas para determinados destinatários ou organizações de parceiro externo, é necessário criar uma regra de transporte de fluxo de correio no Centro de administração do Exchange. São fornecidas instruções detalhadas no [presente artigo de suporte](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities).
+- Para **criptografar automaticamente todos os e-mails** enviados a determinados destinatários ou organizações parceiras externas, você precisa criar uma regra de transporte de fluxo de correio no Exchange Admin Center. Instruções detalhadas são fornecidas [neste artigo de suporte.](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities)
 

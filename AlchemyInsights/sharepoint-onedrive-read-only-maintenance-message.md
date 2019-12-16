@@ -1,7 +1,7 @@
 ---
-title: Só de leitura para mensagens de manutenção ao tentar utilizar o SharePoint ou OneDrive
-ms.author: efrene
-author: efrene
+title: Leia-somente para a mensagem de manutenção ao tentar usar sharepoint ou onedrive
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -12,33 +12,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
-ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
+ms.openlocfilehash: 02cf1aa7abae365a3d317af9e785648d1c1517e1
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620734"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051292"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Só de leitura para mensagens de manutenção ao tentar utilizar o SharePoint ou OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Leia-somente para a mensagem de manutenção ao tentar usar sharepoint ou onedrive
 
-Os utilizadores poderão receber uma mensagem **Só de leitura para manutenção** , quando tenta utilizar o SharePoint ou OneDrive para um dos seguintes cenários. 
+Os usuários podem receber uma mensagem **de leitura somente para manutenção** ao tentar usar o SharePoint ou o OneDrive para um dos seguintes cenários. 
 
--   Uma actividade de manutenção planeada ou activa.  Verifique os navegando para o [Centro de mensagens](https://portal.office.com/adminportal/home#/messagecenter).
--   Incidentes de serviço activo de elevada prioridade, que podem estar a ocorrer. Verificar a existência de quaisquer avisos de incidentes navegando para a [Saúde do serviço](https://portal.office.com/adminportal/home#/servicehealth).
--   Um pequena reparação automática cenário de recuperação que poderia ser acontecer devido a quaisquer acontecimentos imprevistos nos servidores que podem durar menos de 30 min., mais ou menos. 
+-   Uma atividade de manutenção planejada ou ativa.  Verifique se eles, navegando para o Centro de [Mensagens](https://portal.office.com/adminportal/home#/messagecenter).
+-   Um incidente de serviço ativo de alta prioridade que pode estar ocorrendo. Verifique se há avisos/incidentes navegando para o [Serviço de Saúde.](https://portal.office.com/adminportal/home#/servicehealth)
+-   Um cenário de recuperação de auto-cura menor que poderia estar acontecendo devido a quaisquer eventos inesperados nos servidores que podem durar menos de 30 min ou assim. 
     
-    Não existem nenhum Centro de mensagens ou serviço de saúde regista estes pequenas recuperações mas deverá ser normal muito mais rapidamente.
+    Não há mensagens do Centro de Mensagens ou de Saúde de Serviço para essas pequenas recuperações, mas você deve estar de volta ao normal muito em breve.
 
-Em ocasiões muito poucos Vamos observar que um dos três cenários listados acima ter sido a causa e serviço foi restaurado, mas ainda não foram eliminada da cache do browser os utilizadores.
+Em poucas ocasiões, observamos que um dos três cenários listados acima foi a causa, e o serviço foi restaurado, mas o cache do navegador de usuários não foi esclarecido.
 
-Tente limpar a cache do browser antes de navegar para o site.
+Por favor, tente limpar o cache do navegador antes de navegar para o site.
 
-1. No browser do Microsoft Edge, seleccione **Definições**e, em seguida, seleccione a **privacidade e segurança**.
-2. Em **Navegação clara**, seleccione **Escolher o que para a desmarcar**.
-3. Seleccione **Cookies e dados dos Web sites guardada**e, seleccione **Limpar**.
-
->[!Note] 
-> Estes passos podem ser diferentes quando utiliza outros browsers, tais como o Mozilla Firefox ou o Google Chrome.
+1. No navegador Microsoft Edge, selecione **configurações**e selecione **privacidade e segurança.**
+2. Em **navegação clara,** **selecione escolha o que limpar.**
+3. Selecione **cookies e economizou dados**do site, e **selecione Clear**.
 
 >[!Note] 
-> Outra opção seria abrir o SharePoint site ou OneDrive numa nova janela InPrivate.
+> Essas etapas podem diferir ao usar outros navegadores, como o Mozilla Firefox ou o Google Chrome.
+
+>[!Note] 
+> Outra opção seria abrir seu site SharePoint ou OneDrive em uma nova janela InPrivate.

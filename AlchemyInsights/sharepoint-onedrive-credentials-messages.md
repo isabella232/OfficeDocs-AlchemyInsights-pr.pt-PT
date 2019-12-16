@@ -1,7 +1,7 @@
 ---
-title: Abrir uma biblioteca do SharePoint no explorador de arquivos
+title: Abra uma biblioteca SharePoint no File Explorer
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: d33e0ad6903d960320578d3e3b2b5224d07a9574
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: b3bcff33fd0fa59b4f660af12cdd2a5c82409d1e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36751035"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053956"
 ---
 # <a name="credential-messages-in-sharepoint-or-onedrive"></a>Mensagens de credencial no SharePoint ou no OneDrive
 
-Os usuários podem ser solicitados periodicamente pelo Office para credenciais para o SharePoint Online ou OneDrive ao tentar abrir documentos.
+Os usuários podem estar periodicamente sendo solicitados pelo Office para credenciais para SharePoint Online ou OneDrive ao tentar abrir documentos.
 
 A seguir estão alguns exemplos das mensagens de credencial:
 
-- Entrar com sua conta organizacional
+- Entre na conta organizacional
 
 - As credenciais são necessárias
 
-- Não conseguimos ligar agora, verifique a ligação à rede
+- Não podemos nos conectar agora, verifique sua conexão de rede
 
-Se você estiver enfrentando esses sintomas, tente as etapas localizadas neste [artigo](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint).
+Se você está experimentando estes sintomas, tente por favor as etapas situadas [neste artigo.](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint)
 
-Em alternativa, se estiver a utilizar o início de sessão único (SSO) para autenticar, consulte [Este artigo](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) em vez disso.
+Alternativamente, se você estiver usando o único login (SSO) para autenticar, consulte [este artigo.](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10)
 

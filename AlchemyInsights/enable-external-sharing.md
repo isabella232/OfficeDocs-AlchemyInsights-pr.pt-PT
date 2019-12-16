@@ -1,42 +1,42 @@
 ---
-title: Activar a partilha externo
+title: Permitir a partilha externa
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 53eadea43e4ac9365bd7f434b1db254ccf224e4b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 5d8de2b0f29409b585451b160e421ad7eaac4cef
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36756039"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052732"
 ---
-# <a name="enable-external-sharing"></a>Activar a partilha externo
+# <a name="enable-external-sharing"></a>Permitir a partilha externa
 
- Para garantir que a partilha está activada para o SharePoint Online:
+ Para garantir que o compartilhamento seja ativado para o SharePoint Online:
   
-- **Partilha global**
+- **Compartilhamento global**
     
-  - Portal -\> externa partilha -\> deixar de descrição geral da partilha - Sites, pessoas externas aceder as sites: ON
+  - Portal\> - Compartilhamento\> Externo - Compartilhamento Geral - Sites, Deixe pessoas externas acessarem seus sites: ON
     
-  - Portal -\> externa partilha -\> Sites - caixa de verificação "Deixar externas pessoas aceder aos sites"
+  - Portal\> - Compartilhamento\> Externo - Sites - "Deixe pessoas externas acessarem seus sites" caixa de seleção
     
-- **A partilha administrativa - Centro de administração do SharePoint**
+- **Compartilhamento Administrativo - SharePoint Admin Center**
     
-    Partilha externa - Certifique-se qualquer uma das duas opções estão seleccionada:
+    Compartilhamento Externo - garantir que qualquer uma das duas opções sejam selecionadas:
     
-  - "Permitir que os utilizadores externos que aceitam convites de partilha e iniciar sessão como utilizadores autenticados"
+  - "Permitir que usuários externos que aceitam compartilhar convites e entrar como usuários autenticados"
     
-  - "Permitir ambos os utilizadores externos que aceitarem a partilha de convites e hiperligações de convidado anónimo"
+  - "Permitir que ambos os usuários externos que aceitam compartilhar convites e links de convidados anônimos"
     
-- **Colecções de sites individuais**
+- **Coleções individuais do site**
     
-  - Colecções - colecção de sites Select em causa, de sites e, em seguida, clique em partilhar - do friso -\> Certifique-se de que quer partilhar opções estão seleccionadas.
+  - Coleções de sites - Selecione a coleção do site\> em questão e, em seguida, clique em Compartilhar - a partir da fita - certifique-se de que as opções de compartilhamento sejam selecionadas.
     
-Para obter informações adicionais sobre como activar a partilha externo, consulte [Activar ou desactivar a partilha para o SharePoint Online externos.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Para obter informações adicionais sobre como ativar o compartilhamento externo, consulte o compartilhamento externo do Turn para o [SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 

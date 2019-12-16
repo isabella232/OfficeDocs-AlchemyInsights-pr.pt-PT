@@ -1,46 +1,46 @@
 ---
-title: Guardar site ou lista como um modelo
+title: Salvar o site ou lista como um modelo
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: 1fe0a2f5bf65ef4e8cabf3d05a701c8eff966435
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 627f49991aaef984f731412045351d7a1862b376
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752043"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048735"
 ---
-# <a name="save-site-or-list-as-a-template"></a>Guardar site ou lista como um modelo
+# <a name="save-site-or-list-as-a-template"></a>Salvar o site ou lista como um modelo
 
-Modelos de site do SharePoint são definições previamente concebidas destinadas em torno de uma determinada necessidade da empresa. Para mais informações, consulte [utilizar modelos para criar diferentes tipos de sites do SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+Os modelos do site SharePoint são definições pré-construídas projetadas em torno de uma determinada necessidade de negócios. Para mais informações, veja [usando modelos para criar diferentes tipos de sites sharepoint.](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4)
 
-Eis algumas questões/soluções comuns relativas ao guardar um Site ou lista como um modelo no SharePoint Online.
+Aqui estão alguns problemas/soluções comuns sobre salvar um site ou lista como um modelo no SharePoint Online.
 
-**Guardar site/lista modelo botão não estiver em falta ou não disponível**. 
+Salvar o botão de modelo de **site/lista não está disponível ou ausente.** 
 
-- Os administradores serão necessário permitir Script personalizado para activar as funcionalidades do modelo. Para obter passos detalhados, exemplos e considerações consulte [Permitir ou impedir que o script personalizado](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
-
-
-- O site de guardar como comando de modelo não é suportado e pode causar problemas em sites que utilizem a infra-estrutura de publicação do SharePoint Server.
+- Os administradores precisarão permitir o script personalizado para ativar os recursos do modelo. Para etapas detalhadas, exemplos e considerações [consulte Permitir ou impedir o script personalizado.](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
 
-**O modelo de site não é possível criar ou não funciona correctamente**
-
-- O modelo pode estar em falta uma [funcionalidade](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) e não vai activar. Se a funcionalidade não está disponível para activar a colecção de sites actual, é possível utilizar o modelo de site para criar um site.
+- O site Save como comando de modelo não é suportado e pode causar problemas em sites que usam a infraestrutura de publicação de servidores sharepoint.
 
 
-- Verifique se todas as listas ou bibliotecas de excederem o [Limiar de limite de vista de lista](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) de 5000 itens, como este pode bloquear a criação de um modelo de site.
+**O modelo do site não pode ser criado ou não funciona corretamente**
+
+- O modelo pode estar faltando um [recurso](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) e não será ativado. Se o recurso não estiver disponível para ativar na coleção do site atual, você não pode usar o modelo do site para criar um site.
 
 
-- O site poderá estar a utilizar demasiados recursos e, por conseguinte, o modelo de site excede o limite de 50 megabytes (MB).
+- Verifique se há listas ou bibliotecas excedendo o limite de visualização de [lista](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) de 5.000 itens, pois isso pode bloquear a criação de um modelo do site.
 
 
-- Existem problemas em visualizar dados de uma lista que utiliza uma coluna de pesquisa. Para mais informações, consulte a [lista gerada de modelo não apresenta os dados na lista de pesquisa correcta no SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
+- O site pode estar usando muitos recursos e, portanto, o modelo do site excede o limite de 50 megabytes (MB).
 
 
-Para obter informações mais detalhadas sobre problemas comuns e soluções utilize a referência, [criar e utilizar modelos de site](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+- Há problemas para exibir dados de uma lista que usa uma coluna de pesquisa. Para obter mais informações, consulte a [lista gerada pelo Modelo não exibir dados da lista de pesquisa correta no SharePoint Online.](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data)
+
+
+Para obter informações mais detalhadas sobre problemas e soluções comuns, por favor, faça referência, [crie e use modelos](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989)do site.
 

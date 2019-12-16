@@ -1,32 +1,32 @@
 ---
-title: Partilhar um Site de comunicação com utilizadores externos
+title: Compartilhe um site de comunicação com usuários externos
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 1/3/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: e41b296f3ac02d766c55133c1d31f687f7854641
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 393ee0bb9c5ac01f2d948b1a772c7b9915caed87
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36751971"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054172"
 ---
-# <a name="share-a-communication-site-with-external-users"></a>Partilhar um Site de comunicação com utilizadores externos
+# <a name="share-a-communication-site-with-external-users"></a>Compartilhe um site de comunicação com usuários externos
 
-Para activar a partilha para sites de comunicação do utilizador externo, siga estes passos: 
+Para ativar o compartilhamento de usuários externos para sites de comunicação, siga essas etapas: 
   
-1. Abrir **Moderno Admin Center** - se estiver no Centro de administração clássico, verá um **experimentá-lo agora** ou * * tente pré-visualização * * botão do canto superior direito. Isto leva-o para o Centro de administração moderna. 
+1. Abra o **Modern Admin Center** - Se você estiver no centro de administração clássico, você verá um **Experimente agora** ou ** Experimente o botão de visualização ** do canto superior direito. Isso o levará ao Moderno Centro de Administração. 
   
-2. Seleccione **Sites activos.**
+2. Selecione **sites ativos.**
   
-3. Seleccione um site que tenha um **modelo de Site de comunicação**. 
+3. Selecione um site que tenha um modelo de site de **comunicação.** 
   
-4. Seleccione o botão de **partilha** a partir do menu superior. 
+4. Selecione o botão **compartilhamento** no menu principal. 
   
- **Nota:** Se tiver mais do que um local seleccionado, o botão de **partilha** aparece desactivado. Seleccione apenas um site. 
+ **Nota:** Se você tiver mais de um site selecionado, o botão **compartilhamento** aparecerá desativado. Selecione apenas um site. 
   
 

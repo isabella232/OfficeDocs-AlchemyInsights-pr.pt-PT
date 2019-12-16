@@ -1,37 +1,37 @@
 ---
-title: Procurar no SharePoint Online
-ms.author: efrene
-author: efrene
+title: Pesquisa no SharePoint Online
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c4ff98f0cf928834c803542340b32da15a40d583
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507642"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044054"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Conteúdo de pesquisa e indexação no SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Rastreamento de conteúdo e indexação no SharePoint Online
 
-Conteúdo deve ser pesquisado e adicionado ao índice de procura aos utilizadores a localização daquilo procura no SharePoint Online. Conteúdo é pesquisado automaticamente com base numa agenda de pesquisa predefinido (não é possível alterar a agenda de pesquisa). O crawler capta conteúdo que foi alterado desde a última pesquisa e actualiza o índice. Para garantir o conteúdo é pesquisado e o índice é actualizado, tenha em atenção o seguinte:
+O conteúdo deve ser rastreado e adicionado ao índice de pesquisa para que os usuários encontrem o que estão pesquisando no SharePoint Online. O conteúdo é automaticamente rastreado com base em um cronograma de rastreamento pré-definido (o cronograma de rastreamento não pode ser alterado). O rastreador capta conteúdo que mudou desde o último rastreamento e atualiza o índice. Para garantir que o conteúdo seja rastreado e o índice seja atualizado, observe o seguinte:
 
-- Certifique-se de conteúdo pode ser encontrado, [tornando o conteúdo do site pesquisável](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
+- Certifique-se de que o conteúdo pode ser encontrado tornando o conteúdo do [site pesquisável](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
-- Quando alterar uma propriedade gerida ou quando alterou o mapeamento de pesquisado e geridos propriedades, o site tem de ser novamente pesquisadas antes das alterações serão reflectidas no índice de pesquisa. 
+- Quando você mudou uma propriedade controlada, ou quando você mudou o mapeamento de propriedades rastejadas e controladas, o local deve ser re-rastejado antes que suas mudanças sejam refletidas no índice da busca. 
 
-    Uma vez que as alterações serão efectuadas no esquema de procura e não para o site actual, o crawler não adicionará automaticamente re-indexe o site. 
+    Como suas alterações são feitas no esquema de pesquisa e não no site real, o rastreador não reindexará automaticamente o site. 
 
-    Para obter mais informações, consulte [Pedir manualmente de pesquisa e indexação voltar de um site, uma biblioteca ou uma lista](https://docs.microsoft.com/sharepoint/crawl-site-conten).
+    Para mais informações, consulte [manualmente rastreamento e re-indexação de um site, uma biblioteca ou uma lista](https://docs.microsoft.com/sharepoint/crawl-site-conten).
 
-- Aguarde, pelo menos, 24 horas após solicitar manualmente uma pesquisa e, em seguida, completa reindexar para ver se ainda estiver com um problema. 
+- Espere pelo menos 24 horas depois de solicitar manualmente um rastreamento e re-índice completo para ver se você ainda está enfrentando um problema. 
 
-    Se tiverem passado mais de 24 horas desde que iniciou a pesquisa e, em seguida, reindexar completo, inicie a sessão de um incidente de suporte. Em muitos casos, a Microsoft já estiver a trabalhar numa solução. Forneça pelo menos 24 horas para concluir uma solução.
+    Se mais de 24 horas se passaram desde que você iniciou o rastreamento e re-índice completo, por favor, registre um caso de suporte. Em muitos casos, já estamos trabalhando em uma solução. Por favor, dê-nos pelo menos 24 horas para completar uma solução.
 
 > [!IMPORTANT]
-> Se um site, uma lista ou documento (biblioteca) foi eliminado e continua a aparecer nos resultados da procura, os utilizadores devem receber um **Erro 404 ficheiro não encontrado** ao tentar aceder a ele. Este problema deve ser registado como um incidente de suporte para a investigação suplementar. 
+> Se um site, documento (biblioteca) ou uma lista for excluído e ainda for exibido nos resultados da pesquisa, os usuários devem receber um **arquivo Erro 404 não encontrado** ao tentar acessá-lo. Esta questão deve ser registrada como um caso de apoio para uma investigação mais aprofundada. 
 
 
 

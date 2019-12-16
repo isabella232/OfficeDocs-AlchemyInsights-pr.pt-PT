@@ -1,26 +1,26 @@
 ---
-title: Mensagem 'OneDrive conta será eliminada'
+title: Mensagem 'OneDrive será excluída'
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 10/30/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 16645f44-219e-4f2a-b30b-159a409b790c
-ms.openlocfilehash: 6e9027e4bf2baa9b1a04177651ec627723ba4a4b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: a3aefb6685ed6dce166ad422ddaafd8f62f18bb3
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36753519"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053308"
 ---
-# <a name="onedrive-account-will-be-deleted-message"></a>Mensagem de "OneDrive conta será eliminada"
+# <a name="onedrive-account-will-be-deleted-message"></a>Mensagem "OneDrive será excluída"
 
-Se tiver recebido uma mensagem de correio electrónico de email@mail.onedrive.com aviso que "a sua conta de OneDrive será eliminada" note que esta é a sua conta pessoal do OneDrive.com, não o OneDrive para a conta de negócio. 
+Se você recebeu um e-mail de email@mail.onedrive.com aviso de que "sua conta OneDrive será excluída", por favor, note que esta é a sua conta pessoal OneDrive.com, não a sua conta OneDrive for Business. 
   
-Se não tiver a certeza se utilizar OneDrive pessoal, inicie sessão no onedrive.com para reactivar e rever a sua conta.
+Se você não tem certeza se você usa o OneDrive pessoal, entre em onedrive.com para reativar e revisar sua conta.
   
-Para mais informações, consulte [por que recebi uma mensagem de correio electrónico indicando que a conta será eliminada?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
+Para mais informações, veja [por que recebi um e-mail dizendo](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409) que sua conta será excluída?
   
 

@@ -1,7 +1,7 @@
 ---
-title: O Project Web App está ausente do conjunto de sites do SharePoint
+title: Projeto Web App está faltando na coleção do site SharePoint
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -9,19 +9,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000207
-ms.openlocfilehash: 8c749ce5f7e6a00b990ca387833fac90f4e2ce17
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 84a35512366f8f0b7bc5b1001adb5cb2d13d67e4
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36749667"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050968"
 ---
-# <a name="missing-web-part-in-sharepoint-site-collection"></a>Web Part ausente no conjunto de sites do SharePoint
+# <a name="missing-web-part-in-sharepoint-site-collection"></a>Faltando parte da Web na coleção do site SharePoint
 
-Se você estiver faltando uma Web Part que você está acostumado a ver, é possível que você está tentando adicionar uma [Web Part clássico em uma página moderna](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). É importante notar que as páginas modernas só podem usar Web Parts modernas e páginas clássicas só podem usar Web Parts clássicas. Muitas Web Parts modernas cumprem os mesmos propósitos que as Web Parts clássicas, mas você verá diferenças de aparência e funcionalidade.
+Se você está faltando uma parte da Web que você está acostumado a ver, é possível que você está tentando adicionar uma [parte da web clássico em uma página moderna](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). É importante notar que as páginas modernas só podem usar partes web modernas e páginas clássicas só podem usar partes web clássicas. Muitas partes web modernas cumprem os mesmos propósitos que as partes web clássicas, mas você verá diferenças na aparência e funcionalidade.
 
-Há muitas Web Parts que não são demonstradas devido à configuração de [script personalizada](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), que é desabilitada por padrão em sites modernos. 
+Há muitas partes da Web que não aparecem devido à [configuração](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)de script personalizado , que é desativado por padrão em sites modernos. 
 
-Para obter uma lista de Web Parts que não estão disponíveis, consulte os [recursos afetados quando o script personalizado é bloqueado](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
+Para obter uma lista de peças da Web que não estão disponíveis, consulte, [os recursos afetados quando](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked)o script personalizado é bloqueado.
 
- Para obter mais informações sobre as implicações de segurança do script personalizado, consulte [considerações de segurança de permitir script personalizado](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
+ Para obter mais informações sobre as implicações de segurança do script personalizado, [consulte as considerações de segurança de permitir o script personalizado.](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script)

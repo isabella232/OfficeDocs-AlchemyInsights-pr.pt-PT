@@ -1,7 +1,7 @@
 ---
-title: Retenção de OneDrive e eliminação
-ms.author: efrene
-author: efrene
+title: Retenção e exclusão do OneDrive
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,26 +12,26 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 50a75073339f1903f2f843e301441c90e795d2f1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521578"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053344"
 ---
-# <a name="onedrive-retention-and-deletion"></a>Retenção de OneDrive e eliminação
+# <a name="onedrive-retention-and-deletion"></a>Retenção e exclusão do OneDrive
 
-- Pode [restaurar um OneDrive de utilizadores eliminadas](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) manualmente. São de reciclagem para dias 93. 
+- Você pode [restaurar um onedrive de usuários excluídos.](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) Eles estão em lixeira por 93 dias. 
 
-- Consulte [Este artigo](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) para obter informações sobre:
-    - Como fornecer outro acesso de utilizador para OneDrive um utilizador eliminado.
-    - O que acontece a OneDrive um utilizador quando elimina a conta de utilizador Office 365 para a sua organização.
+- Veja [este artigo](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) para aprender:
+    - Como dar a outro usuário acesso ao OneDrive de um usuário excluído.
+    - O que acontece com o OneDrive de um usuário quando você exclui a conta do Office 365 do usuário para sua organização.
     - Como configurar a delegação de acesso automático.
-    - Como funciona o processo de eliminação de OneDrive.
+    - Como funciona o processo de exclusão do OneDrive.
 
-- Está interessado em retenção de centro de conformidade e de segurança e de suspensão?:
-    - [Políticas de retenção para os sites de OneDrive e do SharePoint](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [retenção de detecção de dados electrónicos para sites SharePoint ou OneDrive](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Interessado em segurança e retenção do Centro de Conformidade?:
+    - [Políticas de retenção para sites OneDrive e SharePoint](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [eDiscovery espera por sites OneDrive e SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Impedir que os arquivos sejam baixados do SharePoint ou do OneDrive
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: matteva
 ms.date: 08/06/2019
 ms.audience: Admin
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "2523"
 - "9000213"
-ms.openlocfilehash: 85db8d7525effc0ea84179b575d9f7aa56bb0e54
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 07056849ba8926c5bd34709990b65057a62e5602
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36554720"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054389"
 ---
 # <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Impedir que os arquivos sejam baixados do SharePoint ou do OneDrive
 
-Existem vários métodos que podem ser usados para impedir ou bloquear downloads ocorra. Por favor, visite os links abaixo para os respectivos métodos:
+Existem vários métodos que podem ser usados para impedir ou bloquear downloads ocorram. Visite os links abaixo para os respectivos métodos:
 
-- [Baixar arquivo de bloco com acesso condicional do Azure AD](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Download de arquivo de bloco com acesso condicional azure ad](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
 - [Controlar o acesso de dispositivos não geridos](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-- [Configurar diretivas de IRM em bibliotecas de documentos do SharePoint para limitar o download de conteúdo](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)
+- [Configure as políticas de IRM nas bibliotecas de documentos do SharePoint para limitar o download de conteúdo](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)

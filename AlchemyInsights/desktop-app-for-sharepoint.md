@@ -1,19 +1,19 @@
 ---
-title: Aplicação de ambiente de trabalho para SharePoint
+title: Aplicativo de desktop para SharePoint
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: f3c412932769d35ba79beed8065b866e12bc9bfa
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: a8e642d06cc3d3863e873f31b0e1715ba0b9136b
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755535"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052984"
 ---
-# <a name="desktop-app-for-sharepoint"></a>Aplicação de ambiente de trabalho para SharePoint
+# <a name="desktop-app-for-sharepoint"></a>Aplicativo de desktop para SharePoint
 
-A organização é introduzida no programa de pré-visualização privada para a aplicação de ambiente de trabalho para o SharePoint. A Microsoft não suporta actualmente a aplicação de ambiente de trabalho para o SharePoint (pré-visualização privada). Utilize os seus parceiros Microsoft Private pré-visualização inscritos para obter ajuda com a aplicação de ambiente de trabalho para o SharePoint.
+Sua organização está inscrita no programa de visualização privada para o aplicativo desktop para SharePoint. Atualmente, a Microsoft não suporta o aplicativo desktop para SharePoint (Private Preview). Por favor, use seus parceiros de visualização privados da Microsoft para obter assistência com o aplicativo desktop para o SharePoint.

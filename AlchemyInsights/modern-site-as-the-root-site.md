@@ -1,7 +1,7 @@
 ---
-title: Site moderna, tal como o site de raiz
-ms.author: efrene
-author: efrene
+title: Local moderno como o local da raiz
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ms.date: 8/7/2019
@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: a3cf44d52a3948634fc0eed64c852ff17515fd9b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 2e2bb02b9dbaf7f8ede0b4c5ba8c8f29453309cb
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36753915"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054713"
 ---
-# <a name="modern-site-as-root-site"></a>Moderno site como site de raiz
+# <a name="modern-site-as-root-site"></a>Local moderno como o local da raiz
 
-Vamos ter começado a fase de instalação uma nova funcionalidade que permite-lhe para [trocar o site de raiz clássico de site com um site moderno](https://docs.microsoft.com/sharepoint/modern-root-site). Utilize [Invoke SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) para mudar a localização de um site com outro site ao arquivar o site original. Disponível para o Site de equipa (não ligado a um grupo) e o Site de comunicação.
+Começamos a lançar um novo recurso que lhe permitirá [trocar seu site clássico com um site moderno.](https://docs.microsoft.com/sharepoint/modern-root-site) Use [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) para trocar a localização de um site com outro site enquanto arquiva o site original. Disponível para o Site da Equipe (não conectado a um grupo) e ao Site de Comunicação.
 
 >[!Important]
-> Não elimine o site de raiz clássico para criar um Site de comunicação modernos. Não é suportada pela Microsoft. Eliminar o site de raiz fará com que todos os sites SharePoint da sua organização inacessíveis a todos os utilizadores, até que restaure o site ou crie um novo site com o mesmo URL. A Microsoft vai estar a comunicar esta funcionalidade através do Centro de mensagem. Deve esperar a funcionalidade para ser activado no seu tenant dentro em breve.
+> Não exclua seu site clássico de raiz para criar um site de comunicação moderno. Isso não é suportado pela Microsoft. A exclusão do site raiz tornará todos os sites do SharePoint em sua organização inacessíveis a todos os usuários, até que você restaure o site ou crie um novo site na mesma URL. Estaremos comunicando esse recurso através do centro de mensagens. Você deve esperar que o recurso seja ativado em seu inquilino em breve.
 
-## <a name="known-issues-with-swapping-sites"></a>Problemas conhecidos relacionados com sites de comutação
-- O site de destino poderá devolver um erro (HTTP 404) "não foi encontrado" durante um curto período de tempo.
-- Conteúdo terá de ser pesquisado novamente para actualizar o índice de procura. Não existe nenhum passo manual necessário aqui, isto será feito automaticamente.
-- Tudo depende de ligações "estáticas" (por exemplo, ficheiros de sincronização de ficheiros e o OneNote), terá de ser corrigidas manualmente.
-- Sites do Project Server poderão ter de ser validadas para garantir que são ainda associadas correctamente. 
+## <a name="known-issues-with-swapping-sites"></a>Problemas conhecidos com a troca de sites
+- O site-alvo pode retornar um erro "não encontrado" (HTTP 404) por um curto período de tempo.
+- O conteúdo precisará ser rerabiscado para atualizar o índice de pesquisa. Não há nenhuma etapa manual exigida aqui, esta será feita automaticamente.
+- Qualquer coisa dependente de links "estáticos" (como arquivos File Sync e OneNote) precisará ser corrigido manualmente.
+- Os sites do Servidor do Projeto podem precisar ser validados para garantir que eles ainda estejam associados corretamente. 

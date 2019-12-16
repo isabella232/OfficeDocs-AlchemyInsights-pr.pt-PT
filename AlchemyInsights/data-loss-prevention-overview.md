@@ -1,30 +1,30 @@
 ---
-title: Descrição geral da Loss Prevention (DLP) de dados
+title: Visão geral da Prevenção de Perdas de Dados (DLP)
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: 96d9ecb3cd927946d6a5381fd6fd3a88fe67ac91
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: ce9353f81caba1717d92c913b26800ca67890dd8
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755139"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053092"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>Descrição geral da Loss Prevention (DLP) de dados
+# <a name="data-loss-prevention-dlp-overview"></a>Visão geral da Prevenção de Perdas de Dados (DLP)
 
-Com uma política do DLP, pode:
+Com uma política de DLP, você pode:
 
-- Identifica informações sensíveis ao longo de várias localizações, como o Exchange Online, Online do SharePoint e OneDrive para a empresa.
-
-
-Por exemplo, pode identificar qualquer documento que contenha um número de cartão de crédito é armazenado em qualquer OneDrive para o site da empresa, ou pode monitorizar apenas os sites de OneDrive de pessoas específicas.
-
-- Impedir a partilha acidental de informações sensíveis.
+- Identifique informações confidenciais em muitos locais, como Exchange Online, SharePoint Online e OneDrive for Business.
 
 
-Para mais informações, consulte o seguinte [artigo](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
+Por exemplo, você pode identificar qualquer documento contendo um número de cartão de crédito armazenado em qualquer site OneDrive for Business, ou você pode monitorar apenas os sites OneDrive de pessoas específicas.
+
+- Evite o compartilhamento acidental de informações confidenciais.
+
+
+Para mais informações, consulte o seguinte [artigo.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
 

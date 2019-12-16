@@ -1,24 +1,24 @@
 ---
 title: Conecte um site clássico da equipe SharePoint a um grupo
-ms.author: kaarins
-author: kaarins
+ms.author: pebaum
+author: pebaum
 ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1f6b170-bead-4e1c-b119-f6affd2b2264
-ms.openlocfilehash: 389880415621b7623c9f7ea9f43417eab878806a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4af4890ac6d353083c2ddb813ea1e91629b6fd51
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36504787"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049996"
 ---
 # <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>Conecte sites clássicos da equipe SharePoint aos novos grupos do Office 365
 
 Para avaliar se as coleções do site SharePoint estão prontas para se conectar aos grupos do Office 365, use a ferramenta de scanner de [modernização do SharePoint.](https://go.microsoft.com/fwlink/?linkid=873066) Esta ferramenta pode ajudá-lo a planejar sua estratégia de modernização do site e criará um relatório detalhado, incluindo áreas que precisam de atenção.
   
-Se você quiser permitir que os administradores de coleta de sites conectem sites de equipe seleção clássica a novos grupos a partir de um novo comando de menu que estamos adicionando, você não precisa fazer nada. Se, no entanto, você quiser desativar essa opção, você precisará alterar a configuração padrão. [Saiba como](https://go.microsoft.com/fwlink/?linkid=2004316). Observe que os administradores globais e do SharePoint no Office 365 sempre poderão conectar sites a novos grupos usando o cmdlet powershell ou aAPI.
+Se você quiser permitir que os administradores de coleta de sites conectem sites de equipe seleção clássica a novos grupos a partir de um novo comando de menu que estamos adicionando, você não precisa fazer nada. Se, no entanto, você quiser desativar essa opção, você precisará alterar a configuração padrão. [Saiba como](https://go.microsoft.com/fwlink/?linkid=2004316). Observe que os administradores globais e do SharePoint no Office 365 sempre poderão conectar sites a novos grupos usando o cmdlet powershell ou a API.
   
 

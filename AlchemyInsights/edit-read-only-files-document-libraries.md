@@ -1,33 +1,33 @@
 ---
-title: Editar um ficheiro só de leitura
+title: Eite um arquivo somente para leitura
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 9/10/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: bdfd516dd151addf874ea6ee4d9d7c6f23aa1da6
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c6fec0e837ed9e1d39620aa73bb12bd17095e518
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36756111"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052804"
 ---
-# <a name="edit-a-read-only-file"></a>Editar um ficheiro só de leitura
+# <a name="edit-a-read-only-file"></a>Eite um arquivo somente para leitura
 
-Poderá encontrar a que quando estiver a abrir ficheiros, abrem como só de leitura. Em alguns casos, isto é para uma maior segurança, tal como quando estiver a abrir ficheiros da internet e outras vezes, pode ser devido a uma definição que pode ser alterada. No artigo [porque é que o meu ficheiro aberto em só de leitura](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) iremos destacar alguns cenários onde um ficheiro é aberto como só de leitura e alguns passos que pode tomar para alterar.
+Você pode achar que quando você está abrindo arquivos, eles abrem apenas como leitura. Em alguns casos, isso é para maior segurança, como quando você está abrindo arquivos da internet, e outras vezes, pode ser devido a uma configuração que pode ser alterada. No artigo [Por que meu arquivo aberto em leitura apenas](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) delineamos alguns cenários onde um arquivo abre leitura somente e alguns passos que você pode tomar para mudar isso.
 
-Eis como abrir ficheiros do office para edição.
+Veja como abrir arquivos de escritório para edição.
 
-Em vez de clicar no título do documento, faça clique sobre o **Menu ' Abrir '** (três pontos) e, em seguida, clique em **Editar**.
+Em vez de clicar no título do documento, clique no **Menu Aberto** (os três pontões) e, em seguida, clique em **Eit.**
 
 Notas:
 
-- Se terá de abrir para edição no Office, quando clica no título de documentos em vez disso, pode configurar a biblioteca para o fazer (desde que tenha permissão para alterar as definições de biblioteca).
+- Se você preferir ter documentos abertos para edição no Office quando você clicar no título, você pode configurar a biblioteca para fazer isso (desde que você tenha permissão para alterar as configurações da biblioteca).
 
-- Se tiver bibliotecas com saída dada, colunas necessárias ou quando biblioteca de documentos apenas os utilizadores que podem editar definições de versão de um SharePoint, estes itens serão sincronizados como só de leitura.
+- Se você tiver bibliotecas com checkout, colunas necessárias ou quando somente os usuários que podem eitar em configurações de versão de uma biblioteca de documentos do SharePoint, esses itens serão sincronizados apenas como lidos.
 
-- Abre um documento do Office na vista protegida, mesmo que activar a definição de política "Documentos do Office aberto como leitura/escrita ao procurar". Para mais informações, consulte este [artigo.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
+- Um documento do Office abre na Protected View, mesmo que você habilite os documentos "Open Office como lidos/escrevadurante a configuração da política de navegação". Para mais informações, consulte este [artigo.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
 

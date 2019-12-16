@@ -1,7 +1,7 @@
 ---
-title: Gerir um grupo sem uma licença do Exchange
-ms.author: dianef
-author: dianef77
+title: Gerenciar um grupo sem uma licença de troca
+ms.author: pebaum
+author: pebaum
 ms.date: 5/23/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,18 +11,18 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: b974217fa53efe943f8e2e44313c5679c0faa9b3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f117cc1dc55e1786a9f6bc500314877e97df3f5e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497471"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049276"
 ---
-# <a name="manage-a-group-without-an-exchange-license"></a>Gerir um grupo sem uma licença do Exchange
+# <a name="manage-a-group-without-an-exchange-license"></a>Gerenciar um grupo sem uma licença de troca
 
-Se a conta de administrador do Office 365 não tem uma caixa de correio, poderá obter um erro sobre uma licença de produto em falta quando tentar editar um grupo do Office 365.
+Se sua conta de administração do Office 365 não tiver uma caixa de correio, você pode ter um erro sobre uma licença de produto em falta quando tentar eitir um Grupo Office 365.
   
-Porque és a administração de Tenants, é possível editar um grupo, mesmo que não tem uma licença de Exchange. Basta ir para [Centro de administração do Exchange](https://outlook.office365.com/ecp.aspx) \> **grupos** para gerir o grupo do Office 365.
+Porque você é o administrador inquilino, é possível para você eitar um grupo, mesmo que você não tem uma licença de troca. Basta ir ao [Exchange Admin Center](https://outlook.office365.com/ecp.aspx) \> **Groups** para gerenciar o Grupo Office 365.
   
-Se pretender editar grupos no Centro de administração, adicione uma licença do Exchange à conta de administrador. Tem de aguardar até que a caixa de correio é totalmente criada antes de poder editar um grupo.
+Se você quiser eitar grupos no centro de administração, adicione uma licença de troca à sua conta de administração. Você precisa esperar até que a caixa de correio esteja totalmente criada antes que você possa eitar um grupo.
   

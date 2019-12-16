@@ -1,7 +1,7 @@
 ---
-title: Aplicar automaticamente rótulos de confidencialidade
-ms.author: stephow
-author: stephow-MSFT
+title: Rótulos de sensibilidade de auto-aplicação
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: b095426d780033f6c1c7eeb320d923f6c484b078
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517402"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050320"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Aplicar automaticamente rótulos de confidencialidade
+# <a name="auto-apply-sensitivity-labels"></a>Rótulos de sensibilidade de auto-aplicação
 
-Rótulos de confidencialidade podem ser aplicados manualmente a conteúdo por utilizadores ou pode configurá-los para serem aplicadas automaticamente ao conteúdo.
+Os rótulos de sensibilidade podem ser aplicados manualmente ao conteúdo pelos usuários, ou você pode configurá-los para serem aplicados automaticamente ao conteúdo.
 
-Aplicar automaticamente rótulos de confidencialidade remove a necessidade dos utilizadores sobre como classificar o conteúdo do comboio e a necessidade de comunicar-lhes das configurações de política.
+A aplicação automática de rótulos de sensibilidade elimina a necessidade de treinar os utilizadores sobre a forma de classificar o conteúdo e a necessidade de os notificar das configurações da política.
 
-Para aplicar rótulos automaticamente, é necessário o seguinte:
+Para aplicar etiquetas automaticamente, o seguinte é necessário:
 
-- Subscrição de P2 de protecção de informações Azure
-- [Transferir e instalar o cliente de colocação de rótulos unificado Azure a protecção de informações](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Assinatura azure Information Protection P2
+- [Baixe e instale o cliente unificado de rotulagem da Proteção de Informações do Azure](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Estamos a trabalhar no suporte nativo que não exige que o cliente de colocação de rótulos unificado Azure a protecção de informações no futuro.
+Estamos trabalhando em suporte nativo que não exigirá o cliente unificado de rotulagem da Proteção da Informação Do Azure no futuro.
 
-Actualmente, apenas o Windows suporta o cliente de colocação de rótulos unificado.  A funcionalidade ainda não é suportada em Mac, iOS e Android.
+Atualmente, apenas o Windows suporta o cliente de rotulagem unificado.  O recurso ainda não é suportado no Mac, iOS e Android.
 
-Para mais informações sobre rótulos de confidencialidade e aplicando-os automaticamente ao conteúdo, consulte:
+Para obter mais informações sobre rótulos de sensibilidade e aplicá-los automaticamente ao conteúdo, consulte:
 
-- [Descrição geral dos rótulos de confidencialidade](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [Aplicar automaticamente um rótulo de sensibilidade ao conteúdo](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Visão geral dos rótulos de sensibilidade](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Aplicar um rótulo de sensibilidade ao conteúdo automaticamente](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

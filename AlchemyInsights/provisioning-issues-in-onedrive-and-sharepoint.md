@@ -1,21 +1,21 @@
 ---
-title: Aprovisionamento problemas no OneDrive e do SharePoint
+title: Problemas de provisionamento no OneDrive e sharepoint
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: 9dd38f3db7e74a82748e6db526f48b8e1c28c63d
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 5a34fe8821f4f0f314c43b58782cac4546faceac
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752475"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054352"
 ---
-# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Aprovisionamento problemas no OneDrive e do SharePoint
+# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Problemas de provisionamento no OneDrive e sharepoint
 
-Quando um utilizador é adicionado a um locatário existente do Office 365, eles poderão ver o SharePoint Online ou OneDrive para ícones de negócio listados como "Configurar" até o processo de aprovisionamento foi concluído. Para contas recentemente criadas, os utilizadores necessitam iniciar sessão no Centro de administração da Microsoft 365 com a sua própria conta e, em seguida, clique em OneDrive para iniciar manualmente o fornecimento do OneDrive site.
+Quando um usuário é adicionado a um inquilino existente do Office 365, ele pode ver os ícones SharePoint Online ou OneDrive for Business listados como "Configuração" até que o processo de provisionamento seja concluído. Para contas recém-criadas, os usuários precisam entrar no centro de administração do Microsoft 365 com sua própria conta e, em seguida, clicar no OneDrive para iniciar manualmente o fornecimento do site OneDrive.
   
-Se tiverem passado mais de 24 horas desde que a visualizou pela primeira vez a este problema, inicie a sessão de um incidente de suporte. Em muitos casos, a Microsoft já estiver a trabalhar numa solução. Forneça pelo menos 24 horas para concluir uma solução.
+Se mais de 24 horas se passaram desde que você viu pela primeira vez este problema, por favor, registre um caso de suporte. Em muitos casos, já estamos trabalhando em uma solução. Por favor, dê-nos pelo menos 24 horas para completar uma solução.
   

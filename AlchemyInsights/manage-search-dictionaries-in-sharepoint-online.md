@@ -1,7 +1,7 @@
 ---
 title: Gerenciar dicionários de pesquisa no SharePoint Online
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,16 +11,16 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: d375ed80ba4c58b32a830f140a8f18ba50008bd6
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 322ba8ede9e12bc2f24411deed89d3f8d65b2407
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36754419"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049240"
 ---
-# <a name="manage-search-dictionaries"></a><span data-ttu-id="86b74-102">Gerenciar dicionários de pesquisa</span><span class="sxs-lookup"><span data-stu-id="86b74-102">Manage search dictionaries</span></span>
+# <a name="manage-search-dictionaries"></a><span data-ttu-id="9cae1-102">Gerenciar dicionários de pesquisa</span><span class="sxs-lookup"><span data-stu-id="9cae1-102">Manage search dictionaries</span></span>
 
-<span data-ttu-id="86b74-103">Dicionários de pesquisa no SharePoint on-line são gerenciados na SharePoint Online Term Store, que está localizada no novo centro de administração SharePoint.</span><span class="sxs-lookup"><span data-stu-id="86b74-103">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the new SharePoint admin center.</span></span> <span data-ttu-id="86b74-104">Para obter mais informações sobre como adicionar ou eitar dicionários de pesquisa, [consulte dicionários de pesquisa gerenciado.](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="86b74-104">For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
+<span data-ttu-id="9cae1-103">Dicionários de pesquisa no SharePoint on-line são gerenciados na SharePoint Online Term Store, que está localizada no novo centro de administração SharePoint.</span><span class="sxs-lookup"><span data-stu-id="9cae1-103">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the new SharePoint admin center.</span></span> <span data-ttu-id="9cae1-104">Para obter mais informações sobre como adicionar ou eitar dicionários de pesquisa, [consulte dicionários de pesquisa gerenciado.](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="9cae1-104">For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="86b74-105">Se você não estiver vendo um conjunto de termo dicionário de pesquisa aparecer na loja prazo, por favor, espere 24 horas.</span><span class="sxs-lookup"><span data-stu-id="86b74-105">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours.</span></span> <span data-ttu-id="86b74-106">Se o dicionário ainda não aparecer após 24 horas, registre um bilhete de suporte.</span><span class="sxs-lookup"><span data-stu-id="86b74-106">If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
+<span data-ttu-id="9cae1-105">Se você não estiver vendo um conjunto de termo dicionário de pesquisa aparecer na loja prazo, por favor, espere 24 horas.</span><span class="sxs-lookup"><span data-stu-id="9cae1-105">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours.</span></span> <span data-ttu-id="9cae1-106">Se o dicionário ainda não aparecer após 24 horas, registre um bilhete de suporte.</span><span class="sxs-lookup"><span data-stu-id="9cae1-106">If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
   

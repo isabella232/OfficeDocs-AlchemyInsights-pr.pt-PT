@@ -1,7 +1,7 @@
 ---
-title: Adicionar ou remover um alias de correio electrónico para um utilizador
-ms.author: dianef
-author: dianef77
+title: Adicionar ou remover um pseudônimo de e-mail para um usuário
+ms.author: pebaum
+author: pebaum
 ms.date: 4/16/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,16 +11,16 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9"
 - "1"
-ms.openlocfilehash: 4e0ce3d7c12ecad04e13a179fd833e6b935fadfa
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 006fb3ea242d43cd4ad3aa589ca876b33bca618b
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737236"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050464"
 ---
-# <a name="add-or-remove-an-email-address-for-a-user"></a><span data-ttu-id="da8c2-102">Adicionar ou remover um endereço de correio electrónico para um utilizador</span><span class="sxs-lookup"><span data-stu-id="da8c2-102">Add or remove an email address for a user</span></span>
+# <a name="add-or-remove-an-email-address-for-a-user"></a><span data-ttu-id="d8ee7-102">Adicionar ou remover um endereço de e-mail para um usuário</span><span class="sxs-lookup"><span data-stu-id="d8ee7-102">Add or remove an email address for a user</span></span>
 
-<span data-ttu-id="da8c2-103">[Siga estes passos](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) no Centro de administração de Microsoft 365 para começar a trabalhar.</span><span class="sxs-lookup"><span data-stu-id="da8c2-103">[Follow these steps](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) in the Microsoft 365 admin center to get started.</span></span>
+<span data-ttu-id="d8ee7-103">[Siga esses passos](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) no centro de administração microsoft 365 para começar.</span><span class="sxs-lookup"><span data-stu-id="d8ee7-103">[Follow these steps](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) in the Microsoft 365 admin center to get started.</span></span>
 
- <span data-ttu-id="da8c2-104">**Nota**: pode ter mais do que um endereço de correio electrónico para um utilizador, mas adicionais *aliases de correio electrónico* só pode ser utilizado para a recepção de correio electrónico.</span><span class="sxs-lookup"><span data-stu-id="da8c2-104">**Note**: You can have more than one email address for a user, but additional  *email aliases*  can only be used for receiving email.</span></span> <span data-ttu-id="da8c2-105">Se necessitar de enviar correio electrónico com um alias, crie uma [caixa de correio partilhada](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="da8c2-105">If you need to send email with an alias, create a [shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span> <span data-ttu-id="da8c2-106">Desta forma obterá o alias para enviar e receber correio.</span><span class="sxs-lookup"><span data-stu-id="da8c2-106">This way you'll get the alias to send and receive mail.</span></span>
+ <span data-ttu-id="d8ee7-104">**Nota:** Você pode ter mais de um endereço de e-mail para um usuário, mas pseudônimos de *e-mail* adicionais só podem ser usados para receber e-mail.</span><span class="sxs-lookup"><span data-stu-id="d8ee7-104">**Note**: You can have more than one email address for a user, but additional  *email aliases*  can only be used for receiving email.</span></span> <span data-ttu-id="d8ee7-105">Se você precisa enviar e-mail com um pseudônimo, crie uma caixa de [correio compartilhada.](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)</span><span class="sxs-lookup"><span data-stu-id="d8ee7-105">If you need to send email with an alias, create a [shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span> <span data-ttu-id="d8ee7-106">Desta forma, você receberá o pseudônimo de enviar e receber e-mail.</span><span class="sxs-lookup"><span data-stu-id="d8ee7-106">This way you'll get the alias to send and receive mail.</span></span>
   

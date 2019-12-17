@@ -1,7 +1,7 @@
 ---
-title: Problemas de formatação de tipo de letra no Excel de 2016
-ms.author: dludwig
-author: dludwig
+title: Problemas de formatação de fontes no Excel 2016
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.date: 2/26/2018
 ms.audience: Admin
@@ -13,14 +13,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 808fb5caefcd07885ac2b29d3f499cc5cb824fc3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a727f1ffc7b90db53d10223a4bd3017d25eeda6c
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524638"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051976"
 ---
-# <a name="font-formatting-problems-in-excel"></a><span data-ttu-id="61e3d-102">Problemas de formatação de tipo de letra no Excel</span><span class="sxs-lookup"><span data-stu-id="61e3d-102">Font formatting problems in Excel</span></span>
+# <a name="font-formatting-problems-in-excel"></a><span data-ttu-id="be737-102">Problemas de formatação de fontes no Excel</span><span class="sxs-lookup"><span data-stu-id="be737-102">Font formatting problems in Excel</span></span>
 
-<span data-ttu-id="61e3d-103">No Excel de 2016, formatação de tipo de letra poderão não aparecer correctamente numa célula.</span><span class="sxs-lookup"><span data-stu-id="61e3d-103">In Excel 2016, font formatting may not appear properly in a cell.</span></span> <span data-ttu-id="61e3d-104">Isto pode acontecer se uma célula contiver mais do que um tipo de formatação do tipo de letra.</span><span class="sxs-lookup"><span data-stu-id="61e3d-104">This can happen if a cell contains more than one kind of font formatting.</span></span> <span data-ttu-id="61e3d-105">Por exemplo, se alguns caracteres estão em negrito e outros não estão em negrito, poderá não conseguir ver o formato negrito aparecerão.</span><span class="sxs-lookup"><span data-stu-id="61e3d-105">For example if some characters are bolded, and others are not bolded, you may not see the bold format appear.</span></span> <span data-ttu-id="61e3d-106">Ou, se tiver caracteres coloridos diferentes na mesma célula, poderá não ver as cores aparecem correctamente.</span><span class="sxs-lookup"><span data-stu-id="61e3d-106">Or if you have different colored characters in the same cell, you may not see the colors appear correctly.</span></span> <span data-ttu-id="61e3d-107">A nossa equipa de engenharia tem conhecimento deste problema e está a trabalhar actualmente uma correcção.</span><span class="sxs-lookup"><span data-stu-id="61e3d-107">Our engineering team is aware of this problem and is currently working on a fix.</span></span> <span data-ttu-id="61e3d-108">Entretanto, tente utilizar um tipo de letra diferente.</span><span class="sxs-lookup"><span data-stu-id="61e3d-108">In the meantime, try using a different font.</span></span> <span data-ttu-id="61e3d-109">Ou, evite utilizar vários tipos de formatação na mesma célula, até que este problema é corrigido.</span><span class="sxs-lookup"><span data-stu-id="61e3d-109">Or, try to avoid using multiple kinds of formatting within the same cell until this problem is fixed.</span></span>
+<span data-ttu-id="be737-103">No Excel 2016, a formatação de fontes pode não aparecer adequadamente em uma célula.</span><span class="sxs-lookup"><span data-stu-id="be737-103">In Excel 2016, font formatting may not appear properly in a cell.</span></span> <span data-ttu-id="be737-104">Isso pode acontecer se uma célula contém mais de um tipo de formatação de fonte.</span><span class="sxs-lookup"><span data-stu-id="be737-104">This can happen if a cell contains more than one kind of font formatting.</span></span> <span data-ttu-id="be737-105">Por exemplo, se alguns personagens são ousados, e outros não são ousados, você pode não ver o formato ousado aparecer.</span><span class="sxs-lookup"><span data-stu-id="be737-105">For example if some characters are bolded, and others are not bolded, you may not see the bold format appear.</span></span> <span data-ttu-id="be737-106">Ou se você tem personagens coloridos diferentes na mesma célula, você pode não ver as cores aparecem corretamente.</span><span class="sxs-lookup"><span data-stu-id="be737-106">Or if you have different colored characters in the same cell, you may not see the colors appear correctly.</span></span> <span data-ttu-id="be737-107">Nossa equipe de engenharia está ciente desse problema e atualmente está trabalhando em uma correção.</span><span class="sxs-lookup"><span data-stu-id="be737-107">Our engineering team is aware of this problem and is currently working on a fix.</span></span> <span data-ttu-id="be737-108">Enquanto isso, tente usar uma fonte diferente.</span><span class="sxs-lookup"><span data-stu-id="be737-108">In the meantime, try using a different font.</span></span> <span data-ttu-id="be737-109">Ou, tente evitar o uso de vários tipos de formatação dentro da mesma célula até que este problema seja corrigido.</span><span class="sxs-lookup"><span data-stu-id="be737-109">Or, try to avoid using multiple kinds of formatting within the same cell until this problem is fixed.</span></span>
   

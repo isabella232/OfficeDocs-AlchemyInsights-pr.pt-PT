@@ -1,5 +1,5 @@
 ---
-title: Incapaz de excluir itens no SharePoint ou No OneDrive
+title: Incapaz de eliminar itens no SharePoint ou OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,26 +11,24 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: cc19fcb6603160032dac52b1ec9e194a90b7891f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: abfcb91c6040aeed759d697ca63546ccea8ede97
+ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049528"
+ms.lasthandoff: 01/28/2020
+ms.locfileid: "41571282"
 ---
-# <a name="unable-to-delete-items"></a>Incapaz de excluir itens
+# <a name="unable-to-delete-items"></a>Incapaz de apagar itens
 
-Tendo problemas para excluir itens do SharePoint?
+As políticas de retenção podem causar isso, você precisa de desativar ou excluir o respetivo porão que está a causar este problema. Após a remoção de uma política de retenção ou de espera, pode demorar até 24 horas para que a alteração entre em vigor. Certifique-se de que não existe uma definição de política de [retenção](https://docs.microsoft.com/office365/securitycompliance/retention-policies) no artigo.
 
-- Certifique-se sempre de ter as [permissões apropriadas](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) para excluir o item ou ter uma tentativa de administrador de coleta do [site](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator) remover o item.
+O site pode ter excedido o limite de armazenamento, aumentado a quota do [site](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) e apagado o item.
 
-- Certifique-se de que não há uma configuração de política de [retenção](https://docs.microsoft.com/office365/securitycompliance/retention-policies) no item.
+Certifique-se de que o artigo não é [verificado](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) a outro utilizador.
 
-- Certifique-se de que o item não seja [verificado](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) para outro usuário.
-
-- Finalmente, os administradores podem usar [padrões e práticas do SharePoint](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP) que contém uma biblioteca de comandos da PowerShell que permitem que você execute ações de gerenciamento complexas, como a exclusão de força de itens teimosos.
-- [Remover arquivo PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
+Finalmente, os administradores podem usar [Padrões e Práticas SharePoint](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP) que contém uma biblioteca de comandos PowerShell que lhe permitem realizar ações de gestão complexas, tais como a eliminação de itens teimosos.
+- [Remover ficheiro PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
 - [Remover pasta PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
 - [Remover o item da lista PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
 - [Remover a lista pnp](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
-- [Remover o campo pnp (coluna)](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)
+- [Remover o campo PNP (Coluna)](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)

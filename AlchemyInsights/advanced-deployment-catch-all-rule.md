@@ -1,5 +1,5 @@
 ---
-title: Todas as regras de captura de implementação avançadas
+title: Implementação avançada catch all Rule
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 4873fcfd66f196daeff3e407ccd10fe5b142cca6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 08171914804f3e13a4a7e3ee90662af61034c141
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494106"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770794"
 ---
-# <a name="deploy-office-apps"></a>Implementar aplicações do Office
+# <a name="deploy-office-apps"></a>Implementar aplicativos do Office
 
-Para implementar aplicações do Office para vários utilizadores finais através da ferramenta de implementação do Office, System Center Configuration Manager, como parte de uma imagem de disco do sistema operativo, ou no cenário de um computador partilhado utilizando o Windows Server com serviços de ambiente de trabalho remoto (RDS) ou de Terminal Serviços, considere utilizar o guia passo a passo no **Office 365 ProPlus supervisor de implementação**.
+Para implementar aplicações do Office para vários utilizadores finais através da Ferramenta de Implementação do Office, O Gestor de Configuração do Microsoft Endpoint, como parte de uma imagem de disco de sistema operativo, ou num cenário de computador partilhado utilizando o Windows Server com Serviços de Ambiente de Trabalho Remoto (RDS) ou Serviços de Terminal, considere utilizar o guia passo a passo no consultor de **implementação do Office 365 ProPlus.**
   
-Para começar, certifique-se de que tiver sessão iniciada como administrador de Tenants ou administrador global e, em seguida, clique aqui: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).
+Para começar, certifique-se de que está inscrito como administrador de inquilinoou administrador [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)global, e depois clique aqui: .
   

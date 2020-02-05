@@ -1,5 +1,5 @@
 ---
-title: Não é possível criar uma avaliação de compatibilidade
+title: Não se pode criar uma avaliação de compatibilidade
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 320216b234eeee13345590add994bbca9a882991
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e433068b9001958c7c923388e9cd5eeabf095284
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800530"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771082"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a>Não é possível criar uma avaliação de compatibilidade
+# <a name="cant-create-a-compatibility-assessment"></a>Não se pode criar uma avaliação de compatibilidade
 
-Gestor de configuração configurado com êxito o dispositivo, mas Analytics de ambiente de trabalho não é possível criar uma avaliação de compatibilidade. Se não tiver um conjunto completo de dados de configuração do dispositivo (contagem) ou instalado apps (inventário).
+O Microsoft Endpoint Configuration Manager configurou com sucesso o dispositivo, mas o Desktop Analytics não consegue criar uma avaliação de compatibilidade. Não tem um conjunto completo de dados para a configuração do dispositivo (recenseamento) ou aplicações instaladas (inventário).
 
-Este problema é frequentemente corrigido automaticamente quando o dispositivo de repetições. Se persistir, certifique-se que o dispositivo pode comunicar com o serviço. Para mais informações, consulte [os pontos finais](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints) e [Dados em falta](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data).
+Este problema é muitas vezes corrigido automaticamente quando o dispositivo se retenta. Se persistir, certifique-se de que o dispositivo pode comunicar com o serviço. Para mais informações, consulte [Pontos Finais](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) e [Dados Em Falta](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).

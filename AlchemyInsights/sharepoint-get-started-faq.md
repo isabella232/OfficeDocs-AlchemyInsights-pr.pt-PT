@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online problemas comuns e resoluções
+title: Questões e resoluções comuns do SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,27 +10,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051544"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771190"
 ---
-# <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online problemas comuns e resoluções
+# <a name="sharepoint-online-common-issues-and-resolutions"></a>Questões e resoluções comuns do SharePoint Online
 
-Aqui estão alguns tópicos solicitados com frequência para questões on-line do SharePoint:
+Aqui estão alguns tópicos frequentemente solicitados para questões SharePoint Online:
 
-- **Permissões:** [Crie uma estratégia](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) de permissões e [entenda os níveis de permissão.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
+- **Getting Started**: Use o [SharePoint Look Book](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) para construir uma bela e poderosa intranet que liga o local de trabalho. Consulte [exemplos](https://lookbook.microsoft.com/) e obtenha [orientação de design.](https://spdesign.azurewebsites.net/) Consulte [a Introdução ao SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) para uma introdução global ao SharePoint Online.
 
-- **Compartilhamento:** [Compartilhar com outras pessoas](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) dentro de sua organização ou com [outras pessoas fora de sua organização](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+- **Permissões**: [Construir uma estratégia de permissões](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) e compreender os níveis de [permissão.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
 
-- **Trabalhando com arquivos**de [documentos:](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) Saiba mais sobre [upload](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)de arquivos, [download](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)de arquivos, [edições](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)de arquivos e limitações atuais de arquivos
+- **Partilhar**: [Partilhar com outros](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) dentro da sua organização ou com outros [fora da sua organização.](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- **Armazenamento:** Saiba como gerenciar o</a>armazenamento do OneDrive para seus usuários, como [gerenciar](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) o armazenamento do site para sua assinatura e [entender todos os limites.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
+- **Trabalhar com Ficheiros de Documentos**: Saiba mais sobre [upload](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)de ficheiros, [download de](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)ficheiros, edits de [ficheiros](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)e limitações de [ficheiros](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) atuais
 
-- **Renome do locatário:** veja alterar seu nome de [domínio SharePoint](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) para obter mais informações.
+- **Armazenamento**: Aprenda a gerir</a>o armazenamento OneDrive dos seus utilizadores, como gerir o [armazenamento do site](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) para a sua subscrição e compreender todos os [limites](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).
 
-- **Modernize sharepoint:** analise o [guia para a experiência moderna no SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) e [modernize seus sites clássicos do SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) para iniciar a mudança.
+- **Nome do inquilino**: Consulte [alterar o nome de domínio do SharePoint](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) para obter mais informações.
 
-- **Começar:** Saiba como começar com o [SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) com estratégias de gerenciamento de sites.
+- Modernizar o **SharePoint**: Reveja o [Guia da experiência moderna no SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) e [modernize os seus sites clássicos do SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) para iniciar o movimento.
+
+**Nota:** Para obter uma resposta mais específica sobre um problema do SharePoint, reformular brevemente a sua pergunta e incluir quaisquer erros que esteja a ver ou funcionalidades que esteja a usar.

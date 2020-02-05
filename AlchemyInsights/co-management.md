@@ -1,5 +1,5 @@
 ---
-title: Co-gestão
+title: Cogestão
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,27 +11,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: fe7dcebf847fbd7d91632e93e2253bf62ac659aa
-ms.sourcegitcommit: 4ed431b2e1aed26d07bd7eba282531537d29ad0e
+ms.openlocfilehash: bd19ae3bfdf5005fe4e495e78749a393128a2184
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40910396"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770902"
 ---
-# <a name="co-management"></a>Co-gestão
+# <a name="co-management"></a>Cogestão
 
-**Pré-requisitos para a migração da Config Manager Hybrid para A Intune**
+**Pré-requisitos para a migração da Config Manager Hybrid para Intune**
 
-- Reveja [este artigo](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Adicione uma licença de intune aos seus usuários.](https://docs.microsoft.com/intune/licenses-assign)
-- Use o [navegador Edge](https://www.microsoft.com/windows/microsoft-edge) ao configurar o co-gerenciamento.
+- Reveja [este artigo.](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa)
+- [Adicione uma licença Intune aos seus utilizadores](https://docs.microsoft.com/intune/licenses-assign).
+- Utilize o [navegador Edge](https://www.microsoft.com/windows/microsoft-edge) ao configurar a cogestão.
 
-**Como instalar o cliente Config Manager em dispositivos gerenciados pela Intune**
+**Como instalar o cliente do Config Manager em dispositivos geridos pela Intune**
 
-Veja [dispositivos Windows gerenciados por MDM intune.](https://docs.microsoft.com/sccm/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
+Consulte [os dispositivos Windows geridos pelo INTune](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
 
-**E se eu quiser mudar a autoridade mdm?**
+**E se eu só quiser mudar a autoridade do MDM?**
 
-MDM Authority pode ser alterado sem abrir um caso de apoio. Por favor, reveja a seguinte documentação para ajudar a mudar sua autoridade MDM:
-- [Mude a Autoridade MDM de Gerente da Config para sosseo da Intune](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
-- [Mude a Autoridade MDM de Sintoniz para Gerente da Config](https://docs.microsoft.com/intune-classic/deploy-use/prerequisites-for-enrollment#what-to-do-if-you-choose-the-wrong-mdm-authority-setting)
+A Autoridade do MDM pode ser alterada sem abrir um caso de apoio. Por favor, reveja a seguinte documentação para ajudar a mudar a sua autoridade de MDM:
+
+- [Alterar a Autoridade do MDM de Gerente de Configuração para Intune autónomo](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- [Alterar autoridade do MDM de Intune autónoma para Gestor de Configuração](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)

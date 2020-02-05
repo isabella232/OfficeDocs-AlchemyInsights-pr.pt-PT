@@ -1,5 +1,5 @@
 ---
-title: Como fechar a conta de Analytics de ambiente de trabalho
+title: Como fechar a sua conta Desktop Analytics
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: d074024ee40f9a06a59f8c4f650f2092c39413d1
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800524"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771118"
 ---
-# <a name="working-with-desktop-analytics"></a>Trabalhar com o ambiente de trabalho Analytics
+# <a name="working-with-desktop-analytics"></a>Trabalhar com desktop Analytics
 
-Parece está a pedir que sobre Analytics de ambiente de trabalho. A Microsoft poderá ajudar com uma resposta mais precisa se Reformule a pergunta.
+Parece que estás a perguntar sobre o Desktop Analytics. Talvez possamos ajudar com uma resposta mais precisa se reformular a sua pergunta.
 
-- [O que é o ambiente de trabalho Analytics?](https://docs.microsoft.com/sccm/desktop-analytics/overview)
-- [Como configurar o ambiente de trabalho Analytics](https://docs.microsoft.com/sccm/desktop-analytics/set-up)
-- [Perguntas mais frequentes](https://docs.microsoft.com/sccm/desktop-analytics/faq)
-- [Resolução de problemas de ambiente de trabalho Analytics](https://docs.microsoft.com/sccm/desktop-analytics/troubleshooting)
+- [O que é Desktop Analytics?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Como configurar desktop Analytics](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Perguntas frequentes](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
+- [Troubleshoot Desktop Analytics](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

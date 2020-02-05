@@ -1,5 +1,5 @@
 ---
-title: Excluir uma coleção de sites no SharePoint
+title: Eliminar um site
 ms.author: pebaum
 author: pebaum
 ms.date: 6/20/2019
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: e15682af9069f8cd9e8f2893100a0044a51b2f04
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053020"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770398"
 ---
-# <a name="delete-a-site-collection"></a>Eliminar uma coleção de sites
+# <a name="delete-a-site"></a>Eliminar um site
 
-Quando você, como administrador global ou SharePoint no Office 365, excluir um site (anteriormente chamado de "coleção do site"), ele é transferido para a coleção do site Recycle Bin e retido por 93 dias. 
+Quando apaga um site, é transferido para os [Sites Apagados](https://admin.microsoft.com/sharepoint) e retido durante 93 dias. Para eliminar um site, vá a [Sites Ativos](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
-Quando você exclui um site, tudo dentro dele é excluído, incluindo:
+Quando se elimina um site, tudo o que está dentro é eliminado, incluindo:
 
-- Documente bibliotecas e arquivos.
-- Listas e dados de lista.
-- Configurações do site e história.
-- Qualquer sub-sites e seu conteúdo.
+- Documentar bibliotecas e ficheiros.
+- Listas e dados de listas.
+- Configurações do site e histórico.
+- Quaisquer sub-sites e o seu conteúdo.
 
-Você deve notificar os administradores do site e quaisquer proprietários de subsite antes de excluir um site para que eles possam mover seus dados para outro local e também informar os usuários quando os sites serão excluídos. 
+Deve notificar os administradores do site e quaisquer proprietários de sub-sites antes de eliminar um site para que possam mover os seus dados para outro local, e também informar os utilizadores quando os sites serão eliminados.
 
-Para mais informações, [consulte excluir uma coleção](https://docs.microsoft.com/sharepoint/delete-site-collection)do site. 
+Para mais informações, consulte [Apagar um site](https://docs.microsoft.com/sharepoint/delete-site-collection).

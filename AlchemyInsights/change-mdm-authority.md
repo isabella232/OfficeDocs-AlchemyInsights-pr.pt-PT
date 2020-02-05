@@ -1,5 +1,5 @@
 ---
-title: Alterar a autoridade do MDM
+title: Alterar autoridade do MDM
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 12/4/2018
@@ -8,27 +8,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 91ccb74e00ab6d2b5e78c7b0f5a0b1c4790defb8
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36519310"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770974"
 ---
-# <a name="change-intune-mdm-authority"></a><span data-ttu-id="c471d-102">Mude a autoridade do MDM</span><span class="sxs-lookup"><span data-stu-id="c471d-102">Change Intune MDM authority</span></span>
+# <a name="change-intune-mdm-authority"></a><span data-ttu-id="46103-102">Alterar autoridade do MDM intune</span><span class="sxs-lookup"><span data-stu-id="46103-102">Change Intune MDM authority</span></span>
 
-<span data-ttu-id="c471d-103">Você pode alterar sua autoridade MDM sem abrir um caso de apoio.</span><span class="sxs-lookup"><span data-stu-id="c471d-103">You can change your MDM authority without opening a support case.</span></span> <span data-ttu-id="c471d-104">Veja os seguintes documentos para instruções:</span><span class="sxs-lookup"><span data-stu-id="c471d-104">See the following documents for instructions:</span></span>
+<span data-ttu-id="46103-103">Pode alterar a sua autoridade de MDM sem abrir um caso de apoio.</span><span class="sxs-lookup"><span data-stu-id="46103-103">You can change your MDM authority without opening a support case.</span></span> <span data-ttu-id="46103-104">Consulte os seguintes documentos para obter instruções:</span><span class="sxs-lookup"><span data-stu-id="46103-104">See the following documents for instructions:</span></span>
   
-- [<span data-ttu-id="c471d-105">Mude a autoridade do MDM do Gerente de Configuração para intune autônomo</span><span class="sxs-lookup"><span data-stu-id="c471d-105">Change MDM authority from the Configuration Manager to Intune standalone</span></span>](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [<span data-ttu-id="46103-105">Mude a sua autoridade de MDM de Gerente de Configuração para Intune autónoma</span><span class="sxs-lookup"><span data-stu-id="46103-105">Change your MDM authority from Configuration Manager to Intune standalone</span></span>](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [<span data-ttu-id="c471d-106">Mude a autoridade do MDM de Intune autônomo para gerente de configuração</span><span class="sxs-lookup"><span data-stu-id="c471d-106">Change MDM authority from Intune standalone to Configuration Manager</span></span>](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [<span data-ttu-id="46103-106">Mude a sua autoridade de MDM de Intune autónoma para Gestor de Configuração</span><span class="sxs-lookup"><span data-stu-id="46103-106">Change your MDM authority from Intune standalone to Configuration Manager</span></span>](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
     
- <span data-ttu-id="c471d-107">**MDM Autoridade Coexistência**</span><span class="sxs-lookup"><span data-stu-id="c471d-107">**MDM Authority Co-Existence**</span></span>
+ <span data-ttu-id="46103-107">**Coexistência da Autoridade do MDM**</span><span class="sxs-lookup"><span data-stu-id="46103-107">**MDM Authority Co-Existence**</span></span>
   
-- <span data-ttu-id="c471d-108">Você pode ter ambas as autoridades MDM ativas simultaneamente se você já tem Office 365 MDM habilitado, mas você quer tentar Intune MDM.</span><span class="sxs-lookup"><span data-stu-id="c471d-108">You can have both MDM authorities active concurrently if you already have Office 365 MDM enabled but you want to try Intune MDM.</span></span>
+- <span data-ttu-id="46103-108">Pode ter ambas as autoridades do MDM ativas em simultâneo se já tiver o Office 365 MDM ativado, mas quer experimentar o INTUNE MDM.</span><span class="sxs-lookup"><span data-stu-id="46103-108">You can have both MDM authorities active concurrently if you already have Office 365 MDM enabled but you want to try Intune MDM.</span></span>
     
-- <span data-ttu-id="c471d-109">Os administradores que já têm O365 MDM ativo podem simplesmente marcar o Intune MDM como ativo no portal Azure.</span><span class="sxs-lookup"><span data-stu-id="c471d-109">Admins who already have O365 MDM active can simply mark Intune MDM as active from the Azure portal.</span></span>
+- <span data-ttu-id="46103-109">Os administradores que já têm o O365 MDM ativo podem simplesmente marcar o INTUNE MDM como ativo a partir do portal Azure.</span><span class="sxs-lookup"><span data-stu-id="46103-109">Admins who already have O365 MDM active can simply mark Intune MDM as active from the Azure portal.</span></span>
     
-- <span data-ttu-id="c471d-110">Se você tem MDM Intune, mas quer fazer uso do Office 365 MDM: por favor, abra um bilhete abaixo e um agente de suporte vai ajudar a permitir isso para você.</span><span class="sxs-lookup"><span data-stu-id="c471d-110">If you have Intune MDM but want to make use of Office 365 MDM: please open a ticket below and a support agent will help enable this for you.</span></span>
+- <span data-ttu-id="46103-110">Se tiver MDM intune mas quiser utilizar o Office 365 MDM: por favor, abra um bilhete abaixo e um agente de suporte ajudará a ativar isso para si.</span><span class="sxs-lookup"><span data-stu-id="46103-110">If you have Intune MDM but want to make use of Office 365 MDM: please open a ticket below and a support agent will help enable this for you.</span></span>
     
 

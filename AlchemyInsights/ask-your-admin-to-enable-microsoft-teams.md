@@ -1,5 +1,5 @@
 ---
-title: Peça ao administrador para habilitar o Microsoft Teams
+title: Peça ao seu administrador para ativar as Equipas microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 0e96a1296193e33240aaed5947010d91b9351a51
-ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
+ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
+ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37328825"
+ms.lasthandoff: 02/13/2020
+ms.locfileid: "41962308"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a><span data-ttu-id="d36b7-102">Você está perdendo!</span><span class="sxs-lookup"><span data-stu-id="d36b7-102">You're missing out!</span></span> <span data-ttu-id="d36b7-103">Peça ao administrador para habilitar o Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="d36b7-103">Ask your admin to enable Microsoft Teams</span></span>
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a><span data-ttu-id="e290b-102">Está sem perder!</span><span class="sxs-lookup"><span data-stu-id="e290b-102">You're missing out!</span></span> <span data-ttu-id="e290b-103">Peça ao seu administrador para ativar as Equipas microsoft</span><span class="sxs-lookup"><span data-stu-id="e290b-103">Ask your admin to enable Microsoft Teams</span></span>
 
-<span data-ttu-id="d36b7-104">São professores e funcionários capazes de acessar equipes, mas os alunos não podem, ou são seus usuários licenciados F1 incapaz de acessar equipes?</span><span class="sxs-lookup"><span data-stu-id="d36b7-104">Are faculty and staff able to access Teams but students cannot, or are your F1 licensed users unable to access Teams?</span></span>
+<span data-ttu-id="e290b-104">Os docentes e funcionários podem aceder às Equipas, mas os alunos não podem, ou os seus utilizadores licenciados de F1 não conseguem aceder às Equipas?</span><span class="sxs-lookup"><span data-stu-id="e290b-104">Are faculty and staff able to access Teams but students cannot, or are your F1 licensed users unable to access Teams?</span></span>
 
-<span data-ttu-id="d36b7-105">As equipes devem ser habilitadas explicitamente para alunos e licenças F1.</span><span class="sxs-lookup"><span data-stu-id="d36b7-105">Teams must be explicitly enabled for students and F1 licenses.</span></span> <span data-ttu-id="d36b7-106">Para obter instruções, consulte [Office 365 as contas de estudante e de serviço não podem entrar no Microsoft Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/office-365-accounts-cannot-sign-in).</span><span class="sxs-lookup"><span data-stu-id="d36b7-106">For instructions, see [Office 365 Student and service accounts can't sign in to Microsoft Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/office-365-accounts-cannot-sign-in).</span></span> 
-
-<span data-ttu-id="d36b7-107">Você pode encontrar instruções mais detalhadas sobre como habilitar equipes para sua escola em [Configurar equipes para educação](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education).</span><span class="sxs-lookup"><span data-stu-id="d36b7-107">You can find more detailed instructions about how to enable Teams for your school in [Configure Teams for Education](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education).</span></span> 
+<span data-ttu-id="e290b-105">As equipas devem ser explicitamente habilitadas para estudantes e licenças de F1.</span><span class="sxs-lookup"><span data-stu-id="e290b-105">Teams must be explicitly enabled for students and F1 licenses.</span></span> <span data-ttu-id="e290b-106">Pode encontrar instruções mais detalhadas sobre como ativar as equipas para a sua escola em [Equipas de Configuração para a Educação](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education).</span><span class="sxs-lookup"><span data-stu-id="e290b-106">You can find more detailed instructions about how to enable Teams for your school in [Configure Teams for Education](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education).</span></span> 

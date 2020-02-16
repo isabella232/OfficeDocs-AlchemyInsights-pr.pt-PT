@@ -1,5 +1,5 @@
 ---
-title: Definições de políticas de reunião
+title: Definições políticas de reunião
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,25 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "2657"
 - "9000734"
-ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+- "2657"
+ms.openlocfilehash: 509bd0c686830c04ed27f97372411677c0a7f4a4
+ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627585"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42042855"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>Gerenciar políticas de reunião em equipes da Microsoft
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>Gerir as políticas de reunião em Equipas microsoft
 
-As políticas de reunião são usadas para controlar os recursos disponíveis para atender os participantes para reuniões agendadas pelos usuários em sua organização. Algumas características das políticas de reunião podem ainda não ser implementadas no centro de administração das Equipes (elas são rotuladas como "em breve" na documentação). Neste caso, ou se você está recebendo um erro como "Não podemos atualizar a política agora, mas experimentá-lo novamente mais tarde" no centro de administração do Microsoft Teams, recomendamos que você use o PowerShell para criar ou modificar as políticas de reunião das equipes. 
+**Nota: Pode levar até 24 horas para que as alterações de política entrem em vigor para os utilizadores.** Pode não ser capaz de fazer alterações às políticas recém-criadas imediatamente; esperar 4 horas e tentar modificar uma política recém-criada novamente.
+
+As políticas de reunião são usadas para controlar as funcionalidades que estão disponíveis para reunir os participantes para reuniões agendadas pelos utilizadores da sua organização. Algumas características das políticas de reunião podem ainda não ser implementadas no centro de administração das Equipas (estas estão rotuladas como "em breve" na documentação). Neste caso, ou se estiver a ter um erro como "Não podemos atualizar a apólice agora, mas tente novamente mais tarde" no centro de administração da Microsoft Teams, recomendamos que use o PowerShell para criar ou modificar as políticas de reunião das Equipas. 
 
 Para obter mais informações sobre as políticas de reunião, consulte os seguintes recursos:
 
-- Para saber mais sobre a criação de políticas, fazer mudanças e atribuir os usuários à política, [consulte as políticas de reunião em equipes.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
+- Para aprender sobre a criação de políticas, fazer alterações e atribuir utilizadores à política, consulte [gerir as políticas de reunião em Equipas.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
 
-- Para fazer alterações de política usando cmdlets PowerShell, consulte [equipes PowerShell Overview](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - Você precisa usar o [módulo Skype for Business PowerShell](https://www.microsoft.com/download/details.aspx?id=39366) para políticas de reunião de equipes. 
-    - Analise a [documentação de cmdlets *-CsTeamsMeetingPolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) para obter mais informações.
+- Para fazer alterações de política utilizando cmdlets PowerShell, consulte a visão geral do [Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
+    - Você precisa usar o [módulo Skype para Business PowerShell](https://www.microsoft.com/download/details.aspx?id=39366) para as políticas de reunião de equipas. 
+    - Reveja a [documentação de *-CsTeamsMeetingPolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) para obter mais informações.
 
-**Nota:** Pode levar até 24 horas para que as alterações de política entrem em vigor para os usuários. Você pode não ser capaz de fazer alterações nas políticas recém-criadas imediatamente; espere 4 horas e tente modificar uma política recém-criada novamente. Se você ainda está tendo problemas, tente PowerShell.  

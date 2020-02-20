@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: 95721f9bb554dcf1c45c1e444b59ec431a7e27b2
-ms.sourcegitcommit: 9db3be25d088b8d4b2d476aeace79e653ca0a421
+ms.openlocfilehash: 0589f698958d4e26bba92f4feca455cf2fd7ecb5
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/17/2020
-ms.locfileid: "42093611"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158638"
 ---
 # <a name="connect-to-the-mscommerce-module"></a>Ligue-se ao módulo MSCommerce
 
@@ -24,7 +24,7 @@ Tem de estar ligado ao módulo MSCommerce antes de poder visualizar ou definir a
 
 Para ligar ao módulo MSCommerce, na pronta PowerShell (PS C:\)- introduza o seguinte comando:
 
-    Connect-MSCommerce
+`Connect-MSCommerce`
 
 Isto abrirá um diálogo de inscrição. Insira o seu nome de utilizador e palavra-passe para iniciar sessão.
 

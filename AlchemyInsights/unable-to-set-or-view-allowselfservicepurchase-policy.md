@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: a9b6e36e8034e71b3e72c49e3cc68a126ef97aca
-ms.sourcegitcommit: cb9505f9eca032af3a4194c68d18c91789365690
+ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/16/2020
-ms.locfileid: "42091746"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158572"
 ---
 # <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Incapaz de definir ou ver a política de Compra allowSelfService
 
@@ -29,11 +29,11 @@ Isto pode ser devido a uma versão mais antiga da Transport Layer Security (TLS)
 Tente os seguintes passos para ativar/definir o protocolo TLS para 1.2, verificar e voltar a tentar.
  1. No pedido de comando PowerShell\) (PS C: insira o seguinte comando para definir o protocolo TLS na versão 1.2:
 
-    \[Net.ServicePointManager]::SecurityProtocol \[= Net.SecurityProtocolType:::Tls12
+    `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
 2. Verifique os protocolos TLS em uso, com o seguinte comando:
 
-    \[Net.ServicePointManager]::Protocolo de segurança 
+    `[Net.ServicePointManager]::SecurityProtocol` 
 
 3. Tente novamente os comandos Get ou Update, conforme necessário.
 

@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: 4243cdf0170fed1eadac6560d2a04e1a861c63e5
-ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
+ms.openlocfilehash: 739e9d91f90e4c0374814d199e4372eb5625553a
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42043609"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158628"
 ---
 # <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Para o lote de migração de pastas públicas com o estatuto CompletedWithErrors
 
 Utilize os seguintes passos para completar o lote, saltando os itens grandes/maus: 
 1. Aprove os itens ignorados no lote de migração:
 
-    Set-MigrationBatch \<nome de lote> -ApproveSkippedItems 
+    `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
 2. Utilize o seguinte comando para aprovar os itens ignorados em pedidos de migração que são "Sincronizados" mas não concluídos:
 
-    $pf=Get-PublicFolderMailboxMigrationRequest [ Get-PublicFolderMailboxMigrationRequest] Get-PublicFolderMailboxMigrationRequestStatistics -IncluirRelatório; ForEach ($i em $pf) {se ($i.LargeItemsEncountered -gt 0 -ou $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([[DataTime]:UtcNow)}}
+    `$pf=Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics -IncludeReport; ForEach ($i in $pf) {if ($i.LargeItemsEncountered -gt 0 -or $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([DateTime]::UtcNow)}}`
 3. O lote de migração e os pedidos devem ser retomados e concluídos em poucos minutos.
 

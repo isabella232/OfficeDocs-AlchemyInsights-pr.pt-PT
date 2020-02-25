@@ -1,5 +1,5 @@
 ---
-title: Não é possível se conectar à Internet
+title: Não se pode ligar à Internet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,39 +11,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 222e4b1d282d9d75f08fa2739c13eb7a0ec072c9
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: c28ab39b88b4f088fb4c6e76450f79b16e1976ad
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627965"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265063"
 ---
-# <a name="fix-network-connection-issues"></a>Corrigir problemas de conexão de rede
+# <a name="fix-network-connection"></a>Corrigir a ligação de rede
 
-Para resolver problemas de conexão de rede, primeiro tente executar o solucionado de problemas da Rede. 
+Para resolver problemas de ligação à rede, tente primeiro executar o resoludor de problemas da Rede. 
 
-Na caixa de pesquisa na barra de tarefas, tipo **de solucionador**de problemas de rede e, em seguida, selecione problemas de **rede de identificação e reparo.**
+1. [Abra as definições de Troubleshoot](ms-settings:troubleshoot).
 
-**Nota:** Se você precisar de ajuda para se conectar à Internet usando um PC rodando O Windows 7 ou o Windows 8.1, veja [corrigir problemas](https://support.microsoft.com/help/15287) de conexão de rede no Windows 
+2. Em **ligações à Internet,** selecione **Executar o resolução de problemas**.
 
-Se você estiver usando uma conexão sem fio (Wi-Fi), certifique-se de que o Wi-Fi esteja ativado para o dispositivo (incluindo qualquer interruptor Wi-Fi físico) e que o modo de avião não esteja ativado.
+Se estiver a utilizar uma ligação Wi-Fi, certifique-se de que o Wi-Fi está ligado para o seu dispositivo (incluindo qualquer interruptor Wi-Fi físico), e que o modo de avião não está ligado.
 
-Se você estiver usando uma conexão com fio (Ethernet), certifique-se de que o cabo está conectado com segurança ao seu PC e ao seu roteador ou modem.
+Se estiver a utilizar uma ligação Ethernet, certifique-se de que o cabo está ligado de forma segura ao seu PC e ao seu router ou modem.
 
-Se isso não funcionar, tente reiniciar seu PC, modem e roteador (se você tiver um):
+Se isso não funcionar, tente reiniciar o seu PC, modem e router (se tiver um):
 
-1. Desligue a energia do seu modem e roteador. Se o seu modem tiver um backup de bateria, você precisará remover a bateria para desligar completamente a energia.
-2. Espere cerca de 30 segundos. Se você removeu a bateria do modem, colocá-lo de volta.
-3. Ligue o cabo de alimentação para o modem e roteador.
-4. Enquanto você espera o modem e roteador para ligar totalmente, reiniciar o seu PC. Escolha o**reinício****do poder** >  **inicial.** >  (Certifique-se de selecionar **Reiniciar,** não **desligar**.)
+1. Desligue a energia do seu modem e router. Se o seu modem tiver uma cópia de segurança da bateria, terá de remover a bateria para desligar completamente a energia.
 
-**Solução avançada de problemas**
+2. Espere cerca de 30 segundos. Se retirar a bateria do modem, volte a colocá-la.
 
-Para obter etapas mais avançadas de solução de problemas, consulte problemas de conexão de [rede fix no Windows 10.](https://support.microsoft.com/help/10741?ocid=SMC10741%2F) Este artigo inclui mais informações técnicas sobre como corrigir sua conexão com a Internet, como:
+3. Ligue o cabo de alimentação para o modem e o router.
 
-- Usando o comando solicitado para executar comandos de rede
-- Atualizando o motorista adaptador de rede
-- Verificando se seu firewall ou software antivírus está interferindo em sua conexão com a Internet
-- Usando a rede redefinida para reinstalar dispositivos de rede
+4. Enquanto espera que o modem e o router liguem completamente, reinicie o seu PC: **Iniciar** > o**Arranque****de Energia** > .
 
-**Nota:** Se você não se sentir confortável usando as etapas mais técnicas de solução de problemas, você pode conversar com uma pessoa para obter mais ajuda, escolhendo o botão **Contact Us.**
+**Resolução avançada de problemas**
+
+Para obter passos mais avançados de resolução de problemas, consulte problemas de [ligação Wi-Fi fix no Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
+
+Se não se sentir confortável usando os passos mais técnicos de resolução de problemas, [contacte-nos.](https://support.microsoft.com/contactus)

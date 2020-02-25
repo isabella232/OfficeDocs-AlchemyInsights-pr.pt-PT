@@ -1,5 +1,5 @@
 ---
-title: Outlook.com em falta pastas
+title: Outlook.com pastas desaparecidas
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: e7d63bc774b915e9d8b51695b8d7d0cd08086f35
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
+ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536194"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260253"
 ---
-# <a name="find-missing-folders"></a>Localizar pastas em falta
+# <a name="find-missing-folders"></a>Encontre pastas em falta
 
-Se não conseguir ver as pastas, verifique que as pastas não estão fechadas. Seleccione a seta junto a **pastas** no painel da esquerda.
-  
-Se eliminar acidentalmente uma pasta, pode recuperá-lo se este existir ainda na pasta Itens eliminados. Para obter mais informações, leia [restaurar eliminados mensagens de correio electrónico no Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
-  
-Existe um problema conhecido, sempre que as pastas estão em falta. Estamos a trabalhar para resolver este problema. Pode ainda localizar itens guardados nas pastas em falta utilizando a **pesquisa** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />, e pode ajudar se terminar sessão e, em seguida, iniciar sessão novamente. [Clique aqui para terminar a sessão.](https://login.live.com/logout.srf)
+Alguns utilizadores podem não conseguir ver o painel da pasta esquerda quando se vê num pequeno ecrã.
+
+- Expanda o painel da pasta apenas quando precisar. Selecione o ícone de três linhas na barra lateral esquerda para mostrar ou ocultar pastas.
+- Abra [as definições](https://outlook.live.com/mail/options/mail/layout) de layout e selecione **Ocultar painel de leitura** e, em seguida, **guardar**. Isto dará ao ecrã mais espaço para mostrar pastas.
+
+Se apagar acidentalmente uma pasta, pode recuperá-la se ainda estiver na pasta 'Itens Eliminados'. Para saber mais, leia Restaurar as mensagens de [correio eletrónico eliminadas em Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).

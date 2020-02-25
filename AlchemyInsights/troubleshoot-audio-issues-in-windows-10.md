@@ -1,5 +1,5 @@
 ---
-title: Problemas de áudio solucionados de problemas no Windows 10
+title: Problemas de áudio no Windows 10
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,53 +11,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 46b23f97c2e682258224dc95e7a76b1201991828
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: f51fd233db5ae068e719f1cf3bc94a0dac82444f
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796299"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265027"
 ---
-# <a name="troubleshooting-audio-problems-in-windows-10"></a>Problemas de áudio solução de problemas de problemas no Windows 10
+# <a name="troubleshooting-audio-issues-in-windows-10"></a>Problemas de resolução de problemas de áudio no Windows 10
 
-**Executar o solucionado de problemas de áudio**
+**Executar o problema de áudio**
 
-O solucionador de problemas de áudio pode ser capaz de corrigir os problemas de áudio automaticamente: 
+1.  Abra as definições de [Troubleshoot](ms-settings:troubleshoot).
 
-1. Selecione **Iniciar,** **digite solucionação**de problemas e, em seguida, selecione **Solucionação** de Problemas da lista de resultados. 
-2. Selecione **reprodução** > de áudio**executar o solucionado de problemas**.
+2.  Selecione **Reproduzir áudio** > **Executar o resolução de problemas**.
 
-**Verifique cabos, volume, alto-falantes e fones de ouvido**
+**Definir o dispositivo predefinido**
 
-- Verifique suas conexões de alto-falante e fone de ouvido para cabos soltos e certifique-se de que elas estejam conectadas ao macaco correto.
-- Verifique seus níveis de energia e volume e tente aumentar todos os controles de volume.
-- Alguns alto-falantes e aplicativos têm seus próprios controles de volume, e você pode ter que verificá-los todos para se certificar de que eles estão nos níveis certos.
-- Tente se conectar usando uma porta USB diferente.
-- **Nota:** Lembre-se que seus alto-falantes podem não funcionar quando os fones de ouvido estão conectados.
+Se estiver a ligar-se a um dispositivo de áudio utilizando USB ou HDMI, poderá ter de definir esse dispositivo como predefinido:
 
-**Verifique o gerenciador de dispositivos**
+1.  > Abra **** o**Start Sound**e, em seguida, selecione **sons** do sistema **Sound** or Change da lista de resultados.
 
-Para se certificar de que os motoristas estão atualizados:
+2.  No **separador Reprodução,** selecione um dispositivo, selecione **'Definir Padrão**' e, em seguida, selecione **OK**.
 
-- Selecione **Iniciar,** digite **o gerenciador**de dispositivos e, em seguida, selecione o gerenciador de **dispositivos** da lista de resultados.
+**Verifique os cabos, volume, altifalantes e auscultadores**
 
-2. Em **som, vídeo e controladores**de jogo, selecione sua cartão de som, abra-a, selecione a guia **Driver** e selecione O Motorista de **Atualização.** 
+1. Verifique se os altifalantes e os auscultadores estão ligados à tomada correta.
 
-**Nota:** Se o Windows não encontrar um novo driver, procure um no site do fabricante do dispositivo e siga suas instruções.
+2. Verifique os níveis de potência e volume e tente aumentar todos os controlos de volume.
 
-**Reinstalar o motorista**
+3. Alguns oradores e aplicações têm os seus próprios controlos de volume; Talvez tenha que verificar todos para se certificar de que estão nos níveis certos.
 
-Se você não puder atualizar via Gerenciador de Dispositivos ou encontrar um novo motorista no site do fabricante, experimente essas etapas: 
+4. Tente ligar-se utilizando uma porta USB diferente.
 
-1. No Gerenciador de Dispositivos, clique direito (ou pressione e segure) o driver de áudio e selecione **desinstalar.** Reiniciar o dispositivo e o Windows tentará reinstalar o condutor.
+**Nota:** Lembre-se de que os altifalantes podem não funcionar quando os auscultadores estiverem ligados.
 
-2. Se reinstalar o motorista não funcionar, tente usar o driver de áudio genérico que vem com o Windows. No Gerenciador de Dispositivos, clique direito (ou pressione e segure) seu motorista de áudio > **o software** > do motorista de atualização**navegue no meu computador para o software** > do motorista**Deixe-me escolher entre uma lista de drivers de dispositivo seleção do dispositivo**de áudio de alta **definição,** selecione **Next,** e siga as instruções para instalá-lo.
+**Verificar Gestor de Dispositivos**
 
-**Defina o dispositivo padrão**
+Para garantir que os condutores estão atualizados:
 
-Se você estiver se conectando a um dispositivo de áudio usando USB ou HDMI, talvez seja necessário definir esse dispositivo como padrão: 
+1. Selecione **Iniciar,** digitar **Gestor de Dispositivos**e, em seguida, selecione Gestor de **Dispositivos** na lista de resultados.
 
-1. Selecione **Iniciar,** digite **som**e, em seguida, selecione sons do sistema **de som** ou **alteração** da lista de resultados.
+2. Em **comandos de som, vídeo e jogo,** selecione a sua placa de som, abra-a, selecione o separador **Driver** e selecione 'Controlador de **atualização**' .
 
-2. Na guia **de reprodução,** selecione um dispositivo, selecione **set default**e, em seguida, selecione **OK.**
+**Nota:** Se o Windows não encontrar um novo controlador, procure um no site do fabricante do dispositivo e siga as suas instruções.
 
+**Reinstalar o controlador**
+
+Se não conseguir atualizar via Device Manager ou encontrar um novo controlador no site do fabricante, experimente estes passos:
+
+1. No Gestor do Dispositivo, clique à direita (ou prima e segure) o controlador de áudio e selecione **Desinstalar**. Reiniciar o seu dispositivo e o Windows tentará reinstalar o controlador.
+
+2. Se a reinstalação do controlador não funcionar, tente utilizar o controlador de áudio genérico que vem com o Windows. No Gestor do Dispositivo, clique à direita (ou pressione e segure) o seu controlador de áudio > **Atualizar o software** > do controlador**Navegue no meu computador para** > o software do controlador**Deixe-me escolher de uma lista de controladores de dispositivos no meu computador,** selecione Dispositivo de Áudio de **Alta Definição,** selecione **Next**, e siga as instruções para instalá-lo.

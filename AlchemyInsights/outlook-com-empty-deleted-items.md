@@ -1,8 +1,9 @@
 ---
-title: Esvazie a pasta de itens excluídos em Outlook.com
+title: Esvazie a pasta de Itens Eliminados em Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768703"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277942"
 ---
-# <a name="empty-the-deleted-items-folder"></a>Esvazie a pasta de itens excluídos
+# <a name="empty-the-deleted-items-folder"></a>Esvazie a pasta de Itens Eliminados
 
-Para limpar todas as suas mensagens do Outlook excluídas, acesse sua [pasta](https://outlook.live.com/mail/deleteditems) de itens excluídos e selecione **pasta vazia,** em seguida, selecione **recuperar itens excluídos desta pasta** acima da lista de mensagens e selecione **pasta** vazia novamente.
+1. Abra a pasta 'Itens Eliminados' e selecione **pasta Vazia**.
+2. **Selecione itens recuperáveis** na parte superior da página e selecione novamente a **pasta Empty.**
 
-Se você excluiu muitas mensagens, pode levar algum tempo para que esses itens se movam ou sejam removidos da pasta de itens excluídos. Por favor, deixe a janela do navegador aberta até que os itens sejam excluídos.
+**Incapaz de esvaziar a pasta De itens eliminados**
 
-Se as mensagens não excluirem corretamente, tente excluir um número menor de mensagens.
+- Se tiver apagado muitos e-mails, pode levar algum tempo para que esses itens se movam ou sejam eliminados da pasta De itens Eliminados. Deixe a janela do navegador aberta enquanto ocorre a eliminação.
+- Se o e-mail ainda não apagar corretamente, selecione um lote menor para eliminar.
+- Se o e-mail apagado voltar, pode ser porque apagou muitos e-mails recentemente. Por favor, tente de novo mais tarde.

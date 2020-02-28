@@ -11,16 +11,18 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: f012aedd1d133b8706b4dbdc296ae6ca19942a06
-ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
+ms.openlocfilehash: 92da79ff6f5fe3bdb7810abae35482c8ecfc5efe
+ms.sourcegitcommit: 3da9d729256b978a95034fcf64b868fcc0e8012b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41855823"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "42322765"
 ---
 # <a name="modernize-the-classic-home-page"></a>Modernizar a página inicial clássica
 
 Uma recente atualização para as páginas home do site da equipa do SharePoint afeta a página inicial de sites clássicos da equipa (STS#0) quando uma página inicial contém *apenas peças web padrão fora da caixa,* tais como começar, biblioteca de documentos e feed de notícias.
+
+Veja aqui um walk-through da [mudança.](https://docs.microsoft.com/en-us/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif) 
 
 **Nota: Os sites clássicos da equipa que contenham conteúdo personalizado não serão automaticamente atualizados.**
 

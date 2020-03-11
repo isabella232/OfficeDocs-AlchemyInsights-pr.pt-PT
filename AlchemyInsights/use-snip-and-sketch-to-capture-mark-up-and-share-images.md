@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: dbd1cd9db4830278703a2dfb8d0541e9f706a326
-ms.sourcegitcommit: dc3f616893e02c72e8cdf4700b1c49ccfa12a975
+ms.openlocfilehash: 1aa8876dd56010f9b45c56c4bf7e8db9ca8539e6
+ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42365179"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42584488"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Use Snip & Sketch para capturar, marcar e partilhar imagens
 
@@ -27,7 +27,8 @@ O esboço do ecrã chama-se Agora **de Esboço & Sketch**. **Para fazer rapidame
 2. Escolha um ponto na borda da área que pretende copiar e clique à esquerda no cursor. 
 
 3. Mova o cursor para destacar a área que pretende capturar. A área que capturar aparecerá no seu ecrã.
-:::image type="content" source="media/snipone.png" alt-text="imagem de seleção destacada":::
+
+   ![imagem de seleção destacada](media/snipone.png)
 
 A imagem que cortou é guardada na sua área de prancheta, pronta para colar num e-mail ou documento. 
 
@@ -35,4 +36,4 @@ A imagem que cortou é guardada na sua área de prancheta, pronta para colar num
 
 - Clique no ícone de notificações no lado direito da barra de tarefas; em seguida, clique na imagem que acabou de capturar. O seu corte abre na aplicação Snip & Sketch.
 
-:::image type="content" source="media/sniptwo.png" alt-text="imagem de imagem exibindo em app de corte":::
+   ![imagem de imagem exibindo em app de corte](media/sniptwo.png)

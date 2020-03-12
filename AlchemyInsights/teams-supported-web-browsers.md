@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 2fe3226c542ba3778751c7f20aa2daa421743354
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: 273edf85c9beec35d3b9cace03b809dde0db01c3
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564367"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599387"
 ---
 # <a name="teams-supported-web-browsers"></a>Navegadores web suportados por equipas
 
-As equipas suportam totalmente os navegadores de Internet listados no artigo, [Limites e especificações para as Equipas](https://docs.microsoft.com/en-us/microsoftteams/limits-specifications-teams#browsers)microsoft, com exceções notadas para chamadas e reuniões.
+As equipas suportam totalmente os navegadores de Internet listados no artigo, [Limites e especificações para as Equipas](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)microsoft, com exceções notadas para chamadas e reuniões.

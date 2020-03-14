@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001670"
 - "3737"
-ms.openlocfilehash: 982079c674e387018dc9f262400b0fc44b4da9fd
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: 9b0764e6315dba48ad7634a0668468fcff8408f4
+ms.sourcegitcommit: 2561248cfa1a562504183d84e2252deb60e6588a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42559161"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42632678"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>Use Rights Management Protection com a Microsoft 365
 
-Deve ativar o serviço de Gestão de Direitos (RMS) antes de poder utilizar as funcionalidades de Gestão de Direitos de Informação (IRM) das aplicações e serviços do Office 365.
+Deve ativar o serviço de Gestão de [Direitos (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) antes de poder utilizar as funcionalidades de Gestão de Direitos de Informação (IRM) das aplicações e serviços do Office 365.
 
 1. Para obter requisitos de licença e ativação a partir do centro de administração microsoft **365,** consulte [como ativar a Proteção de Gestão de Direitos do Microsoft 365 Admin Center](https://docs.microsoft.com/azure/information-protection/activate-office365). **Nota**: Requer conta de administração global.
 

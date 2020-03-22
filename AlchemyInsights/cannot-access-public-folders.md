@@ -1,5 +1,5 @@
 ---
-title: Não é possível acessar pastas públicas
+title: Não pode aceder a pastas públicas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a9305b175e1ca0b992c014a73705447d67e037bc
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
+ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959505"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42891760"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>O Outlook não pode se conectar a pastas públicas
+# <a name="outlook-cannot-connect-to-public-folders"></a>O Outlook não pode ligar-se a pastas públicas
 
-Se o acesso público da pasta não está funcionando para poucos usuários, tente o seguinte:
+Se o acesso a pasta pública não estiver a funcionar para alguns utilizadores, tente o seguinte:
 
-Conecte-se ao EXO PowerShell e configure o DefaultPublicFolderMailbox na conta do usuário do problema para combinar uma em uma conta de usuário que trabalha.
+Ligue-se ao EXO PowerShell e configure o parâmetro DefaultPublicFolderMailbox na conta de utilizador problemática para combinar o parâmetro numa conta de utilizador em funcionamento.
 
 Exemplo:
 
-Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
+Caixa de correio de caixa de correio funcionador [ User] ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox
 
-Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<valor de comando anterior>
+Problemas de caixa de correio de \<conjuntoUser -DefaultPublicFolderMailbox valor de comando anterior>
 
-Espere pelo menos uma hora para que a mudança entre em vigor.
+Espere pelo menos uma hora para que a mudança faça efeito.
+
+Se o problema se mantiver, siga [este procedimento](https://aka.ms/pfcte) para resolver problemas de acesso a pastas públicas utilizando o Outlook.

@@ -1,5 +1,5 @@
 ---
-title: Problemas durante a migração de dados para o SharePoint Online
+title: Problemas ao migrar dados para o SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b53a98480bab48497274c7358f7e606caa477f5a
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051760"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931705"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemas durante a migração de dados para o SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemas ao migrar dados para o SharePoint Online
 
-Parece que você está migrando mais de 100TB de dados para SharePoint Online. Por favor, siga os passos abaixo para que possamos ajudá-lo o mais rapidamente possível. 
+**Importante**: Muitos clientes SharePoint Online e OneDrive executam aplicações críticas ao negócio contra o serviço que executa em segundo plano. Estes incluem migração de conteúdos, Prevenção de Perdas de Dados (DLP) e soluções de backup. Durante estes tempos sem precedentes, estamos a tomar medidas para garantir que os serviços SharePoint Online e OneDrive permanecem altamente disponíveis e fiáveis para os seus utilizadores que dependem mais do serviço do que nunca em cenários de trabalho remoto.
 
-1. Selecione **nova solicitação**de serviço e, em seguida, **nova solicitação**de serviço. 
-2. Deixe o título e a descrição como migração sharepoint acima de **100TB**.
-3. Uma vez que o bilhete foi enviado, atualize-o com as seguintes informações: 
+Em apoio a este objetivo, implementámos limites de estrangulamento mais apertados em aplicações de fundo (soluções de migração, DLP e backup) durante o dia da semana. Deve esperar que estas aplicações atinjam uma entrada muito limitada durante estes tempos. No entanto, durante as horas de noite e fim de semana para a região, o serviço estará pronto para processar um volume significativamente maior de pedidos de aplicações de fundo.
 
-    - Tamanho estimado de sua migração.
-    - Uma estimativa de quando você gostaria de iniciar e completar sua migração.
-    - Descreva de onde você está migrando seu conteúdo, como SharePoint Server, Box, GDrive, File shares, etc..
+**Migração de mais de 100TB de dados**
+
+Parece que está a migrar mais de 100TB de dados para o SharePoint Online. Por favor, siga os passos abaixo para que possamos ajudá-lo o mais rápido possível. 
+
+1. Selecione **Novo Pedido de Serviço** **e,** em seguida, Novo Pedido de Serviço . 
+2. Deixe o título e a descrição como **migração sharePoint acima de 100TB**.
+3. Uma vez que o bilhete tenha sido submetido, por favor atualize-o com as seguintes informações: 
+
+    - Tamanho estimado da sua migração.
+    - Uma estimativa de quando gostaria de começar e completar a sua migração.
+    - Descreva de onde está a migrar o seu conteúdo, como SharePoint Server, Box, GDrive, File shares, etc.
 
 
   

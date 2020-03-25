@@ -1,5 +1,5 @@
 ---
-title: Sugestões de políticas do DLP não funcionar
+title: Dicas políticas dlp não funcionam
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -12,24 +12,30 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1619d50b98419f59a1f863983c4ec5bff01679b4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 51b4472fa721443192eb542cac45965df67634df
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530326"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932597"
 ---
-# <a name="dlp-policy-tip-issues"></a>Problemas de sugestão de políticas do DLP
+# <a name="dlp-policy-tip-issues"></a>DLP Questões de Ponta Política
 
-Quando utilizar **políticas do DLP**, os utilizadores podem ser notificados de uma violação da política com **sugestões de política**. Administradores podem configurar sugestões de política para apresentar ao testar a sua política DLP ou quando a política está no modo de imposição total.
+**Importante**: Muitos clientes SharePoint Online e OneDrive executam aplicações críticas ao negócio contra o serviço que executa em segundo plano. Estes incluem migração de conteúdos, Prevenção de Perdas de Dados (DLP) e soluções de backup. Durante estes tempos sem precedentes, estamos a tomar medidas para garantir que os serviços SharePoint Online e OneDrive permanecem altamente disponíveis e fiáveis para os seus utilizadores que dependem mais do serviço do que nunca em cenários de trabalho remoto.
+
+Em apoio a este objetivo, implementámos limites de estrangulamento mais apertados em aplicações de fundo (soluções de migração, DLP e backup) durante o dia da semana. Deve esperar que estas aplicações atinjam uma entrada muito limitada durante estes tempos. No entanto, durante as horas de noite e fim de semana para a região, o serviço estará pronto para processar um volume significativamente maior de pedidos de aplicações de fundo.
+
+**Dicas políticas dlp**
+
+Ao utilizar **as políticas dLP,** os utilizadores podem ser notificados de uma violação de política com dicas de **política.** Os administradores podem configurar dicas de política para exibir enquanto testam a sua política dLP ou quando a política está em pleno modo de execução.
   
-Para configurar sugestões de política sobre a política do DLP no Centro de segurança e conformidade em modo de imposição total, efectue o seguinte:
+Para configurar as dicas de política na sua política dLP no centro de segurança e conformidade em modo de execução completo, faça o seguinte:
   
-- Certifique-se sugestões de política tem sido **activada** a regra do DLP utilizando os passos [aqui](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Certifique-se de que as dicas de política foram **ativadas** na regra DLP utilizando os passos [aqui .](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
 
-- Garantir que o **conteúdo corresponde ao** que é **necessário** para activar a regra destacada neste artigo [aqui](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+- Certifique-se de que o seu **conteúdo corresponde** ao **necessário** para desencadear a regra descrita neste artigo [aqui](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
 
-- Mostrar sugestões de política no OWA e no Outlook. No entanto, quando utilizar o **Outlook 2013 ou posterior**, sugestões de política só são apresentados em determinadas condições. Estas condições são listadas aqui: [condições suportados para Outlook 2013 ou posterior para visualizar sugestões de política](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- Exibição de dicas de política tanto no OWA como no Outlook. No entanto, ao utilizar **o Outlook 2013 ou mais tarde,** as dicas de política só são apresentadas em determinadas condições. Estas condições estão listadas aqui: [Condições suportadas para o Outlook 2013 ou mais tarde para exibir Dicas](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions) políticas
 
-Para obter informações adicionais sobre sugestões de políticas do DLP, consulte: [Mostrar sugestões de política para políticas DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+Para obter informações adicionais sobre as dicas políticas do DLP, consulte: [Mostrar dicas políticas para políticas de DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
   

@@ -1,5 +1,5 @@
 ---
-title: DLP não funcionar conforme esperado
+title: DLP não funciona como esperado
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,39 +13,43 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 102c8025571f840cf64091d75295acec50661df2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a56e18ddadef3a2f9056978b8542c1dba8f29665
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530301"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932633"
 ---
-# <a name="dlp-not-working-as-expected"></a>DLP não funcionar conforme esperado
+# <a name="dlp-not-working-as-expected"></a>DLP não funciona como esperado
 
-Está a ter problemas com o **Data Loss Prevention (DLP)** no Office 365 não funcionar conforme esperado? Se assim for, certifique-se de que a **política do DLP** está configurado correctamente e que os seus dados contiverem que a **política do DLP** está à procura quando este está a ser avaliada.
+**Importante**: Muitos clientes SharePoint Online e OneDrive executam aplicações críticas ao negócio contra o serviço que executa em segundo plano. Estes incluem migração de conteúdos, Prevenção de Perdas de Dados (DLP) e soluções de backup. Durante estes tempos sem precedentes, estamos a tomar medidas para garantir que os serviços SharePoint Online e OneDrive permanecem altamente disponíveis e fiáveis para os seus utilizadores que dependem mais do serviço do que nunca em cenários de trabalho remoto.
+
+Em apoio a este objetivo, implementámos limites de estrangulamento mais apertados em aplicações de fundo (soluções de migração, DLP e backup) durante o dia da semana. Deve esperar que estas aplicações atinjam uma entrada muito limitada durante estes tempos. No entanto, durante as horas de noite e fim de semana para a região, o serviço estará pronto para processar um volume significativamente maior de pedidos de aplicações de fundo.
+
+ **Criação de DLP**
+
+Está a ter problemas com a Prevenção de Perdas de **Dados (DLP)** no Office 365 que não está a funcionar como esperado? Em caso afirmativo, certifique-se de que a sua **política de DLP** está corretamente configurada e que os seus dados contêm o que a **política do DLP** procura quando está a ser avaliada.
   
- **Configurar DLP**
+As políticas de DLP permitem identificar e proteger informações sensíveis na sua organização. Para configurar políticas de DLP, use a informação [aqui](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
   
-Políticas do DLP permite-lhe identificar e proteger informações confidenciais na sua organização. Para configurar as políticas do DLP, utilize as informações [aqui](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
+ **O que as políticas do DLP procuram**
   
- **O que procuram políticas DLP**
+Ao utilizar os **tipos de informação sensível incorporados** no Office 365 Security and Compliance center, as políticas de DLP procuram padrões e elementos específicos ao detetar estes tipos sensíveis.
   
-Quando utilizar os **tipos de informações sensíveis incorporada** no Centro de segurança do Office 365 e conformidade, as políticas do DLP procuram padrões específicos e elementos quando detectar estes tipos sensíveis.
-  
-- **Tipos de informações sensíveis incorporada**
+- **Tipos de informação sensível incorporados**
 
-    Para obter informações sobre os tipos de sensíveis incorporados e o que uma política do DLP procura quando detectar o tipo sensível, consulte: [procuram a que os tipos de informações sensíveis](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+    Para obter informações sobre os tipos sensíveis incorporados e o que uma política de DLP procura ao detetar o tipo Sensível, consulte: O que os [tipos de informação sensíveis procuram](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
 
-- **Tipos de informações sensíveis personalizadas**
+- **Tipos de informação sensível personalizado**
 
-    Se está a tentar criar tipos de informações sensíveis personalizadas, utilize o seguinte artigo para obter informações sobre como criar um tipo personalizado sensível: [criar um tipo de informações sensíveis personalizadas](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
+    Se estiver a tentar criar tipos de informação sensíveis personalizados, utilize o seguinte artigo para obter informações sobre como criar um tipo de [informação sensível personalizada: Criar um tipo](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)de informação sensível personalizado .
 
-**Teste uma política do DLP**
+**Teste uma política de DLP**
 
-Para testar os seus dados com um tipo de informações sensíveis incorporados ou personalizados, utilize a opção de **tipo de teste** em **classificações** > **tipos de informações sensíveis**. Para mais informações, consulte [tipos de informações sensíveis personalizadas de ensaio](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+Para testar os seus dados com um tipo de informação sensível incorporada ou personalizada, utilize a opção **do tipo Teste** em tipos de**informação sensíveis**de **classificações** > . Para mais informações, consulte os tipos de [informação personalizadas](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
 
  **Relatórios**
   
-- Obter conhecimentos aprofundados de dados importantes com [relatórios do DLP.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
+- Obtenha informações confidenciais de dados com [relatórios DLP.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
 
-- Ver detalhes do evento com um [Relatório de acidente](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).
+- Consulte detalhes específicos do evento com um Relatório de [Incidentes](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).

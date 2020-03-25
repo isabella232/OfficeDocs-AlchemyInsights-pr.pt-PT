@@ -1,5 +1,5 @@
 ---
-title: Regra do DLP para SSN não funcionar
+title: Regra do DLP para a SSN não funcionar
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -12,40 +12,46 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: 757136c39700f12f40f839b29277a59b0e436f03
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0b83a858975ffe1bb70f16a7452a13d57dff5340
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529876"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932546"
 ---
-# <a name="dlp-issues-with-social-security-numbers"></a>Problemas do DLP com números da Segurança Social
+# <a name="dlp-issues-with-social-security-numbers"></a>DLP emite com números de Segurança Social
 
-Está a ter problemas com o **Data Loss Prevention (DLP)** não funcionar para o conteúdo que contém um **Número da Segurança Social (SSN)** quando utilizar um tipo de informações sensíveis no Office 365? Se assim for, certifique-se que o conteúdo contém as informações necessárias para que a política do DLP está à procura. 
+**Importante**: Muitos clientes SharePoint Online e OneDrive executam aplicações críticas ao negócio contra o serviço que executa em segundo plano. Estes incluem migração de conteúdos, Prevenção de Perdas de Dados (DLP) e soluções de backup. Durante estes tempos sem precedentes, estamos a tomar medidas para garantir que os serviços SharePoint Online e OneDrive permanecem altamente disponíveis e fiáveis para os seus utilizadores que dependem mais do serviço do que nunca em cenários de trabalho remoto.
+
+Em apoio a este objetivo, implementámos limites de estrangulamento mais apertados em aplicações de fundo (soluções de migração, DLP e backup) durante o dia da semana. Deve esperar que estas aplicações atinjam uma entrada muito limitada durante estes tempos. No entanto, durante as horas de noite e fim de semana para a região, o serviço estará pronto para processar um volume significativamente maior de pedidos de aplicações de fundo.
+
+**DLP problemas com SSNs**
+
+Está a ter problemas com a Prevenção de Perdas de **Dados (DLP)** que não está a trabalhar para conteúdos que contenham um Número de **Segurança Social (SSN)** quando utilizar um tipo de informação sensível no Office 365? Em caso afirmativo, certifique-se de que o seu conteúdo contém as informações necessárias para o que a política do DLP está a procurar. 
   
-Por exemplo, para uma política de SSN configurada com um nível de confiança de 85%, a seguir é avaliados e deve ser detectada para a regra accionar:
+Por exemplo, para uma política SSN configurada com um nível de confiança de 85%, são avaliados e devem ser detetados para que a regra desencadeie:
   
-- **[Formato:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-80)** 9 dígitos, que poderão ser um padrão formatado ou não formatado
+- **[Formato:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-80)** 9 dígitos, que podem estar num padrão formatado ou não formatado
 
-- **[Padrão:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Quatro funções procure SSNs na quatro padrões diferentes:
+- **[Padrão:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Quatro funções procuram SSNs em quatro padrões diferentes:
 
-  - Func_ssn localiza SSNs com pré-2011 forte formatação que são formatados com travessões ou espaços (ddd-dd-dddd ou ddd dd dddd)
+  - Func_ssn encontra SSNs com formatação forte pré-2011 que são formatadas com traços ou espaços (ddd-ddddd ddddd ddddd)
 
-  - Func_unformatted_ssn localiza SSNs com pré-2011 forte formatação que está formatada como nove dígitos consecutivos (ddddddddd)
+  - Func_unformatted_ssn encontra SSNs com formatação forte pré-2011 que não são formatadas como nove dígitos consecutivos (dddddddddd)
 
-  - Func_randomized_formatted_ssn localiza SSNs post 2011 formatados com travessões ou espaços (ddd-dd-dddd ou ddd dd dddd)
+  - Func_randomized_formatted_ssn encontra SSNs pós-2011 que são formatados com traços ou espaços (ddd-ddddd or dddddd dddddd)
 
-  - Func_randomized_unformatted_ssn localiza post 2011 SSNs que estão formatados como nove dígitos consecutivos (ddddddddd)
+  - Func_randomized_unformatted_ssn encontra SSNs pós-2011 que não são formatadas como nove dígitos consecutivos (ddddddddddd)
 
-- **[Soma de verificação:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-79)** Não, não existe nenhum soma de verificação
+- **[Chequeum:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-79)** Não, não há Checksum.
 
-- **[Definição:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** Uma política DLP é de 85% de certeza de que detectou este tipo de informações sensíveis se, num raio de 300 caracteres:
+- **[Definição:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** Uma política de DLP está 85% confiante de que detetou este tipo de informação sensível se, dentro de uma proximidade de 300 caracteres:
 
-  - A [função Func_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80) localiza conteúdo que corresponda ao padrão.
+  - A [função Func_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80) encontra conteúdo que corresponda ao padrão.
 
-  - Foi encontrada uma palavra-chave de [Keyword_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn) . Inclui exemplos de palavras-chave: *Segurança Social, de Segurança Social #, seg. Soc, SSN* . Por exemplo, o seguinte exemplo daria origem para a política do DLP SSN: **SSN: 489-36-8350**
+  - Uma palavra-chave de [Keyword_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn) é encontrada. Exemplos de palavras-chave incluem: *Segurança Social, Segurança Social#, Soc Sec ,SSN* . Por exemplo, a seguinte amostra seria desencadeada para a política DLP SSN: **SSN: 489-36-8350**
   
-Para mais informações sobre o que é necessário para SSNs ser detectado para o seu conteúdo, consulte a secção seguinte deste artigo: [O que o sensíveis a maiúsculas e tipos de informação procure SSNs](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us-social-security-number-ssn)
+Para obter mais informações sobre o que é necessário para que as SSNs sejam detetadas para o seu conteúdo, consulte a seguinte secção neste artigo: O que os Tipos de [Informação Sensível procuram por SSNs](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us-social-security-number-ssn)
   
-Utilizando um tipo de informações sensíveis incorporados diferentes, consulte o artigo seguinte para obter informações sobre o que é necessário para outros tipos: [Procurar o que o sensíveis a maiúsculas e tipos de informação](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+Utilizando um tipo de informação sensível incorporado diferente, consulte o seguinte artigo para obter informações sobre o que é necessário para outros tipos: O que os Tipos de [Informação Sensível procuram](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
   

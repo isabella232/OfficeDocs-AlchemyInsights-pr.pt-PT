@@ -1,5 +1,5 @@
 ---
-title: Regra do DLP para número de cartão de crédito não funcionar
+title: Regra dLP para número de cartão de crédito não funcionando
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -12,44 +12,50 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: 875afb47175a78c22894720cb0db8222f6f41614
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6b28534d072c024a98a9b05f6cb55bfdc3435db6
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529966"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932454"
 ---
-# <a name="dlp-issues-with-credit-card-numbers"></a>Problemas do DLP com números de cartão de crédito
+# <a name="dlp-issues-with-credit-card-numbers"></a>DLP emite com números de cartão de crédito
 
-Está a ter problemas com o **Data Loss Prevention (DLP)** não funcionar para o conteúdo que contenha um **Número de cartão de crédito** quando utilizar um tipo de informações sensíveis do DLP em O365? Se assim for, certifique-se de conteúdo contém as informações necessárias para activar a política DLP quando é avaliado. Por exemplo, para uma **política de cartão de crédito** configurado com um nível de confiança de 85%, a seguir é avaliados e deve ser detectada para a regra accionar:
+**Importante**: Muitos clientes SharePoint Online e OneDrive executam aplicações críticas ao negócio contra o serviço que executa em segundo plano. Estes incluem migração de conteúdos, Prevenção de Perdas de Dados (DLP) e soluções de backup. Durante estes tempos sem precedentes, estamos a tomar medidas para garantir que os serviços SharePoint Online e OneDrive permanecem altamente disponíveis e fiáveis para os seus utilizadores que dependem mais do serviço do que nunca em cenários de trabalho remoto.
+
+Em apoio a este objetivo, implementámos limites de estrangulamento mais apertados em aplicações de fundo (soluções de migração, DLP e backup) durante o dia da semana. Deve esperar que estas aplicações atinjam uma entrada muito limitada durante estes tempos. No entanto, durante as horas de noite e fim de semana para a região, o serviço estará pronto para processar um volume significativamente maior de pedidos de aplicações de fundo.
+
+**DLP emite com números de cartão de crédito**
+
+Está a ter problemas com a Prevenção de Perdas de **Dados (DLP)** que não está a trabalhar para conteúdos que contenham um Número de **Cartão** de Crédito ao utilizar um tipo de informação sensível dLP em O365? Em caso afirmativo, certifique-se de que o seu conteúdo contém as informações necessárias para desencadear a política dLP quando for avaliada. Por exemplo, para uma política de **Cartão** de Crédito configurada com um nível de confiança de 85%, são avaliados e devem ser detetados para que a regra desencadeie:
   
-- **[Formato:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 dígitos que podem ser formatados ou formatada (dddddddddddddddd) e tem de passar no teste de Luhn.
+- **[Formato:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 dígitos que podem ser formatados ou não formatados (ddddddddddddddddddddddddddddd) e devem passar no teste Luhn.
 
-- **[Padrão:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Padrão de muito complexo e robusto que detecta placas de todas as marcas principais em todo o mundo, incluindo Visa, MasterCard, descobrir o cartão, JCB, American Express, cartões de oferta e cartões de diner.
+- **[Padrão:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Padrão muito complexo e robusto que deteta cartões de todas as grandes marcas em todo o mundo, incluindo Visa, MasterCard, Discover Card, JCB, American Express, cartões oferta e cartões de jantar.
 
-- **[Soma de verificação:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Sim, a soma de verificação de Luhn
+- **[Chequeum:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Sim, o cheque Luhn.
 
-- **[Definição:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** Uma política DLP é de 85% de certeza de que detectou este tipo de informações sensíveis se, num raio de 300 caracteres:
+- **[Definição:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** Uma política de DLP está 85% confiante de que detetou este tipo de informação sensível se, dentro de uma proximidade de 300 caracteres:
 
-  - A função Func_credit_card localiza conteúdo que corresponda ao padrão.
+  - A função Func_credit_card encontra conteúdo que corresponda ao padrão.
 
-  - Uma das seguintes afirmações é verdadeira:
+  - Um dos seguintes é verdade:
 
-  - Foi encontrada uma palavra-chave de Keyword_cc_verification.
+  - Uma palavra-chave de Keyword_cc_verification é encontrada.
 
-  - Encontra-se uma palavra-chave de Keyword_cc_name
+  - Uma palavra-chave de Keyword_cc_name é encontrada
 
-  - A função Func_expiration_date localiza uma data no formato de data à direita.
+  - A função Func_expiration_date encontra uma data no formato de data certa.
 
-  - As fases de soma de verificação
+  - O cheque passa
 
-    Por exemplo, o seguinte exemplo daria origem para uma política de número de cartão de crédito do DLP:
+    Por exemplo, a seguinte amostra desencadearia uma Política de Números de Cartão de Crédito DLP:
 
   - Visto: 4485 3647 3952 7352
   
   - Expira: 2/2009
 
-Para mais informações sobre o que é necessário para um **Número de cartão de crédito** a ser detectado para o seu conteúdo, consulte a secção seguinte deste artigo: [O que o sensíveis a maiúsculas e tipos de informação procure cartão de crédito #](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)
+Para obter mais informações sobre o que é necessário para que um Número de **Cartão** de Crédito seja detetado para o seu conteúdo, consulte a seguinte secção neste artigo: [O que os Tipos de Informação Sensível procuram para cartão](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number) de crédito#
   
-Utilizando um tipo de informações sensíveis incorporados diferentes, consulte o artigo seguinte para obter informações sobre o que é necessário para outros tipos: [Procurar o que o sensíveis a maiúsculas e tipos de informação](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+Utilizando um tipo de informação sensível incorporado diferente, consulte o seguinte artigo para obter informações sobre o que é necessário para outros tipos: O que os Tipos de [Informação Sensível procuram](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
   

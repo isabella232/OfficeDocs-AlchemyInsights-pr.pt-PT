@@ -1,0 +1,37 @@
+---
+title: Desempenho da migração do SharePoint
+ms.author: pebaum
+author: pebaum
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
+ms.collection: Adm_O365
+ms.custom:
+- "5300030"
+- "2700"
+ms.openlocfilehash: 812444589d5a5bf766bbc6f466077d4ca829d79f
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.translationtype: HT
+ms.contentlocale: pt-PT
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932245"
+---
+# <a name="sharepoint-migration-performance"></a>Desempenho da migração do SharePoint
+
+**Importante**: muitos clientes do SharePoint Online e OneDrive executam aplicações essenciais para as empresas no serviço que são executadas em segundo plano. Estas incluem soluções de migração de conteúdos, Prevenção de Perda de Dados (DLP) de cópia de segurança. Durante estes tempos sem precedentes, estamos a tomar medidas para garantir que os serviços SharePoint Online e OneDrive permanecem altamente disponíveis e fiáveis para os seus utilizadores que dependem mais do serviço do que nunca em cenários de trabalho à distância.
+
+Como medida de suporte a este objetivo, implementámos limitações mais restritas em aplicações de segundo plano (soluções de migração, DLP e cópias de segurança) durante as horas diurnas dos dias úteis. Deverá esperar uma limitação bastante restrita por parte destas aplicações durante este período de tempo. No entanto, durante as horas de noite e fim de semana para a região, o serviço estará pronto para processar um volume significativamente maior de pedidos de aplicações em segundo plano.
+
+**Desempenho da migração**
+
+O desempenho da migração pode ser afetado pela infraestrutura da rede, tamanho dos ficheiros, tempo de migração e limitações. Compreender estes fatores vai ajudá-lo a planear e maximizar a eficácia da sua migração.
+
+Para obter mais informações, visite as ligações abaixo.
+
+- [Sharepoint Online and ODB Migration Speed](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed) (Velocidade da Migração do SharePoint Online e do ODB)
+
+- [Avoid getting throttled or blocked in SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online) (Evitar ser limitado ou bloqueado no SharePoint Online)
+
+- [Download and install the SharePoint Migration Tool](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool) (Transferir e Instalar a Ferramenta de Migração do SharePoint)

@@ -11,18 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 10a0069c41d2e5128b2592425d815364a83b730f
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932489"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958549"
 ---
 # <a name="general-migration-performance-guidance"></a>Diretrizes gerais sobre o desempenho de migrações
 
-**Importante**: muitos clientes do SharePoint Online e OneDrive executam aplicações essenciais para as empresas no serviço que são executadas em segundo plano. Estas incluem soluções de migração de conteúdos, Prevenção de Perda de Dados (DLP) de cópia de segurança. Durante estes tempos sem precedentes, estamos a tomar medidas para garantir que os serviços SharePoint Online e OneDrive permanecem altamente disponíveis e fiáveis para os seus utilizadores que dependem mais do serviço do que nunca em cenários de trabalho à distância.
-
-Como medida de suporte a este objetivo, implementámos limitações mais restritas em aplicações de segundo plano (soluções de migração, DLP e cópias de segurança) durante as horas diurnas dos dias úteis. Deverá esperar uma limitação bastante restrita por parte destas aplicações durante este período de tempo. No entanto, durante as horas de noite e fim de semana para a região, o serviço estará pronto para processar um volume significativamente maior de pedidos de aplicações em segundo plano.
+**Importante:**: durante estes tempos sem precedentes, estamos a tomar medidas para garantir que os serviços SharePoint Online e OneDrive permaneçam com elevada disponibilidade. Para obter mais informações, visite [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) (Ajustes Temporários de Funcionalidades do SharePoint Online).
 
 **Diretrizes sobre o desempenho de migrações**
 

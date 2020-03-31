@@ -12,27 +12,31 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e19d680f5688fe9c5e263019c20f10c678d7f7e5
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664331"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059747"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Como adicionar ou editar um VatID
 
-1. No Centro de administração de Microsoft 365, vá para a **Facturação** \> página [produtos e serviços &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+**Nota:** Se estiver num país que utiliza um imposto sobre o valor acrescentado (IVA), como o Reino Unido, a Microsoft Faturação calcula o IVA para si e aplica o valor às suas faturas. Para mais informações, consulte a isenção de responsabilidade do [VIES](https://go.microsoft.com/fwlink/?LinkID=841741) publicada pela Comissão Europeia.
 
-2. Localize o cartão de subscrição para a subscrição que pretende actualizar.
+**Adicionar ou editar um VatID**
 
-3. Na secção **Definições & acções** , seleccione **Editar endereço de utilização do serviço**.
+1. No centro de administração da Microsoft 365, vá à página de [serviços &](https://go.microsoft.com/fwlink/p/?linkid=842054) Produtos de **Faturação.** \>
 
-4. Na página **Editar o seu endereço de utilização do serviço** , introduza o ID de IVA na caixa **número de IVA** e, em seguida, seleccione **Guardar**.
+2. Encontre o cartão de subscrição para a subscrição que pretende atualizar.
 
-    Quando tiver terminado, o IVA não será cobrada na próxima factura.
+3. Na secção **Definições & Ações,** selecione Editar **o endereço de utilização**do serviço .
 
-Para obter mais informações, consulte [qual o imposto será é cobrada Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+4. Na página de endereço de utilização editar **o seu serviço,** insira o seu ID de IVA na caixa **de números** do IVA e, em seguida, selecione **Guardar**.
+
+    Quando estiver concluído, o IVA não será cobrado na sua próxima conta.
+
+Para saber mais, vê [que impostos serei cobrado pelo Escritório 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
 
 **Recursos adicionais**
 
-[Adicionar o ID de IVA](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+[Adicione o seu ID de IVA](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).

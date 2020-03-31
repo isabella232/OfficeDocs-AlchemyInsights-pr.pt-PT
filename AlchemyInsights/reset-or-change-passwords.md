@@ -1,5 +1,5 @@
 ---
-title: Redefinir ou alterar senhas
+title: Redefinir ou alterar palavras-passe
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -8,23 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
 ms.custom:
+- "9002291"
+- "4428"
+- "1100004"
 - "735"
 - "826"
-- "1100004"
-ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
-ms.openlocfilehash: a07ceca6d1a39bc1517c12d9eb40ea50229aee33
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 67195ab9a52342647659162045cc4f536d001ab4
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745300"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059855"
 ---
-# <a name="reset-or-change-office-365-business-passwords"></a><span data-ttu-id="9c92d-102">Redefinir ou alterar as senhas comerciais do Office 365</span><span class="sxs-lookup"><span data-stu-id="9c92d-102">Reset or change Office 365 business passwords</span></span>
+# <a name="reset-or-change-passwords"></a><span data-ttu-id="e93a0-102">Redefinir ou alterar palavras-passe</span><span class="sxs-lookup"><span data-stu-id="e93a0-102">Reset or change passwords</span></span>
 
-<span data-ttu-id="9c92d-103">Um usuário pode alterar sua própria senha da segurança da **minha conta** > [& privacidade](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="9c92d-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
+<span data-ttu-id="e93a0-103">Um utilizador pode alterar a sua própria palavra-passe a partir da **minha conta** > [Segurança & privacidade](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="e93a0-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
   
-<span data-ttu-id="9c92d-104">Se o usuário esqueceu sua senha, um administrador pode redefinir a senha, **indo para** > usuários usuários[ativos](https://portal.office.com/adminportal/home#/users), selecionando o usuário (s) e selecionando **Redefinir senha**.</span><span class="sxs-lookup"><span data-stu-id="9c92d-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), selecting the user(s), and selecting **Reset password**.</span></span>
+<span data-ttu-id="e93a0-104">Se o utilizador se ter esquecido da sua palavra-passe, um administrador pode redefinir a palavra-passe indo **para** > [utilizadores Ativos](https://portal.office.com/adminportal/home#/users)utilizadores , selecione o utilizador(s) e clique em **Redefinir a palavra-passe**.</span><span class="sxs-lookup"><span data-stu-id="e93a0-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
   
-<span data-ttu-id="9c92d-105">[Clique aqui para saber mais](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)ou para permitir que os usuários redefinam suas próprias senhas esquecidas.</span><span class="sxs-lookup"><span data-stu-id="9c92d-105">[Click here to learn more](https://docs.microsoft.com/office365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
-  
+<span data-ttu-id="e93a0-105">[Clique aqui para saber mais,](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)ou para que os utilizadores redefinirem as suas próprias palavras-passe esquecidas.</span><span class="sxs-lookup"><span data-stu-id="e93a0-105">[Click here to learn more](https://docs.microsoft.com/office365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>

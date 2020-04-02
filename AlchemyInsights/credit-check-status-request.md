@@ -1,5 +1,5 @@
 ---
-title: Pedido de estado de verificação de crédito
+title: Pedido de situação de verificação de crédito
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "464"
 - "1500022"
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: bd359cff76ef943b90157140888963282e9a5ce3
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c7489cd4e37cc7a55c0db597aabc96c3a8592d0f
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386523"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105286"
 ---
-# <a name="credit-check-status-request"></a>Pedido de estado de verificação de crédito
+# <a name="credit-check-status-request"></a>Pedido de situação de verificação de crédito
 
-A encomenda é a verificação de crédito pendentes. Isto é normalmente preenchido em 24 horas, mas pode demorar até 48 horas. Quando tiver terminado, o estado da subscrição muda de pendente para activo e serviços estarão disponíveis para utilização.
+A sua encomenda está pendente de verificação de crédito. Isto normalmente é concluído em menos de 24 horas, mas pode demorar até 48 horas. Quando estiver concluído, o seu estado de subscrição passará de Pendente para Ativo, e os serviços estarão disponíveis para utilização.
+
+Para mais informações, veja [quando é que é necessário um cheque](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft)de crédito .

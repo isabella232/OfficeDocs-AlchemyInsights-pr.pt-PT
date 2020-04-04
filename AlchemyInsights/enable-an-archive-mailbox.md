@@ -1,5 +1,5 @@
 ---
-title: Activar uma caixa de correio do arquivo
+title: Ativar uma caixa de correio de arquivo
 ms.author: markjjo
 author: markjjo
 ms.audience: ITPro
@@ -10,33 +10,47 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5ee3bcc9ea1c4734958d5c404ce89e2bda6f5e63
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
+ms.sourcegitcommit: f1e9db2f762a4197c2922a0c8eaa77a3f482e38a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736300"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43132622"
 ---
-# <a name="enable-an-archive-mailbox"></a>Activar uma caixa de correio do arquivo
+# <a name="enable-an-archive-mailbox"></a>Ativar uma caixa de correio de arquivo
 
-Caixas de correio do arquivo no Office 365 (também chamados *Arquivos Online*) fornecem aos utilizadores o armazenamento de correio electrónico adicionais. Os utilizadores podem mover ou copiar itens para a respectiva caixa de correio do arquivo e admins, pode criar uma política de arquivo move automaticamente itens para arquivar as caixas de correio.
+As caixas de correio de arquivo no Office 365 (também chamadas De Arquivo Sonérpedes *Ou* *Arquivos In-Place)* fornecem aos utilizadores um armazenamento adicional de e-mail. Os utilizadores podem mover ou copiar itens para a sua caixa de correio de arquivo, e os administradores podem criar uma política de arquivo que transfere automaticamente itens para caixas de correio de arquivo.
   
-Eis como criar uma caixa de correio do arquivo:
+Aqui está como criar uma caixa de correio de arquivo:
   
 1. Aceda a [https://protection.office.com](https://protection.office.com).
 
-2. Iniciar sessão no Office 365 utilizando a sua conta de administrador.
+2. Inscreva-se no Office 365 usando a sua conta de administração.
 
-3. No painel da esquerda da garantia &amp; conformidade centro, seleccione **governação dados** \> **arquivo**.
+3. No painel esquerdo do &amp; Centro de Conformidade de Segurança, selecione **Arquivo**de **Governação de Informação.** \>
 
-4. Seleccione o utilizador cuja caixa de correio do arquivo que pretende activar.
+4. Selecione o utilizador cuja caixa de correio de arquivo pretende ativar.
 
-5. No painel de detalhes à direita, seleccione **Activar** e, em seguida, seleccione **Sim** na mensagem de aviso para activar a caixa de correio do arquivo.
+5. Nos detalhes, à direita, clique em **Ativar** e, em seguida, clique em **Sim** na mensagem de aviso para ativar a caixa de correio de arquivo.
 
-Pode também em massa-activar arquivar caixas de correio seleccionando vários utilizadores (utilizando as teclas **Shift** ou **Ctrl** ) e, em seguida, seleccione **Activar** no painel de detalhes.
+Também pode ativar caixas de correio de arquivo a granel selecionando vários utilizadores (utilizando as teclas **Shift** ou **CTRL)** e, em seguida, clicando em **Ativar** no painel de detalhes.
   
+### <a name="shared-mailboxes"></a>Caixas de correio partilhadas
+
+Para ativar o arquivo para uma caixa de correio partilhada, é necessária uma licença de Plano Online de Troca 2 ou uma licença de Plano Online de Troca 1 com uma licença de arquivo online exchange.  
+
+Para ativar o arquivo para uma caixa de correio partilhada:
+
+1. Vá ao centro de [administração da Exchange](https://outlook.office365.com/ecp) e inscreva-se na sua conta de administração.
+
+2. Ir para **destinatários** > **partilhados**.
+
+3. Selecione a caixa de correio partilhada.
+
+4. Nos detalhes, à direita, em **'In-Place Archive',** clique em **Ativar**, e depois clique em **Sim** para ativar a caixa de correio de arquivo.
+
 Para obter mais informações, consulte:
   
-- [Activar caixas de correio do arquivo no Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Ativar caixas de correio de arquivo no Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Configurar uma política de arquivo e eliminação no Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Criar uma política de arquivo e eliminação no Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

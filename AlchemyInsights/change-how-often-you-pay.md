@@ -1,5 +1,5 @@
 ---
-title: Alterar a frequência de pagar
+title: Mude a frequência com que paga
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
 - "1500025"
-ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
+ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386912"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43195029"
 ---
-# <a name="change-how-often-you-pay"></a>Alterar a frequência de pagar
+# <a name="change-how-often-you-pay"></a>Mude a frequência com que paga
 
- **Pretende alterar a sua frequência de pagamento?** Se pretender alterar a frequência de pagamento para o Office 365 para a subscrição de negócio, quer tenham origem anual mensal ou mensal para anual, podemos ajudá-lo com o. Terá de adquirir a subscrição mesma com a nova frequência de pagamento e cancelar a subscrição antiga. Utilize a opção "diga-nos chamada" para falar com um engenheiro de suporte.
+Ao comprar uma subscrição, escolha faturação mensal ou anual. Para alterar a frequência com que é cobrado por uma subscrição, utilize os seguintes passos.
+
+1. No centro de administração, vá à página de ** [serviços](https://go.microsoft.com/fwlink/p/?linkid=842054) ** de & de Produtos de Faturação>.
+
+2. Encontre a subscrição que pretende alterar. Na secção **de Faturação,** junto à **Faturação mensal** ou **faturada anualmente,** clique em **Editar**.
+
+3. Escolha a opção para a frequência com que pretende ser faturado e, em seguida, selecione **Change**.

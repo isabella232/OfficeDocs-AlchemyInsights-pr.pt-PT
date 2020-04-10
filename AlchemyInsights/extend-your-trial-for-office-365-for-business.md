@@ -1,5 +1,5 @@
 ---
-title: Expandir a versão de avaliação do Office 365 para a empresa
+title: Prolongue o seu julgamento para o Office 365 para negócios
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,23 +12,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad9b06d5a14e48b4a03963b0e8fe606a58269623
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665015"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207348"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Expandir a sua versão de avaliação do Office 365 para empresas
 
-Se a subscrição de avaliação no prazo de 15 dias de expirar e a versão de avaliação ainda não foi expandido antes, pode expandir a apresentação para outro período de 30 dias. Só pode fazê-lo uma vez.
+Pode prolongar o julgamento por mais 30 dias. Só pode fazê-lo uma vez.
   
-1. No Centro de administração, vá para a **Facturação** \> página [produtos e serviços &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. No centro de administração, vá aos [serviços de & de](https://portal.office.com/adminportal/home#/subscriptions)Produtos de **Faturação.** \>
 
-2. Escolha a subscrição de avaliação que pretende expandir.
+2. Selecione a subscrição do teste que pretende prolongar.
 
-3. Na secção **secções & acções** , escolha a **avaliação de expandir** e conclua os restantes passos.
+3. Clique em **Prolongar o ensaio** e completar os passos no assistente.
 
-4. É necessário fornecer informações de cartão de crédito para expandir a versão de avaliação. A Microsoft não irá cobrar o cartão de crédito para a extensão de versão de avaliação.
+4. Precisa fornecer informações sobre cartão de crédito para prolongar o seu julgamento. Não cobraremos o seu cartão de crédito pela extensão do julgamento.
 
-Para obter mais informações, consulte [Expandir a versão de avaliação Office 365 para a empresa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Para saber mais sobre o alargamento do seu julgamento ou para instruções passo a passo, consulte o ensaio de extensão para o [Office 365 para negócios](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).

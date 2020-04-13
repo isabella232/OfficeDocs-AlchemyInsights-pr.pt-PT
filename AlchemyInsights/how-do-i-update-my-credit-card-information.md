@@ -13,12 +13,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: da09215ca846e34fa3f75fead99537c4808ec65a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7a2f2ae8bc80e3d66ab3227b8c675efcb23bc1e6
+ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664403"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "43231502"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Como posso atualizar as minhas informações de cartão de crédito?
 
@@ -28,9 +28,8 @@ ms.locfileid: "36664403"
 
 3. Para alterar os dados do cartão de crédito ou conta bancária, selecione **Editar detalhes de pagamento**.
 
-> [!NOTE]
-> Se outro administrador tiver comprado a subscrição, não poderá atualizar as informações de cartão de crédito ou conta bancária dessa subscrição. Se o cartão de crédito estiver prestes a expirar e o outro administrador não puder atualizar as informações, pode impedir a interrupção do serviço ao adicionar outro cartão de crédito ou uma nova conta bancária à subscrição.
-
 4. Atualize as informações do seu cartão de crédito ou conta bancária (o nome do cartão de crédito ou da conta bancária, o endereço para faturação, o número de telefone ou a data de validade) conforme necessário e, em seguida, selecione **Guardar** > **Concluído**.
 
 Para saber mais, consulte [Adicionar, atualizar ou remover um cartão de crédito ou conta bancária no Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)
+
+**Nota**: se outro administrador tiver comprado a subscrição, não poderá atualizar as informações de cartão de crédito ou conta bancária dessa subscrição. Se o cartão de crédito estiver prestes a expirar e o outro administrador não puder atualizar as informações, pode impedir a interrupção do serviço ao adicionar outro cartão de crédito ou uma nova conta bancária à subscrição.

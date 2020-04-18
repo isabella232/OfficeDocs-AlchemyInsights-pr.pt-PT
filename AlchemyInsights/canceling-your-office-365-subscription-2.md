@@ -1,5 +1,5 @@
 ---
-title: Cancelar a sua subscrição do Office 365?
+title: Cancelar a subscrição do Office 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,19 +13,23 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a3416ec86908d529fd5f2750344763de36363a08
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665483"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552608"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Cancelar a sua subscrição do Office 365?
+# <a name="canceling-your-office-365-subscription"></a>Cancelar a subscrição do Office 365?
 
-Pedimos desculpas vê-lo a ir!
+Lamentamos vê-lo partir!
   
-Com base nos dados da organização, acreditamos que todas as subscrições actuais têm mais de 25 licenças atribuídas. Pode remover utilizadores até ter menos de 25, em seguida, vá para a **Facturação** \> página [produtos e serviços &](https://go.microsoft.com/fwlink/p/?linkid=842054) . Na secção **Definições & acções** , escolha **Cancelar a subscrição**.
+Com base nos dados da sua organização, acreditamos que todas as suas subscrições atuais têm mais de 25 licenças atribuídas. Pode remover os utilizadores até ter menos de 25 anos e depois ir à página [de serviços &](https://go.microsoft.com/fwlink/p/?linkid=842054) Produtos de **Faturação.** \> Na secção **Definições & Ações,** escolha **cancelar a subscrição**.
   
-Em alternativa, escolha **precisa de ajuda para** falar com um engenheiro de suporte.
+Em alternativa, escolha **a Necessidade de ajuda** para falar com um engenheiro de suporte.
   
-Para obter mais informações, consulte [Cancelar a subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Reembolso: Qualquer crédito prostígdido será devolvido a você no próximo ciclo de faturação.** 
+
+**Nota**: Se não vir a opção de cancelar, clique na subscrição para ver os detalhes e deverá ver a opção **de subscrição Cancelar** em **Definições & Ações**. 
+
+Para saber mais, consulte [Cancelar a sua subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

@@ -12,12 +12,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 5ceae46c424222636367a4183740fdae353e92d1
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: 82719a4764e081733ad3edf7336584b979c5fb86
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198876"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552860"
 ---
 # <a name="cancel-project-subscription"></a>Cancelar subscrição do Projeto
 
@@ -30,3 +30,9 @@ Os administradores podem cancelar a subscrição do Projeto para a sua organiza�
 3. Localize o Plano de Projeto para cancelar.
 
 4. Clique em **Cancelar subscrição**.
+
+**Reembolso: Qualquer crédito prostígdido será devolvido a você no próximo ciclo de faturação.** 
+
+**Nota**: Se não vir a opção de cancelar, clique na subscrição para ver os detalhes e deverá ver a opção **de subscrição Cancelar** em **Definições & Ações**. 
+
+Para saber mais, consulte [Cancelar a sua subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 

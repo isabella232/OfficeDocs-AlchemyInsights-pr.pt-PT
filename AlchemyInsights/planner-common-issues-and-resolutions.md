@@ -1,5 +1,5 @@
 ---
-title: Problemas e resoluções comuns do planejador
+title: Questões e resoluções comuns do planejador
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "3193"
-ms.openlocfilehash: da8e935abf42375b695cf162da30c0c82dfdf959
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: 5d0c8fd5d6bb5c9fe0c70f46bc05aec95ef1fdef
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959785"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43557002"
 ---
-# <a name="planner-common-issues-and-resolutions"></a>Problemas e resoluções comuns do planejador
+# <a name="planner-common-issues-and-resolutions"></a>Questões e resoluções comuns do planejador
 
-Aqui estão alguns tópicos solicitados com frequência com o Microsoft Planner.
+Aqui estão alguns tópicos frequentemente solicitados com o Microsoft Planner.
  
-- **Começar:** Comece a usar o [Planejador](https://support.office.com/article/microsoft-planner-help-4a9a13c6-3adf-4a60-a6fc-15c0b15e16fc?ui=en-US&rs=en-US&ad=US)e aprenda a ativar o [Planejador para sua organização, adicionar usuários convidados e gerenciar o acesso em seu ambiente.](https://docs.microsoft.com/office365/planner/planner-for-admins)
+- **Começar: Comece a** [usar o Planner](https://support.office.com/article/microsoft-planner-help-4a9a13c6-3adf-4a60-a6fc-15c0b15e16fc)e aprenda a ativar o Planner para a sua [organização, adicione utilizadores convidados e gerencie o acesso no seu ambiente.](https://docs.microsoft.com/office365/planner/planner-for-admins)
+
+- **Utilizar o Planificador em Equipas**: Para uma visão geral da integração do Planner com as Equipas microsoft, consulte [o Planificador de Utilização em Equipas microsoft](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0).
+
+     - [Adicione um separador Planner a um canal de equipa](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel). O utilizador que adicionar o separador deve ser um membro da equipa, não apenas um proprietário. Pode adicionar o utilizador como membro através da interface Teams. Também pode [adicionar um plano existente às Equipas Microsoft.](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)
+
+    - [Retire um separador Planner ou elimine um plano](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan). Os planos apagados não podem ser recuperados em Equipas. Se um grupo já for eliminado, pode [recuperar planos e grupos apagados.](https://techcommunity.microsoft.com/t5/planner-blog/microsoft-planner-now-you-can-recover-deleted-plans-and-groups/ba-p/362242
+)
  
-- **Usuários convidados:** Gerenciar o [acesso do usuário convidado](https://support.office.com/article/guest-access-in-microsoft-planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6?ui=en-US&rs=en-US&ad=US) ao Planejador.
+- **Utilizadores convidados:** Gerencie [o acesso do utilizador ao](https://support.office.com/article/guest-access-in-microsoft-planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6) Planner.
  
-- **Notificações:** Analise os [tipos de notificações que você receberá,](https://support.office.com/article/stay-on-top-of-tasks-and-plans-with-email-and-notifications-cce223d6-b0ae-43cf-a080-266e2414a859)as atividades que as acionam e onde você pode alterar as configurações de notificação.
+- **Notificações:** Reveja os [tipos de notificações que receberá,](https://support.office.com/article/stay-on-top-of-tasks-and-plans-with-email-and-notifications-cce223d6-b0ae-43cf-a080-266e2414a859)as atividades que as desencadeiam e onde pode alterar as definições de notificação.
  
 - **Comentários:** 
-   - Saiba mais sobre [problemas com a visualização ou adição de comentários](https://docs.microsoft.com/office365/planner/planner-for-admins#can-people-in-my-organization-use-planner-if-they-dont-have-an-exchange-online-mailbox) a uma tarefa sem uma caixa de correio online de câmbio.
-   - Saiba como [garantir que todos os usuários possam receber e-mails para o Planner.](https://docs.microsoft.com/office365/planner/planner-for-admins#how-do-i-make-sure-all-my-users-can-get-emails-forplanner)
+   - Saiba mais sobre [questões com visualização ou adição](https://docs.microsoft.com/office365/planner/planner-for-admins#can-people-in-my-organization-use-planner-if-they-dont-have-an-exchange-online-mailbox) de comentários a uma tarefa sem uma caixa de correio Exchange Online.
+   - Saiba como [garantir que todos os utilizadores podem obter e-mails para Planner](https://docs.microsoft.com/office365/planner/planner-for-admins#how-do-i-make-sure-all-my-users-can-get-emails-forplanner).
 
-- **Tarefas gerenciadas:** Analise informações sobre [comentários sobre tarefas](https://support.office.com/article/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1?ui=en-US&rs=en-US&ad=US) e [apagar tarefas ou planos.](https://support.office.com/article/delete-a-task-or-plan-39e10e78-13f0-446d-94cd-9e562648497a)
+- **Tarefas de gestão:** Reveja as informações sobre [comentários sobre tarefas](https://support.office.com/article/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1) e [apagando tarefas ou planos.](https://support.office.com/article/delete-a-task-or-plan-39e10e78-13f0-446d-94cd-9e562648497a)

@@ -1,9 +1,9 @@
 ---
-title: Como cancelar um aplicativo
+title: Como cancelar uma aplicação
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2eb0e1f521baf1458530f8557f55fdda69d1a23f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36542127"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711318"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Como cancelar aplicativos de software como serviço 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Como cancelar aplicações de software como um serviço 
 
-1. No centro de administração microsoft 365, para a página de[serviços](https://go.microsoft.com/fwlink/p/?linkid=842054) de & **de produtos** > de faturamento e, em seguida, escolha a guia **Apps.**
+1. No centro de administração da Microsoft 365, para a página[de & de produtos](https://go.microsoft.com/fwlink/p/?linkid=842054) de **faturação,** > escolha o separador **Apps.**
 
-2. Encontre e selecione o aplicativo que deseja gerenciar.
+2. Encontre e selecione a aplicação que pretende gerir.
 
-3. Em **configurações & ações,** selecione **cancelar a assinatura.**
+3. Em **definições & ações,** selecione **Cancelar subscrição**.

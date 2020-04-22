@@ -3,7 +3,7 @@ title: Spam de saída
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "2643"
 ms.assetid: ''
-ms.openlocfilehash: 8688e0f57e3ec6da9a1fc3613b40aed37dba0bc3
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: eeffecfd952043aa4323d3ec4fc7e7781fe8646e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37027092"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712973"
 ---
 # <a name="outbound-spam"></a>Spam de saída
 
-Se você estiver vendo falsos positivos para spam de saída (boas mensagens de saída sendo marcadas como spam), abra um ticket de suporte com mensagens de exemplo.
+Se estiver a ver falsos positivos para spam de saída (boas mensagens de saída marcadas como spam), abra um bilhete de apoio com mensagens de exemplo.

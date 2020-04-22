@@ -1,9 +1,9 @@
 ---
-title: Não é possível criar uma nova assinatura
+title: Não pode criar uma nova assinatura
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "1949"
 - "9000323"
 ms.assetid: ''
-ms.openlocfilehash: a6cfdd6d9329b002d3bc55b6eeff02a25157aa18
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b5b7f44b8a629f4781c4d953cc24ccb21c99c333
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519850"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711354"
 ---
-# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Não é possível adicionar ou criar uma nova assinatura no Outlook
+# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Não pode adicionar ou criar uma nova assinatura no Outlook
 
-Este é um problema conhecido. Estamos a trabalhar para corrigi-lo e o estado será actualizado no [Outlook bloqueia clicando no botão de assinatura](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Esta é uma questão conhecida. Estamos a trabalhar para o corrigir e o estado será atualizado no [Outlook congelando clicando no botão Signature](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
 
-Para contornar este problema, primeiro [tente os passos](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) para desinstalar o Microsoft Office Desktop Apps pré-instalada. 
+Para resolver este problema, experimente primeiro [os passos](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) para desinstalar as aplicações de ambiente de trabalho pré-instaladas do Microsoft Office. 
 
-Se não funcionar para o computador afectado, volte a tentar a [solução baseada no registo](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Se isso não funcionar para a máquina afetada, experimente a [sucinta baseada no registo](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).

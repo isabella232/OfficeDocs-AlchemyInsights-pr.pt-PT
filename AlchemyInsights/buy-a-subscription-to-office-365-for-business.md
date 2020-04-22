@@ -1,5 +1,5 @@
 ---
-title: Compre uma subscrição ao Office 365 para negócios
+title: Compre uma subscrição do Microsoft 365 para negócios a partir do seu teste gratuito
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: a8f44428363a2e507003b524b98a94748bdf5505
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218191"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712218"
 ---
-# <a name="buy-a-subscription-to-office-365-for-business"></a>Compre uma subscrição ao Office 365 para negócios
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Compre uma subscrição do Microsoft 365 a partir do seu teste gratuito
 
-Experimentou o Office 365 e agora está pronto para comprá-lo. Tem duas opções ao comprar o Office 365 na sua versão experimental:
+Já experimentou o Microsoft 365, e agora está pronto para comprar. Tem duas opções ao comprar o Microsoft 365 na sua versão experimental:
   
  **Comprar o mesmo plano da sua versão de avaliação**.
   
@@ -35,7 +35,7 @@ Experimentou o Office 365 e agora está pronto para comprá-lo. Tem duas opçõe
 
 3. Encontre a subscrição que pretende comprar, selecione **Comprar,** e siga os passos para fazer o check-out.
 
-Para saber mais, consulte [Compre uma subscrição do Office 365 para negócios a partir do seu teste gratuito](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Para saber mais, consulte [Comprar uma subscrição do Microsoft 365 para negócios a partir do seu teste gratuito](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
 
 **Resolução de Problemas**
 

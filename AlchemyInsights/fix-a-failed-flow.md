@@ -1,9 +1,9 @@
 ---
-title: Corrigir um fluxo falhou
+title: Corrigir um fluxo falhado
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: d99abced5627599380ba8b1e5e8d7f8d1109a8f2
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 465c4e9fe300eecb05b38abe589c8d845dc6e440
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36525257"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714125"
 ---
 # <a name="fix-a-flow-that-failed"></a>Corrigir um fluxo que falhou
 
-1. Vá para o [Microsoft Flow](https://flow.microsoft.com/)e clique no ícone notificações no canto superior direito. (Ou no aplicativo móvel, selecione a guia Atividade.) Selecione o fluxo que não conseguiu olhar para os detalhes.
+1. Vá ao [Microsoft Flow](https://flow.microsoft.com/)e clique no ícone Notificações no canto superior direito. (Ou na aplicação móvel, selecione o separador Atividade.) Selecione o fluxo que não analisou os detalhes.
     
-2. Encontre a etapa com o ícone vermelho da exclamação para ver a mensagem de erro para o fluxo.
+2. Encontre o passo com o ícone de exclamação vermelha para ver a mensagem de erro para o fluxo.
     
-3. Dependendo da mensagem de erro, você deve ser capaz de eitá-lo o fluxo e corrigi-lo. 
+3. Dependendo da mensagem de erro, deverá ser capaz de editar o fluxo e corrigi-lo. 
     
-[Falhas comuns de fluxo](https://go.microsoft.com/fwlink/?linkid=872110)
+[Falhas de fluxo comuns](https://go.microsoft.com/fwlink/?linkid=872110)
   
 

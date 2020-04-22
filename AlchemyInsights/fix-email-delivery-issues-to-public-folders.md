@@ -1,9 +1,9 @@
 ---
-title: Corrigir problemas de entrega de correio electrónico correio nas pastas públicas
+title: Corrigir problemas de entrega de e-mail para pastas públicas via correio
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.custom:
 - "1956"
 - "3500007"
 ms.assetid: ''
-ms.openlocfilehash: f7b5e5a230d26870d5e95e8762b5874f73723c6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e261fe60843555fa45927b0a6b36e1ccf79fb028
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525135"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716363"
 ---
-# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Corrigir problemas de entrega de correio electrónico correio nas pastas públicas
+# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Corrigir problemas de entrega de e-mail para pastas públicas via correio
 
-Se remetentes externos não é possível enviar mensagens para as pastas públicas com correio electrónico e os remetentes recebem o erro: **não foi possível localizar (550 5.4.1)**, verifique o domínio de correio electrónico para a pasta pública está configurada como um domínio de retransmissão interno, em vez de um domínio autoritário:
+Se os remetentes externos não puderem enviar mensagens para as suas pastas públicas ativadas por correio, e os remetentes receberem o erro: **não puderam ser encontrados (550 5.4.1),** verifique se o domínio de e-mail da pasta pública está configurado como um domínio interno de retransmissão em vez de um domínio autoritário:
 
-1. Abra o [Centro de administração do Exchange (EAC)](https://docs.microsoft.com/Exchange/exchange-admin-center).
+1. Abra o centro de [administração exchange (EAC)](https://docs.microsoft.com/Exchange/exchange-admin-center).
 
-2. Vá para **o fluxo de correio** \> **aceites domínios**, seleccione o domínio aceite e, em seguida, clique em **Editar**.
+2. Vá ao **fluxo** \> de correio **Domínios aceitos,** selecione o domínio aceite e, em seguida, clique em **Editar**.
 
-3. Nas propriedades da página que abre, se o tipo de domínio estiver definido como **autoritários**, altere o valor para **reencaminhamento interno** e, em seguida, clique em **Guardar**.
+3. Na página de propriedades que se abre, se o tipo de domínio for definido para **Authoritativo,** altere o valor para **retransmissão interna** e, em seguida, clique em **Guardar**.
 
-Se os remetentes externos recebem o erro **que não tem permissão (550 5.7.13)**, execute o seguinte comando no [PowerShell Online do Exchange](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) para ver as permissões para utilizadores anónimos na pasta pública:
+Se os remetentes externos receberem o erro, **não tem permissão (550 5.7.13)**, executar o seguinte comando no [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) para ver as permissões para utilizadores anónimos na pasta pública:
 
 `Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous`Por exemplo, `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous`.
 
-Para permitir que os utilizadores externos enviar correio electrónico para esta pasta pública, adicione o acesso de CreateItems para a direita para o utilizador anónimo. Por exemplo, `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`.
+Para permitir que utilizadores externos enviem e-mail para esta pasta pública, adicione o acesso do CreateItems ao utilizador Anónimo. Por exemplo, `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`.

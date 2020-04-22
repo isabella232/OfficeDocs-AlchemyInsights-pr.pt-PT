@@ -1,5 +1,5 @@
 ---
-title: 'Yammer - Manage Office 365 Grupos '
+title: 'Yammer - Gerir o Escritório 365 Grupos '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 9c2742b715064d55d9525860f78c530294f90999
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 0257be866d6f6c654a28a4109ca7c9e6c34fc376
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530955"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715859"
 ---
-# <a name="manage-office-365-groups-in-yammer"></a>Grupos do Escritório de Gestão 365 em Yammer
+# <a name="manage-office-365-groups-in-yammer"></a>Gerir o Escritório 365 grupos em Yammer
 
-Aqui estão algumas respostas para as questões mais comuns com o Office 365 grupos em Yammer.
+Aqui estão algumas respostas para questões mais comuns com os grupos do Office 365 em Yammer.
 
-* **Os grupos do Office 365** são um espaço de trabalho compartilhado para e-mails, conversas, arquivos e eventos onde os membros do grupo podem colaborar. Com yammer, office 365 grupos têm muitas vantagens sobre não-conectados yammer grupos. Por exemplo, você pode criar e hospedar eventos ao vivo, restaurar grupos excluídos, usar associação dinâmica de grupo, arquivo automático e acessar recursos compartilhados, como Sharepoint, OneNote e Planner.
+* **O Office 365 Groups** é um espaço de trabalho partilhado para e-mail, conversas, ficheiros e eventos onde os membros do grupo podem colaborar. Com yammer, os grupos do Office 365 têm muitas vantagens sobre grupos Yammer não ligados. Por exemplo, você pode criar e hospedar eventos ao vivo, restaurar grupos eliminados, usar membros dinâmicos do grupo, arquivo automático, e aceder a recursos partilhados como Sharepoint, OneNote e Planner.
 
-* Você pode informar se um grupo Yammer está conectado com os grupos do Office 365 quando você vê a seção **office 365 Resources** (Sharepoint, OneNote, Planner) na navegação certa do grupo. Se os recursos não estiverem disponíveis, verifique o seguinte.
+* Você pode dizer se um grupo Yammer está conectado com o Office 365 grupos quando você vê a secção de **Recursos office 365** (Sharepoint, OneNote, Planner) na navegação certa do grupo. Se os recursos não estiverem disponíveis, verifique o seguinte.
 
-  1. A rede Yammer deve estar em uma configuração de rede 1 tenant:1. para verificar se você está em uma configuração 1:1, use a **ferramenta de migração** de rede conforme descrito na migração de rede - Consolidar várias redes [Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+  1. A rede Yammer deve estar numa configuração de rede de 1 inquilino:1. para verificar se está numa configuração 1:1, utilize a **ferramenta Migração** de Rede como descrito na migração da [Rede - Consolidar várias redes Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
-  2. Procure o administrador da **rede,** o ajuste da segurança, e assegure-se de que a **identidade 365** do escritório esteja reforçada para usuários de Yammer.
+  2. Navegue na **Rede Desin, Definição**de Segurança, e certifique-se de que a **Identidade do Office 365** é aplicada aos utilizadores de Yammer.
 
-Para mais informações sobre os grupos do Office 365 e yammer, consulte [Yammer e escritório 365 Grupos](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869). Para obter informações sobre como gerenciar um grupo, [consulte gerenciar um grupo em Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+Para mais informações sobre os grupos Office 365 e Yammer, consulte [Yammer e o escritório 365 Grupos](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups). Para obter informações sobre a gestão de um grupo, consulte [Gerir um grupo em Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)

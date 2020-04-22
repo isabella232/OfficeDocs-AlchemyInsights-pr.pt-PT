@@ -1,8 +1,8 @@
 ---
-title: Obter informações sobre o PIBR
+title: Informação sobre o RGPD
 ms.author: pebaum
 author: pebaum
-ms.date: 6/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 5d65ee9d648360c47f400ed2935c118086e8e0c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 13b8371f8e8c4afa54f7b33eadbf2f42db6b5eca
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499218"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711102"
 ---
-# <a name="information-about-gdpr"></a>Obter informações sobre o PIBR
+# <a name="information-about-gdpr"></a>Informação sobre o RGPD
 
-- Começar a trabalhar com o [Portal de fidedignidade do serviço.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+- Começar com o Portal de Confiança de [Serviços.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
-- Para qualquer relacionadas com o **Acordo de processamento de dados** (DPA), consulte:
+- Para qualquer coisa relacionada com **o Acordo** de Processamento de Dados (DPA), reveja:
 
-  - [Recursos de protecção de dados](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
+  - [Recursos de Proteção de Dados](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
 
-  - [Relatórios de auditoria](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
+  - [Relatórios de Auditoria](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Informações sobre os **Pedidos de requerentes de dados** (DSR) - descobrir, aceder, rectificar, restringir, eliminar, é de exportação [aqui.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- Informações sobre Pedidos de **Dados** (DSR) - descubra, aceda, retifique, restrinja, elimine, [exporte.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
 
-- Informações sobre a **Notificação de violação de dados** são [aqui.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+- A informação sobre a **Notificação de Violação** de Dados está [aqui.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 
-- Obter informações sobre **localizações dos dados** são [aqui.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- A informação sobre **os locais** de dados está [aqui.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)

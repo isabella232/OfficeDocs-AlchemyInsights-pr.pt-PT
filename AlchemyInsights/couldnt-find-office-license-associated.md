@@ -1,5 +1,5 @@
 ---
-title: Corrigir aplicativos do Office não conseguiu encontrar licenças de escritório mensagem associada
+title: Corrigir aplicações do Office não conseguiu encontrar licenças de escritório mensagens associadas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 1820cdb83a1adf36b4e7d0898ecdf8097eb6f0f3
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 565df0a05baa974a6cbac58ac6be8d78470dbc5d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627929"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715643"
 ---
-# <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Corrigindo os aplicativos do Office "Não conseguiu encontrar licenças de escritório associadas" mensagem
+# <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Corrigir as aplicações do Office "Não consegui encontrar licenças de escritório associadas"
 
-Se você receber esta mensagem, tente o seguinte:
+Se receber esta mensagem, tente o seguinte:
 
-1. Verifique seu firewall, software antivírus e configurações de proxy para confirmar que eles não estão bloqueando o acesso à Internet aos aplicativos do Office. Veja [o Office 365 URLs e as faixas](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)de endereço IP.
-2. Remova e [reastrea a licença do Office](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) para o usuário afetado. 
-3. Abra um aplicativo do Office e [inscreva-se](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) em todas as contas de usuário existentes.
-4. Acesse configurações do Windows > **contas** > **de e-mail & contas**e remova todas as contas de trabalho, exceto a conta afetada.
-5. Acesse configurações do Windows > **contas** > **acessem trabalho ou escola**e desconecte todas as contas de trabalho, exceto a conta afetada.
+1. Verifique as definições de firewall, software antivírus e proxy para confirmar que não estão a bloquear o acesso à Internet às aplicações do Office. Consulte os [intervalos de endereços Microsoft 365 URLs e IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+2. Retire e [reatribua a licença do Office](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) para o utilizador afetado. 
+3. Abra uma aplicação do Office e [assine](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) as contas de utilizador existentes.
+4. Vá às Definições do Windows > **Contas** > **Enviar & contas**e remova todas as contas de trabalho, exceto a conta afetada.
+5. Vá às Definições do Windows > **Contas** > Aceder ao**trabalho ou à escola,** e desconectar todas as contas de trabalho, exceto a conta afetada.
 6. Redefinir o estado de ativação do Escritório. [Saiba como](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
-7. [Faça login](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) usando a conta de usuário afetada.
+7. [Inscreva-se na](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) conta de utilizador afetada.
 
-Para soluções adicionais de solução de problemas, consulte erros de [ativação e produtos não licenciados no Office.](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+Para soluções adicionais de resolução de problemas, consulte erros de [produto não licenciados e erros](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)de ativação no Office .

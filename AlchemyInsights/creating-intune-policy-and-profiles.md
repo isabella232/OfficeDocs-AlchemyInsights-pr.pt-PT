@@ -1,9 +1,9 @@
 ---
-title: Criar perfis e políticas de Intune
+title: Criar políticas e perfis intune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 11516232e7ad1fb1d54f07bccd31d586d5c04d42
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fac2a9e41449b4eb9b87d21d4cba4f6f5192d9c6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514774"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715407"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>Criação de perfis e políticas de Intune
+# <a name="creating-intune-policy-and-profiles"></a>Criação de políticas e perfis intune
 
-Intune, pode criar políticas e perfis fazer coisas diferentes.
+Em Intune, pode criar políticas e perfis que façam coisas diferentes.
 
-- **Perfis de inscrição**: pré-configurar os dispositivos pela plataforma, activar a afinidade do utilizador, utilize autenticação multi-factores e muito mais.
+- Perfis de inscrição : Reconfigure os seus dispositivos por plataforma, ative a afinidade do utilizador, utilize a autenticação de **vários**fatores e muito mais.
 
-  [O que é a inscrição de dispositivos](https://docs.microsoft.com/intune/device-enrollment), crie perfis de inscrição para [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll)e [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) são recursos boas.
+  [O que é a inscrição](https://docs.microsoft.com/intune/device-enrollment)do dispositivo , e criar perfis de inscrição para [Android](https://docs.microsoft.com/intune/android-enroll), [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll)e [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) são bons recursos.
 
-- **Políticas de conformidade**: definir as regras e definições de dispositivos tem de seguir para ser compatível. Também pode utilizar políticas de conformidade para monitorizar dispositivos e notificar os utilizadores de incumprimento.
+- **Políticas de conformidade**: Defina as regras e definições que os dispositivos devem seguir para ser conformes. Também pode utilizar políticas de conformidade para monitorizar os dispositivos e notificar os utilizadores de incumprimento.
 
-  Começar a trabalhar com [políticas de conformidade do dispositivo](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **Políticas de acesso condicional**: ajudar a proteger recursos organizacionais, dependendo das condições que introduzir. Por exemplo, para dispositivos que não são compatíveis, utilize acesso condicional para restringir o acesso ao correio electrónico e do SharePoint.
+  Começar com as políticas de conformidade do [dispositivo.](https://docs.microsoft.com/intune/device-compliance-get-started)
+- **Políticas**de acesso condicional : Ajude a garantir recursos organizacionais, dependendo das condições em que entra. Por exemplo, para dispositivos que não estejam em conformidade, utilize acesso condicional para restringir o acesso a e-mail e SharePoint.
 
-  [O que é acesso condicional](https://docs.microsoft.com/intune/conditional-access) e [formas comuns de utilização de acesso condicional](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) são boas recursos para começar a trabalhar.
+  [O que é o acesso condicional](https://docs.microsoft.com/intune/conditional-access) e as [formas comuns de usar o acesso condicional](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) são bons recursos para começar.
 
-- **Perfis de configuração**: Gerir funcionalidades e definições de dispositivos, incluindo definições de correio electrónico, adicionar uma rede WiFi, utilizar os modelos incorporados, funcionalidades de dispositivo de controlo iOS e macOS e muito mais.
+- **Perfis de configuração**: Gerir funcionalidades e configurações em dispositivos, incluindo configurações de e-mail, adicionar uma rede Wi-Fi, utilizar modelos incorporados, controlar as funcionalidades do iOS e do dispositivo macOS, e muito mais.
 
-  Começar a trabalhar em [perfis de configuração do dispositivo](https://docs.microsoft.com/intune/device-profiles).
+  Começar nos perfis de configuração do [dispositivo.](https://docs.microsoft.com/intune/device-profiles)
 
-Hiperligações úteis:
+Links úteis:
 
-- [Perguntas, problemas e resoluções com dispositivo políticas e perfis no Intune comuns](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Questões, questões e resoluções comuns com políticas e perfis de dispositivos em Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Resolução de problemas de políticas e perfis no Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Políticas e perfis de resolução de problemas em Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)

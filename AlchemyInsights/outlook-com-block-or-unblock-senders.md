@@ -1,9 +1,9 @@
 ---
-title: Bloquear ou desbloquear remetentes em Outlook.com
+title: Bloqueie ou desbloqueie os remetentes em Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,29 +15,29 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 67bd05e8d2effa325e152ca568748d4cd92930cf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768739"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717775"
 ---
 # <a name="block-or-unblock-senders"></a>Bloquear ou desbloquear remetentes
 
-Mensagens de endereços de e-mail ou domínios em seus remetentes bloqueados vão diretamente para sua pasta de e-mail de lixo outlook. O e-mail é automaticamente removido da pasta junk email após 30 dias e não é recuperável. Selecione um item para ver quando ele será removido.
+As mensagens de endereços de e-mail ou domínios dos seus remetentes bloqueados vão diretamente para a pasta Outlook Junk Email. O e-mail é automaticamente removido da pasta Junk Email após 30 dias e não é recuperável. Selecione um item para ver quando será removido.
 
-**A partir de sua caixa de entrada:**
+**Da sua caixa de entrada:**
 
 - Na lista de mensagens, selecione a mensagem e, em seguida, selecione **Junk** > **Block**.
-- **Nota:** Bloquear um item já em sua pasta junk email não vai excluí-lo.
+- **Nota:** Bloquear um item já na sua pasta Junk Email não o eliminará.
 
-**A partir de configurações:**
+**A partir de Definições:**
 
-1. Abra as configurações de [e-mail junk.](https://outlook.live.com/mail/options/mail/junkEmail)
-2. Em **remetentes e domínios bloqueados,** **selecione Adicionar**.
-3. Digite o endereço de e-mail do domínio que você deseja bloquear e pressionar Enter.
+1. Abrir definições de [e-mail junk.](https://outlook.live.com/mail/options/mail/junkEmail)
+2. Em conjunto de **remetedores e domínios bloqueados,** selecione **Adicionar**.
+3. Digite o endereço de e-mail do domínio que pretende bloquear e premir Enter.
 4. Selecione **Guardar**.
 
-Para desbloquear um remetente, selecione o ícone do lixo ao lado do endereço de e-mail ou domínio que deseja desbloquear.
+Para desbloquear um remetente, selecione o ícone do lixo ao lado do endereço de e-mail ou do domínio que pretende desbloquear.
 
-Para saber mais, veja [mark e-mail como lixo ou bloquear remetentes em Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Para saber mais, consulte o [e-mail do Mark como lixo ou bloqueador de para-choques em Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

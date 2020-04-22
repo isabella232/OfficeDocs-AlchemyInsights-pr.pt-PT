@@ -1,9 +1,9 @@
 ---
-title: Rótulos de sensibilidade de auto-aplicação
+title: Etiquetas de sensibilidade de aplicação automática
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d812b8ba6f80b61f48502df53c67a17c102d22b1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050320"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712397"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Rótulos de sensibilidade de auto-aplicação
+# <a name="auto-apply-sensitivity-labels"></a>Etiquetas de sensibilidade de aplicação automática
 
-Os rótulos de sensibilidade podem ser aplicados manualmente ao conteúdo pelos usuários, ou você pode configurá-los para serem aplicados automaticamente ao conteúdo.
+As etiquetas de sensibilidade podem ser aplicadas manualmente ao conteúdo pelos utilizadores, ou pode configurá-las para serem aplicadas automaticamente ao conteúdo.
 
-A aplicação automática de rótulos de sensibilidade elimina a necessidade de treinar os utilizadores sobre a forma de classificar o conteúdo e a necessidade de os notificar das configurações da política.
+A aplicação automática de etiquetas de sensibilidade elimina a necessidade de treinar os utilizadores sobre como classificar o conteúdo e a necessidade de notificá-los das configurações de políticas.
 
-Para aplicar etiquetas automaticamente, o seguinte é necessário:
+Para aplicar automaticamente as etiquetas, é necessário:
 
-- Assinatura azure Information Protection P2
-- [Baixe e instale o cliente unificado de rotulagem da Proteção de Informações do Azure](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Assinatura Azure Information Protection P2
+- [Descarregue e instale o cliente de rotulagem unificada azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Estamos trabalhando em suporte nativo que não exigirá o cliente unificado de rotulagem da Proteção da Informação Do Azure no futuro.
+Estamos a trabalhar em apoios nativos que não exigirão o cliente de rotulagem unificado da Azure Information Protection no futuro.
 
-Atualmente, apenas o Windows suporta o cliente de rotulagem unificado.  O recurso ainda não é suportado no Mac, iOS e Android.
+Atualmente, apenas o Windows suporta o cliente de rotulagem unificado.  A funcionalidade ainda não é suportada em Mac, iOS e Android.
 
-Para obter mais informações sobre rótulos de sensibilidade e aplicá-los automaticamente ao conteúdo, consulte:
+Para obter mais informações sobre etiquetas de sensibilidade e aplicando-as automaticamente ao conteúdo, consulte:
 
 - [Visão geral dos rótulos de sensibilidade](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [Aplicar um rótulo de sensibilidade ao conteúdo automaticamente](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Aplicar automaticamente um rótulo de sensibilidade ao conteúdo](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

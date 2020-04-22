@@ -1,9 +1,9 @@
 ---
-title: problemas de detecção de dados electrónicos 1829
+title: 1829-ediscovery-questões
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: 96a473093c3de1a75f29f633890e08043f2b29b6
-ms.sourcegitcommit: a340858cfbe1c34b147cffd1b0d4573160200f1d
+ms.openlocfilehash: 01d9bc598a0293b15969a4e3292fb3f9abab10db
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33544571"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714489"
 ---
-# <a name="ediscovery-issues"></a>problemas de detecção de dados electrónicos
+# <a name="ediscovery-issues"></a>eDiscovery questões
 
-À procura de opções de detecção de dados electrónicos? Com a navegação novamente concebida no & Security Center de conformidade, as opções de detecção de dados electrónicos podem ter movido já.  Pode encontrar as opções de detecção de dados electrónicos nas seguintes localizações no & Security que Center conformidade baseia o está a tentar fazer:
+À procura de opções eDiscovery? Com a navegação redesenhada no Security & Compliance Center, as suas opções de eDiscovery já podem ter mudado.  Pode encontrar as opções eDiscovery nos seguintes locais do Security & Compliance Center com base no que está a tentar fazer:
 
-- Utilizar a procura de conteúdo para procurar a organização para conteúdo em correio electrónico, documentos, Skype para conversações de negócio e, em seguida, exportar os dados - vá para a **pesquisa de conteúdo de > de procura**
+- Use A Pesquisa de Conteúdos para pesquisar a sua organização por conteúdos em e-mail, documentos, Skype para conversas empresariais e, em seguida, exportar os dados - Vá procurar **> Pesquisa de Conteúdos**
 
-- Criar um incidente de detecção de dados electrónicos para pesquisar conteúdo e o local para localizações de conteúdo retido - Ir para a **detecção de dados electrónicos > de detecção de dados electrónicos**
+- Criar um caso eDiscovery para procurar conteúdo e colocar os locais de conteúdo em espera - Vá ao **eDiscovery > eDiscovery**
 
-- Utilize a nova solução de detecção de dados electrónicos avançadas-a-ponto para identificar e comunicar com depositários, preservar os dados de entidade de custódia relevantes para os casos, recolher dados e adicioná-lo a um conjunto de revisão e reduzir o volume de dados através da aplicação analytics para selecção dos dados desnecessários e o que focar mais relevantes para o caso - Ir para a **detecção de dados electrónicos > avançadas detecção de dados electrónicos**
+- Utilize a nova solução avançada de ponta a ponta Avançada para identificar e comunicar com os guardiões, preservar dados guardiães relevantes para o caso, recolher dados e adicioná-lo a um conjunto de análises, e reduzir o volume de dados aplicando análises para abater dados desnecessários e focar-se no que mais relevante para o caso - Vá ao **eDiscovery > Advanced eDiscovery**
 
 Para obter mais informações, consulte:
 
-- [Procurar conteúdo no Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search)
+- [Pesquisa de Conteúdos](https://docs.microsoft.com/office365/securitycompliance/content-search)
 
-- [casos de detecção de dados electrónicos em & o Security Center de conformidade](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
+- [casos eDiscovery no Centro de Conformidade & de Segurança](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
 
-- [Solução de detecção de dados electrónicos avançadas no Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)
+- [Solução avançada eDiscovery na Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)

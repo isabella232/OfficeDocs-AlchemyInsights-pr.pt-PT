@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 28e72f734d4b1c9abefa3d9c7cefad4eb95d7c93
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 11bbb2180c94f1c8d7a00fc944d35ee6f6dc4ddf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43183097"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713261"
 ---
 # <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Mensagem de aplicações do Office – Deparámo-nos com um problema na sua subscrição
 
@@ -26,7 +26,7 @@ ms.locfileid: "43183097"
 
 - Remova e volte a atribuir a [licença do Office](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) ao utilizador em questão. 
 
-- Abra uma aplicação do Office, aceda a **Ficheiro > Conta** e termine sessão em todas as contas. Volte a iniciar sessão uma conta de utilizador com uma licença válida. Para obter informações detalhadas, consulte [Contas no Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9?ui=en-US&rs=en-GB&ad=GB).
+- Abra uma aplicação do Office, aceda a **Ficheiro > Conta** e termine sessão em todas as contas. Volte a iniciar sessão uma conta de utilizador com uma licença válida. Para obter informações detalhadas, consulte [Contas no Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
 - Execute a [Resolução de Problemas de Ativação](https://aka.ms/SARA-OfficeActivation-Alchemy) e reinicie o computador.
 

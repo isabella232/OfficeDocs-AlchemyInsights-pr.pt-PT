@@ -1,5 +1,5 @@
 ---
-title: Problema de ativação - Não podemos nos conectar agora
+title: Problema de Ativação - Não conseguimos ligar-nos agora
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 84e3a7700558ad8a5fad5b7ded6354fe8736e0f7
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628253"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716183"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Corrigindo os aplicativos do Office "Não podemos nos conectar agora" mensagem
+# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Corrigir as aplicações do Office "Não conseguimos ligar agora"
 
-Se você receber esta mensagem, tente o seguinte:
+Se receber esta mensagem, tente o seguinte:
 
-1. Verifique seu firewall, software antivírus e configurações de proxy para confirmar que eles não estão bloqueando o acesso à Internet aos aplicativos do Office. Veja [o Office 365 URLs e as faixas](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)de endereço IP.
+1. Verifique as definições de firewall, software antivírus e proxy para confirmar que não estão a bloquear o acesso à Internet às aplicações do Office. Consulte [os urLs da Microsoft e os intervalos](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)de endereços IP .
 
-2. Vá para **iniciar** > **a corrida,** e depois digite **services.msc**. Certifique-se de que os seguintes serviços estão todos em execução:
-    - Configuração automática de dispositivos conectados à rede
-    - Serviço de lista de rede
-    - Conscientização de localização da rede
-    - Registro do evento de Windows
+2. Vá para **Iniciar** > **A Execução**, e, em seguida, digite **serviços.msc**. Certifique-se de que os seguintes serviços estão em execução:
+    - Configuração automática de dispositivos ligados à rede
+    - Serviço de Lista de Rede
+    - Sensibilização para a localização da rede
+    - Registo de Eventos do Windows
 
-Se um desses serviços não estiver funcionando, tente iniciá-lo. Se você tiver um problema para iniciar o serviço, execute o comando a seguir, abrindo uma solicitação de comando com permissões elevadas:
+Se um destes serviços não estiver a funcionar, tente iniciá-lo. Se tiver algum problema em iniciar o serviço, faça o seguinte comando abrindo um pedido de comando com permissões elevadas:
 
-**sfc /scannow Sfc / scannow**
+**sfc /scannow**
 
-Após este comando terminar, reinicie o computador.
+Depois deste comando terminar, reinicie o computador.
 
-Para obter informações detalhadas, [consulte "Desculpe, não podemos nos conectar à sua conta. Por favor, tente novamente mais tarde" erro quando você ativar office do Office 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Para obter informações detalhadas, consulte ["Desculpe, não podemos ligar-nos à sua conta. Tente novamente mais tarde" erro quando activao o Office a partir do Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

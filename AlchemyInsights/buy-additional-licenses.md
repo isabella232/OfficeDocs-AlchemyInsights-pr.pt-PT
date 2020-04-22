@@ -1,5 +1,5 @@
 ---
-title: Adquirir licenças adicionais
+title: Comprar licenças adicionais
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,28 +12,28 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: f41cfd77ce1173e6786f25316f04e84bfa35af07
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664727"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712182"
 ---
-# <a name="buy-additional-office-365-licenses"></a>Adquirir licenças adicionais do Office 365
+# <a name="buy-additional-licenses"></a>Comprar licenças adicionais
 
-1. No Centro de administração, vá para a **Facturação** \> página [produtos e serviços &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. No centro de administração, aceda à página **Faturação** \> [Produtos e Serviços](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Localize a subscrição que pretende adicionar licenças para e, em seguida, seleccione **Adicionar/remover licenças**.
+2. Encontre a subscrição a que pretende adicionar licenças e, em seguida, selecione **Adicionar/Remover licenças**.
 
-    [O que acontece se eu não vir a hiperligação de adicionar/remover?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
+    [E se eu não vir o link Adicionar/Remover?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
 
-3. Na caixa de **Total de licenças** , introduza o número total de licenças de que necessita para esta subscrição e, em seguida, seleccione **alterar submeter**. Por exemplo, se tiver 100 licenças e precisar de adicionar mais 5, introduza 105.
+3. Na caixa total de **licenças,** insira o número total de licenças que necessita para esta subscrição e, em seguida, escolha **submeter a alteração**. Por exemplo, se tiver 100 licenças e precisar de adicionar mais 5, introduza 105.
 
     > [!NOTE]
     > Se pagar a subscrição com cartão de crédito ou através de conta bancária, todas as novas licenças que comprar ficarão disponíveis imediatamente depois de receber uma confirmação da encomenda. Se pagar através de fatura, poderá ter de aguardar por uma verificação de crédito para que as novas licenças fiquem disponíveis para utilizar.
 
-Para obter mais informações, consulte [adquirir licenças para o Office 365 para a subscrição de negócio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+Para saber mais, consulte [Comprar licenças para o seu Microsoft 365 para subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)de negócios .  
 
-**Recursos adicionais**
+**Recursos Adicionais**
 
-- [Atribuir licenças aos utilizadores no Office 365 para a empresa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Atribuir licenças aos utilizadores na Microsoft 365 para Negócios](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)

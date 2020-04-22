@@ -3,7 +3,7 @@ title: Subscrição expirada
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,37 +13,37 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665051"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714161"
 ---
 # <a name="expired-subscription"></a>Subscrição expirada
 
-Afigura-se que tiver uma ou mais subscrições expiradas. Se pretender continuar o serviço, tem de reactivar a subscrição ou adquirir novo.
+Parece que tem uma ou mais subscrições vencidas. Se quiser continuar o serviço, tem de reativar a subscrição ou fazer uma nova compra.
   
-**Reactivar**
+**Reativar**
   
-1. No Centro de administração, vá para a **Facturação** \> página [produtos e serviços &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. No centro de administração, aceda à página **Faturação** \> [Produtos e Serviços](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Localize a subscrição que pretende reactivar. Na secção **de facturação** , escolha a **Reactivar**.
+2. Localize a subscrição que pretende reativar. Na secção **Faturação**, selecione **Reativar**.
 
-Se não vir **Reactivar** como uma acção disponível, contacte o suporte para reactivar a subscrição.
+Se a opção **Reativar** não estiver disponível, contacte o suporte para reativar a sua subscrição.
 
-3. Confirme os detalhes de pagamento. Pode actualizar aqui as informações de pagamento existentes. Quando tiver terminado de introduzir o método de pagamento, escolha a **Reactivar**.
+3. Confirme os seus detalhes de pagamento. Pode atualizar a sua informação de pagamento existente aqui. Quando terminar de introduzir o seu método de pagamento, selecione **Reativar**.
 
-Para obter mais informações, consulte a [reactivar a subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Para saber mais, consulte [Reativar a sua subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
-**Efectuar uma nova compra**
+**Faça uma nova compra**
   
-1. No Centro de administração, vá para a **Facturação** \> página de [Serviços de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. No centro de administração, vá à página de [serviços](https://go.microsoft.com/fwlink/p/?linkid=868433) de **Compra de** \> Faturação.
 
-2. Escolha a subscrição que pretende comprar e, em seguida, escolha **comprar**.
+2. Escolha a subscrição que pretende comprar e escolha **Comprar**.
 
-3. Introduza o número de licenças de que precisa e selecione se quer pagar mensal ou anualmente. Selecione se quer atribuir licenças automaticamente a quem não tiver atualmente uma licença. Em seguida, escolha a **dar saída agora**.
+3. Introduza o número de licenças de que precisa e selecione se quer pagar mensal ou anualmente. Selecione se quer atribuir licenças automaticamente a quem não tiver atualmente uma licença. Em seguida, escolha **Check out agora**.
 
-4. Siga os restantes passos para concluir a verificação de saída.
+4. Siga os passos restantes para completar o check-out.
 
-Para obter mais informações, consulte [adquirir outra subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Para saber mais, consulte [Comprar outra subscrição.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)

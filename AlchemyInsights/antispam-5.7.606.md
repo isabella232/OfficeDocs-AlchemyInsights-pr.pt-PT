@@ -1,5 +1,5 @@
 ---
-title: Antispam - 5,7,23
+title: Antispam - 5.7.23
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 9a2a6eb8736c2fd9b4b3cdc548461d5b15feb4a4
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 377e7d3164f7732246e1c1980bc1d0b0ccc8ebbb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682239"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712649"
 ---
-# <a name="banned-sending-ip"></a>Proibido enviar IP
+# <a name="banned-sending-ip"></a>Proibido envio IP
 
-Ao enviar para o Office 365, um remetente pode experimentar esse erro. O remetente https://sender.office.com precisa visitar e seguir as instruções.  Se eles não receberem um e-mail de verificação do portal, verifiquem a pasta de spam e/ou experimentem com um endereço de e-mail diferente.
+Ao enviar correio para o Microsoft 365, um remetente pode experimentar este erro. O remetente precisa https://sender.office.com visitar e seguir as instruções.  Se não receberem um e-mail de verificação do portal, peça-lhes que verifiquem a pasta de spam e/ou tentem com um endereço de e-mail diferente.

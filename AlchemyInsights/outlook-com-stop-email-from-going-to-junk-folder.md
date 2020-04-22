@@ -1,9 +1,9 @@
 ---
-title: Deixar mensagens de ir para a pasta correio publicitário não solicitado na Outlook.com
+title: Impedir que as mensagens vão para a pasta Junk Email em Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/16/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 062a0d9bfbd83ed40457f603cc739e3a916c7045
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1da0c7b67c1f09f6ed6589848ddd2d4e5a5775a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511930"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710958"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Deixar mensagens de ir para a pasta correio publicitário não solicitado
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Impeça que as mensagens vão para a sua pasta Junk Email
 
-Se descobrir que uma mensagem de correio electrónico na pasta correio publicitário não solicitado no Outlook.com não é correio publicitário não solicitada:
+Se descobrir que uma mensagem de e-mail na sua pasta Junk Email em Outlook.com não é lixo:
 
-1. Abra a [pasta de correio electrónico de publicidade](https://outlook.live.com/mail/junkemail).
-1. Seleccione a mensagem. (*Nota:* itens na pasta correio publicitário não solicitado são eliminados após 30 dias.)
-1. Acima da lista de mensagem, seleccione **não sendo publicidade não** > **não publicitário não solicitado**.
+1. Abra a pasta [Junk Email](https://outlook.live.com/mail/junkemail).
+1. Selecione a mensagem. *(Nota:* Os itens da pasta Junk Email são eliminados após 30 dias.)
+1. Acima da lista de mensagens, selecione **Não lixo Não lixo.** > **Not junk**
 
-Se pretender impedir que quaisquer mensagens de um remetente vai para a pasta correio publicitário não solicitado, adicione o remetente à lista de remetentes seguros:
+Se pretender evitar que quaisquer mensagens de um remetente se desloquem para a pasta Junk Email, adicione o remetente à sua lista de remetentes seguros:
 
-1. Abra as [definições de correio electrónico de publicidade](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. Em **Remetentes e domínios**, seleccione **Adicionar**, introduza o endereço de correio electrónico ou domínio que pretende adicionar e seleccione **Guardar**.
+1. Abra as definições de [e-mail junk](https://go.microsoft.com/fwlink/?linkid=2035804).
+1. Em **'Segurança' e domínios**, selecione **Adicionar**, introduza o endereço de e-mail ou domínio que pretende adicionar e selecione **Guardar**.
 
-Para obter mais informações, leia a [Marcar a mensagem de correio electrónico como remetentes de publicidade ou bloco em Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Para saber mais, leia [o e-mail da Mark como lixo ou bloqueie os remetentes em Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

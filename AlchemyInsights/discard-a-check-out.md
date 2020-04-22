@@ -1,28 +1,28 @@
 ---
-title: Descarte um check-out
+title: Descartar um check-out
 ms.author: pebaum
 author: pebaum
-ms.date: 9/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: 9e5fdfd3f0f8d2794baffbedaa5b349152ea9cde
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 543cbd51120bc87675d82597673a681bc5fc53b3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052336"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715125"
 ---
-# <a name="discard-a-check-out-from-a-document-library"></a>Descarte um check-out de uma biblioteca de documentos
+# <a name="discard-a-check-out-from-a-document-library"></a>Descartar um check-out de uma biblioteca de documentos
 
-1. Clique direito no arquivo que deseja descartar o check-out.
+1. Clique no ficheiro que pretende descartar.
     
-2. Clique **mais,** e, em seguida, clique **descarte check-out**. 
+2. Clique **em Mais,** e depois clique em **Descartar Check out**. 
     
-3. A partir da caixa de diálogo, clique em descartar o **check-out** para limpar o check-out. 
+3. A partir da caixa de diálogo, clique em **'Eliminar'** para limpar o check-out. 
     
-Para perguntas adicionais sobre o check-in e check-out, consulte as [principais perguntas sobre check-out, check-in e versões.](https://go.microsoft.com/fwlink/?linkid=2018786)
+Para mais perguntas sobre check-in e check-out, consulte [as principais questões sobre check-out, check-in e versões](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

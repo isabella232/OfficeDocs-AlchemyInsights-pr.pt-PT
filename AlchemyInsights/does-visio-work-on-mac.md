@@ -1,9 +1,9 @@
 ---
-title: Visio trabalha em um Mac
+title: Visio trabalha num Mac
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1799"
 - "9000201"
-ms.openlocfilehash: c1c544cf9e9ccafc6623c686e639051af56d32d7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 26c4381f86b547af3f0da5617fd7a7bfd7edaf9d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36529678"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715325"
 ---
-# <a name="does-visio-work-on-a-mac"></a>Visio trabalha em um Mac?
+# <a name="does-visio-work-on-a-mac"></a>Visio trabalha num Mac?
 
-Não há aplicativo de desktop Visio para Mac. No entanto, enquanto o usuário que precisa do aplicativo tem uma [licença Visio Online atribuído,](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799)eles podem [ver, criar e eitar diagramas em Visio Online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) em um navegador web.
+Não existe nenhuma aplicação de ambiente de trabalho do Visio para Mac. No entanto, desde que o utilizador que necessite da aplicação tenha uma [licença Visio Online atribuída,](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799)pode [ver, criar e editar diagramas no Visio Online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) num navegador web.
   
   

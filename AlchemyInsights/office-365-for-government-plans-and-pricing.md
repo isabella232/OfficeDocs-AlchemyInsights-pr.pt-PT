@@ -1,9 +1,9 @@
 ---
-title: Office 365 para planos de Governo e a definição de preços
+title: Gabinete 365 para planos e preços do Governo
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 71436f099cc81f7fbce88c76fc62406fb9d0abbd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9efe8473b56f1483076f86fe19c2af52201155bc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522131"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713369"
 ---
-# <a name="office-365-government-plans"></a>Planos de administração do Office 365
+# <a name="office-365-government-plans"></a>Gabinete 365 Planos do Governo
 
-Planos de Governo dos E.U.A do Office 365 são concebidos para as necessidades exclusivas de organizações do Governo dos EUA. Fornecem todas as funcionalidades e capacidades do Office 365 serviços num sistema comunitário de nuvem segmentadas governo que permite às organizações satisfazer a conformidade dos e.u.a. e normas de segurança.
+Os planos do Governo dos EUA 365 são projetados para as necessidades únicas das organizações governamentais dos EUA. Eles fornecem todas as funcionalidades e capacidades dos serviços do Office 365 numa comunidade de nuvem governamental segmentada que permite que as organizações cumpram os padrões de conformidade e segurança dos EUA.
   
-- [Rever os planos de Governo](https://products.office.com/government/compare-office-365-government-plans)
+- [Rever os planos do Governo](https://products.office.com/government/compare-office-365-government-plans)
 
-- [Comparar todos os planos do Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Compare todas as subscrições da Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)

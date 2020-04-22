@@ -14,36 +14,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 7e2964ef0a44ddf421e4aae007acbdbda196e20f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769314"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714781"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Não pode instalar ou executar a ferramenta de exportação eDiscovery?
 
-Se você não puder instalar ou executar a Ferramenta de Exportação de EDiscovery do Office 365 para baixar os resultados da pesquisa, verifique as seguintes coisas:
+Se não conseguir instalar ou executar a Ferramenta de Exportação eDiscovery para descarregar os resultados da pesquisa, verifique as seguintes coisas:
   
-- O computador que você está usando atende a esses pré-requisitos:
+- O computador que está a usar cumpre estes pré-requisitos:
 
   - Versões de 32 ou 64 bits do Windows 7 e versões posteriores
 
-  - Microsoft .NET Quadro 4.7
+  - Microsoft .NET Framework 4.7
 
   - Um navegador suportado:
 
-  - Borda de Microsoft
+  - Microsoft Edge
 
     Ou
 
   - Internet Explorer 10 e versões posteriores
 
-    Outros navegadores, como o Google Chrome e o Mozilla Firefox, não são suportados.
+    Outros navegadores, como o Google Chrome e mozilla Firefox, não são suportados.
 
-- Sua organização pode se conectar ao ponto final no Azure, que é ** \*0,blob.core.windows.net** (o curinga representa um identificador exclusivo para o seu trabalho de exportação).
+- A sua organização pode ligar-se ao ponto final em Azure, que é ** \*.blob.core.windows.net** (o wildcard representa um identificador único para o seu trabalho de exportação).
 
-- Você recebeu o papel de Exportação no Centro &amp; de Conformidade de Segurança do Escritório 365. Por padrão, essa função é atribuída apenas ao grupo de papel do eDiscovery Manager. Veja [as permissões](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)do EDiscovery .
+- Foi-lhe atribuída a função de exportação &amp; no Microsoft 365 Security Compliance Center. Por predefinição, esta função é atribuída apenas ao grupo de papéis eDiscovery Manager. Consulte [as permissões eDiscovery .](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
-Para mais informações, consulte os resultados da Pesquisa de [Conteúdo de Exportação.](https://docs.microsoft.com/office365/securitycompliance/export-search-results)
+Para mais informações, consulte [os resultados da Pesquisa](https://docs.microsoft.com/office365/securitycompliance/export-search-results)de Conteúdos de Exportação .
   

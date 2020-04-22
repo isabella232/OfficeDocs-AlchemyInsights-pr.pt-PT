@@ -1,9 +1,9 @@
 ---
-title: Alterar o meu endereço de correio electrónico no Outlook.com
+title: Mude o meu endereço de e-mail em Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "259"
 - "8000010"
 ms.assetid: fa795da0-f04b-4032-bd27-177ecdd488f9
-ms.openlocfilehash: 6a944bbd2fa77370c081b2464683efdc8e8f95a5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bfca8cbf03b2561a433032e79c09727b83bacf43
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547790"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712937"
 ---
-# <a name="change-your-email-address"></a>Alterar o endereço de correio electrónico
+# <a name="change-your-email-address"></a>Alterar o seu endereço de e-mail
 
-Para alterar o endereço de correio electrónico de Outlook.com, terá de adicionar outro e torná-lo o alias de correio electrónico principal.
+Para alterar o seu Outlook.com endereço de e-mail, terá de adicionar outro e torná-lo o seu principal pseudónimo de e-mail.
   
-Siga as instruções em [Adicionar ou remover um alias de correio electrónico na Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
+Siga as instruções em [Adicionar ou remova um pseudónimo de e-mail em Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).

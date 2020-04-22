@@ -1,9 +1,9 @@
 ---
-title: Identificar o reencaminhamento de correio electrónico externo nas caixas de correio nos registos de auditoria
+title: Identificar o envio externo de e-mails nas caixas de correio em registos de auditoria
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,31 +12,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539112"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716471"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identificar quando o reencaminhamento de correio electrónico externo está configurado nas caixas de correio
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identifique quando o reencaminhamento externo de e-mails está configurado nas caixas de correio
 
-Quando um utilizador do Office 365 configura o reencaminhamento de correio electrónico externo numa caixa de correio, a actividade é auditada como parte do cmdlet **Set-Mailbox** . Pode ver a actividade de utilizar a procura de registo de auditoria no & Security Center de conformidade.
+Quando um utilizador da Microsoft 365 configura o envio de e-mail externo numa caixa de correio, a atividade é auditada como parte do cmdlet **set-mailbox.** Pode ver a atividade utilizando a pesquisa de registo de auditoria no Security & Compliance Center.
 
-1. Inicie sessão para o [Centro de conformidade do Office 365 segurança &](https://protection.office.com/).
+1. Inicie sessão no [Microsoft 365 Security & Compliance Center](https://protection.office.com/).
 
-2. Vá para a **pesquisa**de > página de**procura de registo de auditoria** .
+2. Aceda à página de pesquisa de registo de auditoria de > **pesquisa.** **Search**
 
-3. Seleccione o intervalo de datas nos campos **data de início** e **data de fim** . Não é necessário especificar um nome de utilizador. Verifique se que o campo de **actividades** é definido para **Mostrar resultados para todas as actividades**.
+3. Selecione o intervalo de data sintetiza-se nos campos de data de **início** e data de **fim.** Não precisa especificar um nome de utilizador. Verifique se o campo **De atividades** está definido para **mostrar resultados para todas as atividades.**
 
 4. Clique em **Procurar**.
 
-Nos resultados, clique em **Resultados de filtro** e escreva **Set-Mailbox** na caixa de actividade de filtragem. Seleccione um registo de auditoria nos resultados. Na lista de opções de **Detalhes** , clique em **obter mais informações**. Devem observar os detalhes de cada registo de auditoria para determinar se a actividade está relacionada para reencaminhamento de correio electrónico.
+Nos resultados, clique em **Resultados do Filtro** e digite **Set-Mailbox** na caixa de filtro de atividade. Selecione um registo de auditoria nos resultados. Nos **Detalhes,** clique em **Mais informações.** Você tem que olhar os detalhes de cada registo de auditoria para determinar se a atividade está relacionada com o reencaminhamento de e-mail.
 
-- **ObjectId**: O valor de alias da caixa de correio que foi modificado.
+- **ObjectId**: O valor do pseudónimo da caixa de correio que foi modificado.
 
-- **Parâmetros**: _ForwardingSmtpAddress_ indica o endereço de correio electrónico de destino.
+- **Parâmetros**: _ReencaminhamentoSmtpAddress_ indica o endereço de e-mail alvo.
 
-- **ID de utilizador**: O utilizador configurado reencaminhamento de correio electrónico na caixa de correio no campo **ID de objecto** .
+- **UserId**: O utilizador que configurao o envio de e-mail na caixa de correio no campo **ObjectId.**
 
-Para mais informações, consulte [determinar que configurou para uma caixa de correio de reencaminhamento de correio electrónico](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+Para mais informações, consulte [Determinar quem configura o envio de e-mail para uma caixa de correio](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).

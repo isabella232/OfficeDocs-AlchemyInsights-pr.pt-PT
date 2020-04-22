@@ -3,22 +3,22 @@ title: Outlook.com LinkedIn
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/20/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
-ms.openlocfilehash: 136b349c374518e2b130184f2dc64d1bf9a7f7b0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 860d7e4063d0de172b79f0a0294f899ac22d92cc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36494358"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676616"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problemas com junk e-mail alegando ser do LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problemas com e-mail junk alegando ser do LinkedIn
 
-Se você estiver recebendo e-mail lixo que afirma ser do LinkedIn, você pode criar uma regra para filtrar esses e-mails.
-Veja as regras da caixa de entrada de [uso em Outlook.com](https://aka.ms/OutlookComInboxRules) para obter mais informações.
+Se estiver a receber e-mails de sucata que diz ser do LinkedIn, pode criar uma regra para filtrar esses e-mails.
+Consulte as regras da [caixa de entrada em Outlook.com](https://aka.ms/OutlookComInboxRules) para obter mais informações.
 
 

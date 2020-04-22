@@ -1,9 +1,9 @@
 ---
-title: Relatório sobre compartilhamento de arquivos e pastas em um site do SharePoint
+title: Relatório sobre partilha de pastas e ficheiros num site do SharePoint
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/16/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 8dbad3df0c53a1167d5399efcfd9c0f7a71f928a
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 5c01595eab45b4f4e67e741c884066d0d21a9472
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627369"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43693173"
 ---
-# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Relatório sobre compartilhamento de arquivos e pastas em um site do SharePoint
+# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Relatório sobre partilha de pastas e ficheiros num site do SharePoint
 
-Você pode criar um arquivo CSV detalhando cada arquivo, usuário, permissão e link exclusivos em um determinado site do SharePoint ou biblioteca OneDrive. Isso pode ajudá-lo a entender como o compartilhamento está sendo usado e se quaisquer arquivos ou pastas estão sendo compartilhados com os convidados.
+Pode criar um ficheiro CSV detalhando todos os ficheiros, utilizadores, permissões e link sinuosos num determinado site do SharePoint ou na biblioteca OneDrive. Isto pode ajudá-lo a entender como a partilha está sendo usada e se quaisquer ficheiros ou pastas estão sendo partilhados com os hóspedes.
 
-Para mais informações, [informe o compartilhamento de arquivos e pastas em um site do SharePoint.](https://docs.microsoft.com/sharepoint/sharing-reports)
+Para mais informações, informe sobre a partilha de [ficheiros e pastas num site do SharePoint](https://docs.microsoft.com/sharepoint/sharing-reports).
 
 > [!NOTE]
-> Este recurso é atualmente implantado para inquilinos First Release e será gradualmente lançado para todos os inquilinos de produção.
+> Esta funcionalidade está atualmente implantada para os inquilinos do First Release e irá gradualmente passar para todos os inquilinos da Produção.

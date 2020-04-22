@@ -1,9 +1,9 @@
 ---
-title: Mensagem de correio electrónico recuperar eliminado no Outlook.com
+title: Recuperar e-mail apagado em Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: a5ef44f8024e5718f26df9fd4f7f2ef4a6390544
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc2b78e4cef7c7dac208ce893c1700b680b58217
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545399"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666968"
 ---
-# <a name="recover-deleted-email-outlookcom"></a>Recuperar eliminado correio electrónico Outlook.com
+# <a name="recover-deleted-email-outlookcom"></a>Recuperar Outlook.com de e-mail eliminado
 
-1. No painel da esquerda, seleccione os **Itens eliminados**.
-2. Seleccione o item que pretende recuperar e seleccione a **Restaurar**.
-3. Se não estiver a mensagem em itens eliminados, seleccione a **recuperar itens eliminados desta pasta** de mensagens em fila na parte superior da janela.
+1. No painel esquerdo, selecione **Itens Apagados**.
+2. Selecione o item que pretende recuperar e **selecione Restaurar**.
+3. Se a mensagem não estiver em Itens Apagados, selecione **Itens De Recuperação eliminados desta pasta** na parte superior da janela.
 
- **Obter informações importantes sobre itens eliminados:**
+ **Informações importantes sobre itens eliminados:**
   
-- Os itens removidos da pasta Itens eliminados sejam recuperáveis durante 30 dias.
-- Se não tiver iniciado sessão na sua conta de 365 dias, o correio electrónico será eliminado e não pode ser recuperado.
-- Não é possível recuperar o correio electrónico eliminado das contas de criança.
+- Os itens removidos da pasta 'Itens Apagados' são recuperáveis durante 30 dias.
+- Se não assinou na sua conta por 365 dias, o seu e-mail será apagado e não poderá ser recuperado.
+- Não é possível recuperar e-mails apagados das contas de crianças.
 
-Para obter mais informações, consulte [Restauro eliminar mensagens de correio electrónico no Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+Para saber mais, consulte Restaurar mensagens de [correio eletrónico eliminadas em Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).

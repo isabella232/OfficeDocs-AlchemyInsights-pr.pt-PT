@@ -1,9 +1,9 @@
 ---
-title: Como personalizar as permissões para uma lista ou biblioteca do SharePoint
+title: Como personalizar permissões para uma lista de SharePoint ou biblioteca
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3166"
-ms.openlocfilehash: cf52bddd0a3b8e1f46c4ec58ad5bd15457f0c964
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 8d0e960c8404297a971c3f96c29628f8dd25f1af
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922411"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705204"
 ---
-# <a name="how-to-customize-permissions-for-a-sharepoint-list-or-library"></a>Como personalizar as permissões para uma lista ou biblioteca do SharePoint
+# <a name="how-to-customize-permissions-for-a-sharepoint-list-or-library"></a>Como personalizar permissões para uma lista de SharePoint ou biblioteca
 
-Como administrador ou proprietário de uma biblioteca, lista ou pesquisa, você pode alterar as permissões para permitir que um grupo de pessoas acesse os dados de que precisa, restringindo outras pessoas.
+Como administrador ou proprietário de uma biblioteca, lista ou inquérito, pode alterar permissões para permitir que um grupo de pessoas aceda aos dados de que necessitam, limitando outras.
 
-[Personalize as permissões para uma lista ou biblioteca do SharePoint](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+[Personalize permissões para uma lista de SharePoint ou biblioteca](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)

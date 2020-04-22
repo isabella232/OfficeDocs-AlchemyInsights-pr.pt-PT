@@ -1,9 +1,9 @@
 ---
-title: mesmo que o nome de arquivo é melhor
+title: mesmo que o nome de ficheiro é o melhor
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
-ms.date: 4/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,30 +11,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e2dcca1295e37007593b34c2d818ad1d1133e4a1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "35800056"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676544"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Obrigado Alquimia Cabeçalho H1, H2 não funcionam.
-Melhores práticas e diretrizes para a autoria da Alquimia:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Exigia alquimia cabeçalho H1, H2's não funciona.
+Boas Práticas e orientações para a autoria da Alquimia:
 
-1. **Não aninhe Alchemy Insights em pastas**- isso vai quebrar a estrutura url. Estamos procurando consertar isso.
-1. Arquivos na pasta **AlchemyInsights** devem ter nomes de arquivos minúsculos com hífens para espaços ex. ***como habilitar-litígio-hold***.
-    1. Inclua a identificação da régua ou a identificação do balde do portal do sócio da [alquimia](https://alchemyportal.azurewebsites.net) no campo do ms.custom. Ex. ***ms.custom: 100021 ms.custom: 100021***
-1. Use o resto dos metadados na parte superior deste arquivo como modelo.
-1. No [portal Alchemy Partner,](https://alchemyportal.azurewebsites.net)navegue até a seção Título de Percepção do **Cliente:** e use isso como ponto de partida para o seu título H1 para obter informações. 
+1. **Não nidique alquimia insights em pastas**- isto quebrará a estrutura do url. Estamos a tentar resolver isto.
+1. Os ficheiros na pasta **AlchemyInsights** devem ter nomes de ficheiros minúsculos com hífens para espaços ex. ***como permitir-ativar-contencioso-hold***.
+    1. Inclua o ID de regra ou id balde do [portal Alchemy Partner](https://alchemyportal.azurewebsites.net) no campo ms.custom. ex. ***ms.custom: 100021***
+1. Utilize o resto dos metadados na parte superior deste ficheiro como modelo.
+1. No [portal Alchemy Partner,](https://alchemyportal.azurewebsites.net)navegue até à secção Título de Insight do **Cliente:** e use-o como ponto de partida para o seu título de H1 para a insight. 
     > [!NOTE]
-    > Alquimia Insights deve ter apenas um único H1 no topo ou eles vão quebrar na produção. Os H2s não tornam o **uso ousado** ou outras convenções para significar seções separadas.
-1. Em seguida, preencha o texto do corpo usando o material de rascunho na seção Insights do Cliente da página regra de alquimia
-    1. Listas bulleted são muito bem
+    > Alquimia Insights MUST tem apenas um único H1 no topo ou eles vão quebrar na produção. Os H2 não prestam nem por isso use convenções **ousadas** ou outras para significar secções separadas.
+1. Em seguida, preencha o texto do corpo utilizando o projeto de material na secção Deinsights do Cliente da página regra da Alquimia
+    1. Listas de balas estão bem.
     1. Listas numeradas também
-    1. **Negrito** e *itálico* são a-ok
-    1. Links devem ser sempre **"links para web" / externa** ou **links profundos para elementos**de ura, não links internos.
-    1. As imagens não são oficialmente suportadas neste momento, mas está no roteiro.
+    1. **Arrojado** e *itálico* são um ok
+    1. As ligações devem ser sempre **"links para web"/external** OU **deep-links para elementos UI**, e não ligações internas.
+    1. As imagens não são oficialmente apoiadas neste momento, mas está no roteiro.
 
-E isso já é realmente um pouco longo demais. A melhor prática é de cerca de 400 personagens ---------------------------------
+E isto já é um pouco longo demais. A melhor prática é cerca de 400 caracteres ---------------------------------
 
-Uma vez que seu conteúdo está pronto, puxá-lo para o ramo ao vivo. Em seguida, vá para o [portal Alchemy Partner](https://alchemyportal.azurewebsites.net) e digite o nome de arquivo no campo url. 
+Assim que o conteúdo estiver pronto, puxe-o para o ramo vivo. Em seguida, vá ao [portal Alchemy Partner](https://alchemyportal.azurewebsites.net) e introduza o nome de ficheiro no campo de url. 

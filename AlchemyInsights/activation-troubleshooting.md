@@ -1,8 +1,8 @@
 ---
-title: Resolução de problemas de activação
+title: Resolução de problemas de ativação
 ms.author: jillz
 author: jillz
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: a9dfbdd5b8b1dc34eded716ac7162f7188e622df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 871db32d7248cade686c12f524b409ce3949a4ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495582"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676436"
 ---
-# <a name="activation-troubleshooting"></a>Resolução de problemas de activação
+# <a name="activation-troubleshooting"></a>Resolução de problemas de ativação
 
-No **Painel de controlo** \> de **programas e funcionalidades**, procura do Office. Deverá ver o Microsoft Office 365 ProPlus ou empresarial do Microsoft Office 365. Se vir mais do que uma versão do Office listado, desinstale a versão que não estiver a utilizar.
+Em \> **Programas e Funcionalidades**do **Painel de Controlo,** procure office. Deve ver aplicações Microsoft 365 para empresaou Aplicações Microsoft 365 para negócios. Se vir mais do que uma versão do Office listada, desinstale a versão que não está a utilizar.
   
-Se não conseguir desinstalar com êxito utilizando o painel de controlo, utilize o [Assistente de recuperação e suporte](https://aka.ms/SARA-OfficeUninstall-Alchemy) para desinstalar a versão que não está a utilizar.
+Se não conseguir desinstalar com sucesso o Painel de Controlo, utilize o Assistente de [Suporte e Recuperação](https://aka.ms/SARA-OfficeUninstall-Alchemy) para desinstalar a versão que não está a utilizar.
   
-Se ainda não licenciada Office, volte ao **Painel de controlo** \> **programas e funcionalidades**. A restante instalação do Office com o botão direito, seleccione **Modificar** (ou alterar) e, em seguida, seleccione **Reparar Online**. A reparação online poderá demorar algum tempo. Em seguida, reiniciar o Office e inicie sessão utilizando o seu trabalho ou escola conta, se lhe for pedido.
+Se o Office ainda não tiver licença, volte aos **Programas e Funcionalidades**do **Painel** \> de Controlo . Clique à direita na instalação do gabinete restante, selecione **Modificar** (ou Alterar) e, em seguida, selecione **Reparação Online**. A reparação online pode demorar um pouco. Em seguida, reinicie o Office e inicie sessão com a sua conta escolar ou profissional, se solicitado.
   
-Se ainda não licenciada Office, transfira e execute a [resolução de problemas de activação](https://aka.ms/SARA-OfficeActivation-Alchemy) no computador afectado para corrigir os problemas de activação.
+Se o Office ainda não tiver licença, faça o download e, em seguida, execute o resolução de problemas de [ativação](https://aka.ms/SARA-OfficeActivation-Alchemy) na máquina afetada para corrigir os problemas de ativação.
   
-Para mais informações, consulte: [produto não licenciado e erros de activação do Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Para mais informações, consulte: Produto não licenciado e erros de [ativação no Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

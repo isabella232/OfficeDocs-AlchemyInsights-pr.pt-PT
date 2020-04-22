@@ -3,7 +3,7 @@ title: DLP não funciona como esperado
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,16 +13,16 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 574a8a43d8264e98c6af2bfeb1bb472475e6e334
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: efb4a19f345fe6b8a1e8bb72abeba4a923c05777
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42977449"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704424"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP não funciona como esperado
 
-**Importante:**: durante estes tempos sem precedentes, estamos a tomar medidas para garantir que os serviços SharePoint Online e OneDrive permaneçam com elevada disponibilidade. Para obter mais informações, visite [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) (Ajustes Temporários de Funcionalidades do SharePoint Online).
+**Importante**: durante estes tempos sem precedentes, estamos a tomar medidas para garantir que os serviços SharePoint Online e OneDrive permaneçam com elevada disponibilidade. Para obter mais informações, visite [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) (Ajustes Temporários de Funcionalidades do SharePoint Online).
 
  **Criação de DLP**
 
@@ -32,7 +32,7 @@ As políticas de DLP permitem identificar e proteger informações sensíveis na
   
  **O que as políticas do DLP procuram**
   
-Ao utilizar os **tipos de informação sensível incorporados** no Office 365 Security and Compliance center, as políticas de DLP procuram padrões e elementos específicos ao detetar estes tipos sensíveis.
+Ao utilizar os **tipos de informação sensível incorporados** nos centros de Segurança e Conformidade, as políticas de DLP procuram padrões e elementos específicos ao detetar estes tipos sensíveis.
   
 - **Tipos de informação sensível incorporados**
 

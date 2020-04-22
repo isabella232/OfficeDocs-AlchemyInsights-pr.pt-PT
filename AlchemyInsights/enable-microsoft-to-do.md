@@ -1,9 +1,9 @@
 ---
-title: Ativar o to-do da Microsoft
+title: Ativar o Microsoft To-Do
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: 09c80696c75189dbfc0b810f55cefa4a92b97392
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5221f9937d46897303bbe02ee4d13cd72ebe9ffb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36527554"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703510"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>Como permitir o to-do da Microsoft
+# <a name="how-to-enable-microsoft-to-do"></a>Como ativar o Microsoft To-Do
 
-Para usar o Microsoft To-Do, um administrador deve ativar o aplicativo na conta de cada usuário. Acesse a página de complementos de [serviços &amp; ](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) da página de configurações de administração do Office 365 para habilitar o To-Do para cada usuário. 
+Para utilizar o Microsoft To-Do, um administrador deve ativar a aplicação na conta de cada utilizador. Vá à página de [Add-ins &amp; ](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) de Serviços da página de definições de administração do Microsoft 365 para ativar o To-Do para cada utilizador.
   
-O Microsoft To-Do usa recursos no Exchange Online para sincronizar e armazenar itens de afazer dos usuários. Para usar o Microsoft To-Do, um usuário precisa de uma caixa de correio válida da Exchange Online.
+O Microsoft To-Do utiliza funcionalidades no Exchange Online para sincronizar e armazenar os itens a fazer dos utilizadores. Para utilizar o Microsoft To-Do, um utilizador precisa de uma caixa de correio online de troca válida.
   
-Para obter informações adicionais, consulte a [administração de visualização do Microsoft To-Do](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
+Para obter informações adicionais, consulte a [administração de pré-visualização do Microsoft To-Do](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
   
- **Nota:** Se você receber um erro de 501 ao tentar fazer [http://todo.microsoft.com](http://todo.microsoft.com)login, tente [https://to-do.microsoft.com](https://to-do.microsoft.com).
+ **Nota:** Se receber um erro 501 [https://todo.microsoft.com](https://todo.microsoft.com)ao [https://to-do.microsoft.com](https://to-do.microsoft.com)tentar iniciar sessão, tente .
   
 

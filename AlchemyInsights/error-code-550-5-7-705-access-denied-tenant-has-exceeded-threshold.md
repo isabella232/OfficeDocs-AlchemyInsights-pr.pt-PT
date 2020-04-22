@@ -1,8 +1,8 @@
 ---
-title: Código de erro 550 5.7.705 acesso negado, tenant excedeu o limiar
+title: Código de erro 550 5.7.705 Acesso negado, inquilino ultrapassou limiar
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527230"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703001"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 acesso negado, tenant excedeu o limiar
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Acesso negado, inquilino ultrapassou limiar
 
-Esta mensagem ocorre quando demasiado correio publicitário não solicitado ou em massa foi enviado pela sua organização e do Adquirente um bloco de correio a enviar.
-Causas comuns são servidores de instalações comprometida ou admin comprometido contas que foram utilizadas para criar conexões. Qualquer uma das condições pode permitir que o spam passar a sua organização.
+Esta mensagem ocorre quando muito correio publicitário não solicitado ou correio a granel foi enviado pela sua organização e colocamos um bloco no correio de saída.
+As causas comuns são servidores comprometidos no local ou contas de administração comprometidas que foram usadas para criar conectores. Qualquer uma das condições pode permitir que o spam passe pela sua organização.
 
-Para remover este bloco, é necessário compreender e explicar a causa para um agente de suporte, bem como corrigir o problema subjacente.
-Clique em **Contacte-nos** abaixo quando estiver preparado.
+Para remover este bloco, é necessário compreender e explicar a causa a um agente de suporte, bem como corrigir o problema subjacente.
+Clique **em contactar-nos** abaixo assim que estiver pronto.

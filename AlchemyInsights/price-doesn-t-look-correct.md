@@ -1,9 +1,9 @@
 ---
-title: Preço não tem o aspecto correcto?
+title: O preço não parece correto?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: d48e28a3166b3b7f55abdd1e25b830c6dbe0ee56
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 7bba6524807f17ddc786319f469bf22b50f4a845
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388503"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666716"
 ---
-# <a name="price-doesnt-look-correct"></a>Preço não tem o aspecto correcto?
+# <a name="price-doesnt-look-correct"></a>O preço não parece correto?
 
-Se o preço a factura não parecer correcto, isto pode dever-se devido a uma alteração de preços no momento da renovação. Se não considerar que isto explica o problema, utilize a opção "diga-nos chamada" para falar com um engenheiro de suporte.
+Se o preço da sua fatura não parecer correto, isto pode ser devido a uma mudança de preço na renovação. Se não acredita que isto explique o problema, por favor use a opção "Deixe-nos chamá-lo" para falar com um engenheiro de suporte.

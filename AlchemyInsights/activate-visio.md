@@ -1,9 +1,9 @@
 ---
-title: Activar o Visio
+title: Ativar visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 50d1fc29ee4eafd6b6bbe0a873684ab471ba8f02
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e44a2c9ba855daec0b79212655d52c291c3c72eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495438"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43682303"
 ---
-# <a name="activate-visio"></a>Activar o Visio
+# <a name="activate-visio"></a>Ativar visio
 
-Antes de um utilizador pode instalar e activar a aplicação de ambiente de trabalho do Visio ambiente de trabalho incluída no respectivo Visio Online planear 2, o utilizador deve ter adquirido uma [licença do Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+Antes de um utilizador poder instalar e ativar a aplicação de desktop Visio incluída no seu Visio Online Plan 2, o utilizador deve ter sido atribuída uma [licença Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
 
-**Nota** O Visio Online planear 1 não inclui uma versão de ambiente de trabalho do Visio.
+**Nota** O Visio Online Plan 1 não inclui uma versão desktop do Visio.
 
-Para activar o Visio:
+Para ativar visio:
 
-1. Instale o Visio do [portal minha conta](https://portal.office.com/account#installs) se já não esteja instalado. Para obter ajuda, consulte [Instalar o Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
-2. Quando a instalação estiver concluída, abra a aplicação do Visio. Visio provavelmente activará automaticamente e pode começar a utilizá-lo imediatamente. Se não tiver, poderá ser solicitado para iniciar sessão. Certifique-se de que inicie sessão com o mesmo trabalho ou a conta de escola que foi atribuída uma licença do Visio. Siga as instruções para continuar com a activação. 
+1. Instale o Visio no seu [portal de conta My](https://portal.office.com/account#installs) se ainda não estiver instalado. Para obter ajuda, consulte [Instalar o Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. Quando a instalação estiver completa, abra a aplicação do Visio. O Visio será provavelmente ativado de forma automática, pelo que pode começar a usá-lo de imediato. Se não for esse o caso, poderá ser-lhe pedido para iniciar sessão. Certifique-se de que inicia sessão com a mesma conta escolar ou profissional à qual a licença do Visio está associada. Siga as instruções para continuar a ativação. 
 
-Para problemas de activação, execute a [resolução de problemas de activação](https://aka.ms/SARA-OfficeActivation-Alchemy) no computador afectado.
+Para problemas de ativação, execute o resoludor de problemas de [ativação](https://aka.ms/SARA-OfficeActivation-Alchemy) no computador afetado.
 
-Para obter informações detalhadas, consulte:<br>
-[Activar o Office num PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Aparece um aviso de subscrição quando abro uma aplicação do Office 365](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Erro do Office "os produtos encontrámos na sua conta não podem ser utilizados para activar <app>"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Erros não licenciados de produto e activação do Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
+Para obter informações detalhadas consulte:<br>
+[Ativar escritório em um PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Um aviso de subscrição aparece quando abro uma aplicação da Microsoft](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Erro de escritório "Os produtos que encontramos na <app>sua conta não podem ser usados para ativar"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Erros de Produto Não Licenciado e de ativação no Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)

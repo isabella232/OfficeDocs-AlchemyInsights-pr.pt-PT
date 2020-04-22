@@ -1,5 +1,5 @@
 ---
-title: Problema de solucionamento de problemas - Usuário não encontrado no diretório
+title: Problemas problemas - Utilizador não encontrado no diretório
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 0f1e427801107109e31486a4d300f53084880caf
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3b863c5e9962dd29ca2ed41d113041d74830f615
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054821"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702749"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Problema de solucionamento de problemas - Usuário não encontrado no diretório
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Problemas problemas - Utilizador não encontrado no diretório
 
-Se os usuários estiverem recebendo mensagem de erro "o usuário não pode ser encontrado" no diretório, tente novamente onde o tipo de edição não está no diretório.
+Se os utilizadores estiverem a receber uma mensagem de erro "o utilizador não pode ser encontrado" no diretório, tente novamente onde o Tipo de Problema está o Utilizador não no diretório.
 
-As seguintes etapas podem ser concluídas para solucionar o problema.
+Os seguintes passos podem ser concluídos para resolver o problema.
 
-- Certifique-se de que a conta que aceitou o convite por e-mail é a mesma conta que está sendo usada para entrar mais tarde. Certifique-se de que o usuário está usando a mesma conta para aceitar o convite e entrar no site. 
+- Certifique-se de que a conta que aceitou o convite por e-mail é a mesma conta que está a ser usada para assinar mais tarde. Certifique-se de que o utilizador está a usar a mesma conta para aceitar o convite e assinar no site. 
 
-Para mais informações, veja [como gerenciar pseudônimos para sua conta</a> da Microsoft para gerenciar o login do Office 365.](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases) 
+Para mais informações, consulte como gerir pseudónimos para a [sua conta</a> Microsoft gerir o login Microsoft 365](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
 
-- Navegue para cada site (s) em que o usuário está recebendo o erro. 
+- Navegue por cada site em que o utilizador esteja a receber o erro. 
 
-Adicione "/_layouts/15/people.aspx/membershipgroupid=0" (dentro das cotações duplas) até o final da URL do site. 
+Adicione "/_layouts/15/people.aspx/membershipgroupid=0" (dentro das cotações duplas) ao final do URL do site. 
 
 Exemplo: https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
-- Selecione o usuário da lista.
+- Selecione o utilizador da lista.
 
-- Clique **em remover as permissões** do usuário da fita. 
--  Adicione de volta o usuário e reenviar o convite para o usuário.
+- Clique em **remover permissões** de utilizador da fita. 
+-  Adicione de volta o Utilizador e reenvie o convite para o utilizador.
 

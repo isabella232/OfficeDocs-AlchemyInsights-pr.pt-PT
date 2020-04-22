@@ -1,9 +1,9 @@
 ---
-title: 1575 PowerApps e Microsoft Flow planear extensão
+title: 1575-PowerApps e extensão do plano De fluxo do Microsoft
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 03/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: fbb0088756590e73d3236a46051e489b35e0ced5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18a73855a31cb1a701a3f3559156793ee5a80ecf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554738"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43667040"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>Extensão de plano de PowerApps e do Microsoft Flow
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps e microsoft flow extensão do plano
 
-Se pretender pedir uma extensão de plano para o **Fluxo da Microsoft** ou **PowerApps** e o locatário já tiver utilizadores activos de uma das seguintes funcionalidades, não é necessário para o ficheiro de um pedido de suporte.
+Se pretende solicitar uma extensão do plano para o **Microsoft Flow** ou **PowerApps** e o seu inquilino já tem utilizadores ativos de uma das seguintes funcionalidades, não há necessidade de apresentar um pedido de suporte.
 
-- Criação e publicação dos conectores personalizados em PowerApps e Microsoft Flow
-- Acções personalizadas HTTP integradas no fluxo fora do SharePoint e OneDrive
-- Integração de dados local através do gateway de dados local
+- Criação e publicação de conectores personalizados em PowerApps e Microsoft Flow
+- HTTP ações personalizadas integradas no Flow fora do SharePoint e OneDrive
+- Integração de dados no local através da porta de dados no local
 
-Os clientes com utilizadores do active destas funcionalidades irão obter uma extensão automática até 31 de Janeiro de 2020, ou a expiração do seu mandato de subscrição do Office 365 existente, consoante o que for mais longo.
+Os clientes com utilizadores ativos destas funcionalidades terão uma extensão automática até 31 de janeiro de 2020, ou a expiração do prazo de subscrição existente do Microsoft 365, o que for mais longo.

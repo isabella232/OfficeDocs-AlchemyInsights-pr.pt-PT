@@ -1,9 +1,9 @@
 ---
-title: Cartão de crédito recusada
+title: Cartão de Crédito Recusado
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: d02f2cfdc867e54896945a8c9efd119a9b87a5d3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665216"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705096"
 ---
-# <a name="declined-credit-card"></a>Cartão de crédito recusada
+# <a name="declined-credit-card"></a>Cartão de crédito recusado
 
-Se pagar através de cartão de crédito e este for recusado, receberá um e-mail a informar que não conseguimos processar o seu pagamento. Certifique-se de que os [Detalhes do cartão de crédito](https://go.microsoft.com/fwlink/p/?linkid=842054) - número de cartão, data de expiração, o nome no cartão de crédito e o endereço, incluindo a cidade, estado e código postal - aparecem exactamente como no cartão de crédito e do extracto do cartão de crédito. Pode actualizar as informações do cartão de crédito e enviar imediatamente o pagamento, utilizando a opção **liquidar o saldo** na página de [Serviços de & de produtos](https://go.microsoft.com/fwlink/p/?linkid=842054) . 
+Se pagar através de cartão de crédito e este for recusado, receberá um e-mail a informar que não conseguimos processar o seu pagamento. Verifique duas vezes se os dados do [cartão](https://go.microsoft.com/fwlink/p/?linkid=842054) de crédito - número do cartão, data de validade, nome no cartão de crédito, e endereço, incluindo cidade, estado e código POSTAL - aparecem exatamente como no cartão de crédito e no extrato do seu cartão de crédito. Pode atualizar as informações do seu cartão de crédito e submeter imediatamente o pagamento utilizando a opção de **saldo de Liquidação** na página [de serviços & Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054) 
 
-Para obter mais informações, consulte "o que acontece se meu cartão de crédito expirou e o pagamento está atrasado?" no [pagamento para o Office 365 para a subscrição de negócio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Para saber mais, veja "E se o meu cartão de crédito expirou e o meu pagamento já passou?" em [Pay for your Microsoft 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
 Se continuar a ver a mensagem "recusado", contacte o seu banco. É possível que o seu cartão de crédito não se encontre ativo: por exemplo, se recebeu recentemente o cartão de crédito no correio com a data de validade atualizada, ainda poderá ter de o ativar. O seu banco também pode informá-lo se o seu cartão de crédito não tiver autorização para realizar transações online, internacionais ou periódicas.  
   
-Para obter informações adicionais consulte [cartões de crédito de resolução de problemas e contas bancárias](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Para obter informações adicionais consulte cartões de [crédito e contas bancárias](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

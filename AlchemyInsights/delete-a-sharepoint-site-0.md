@@ -1,9 +1,9 @@
 ---
-title: Excluir um site sharepoint
+title: Eliminar um site do SharePoint
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 7/30/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,43 +11,43 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: aa881dd6618f6912b854929db625f4cbaeb048d7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36514064"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705024"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Excluir sites que pertencem a um grupo do Office 365
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Eliminar sites que pertencem a um grupo do Office 365
 
-Quando os usuários criam um novo site de equipe a partir do SharePoint Home ou você cria um novo site de equipe do novo centro de administração do SharePoint, um grupo correspondente do Office 365 é criado automaticamente. Os sites de equipe conectados ao grupo do Office 365 também são criados quando você cria um grupo do Office 365 ou uma equipe do Microsoft Teams. Para excluir um site do SharePoint que pertence a um grupo do Office 365, você precisa excluir o próprio grupo do Office 365. 
+Quando os utilizadores criam um novo site de equipa a partir do SharePoint Home ou criam um novo site de equipa a partir do novo centro de administração do SharePoint, é criado automaticamente um grupo correspondente do Office 365. Os sites de equipas ligados ao grupo office 365 também são criados quando cria um grupo do Office 365 ou uma equipa em Microsoft Teams. Para eliminar um site sharePoint que pertence a um grupo office 365, você precisa eliminar o próprio grupo Office 365. 
   
-1. Vá para a [página grupos do centro de administração Microsoft 365](https://portal.office.com/adminportal/home#/groups).
+1. Vá à [página de Grupos do centro de administração microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
-2. Selecione a caixa de seleção ao lado do grupo.
+2. Selecione a caixa de verificação ao lado do grupo.
     
-3. Selecione **excluir**.
+3. **Selecione Eliminar**.
     
-NOTA: Quando você exclui um grupo, pode haver um atraso antes que o site seja removido do SharePoint.
+NOTA: Quando eliminar um grupo, pode haver um atraso antes de o site ser removido do SharePoint.
   
-**Excluir sites de comunicação ou sites clássicos:**
+**Eliminar sites de comunicação ou sites clássicos:**
 
-1. Vá ao local.
+1. Vai para o local.
   
-2. Clique no ícone **configurações** no canto superior direito. 
+2. Clique no ícone **Definições** no canto superior direito. 
   
-3. Clique **nas configurações**do site. De acordo com **as informações** do site ou as ações do **site,** clique **em excluir este site**e, em seguida, clique em **Excluir**.
+3. Clique nas **definições do Site**. No **site Information** or **Site Actions,** clique em **Apagar este site**e, em seguida, clique em **Eliminar**.
   
-**Excluir uma coleção do site SharePoint:**
+**Eliminar uma coleção de site SharePoint:**
 
-Para excluir um site:
+Para eliminar um site:
   
-1. No novo centro de administração do SharePoint, na página dos sites, clique na caixa de **seleção** ao lado do site que deseja excluir. 
+1. No novo centro de administração do SharePoint, na página 'Sites', clique na caixa de **verificação** ao lado do site que pretende eliminar. 
     
-2. Na barra de ferramentas da fita, clique **em Excluir.**
+2. Na barra de ferramentas da fita, clique em **Apagar.**
     
-**Excluiu um local por acidente?**
+**Apagou um local por acidente?**
 
-Veja [restaurar uma coleção de site excluída.](https://go.microsoft.com/fwlink/?linkid=867660)
+Ver [Restaurar uma coleção de site eliminada](https://go.microsoft.com/fwlink/?linkid=867660).
   
 

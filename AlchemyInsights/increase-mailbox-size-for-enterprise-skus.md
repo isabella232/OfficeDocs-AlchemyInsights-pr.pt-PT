@@ -1,9 +1,9 @@
 ---
-title: Aumentar o tamanho da caixa de correio para SKUs de empresa
+title: Aumentar o tamanho da caixa de correio para Empresas SKUs
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: c7c7c3d17bb0be0a31c80b39b587f1e085a12d84
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: cc3842bf7226079b8542cb95aa0cdbf00d95361f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739288"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671252"
 ---
-# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>O que fazer se o tamanho da caixa de correio já está a ser 100GB
+# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>O que fazer se o tamanho da sua caixa de correio já for de 100GB
 
-Com um plano E3 ou E5, o tamanho da caixa de correio já está a ser 100 GB e não é possível para o aumentar. Em vez disso, eliminar correio electrónico antigo ou activar o arquivo armazená-lo na nuvem de correio electrónico. 
+Com um plano E3 ou E5, o tamanho da sua caixa de correio já é de 100 GB, e não há como aumentá-lo. Em vez disso, apague o e-mail antigo ou ligue o arquivo de e-mail para armazená-lo na nuvem. 
   
-Para activar o arquivo de correio electrónico:
+Para permitir o arquivamento de e-mails:
   
-1. No Centro de administração de Microsoft 365, vá para **centros de Admin** \> **Exchange**. 
+1. No centro de administração da Microsoft 365, vá aos **centros** \> de administração **Exchange.** 
     
-2. Escolher **destinatários** \> **caixas de correio**e, seleccione uma caixa de correio. 
+2. Escolha caixas de \> **correio** **destinatários** e selecione uma caixa de correio. 
     
-3. No painel de detalhes em **Arquivo no local**, seleccione **Activar**. 
+3. Nos detalhes, em que se lecione em **Arquivo In-Place,** escolha **Ativação**. 
     
-4. Após alguns minutos, uma nova pasta aparecerá no Outlook do utilizador na web chamado *Arquivo no local* ou na aplicação do Outlook denominado *arquivo Online - \<nome\> * . O utilizador pode arrastar e largar a mensagem de correio electrónico para o arquivo. 
+4. Após alguns minutos, uma nova pasta aparecerá no Outlook do seu utilizador na web chamada *In-Place Archive* , ou na aplicação Outlook chamada *Arquivo Online \<- nome\> * . O utilizador pode arrastar e largar e-mails para o arquivo. 
     
-Pode aceder a uma quantidade ilimitada de armazenamento para o arquivo. Para obter mais informações, consulte [Activar o arquivo ilimitado](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
+Você pode aceder a uma quantidade ilimitada de armazenamento para arquivamento. Para saber mais, consulte [Permitir arquivamento ilimitado.](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving)
   
 

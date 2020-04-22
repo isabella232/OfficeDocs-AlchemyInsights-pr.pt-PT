@@ -1,22 +1,22 @@
 ---
-title: São o está a ver correio electrónico atrasos ou colocados em fila de impressão?
+title: Está a ver atrasos de e-mail ou e-mail em fila?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: 285ad9e856390dc0cba10ebed9aae07461de3e14
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ae90583cc93653a615b5f1abdaa699b52a8b8af5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765309"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703798"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a>São o está a ver correio electrónico atrasos ou colocados em fila de impressão?
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Está a ver atrasos de e-mail ou e-mail em fila?
 
-Começámos recentemente preterir antigos pontos finais de SMTP do Office 365. Estes valores de destino do Office 365 estavam disponíveis para utilizar em registos MX e anfitriões avançados antes de 2012. Se ainda estiver a utilizar um destes valores antigos, terá de actualizar o ponto final do Office 365 para um valor suportado. Para mais informações, consulte este [suporte KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+Recentemente começamos a depreciar os pontos finais sMTP mais antigos. Estes valores de destino estavam disponíveis para serem utilizados em registos MX e anfitriões inteligentes antes de 2012. Se ainda estiver a usar um destes valores mais antigos, terá de atualizar o ponto final para um valor suportado. Para mais informações, consulte este [suporte KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).

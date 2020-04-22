@@ -1,9 +1,9 @@
 ---
-title: Editar o perfil de facturação para aplicações
+title: Editar perfil de faturação para apps
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: 6edfe19d9b4f75f93e80fac3f36d6b94b40f661a
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606867"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703906"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Editar o perfil de facturação para aplicações
+# <a name="edit-billing-profile-for-apps"></a>Editar perfil de faturação para apps
 
-## <a name="to-change-the-billing-profile-on-apps"></a>Para alterar o perfil de facturação em aplicações
+## <a name="to-change-the-billing-profile-on-apps"></a>Para alterar o perfil de faturação em apps
 
-1. Vá para a **Facturação** > [& de produtos serviços](https://go.microsoft.com/fwlink/p/?linkid=842054) da página, em seguida, seleccione o separador de **aplicações** .
+1. Vá à página de[serviços de & produtos](https://go.microsoft.com/fwlink/p/?linkid=842054) de **faturação** > e, em seguida, escolha o separador **Apps.**
 
-2. Localize e seleccione a aplicação que pretende gerir.  
+2. Encontre e selecione a aplicação que pretende gerir.  
 
-3. Junto de **perfil de facturação**, seleccione **Editar** e escolher o perfil de facturação que deseja associar a aplicação.
+3. Ao lado do perfil de **Faturação**, selecione **Editar** e escolha o perfil de faturação que gostaria de associar à app.
 
-## <a name="edit-billing-profiles"></a>Editar perfis de facturação
+## <a name="edit-billing-profiles"></a>Editar perfis de faturação
 
-1. Vá para a **Facturação** > [pagamentos de & de títulos](https://go.microsoft.com/fwlink/p/?linkid=848039) de página e, em seguida, escolha a **perfis de facturação**.
+1. Vá à página de[pagamentos de](https://go.microsoft.com/fwlink/p/?linkid=848039) **Faturas** > & e, em seguida, escolha **perfis de Faturação**.
 
-2. Escolha o perfil de facturação da lista para o editar.
+2. Escolha o perfil de faturação da lista para editar.

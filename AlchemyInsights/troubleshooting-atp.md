@@ -1,34 +1,34 @@
 ---
-title: Resolução de problemas do Office 365 ameaça avançada protecção
+title: Gabinete de Resolução de Problemas 365 Advanced Threat Protection
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: b4358fb55a1145833510c6063b520d822f2d1eaf
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c90c8e9cb23cba93883cc1148fcbca77c9e92408
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765317"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732413"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Resolução de problemas do Office 365 ameaça avançada protecção
+# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Gabinete de Resolução de Problemas 365 Advanced Threat Protection
 
-- Já reparou atrasos na entrega de mensagens? Utilize a opção de [Entrega dinâmicos](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) na política de anexos seguros ATP. Isto ajudará a evitar atrasos de mensagem enquanto protege os destinatários de ficheiros maliciosos.
+- Nota atrasos na entrega de mensagens? Utilize a opção [de entrega dinâmica](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) na sua política de anexos seguros ATP. Isto ajudará a evitar atrasos de mensagens enquanto protege os destinatários de ficheiros maliciosos.
 
-- Confirma que deseja comunicar falsos positivos ou de falsos negativos à Microsoft? Utilize esta [hiperligação](https://www.microsoft.com/wdsi/filesubmission/) para submeter ficheiros para análise.
+- Deseja reportar falsos positivos ou falsos negativos à Microsoft? Utilize este [link](https://www.microsoft.com/wdsi/filesubmission/) para submeter ficheiros para análise.
 
-- Sabia que pode activar a protecção de ligações seguras de correio electrónico interno enviada entre destinatários dentro da organização? Siga estes passos:
+- Sabia que pode ativar a proteção safe Links para e-mail interno enviado entre destinatários dentro da sua organização? Siga estes passos:
 
-  1. Vá para [https://protection.office.com](https://protection.office.com) e inicie sessão com uma conta de administrador de segurança ou administrador global.
+  1. Vá [https://protection.office.com](https://protection.office.com) e assine com uma conta de administrador global ou administrador de segurança.
 
-  2. No painel de navegação do lado esquerdo, em **Gestão de ameaça**, escolher **política** \> **Ligações seguras**.
+  2. No painel de navegação à esquerda sob gestão de **ameaças,** escolha **Ligações Seguras**de **Política** \> .
 
-  3. Na secção de **políticas que se aplicam a toda a organização** , seleccione a política e clique em **Editar**.
+  3. Nas **Políticas aplicáveis a toda a** secção da organização, selecione a política e clique em **Editar**.
 
-  4. Em **Definições**, Active **ligações seguras de aplicar a mensagens enviadas dentro da organização**.
+  4. Em **Definições,** ative **aplicar links seguros a mensagens enviadas dentro da organização**.

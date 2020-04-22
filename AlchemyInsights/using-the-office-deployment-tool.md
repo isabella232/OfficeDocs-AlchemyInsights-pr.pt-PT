@@ -1,8 +1,8 @@
 ---
-title: Utilizando a ferramenta de implementação do Office
+title: Utilização da ferramenta de implantação do escritório
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,35 +11,35 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: 874bb7883bca4f062e85963a6828a771cd2dad9b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531586"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726259"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>Utilizando a ferramenta de implementação do Office (ODT)
+# <a name="using-the-office-deployment-tool-odt"></a>Utilização da ferramenta de implantação do escritório (ODT)
 
-Utilize a ferramenta de implementação do Office (ODT) para implementar o Office 365 versões do Office. A ferramenta de implementação do Office (setup.exe) é executada a partir da linha de comandos e utiliza um ficheiro XML de configuração para determinar quais as definições a aplicar quando implementar o Office.
+Utiliza a Ferramenta de Implantação do Office (ODT) para implementar versões do Office 365 do Office. A Ferramenta de Implantação do Office (setup.exe) é executada a partir da linha de comando e utiliza um ficheiro XML de configuração para determinar quais as definições a aplicar ao implementar o Office.
   
-1. Transferir a versão mais recente da ferramenta de implementação do Office a partir do [Centro de transferências da Microsoft](http://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. Descarregue a versão mais recente da Ferramenta de Implementação do Office a partir do [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).
 
-2. Utilize a [Ferramenta de personalização do Office (PTU)](https://config.office.com) para seleccionar as preferências de implementação e criar o ficheiro XML de configuração. Exportar o ficheiro de configuração e colocá-lo localmente na mesma pasta em que reside o setup.exe.
+2. Utilize a Ferramenta de Personalização do [Office (OCT)](https://config.office.com) para selecionar as suas preferências de implementação e criar o ficheiro XML de configuração. Exportar o ficheiro de configuração e colocá-lo localmente na mesma pasta onde reside a configuração.exe.
 
-    **Nota:** Instalação do Office problemas normalmente ocorrem devido a incorrectamente configurado ou ficheiros de configuração malformatted. Para evitar estes problemas, recomendamos que utilize a ferramenta de personalização do Office para criar o ficheiro de configuração. Também pode importar ficheiros de configuração existentes para a ferramenta de personalização do Office.
+    **Nota:** Os problemas de instalação do escritório ocorrem geralmente devido a ficheiros de configuração mal configurados ou mal formados. Para evitar tais problemas, recomendamos que utilize a Ferramenta de Personalização do Office para criar o ficheiro de configuração. Também pode importar ficheiros de configuração existentes na Ferramenta de Personalização do Office.
 
-3. A partir de uma linha de comandos elevada, mude para a localização onde reside a setup.exe e executar a ferramenta de implementação do Office no modo de transferência e especifique o ficheiro de configuração que acabou de guardar. Neste exemplo, o ficheiro de configuração é denominado Configuration.xml:
+3. A partir de um pedido de comando elevado, altere para o local onde a configuração.exe reside e execute a Ferramenta de Implementação do Office no modo de descarregamento e especifique o ficheiro de configuração que acabou de guardar. Neste exemplo, o ficheiro de configuração chama-se Configuração.xml:
     
   ```
   setup.exe /download Configuration.xml  
   ```
 
-4. Executar a ferramenta de implementação do Office no modo de configurar e especifique o ficheiro de configuração.
+4. Executar a ferramenta de implantação do office no modo configurar e especificar o ficheiro de configuração.
     
   ```
   setup.exe /configure Configuration.xml
   ```
 
-    **Nota:** Tem de executar este passo do computador cliente no qual pretende instalar o Office e tem de ter permissões de administrador local nesse computador.
+    **Nota:** Tem de executar este passo a partir do computador cliente no qual pretende instalar o Office e tem de ter permissões de administrador local nesse computador.
 
-Para mais informações sobre como utilizar a ferramenta de implementação do Office para os Office 365 ProPlus cenários de implementação, consulte [Descrição geral da ferramenta de implementação do Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Para obter mais detalhes sobre como utilizar a ferramenta de personalização do Office, consulte [Descrição geral da ferramenta de personalização do Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Para saber mais sobre a utilização da Ferramenta de Implementação do Office para as suas Aplicações Microsoft 365 para cenários de implementação da empresa, consulte a [visão geral da ferramenta de implementação do Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Para mais detalhes sobre como utilizar a ferramenta de personalização do escritório, consulte a [visão geral da ferramenta de personalização do office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).

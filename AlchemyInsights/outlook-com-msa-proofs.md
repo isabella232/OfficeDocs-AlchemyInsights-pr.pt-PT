@@ -1,9 +1,9 @@
 ---
-title: Provas de Outlook.com MSA
+title: Outlook.com provas de MSA
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,24 +15,24 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 7a547841700f739f59ac17969e444f781093fb2e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79fcfdd0bd7336167b06aac5180411fede3e3607
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535978"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43745912"
 ---
 # <a name="security-info-and-security-codes"></a>Informações de segurança e códigos de segurança
 
 Para adicionar informações de segurança à sua conta Microsoft:
 
-1. Iniciar sessão no [Noções básicas de segurança](https://account.microsoft.com/security) com a sua conta Microsoft.
-1. Seleccione a **informação de contacto de segurança**.
-1. Seleccione **Adicionar informações de segurança** e siga as instruções para introduzir um endereço de número ou mensagem de correio electrónico do telefone.
-1. Irá receber um código de segurança a esse endereço de número ou mensagem de correio electrónico do telefone. Introduza o código de segurança que recebeu na janela de **informação de segurança de adicionar** e seleccione **seguinte**.
+1. Inscreva-se nos [fundamentos de Segurança](https://account.microsoft.com/security) com a sua conta Microsoft.
+1. Selecione **informações**de contacto de segurança .
+1. Selecione **Adicionar informações de segurança** e seguir as instruções para introduzir um número de telefone ou endereço de e-mail.
+1. Receberá um código de segurança nesse número de telefone ou endereço de e-mail. Introduza o código de segurança recebido na janela **adicionar informações** de segurança e selecione **Next**.
 
-Se pretender remover um telefone número ou endereço electrónico, seleccione **Remover** junto do mesmo.
+Se pretender remover um número de telefone ou endereço de e-mail, selecione **Remover** ao lado.
 
-Se pretender alterar o número de telefone ou endereço de correio electrónico recebe alertas de segurança, seleccione **alterar opções de alerta**.
+Se pretender alterar o número de telefone ou endereço de e-mail que recebe alertas de segurança, selecione **opções**de alerta de alteração .
 
-Para obter mais informações, leia o [Microsoft security info e verificação códigos de contas](https://support.microsoft.com/help/12428/).
+Para saber mais, leia as informações de segurança da conta da Microsoft e os códigos de [verificação.](https://support.microsoft.com/help/12428/)

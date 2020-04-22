@@ -1,9 +1,9 @@
 ---
-title: 976-como ativar-litígio-retenção
+title: 976-como-ativar-processo-contencioso
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
-ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
+ms.openlocfilehash: 688b5dd936b22ccfc2f556776a0362d179c37edf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37398638"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720743"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Colocar uma caixa de correio em retenção legal
+# <a name="place-a-mailbox-on-legal-hold"></a>Coloque uma caixa de correio em espera legal
 
-- Para colocar uma caixa de correio em retenção de litígio ou retenção in-loco, uma licença do Exchange Online Plan 2 licença [do Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) é necessária. Se uma caixa de correio for atribuída a uma licença do plano 1, você poderá atribuir uma licença de [complemento](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)de arquivamento do Exchange Online arquivamento de licença do Exchange on-line separada.
+- Para colocar uma caixa de correio em Hold de Contencioso ou No Lugar, é necessária uma licença exchange online de plano 2 do Plano Online de Troca de Licenças Exchange Online [Plan 2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Se for atribuída uma licença de plano 1, pode atribuir uma [licença](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)de add-on de troca online de troca de licença seletiva de troca de licença .
 
-- Para habilitar a retenção de litígio para um único usuário, [siga estas etapas](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Quando a retenção de litígio está habilitada, todo o conteúdo na caixa de correio é preservado.
+- Para ativar o Processo de Espera para um único utilizador, [siga estes passos](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Quando o Litigation Hold estiver ativado, todos os conteúdos na caixa de correio são preservados.
 
-- Para preservar o conteúdo em todas as caixas de correio da sua organização, você pode usar uma [política de retenção do Office 365](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)de toda a organização. Observe que, para políticas de retenção em toda a organização, novos usuários serão atribuídos automaticamente à política.
+- Para preservar conteúdos em todas as caixas de correio da sua organização, pode utilizar uma política de retenção em [toda a organização.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations) Note que, para as políticas de retenção em toda a organização, os novos utilizadores serão automaticamente atribuídos à apólice.

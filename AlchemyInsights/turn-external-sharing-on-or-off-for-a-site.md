@@ -1,9 +1,9 @@
 ---
-title: Activar ou desactivar a partilha de um site externo
+title: Ligue ou desligue a partilha externa para um site
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: c0671e54b9d707bd63c7af275bfc4adc353019c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 031807336e93fbf1862af01bbd78d14d048ac6b3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559168"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732007"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Activar ou desactivar a partilha de um site SharePoint externo
+# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Ligue ou desligue a partilha externa para um site do SharePoint
 
 Para um site:
   
-1. No novo Centro de administração do SharePoint, no painel da esquerda, clique em **sites**.
+1. No novo centro de administração do SharePoint, no painel esquerdo, clique **em sites**.
     
-2. Seleccione o local ou locais e no Friso, clique em **partilhar**.
+2. Selecione o site ou os sites e na fita, clique em **Partilhar**.
     
-Por predefinição, novos sites que os utilizadores criar ambos (sites de equipa que pertençam a grupos do Office 365) e comunicação têm a mesma definição partilha como a definição de toda a organização, a menos que a definição de toda a organização permite a partilha de ficheiros utilizando as hiperligações que não requer início de sessão. Neste caso, os sites permitem a partilha com utilizadores externos novos e existentes que iniciar sessão. Para alterar a definição para sites específicos, utilize o novo Centro de administração do SharePoint.
+Por padrão, os novos sites que os utilizadores criam (ambos os sites de equipa que pertencem ao Office 365 grupos e sites de comunicação) têm a mesma definição de partilha que a definição em toda a organização, a menos que a definição em toda a organização permita a partilha de ficheiros usando links que não requerem iniciar sessão. Neste caso, os sites permitem a partilha com utilizadores externos novos e existentes que se inscrevam. Para alterar a definição para sites específicos, utilize o novo centro de administração do SharePoint.
   
 > [!NOTE]
-> A definição de partilha externa para qualquer site pode ser mais restritiva do que a definição de toda a organização, mas não mais permissivas podem permitir que a definição de toda a organização. 
+> O cenário de partilha externa para qualquer site pode ser mais restritivo do que o ambiente em toda a organização, mas não mais permissivo do que o ambiente em toda a organização. 
   
 

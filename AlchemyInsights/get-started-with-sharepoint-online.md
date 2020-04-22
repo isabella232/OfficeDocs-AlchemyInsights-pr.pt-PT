@@ -1,9 +1,9 @@
 ---
-title: Comece com sharepoint on-line
+title: Começar com o SharePoint Online
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 235bc552a393980423044421b6d43f7e712fbc99
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: cc4fcbb4e1485bac7b788236f28d6c4afaed18dc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36524134"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720858"
 ---
-# <a name="get-started-with-sharepoint-online"></a>Comece com sharepoint on-line
+# <a name="get-started-with-sharepoint-online"></a>Começar com o SharePoint Online
 
-Comece a funcionar com o nosso treinamento de [vídeo on-line SharePoint](https://go.microsoft.com/fwlink/?linkid=866438) e [o guia de início rápido.](https://go.microsoft.com/fwlink/?linkid=866437) Se você estiver procurando um guia passo a passo mais abrangente, siga as etapas do consultor de [implantação on-line SharePoint.](https://portal.office.com/onboarding/sharepointonline#/)
+Prepare-se e a correr com o nosso treino de [vídeo SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866438) e [guia de início rápido](https://go.microsoft.com/fwlink/?linkid=866437). Se procura um guia mais abrangente e passo a passo siga os passos no consultor de [implementação SharePoint Online.](https://portal.office.com/onboarding/sharepointonline#/)
   
 

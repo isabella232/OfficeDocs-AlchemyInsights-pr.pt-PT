@@ -1,8 +1,8 @@
 ---
-title: Incidentes de serviço em curso
+title: Incidente de serviço em andamento
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -18,19 +18,19 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: 7512c264fafddb993683929ad7ccc2a50ffc691c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c667331c4ba4f5fd7b03f0f8a7f26c669ddde6df
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550634"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719742"
 ---
-# <a name="service-incident-in-progress"></a>Incidentes de serviço em curso
+# <a name="service-incident-in-progress"></a>Incidente de serviço em andamento
 
-Poderá ser afectado por um acidente de serviço ou consultivo que está actualmente a ser investigado. Pode verificar o estado mais recente, ir para a página de [Estado de funcionamento do serviço](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Pode ser afetado por um incidente de serviço ou aconselhamento que está a ser investigado. Pode verificar o estado mais recente indo para a página [de Saúde de Serviço.](https://admin.microsoft.com/adminportal/home#/servicehealth)
   
-Para sua comodidade, pode encontrar um resumo deste incidente abaixo:
+Para sua conveniência, você pode encontrar um resumo deste incidente abaixo:
   
-> **Número de incidente:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Número do incidente:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Impacto Descrição: {ImpactDescription}
+> Descrição do impacto: {ImpactDescription}

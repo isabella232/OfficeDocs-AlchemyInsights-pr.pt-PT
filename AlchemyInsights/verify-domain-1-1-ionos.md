@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 429817368bac921f383d93e9d070d1bb8df9da59
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: 02809440344fc9cd9329d56b1c67dd0b47947c82
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42326350"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726151"
 ---
 # <a name="verify-your-domain-with-11-ionos"></a>Verifique o seu domínio com 1&1 IONOS
 
@@ -23,4 +23,4 @@ Para verificar o seu domínio, terá de adicionar um registo TXT ao seu registo 
 
 Em primeiro lugar, siga o assistente de [domínio adicionar](https://portal.office.com/adminportal/home#/Domains) selecionando **domínios**de **definições** \> **e,** em seguida, adicione domínio .
   
-Consulte [os registos DeNs 1&1 IONOS para o Office 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) para obter instruções passo a passo.
+Consulte [os registos DeND 1&1 IONOS para o Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) para obter instruções passo a passo.

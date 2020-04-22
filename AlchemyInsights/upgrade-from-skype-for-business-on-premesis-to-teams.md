@@ -1,5 +1,5 @@
 ---
-title: Atualizar do Skype for Business no local para equipes
+title: Upgrade do Skype para Negócios em instalações para Equipas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 6b3e7944a8035865fa8ef1a170b22a5aa39eb8b7
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: b78662e68e053b8b94349032d80ac9bb4fbc0d64
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305272"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43727298"
 ---
-# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Atualizar do Skype for Business no local para equipes
+# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Upgrade do Skype para Negócios em instalações para Equipas
 
-Se você implantou o Skype for Business ou o Microsoft Lync no local e sua organização deseja atualizar para equipes, siga as orientações no artigo abaixo. Você precisará configurar a conectividade híbrida com seu locatário do Office 365 e, em seguida, mover os usuários para equipes e atribuí-los o modo de coexistência e atualização apropriado. 
+Se implementou o Skype para Negócios ou Microsoft Lync nas instalações e a sua organização quer fazer upgrade para As Equipas, siga as orientações no artigo abaixo. Você precisará configurar a conectividade híbrida com o seu inquilino, e depois mover os seus utilizadores para As Equipas e atribuir-lhes o modo de coexistência e upgrade apropriado. 
 
-[Atualizar do Skype para negócios no local para equipes](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Upgrade do Skype para negócios no local para equipas](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 

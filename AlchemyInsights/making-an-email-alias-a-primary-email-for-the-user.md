@@ -1,9 +1,9 @@
 ---
-title: 723 Fazendo um e-mail alias um e-mail primário para o usuário
+title: 723 Fazer um e-mail pseudónimo um e-mail primário para o utilizador
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: 3e22655c7408863915ab22389f70d10956839ad8
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c21e57befaf770301a7c8a42dd3ff9ff92394b70
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36735256"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721958"
 ---
-# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Faça um pseudônimo de e-mail o endereço principal para um usuário
+# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Faça um e-mail pseudónimo o endereço principal para um utilizador
 
-Para obter instruções, consulte adicionar outro pseudônimo de [e-mail para um usuário.](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
+Para obter instruções, consulte [Adicionar outro pseudónimo de e-mail para um utilizador](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).
 
-**Nota:** Se sua organização estiver no modo Híbrido, você precisa alterar o endereço de e-mail principal em sua organização de troca local. Para mais informações, [consulte adicionar ou remover endereços de e-mail para uma caixa de correio.](https://technet.microsoft.com/library/bb123794.aspx)
+**Nota:** Se a sua organização estiver em modo Híbrido, terá de alterar o endereço de e-mail primário na organização de intercâmbio no local. Para mais informações, consulte Adicionar ou remover endereços de [e-mail para uma caixa de correio](https://technet.microsoft.com/library/bb123794.aspx).

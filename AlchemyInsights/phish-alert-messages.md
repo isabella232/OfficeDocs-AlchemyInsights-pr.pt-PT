@@ -1,38 +1,38 @@
 ---
-title: Mensagens de correio electrónico de alerta 2491 da política 'Override entregues linha devido a residentes ou de utilizador'
+title: 2491 Mensagens de e-mail de alerta da política 'Phish Delivered devido a inquilino ou utilizador override'
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 456b186ecea59422c791c79d4df056ad8446bc70
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 2e4efd504304da757687e697ff23374aeea31851
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391452"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758940"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Mensagens de correio electrónico de alerta da política 'Override entregues linha devido a residentes ou de utilizador'
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Alerte as mensagens de correio eletrónico da política 'Phish Delivered devido a inquilino ou utilizador'
 
-Uma alerta a política predefinida denominada "Linha entregue devido a substituição de arrendamento ou de utilizador" tiver sido efectuada a arrendatários com licenças do Office 365 ATP P1 e P2. Se tiver recebido este alerta, seguem-se os passos para investigar:
+Uma política de alerta padrão chamada "Phish Delivered devido a substituição de inquilino ou utilizador" foi lançada aos inquilinos com licenças ATP P1 e P2 do Office 365 ATP. Se recebeu este alerta, aqui estão os passos para investigar:
 
-1. A mensagem de alerta, clique em **Ver alerta** para ir para a página **alertas** em & o Security Center de conformidade.
+1. A partir da mensagem de alerta, clique em **Ver Alerta** para ir à página **alertas** no Centro de Segurança & Compliance.
 
-2. Seleccione o alerta para vir a opção para **Ver a lista de mensagem** ou **visualizar mensagens do Explorer**. Ambas as opções apresentam os detalhes da mensagem, que inclui o ID de mensagem. Tenha em atenção que a ligação de ameaça Explorer automaticamente vai filtrar as mensagens que correspondam aos critérios de alertas. Poderá pretender ajustar o filtro de data no Explorador de ameaça.
+2. Selecione o alerta para ver a opção de ver a lista de **mensagens** ou **ver mensagens no Explorer**. Ambas as opções levam-no aos detalhes da mensagem, que inclui o ID da Mensagem. Note que a ligação Do Explorador de Ameaças filtrará automaticamente as mensagens que correspondem aos critérios de alerta. Pode ser necessário ajustar o filtro de data no Threat Explorer.
 
-A mensagem de phishing foi entregue devido a uma substituição configurada manualmente:
+A mensagem de phishing foi entregue devido a uma sobreposição manualmente configurada:
 
-- Um permitido remetente ou domínio definidas pelo utilizador.
+- Um remetente ou domínio permitido definido pelo utilizador.
 
-- Um permitido remetente ou domínio definido pelo administrador de uma política anti-spam.
+- Um remetente ou domínio permitido definido pelo administrador numa política anti-correio publicitário não solicitado.
 
 - Um endereço IP permitido numa política de filtro de ligação.
 
-- Uma fluxo regra de correio (também conhecido como uma regra de transporte) que está configurada para permitir mensagens.
+- Uma regra de fluxo de correio (também conhecida como regra de transporte) que é configurada para permitir a entrada de mensagens.
 
-Se pensa que a mensagem foi marcada incorrectamente como phish, utilize o Outlook [suplemento de mensagem de relatório](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) para submeter amostras de mensagem para a Microsoft.
+Se acreditar que a mensagem foi incorretamente marcada como phish, utilize o [add-in](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) outlook report Message para enviar amostras de mensagens à Microsoft.

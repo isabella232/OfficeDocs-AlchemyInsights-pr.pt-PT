@@ -1,9 +1,9 @@
 ---
-title: 'Regras da pasta a receber: A operação falhou'
+title: 'Regras da caixa de entrada: A operação falhou'
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/29/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "1544"
 - "1800021"
-ms.openlocfilehash: c36201e45945f4a718fc67682f8e1c94a012778e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f9b0f8250724a2d2049a5d4b5358727ced31777b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499694"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724639"
 ---
-# <a name="rules-and-alerts-error-the-operation-failed"></a>Regras e alertas de erro: "A operação falhou"
+# <a name="rules-and-alerts-error-the-operation-failed"></a>Regras e Alertas erro: "A Operação falhou"
 
-Poderá ver um erro de regras da pasta a receber depois de instalar as seguintes actualizações:
+Pode ver um erro de regras da Caixa de Entrada após a instalação das seguintes atualizações:
 
-- [2016 do Outlook: Actualização de segurança de Novembro KB](https://support.microsoft.com/help/4461506)
-- [Outlook 2013: Actualização de segurança Novembro KB](https://support.microsoft.com/help/4461486)
-- [Outlook 2010: Actualização de segurança Novembro KB](https://support.microsoft.com/help/4461585)
+- [Outlook 2016: November Security Update KB](https://support.microsoft.com/help/4461506)
+- [Outlook 2013: November Security Update KB](https://support.microsoft.com/help/4461486)
+- [Outlook 2010: November Security Update KB](https://support.microsoft.com/help/4461585)
 
-Pode ver o estado mais recente deste problema conhecido visitando [erro do Outlook: "a operação falhou..." Quando seleccionar regras gerir alertas de &](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).
+Pode ver o estado mais recente desta edição conhecida visitando [o Outlook Error: "A operação falhou..." ao selecionar Regras de Gestão & Alertas](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).

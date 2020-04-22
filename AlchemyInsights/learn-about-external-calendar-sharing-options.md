@@ -1,9 +1,8 @@
 ---
-title: 898 obter informações sobre opções de partilha do calendário externo
+title: 898 Conheça as opções externas de partilha de calendários
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 5/30/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +11,13 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 564d8ab4c98d793db68aca46087e37414fd5ab55
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 46a114987abc185d1ca5f390fc212fd6873b01e2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735508"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762904"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a>Obter informações sobre opções de partilha do calendário externo
+# <a name="learn-about-external-calendar-sharing-options"></a>Conheça as opções externas de partilha de calendários
 
-Se necessitar de agendar reuniões com pessoas fora da organização, Office 365 permite-lhe criar calendários disponíveis para "utilizadores externos," aqueles que necessitam para ver a disponibilidade de tempo, mas não têm contas de utilizador para o ambiente do Office 365. Para mais informações, consulte [partilhar calendários com utilizadores externos](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).
+Se necessitar de agendar reuniões com pessoas fora da sua organização, o Microsoft 365 permite-lhe disponibilizar calendários a "utilizadores externos", aqueles que precisam de ver tempo livre/ocupado, mas não têm contas de utilizador para o seu ambiente Microsoft 365. Para mais informações, consulte [Partilhar calendários com utilizadores externos](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).

@@ -1,8 +1,8 @@
 ---
-title: Gerenciamento de usuários do Yammer
+title: Gestão de Utilizadores Yammer
 ms.author: pebaum
 author: pebaum
-ms.date: 5/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,29 +11,29 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1a7d3aa3512732dd245856c3746aff7487080cab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734932"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762472"
 ---
-# <a name="managing-yammer-users"></a>Gerenciamento de usuários do Yammer
+# <a name="managing-yammer-users"></a>Gerir utilizadores yammer
 
-1. Para obter informações sobre o gerenciamento de usuários do Yammer do Office 365, consulte [usuários do Manage Yammer em todo o seu ciclo de vida do Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Isso inclui detalhes sobre:
+1. Para obter informações sobre a gestão dos utilizadores de Yammer a partir do Microsoft 365, consulte [os utilizadores do Manage Yammer ao longo](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle)do seu ciclo de vida . Isto inclui detalhes sobre:
 
-  - Criar um usuário
+  - Criar um utilizador
 
-  - Excluindo usuários
+  - Apagar utilizadores
 
-  - Gerenciando usuários do Yammer do Office 365
+  - Gerir utilizadores yammer da Microsoft 365
 
-2. Consulte [adicionar, bloquear ou remover usuários do Yammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) para obter informações sobre o gerenciamento de usuários do console de administração Yammer. Isso inclui:
+2. Consulte [adicionar, bloquear ou remover utilizadores yammer](https://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) para obter informações sobre a gestão dos utilizadores da consola de administração Yammer. Isto inclui:
 
-  - Convidar ou remover usuários
+  - Convidar ou remover utilizadores
 
-  - Convidar usuários convidados
+  - Convidando os utilizadores convidados
 
-  - Exportar a lista de usuários
+  - Exportação da lista de utilizadores
 
-3. Para obter informações sobre a adição, remoção e gerenciamento de [usuários externos, consulte adicionar participantes de mensagens externas à sua rede Yammer](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).
+3. Para obter informações sobre a adição, remoção e gestão de utilizadores [externos, consulte Adicionar os participantes de mensagens externas à sua rede Yammer](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).

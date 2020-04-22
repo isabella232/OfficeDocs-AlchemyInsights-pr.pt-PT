@@ -1,9 +1,9 @@
 ---
-title: Ficheiro. pst de reparação antes de importar
+title: Reparação .arquivo pst antes de importar
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 3f273d9807a20048f33ce476e091ee2122a773d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 518543f664873c99d5f296284199cd417c620e00
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552434"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720148"
 ---
-# <a name="repair-pst-file-before-importing"></a>Ficheiro. pst de reparação antes de importar
+# <a name="repair-pst-file-before-importing"></a>Reparação .arquivo pst antes de importar
 
-Antes de importar um ficheiro. pst no Outlook, verifique se que o ficheiro não está danificado, a reparação do ficheiro:
+Antes de importar um ficheiro .pst no Outlook, verifique se o ficheiro não é corrompido reparando o ficheiro:
 
-1. Saia do Outlook.
+1. Exit Outlook.
 
-2. Localize e execute `Scanpst.exe` na pasta de programa do Office (C:\Program Files (x86) \Microsoft Office\root\Office\<versão\> ou C:\Program Files\Microsoft Office\root\Office\<versão\>).
+2. Encontre e `Scanpst.exe` corra na pasta do programa do Office (C:\Program Files\<(x86)\Microsoft Office\root\Office Version\> ou C:\Program Files\Microsoft Office\root\Office\<Version\>).
 
-3. Na **ferramenta de reparação da pasta a receber do Microsoft Outlook**, clique em **Procurar** para localizar o ficheiro. pst (por exemplo, numa C:\Users\\<username\>\AppData\Local\Microsoft\Outlook). Seleccione o ficheiro. pst e, em seguida, clique em **Abrir**.
+3. Na **ferramenta de reparação** **Browse** de caixas de entrada do Microsoft Outlook, clique em\\ Navegar\>para encontrar o ficheiro .pst (por exemplo, em C:\Utilizadores<nome de utilizador \AppData\Local\Microsoft\Outlook). Selecione o ficheiro .pst e, em seguida, clique em **Abrir**.
 
-4. Clique em **Iniciar** para iniciar a análise.
+4. Clique **em Iniciar** a tomografia.
 
-5. Se forem encontrados erros no ficheiro, clique em **Reparar**e, em seguida, clique em **OK** quando a reparação estiver concluída.
+5. Se forem detetados erros no ficheiro, clique em **Reparar**e, em seguida, clique em **OK** quando a reparação estiver completa.
 
-6. Tente importar novamente o ficheiro. pst no Outlook.
+6. Tente importar o ficheiro .pst no Outlook novamente.
 
-Para mais informações, consulte [ficheiros de dados do Outlook de reparação](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) e [corrigir problemas na importação de um ficheiro. pst do Outlook](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+Para mais informações, consulte os [ficheiros](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) de dados do Repair Outlook e [corrija problemas que importem um ficheiro Outlook .pst](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).

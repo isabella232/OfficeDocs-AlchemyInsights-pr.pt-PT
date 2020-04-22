@@ -3,7 +3,7 @@ title: Aviso de subscrição no cliente do Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,17 @@ ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 03bd18b0ca7af8f3102041c4f6fd604bb29737f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 661ac7b7c7a6556ab22d08e9fc0e8d6e25d7133c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559780"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741874"
 ---
-# <a name="subscription-notice-in-your-office-client"></a>Aviso de subscrição no cliente do Office?
+# <a name="subscription-notice-in-your-office-client"></a>Aviso de subscrição no seu cliente do Office?
 
-Parece que está a ver um aviso no cliente de Office relacionadas com o estado de subscrição do Office 365. Pode encontrar informações sobre como corrigir o problema neste artigo: [aparece um aviso de subscrição quando abro uma aplicação do Office 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
+Parece que está a ver um aviso no seu cliente do Office relacionado com o estado da sua subscrição. Pode encontrar informações sobre como corrigir o problema neste artigo: Um aviso de [subscrição aparece quando abro uma aplicação Microsoft 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
   
-Se a sua subscrição do Office 365 estiver actualizada, poderá ter atingido um problema temporário que causou a activação do Office a falhar. Existem passos simples que pode tomar para evitar estas mensagens, como verificar a hora do computador, executar o Office como administrador e iniciar sessão activar. Pode encontrar passos detalhados para corrigir esses problemas neste artigo: [produto não licenciado e erros de activação do Office](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
+Se a sua subscrição estiver atualizada, pode ter atingido um problema temporário que fez com que a ativação do seu Escritório falhasse. Existem passos simples que pode tomar para evitar estas mensagens, como verificar o tempo do computador, executar o Office como Administrador e iniciar sessão para ativar. Pode encontrar passos detalhados para corrigir esses problemas neste artigo: Produto não licenciado e erros de [ativação](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
   
-Se estes não funcionarem, contacte-nos com as hiperligações abaixo e será satisfeito por ajudar.
-  
+Se estes não funcionarem para si, contacte-nos com os links abaixo e teremos todo o gosto em ajudar.

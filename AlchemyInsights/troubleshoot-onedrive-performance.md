@@ -1,5 +1,5 @@
 ---
-title: Desempenho do OneDrive solucionado de problemas
+title: Desempenho da OneDrive de troubleshoot
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -9,25 +9,25 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 5416da63851de8b0b45e1d5c0cef24b03db40e6e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 197a84c5f69f9e58460925049345263743fe78ee
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054965"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43733209"
 ---
-# <a name="troubleshoot-onedrive-performance"></a>Desempenho do OneDrive solucionado de problemas
+# <a name="troubleshoot-onedrive-performance"></a>Desempenho da OneDrive de troubleshoot
 
-Se você está enfrentando uma sincronização mais lenta do que o esperado, ou problemas de desempenho semelhantes com o OneDrive:
+Se estiver a ter uma sincronização mais lenta do que o esperado, ou problemas de desempenho semelhantes com o OneDrive:
 
-- Confirme que não há problemas conhecidos usando o Painel de Saúde do [Serviço.](https://portal.office.com/adminportal/home?ref=/servicehealth)
+- Confirme que não existem problemas conhecidos usando o Dashboard de [Saúde](https://portal.office.com/adminportal/home?ref=/servicehealth)de Serviço .
 
-- [Ativar arquivos demanda](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-US&rs=en-US&ad=US) para que você possa acessar todos os seus arquivos no OneDrive sem ter que baixar todos eles e usar espaço de armazenamento em seu dispositivo.
+- [Ative ficheiros on demand](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) para que possa aceder a todos os seus ficheiros no OneDrive sem ter de descarregar todos e utilizar espaço de armazenamento no seu dispositivo.
 
-- [Analise as melhores práticas](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) para planejamento e desempenho de rede.
+- [Reveja as melhores práticas](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) para planeamento e desempenho de rede.
 
-- Maximizar a velocidade de [upload e download,](https://support.office.com/article/maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)especialmente se você estiver sincronizando um dispositivo pela primeira vez.
+- [Maximize a velocidade](https://support.office.com/article/maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)de upload e download, especialmente se estiver a sincronizar um dispositivo pela primeira vez.
 
-- Se você está sincronizando uma biblioteca com mais de 100.000 itens, a sincronização Do OneDrive pode parecer presa por muito tempo ou o status mostra processamento de 0KB de xMB." [Saiba mais sobre sincronização de mais de 100.000 arquivos,](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) bem como o [limite suportado do OneDrive de 300.000 arquivos.](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- Se estiver a sincronizar uma biblioteca com mais de 100.000 itens, a sincronização oneDrive pode parecer presa durante muito tempo, ou o estado mostra o processamento de 0KB de xMB." [Saiba mais sobre sincronizar mais de 100.000 ficheiros,](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) bem como o [limite suportado pela OneDrive de 300.000 ficheiros](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
-- Quando um usuário excede os limites de uso, o SharePoint Online limita quaisquer solicitações adicionais dessa conta de usuário por um curto período. Todas as ações do usuário são limitadas enquanto o acelerador estiver em vigor.
+- Quando um utilizador excede os limites de utilização, o SharePoint Online acelera quaisquer pedidos adicionais dessa conta de utilizador por um curto período de tempo. Todas as ações do utilizador são aceleradas enquanto o acelerador está em vigor.

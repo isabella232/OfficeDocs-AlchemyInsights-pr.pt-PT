@@ -3,7 +3,7 @@ title: Restaurar um subsite eliminado
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 82ea3285b7ded867a179d81bb79ef204270eb038
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7da70d293730dcb5df1f13c42252bab58f41711
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552302"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758693"
 ---
 # <a name="restore-a-deleted-sharepoint-subsite"></a>Restaurar um subsite do SharePoint eliminado
 
-Subsites eliminadas são enviadas para a colecção de sites ' Reciclagem ', onde está a mantidos durante dias 93. Para restaurar um subsite eliminado:
+Os subsites apagados são enviados para a recolha do local Recycle Bin, onde são mantidos durante 93 dias. Para restaurar um subsite eliminado:
   
-1. O novo Centro de administração do SharePoint, localizar o site a partir do qual foi eliminado o subsite e certifique-se de que está a uma colecção de sites Administrador. 
+1. No novo centro de administração do SharePoint, encontre o site a partir do qual o subsite foi apagado e certifique-se de que é um administrador de recolha de site. 
     
-2. Ir para o site. Clique em **' Reciclagem '** no painel da esquerda. (Se não vir a ' Reciclagem ', clique no ícone definições e, em seguida, clique em **conteúdo de Site**. A ' Reciclagem ' encontra-se no extremo direito da barra de comandos na parte superior.)
+2. Vai para o local. Clique no **recipiente de reciclagem** no painel esquerdo. (Se não vir o recipiente de reciclagem, clique no ícone Definições e, em seguida, clique no **conteúdo do Site**. O Caixote do Ciclo está na extrema direita da barra de comando no topo.)
     
-3. Na parte inferior da página, clique em **Reciclagem de segunda fase**.
+3. Na parte inferior da página, clique no **recipiente de reciclagem de segunda fase**.
     
 4. Clique à esquerda do subsite e, em seguida, clique em **Restaurar**.
     

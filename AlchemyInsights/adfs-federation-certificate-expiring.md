@@ -1,9 +1,9 @@
 ---
-title: Certificado da Federação ADFS expirando
+title: Caducidade do certificado da Federação ADFS
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: eafd31e91340b41b7948fb1fe62889731b816d9a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 14e7da6220dfa96edca5d9ec5c32e003480a9eaf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36737200"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710418"
 ---
-# <a name="adfs-federation-certificate-expiring"></a><span data-ttu-id="f2877-102">Certificado da Federação ADFS expirando</span><span class="sxs-lookup"><span data-stu-id="f2877-102">ADFS Federation Certificate Expiring</span></span>
+# <a name="adfs-federation-certificate-expiring"></a><span data-ttu-id="e439d-102">Caducidade do certificado da Federação ADFS</span><span class="sxs-lookup"><span data-stu-id="e439d-102">ADFS Federation Certificate Expiring</span></span>
 
-<span data-ttu-id="f2877-103">Para resolver este problema, siga estas etapas:</span><span class="sxs-lookup"><span data-stu-id="f2877-103">To resolve this issue, follow these steps:</span></span>
+<span data-ttu-id="e439d-103">Para resolver esta questão, siga estes passos:</span><span class="sxs-lookup"><span data-stu-id="e439d-103">To resolve this issue, follow these steps:</span></span>
   
-1. <span data-ttu-id="f2877-104">Instale o Módulo de Diretório Ativo do Microsoft Azure para Windows PowerShell no computador (se o módulo ainda não estiver instalado).</span><span class="sxs-lookup"><span data-stu-id="f2877-104">Install the Microsoft Azure Active Directory Module for Windows PowerShell on the computer (if the module isn't already installed).</span></span> <span data-ttu-id="f2877-105">Para fazer isso, acesse [o AD do Azure usando o Windows PowerShell.](https://aka.ms/aadposh)</span><span class="sxs-lookup"><span data-stu-id="f2877-105">To do this, go to [Manage Azure AD using Windows PowerShell](https://aka.ms/aadposh).</span></span>
+1. <span data-ttu-id="e439d-104">Instale o Módulo de Diretório Ativo Microsoft Azure para windows PowerShell no computador (se o módulo ainda não estiver instalado).</span><span class="sxs-lookup"><span data-stu-id="e439d-104">Install the Microsoft Azure Active Directory Module for Windows PowerShell on the computer (if the module isn't already installed).</span></span> <span data-ttu-id="e439d-105">Para isso, vá para [a Manage Azure AD utilizando o Windows PowerShell](https://aka.ms/aadposh).</span><span class="sxs-lookup"><span data-stu-id="e439d-105">To do this, go to [Manage Azure AD using Windows PowerShell](https://aka.ms/aadposh).</span></span>
 
-2. <span data-ttu-id="f2877-106">Siga os passos na seção "Cenário 1: O certificado de assinatura de tokens AD FS expirou" de "Houve um problema de [acesso ao site" erro de AD FS quando um usuário federado assina para o Office 365, Azure, ou Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).</span><span class="sxs-lookup"><span data-stu-id="f2877-106">Follow the steps in the "Scenario 1: The AD FS token-signing certificate expired" section of ["There was a problem accessing the site" error from AD FS when a federated user signs in to Office 365, Azure, or Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).</span></span>
+2. <span data-ttu-id="e439d-106">Siga os passos na secção "Cenário 1: O certificado de assinatura de token AD caducou" da secção "Houve um problema de [acesso ao site" do erro da AD FS quando um utilizador federado insere na Microsoft 365, Azure ou Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).</span><span class="sxs-lookup"><span data-stu-id="e439d-106">Follow the steps in the "Scenario 1: The AD FS token-signing certificate expired" section of ["There was a problem accessing the site" error from AD FS when a federated user signs in to Microsoft 365, Azure, or Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).</span></span>
 
-3. <span data-ttu-id="f2877-107">Siga as [etapas em Atualização ou repare as configurações de um domínio federado no Office 365, Azure ou Intune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).</span><span class="sxs-lookup"><span data-stu-id="f2877-107">Follow the steps in [Update or repair the settings of a federated domain in Office 365, Azure, or Intune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).</span></span>
+3. <span data-ttu-id="e439d-107">Siga os passos em [Atualizar ou repare as definições de um domínio federado na Microsoft, Azure ou Intune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).</span><span class="sxs-lookup"><span data-stu-id="e439d-107">Follow the steps in [Update or repair the settings of a federated domain in Microsoft, Azure, or Intune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).</span></span>
 
-    <span data-ttu-id="f2877-108">Para saber mais sobre a renovação de certificados da Federação, consulte os certificados da federação Renew para o [Office 365 e o Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)</span><span class="sxs-lookup"><span data-stu-id="f2877-108">To learn more about renewing Federation certificates, see [Renew federation certificates for Office 365 and Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).</span></span>
+    <span data-ttu-id="e439d-108">Para saber mais sobre a renovação dos certificados da Federação, consulte Renovar os certificados da federação para o [Microsoft 365 e o Azure Ative Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).</span><span class="sxs-lookup"><span data-stu-id="e439d-108">To learn more about renewing Federation certificates, see [Renew federation certificates for Microsoft 365 and Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).</span></span>

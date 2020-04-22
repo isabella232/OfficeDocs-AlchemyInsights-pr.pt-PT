@@ -1,9 +1,9 @@
 ---
-title: Não é possível eliminar ficheiros ou fotografias de ficheiros em Outlook.com
+title: Não é possível eliminar fotografias ou ficheiros de Ficheiros em Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,15 +14,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 15ef1ea577b95bdb965d66c6d0cfa81afd6be252
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5ef46e7287e0915fc70857904a44dd802cba6271
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548078"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710778"
 ---
-# <a name="cant-delete-files-or-photos-from-files"></a>Não é possível eliminar ficheiros ou fotografias de ficheiros
+# <a name="cant-delete-files-or-photos-from-files"></a>Não é possível excluir ficheiros ou fotos de Ficheiros
 
-Na Outlook.com, **ficheiros** mostra os ficheiros e fotografias anexadas a mensagens de correio. Para remover ficheiros e fotografias de ficheiros, é necessário eliminar as mensagens de correio electrónico que estão anexadas. Depois de eliminar as mensagens, é também necessário eliminá-los a partir da pasta Itens eliminados.
+Em Outlook.com, os **Ficheiros** mostram os ficheiros e fotografias anexados a mensagens na sua caixa de correio. Para remover ficheiros e fotos dos Ficheiros, é necessário eliminar as mensagens de correio eletrónico a que estão anexadas. Depois de eliminar as mensagens, também precisa de as eliminar da pasta 'Itens Eliminados'.
 
-Para obter mais informações, leia [como eliminar ficheiros ou fotografias em Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).
+Para saber mais, leia [Como eliminar ficheiros ou fotos em Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).

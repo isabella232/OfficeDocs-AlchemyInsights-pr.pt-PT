@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 8ce41d007988f2a45f1ded385ae50ac3def97c1b
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: 569507318b499cdbcf2a1cd75e84046953f62212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100516"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706068"
 ---
 # <a name="conditional-access-policies"></a>Políticas de Acesso Condicional
 
@@ -24,7 +24,7 @@ O Acesso Condicional é uma capacidade do Azure AD que lhe permite impor control
 
 Saiba mais sobre [Acesso Condicional do Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/).  
 
-**Nota**: se o seu inquilino foi criado depois de 21 de outubro de 2019 e está a receber pedidos inesperados para a MFA, é provável que tenha [predefinições de segurança](http://aka.ms/securitydefaults) ativadas no seu inquilino.
+**Nota**: se o seu inquilino foi criado depois de 21 de outubro de 2019 e está a receber pedidos inesperados para a MFA, é provável que tenha [predefinições de segurança](https://aka.ms/securitydefaults) ativadas no seu inquilino.
 
 **Para Gerir predefinições de segurança**
 

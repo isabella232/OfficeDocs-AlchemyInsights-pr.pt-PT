@@ -1,9 +1,9 @@
 ---
-title: Alterar as permissões para uma lista ou biblioteca do SharePoint
+title: Alterar permissões para uma lista de SharePoint ou biblioteca
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
-ms.openlocfilehash: 9033e8da6b3032b47b761b89e18af643100afaa0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: a42d23edd663523f8da1392eaf57290ee1fc900b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36519094"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706651"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Alterar as permissões para uma lista ou biblioteca do SharePoint
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Alterar permissões para uma lista de SharePoint ou biblioteca
 
-1. Acesse o site do SharePoint em um navegador da web e abra a lista ou biblioteca.
+1. Vá ao site do SharePoint num navegador web e abra a lista ou biblioteca.
     
-2. Clique no ícone configurações no canto superior direito e, em seguida, clique em **configurações** da Biblioteca ou **lista de configurações**. (Se você não vir o comando, escolha a guia **biblioteca** ou **lista** para abrir a fita e, em seguida, clique em **configurações** ou **configurações** de lista da biblioteca na fita.) 
+2. Clique no ícone Definições no canto superior direito e, em seguida, clique em **definições de Biblioteca** ou **lista**. (Se não vir o comando, escolha o separador **Biblioteca** ou **Lista** para abrir a fita e, em seguida, clique em **Definições** de Biblioteca ou **Na** lista na fita.) 
     
-3. De acordo com **permissões e gerenciamento,** clique em **permissões para esta lista** ou permissões para esta biblioteca de **documentos.**
+3. Em **Permissões e Gestão,** clique em **Permissões para esta lista** ou **Permissões para esta biblioteca**de documentos .
     
-Observe que, por padrão, as listas e bibliotecas do SharePoint herdam suas permissões do site. Se você quebrar a herança de permissões, as permissões atuais serão copiadas para a lista ou biblioteca e tudo dentro dela. Se as permissões para o site forem alteradas posteriormente, as alterações não serão aplicadas na lista ou biblioteca e nos itens dentro dele.
+Note que, por padrão, as listas e bibliotecas sharePoint herdam as suas permissões a partir do site. Se quebrar a herança de permissões, as permissões atuais serão copiadas para a lista ou biblioteca e tudo o que estiver dentro dela. Se as permissões para o site forem posteriormente alteradas, as alterações não serão aplicadas à lista ou biblioteca e aos itens que estão dentro do mesmo.
   
 

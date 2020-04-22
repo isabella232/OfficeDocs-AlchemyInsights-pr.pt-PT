@@ -1,5 +1,5 @@
 ---
-title: Ose compartilhando erros no SharePoint e no OneDrive
+title: Ose Sharing erros no SharePoint e OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 4322c8a106f453592e4c9660e9291704d2d8fc9a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d3da42ff51b6f2fdd7df66f18fd902eee68aa2f7
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049024"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43641795"
 ---
 # <a name="ose-sharing-errors"></a>Erros de partilha de OSE
 
-O artigo abrange os diferentes erros que você pode encontrar ao compartilhar arquivos ou pastas do SharePoint Online ou OneDrive for Business no Office 365. Você precisa ser um administrador global ou SharePoint em sua organização para corrigir esses erros. Se você não é um administrador, entre em contato com seu suporte de ajuda e dê-lhes seu código de erro.
+O artigo cobre os diferentes erros que poderá encontrar ao partilhar ficheiros ou pastas do SharePoint Online ou OneDrive for Business na Microsoft 365. Precisa de ser um administrador global ou sharePoint na sua organização para corrigir estes erros. Se não for administrador, contacte o seu balcão de ajuda e dê-lhes o seu código de erro.
 
-Para obter mais informações sobre os códigos de erro da OSE, consulte erros de compartilhamento no SharePoint e no [OneDrive.](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+Para obter mais informações sobre os códigos de erro da OSE, consulte [erros de partilha no SharePoint e oneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).

@@ -1,5 +1,5 @@
 ---
-title: Cumprimento da comunicação
+title: Conformidade da comunicação
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,33 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: e612c1fb9c0a1b1f6e9a53a2b9eefeed0583dc9e
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: a10d6ce44ab205087669b3f2152351a949030b02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274950"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706176"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>Conformidade com a comunicação na Microsoft 365
+# <a name="communication-compliance-in-microsoft-365"></a>Conformidade de comunicação na Microsoft 365
 
-A conformidade com a comunicação é uma nova solução de conformidade do Microsoft 365 que ajuda as organizações a atender aos requisitos de conformidade de supervisão e minimizar os riscos de comunicação. Baseia-se no recurso de supervisão no Office 365 e contém novas melhorias, incluindo:
+O cumprimento da comunicação é uma nova solução de conformidade microsoft 365 que ajuda as organizações a cumprir os requisitos de conformidade de supervisão e a minimizar os riscos de comunicação. Baseia-se na funcionalidade supervisão e contém novas melhorias, incluindo:
 
 - Modelos personalizáveis inteligentes
-- Fluxos de trabalho de remediação flexível
-- Insights acionáveis
+- Fluxos de trabalho flexíveis de reparação
+- Insights atuais
 
-Se você usar as [políticas de supervisão no Office 365,](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)recomendamos que agora você use a nova conformidade de comunicação para atender às necessidades regulatórias.
+Se utiliza atualmente as políticas de [Supervisão,](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)recomendamos que utilize agora a nova conformidade da Comunicação para responder às necessidades regulamentares.
 
-Para configurar a conformidade com a comunicação, consulte a conformidade com a [comunicação da Configure.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
+Para configurar a conformidade da comunicação, consulte a conformidade da [comunicação Configurar](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 
-Para investigar, revisar e corrigir a conformidade com a comunicação, [consulte investigar e remediar os alertas](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)de conformidade de comunicação.
+Para investigar, rever e remediar o cumprimento da comunicação, consulte [investigar e remediar os alertas](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)de conformidade de comunicação.
 
-Para obter uma visão geral do recurso de conformidade de comunicação, consulte a conformidade com a [comunicação no Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
+Para uma visão geral da funcionalidade de conformidade de comunicação, consulte a conformidade da [comunicação no Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
 
-Requisitos de licença: Os usuários monitorados por políticas de comunicação devem ter um dos seguintes:
+Requisitos de licença: Os utilizadores monitorizados pelas políticas de comunicação devem ter um dos seguintes requisitos:
 
-- Microsoft 365 E5 Licença de conformidade
-- Licença office 365 Enterprise E3 com o complemento de conformidade avançada
-- Assinatura do Office 365 Enterprise E5
+- Licença de conformidade Microsoft 365 E5
+- Licença Office 365 Enterprise E3 com o add-on De conformidade avançada
+- Assinatura office 365 Enterprise E5
 
-Se você não tem nenhum dos itens acima e quer tentar a conformidade de comunicação, **[inscreva-se para um teste do Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Se não tiver nenhum dos acima e quiser tentar o cumprimento da comunicação, **[inscreva-se para um julgamento do Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.

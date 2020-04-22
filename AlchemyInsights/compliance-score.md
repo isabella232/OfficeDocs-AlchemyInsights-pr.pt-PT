@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: 304b50b9be50d42a4d54a1898773b458fca7eb4d
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e77bb9a93325b49cf0f45cc74109432badc481c5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600376"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706104"
 ---
 # <a name="compliance-score"></a>Pontuação de conformidade
 
@@ -33,7 +33,7 @@ O administrador global terá de configurar as [permissões](https://docs.microso
 
 **Para mais informações sobre:**
 
-- Configuração de Permissões de Acesso para A Pontuação de Conformidade, consulte [Dar aos utilizadores acesso ao Office 365 Security & Compliance Center](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
+- Configuração de permissões de acesso para a pontuação de conformidade, consulte Dar aos utilizadores acesso aos Centros de Conformidade & de [Segurança do Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
 - Trabalhando com ações de melhoria na pontuação de conformidade, consulte [Trabalhar com a Pontuação](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score)de Conformidade.
 - Como a Pontuação de Conformidade é calculada, consulte metodologia de [pontuação](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology)de conformidade .
 - Compliance Score vs. Compliance Manager, consulte [Relationship to Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).

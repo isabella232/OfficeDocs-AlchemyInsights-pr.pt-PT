@@ -1,5 +1,5 @@
 ---
-title: Desempenho da migração do SharePoint
+title: Diretrizes sobre o desempenho de migrações do SharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: ae62607bf5991eb8fd8764ebad64da040389df6b
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+- "3179"
+ms.openlocfilehash: 500406e0f19610fe884df1faf3537aa7cb947e47
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958765"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552791"
 ---
-# <a name="sharepoint-migration-performance"></a>Desempenho da migração do SharePoint
-
-**Importante:**: durante estes tempos sem precedentes, estamos a tomar medidas para garantir que os serviços SharePoint Online e OneDrive permaneçam com elevada disponibilidade. Para obter mais informações, visite [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) (Ajustes Temporários de Funcionalidades do SharePoint Online).
-
-**Desempenho da migração**
+# <a name="sharepoint-migration-performance-guidance"></a>Diretrizes sobre o desempenho de migrações do SharePoint
 
 O desempenho da migração pode ser afetado pela infraestrutura da rede, tamanho dos ficheiros, tempo de migração e limitações. Compreender estes fatores vai ajudá-lo a planear e maximizar a eficácia da sua migração.
 
-Para obter mais informações, visite as ligações abaixo.
+Para mais informações, visite:
 
-- [Sharepoint Online and ODB Migration Speed](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed) (Velocidade da Migração do SharePoint Online e do ODB)
+- [Diretrizes gerais sobre o desempenho de migrações](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [Avoid getting throttled or blocked in SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online) (Evitar ser limitado ou bloqueado no SharePoint Online)
 

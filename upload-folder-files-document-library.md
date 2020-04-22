@@ -1,9 +1,9 @@
 ---
-title: Envie uma pasta ou arquivos para uma biblioteca de documentos
+title: Faça upload de uma pasta ou ficheiros para uma biblioteca de documentos
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "5200007"
 - "3176"
 ms.assetid: ''
-ms.openlocfilehash: 3105555c0e88b72ede00045761356b6f03117594
-ms.sourcegitcommit: eeaaf0174dcad24f04f8979dfa7e78fffe1962aa
+ms.openlocfilehash: c75f1a0603a1abbc2c771b0d03499b73be70cf25
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37962487"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707162"
 ---
-# <a name="upload-a-folder-or-files-to-a-document-library"></a>Envie uma pasta ou arquivos para uma biblioteca de documentos
+# <a name="upload-a-folder-or-files-to-a-document-library"></a>Faça upload de uma pasta ou ficheiros para uma biblioteca de documentos
 
-Você pode carregar arquivos para uma biblioteca de documentos no SharePoint arrastando-os do seu computador e deixando-os na biblioteca de documentos.
+Pode enviar ficheiros para uma biblioteca de documentos no SharePoint arrastando-os do computador e deixando-os na biblioteca de documentos.
 
-* [Envie uma pasta ou arquivos para uma biblioteca de documentos](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
-* [Upload usando o OneDrive Sync](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+* [Faça upload de uma pasta ou ficheiros para uma biblioteca de documentos](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
+* [Upload usando OneDrive Sync](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)

@@ -1,27 +1,27 @@
 ---
-title: Problemas de obter o Outlook para ligar?
+title: Ter problemas em fazer com que o Outlook se conectem?
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/21/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b812e53a-d519-4f3e-8438-4115a8e8e906
-ms.openlocfilehash: 024aa4d8b747af61f9253b40e2edbad9f6df77d9
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7ec68ef7e5852e37b219113e8e6a6341ffe8c256
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735688"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710166"
 ---
-# <a name="having-issues-getting-outlook-to-connect"></a>Problemas de obter o Outlook para ligar?
+# <a name="having-issues-getting-outlook-to-connect"></a>Ter problemas em fazer com que o Outlook se conectem?
 
-Detectámos que o Outlook não está configurado para funcionar correctamente com o domínio seguinte (s):
+Detetámos que o Outlook não está configurado para funcionar corretamente sob o seguinte domínio( s):
   
 {HealthCheckString}
   
-Os registos de NS ou CNAME as definições de domínio (DNS) não são o programa de configuração correctamente. Pode fazer referência a [registos de DNS criar em qualquer fornecedor de alojamento de DNS para o Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) para obter instruções detalhadas. 
+Os registos NS ou CNAME das definições de domínio (DNS) não estão corretamente configurados. Pode consultar os [registos DoNs create em qualquer fornecedor de hospedagem DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) para obter instruções detalhadas. 
   
 Para corrigir o problema, aceda à página [Domínios](https://admin.microsoft.com/adminportal/home#/Domains) no centro de administração do Microsoft 365. 
 

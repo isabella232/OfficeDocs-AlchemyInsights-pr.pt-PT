@@ -1,9 +1,9 @@
 ---
-title: 1491-Search-not-returning-Expected-Results
+title: 1491-pesquisa-não-retorno-resultados esperados
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1491"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 094da9d75013aae56ca219b7ae03e85736ce5ee0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d0707af19b0299f7257a10a20ab38f47860308fb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551426"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709238"
 ---
-# <a name="content-search-not-returning-expected-results"></a>Pesquisa de conteúdo não devolver os resultados esperados
+# <a name="content-search-not-returning-expected-results"></a>Pesquisa de conteúdo não devolve resultados esperados
 
-Quando executar procuras de conteúdo a partir do & de segurança do Office 365 Centro de conformidade, poderá receber resultados inesperados. Considere as seguintes acções que podem afectar os resultados da pesquisa:
+Ao executar as pesquisas de conteúdo do Microsoft 365 security & Compliance Center, poderá receber resultados de pesquisa inesperados. Considere as seguintes coisas que podem afetar os resultados da sua pesquisa:
 
-- **Localizações de conteúdo e as condições de procura**: Certifique-se de que seleccionou as localizações de conteúdo correctas e as condições de procura. Se executar uma procura de grandes dimensões (com várias localizações), considere dividi-la em várias procuras.
+- Localização de **conteúdo e condições**de pesquisa : Certifique-se de que selecionou os locais de conteúdo adequados e as condições de pesquisa. Se fez uma grande pesquisa (com muitos locais), considere dividi-la em múltiplas pesquisas.
 
-- **Itens indexados parcialmente**: [parcialmente indexados itens](https://docs.microsoft.com/office365/securitycompliance/partially-indexed-items-in-content-search) das caixas de correio estão incluídos nos resultados da procura estimado. No entanto, os itens indexados parcialmente de sites SharePoint e OneDrive não são incluídos na estimativa de procura.
+- **Itens parcialmente indexados**: [Os itens parcialmente indexados](https://docs.microsoft.com/office365/securitycompliance/partially-indexed-items-in-content-search) das caixas de correio estão incluídos nos resultados de pesquisa estimados. No entanto, itens parcialmente indexados de sites em SharePoint e OneDrive não estão incluídos na estimativa de pesquisa.
 
-- **Falhas de procura**: quando procura um grande número de caixas de correio (mais de 100.000 caixas de correio), poderá obter erros de procura, com códigos de erro, tais como CS008-009 e CS012-002). Neste caso, tente novamente a procura apenas para as localizações de conteúdo falhou. Consulte [Este artigo](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) para obter mais informações.
+- **Falhas de pesquisa**: Ao pesquisar um grande número de caixas de correio (mais de 100.000 caixas de correio), poderá obter erros de pesquisa, com códigos de erro como CS008-009 e CS012-002). Neste caso, tente novamente a procura apenas pelos locais de conteúdo falhados. Consulte [este artigo](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) para mais informações.

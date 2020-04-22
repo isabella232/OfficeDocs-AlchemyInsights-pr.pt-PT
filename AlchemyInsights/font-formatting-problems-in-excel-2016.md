@@ -1,9 +1,9 @@
 ---
-title: Problemas de formatação de fontes no Excel 2016
+title: Problemas de formatação de fonte no Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: a727f1ffc7b90db53d10223a4bd3017d25eeda6c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 476a6ad39a16880e9513012a33efd4bec1f89efd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051976"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708650"
 ---
-# <a name="font-formatting-problems-in-excel"></a>Problemas de formatação de fontes no Excel
+# <a name="font-formatting-problems-in-excel"></a>Problemas de formatação de fonte em Excel
 
-No Excel 2016, a formatação de fontes pode não aparecer adequadamente em uma célula. Isso pode acontecer se uma célula contém mais de um tipo de formatação de fonte. Por exemplo, se alguns personagens são ousados, e outros não são ousados, você pode não ver o formato ousado aparecer. Ou se você tem personagens coloridos diferentes na mesma célula, você pode não ver as cores aparecem corretamente. Nossa equipe de engenharia está ciente desse problema e atualmente está trabalhando em uma correção. Enquanto isso, tente usar uma fonte diferente. Ou, tente evitar o uso de vários tipos de formatação dentro da mesma célula até que este problema seja corrigido.
+No Excel 2016, a formatação de fonte pode não aparecer adequadamente numa célula. Isto pode acontecer se uma célula contiver mais do que um tipo de formatação de fonte. Por exemplo, se alguns caracteres forem arrojados, e outros não forem arrojados, pode não ver o formato arrojado aparecer. Ou se tiver diferentes caracteres coloridos na mesma célula, pode não ver as cores aparecerem corretamente. A nossa equipa de engenharia está ciente deste problema e está neste momento a trabalhar numa correção. Entretanto, tente usar uma fonte diferente. Ou, tente evitar usar vários tipos de formatação dentro da mesma célula até que este problema seja corrigido.
   

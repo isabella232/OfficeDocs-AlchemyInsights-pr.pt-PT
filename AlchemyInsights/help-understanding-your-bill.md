@@ -1,9 +1,9 @@
 ---
-title: Noções sobre o título de ajuda
+title: Ajude a entender a sua conta
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: b58ec93be19f42bf0fe04c71d615c7b680a599e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97b26cb0843233bea281cac2363ff4ccf1bec58e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523090"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710094"
 ---
-# <a name="help-understanding-your-bill"></a>Noções sobre o título de ajuda
+# <a name="help-understanding-your-bill"></a>Ajude a entender a sua conta
 
-O montante facturado para o Office 365 para a subscrição de negócio reflecte o preço de licença multiplicado pelo número de licenças adquiridas e de quaisquer impostos/taxas aplicáveis.
+O valor cobrado para a sua subscrição reflete o preço da licença multiplicado pelo número de licenças adquiridas e pelos impostos/taxas exigidos.
   
-Se o montante facturado for diferente, em seguida, esperado, existem algumas razões para que esta situação poderá ocorrer:
+Se o valor cobrado for diferente então esperado, existem algumas razões para que isso possa acontecer:
   
-- Licenças foram adicionadas ou removidas da subscrição. Quando as licenças são alterada intercalar, isto é reflectido na factura seguinte. Poderá ver um crédito e Facturar novamente para o período de serviço anterior, para ter em conta esta alteração.
+- As licenças foram adicionadas ou removidas da sua subscrição. Quando as licenças são alteradas a médio prazo, isso reflete-se na seguinte fatura. Poderá ver um crédito e uma nova faturação do período de serviço anterior a incluir esta alteração.
 
-- A subscrição foi cancelada. Irá receber uma factura após cancelamento com qualquer saldo menos quaisquer créditos.
+- A subscrição foi cancelada. Receberá uma fatura após o cancelamento com o montante em dívida menos os créditos.
 
-- A subscrição renovada por um novo termo e o preço de licença alterado.
+- A sua subscrição foi renovada por um novo período de tempo e o preço da licença foi alterado.
 
-Para mais informações sobre a factura, consulte: [Compreender a factura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)
+Para mais informações sobre a sua fatura, consulte: [Compreenda a sua fatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)

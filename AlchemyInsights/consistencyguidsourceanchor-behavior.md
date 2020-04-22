@@ -1,9 +1,9 @@
 ---
-title: ConsistênciaGuia / fonteComportamento âncora
+title: Comportamento de ConsistênciaGuid / sourceAnchor
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
-ms.openlocfilehash: f0ff94a8e46f1fb4e0ac8653c51f8f651e29498b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8527e7c2404742a999041f85ed12d78c48cc0d8c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36517004"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705744"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a>ConsistênciaGuia / fonteComportamento âncora
+# <a name="consistencyguid--sourceanchor-behavior"></a>Comportamento de ConsistênciaGuid / sourceAnchor
 
-O Azure AD Connect (versão 1.1.524.0 e depois) agora facilita o uso de msDS-ConsistencyGuid como atributo fonteAnchor. Ao usar esse recurso, o AD Connect configura automaticamente as regras de sincronização para:
+O Azure AD Connect (versão 1.1.524.0 e depois) facilita agora a utilização de msDS-Consistência Como atributo sourceAnchor. Ao utilizar esta funcionalidade, o Azure AD Connect configura automaticamente as regras de sincronização para:
   
-- Use msDS-ConsistencyGuid como o atributo de origemAnchor para objetos do usuário. ObjectGUID é usado para outros tipos de objetos.
+- Utilize msDS-ConsistênciaGuid como o atributo sourceAnchor para objetos de utilizador. O ObjectGUID é utilizado para outros tipos de objetos.
     
-- Para qualquer objeto de usuário de anúncio no local cujo atributo msDS-ConsistencyGuid não é preenchido, o Azure AD Connect escreve seu valor objectguid de volta ao atributo msDS-ConsistencyGuid no Diretório Ativo no local. Depois que o atributo msDS-ConsistencyGuid é preenchido, o Azure AD Connect exporta o objeto para o AD do Azure.
+- Para qualquer objeto ad-utilizador no local cujo atributo MSDS-Consistência-Consistência Não é povoado, o Azure AD Connect escreve o seu valor objetivo de volta ao atributo msDS-Consistência-Guia no Diretório Ativo no local. Após o atributo MSDS-Consistência-Guid ser povoado, o Azure AD Connect exporta o objeto para AD Azure.
     
- **Nota:** Uma vez que um objeto de DA no local é importado para o Azure AD Connect (ou seja, importado para o Espaço Conector de AD e projetado para o Metaverse), você não pode mais alterar seu valor de fonteAnchor. Para especificar o valor de origemAnchor para um determinado objeto de DD no local, configure seu atributo msDS-ConsistencyGuid antes de ser importado para o Azure AD Connect. 
+ **Nota:** Uma vez que um objeto AD no local é importado para Azure AD Connect (isto é, importado para o Espaço de Conector AD e projetado para o Metaverse), não pode mais alterar o seu valor de origemAnchor. Para especificar o valor sourceAnchor para um determinado objeto AD no local, configure o seu atributo MSDS-Consistência-Guid antes de ser importado para Azure AD Connect. 
   
-Para mais informações sobre SourceAnchor e ConsistencyGuid, consulte o seguinte: [Azure AD Connect: Conceitos de design](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+Para obter mais informações sobre SourceAnchor e ConsistênciaGuid, consulte o seguinte: [Azure AD Connect: Conceitos de design](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 

@@ -1,9 +1,9 @@
 ---
-title: Alterar o domínio para o grupo do Office 365
+title: Alterar o domínio para o Grupo Office 365
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
-ms.date: 4/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 34a9832c035dd5ea523df954dbdf2e6d9d1a0618
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 4257191c183e4a20943c56c382b5fc78176330b8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32394003"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706500"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Alterar o domínio para o grupo do Office 365
+# <a name="change-the-domain-for-office-365-group"></a>Alterar o domínio para o Grupo Office 365
 
-Se pretender alterar o domínio para um grupo do Office 365 durante a criação, siga os passos escolher [o domínio a utilizar quando criar grupos do Office 365](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
+Se quiser alterar o domínio para um Grupo Office 365 durante a criação, siga os passos em [Escolha o domínio a utilizar ao criar o Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
 
-Depois do grupo do Office 365 já criado, não existe actualmente nenhuma forma de alterar o domínio. É a única forma de criar um novo grupo de 365 do Office e elimine o antigo se necessário (endereços de correio electrónico adicionais que podem ser adicionados através do [Centro de administração do Exchange](https://outlook.office365.com/ecp).
+Após a criação do Grupo 365 do Office 365, não existe atualmente forma de alterar o domínio. A única maneira é criar um novo Grupo Office 365 e eliminar o antigo, se necessário (endereços de e-mail adicionais podem ser adicionados através do [Exchange Admin Center](https://outlook.office365.com/ecp).

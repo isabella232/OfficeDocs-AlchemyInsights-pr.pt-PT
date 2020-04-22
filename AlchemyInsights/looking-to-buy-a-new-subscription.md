@@ -1,9 +1,9 @@
 ---
-title: Está à procura de comprar uma nova subscrição?
+title: Quer comprar uma nova subscrição?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 9aa692d149a6619564ec1bc5c1edc877ed8ff607
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9200f436bae0e10a15b3edeed1e4bec3c1b698b6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497490"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709454"
 ---
-# <a name="looking-to-buy-a-new-subscription"></a>Está à procura de comprar uma nova subscrição?
+# <a name="looking-to-buy-a-new-subscription"></a>Quer comprar uma nova subscrição?
 
-Se já tiver o Office 365 para a subscrição de negócio e que pretende adquirir outra subscrição da organização, vá para a **Facturação** \> página de [Serviços de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) para ver uma lista das subscrições disponíveis para a sua organização.
+Se já tem um Microsoft 365 para subscrição de negócios e quer comprar outra subscrição para a sua organização, vá à página de [serviços](https://go.microsoft.com/fwlink/p/?linkid=868433) de Compras de **Faturação** \> para ver uma lista de subscrições disponíveis para a sua organização.
  
-1. Seleccione a subscrição que pretende e, em seguida, seleccione **comprar**.
+1. Selecione a subscrição que deseja e, em seguida, selecione **Comprar**.
 
-2. Escolha como gostariam a pagar e o número de licenças de utilizador necessárias.
+2. Escolha como gostaria de pagar e o número de licenças de utilizador necessárias.
 
 3. Selecione **Finalizar compra**. Na página seguinte, pode rever a encomenda e concluir a compra.
 
-4. Quando a compra estiver concluída, tem de reatribuir licenças ou cancelar uma subscrição. Para obter ajuda com isto, consulte a secção recursos adicionais abaixo.
+4. Quando a sua compra estiver concluída, poderá ter de reatribuir licenças ou cancelar uma subscrição. Para obter ajuda, consulte a secção recursos adicionais abaixo.
 
  **Recursos adicionais:**
   
-- [Atribuir licenças a utilizadores no Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Atribuir licenças aos utilizadores na Microsoft 365 para negócios](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
     
-- [Para cancelar a sua subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Cancelar a sua subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
     
-- Se estiver interessado em subscrições de comutação, consulte [Mudar para uma diferente Office 365 para o plano de negócios.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+- Se estiver interessado em mudar de subscrição, consulte [a Switch para um Microsoft 365 diferente para um plano de negócios.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)

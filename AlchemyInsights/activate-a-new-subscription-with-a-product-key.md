@@ -1,5 +1,5 @@
 ---
-title: Ativar uma nova assinatura com uma chave de produto
+title: Ativar uma nova subscrição com uma chave de produto
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: 334683632951f55af51236e6d6e18870e5a33e75
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b4ae470e2a03509ea8a90e7fdf006eddfa4792ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766398"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707126"
 ---
-# <a name="activate-a-new-subscription-with-a-product-key"></a>Ativar uma nova assinatura com uma chave de produto
+# <a name="activate-a-new-subscription-with-a-product-key"></a>Ativar uma nova subscrição com uma chave de produto
 
-1. Para ativar uma nova assinatura do Office 365 com a chave do produto, acesse [https://office.com/setupkey](https://office.com/setupkey).
+1. Para ativar uma nova subscrição com [https://office.com/setupkey](https://office.com/setupkey)a chave do produto, vá para .
 
-2. Digite a chave do produto Office 365 e siga as solicitações para ativar sua assinatura. Se estiver com problemas com a ativação, consulte esta [lista de erros e soluções da chave de produto mais frequentes](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).
+2. Introduza a chave do produto e siga as instruções para ativar a sua subscrição. Se estiver com problemas com a ativação, consulte esta [lista de erros e soluções da chave de produto mais frequentes](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).

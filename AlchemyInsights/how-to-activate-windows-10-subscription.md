@@ -1,5 +1,5 @@
 ---
-title: Como ativar uma assinatura do Windows 10
+title: Como ativar uma subscrição do Windows 10
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3470"
 - "9001461"
-ms.openlocfilehash: d03f9cd62a1867619f0b7ed8f449ff638164a836
-ms.sourcegitcommit: bd80dd0469556397c3f48a9276afe8e9d793a2ae
+ms.openlocfilehash: 2e3f9b789db6d8e581440c6decc4a1ea748eabf6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40744701"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709670"
 ---
-# <a name="activating-windows-10-subscriptions"></a>Ativando assinaturas do Windows 10
+# <a name="activating-windows-10-subscriptions"></a>Ativar subscrições do Windows 10
 
-Microsoft 365 Business, Microsoft 365 Education, Microsoft 365 e Enterprise fornecem licenças digitais para o Windows 10 como parte da assinatura. Para ativar a assinatura, seu dispositivo já deve ter ativado o Windows 10 Pro (1703 ou posterior). Para ver uma lista completa de requisitos para ativar uma assinatura do Windows 10, consulte os requisitos de ativação de assinatura do [Windows 10.](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements)
+Microsoft 365 Business Premium, Microsoft 365 Education, Microsoft 365 e Enterprise fornecem licenças digitais para o Windows 10 como parte da subscrição. Para ativar a subscrição, o seu dispositivo já tem de ter ativado o Windows 10 Pro (1703 ou posterior). Para ver uma lista completa de requisitos para ativar uma subscrição do Windows 10 consulte os Requisitos de Ativação de [Assinatura seletivas do Windows 10](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements).

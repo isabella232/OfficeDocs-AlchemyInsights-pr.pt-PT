@@ -1,9 +1,9 @@
 ---
-title: 620 fuso horário ajustar e linguagem de definição no Outlook na web
+title: 620 Ajuste o fuso horário e a definição de idiomas no Outlook na web
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "620"
 - "3800018"
 ms.assetid: 9ee8d6dc-3bb4-4e2b-ba22-7a8466d039d9
-ms.openlocfilehash: 64e58d9ff51543919418668971c08ad90acee32f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9099628059ab11b30b4f44395fd3764331e84732
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499938"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709382"
 ---
-# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Ajustar o fuso horário e definições de idioma do Outlook na web
+# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Ajuste as definições de fuso horário e idioma no Outlook na web
 
-Para ajustar o fuso horário e as definições de idioma do Outlook na web, que pode aceder utilizando o Office 365 de trabalho ou escola conta, consulte [alterar o fuso horário e as definições de idioma do Outlook na web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).
+Para ajustar as definições de fuso horário e idioma no Outlook na web, a que acede através do seu trabalho ou conta escolar, consulte alterar as definições de [fuso horário e idioma no Outlook na web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).
   

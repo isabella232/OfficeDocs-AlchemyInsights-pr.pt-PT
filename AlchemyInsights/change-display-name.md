@@ -1,8 +1,8 @@
 ---
-title: 959 Alterar o nome de exibição
+title: 959 Alterar o nome do ecrã
 ms.author: pdigia
 author: pebaum
-ms.date: 7/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 182211bfa48a4015a3a9847b66674838338d9fa6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36736732"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706982"
 ---
-# <a name="change-your-display-name"></a>Alterar o seu nome de exibição
+# <a name="change-your-display-name"></a>Altere o nome do seu display
   
-Para alterar seu nome de exibição no Outlook, use as seguintes etapas.
+Para alterar o nome do seu display no Outlook, utilize os seguintes passos.
   
-1. No Outlook, selecione **configurações** \> de **conta**de **arquivo.** \>
+1. No Outlook, selecione **Definições** \> de **Conta** **de Registo** \> .
 
-2. Selecione a conta de e-mail e, em seguida, selecione **Alteração**.
+2. Selecione a conta de e-mail e, em seguida, selecione **Mudar**.
 
     > [!NOTE]
-    > Se você não vir a opção de alterar seu nome de exibição, provavelmente usará uma conta de e-mail do Microsoft Exchange. Neste caso, você precisa entrar em contato com seu administrador para alterar seu nome de exibição. Veja alterar um nome de usuário e endereço de [e-mail no Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
+    > Se não vir a opção de alterar o nome do ecrã, provavelmente está a utilizar uma conta de e-mail do Microsoft Exchange. Neste caso, tem de contactar o seu administrador para alterar o nome do seu display. Consulte o nome do utilizador e o endereço de [e-mail](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
-3. Depois de mudar seu nome de exibição, clique **em OK** para salvar suas alterações. Pode levar algumas horas para que suas mudanças sejam refletidas em toda a sua organização.
+3. Depois de alterar o nome do ecrã, clique em **OK** para guardar as suas alterações. Pode levar algumas horas para que as suas alterações reflitam em toda a sua organização.
 
-Para mais informações, consulte alterar o nome de [exibição que os destinatários de e-mail veem.](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx)
+Para mais informações, consulte [Alterar o nome de exibição que os destinatários do email vêem](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
   

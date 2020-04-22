@@ -1,9 +1,9 @@
 ---
-title: 743 Criar usuários sem licença
+title: 743 Criar utilizadores sem licença
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "743"
 - "1200022"
 ms.assetid: a47ef0c1-5f44-4c5f-aa91-b681c0c17ebf
-ms.openlocfilehash: aa594ead2f48bd6b6597746588b1edc16e08a14a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 95f4a66817e9b8f133ec20305cf29c95fb0cb2ff
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740620"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705384"
 ---
-# <a name="create-mailboxes-that-dont-require-licenses"></a>Criar caixas de correio que não exigem licenças
+# <a name="create-mailboxes-that-dont-require-licenses"></a>Criar caixas de correio que não requeiram licenças
 
-- Se você precisar de um endereço de e-mail em grupo para várias pessoas, [consulte criar uma caixa de correio compartilhada.](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
+- Se precisar de um endereço de e-mail de grupo para várias pessoas, consulte [Criar uma caixa](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)de correio partilhada .
 
-- Para permitir que uma equipe de pessoas trabalhe juntas e compartilhe e-mails e arquivos, [consulte o Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+- Para permitir que uma equipa de pessoas trabalhe em conjunto e partilhe e-mails e ficheiros, consulte [O Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).

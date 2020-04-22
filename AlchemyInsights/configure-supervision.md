@@ -1,33 +1,33 @@
 ---
-title: Configurar controlo
+title: Configurar supervisão
 ms.author: robmazz
 author: robmazz
 manager: laurawi
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 0e693de897fe083e1afd9093789367bc58220846
-ms.sourcegitcommit: fbc613525a6302e61d78388ae821f842f186ad03
+ms.openlocfilehash: 28c8070d9042e876263ff5e94e0a69bd53998a67
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/10/2019
-ms.locfileid: "34813857"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705924"
 ---
-# <a name="configure-supervision-policies"></a>Configurar políticas de supervisão
+# <a name="configure-supervision-policies"></a>Configure políticas de supervisão
 
-As políticas de supervisão no Office 365 e no Microsoft 365 permitem monitorizar correio electrónico de intercâmbio, Skype para negócios Online, Teams da Microsoft e 3ª parte comunicações enviadas dentro e fora da organização. Revisores designados podem examinar mensagens monitorizadas para se certificar de que são compatíveis com as políticas da sua organização, gestão de riscos e normas de conformidade regulamentar e resolvê-los com um tipo de classificação.
+As políticas de supervisão no Microsoft 365 permitem-lhe monitorizar o email do Exchange, skype para Business Online, Microsoft Teams e comunicações de terceiros enviadas dentro e fora da sua organização. Os revisores designados podem examinar mensagens monitorizadas para garantir que estão em conformidade com as políticas da sua organização, gestão de riscos e normas de conformidade regulamentar e resolvê-las com um tipo de classificação.
 
-Para utilizar políticas de supervisão na sua organização, necessita de:
+Para utilizar as políticas de Supervisão na sua organização, precisa de:
 
 - Determine as comunicações para monitorizar.
-- Decida quem irá efectuar a revisão de comunicações.
-- Políticas de supervisão do programa de configuração
+- Decida quem irá realizar a revisão de comunicações.
+- Definir políticas de supervisão
 
-Obtenha mais informações:
+Saiba mais:
 
-- [Descrição geral das políticas de supervisão](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
-- [Configurar políticas de supervisão](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)
+- [Visão geral das políticas de supervisão](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
+- [Configure políticas de supervisão](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)

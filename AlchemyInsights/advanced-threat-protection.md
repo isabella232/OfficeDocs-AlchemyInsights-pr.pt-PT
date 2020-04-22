@@ -1,32 +1,32 @@
 ---
-title: Protecção do Office 365 ameaça avançadas
+title: Escritório 365 Proteção Avançada de Ameaças
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: ec9e74a1c1054d45356b8347a87e36c592c47fbf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 680f182fbc2f0110a4aa4ed168b35a1a694b2ef4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664511"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710346"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Protecção do Office 365 ameaça avançadas
+# <a name="office-365-advanced-threat-protection"></a>Escritório 365 Proteção Avançada de Ameaças
 
-- Segurança de anexos, ligações seguras e anti-phishing fazem parte do Office 365 avançada ameaça protecção (ATP). Empresa E5, A5 de educação e Microsoft 365 Business incluem ATP. Todos os outros planos requerem uma subscrição do suplemento ATP.
+- Anexos seguros, ligações seguras e anti-phishing fazem parte do Office 365 Advanced Threat Protection (ATP). Enterprise E5, Education A5 e Microsoft 365 Business Premium incluem ATP. Todos os outros planos requerem uma subscrição ATP adicionais.
 
-- Tem de atribuir as licenças apropriadas para proteger os seus utilizadores pelo Office 365 ATP. Consulte [Este tópico](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) para obter instruções sobre como a granel aplicar licenças aos utilizadores.
+- Tem de atribuir as licenças adequadas para proteger os seus utilizadores pelo Office 365 ATP. Consulte [este tópico](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) para obter instruções sobre como aplicar licenças a granel aos seus utilizadores.
 
-- Os administradores globais do Office 365 ou administradores de segurança podem aceder a funcionalidades do Office 365 ATP no Centro de conformidade em **Managmeent de ameaça** de & de segurança \> **política**.
+- Administradores globais ou administradores de segurança podem aceder às funcionalidades atp do Office 365 no Centro de Conformidade & de Segurança na \> **Política**de **Managmeent ameaça.**
 
-- Anexos seguros e ligação segura as políticas podem ser âmbito é de toda a organização, os domínios específicos ou pequenos grupos de utilizadores.
+- Anexos seguros e políticas de Ligação Segura podem ser examinados por toda a sua organização, domínios específicos ou grupos menores de utilizadores.
 
-- Não existe nenhuma política de ATP anexo seguro predefinido. Necessário para [criar uma política](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) e aplicá-lo aos utilizadores.
+- Não existe uma política padrão de anexo seguro ATP. É necessário [criar uma apólice](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) e aplicá-la aos seus utilizadores.
 
-- Existe uma política de ligações seguras de ATP predefinida que se aplica a todas as pessoas na organização. Para editar esta política ou para criar políticas personalizadas, consulte [Este tópico](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).
+- Existe uma política padrão atp safe links que se aplica a todos na sua organização. Para editar esta política ou criar políticas personalizadas, consulte [este tópico.](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies)

@@ -1,9 +1,9 @@
 ---
-title: Configure as configurações de auditoria
+title: Configurar as definições de auditoria
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
-ms.openlocfilehash: ce42eee2f13073d25c89046df9c4d49a13cd3f66
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e4718ffb672b9c0e5b78c52b2fcd3e15ae58f7dd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050032"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705996"
 ---
-# <a name="configure-sharepoint-audit-settings"></a>Configure as configurações de auditoria do SharePoint
+# <a name="configure-sharepoint-audit-settings"></a>Configure as definições de auditoria do SharePoint
 
-Os administradores de coleta de sites do SharePoint podem rastrear as ações do usuário no conteúdo configurando as configurações de auditoria.
+Os administradores de recolha do site SharePoint podem rastrear as ações dos utilizadores no conteúdo configurando as definições de auditoria.
   
-1. Abra o site sharepoint.
+1. Abra o site do SharePoint.
     
-2. Clique no ícone configurações e, em seguida, clique **nas configurações**do site. Se você não vir "Configurações do site", clique **nas informações**do site e, em seguida, clique **em visualizar todas as configurações**do site.
+2. Clique no ícone Definições e, em seguida, clique em **definições do Site**. Se não vir "Definições do Site", clique nas **informações do Site**e clique em **Ver todas as definições do site**.
     
-3. a Administração de Coleta de **Sites,** selecione **as configurações**de auditoria de coleta de sites. (Se você não vê-lo, clique **ir para as configurações** do site de nível superior em primeiro lugar.) 
+3. No âmbito **da Administração de Recolha**do Site, selecione as definições de auditoria de recolha do **Site.** (Se não o vir, clique em **ir primeiro para as definições** do site de nível superior.) 
     
-Para obter informações sobre o que está incluído nos relatórios de registro de auditoria do SharePoint e como vê-los, consulte as configurações de [auditoria da Configure para uma coleção de sites.](https://go.microsoft.com/fwlink/?linkid=404050)
+Para obter informações sobre o que está incluído nos relatórios de registo de auditoria do SharePoint e como vê-los, consulte as definições de [auditoria da Configure para uma recolha](https://go.microsoft.com/fwlink/?linkid=404050)do site .
   
 

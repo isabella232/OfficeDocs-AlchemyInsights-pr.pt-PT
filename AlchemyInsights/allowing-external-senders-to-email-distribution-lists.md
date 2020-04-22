@@ -1,5 +1,5 @@
 ---
-title: 714 Permitindo que os remetentes externos às listas de distribuição de e-mail
+title: 714 Permitir emissores externos para listas de distribuição de e-mails
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,19 +12,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 165c84715d38f46f076941ec9eb4a4624ffcd5a6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768235"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708222"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Permitir que remetentes externos enviem mensagens para grupos de distribuição
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Permitir que os remetentes externos enviem mensagens para grupos de distribuição
 
-Se os usuários fora de sua organização receberem erros quando enviam mensagens para seus grupos de distribuição ou você quiser verificar se seus grupos de distribuição estão configurados para receber e-mails de remetentes externos, siga essas etapas:
+Se os utilizadores fora da sua organização receberem erros quando enviam mensagens para os seus grupos de distribuição, ou se pretender verificar se os seus grupos de distribuição estão configurados para receber correio de remetentes externos, siga estes passos:
 
-1. No centro de administração do Escritório 365, acesse a página grupos de > [grupos.](https://portal.office.com/adminportal/home#/groups) ****  
+1. No centro de administração da Microsoft 365, vá à página grupos de > [grupos.](https://portal.office.com/adminportal/home#/groups) **Groups**  
 
-2. Selecione o grupo de distribuição e, no painel de propriedades do grupo, selecione a guia **Configurações.**
+2. Selecione o grupo de distribuição e, no painel de propriedades do grupo, selecione o separador **Definições.**
 
-3. Selecione **Permitir que os remetentes externos enviem um e-mail para este grupo**e, em seguida, **selecione Salvar**.
+3. Selecione **Permitir que os remetentes externos enviem um e-mail a este grupo**e, em seguida, selecione **Guardar**.

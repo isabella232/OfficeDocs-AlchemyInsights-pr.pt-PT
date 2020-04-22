@@ -10,19 +10,19 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 18d136f1fdd67b4af89b0f81da19e052f5ea3ff8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769674"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706410"
 ---
 # <a name="changing-message-or-attachment-size"></a>Alteração do tamanho da mensagem ou do anexo
 
-Como administrador do Office 365, você pode alterar o tamanho máximo/mínimo das mensagens (que inclui anexos) que seus usuários enviam. Você pode fazer isso para usuários individuais ou todos os usuários (padrão da organização). Depois de alterar essa configuração, leva cerca de 30 minutos para entrar em vigor.
+Como administrador da Microsoft 365, pode alterar o tamanho máximo/mínimo das mensagens (que inclui anexos) que os seus utilizadores enviam. Pode fazê-lo para utilizadores individuais ou para todos os utilizadores (padrão de organização). Depois de alterar este cenário, leva cerca de 30 minutos para entrar em vigor.
   
-- Para alterar o tamanho da mensagem para um usuário específico, acesse **os centros** \> de administração **que trocam** \> caixas de **correio**para **os destinatários.** \> Selecione a caixa de correio de um usuário. Selecione o ícone da edição, selecione **recursos de caixa**de correio e, em seguida, restrições de tamanho da **mensagem,** escolha **os detalhes** do View e especifique o novo tamanho máximo da mensagem.
+- Para alterar o tamanho da mensagem para um utilizador específico, vá aos **centros** \> de administração **Trocar** \> caixas de **correio**dos **destinatários** \> . Selecione a caixa de correio de um utilizador. Selecione o ícone de edição, selecione **as funcionalidades**da caixa de correio , e, em seguida, sob restrições de tamanho de **mensagem,** escolha **detalhes do Ver** e especifique o novo tamanho máximo da mensagem.
 
-- Para saber como mudar isso para todas as caixas de correio, consulte [este artigo.](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)
+- Para aprender a mudar isto para todas as caixas de correio, consulte [este artigo](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
 
-- Para ler sobre os limites máximos usando o Outlook ou o Outlook na web, veja [este artigo.](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits) Outlook Mobile tem um limite máximo de 25MB. Para obter suporte ao Outlook iOS e Android, [clique aqui.](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+- Para ler sobre os limites máximos usando o Outlook ou o Outlook na web, consulte [este artigo](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). O Outlook Mobile tem um limite máximo de 25MB. Para obter suporte para o Outlook iOS e Android, [clique aqui](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).

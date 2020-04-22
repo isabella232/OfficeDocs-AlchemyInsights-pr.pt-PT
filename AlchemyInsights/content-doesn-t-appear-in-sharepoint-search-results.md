@@ -1,8 +1,8 @@
 ---
-title: Conteúdo não aparece nos resultados da pesquisa do SharePoint
+title: Conteúdo não aparece nos resultados de pesquisa do SharePoint
 ms.author: tlarsen
 author: tklarsen
-ms.date: 1/8/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,26 +11,26 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: ffb6bf349f9e8c2323186a8fc3183325d1d7e1bf
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a21e0047b41390f740f9e13d31cba32b13990151
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517042"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705672"
 ---
-# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Conteúdo não aparece nos resultados da pesquisa do SharePoint
+# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Conteúdo não aparece nos resultados de pesquisa do SharePoint
 
-Siga estes passos de resolução de problemas quando conteúdo esperado não aparece nos resultados da procura:
+Siga estes passos de resolução de problemas quando o conteúdo esperado não aparece nos resultados da pesquisa:
   
-1. Verifique se o **site** que contém o conteúdo esperado está definidas para permitir a apresentação nos resultados da pesquisa de conteúdo. Siga os passos de [Mostrar conteúdo num site nos resultados da procura](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
+1. Verifique se o **site** que contém o conteúdo esperado está definido para permitir que o conteúdo apareça nos resultados da pesquisa. Siga os passos em [Mostrar conteúdo num site em resultados](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results)de pesquisa .
 
-2. Verifique que a **lista** ou **biblioteca** que contém o conteúdo esperado está definido para permitir a apresentação nos resultados da pesquisa de conteúdo. Siga os passos de [Mostrar o conteúdo das listas ou bibliotecas nos resultados da procura](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results).
+2. Verifique se a **lista** ou **biblioteca** que contém o conteúdo esperado está definida para permitir que o conteúdo apareça nos resultados da pesquisa. Siga os passos em [Mostrar conteúdo de listas ou bibliotecas em resultados de pesquisa](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results).
 
-3. Certifique-se de que a página, documento ou esquema de página personalizada é publicada como uma **versão principal.** Siga o passo 3 na [procura não devolver todos os resultados no SharePoint Online](https://go.microsoft.com/fwlink/?linkid=874525).
+3. Verifique se a página, documento ou layout de página personalizado é publicado como uma **versão Major.** Siga o passo 3 em [Search não devolve todos os resultados no SharePoint Online](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. Certifique-se de que o utilizador tem **permissões** para ver o conteúdo. Siga os passos nos [níveis de permissão de compreensão no SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+4. Verifique se o utilizador tem **permissões** para visualizar o conteúdo. Siga os passos em compreender os níveis de [permissão no SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
     
-5. Se o esquema de pesquisa foi alterado adicionando uma nova propriedade gerida, através da edição de uma propriedade gerida ou removendo uma propriedade gerida, em seguida, pedir uma pesquisa e re-indexar será necessário. **Re-indexar** o conteúdo seguindo os passos no [pedido manualmente de pesquisa e indexação voltar de um site, uma biblioteca ou uma lista](https://docs.microsoft.com/sharepoint/crawl-site-content). Isto poderá demorar alguns minutos, aguarde 24 horas antes de verificar os resultados novamente.
+5. Se o esquema de pesquisa tiver sido alterado adicionando uma nova propriedade gerida, editando uma propriedade gerida, ou removendo uma propriedade gerida, então será necessário solicitar um rastreio e um re-indexante. **Reindexe** o conteúdo seguindo os passos em [manualmente solicitar rastejar e reindexar um site, uma biblioteca ou uma lista](https://docs.microsoft.com/sharepoint/crawl-site-content). Isto pode demorar um pouco, espere 24 horas antes de verificar novamente os resultados.
 
-Para mais informações, consulte [Activar o conteúdo de um site para ser procurado](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
+Para mais informações, consulte [Ativar o conteúdo num site para ser pesquisável](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
   

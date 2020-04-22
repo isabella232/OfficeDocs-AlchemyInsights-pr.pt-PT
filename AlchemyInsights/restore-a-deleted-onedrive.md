@@ -1,9 +1,9 @@
 ---
-title: Restaurar um OneDrive excluído
+title: Restaurar um OneDrive eliminado
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 5/15/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5298f192-326b-4820-b007-7e1a1c3c2b13
-ms.openlocfilehash: a6db2e22c001cb809465c63da494121c06178b64
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 134fdcd9e36e05425b21c53f7369d52b12b99afa
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054208"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758729"
 ---
-# <a name="restore-a-deleted-onedrive"></a>Restaurar um OneDrive excluído
+# <a name="restore-a-deleted-onedrive"></a>Restaurar um OneDrive eliminado
 
-Depois de excluir um usuário, você pode acessar o OneDrive do usuário através do centro de administração microsoft 365 por 30 dias. Outros usuários podem continuar a acessar conteúdo compartilhado no OneDrive pelo período de tempo que você definiu no centro de administração OneDrive. (Para saber como definir isso, veja [definir a retenção de arquivos padrão para usuários excluídos](https://go.microsoft.com/fwlink/?linkid=874267)do OneDrive .) Após esse tempo, o OneDrive é transferido para a lixeira por 93 dias, e então é excluído.
+Depois de eliminar um utilizador, pode aceder ao OneDrive do utilizador através do centro de administração da Microsoft 365 durante 30 dias. Outros utilizadores podem continuar a aceder a conteúdos partilhados no OneDrive durante o período de tempo que definiu no centro de administração oneDrive. (Para aprender a definir isto, consulte [Definir a retenção de ficheiros predefinido para utilizadores oneDrive eliminados](https://go.microsoft.com/fwlink/?linkid=874267).) Após esse tempo, o OneDrive é transferido para o caixote do lixo durante 93 dias, e depois é apagado.
   
-Após os 30 dias iniciais, quando o usuário excluído não aparece mais no centro de administração do Microsoft 365, você pode acessar o OneDrive do usuário através do PowerShell. Para obter informações, [consulte restaurar um OneDrive excluído.](https://go.microsoft.com/fwlink/?linkid=874269)
+Após os 30 dias iniciais, quando o utilizador eliminado já não aparece no centro de administração da Microsoft 365, pode aceder ao OneDrive do utilizador através do PowerShell. Para obter informações, consulte [Restaurar um OneDrive eliminado](https://go.microsoft.com/fwlink/?linkid=874269).
   
 

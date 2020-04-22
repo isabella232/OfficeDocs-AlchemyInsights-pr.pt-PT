@@ -3,7 +3,7 @@ title: 9000236 Outlook.com adicionar conta
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: a7eed96ea74b037adaa39bbe2d91936d65fe54c3
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8224ded963b3098b78b20f6bb157c183243d769b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36538211"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760999"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a>Adicione suas outras contas de e-mail para Outlook.com
+# <a name="add-your-other-email-accounts-to-outlookcom"></a>Adicione as suas outras contas de e-mail à Outlook.com
 
-Quando você adiciona outras contas de e-mail para Outlook.com, você pode usar Outlook.com para enviar e ler mensagens de e-mail dessas contas sem sair Outlook.com. Cada conta que você adiciona a Outlook.com é chamada de conta conectada.
+Quando adiciona outras contas de e-mail a Outlook.com, pode usar Outlook.com para enviar e ler mensagens de correio eletrónico dessas contas sem sair Outlook.com. Cada conta que adiciona a Outlook.com é chamada de conta conectada.
 
-Nota: Sincronizar a sincronização da sua conta conectada à sua conta Outlook.com é apenas de ida. O e-mail enviado de sua conta conectada usando Outlook.com não aparecerá em seus itens enviados pela conta conectada.
+Nota: Sincronizar da sua conta conectada para a sua conta Outlook.com é apenas de ida. O e-mail enviado da sua conta conectada usando Outlook.com não aparecerá na sua conta conectada Itens enviados.
 
 Para adicionar uma conta conectada:
 
-1. Abra suas configurações de [e-mail de sincronização.](https://go.microsoft.com/fwlink/?linkid=875264)
-2. De acordo com **contas conectadas,** selecione **contas de e-mail** do Gmail ou de outras contas de **e-mail.**
-3. Na página connect da sua conta, insira um nome de exibição (os destinatários do nome verão quando receberem uma mensagem de e-mail de você) e o endereço de e-mail completo e a senha da conta de e-mail que deseja conectar à sua conta Outlook.com.
+1. Abra as [definições](https://go.microsoft.com/fwlink/?linkid=875264)de Email Sync .
+2. Em **contas Conectadas,** selecione **Gmail** ou Outras contas de **e-mail**.
+3. Na página Connect a sua conta, introduza um nome de exibição (os destinatários do nome verão quando receberem uma mensagem de e-mail sua) e o endereço de e-mail completo e a palavra-passe da conta de e-mail que pretende ligar à sua conta Outlook.com.
 
-Você pode enviar e-mails de qualquer conta que você conectou à sua conta Outlook.com. Ao compor um e-mail, selecione **de** que endereço de e-mail você deseja usar, ou [atualizar o seu padrão a partir do endereço](https://go.microsoft.com/fwlink/?linkid=875264).
+Pode enviar e-mail de qualquer conta que tenha ligado à sua conta Outlook.com. Ao compor um e-mail, selecione **From** e escolha qual o endereço de e-mail que pretende utilizar, ou [atualize o seu endereço de predefinição](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Para mais informações, leia adicionar suas outras contas de [e-mail para Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Para mais informações, leia Adicionar as suas outras contas de [e-mail à Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Se você quiser criar um novo endereço de e-mail que usa a mesma conta Outlook.com, leia Adicionar ou remover um pseudônimo de [e-mail.](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)
+Se pretender criar um novo endereço de e-mail que utilize a mesma conta Outlook.com, leia Adicionar ou remova um pseudónimo de [e-mail](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).

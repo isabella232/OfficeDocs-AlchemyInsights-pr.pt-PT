@@ -1,9 +1,9 @@
 ---
-title: Como compartilhar um site sharepoint
+title: Como partilhar um site do SharePoint
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/31/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3171"
-ms.openlocfilehash: d14738c81e86d42cbcec4e8f75dbc97bf82e7b2a
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 9523c05ecb43efb723627cdc57439a1f434b48aa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627657"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763372"
 ---
-# <a name="how-to-share-a-sharepoint-site"></a>Como compartilhar um site sharepoint
+# <a name="how-to-share-a-sharepoint-site"></a>Como partilhar um site do SharePoint
 
-Se você é proprietário de um site, você pode dar a outras pessoas acesso ao site, adicionando-os como proprietários, membros ou visitantes. (Quer[compartilhar um arquivo ou pasta em vez disso?](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c))
+Se você é um proprietário do site, você pode dar a outras pessoas acesso ao site adicionando-os como proprietários, membros ou visitantes. (Quer[partilhar um ficheiro ou pasta em vez disso?](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-[Compartilhe um site](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658?ui=en-US&rs=en-US&ad=US)
+[Partilhar um site](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)

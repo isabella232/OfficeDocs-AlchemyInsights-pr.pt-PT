@@ -1,9 +1,9 @@
 ---
-title: E-mail de saída para a pasta lixo eletrônico
+title: E-mail de saída para pasta Junk Email
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 371d2c46e9048365fd343145330536bd9cf1db82
-ms.sourcegitcommit: 1002f510fadb92c143cd6bbb60b42a851d5a38e1
+ms.openlocfilehash: 2350586e95f316061ff855d152e86db0547eb209
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "37062820"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761179"
 ---
-# <a name="outbound-email-to-junk-email-folder"></a>E-mail de saída para a pasta lixo eletrônico
+# <a name="outbound-email-to-junk-email-folder"></a>E-mail de saída para pasta Junk Email
 
-Se você estiver vendo mensagens de saída marcadas como lixo eletrônico, execute as seguintes etapas:
+Se estiver a ver mensagens de saída marcadas como Lixo, faça os seguintes passos:
 
-- Se você ainda não tiver feito isso, considere [configurar notificações de política de spam de saída](https://docs.microsoft.com/office365/securitycompliance/configure-the-outbound-spam-policy).
+- Se ainda não o fez, considere [configurar notificações](https://docs.microsoft.com/office365/securitycompliance/configure-the-outbound-spam-policy)de política de spam de saída .
 
-- Use o [rastreamento de mensagens](https://docs.microsoft.com/office365/securitycompliance/message-trace-scc) para ver se a mensagem de saída tem o valor do evento **spam** com os detalhes adicionais: Use o pool de **entrega de alto risco**.
+- Utilize [o traço de mensagem](https://docs.microsoft.com/office365/securitycompliance/message-trace-scc) para ver se a mensagem de saída tem o valor do evento **Spam** com o detalhe adicional: **Utilize um pool**de entrega de alto risco .
 
-  Para essas mensagens, verifique o conteúdo da mensagem para ver o que pode ser considerado spam. Por exemplo, as assinaturas às vezes podem causar problemas para muitos usuários.
+  Para estas mensagens, verifique o conteúdo da mensagem para ver o que pode ser considerado spam. Por exemplo, as assinaturas podem, por vezes, causar problemas a muitos utilizadores.
 
-  Se você tiver vários exemplos de mensagens de saída legítimas que estão sendo marcadas como lixo, abra um ticket de suporte e peça ao agente de suporte para enviar suas mensagens como falsos positivos para nossos analistas de spam. Esteja preparado para fornecer mensagens de exemplo que incluam todos os cabeçalhos de mensagem.
+  Se tiver vários exemplos de mensagens de saída legítimas que estão a ser marcadas como Junk, abra um bilhete de apoio e peça ao agente de apoio que envie as suas mensagens como falsos positivos aos nossos analistas de spam. Esteja preparado para fornecer mensagens de amostra que incluam todos os cabeçalhos de mensagem.

@@ -1,28 +1,28 @@
 ---
-title: Lidar com publicidade não solicitada e de publicidade não solicitada no Outlook na web
+title: Lidar com spam e lixo no Outlook na web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 151356f9bafa1fea6eb2c33d157e3fb7038ceef7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c972537cb4f00c9310edeaa589391d5bbd8ebc62
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555604"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768268"
 ---
-# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Marcar mensagens de correio electrónico como publicidade não solicitada do Outlook na web
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Marque as mensagens de e-mail como lixo no Outlook na web
 
-Para marcar uma mensagem como publicidade ou spam, seleccione a mensagem na lista de mensagens e seleccione **correio publicitário não solicitado** > **não solicitado**.
+Para marcar uma mensagem como lixo ou spam, selecione a mensagem na sua lista de mensagens e selecione **Junk** > **Junk Junk**.
 
-Para bloquear todas as mensagens a partir de um endereço de correio electrónico específico, seleccione a mensagem ou mensagens na lista de mensagens e, em seguida, seleccione **publicidade** > **Bloco**.
+Para bloquear todas as mensagens de um endereço de e-mail específico, selecione a mensagem ou mensagens na sua lista de mensagens e, em seguida, selecione **Junk** > **Block**.
 
-Se, acidentalmente, marcar uma mensagem como publicidade não solicitada, seleccione a mensagem na pasta correio publicitário não solicitado e seleccione **não sendo publicidade não** > **não publicitário não solicitado**. (*Nota:* itens na pasta correio publicitário não solicitado são eliminados após 30 dias.)
+Se marcar acidentalmente uma mensagem como lixo, selecione a mensagem na sua pasta Junk Email e selecione **Não lixo** > **Não lixo**. *(Nota:* Os itens da pasta Junk Email são eliminados após 30 dias.)
 
-Obter mais informações sobre como [ajudam a manter o spam e correio publicitário não solicitado do Outlook na pasta a receber de web.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)
+Saiba mais sobre como ajudar a manter o spam e o [lixo fora do seu Outlook na caixa de entrada da web.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)

@@ -8,15 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 2741f309a786ad04801ba2dd7a5b75cb30697b75
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e103af4765c658bdd2650dd51ead7191a8f587e9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768667"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768556"
 ---
-# <a name="issues-with-email-delivery"></a>Problemas com a entrega de e-mail
+# <a name="issues-with-email-delivery"></a>Problemas com entrega de e-mail
 
-Quando há um problema em entregar uma mensagem de e-mail enviada, o Office 365 envia um e-mail para que você saiba. O e-mail que você recebe é uma notificação de status de entrega, também conhecida como DSN ou mensagem de rejeição. O tipo mais comum é chamado de relatório de não entrega (NDR), que informa que uma mensagem não foi entregue. A entrega sem êxito pode ser causada por algo tão simples como um erro de escrita num endereço de e-mail. Os NDRs incluem um código de erro que indica por que seu e-mail não foi entregue, soluções para ajudá-lo a obter seu e-mail entregue, um link para mais ajuda na web e detalhes técnicos para os administradores.
+Quando há um problema em entregar uma mensagem de e-mail que enviou, o Microsoft 365 envia um e-mail para o informar. O e-mail que recebe é uma notificação de estado de entrega, também conhecida como DSN ou mensagem de ressalto. O tipo mais comum é chamado de relatório de não entrega (NDR), que lhe diz que uma mensagem não foi entregue. A entrega sem êxito pode ser causada por algo tão simples como um erro de escrita num endereço de e-mail. Os NDRs incluem um código de erro que indica por que o seu e-mail não foi entregue, soluções para ajudá-lo a obter o seu e-mail entregue, um link para mais ajuda na web, e detalhes técnicos para administradores.
 
-Para ver uma lista de NDRs e descobrir por que sua mensagem não foi entregue, consulte relatórios de não entrega de [e-mail no Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
+Para ver uma lista de NDRs e descobrir por que a sua mensagem não foi entregue, consulte [relatórios de não entrega por e-mail no Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).

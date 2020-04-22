@@ -10,12 +10,12 @@ ms.custom: ''
 ms.assetid:
 - "1500009"
 - "4495"
-ms.openlocfilehash: 9097ce5af41c14cef3ed499b8b67877f5e1dad62
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: e2ca0e13aa569536d9d529aaa1eef05bb0fa49d2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953999"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764703"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Instituição Académica Qualificada Microsoft e ensino e aprendizagem à distância
 
@@ -31,4 +31,4 @@ Quando for aprovada, pode aceder ao separador [Comprar serviços](https://admin.
 
 Consulte [Ensino e aprendizagem à distância no Office 365 Educação](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) para obter acesso às orientações mais recentes sobre a configuração da sua escola, planeamento de aulas, reuniões virtuais e partilha de conteúdos com os estudantes.
 
-Há orientação adicional de TI em [Introdução ao Microsoft Teams para aprendizagem remota](https://docs.microsoft.com/pt-PT/MicrosoftTeams/remote-learning-edu) e [Fazer a transição para a aprendizagem remota](https://www.microsoft.com/education/remote-learning).
+Há orientação adicional de TI em [Introdução ao Microsoft Teams para aprendizagem remota](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) e [Fazer a transição para a aprendizagem remota](https://www.microsoft.com/education/remote-learning).

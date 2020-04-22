@@ -1,9 +1,9 @@
 ---
-title: Como a partilha de blocos de notas no OneNote para a web ou OneNote de 2016
+title: Como partilhar cadernos no OneNote para a web ou OneNote 2016
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 5/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000556"
 - "2406"
-ms.openlocfilehash: 4648aa6e072e20fb5914e91faf25c2011d8aa6b5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 557e9f7736ac075a8f2619e6c11f115c9fca58e6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549302"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767440"
 ---
-# <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>Partilhar Bloco de notas no OneNote para a web ou OneNote de 2016
+# <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>Partilhar Cadernos no OneNote para a web ou OneNote 2016
 
-No OneNote para a web, pode partilhar notas quer convidar outras pessoas para ver e efectuar alterações ao bloco de notas, ou criando uma hiperligação para uma página de notas que podem ser colados uma mensagem de correio electrónico, um blogue ou uma página web. Para mais informações, consulte [O OneNote de utilização para a web partilhar notas com outras pessoas](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)
+No OneNote para a web, pode partilhar notas convidando outros a visualizar e fazer alterações no seu caderno, ou criando um link para uma página de notas que pode colar num e-mail, blog ou página web. Para mais informações, consulte [Use OneNote para a web partilhar notas com outras pessoas](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)
 
-No OneNote de 2016, certifique-se o bloco de notas do OneNote de 2016 no OneDrive para que outros utilizadores podem aceder-lhe. Para partilhar, pode convidar pessoas por correio ou obter uma ligação de partilha. Para mais informações, consulte [partilha de uma 2016 do OneNote para bloco de notas do Windows com outras pessoas](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)
+No OneNote 2016, certifique-se de que o seu notebook OneNote 2016 está no OneDrive para que outros possam chegar ao mesmo. Para partilhar, pode convidar pessoas por correio ou obter um link de partilha. Para mais informações, consulte [Partilhar um OneNote 2016 para o windows notebook com outras pessoas](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)

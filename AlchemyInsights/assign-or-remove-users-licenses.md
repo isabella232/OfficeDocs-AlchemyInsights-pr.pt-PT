@@ -1,9 +1,9 @@
 ---
-title: Atribuir ou remover licenças de utilizadores
+title: Atribuir ou remover as licenças dos utilizadores
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: ad4e2d1cb5d92d5d7f4dec21c7de7348db6f97ad
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 9878d51cadd211668a150f2ba43c4aabe4a75620
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736984"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712577"
 ---
-# <a name="assign-or-remove-users-licenses"></a><span data-ttu-id="b6483-102">Atribuir ou remover licenças de utilizadores</span><span class="sxs-lookup"><span data-stu-id="b6483-102">Assign or remove users' licenses</span></span>
+# <a name="assign-or-remove-users-licenses"></a><span data-ttu-id="37ac9-102">Atribuir ou remover as licenças dos utilizadores</span><span class="sxs-lookup"><span data-stu-id="37ac9-102">Assign or remove users' licenses</span></span>
 
-<span data-ttu-id="b6483-103">Como administrador, pode ajustar licenças dos utilizadores conforme necessário.</span><span class="sxs-lookup"><span data-stu-id="b6483-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="b6483-104">Artigos seguintes mostram como gerir as licenças dos utilizadores, incluindo:</span><span class="sxs-lookup"><span data-stu-id="b6483-104">The articles below will show you how to manage your users' licenses, including:</span></span>
+<span data-ttu-id="37ac9-103">Como administrador, pode ajustar as licenças dos seus utilizadores conforme necessário.</span><span class="sxs-lookup"><span data-stu-id="37ac9-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="37ac9-104">Os artigos abaixo mostrar-lhe-ão como gerir as licenças dos seus utilizadores, incluindo:</span><span class="sxs-lookup"><span data-stu-id="37ac9-104">The articles below will show you how to manage your users' licenses, including:</span></span>
   
-- [<span data-ttu-id="b6483-105">Atribuir licenças a utilizadores no Office 365 para empresas</span><span class="sxs-lookup"><span data-stu-id="b6483-105">Assign licenses to users in Office 365 for business</span></span>](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [<span data-ttu-id="37ac9-105">Atribuir licenças aos utilizadores na Microsoft 365 para negócios</span><span class="sxs-lookup"><span data-stu-id="37ac9-105">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [<span data-ttu-id="b6483-106">Anular a atribuição de licenças de utilizadores no Office 365 para a empresa</span><span class="sxs-lookup"><span data-stu-id="b6483-106">Unassign licenses from users in Office 365 for business</span></span>](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [<span data-ttu-id="37ac9-106">Não atribuir licenças de utilizadores na Microsoft 365 para negócios</span><span class="sxs-lookup"><span data-stu-id="37ac9-106">Unassign licenses from users in Microsoft 365 for business</span></span>](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/remove-licenses-from-users)
 
-<span data-ttu-id="b6483-107">Não respondeu à pergunta?</span><span class="sxs-lookup"><span data-stu-id="b6483-107">Didn't answer your question?</span></span> <span data-ttu-id="b6483-108">Não há problema!</span><span class="sxs-lookup"><span data-stu-id="b6483-108">No problem!</span></span> <span data-ttu-id="b6483-109">Utilize o botão "Necessita de ajuda" para falar com um engenheiro de suporte.</span><span class="sxs-lookup"><span data-stu-id="b6483-109">Use the "Need help" button to talk to a support engineer.</span></span>
+<span data-ttu-id="37ac9-107">Não respondeu à sua pergunta?</span><span class="sxs-lookup"><span data-stu-id="37ac9-107">Didn't answer your question?</span></span> <span data-ttu-id="37ac9-108">Não há problema!</span><span class="sxs-lookup"><span data-stu-id="37ac9-108">No problem!</span></span> <span data-ttu-id="37ac9-109">Utilize o botão "Precisar de ajuda" para falar com um engenheiro de suporte.</span><span class="sxs-lookup"><span data-stu-id="37ac9-109">Use the "Need help" button to talk to a support engineer.</span></span>

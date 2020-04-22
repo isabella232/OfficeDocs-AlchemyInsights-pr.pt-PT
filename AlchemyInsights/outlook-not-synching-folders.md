@@ -1,9 +1,9 @@
 ---
-title: Não sincronizar pastas do Outlook
+title: Outlook não sintetizam pastas
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: a3cf9193e9c9494ed6f00e3001dd57af591a9ff0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5868a5a614ce44d3007c7c5894e2dc9940153533
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557342"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768700"
 ---
-# <a name="outlook-not-synching-folders"></a><span data-ttu-id="8ee3f-102">Não sincronizar pastas do Outlook</span><span class="sxs-lookup"><span data-stu-id="8ee3f-102">Outlook not synching folders</span></span>
+# <a name="outlook-not-synching-folders"></a><span data-ttu-id="5c863-102">Outlook não sintetizam pastas</span><span class="sxs-lookup"><span data-stu-id="5c863-102">Outlook not synching folders</span></span>
 
-<span data-ttu-id="8ee3f-103">Se o Outlook não está a sincronizar pastas conforme esperado, existem algumas coisas que pode tentar corrigi-lo.</span><span class="sxs-lookup"><span data-stu-id="8ee3f-103">If Outlook isn't synching folders as expected, there are some things you can try to fix it.</span></span>
+<span data-ttu-id="5c863-103">Se o Outlook não está a sincronizar pastas como esperado, há algumas coisas que podes tentar corrigir.</span><span class="sxs-lookup"><span data-stu-id="5c863-103">If Outlook isn't synching folders as expected, there are some things you can try to fix it.</span></span>
 
-1. <span data-ttu-id="8ee3f-104">Reduza o número de pastas na caixa de correio principal ou partilhada.</span><span class="sxs-lookup"><span data-stu-id="8ee3f-104">Reduce the number of folders in the primary or shared mailbox.</span></span> <span data-ttu-id="8ee3f-105">[Problemas de desempenho Consulte Outlook quando existem demasiados itens ou pastas de um modo de cache. ost ou pasta de ficheiros. pst](https://support.microsoft.com/help/2768656).</span><span class="sxs-lookup"><span data-stu-id="8ee3f-105">[See Outlook performance issues when there are too many items or folders in a Cached mode .ost or .pst file folder](https://support.microsoft.com/help/2768656).</span></span>
-2. <span data-ttu-id="8ee3f-106">Desactive a cache de todas as pastas partilhadas.</span><span class="sxs-lookup"><span data-stu-id="8ee3f-106">Disable caching of all shared folders.</span></span>
-3. <span data-ttu-id="8ee3f-107">Altere a configuração da caixa de correio Exchange secundário para uma segunda conta do Exchange no seu perfil.</span><span class="sxs-lookup"><span data-stu-id="8ee3f-107">Change the configuration of the secondary Exchange mailbox to a second Exchange account in your profile.</span></span>
+1. <span data-ttu-id="5c863-104">Reduza o número de pastas na caixa de correio primária ou partilhada.</span><span class="sxs-lookup"><span data-stu-id="5c863-104">Reduce the number of folders in the primary or shared mailbox.</span></span> <span data-ttu-id="5c863-105">Consulte os problemas de desempenho do [Outlook quando houver demasiados itens ou pastas numa pasta de ficheiros cached .ost ou .pst](https://support.microsoft.com/help/2768656).</span><span class="sxs-lookup"><span data-stu-id="5c863-105">[See Outlook performance issues when there are too many items or folders in a Cached mode .ost or .pst file folder](https://support.microsoft.com/help/2768656).</span></span>
+2. <span data-ttu-id="5c863-106">Desative o cache de todas as pastas partilhadas.</span><span class="sxs-lookup"><span data-stu-id="5c863-106">Disable caching of all shared folders.</span></span>
+3. <span data-ttu-id="5c863-107">Altere a configuração da caixa de correio secundária Exchange para uma segunda conta de Troca no seu perfil.</span><span class="sxs-lookup"><span data-stu-id="5c863-107">Change the configuration of the secondary Exchange mailbox to a second Exchange account in your profile.</span></span>
 
-<span data-ttu-id="8ee3f-108">Para mais informações, consulte [problemas de desempenho e a sincronização quando trabalha com pastas numa caixa de correio secundária no Outlook](https://support.microsoft.com/help/3115602).</span><span class="sxs-lookup"><span data-stu-id="8ee3f-108">For more information, see [Performance and synchronization problems when you work with folders in a secondary mailbox in Outlook](https://support.microsoft.com/help/3115602).</span></span>
+<span data-ttu-id="5c863-108">Para mais informações, consulte problemas de [desempenho e sincronização quando trabalhar com pastas numa caixa de correio secundária no Outlook](https://support.microsoft.com/help/3115602).</span><span class="sxs-lookup"><span data-stu-id="5c863-108">For more information, see [Performance and synchronization problems when you work with folders in a secondary mailbox in Outlook](https://support.microsoft.com/help/3115602).</span></span>

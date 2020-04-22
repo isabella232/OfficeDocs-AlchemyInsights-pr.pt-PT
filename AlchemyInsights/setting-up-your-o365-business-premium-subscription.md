@@ -1,5 +1,5 @@
 ---
-title: Configurar a sua subscrição do prémio de negócio de O365
+title: Configuração da sua subscrição O365 Business Premium
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -10,14 +10,14 @@ ms.assetid: a9192d32-8a5a-459d-808a-d18ce0e397da
 ms.custom:
 - "31"
 - "1600002"
-ms.openlocfilehash: 8fa6b04cef7a7c9df72c1b51462f80e489622f0b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5abc69c06b71d9984ebcbcf948112bf3553219ac
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666167"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767764"
 ---
-# <a name="setting-up-your-o365-business-premium-subscription"></a><span data-ttu-id="aa753-102">Configurar a sua subscrição do prémio de negócio de O365</span><span class="sxs-lookup"><span data-stu-id="aa753-102">Setting up your O365 Business Premium subscription</span></span>
+# <a name="setting-up-your-o365-business-premium-subscription"></a><span data-ttu-id="66bcc-102">Configuração da sua subscrição O365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="66bcc-102">Setting up your O365 Business Premium subscription</span></span>
 
-<span data-ttu-id="aa753-103">Se necessitar de ajuda para configurar a sua subscrição do Office 365, siga os passos descritos [neste artigo](https://docs.microsoft.com/office365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) para obter a configuração foi concluída.</span><span class="sxs-lookup"><span data-stu-id="aa753-103">If you need help setting up your Office 365 subscription, follow the steps in [this article](https://docs.microsoft.com/office365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) to get your setup completed.</span></span>
+<span data-ttu-id="66bcc-103">Se precisar de ajuda para configurar a subscrição do Microsoft 365, siga os passos [deste artigo](https://docs.microsoft.com/office365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) para concluir a sua configuração.</span><span class="sxs-lookup"><span data-stu-id="66bcc-103">If you need help setting up your Microsoft 365 subscription, follow the steps in [this article](https://docs.microsoft.com/office365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) to get your setup completed.</span></span>
   

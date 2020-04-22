@@ -1,8 +1,8 @@
 ---
-title: Noções sobre 413 Agenda correio
+title: 413 Compreensão Agenda Mail
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 413
 ms.assetid: 90e254a1-19b7-4715-beaa-31b938473b07
-ms.openlocfilehash: 230bd82839355059e9e3c4c53c97b51e4926016d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: abddbae4ea9d51917546645405775743552997b9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423914"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766649"
 ---
-# <a name="understanding-agenda-mail"></a><span data-ttu-id="048ac-102">Noções sobre correio de agenda</span><span class="sxs-lookup"><span data-stu-id="048ac-102">Understanding agenda mail</span></span>
+# <a name="understanding-agenda-mail"></a><span data-ttu-id="b21a7-102">Compreensão do correio da agenda</span><span class="sxs-lookup"><span data-stu-id="b21a7-102">Understanding agenda mail</span></span>
 
-<span data-ttu-id="048ac-103">Para mais informações, consulte [definições de calendário do Outlook na web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f.aspx).</span><span class="sxs-lookup"><span data-stu-id="048ac-103">For more information, see [Calendar settings in Outlook on the web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f.aspx).</span></span>
+<span data-ttu-id="b21a7-103">Para mais informações, consulte [as definições](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f.aspx)do Calendário no Outlook na web .</span><span class="sxs-lookup"><span data-stu-id="b21a7-103">For more information, see [Calendar settings in Outlook on the web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f.aspx).</span></span>

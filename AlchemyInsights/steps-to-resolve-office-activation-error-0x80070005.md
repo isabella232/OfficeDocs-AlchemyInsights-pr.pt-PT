@@ -1,8 +1,8 @@
 ---
-title: Passos para resolver erros de activação do office 0x80070005
+title: Passos para resolver erro de ativação do escritório 0x80070005
 ms.author: pebaum
 author: pebaum
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,18 +12,18 @@ ms.custom:
 - "914"
 - "2000021"
 ms.assetid: d291c13a-723e-4425-8e49-baa465ec2505
-ms.openlocfilehash: 92c18207d676a42b86c5a11c6f4ae9001bbe9107
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 61e8bdf268e6c6c6d537073eab04b1ae37d20526
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534538"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764020"
 ---
-# <a name="steps-to-resolve-office-activation-error-0x80070005"></a><span data-ttu-id="f2a5a-102">Passos para resolver erros de activação do office 0x80070005</span><span class="sxs-lookup"><span data-stu-id="f2a5a-102">Steps to resolve office activation error 0x80070005</span></span>
+# <a name="steps-to-resolve-office-activation-error-0x80070005"></a><span data-ttu-id="f9793-102">Passos para resolver erro de ativação do escritório 0x80070005</span><span class="sxs-lookup"><span data-stu-id="f9793-102">Steps to resolve office activation error 0x80070005</span></span>
 
-<span data-ttu-id="f2a5a-103">Se o erro 0x80070005 iniciado após a actualização do Windows, pode corrigir o problema, actualizando o registo.</span><span class="sxs-lookup"><span data-stu-id="f2a5a-103">If the 0x80070005 error started after updating Windows, you can fix the issue by updating the registry.</span></span>
+<span data-ttu-id="f9793-103">Se o erro 0x80070005 ter começado após a atualização do Windows, pode corrigir o problema atualizando o registo.</span><span class="sxs-lookup"><span data-stu-id="f9793-103">If the 0x80070005 error started after updating Windows, you can fix the issue by updating the registry.</span></span>
   
-<span data-ttu-id="f2a5a-104">Transferir e instalar o [Assistente de recuperação e suporte](https://aka.ms/SARA-OfficeActivation-Alchemy) e executar a **Resolução de problemas de activação**.</span><span class="sxs-lookup"><span data-stu-id="f2a5a-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>
+<span data-ttu-id="f9793-104">Descarregue e instale o Assistente de [Suporte e Recuperação](https://aka.ms/SARA-OfficeActivation-Alchemy) e execute o **"Activation Troubleshooter".**</span><span class="sxs-lookup"><span data-stu-id="f9793-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>
   
-<span data-ttu-id="f2a5a-105">Para obter ajuda adicional, consulte: [código de erro 0x80070005 quando activar o Office do Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)</span><span class="sxs-lookup"><span data-stu-id="f2a5a-105">For additional help, see: [Office error code 0x80070005 when activating Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)</span></span>
+<span data-ttu-id="f9793-105">Para obter ajuda adicional, consulte: Código de [erro do escritório 0x800700005 ao ativar o Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)</span><span class="sxs-lookup"><span data-stu-id="f9793-105">For additional help, see: [Office error code 0x80070005 when activating Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)</span></span>
   

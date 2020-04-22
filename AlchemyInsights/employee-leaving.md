@@ -1,9 +1,9 @@
 ---
-title: Empregado sair
+title: Saída de empregado
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 54b7dc2cceb75b71ad70bcc4e681cff2e68f61be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527842"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703726"
 ---
-# <a name="block-access-to-a-former-employee"></a><span data-ttu-id="a24bf-102">Bloquear o acesso a um antigo empregado</span><span class="sxs-lookup"><span data-stu-id="a24bf-102">Block access to a former employee</span></span>
+# <a name="block-access-to-a-former-employee"></a><span data-ttu-id="40bbe-102">Bloquear o acesso a um ex-funcionário</span><span class="sxs-lookup"><span data-stu-id="40bbe-102">Block access to a former employee</span></span>
 
-<span data-ttu-id="a24bf-103">Tem um empregado sair e necessitem de bloquear o acesso a dados do Office 365 e correio electrónico?</span><span class="sxs-lookup"><span data-stu-id="a24bf-103">Have an employee leaving and need to block access to Office 365 data and email?</span></span> <span data-ttu-id="a24bf-104">Efectue o seguinte.</span><span class="sxs-lookup"><span data-stu-id="a24bf-104">Do the following.</span></span>
+<span data-ttu-id="40bbe-103">Tem um funcionário de saída e precisa bloquear o acesso a dados e e-mail?</span><span class="sxs-lookup"><span data-stu-id="40bbe-103">Have an employee leaving and need to block access to data and email?</span></span> <span data-ttu-id="40bbe-104">Faça o seguinte.</span><span class="sxs-lookup"><span data-stu-id="40bbe-104">Do the following.</span></span>
   
-1. <span data-ttu-id="a24bf-105">No Centro de administração, vá para os **utilizadores** \> página [Utilizadores activos](https://go.microsoft.com/fwlink/p/?linkid=834822) .</span><span class="sxs-lookup"><span data-stu-id="a24bf-105">In the admin center, go to the **Users** \> [Active Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.</span></span>
+1. <span data-ttu-id="40bbe-105">No centro de administração, vá à página **utilizadores** \> [ativos utilizadores.](https://go.microsoft.com/fwlink/p/?linkid=834822)</span><span class="sxs-lookup"><span data-stu-id="40bbe-105">In the admin center, go to the **Users** \> [Active Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.</span></span>
 
-2. <span data-ttu-id="a24bf-106">Seleccione o nome do utilizador que pretende bloquear.</span><span class="sxs-lookup"><span data-stu-id="a24bf-106">Select the name of the user you want to block.</span></span>
+2. <span data-ttu-id="40bbe-106">Selecione o nome do utilizador que pretende bloquear.</span><span class="sxs-lookup"><span data-stu-id="40bbe-106">Select the name of the user you want to block.</span></span>
 
-3. <span data-ttu-id="a24bf-107">Em nome do utilizador, seleccione **Bloquear este utilizador**.</span><span class="sxs-lookup"><span data-stu-id="a24bf-107">Under the user's name, select **Block this user**.</span></span>
+3. <span data-ttu-id="40bbe-107">Sob o nome do utilizador, selecione **Bloquear este utilizador**.</span><span class="sxs-lookup"><span data-stu-id="40bbe-107">Under the user's name, select **Block this user**.</span></span>
 
-4. <span data-ttu-id="a24bf-108">Escolha a **Bloquear o utilizador de início de sessão** \> **Guardar as alterações**.</span><span class="sxs-lookup"><span data-stu-id="a24bf-108">Choose **Block the user from signing in** \> **Save changes**.</span></span>
+4. <span data-ttu-id="40bbe-108">Escolha **bloquear o utilizador de iniciar sessão em** \> **'Guardar' alterações**.</span><span class="sxs-lookup"><span data-stu-id="40bbe-108">Choose **Block the user from signing in** \> **Save changes**.</span></span>
 
-<span data-ttu-id="a24bf-109">**Nota**: fim de sessão para algumas aplicações poderão não ser imediatas.</span><span class="sxs-lookup"><span data-stu-id="a24bf-109">**Note**: Sign-out for some apps might not be immediate.</span></span> <span data-ttu-id="a24bf-110">Seguimento com mais acções neste artigo: [Remover um antigo empregado do Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)</span><span class="sxs-lookup"><span data-stu-id="a24bf-110">Follow up with more actions in this article: [Remove a former employee from Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)</span></span>
+<span data-ttu-id="40bbe-109">**Nota:** A inscrição para algumas aplicações pode não ser imediata.</span><span class="sxs-lookup"><span data-stu-id="40bbe-109">**Note**: Sign-out for some apps might not be immediate.</span></span> <span data-ttu-id="40bbe-110">Acompanhe mais ações neste artigo: [Remova um ex-funcionário](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)</span><span class="sxs-lookup"><span data-stu-id="40bbe-110">Follow up with more actions in this article: [Remove a former employee](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)</span></span>

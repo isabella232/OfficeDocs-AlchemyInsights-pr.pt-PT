@@ -1,9 +1,9 @@
 ---
-title: Caixa de correio delegadas permissões num ambiente de híbridos
+title: Permissões de caixa de correio delegadas em ambiente híbrido
 ms.author: dstrome
 author: dstrome
 manager: dansimp
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "685"
 - "3500009"
 ms.assetid: 86685ad6-5988-415d-817a-57a75ff17119
-ms.openlocfilehash: bb2b82ab82ae8caaf14bf6fecc9c9f3ebd8f6797
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a0c6587ea9276b56fd8989b66e581ec99f942f0f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514306"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705060"
 ---
-# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a><span data-ttu-id="a8a53-102">Caixa de correio delegadas permissões num ambiente de híbridos</span><span class="sxs-lookup"><span data-stu-id="a8a53-102">Delegated mailbox permissions in a hybrid environment</span></span>
+# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a><span data-ttu-id="578d6-102">Permissões de caixa de correio delegadas em ambiente híbrido</span><span class="sxs-lookup"><span data-stu-id="578d6-102">Delegated mailbox permissions in a hybrid environment</span></span>
 
-<span data-ttu-id="a8a53-103">Dependendo da versão do Exchange tiver instalado na sua organização no local, pode querer tomar algumas medidas adicionais para configurar permissões de caixa de correio delegadas entre a organização no local e Exchange Online no Office 365.</span><span class="sxs-lookup"><span data-stu-id="a8a53-103">Depending on the version of Exchange you have installed in your on-premises organization, you might need to take some extra steps to set up delegated mailbox permissions between your on-premises organization and Exchange Online in Office 365.</span></span> <span data-ttu-id="a8a53-104">Para mais informações sobre como configurar permissões delegadas, observe [Configurar o Exchange para suportar a caixa de correio delegadas permissões numa implementação híbrida](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="a8a53-104">For more information about how to set up delegated permissions, take a look at [Configure Exchange to support delegated mailbox permissions in a hybrid deployment](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).</span></span>
+<span data-ttu-id="578d6-103">Dependendo da versão do Exchange que instalou na sua organização no local, poderá ter de tomar algumas medidas adicionais para configurar permissões de caixas de correio delegadas entre a organização no local e o Exchange Online no Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="578d6-103">Depending on the version of Exchange you have installed in your on-premises organization, you might need to take some extra steps to set up delegated mailbox permissions between your on-premises organization and Exchange Online in Microsoft 365.</span></span> <span data-ttu-id="578d6-104">Para obter mais informações sobre como configurar permissões delegadas, dê uma olhada na [Configure Exchange para apoiar permissões de caixa de correio delegadas numa implementação híbrida](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="578d6-104">For more information about how to set up delegated permissions, take a look at [Configure Exchange to support delegated mailbox permissions in a hybrid deployment](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).</span></span>
   

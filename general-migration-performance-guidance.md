@@ -1,9 +1,9 @@
 ---
-title: Orientação geral sobre o desempenho da migração
+title: Diretrizes gerais sobre o desempenho de migrações
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 10/31/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "5300030"
 - "3179"
 ms.assetid: ''
-ms.openlocfilehash: 2a9d796966daa64e6db8ca0f5c951e65d2ff29c4
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: 0f754fd4264d7800e4e02a295147cded46aca817
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913648"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692668"
 ---
-# <a name="general-migration-performance-guidance"></a><span data-ttu-id="fcada-102">Orientação geral sobre o desempenho da migração</span><span class="sxs-lookup"><span data-stu-id="fcada-102">General migration performance guidance</span></span>
+# <a name="general-migration-performance-guidance"></a><span data-ttu-id="de45b-102">Diretrizes gerais sobre o desempenho de migrações</span><span class="sxs-lookup"><span data-stu-id="de45b-102">General migration performance guidance</span></span>
 
-<span data-ttu-id="fcada-103">O desempenho da migração pode ser afetado pela infraestrutura da rede, tamanho do arquivo, tempo de migração e limitação.</span><span class="sxs-lookup"><span data-stu-id="fcada-103">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span> <span data-ttu-id="fcada-104">Compreendê-los irá ajudá-lo a planejar e maximizar a eficiência de sua migração.</span><span class="sxs-lookup"><span data-stu-id="fcada-104">Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
+<span data-ttu-id="de45b-103">O desempenho da migração pode ser afetado pela infraestrutura da rede, tamanho dos ficheiros, tempo de migração e limitações.</span><span class="sxs-lookup"><span data-stu-id="de45b-103">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span> <span data-ttu-id="de45b-104">Compreender estes fatores vai ajudá-lo a planear e maximizar a eficácia da sua migração.</span><span class="sxs-lookup"><span data-stu-id="de45b-104">Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
 
-[<span data-ttu-id="fcada-105">Orientação geral sobre o desempenho da migração</span><span class="sxs-lookup"><span data-stu-id="fcada-105">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+[<span data-ttu-id="de45b-105">Diretrizes gerais sobre o desempenho de migrações</span><span class="sxs-lookup"><span data-stu-id="de45b-105">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)

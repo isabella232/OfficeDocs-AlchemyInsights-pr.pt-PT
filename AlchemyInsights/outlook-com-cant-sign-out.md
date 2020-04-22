@@ -1,9 +1,9 @@
 ---
-title: Outlook.com não é possível terminar sessão
+title: Outlook.com não posso assinar.
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0469aa53e031970ef295856619dbb59e0b95bf5a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d668960b463c7dd3d9731e4d7b52a7779331b034
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547826"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666860"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a><span data-ttu-id="180ff-102">Não é possível terminar a sessão do Outlook.com</span><span class="sxs-lookup"><span data-stu-id="180ff-102">Unable to sign out of Outlook.com</span></span>
+# <a name="unable-to-sign-out-of-outlookcom"></a><span data-ttu-id="3ec94-102">Incapaz de assinar fora de Outlook.com</span><span class="sxs-lookup"><span data-stu-id="3ec94-102">Unable to sign out of Outlook.com</span></span>
 
-<span data-ttu-id="180ff-103">Para terminar a sessão do Outlook.com, seleccione o nome ou a imagem no canto superior direito do ecrã e, em seguida, seleccione **Terminar sessão**.</span><span class="sxs-lookup"><span data-stu-id="180ff-103">To sign out of Outlook.com, select your name or picture at the top right corner of the screen, then select **Sign out**.</span></span>
+<span data-ttu-id="3ec94-103">Para assinar fora de Outlook.com, selecione o seu nome ou imagem no canto superior direito do ecrã e, em seguida, selecione **'Sign out'.**</span><span class="sxs-lookup"><span data-stu-id="3ec94-103">To sign out of Outlook.com, select your name or picture at the top right corner of the screen, then select **Sign out**.</span></span>
 
-<span data-ttu-id="180ff-104">Se não vir a imagem na parte superior do ecrã, verifique se o bloqueio de anúncios é activado.</span><span class="sxs-lookup"><span data-stu-id="180ff-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="180ff-105">Por vezes, isto impede que a imagem apareça.</span><span class="sxs-lookup"><span data-stu-id="180ff-105">Sometimes this prevents the picture from showing.</span></span>
+<span data-ttu-id="3ec94-104">Se não vir a sua imagem no topo do ecrã, verifique se o bloqueio de anúncios está ligado.</span><span class="sxs-lookup"><span data-stu-id="3ec94-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="3ec94-105">Por vezes, estes bloqueadores impedem que a imagem seja apresentada.</span><span class="sxs-lookup"><span data-stu-id="3ec94-105">Sometimes this prevents the picture from showing.</span></span>
 
-<span data-ttu-id="180ff-106">Se continuar a não é possível terminar sessão no Outlook.com, clique em [https://login.live.com/logout.srf](https://login.live.com/logout.srf) , em seguida, feche todas as janelas do browser.</span><span class="sxs-lookup"><span data-stu-id="180ff-106">If you still can't sign out of Outlook.com, click [https://login.live.com/logout.srf](https://login.live.com/logout.srf) then close all browser windows.</span></span>
+<span data-ttu-id="3ec94-106">Se ainda não conseguir assinar Outlook.com, [https://login.live.com/logout.srf](https://login.live.com/logout.srf) clique em fechar todas as janelas do navegador.</span><span class="sxs-lookup"><span data-stu-id="3ec94-106">If you still can't sign out of Outlook.com, click [https://login.live.com/logout.srf](https://login.live.com/logout.srf) then close all browser windows.</span></span>

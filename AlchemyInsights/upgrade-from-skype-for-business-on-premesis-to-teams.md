@@ -1,5 +1,5 @@
 ---
-title: Atualizar do Skype for Business no local para equipes
+title: Upgrade do Skype para Negócios em instalações para Equipas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 6b3e7944a8035865fa8ef1a170b22a5aa39eb8b7
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: b78662e68e053b8b94349032d80ac9bb4fbc0d64
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305272"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43727298"
 ---
-# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a><span data-ttu-id="78fde-102">Atualizar do Skype for Business no local para equipes</span><span class="sxs-lookup"><span data-stu-id="78fde-102">Upgrade from Skype for Business on premises to Teams</span></span>
+# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a><span data-ttu-id="6d84e-102">Upgrade do Skype para Negócios em instalações para Equipas</span><span class="sxs-lookup"><span data-stu-id="6d84e-102">Upgrade from Skype for Business on premises to Teams</span></span>
 
-<span data-ttu-id="78fde-103">Se você implantou o Skype for Business ou o Microsoft Lync no local e sua organização deseja atualizar para equipes, siga as orientações no artigo abaixo.</span><span class="sxs-lookup"><span data-stu-id="78fde-103">If you've deployed Skype for Business or Microsoft Lync on premises and your organization wants to upgrade to Teams, follow the guidance in the article below.</span></span> <span data-ttu-id="78fde-104">Você precisará configurar a conectividade híbrida com seu locatário do Office 365 e, em seguida, mover os usuários para equipes e atribuí-los o modo de coexistência e atualização apropriado.</span><span class="sxs-lookup"><span data-stu-id="78fde-104">You'll need to set up hybrid connectivity with your Office 365 tenant, and then move your users to Teams and assign them the appropriate coexistence and upgrade mode.</span></span> 
+<span data-ttu-id="6d84e-103">Se implementou o Skype para Negócios ou Microsoft Lync nas instalações e a sua organização quer fazer upgrade para As Equipas, siga as orientações no artigo abaixo.</span><span class="sxs-lookup"><span data-stu-id="6d84e-103">If you've deployed Skype for Business or Microsoft Lync on premises and your organization wants to upgrade to Teams, follow the guidance in the article below.</span></span> <span data-ttu-id="6d84e-104">Você precisará configurar a conectividade híbrida com o seu inquilino, e depois mover os seus utilizadores para As Equipas e atribuir-lhes o modo de coexistência e upgrade apropriado.</span><span class="sxs-lookup"><span data-stu-id="6d84e-104">You'll need to set up hybrid connectivity with your tenant, and then move your users to Teams and assign them the appropriate coexistence and upgrade mode.</span></span> 
 
-[<span data-ttu-id="78fde-105">Atualizar do Skype para negócios no local para equipes</span><span class="sxs-lookup"><span data-stu-id="78fde-105">Upgrade from Skype for Business on-premises to Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[<span data-ttu-id="6d84e-105">Upgrade do Skype para negócios no local para equipas</span><span class="sxs-lookup"><span data-stu-id="6d84e-105">Upgrade from Skype for Business on-premises to Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 

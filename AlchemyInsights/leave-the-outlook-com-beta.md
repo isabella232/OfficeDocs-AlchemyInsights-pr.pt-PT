@@ -1,9 +1,9 @@
 ---
-title: 8000035 deixar a versão beta do Outlook.com
+title: 8000035 Deixe a beta Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 11/2/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -18,18 +18,18 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 8ee26da8360626165d120b592dec9d32b3d48dce
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97dd5e889cacfe73e0b81dcdee35f37dc12de9d7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542892"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762760"
 ---
-# <a name="the-new-outlookcom"></a><span data-ttu-id="d0ff6-102">O novo Outlook.com</span><span class="sxs-lookup"><span data-stu-id="d0ff6-102">The new Outlook.com</span></span>
+# <a name="the-new-outlookcom"></a><span data-ttu-id="2c631-102">O novo Outlook.com</span><span class="sxs-lookup"><span data-stu-id="2c631-102">The new Outlook.com</span></span>
 
-<span data-ttu-id="d0ff6-103">Já não é possível para a versão beta do Outlook.com de sair e voltar para a versão clássica do Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="d0ff6-103">It's no longer possible to leave the Outlook.com beta and return to the classic version of Outlook.com.</span></span>
+<span data-ttu-id="2c631-103">Já não é possível deixar a Outlook.com beta e voltar à versão clássica do Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="2c631-103">It's no longer possible to leave the Outlook.com beta and return to the classic version of Outlook.com.</span></span>
   
-<span data-ttu-id="d0ff6-104">Se pretender enviar comentários sobre o Outlook.com de novo, vá para o [Fórum de UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599).</span><span class="sxs-lookup"><span data-stu-id="d0ff6-104">If you'd like to give feedback about the new Outlook.com, go to the [UserVoice forum](https://go.microsoft.com/fwlink/p/?linkid=851599).</span></span> <span data-ttu-id="d0ff6-105">Pode votar sobre as ideias ou gostasse de ver os problemas resolvidos e irá responder directamente aos principais comentários e sugestões.</span><span class="sxs-lookup"><span data-stu-id="d0ff6-105">You can vote on the ideas or issues you'd like to see addressed, and we'll respond directly to the top comments and suggestions.</span></span>
+<span data-ttu-id="2c631-104">Se quiser dar feedback sobre o novo Outlook.com, vá ao [fórum UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599).</span><span class="sxs-lookup"><span data-stu-id="2c631-104">If you'd like to give feedback about the new Outlook.com, go to the [UserVoice forum](https://go.microsoft.com/fwlink/p/?linkid=851599).</span></span> <span data-ttu-id="2c631-105">Pode votar nas ideias ou questões que gostaria de ver abordadas, e responderemos diretamente aos principais comentários e sugestões.</span><span class="sxs-lookup"><span data-stu-id="2c631-105">You can vote on the ideas or issues you'd like to see addressed, and we'll respond directly to the top comments and suggestions.</span></span>
   
-[<span data-ttu-id="d0ff6-106">Mais informações sobre o Outlook.com de novo.</span><span class="sxs-lookup"><span data-stu-id="d0ff6-106">Learn more about the new Outlook.com.</span></span>](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[<span data-ttu-id="2c631-106">Saiba mais sobre o novo Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="2c631-106">Learn more about the new Outlook.com.</span></span>](https://go.microsoft.com/fwlink/p/?linkid=874356)
   

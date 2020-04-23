@@ -1,9 +1,9 @@
 ---
-title: Alias de correio electrónico utilizando 725 no dispositivo móvel
+title: 725 Usando pseudónimo de e-mail em dispositivo móvel
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "725"
 - "1"
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: 8ac6a99cb481e6f80aeec90bd0cb51eca52bdba4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d187a6686d986efd18a486fe262bcca5409d93ae
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531730"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726295"
 ---
-# <a name="email-aliases-on-mobile-devices"></a>Aliases de correio electrónico em dispositivos móveis
+# <a name="email-aliases-on-mobile-devices"></a>Pseudónimos de e-mail em dispositivos móveis
 
-Um alias de correio electrónico é apenas outro endereço de correio electrónico que esteja configurado numa caixa de correio, para que as mensagens enviadas ao alias do utilizador será entregue a respectiva caixa de correio e poderá ser lido no seu dispositivo móvel. É necessária qualquer configuração adicional.
+Um pseudónimo de e-mail é apenas mais um endereço de e-mail configurado numa caixa de correio, pelo que as mensagens enviadas para o pseudónimo de um utilizador serão entregues na sua caixa de correio e serão legíveis no seu dispositivo móvel. Não é necessária nenhuma configuração adicional.
 
-Mas, um utilizador não é possível responder a mensagens ou enviar novas mensagens utilizando um nome alternativo como seu endereço. Todas as mensagens a enviar serão do respectivo endereço de correio electrónico principal.
+Mas, um utilizador não pode responder a mensagens ou enviar novas mensagens usando um pseudónimo como o seu endereço From. Todas as mensagens de saída serão do seu endereço de e-mail primário.

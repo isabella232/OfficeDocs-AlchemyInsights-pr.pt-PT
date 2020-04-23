@@ -1,9 +1,9 @@
 ---
-title: 929 regras de pasta a receber para regras de deflectTransport
+title: 929 Regras de caixa de entrada para desviar regras de transporte
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/15/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: 140cb6e85d0f08393439b023578457998a84dc62
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6b6e64c0332a579e8f6132b08f2f89b15eb4de27
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499614"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724603"
 ---
-# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Regras de fluxo de correio (também conhecido como regras de transporte)
+# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Regras de fluxo de correio (também conhecidas como regras de transporte)
 
-- Descrição geral das regras de fluxo de correio: [correio fluxo regras (regras de transporte) no Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
+- Visão geral das regras de fluxo de correio: Regras de fluxo de [correio (regras de transporte) em Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
 
-- Regras de fluxo de correio do programa de configuração: [correio fluxo procedimentos de regra no Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
+- Regras de fluxo de correio de configuração: [Procedimentos](https://technet.microsoft.com/library/dn600436.aspx) de regra de fluxo de correio em Exchange Online
 
-- Criar, modificar e eliminar regras de fluxo de correio: [Gerir regras de fluxo de correio](https://technet.microsoft.com/library/jj657505.aspx)
+- Criar, modificar e eliminar regras de fluxo de correio: [Gerir as regras](https://technet.microsoft.com/library/jj657505.aspx) de fluxo de correio
 
-Também pode gerir regras de fluxo de correio no Exchange Online PowerShell. Para mais informações, consulte [Obter TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (vista), [TransportRule de novo](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (criar), [TransportRule remover](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (eliminar), [Conjunto de TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (modificar existente), [TransportRule-desactivar](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (disable existente), e [Activar TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (Active existentes).
+Também pode gerir as regras de fluxo de correio em Exchange Online PowerShell. Para mais informações, consulte [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (visualização), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (criar), [Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (eliminar), [Definição de Transporte (modificar](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) existente), Regra de Transporte de [Saem](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (desativação existente) e [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (ativação existente).
 
-Cmdlets de regra de fluxo de correio adicionais: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (acções disponíveis lista), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (condições disponíveis da lista e excepções), [TransportRuleCollection de exportação](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (regras de exportação) e [ Importar TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (regras de importação).
+Regra adicional de fluxo de correio cmdlets: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (lista de ações disponíveis), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (lista de condições e exceções disponíveis), [Export-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (regras de exportação) e [Import-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (regras de importação).

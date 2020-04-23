@@ -1,8 +1,8 @@
 ---
-title: Utilizar o programa de instalação offline do Office
+title: Utilize o instalador offline do Office
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,16 +12,16 @@ ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 2e1bbddf91c623cad2e53b7c0d137f4d7de45143
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6d847149d4e1f39af3fa5d5fdd17f187463f6ea7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532291"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726331"
 ---
-# <a name="use-the-office-offline-installer"></a>Utilizar o programa de instalação offline do Office
+# <a name="use-the-office-offline-installer"></a>Utilize o instalador offline do Office
 
-Tem de estar ligado à internet para transferir os ficheiros de programa de instalação, mas uma vez que é efectuado, pode, em seguida, instalar o Office offline num PC na sua conveniência, utilizando a ferramenta de implementação do Office (ODT)
+Você precisa estar conectado à internet para descarregar os ficheiros do instalador, mas uma vez feito, você pode então instalar o Office offline em um PC a seu conveniência usando a Ferramenta de Implementação de Escritórios (ODT)
 
-A ODT foi concebida para ambientes empresariais e é executado na linha de comandos, para que os passos são mais complicados – mas ainda vai funcionar para instalação num único dispositivo. Ver [utilizar o programa de instalação offline do Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
+O ODT é projetado para ambientes empresariais e funciona a partir da linha de comando, por isso os passos são mais complicados - mas ainda vão trabalhar para a instalação em um único dispositivo. Consulte [O instalador offline do Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
   

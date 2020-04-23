@@ -1,9 +1,9 @@
 ---
-title: Como tornar o novo aspecto Outlook.com como antigo
+title: Como fazer o novo Outlook.com parecer o antigo
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: 34ff4a6a78b6b362c7929e77e8369d2d6e05c868
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc254df10c21521e65c53e478288938e0bb1c3f3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497526"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721781"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Como tornar o novo aspecto Outlook.com como a versão antiga
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Como fazer o novo Outlook.com parecer a versão antiga
 
-Aqui estão algumas definições que pode alterar para tornar o novo aspecto Outlook.com como a versão antiga:
+Aqui estão algumas configurações que pode alterar para que o novo Outlook.com se pareça com a versão antiga:
 
-1. Vá para [definições de esquema](https://outlook.live.com/mail/options/mail/layout).
-1. Em **Focused ' a receber '**, seleccione **não ordenar as minhas mensagens**.
-1. No âmbito da **organização de mensagem**, seleccione **as mensagens mais recentes na parte superior**.
-1. Em **imagens do remetente**, seleccione **não mostrar imagens do remetente**.
-1. No **Painel de leitura**, seleccione **Ocultar painel de leitura**.
-1. Em **Pré-visualizar texto da mensagem**, seleccione **Mostrar pré-visualizar texto**.
-1. Em **pré-visualizações Inline**, seleccione **não mostrar anexos na lista de mensagens**.
+1. Vá para [as definições](https://outlook.live.com/mail/options/mail/layout)de Layout .
+1. Na **caixa de entrada Focada,** selecione Não **selecione Não separe as minhas mensagens.**
+1. Sob **a organização Message,** selecione **mensagens mais recentes no topo**.
+1. Sob **a imagem do remetente,** selecione Não **mostre imagens**do remetente .
+1. Sob **o painel de leitura,** selecione Ocultar o painel de **leitura**.
+1. Em baixo **do texto de pré-visualização da mensagem,** selecione **mostrar texto de pré-visualização**.
+1. Em **pré-visualizações inline,** selecione **Não mostre anexos na lista de mensagens**.
 
-Para alterar as definições de correio para a pasta a receber tem um aspecto e comporta-se a forma como pretende que seja, consulte [alterar o aspecto da caixa de correio no Outlook.com e o Outlook de novo na web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Para alterar as definições do Seu Correio para que a sua caixa de entrada pareça e se comporte da forma que pretende, consulte [a sua caixa de correio em Outlook.com e o novo Outlook na web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).

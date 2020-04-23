@@ -1,9 +1,9 @@
 ---
-title: Resolução de problemas de sincronização de palavra-passe
+title: Sincronização de senha de resolução de problemas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,51 +13,51 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 2b0a1527ab1b16f56a97891445a2dcb4570302f5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533818"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732521"
 ---
-# <a name="troubleshoot-password-synchronization"></a>Resolução de problemas de sincronização de palavra-passe
+# <a name="troubleshoot-password-synchronization"></a>Sincronização de senha de resolução de problemas
 
-Para resolver problemas em que nenhuma palavra-passe é sincronizadas com Azure AD ligar versão 1.1.614.0 ou posterior:
+Para resolver problemas em que nenhuma palavra-passe é sincronizada com a versão 1.1.614.0 do Azure AD Connect:
   
-1. Abra uma nova sessão do Windows PowerShell no servidor Azure AD ligar com a opção **Executar como administrador** .
+1. Abra uma nova sessão do Windows PowerShell no seu servidor Azure AD Connect com a opção **Executar como Administrador.**
 
-2. Executar **conjunto ExecutionPolicy RemoteSigned** ou **conjunto ExecutionPolicy ilimitado**.
+2. Executar **Política de execução de séries Remotamente Assinada** ou Política de Execução de **Conjuntos sem restrições**.
 
-3. Inicie o Assistente de ligação de AD Azure.
+3. Inicie o assistente Azure AD Connect.
 
-4. Navegue para a página de **Tarefas adicionais** , seleccione a **resolução de problemas**e clique em **seguinte**.
+4. Navegue na página **De Tarefas Adicionais,** selecione **Troubleshoot**, e clique **em Next**.
 
-5. Na página de resolução de problemas, clique em menu **Iniciar para iniciar a resolução de problemas** no PowerShell.
+5. Na página Deresolução de Problemas, clique em Lançar para iniciar o menu de resolução de **problemas** no PowerShell.
 
-6. No menu principal, seleccione a **Resolução de problemas de sincronização de palavra-passe**.
+6. No menu principal, selecione **Troubleshoot Password Synchronization**.
 
-7. No menu ' sub ', seleccione a **sincronização de palavra-passe não funciona em todos os**.
+7. No menu sub, selecione **Password Synchronization não funciona**de todo .
 
-**Compreender os resultados da tarefa de resolução de problemas**
+**Compreenda os resultados da tarefa de resolução de problemas**
   
-A tarefa de resolução de problemas efectua as seguintes verificações:
+A tarefa de resolução de problemas realiza as seguintes verificações:
   
-- Confirma que a funcionalidade de sincronização de palavra-passe está activada para o locatário Azure AD.
+- Valida que a funcionalidade de sincronização de palavras-passe está ativada para o seu inquilino Azure AD.
 
-- Confirma que o servidor de Azure AD ligar não está no modo de teste.
+- Valida que o servidor Azure AD Connect não esteja em modo de encenação.
 
-- Para cada existentes no local conector do Active Directory (que corresponde a uma floresta existente do Active Directory):
+- Para cada conector ativo de diretório existente no local (que corresponde a uma floresta de Diretório Ativo existente):
 
 - 
-  - Confirma que a funcionalidade de sincronização de palavra-passe está activada.
+  - Valida que a função de sincronização da palavra-passe esteja ativada.
 
-  - Procura de eventos de heartbeat de sincronização de palavra-passe nos registos de eventos de aplicações do Windows.
+  - Pesquisas por eventos de batimentocardíaco de sincronização de palavras-passe nos registos do Windows Application Event.
 
-  - Para cada domínio do Active Directory com o Active Directory connector no local:
+  - Para cada domínio de Diretório Ativo sob o conector ative diretório no local:
 
-  - Confirma que o domínio é acessível a partir do servidor Azure AD ligar.
+  - Valida que o domínio é acessível a partir do servidor Azure AD Connect.
 
-  - Confirma-se de que as contas de serviços de domínio do Active Directory (AD DS) utilizadas pelo conector Active Directory no local tem o nome de utilizador correcto, palavra-passe e permissões necessárias para a sincronização de palavra-passe.
+  - Valida que as contas de Serviços de Domínio de Diretório Ativo (AD DS) utilizadas pelo conector Ative Directory no local têm o nome de utilizador, palavra-passe e permissões corretas necessárias para a sincronização de palavras-passe.
 
-Para obter mais ajuda, resolução de problemas de sincronização de palavra-passe, consulte [sincronização de palavra-passe de resolução de problemas com sincronização Azure AD ligar](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
+Para obter mais ajuda na resolução de sincronização de palavras-passe, consulte a [sincronização da palavra-passe de Troubleshoot com a sincronização Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
   

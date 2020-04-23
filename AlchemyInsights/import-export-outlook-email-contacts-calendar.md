@@ -1,9 +1,9 @@
 ---
-title: 1221-Import-Export-Outlook-email-Contacts-Calendar
+title: 1221-importação-exportação-outlook-e-contacts-calendário
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545186"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724675"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Importar e exportar correio electrónico, contactos e itens de calendário do Outlook
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Importar e exportar o e-mail, os contactos e itens de calendário do Outlook
 
-1. No Outlook, clique em **ficheiro**.
+1. No Outlook, clique em **Ficheiro**.
 
-2. Clique em **Abrir & de exportação**e, em seguida, clique em **Importar/exportar**.
+2. Clique em **Abrir e Exportar** e, em seguida, clique em **Importar/Exportar**.
 
-    Este procedimento inicia o Assistente de importação e exportação.
+    Será iniciado o assistente de Importação e Exportação.
 
-Para um completo conjunto de importação e exportação instruções para o Outlook, consulte [Este artigo](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
+Para obter um conjunto completo de instruções de importação e exportação para o Outlook, consulte [este artigo](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
 
-Se for um administrador e pretender que a importação em massa de vários ficheiros PST com caixas de correio do Office 365, consulte [Este artigo](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+Se é administrador e pretende importar vários ficheiros PST para caixas de correio microsoft 365, consulte [este artigo](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).

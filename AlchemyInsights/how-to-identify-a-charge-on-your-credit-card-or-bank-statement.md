@@ -1,9 +1,9 @@
 ---
-title: Como identificar um encargo do cartão de crédito ou o extracto bancário
+title: Como identificar uma cobrança no seu cartão de crédito ou extrato bancário
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,17 +14,17 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: 9b3c6f04a505da6b2737a486ed02c97aa6152504
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b2935f673f93f575c6e658d693b4c24d30445a0d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540624"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724385"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Como identificar um encargo do cartão de crédito ou o extracto bancário
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Como identificar uma cobrança no seu cartão de crédito ou extrato bancário
 
-A descrição do encargo de uma subscrição do Office 365 tem o seguinte aspecto:
+A descrição da cobrança de uma subscrição do Microsoft 365 é desta forma:
   
 MSFT \* E012345ABC 0000 - MSBILL.INFO, WA
   
-A cadeia de alfa-numéricos de 10 caracteres seguintes MSFT \* é o número de factura, o encargo está associado. Para localizar a factura, vá para a **Facturação** \> página de [pagamentos de & de títulos](https://go.microsoft.com/fwlink/p/?linkid=848039) para ver as facturas recentes. O número de factura está perto do canto direito do documento de factura.
+A cadeia alfa-numérica de \* 10 caracteres que segue a MSFT é o Número da Fatura a que a carga se refere. Para encontrar a fatura, **Billing** \> vá à página [de faturas & pagamentos](https://go.microsoft.com/fwlink/p/?linkid=848039) para ver as suas faturas recentes. O número da fatura está perto do canto direito do documento de fatura.

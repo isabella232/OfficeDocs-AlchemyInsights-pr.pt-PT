@@ -1,9 +1,9 @@
 ---
-title: Verificar a ortografia em Outlook.com
+title: Verifique a ortografia em Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "213"
 - "8000007"
 ms.assetid: 7f2a5cfc-c555-4325-927e-7f3c7c884200
-ms.openlocfilehash: 9b581ccc1d0ca50dfb635aa3b9a2a2bb3339c6a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a6d1706990e9989b13a1a9fb48bb78b56ae6856a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547034"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760603"
 ---
-# <a name="use-your-browser-to-check-spelling"></a><span data-ttu-id="cb17d-102">Utilize o browser para verificar a ortografia</span><span class="sxs-lookup"><span data-stu-id="cb17d-102">Use your browser to check spelling</span></span>
+# <a name="use-your-browser-to-check-spelling"></a><span data-ttu-id="3a2f2-102">Use o seu navegador para verificar ortografia</span><span class="sxs-lookup"><span data-stu-id="3a2f2-102">Use your browser to check spelling</span></span>
 
-<span data-ttu-id="cb17d-103">Apesar de Outlook.com não tem uma correcção ortográfica verifique função, muitos web browsers verificar automaticamente a ortografia, incluindo Microsoft Edge, Internet Explorer 10 e versões posteriores e versões actuais do Firefox e Safari cromado.</span><span class="sxs-lookup"><span data-stu-id="cb17d-103">Although Outlook.com does not have a spell check function, many web browsers automatically check your spelling, including Microsoft Edge, Internet Explorer 10 and later versions, and current versions of Firefox, Chrome, and Safari.</span></span> <span data-ttu-id="cb17d-104">Verifique as opções para o web browser obter mais informações sobre como verificar a ortografia.</span><span class="sxs-lookup"><span data-stu-id="cb17d-104">Check the options for your web browser to learn more about how to check spelling.</span></span>
+<span data-ttu-id="3a2f2-103">Embora Outlook.com não tenha uma função de verificação ortográfica, muitos navegadores da Web verificam automaticamente a sua ortografia, incluindo Microsoft Edge, Internet Explorer 10 e versões posteriores, e versões atuais do Firefox, Chrome e Safari.</span><span class="sxs-lookup"><span data-stu-id="3a2f2-103">Although Outlook.com does not have a spell check function, many web browsers automatically check your spelling, including Microsoft Edge, Internet Explorer 10 and later versions, and current versions of Firefox, Chrome, and Safari.</span></span> <span data-ttu-id="3a2f2-104">Consulte as opções para o seu navegador web para saber mais sobre como verificar a ortografia.</span><span class="sxs-lookup"><span data-stu-id="3a2f2-104">Check the options for your web browser to learn more about how to check spelling.</span></span>

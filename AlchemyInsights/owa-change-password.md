@@ -1,9 +1,9 @@
 ---
-title: Alterar sua senha no Outlook na Web
+title: Altere a sua palavra-passe no Outlook na web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "8000002"
 - "1990"
-ms.openlocfilehash: 18aef4096e936138c85f22f343500f5f233f903f
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: df95d94d4fe019978fcbc222eee39846a597ad53
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36510490"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743068"
 ---
-# <a name="change-your-office-365-password"></a><span data-ttu-id="ba6d3-102">Alterar sua senha do Office 365</span><span class="sxs-lookup"><span data-stu-id="ba6d3-102">Change your Office 365 password</span></span>
+# <a name="change-your-microsoft-365-password"></a><span data-ttu-id="05dae-102">Altere a sua senha Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="05dae-102">Change your Microsoft 365 password</span></span>
 
-<span data-ttu-id="ba6d3-103">Se necessitar de alterar ou repor a palavra-passe do Office 365, pode ir directamente para esta página: [repor a palavra-passe da Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841910)</span><span class="sxs-lookup"><span data-stu-id="ba6d3-103">If you need to change or reset your Office 365 password, you can go directly to this page: [Reset your Microsoft password](https://go.microsoft.com/fwlink/p/?linkid=841910)</span></span>
+<span data-ttu-id="05dae-103">Se precisar de alterar ou redefinir a sua palavra-passe do Microsoft 365, pode ir diretamente para esta página: [Redefinir a sua palavra-passe da Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841910)</span><span class="sxs-lookup"><span data-stu-id="05dae-103">If you need to change or reset your Microsoft 365 password, you can go directly to this page: [Reset your Microsoft password](https://go.microsoft.com/fwlink/p/?linkid=841910)</span></span>

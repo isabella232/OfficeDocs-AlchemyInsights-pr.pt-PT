@@ -1,9 +1,9 @@
 ---
-title: Erro de servidor interno de Outlook.com 9000234
+title: 9000234 Outlook.com erro do servidor interno
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 5ba6eaacdc2f763948e7c34d50231fafe4138d5c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3f21b33866d0fe420c42b0c54350a43c99777f6f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536554"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760099"
 ---
-# <a name="internal-server-errors-in-outlookcom"></a><span data-ttu-id="b4980-102">Erros de servidor interno em Outlook.com</span><span class="sxs-lookup"><span data-stu-id="b4980-102">Internal server errors in Outlook.com</span></span>
+# <a name="internal-server-errors-in-outlookcom"></a><span data-ttu-id="869c5-102">Erros internos do servidor em Outlook.com</span><span class="sxs-lookup"><span data-stu-id="869c5-102">Internal server errors in Outlook.com</span></span>
 
-<span data-ttu-id="b4980-103">OH não!</span><span class="sxs-lookup"><span data-stu-id="b4980-103">Oh no!</span></span> <span data-ttu-id="b4980-104">Se vir "Erro 500" ou uma mensagem "Erro de servidor interno", é-nos e não - desculpa-me.</span><span class="sxs-lookup"><span data-stu-id="b4980-104">If you see "Error 500" or an "Internal Server Error" message, it's us and not you - sorry about that.</span></span>
+<span data-ttu-id="869c5-103">Oh, não!</span><span class="sxs-lookup"><span data-stu-id="869c5-103">Oh no!</span></span> <span data-ttu-id="869c5-104">Se vires "Error 500" ou uma mensagem "Internal Server Error", somos nós e não tu - desculpa por isso.</span><span class="sxs-lookup"><span data-stu-id="869c5-104">If you see "Error 500" or an "Internal Server Error" message, it's us and not you - sorry about that.</span></span>
 
-<span data-ttu-id="b4980-105">Consulte a [página de estado de serviço do Office](https://portal.office.com/servicestatus) para se certificar de que não há nada senão a decorrer, mas a melhor solução consiste em fazer uma pausa durante alguns minutos e, em seguida, actualize o browser, premindo a tecla **CTRL** e **F5**.</span><span class="sxs-lookup"><span data-stu-id="b4980-105">Check out the [Office Service Status page](https://portal.office.com/servicestatus) to make sure there's nothing else going on, but the best solution is to take a break for a few minutes, then refresh your browser by pressing **CTRL** and **F5**.</span></span>
+<span data-ttu-id="869c5-105">Consulte a [página do Estado do Serviço do Escritório](https://portal.office.com/servicestatus) para se certificar de que não há mais nada a acontecer, mas a melhor solução é fazer uma pausa durante alguns minutos e, em seguida, refrescar o seu navegador **pressionando CTRL** e **F5**.</span><span class="sxs-lookup"><span data-stu-id="869c5-105">Check out the [Office Service Status page](https://portal.office.com/servicestatus) to make sure there's nothing else going on, but the best solution is to take a break for a few minutes, then refresh your browser by pressing **CTRL** and **F5**.</span></span>

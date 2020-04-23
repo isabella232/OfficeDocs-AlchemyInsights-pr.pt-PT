@@ -1,9 +1,9 @@
 ---
-title: 610 obter informações sobre grupos do Office 365
+title: 610 Conheça o Office 365 Groups
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "610"
 - "3800008"
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: a5ad1fa51dd947baacda700d37c8ed1e5b700102
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b67781d510c582737f6f1eb3643024ae044de024
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497706"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762868"
 ---
-# <a name="learn-about-office-365-groups"></a><span data-ttu-id="3f56f-102">Obter informações sobre grupos do Office 365</span><span class="sxs-lookup"><span data-stu-id="3f56f-102">Learn about Office 365 Groups</span></span>
+# <a name="learn-about-office-365-groups"></a><span data-ttu-id="7c59a-102">Saiba mais sobre os Grupos do Office 365</span><span class="sxs-lookup"><span data-stu-id="7c59a-102">Learn about Office 365 Groups</span></span>
 
-<span data-ttu-id="3f56f-103">Office 365 grupos é um serviço que funciona com as ferramentas do Office 365 utilizar já, por isso, pode colaborar com os membros da equipa ao escrever documentos, criar folhas de cálculo, trabalhar em planos de projecto, agendar reuniões ou envio de correio electrónico.</span><span class="sxs-lookup"><span data-stu-id="3f56f-103">Office 365 Groups is a service that works with the Office 365 tools you use already, so you can collaborate with your teammates when writing documents, creating spreadsheets, working on project plans, scheduling meetings, or sending email.</span></span> <span data-ttu-id="3f56f-104">Para mais informações, consulte para [aprender sobre grupos do Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="3f56f-104">For more information, see [Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
+<span data-ttu-id="7c59a-103">O Office 365 Groups é um serviço que trabalha com o Office 365 ferramentas que já utiliza, para que possa colaborar com os seus colegas de equipa ao escrever documentos, criar folhas de cálculo, trabalhar em planos de projeto, agendar reuniões ou enviar e-mails.</span><span class="sxs-lookup"><span data-stu-id="7c59a-103">Office 365 Groups is a service that works with the Office 365 tools you use already, so you can collaborate with your teammates when writing documents, creating spreadsheets, working on project plans, scheduling meetings, or sending email.</span></span> <span data-ttu-id="7c59a-104">Para mais informações, consulte [O Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="7c59a-104">For more information, see [Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>

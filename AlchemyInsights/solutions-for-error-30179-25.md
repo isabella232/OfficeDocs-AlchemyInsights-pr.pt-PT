@@ -1,9 +1,9 @@
 ---
-title: Soluções para o erro 30179-25
+title: Soluções para erro 30179-25
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 12/19/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.assetid: 858c2f23-bcf5-42e4-92c5-8749eed29dfb
 ms.custom:
 - "835"
 - "2000020"
-ms.openlocfilehash: dca552a2b2ec743c6d4a0feff81e93341b800443
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 37e4c78ecd28c11d5f42a1448d96b856ef05d92c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501594"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767224"
 ---
-# <a name="solutions-for-error-30179-25"></a><span data-ttu-id="10733-102">Soluções para o erro 30179-25</span><span class="sxs-lookup"><span data-stu-id="10733-102">Solutions for error 30179-25</span></span>
+# <a name="solutions-for-error-30179-25"></a><span data-ttu-id="30092-102">Soluções para erro 30179-25</span><span class="sxs-lookup"><span data-stu-id="30092-102">Solutions for error 30179-25</span></span>
 
-<span data-ttu-id="10733-103">Poderá ver um erro com a mensagem "não foi possível transmitir em sequência Office" (código de erro [30179-25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)) se o disco rígido está a ficar sem espaço.</span><span class="sxs-lookup"><span data-stu-id="10733-103">You might see an error with the message, "Couldn't stream Office" (Error code [30179-25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)) if your hard drive is running out of space.</span></span>
+<span data-ttu-id="30092-103">Pode ver um erro com a mensagem, "Não consegui transmitir o Office" (Código de erro [30179-25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)) se o seu disco rígido estiver a ficar sem espaço.</span><span class="sxs-lookup"><span data-stu-id="30092-103">You might see an error with the message, "Couldn't stream Office" (Error code [30179-25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)) if your hard drive is running out of space.</span></span>
   
-<span data-ttu-id="10733-104">[Livre espaço no disco rígido](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) e, em seguida, [reinstalar o Office.](https://portal.office.com/OLS/MySoftware.aspx)</span><span class="sxs-lookup"><span data-stu-id="10733-104">[Free up space on your hard drive](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) and then [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+<span data-ttu-id="30092-104">[Liberte espaço no disco rígido](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) e, em seguida, [reinstale](https://portal.office.com/OLS/MySoftware.aspx)o Office .</span><span class="sxs-lookup"><span data-stu-id="30092-104">[Free up space on your hard drive](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) and then [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
   

@@ -1,8 +1,8 @@
 ---
-title: Como verificar o status de sincronização de senha
+title: Como verificar o estado da sincronização da palavra-passe
 ms.author: pebaum
 author: pebaum
-ms.date: 12/5/2017
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 7ddb515b3c4820e2c904124fa96049eade4cbd2b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36555388"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765604"
 ---
-# <a name="enable-password-sync"></a>Ativar sincronização de senha
+# <a name="enable-password-sync"></a>Ativar o Sincronizado de Passwords
 
-1.  Escolha o **status de DirSync** na home page do centro de administração do Microsoft 365. 
+1.  Escolha o **Estado DirSync** na página inicial do centro de administração da Microsoft 365. 
     
-     *Como alternativa, você pode ir **para** \> usuários **ativos**e na página usuários ativos, escolha **mais** \> **sincronização de diretórios.*** 
+     *Em alternativa, pode ir aos **utilizadores Ativos** **dos Utilizadores** \> , e na página de utilizadores Ativos, escolher **sincronização mais** \> **diretório.*** 
     
-2. No painel sincronização de diretórios, escolha **ir para o gerenciamento do DirSync**. 
+2. No painel de sincronização do diretório, escolha **ir para a gestão dirSync**. 
     
-3. Agora você verá seu status e fará alterações:
+3. Agora vai ver o seu estado e fazer alterações:
     
-    **Sincronização de senha habilitada:** (verdadeiro ou falso). Especifica se você tem a sincronização de senha habilitada entre o local e o locatário do Office 365. 
+    **Sincronização de palavra-passe ativada:** (Verdade ou Falso). Especifica se tem sincronização de senha ativada entre as instalações e o seu inquilino. 
     
-    **Última sincronização de senha:** (última vez que a sincronização de senha funcionou). Isso exibirá um aviso e um link para uma ferramenta de solução de problemas se a última sincronização foi há mais de três dias. 
+    **Última Sincronização de Palavra-Passe:** (Da última vez que a sincronização da palavra-passe foi decorrido). Isto mostrará um aviso e uma ligação a uma ferramenta de resolução de problemas se a última sincronização foi há mais de três dias. 
     
 

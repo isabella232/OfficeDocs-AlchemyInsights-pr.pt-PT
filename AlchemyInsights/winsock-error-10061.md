@@ -1,9 +1,9 @@
 ---
-title: Erro de Winsock 1554 10061
+title: 1554 Winsock erro 10061
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 12/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: f54c7fc81c274871fbc22908ce0fb21500975d9e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e8f62d97efc937518ef766b45e1747e83b7f99c3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530813"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766180"
 ---
-# <a name="winsock-error-10061"></a>Erro de Winsock 10061
+# <a name="winsock-error-10061"></a>Erro winsock 10061
 
-Este código de erro significa que o Office 365 não foi possível estabelecer um socket TCP (ligação) com o anfitrião de destino. A causa mais provável deste erro é um problema com a configuração do firewall. Para corrigir o problema, verifique estas definições:
+Este código de erro significa que a Microsoft não conseguiu estabelecer uma tomada TCP (ligação) com o anfitrião alvo. A causa mais provável deste erro é um problema com a configuração da firewall. Para corrigir o problema, verifique estas definições:
 
-- Verifique a configuração de firewall com as informações no [Office 365 URLs e intervalos de endereços IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+- Verifique a configuração da sua firewall com as informações nas [gamas Microsoft 365 URLs e IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-- Se o erro é específico para Exchange Online protecção (EOP), deve tiver sido previamente notificado a uma alteração para os [endereços IP de protecção Online do Exchange](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+- Se o erro for específico para a Troca de Proteção Online (EOP), deverá ter sido previamente notificado para uma alteração aos endereços IP de [Proteção Online de Troca](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
 
-- Certifique-se de que o fornecedor de serviços Internet (ISP) não está a bloquear a porta.
+- Verifique se o seu Fornecedor de Serviços de Internet (ISP) não está a bloquear a porta.
 
-- Verifique as definições de servidor de anfitrião e de destino inteligentes os conectores.
+- Verifique as definições do anfitrião inteligente e do servidor de destino nos seus conectores.
 
-Tenha em atenção que o Office 365 não bloquear ligações a *receber* desta forma.
+Note que o Microsoft 365 não bloqueia as ligações de *entrada* desta forma.

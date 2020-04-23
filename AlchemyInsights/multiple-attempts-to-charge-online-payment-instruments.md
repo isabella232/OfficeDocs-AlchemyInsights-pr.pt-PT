@@ -1,9 +1,9 @@
 ---
-title: Múltiplas tentativas para imputação de instrumentos de pagamento online
+title: Múltiplas tentativas de cobrar instrumentos de pagamento on-line
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 5bcba5903f9ca00b3c6235f9d07e165f35b2a66e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 970963f5aca1d5c281e4d887733a53c8bd1eb0b8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548690"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762005"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Múltiplas tentativas para imputação de instrumentos de pagamento online
+# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Múltiplas tentativas de cobrar instrumentos de pagamento on-line
 
-Iremos fazer várias tentativas para imputação de instrumentos de pagamento online antes de efectuar qualquer acção no serviço. Depois de um pagamento método estiver seleccionado, todos os atraso os montantes devem ser pagas com o método de pagamento seleccionado. Para actualizar as informações de pagamento actual para a sua subscrição, siga os passos de [Adicionar, actualizar, ou remover um cartão de crédito ou conta bancária no Office 365 para a empresa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Fazemos várias tentativas para cobrar instrumentos de pagamento on-line antes de tomar qualquer ação sobre o serviço. Após a escolha de um método de pagamento, todos os montantes devidos passados devem ser pagos com o método de pagamento selecionado. Para atualizar as informações de pagamento atuais para a sua subscrição, siga os passos em [Adicionar, atualizar ou remover um cartão de crédito ou uma conta bancária no Microsoft 365 para negócios](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

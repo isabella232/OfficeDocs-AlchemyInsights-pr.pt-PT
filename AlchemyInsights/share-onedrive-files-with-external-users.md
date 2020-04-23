@@ -1,9 +1,9 @@
 ---
-title: Compartilhe arquivos do OneDrive com usuários externos
+title: Partilhar ficheiros OneDrive com utilizadores externos
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 4/10/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,34 +11,34 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: da2e654a40cfb3a802a77526706b5093e2a6ac2d
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: e9550e1b70b00307101f9fa5feb0899c4c77541f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36549230"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742342"
 ---
-# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Compartilhar arquivos no OneDrive com pessoas fora da sua organização
+# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Partilhe ficheiros no OneDrive com pessoas fora da sua organização
 
-1. Use o iniciador de aplicativos para ir para o OneDrive no seu navegador da Web. 
+1. Utilize o lançador de aplicações para ir ao OneDrive no seu navegador web. 
     
-2. Selecione o arquivo ou pasta que você deseja compartilhar e, em seguida, selecione **compartilhar**. 
+2. Selecione o ficheiro ou pasta que pretende partilhar e, em seguida, selecione **Partilhar**. 
     
-3. Se o tipo de vínculo estiver definido como "pessoas \<em sua\>organização", clique na seta para baixo e selecione uma das seguintes opções: 
+3. Se o tipo de link \<estiver\>definido para "Pessoas na sua organização ", clique na seta para baixo e selecione um dos seguintes: 
     
-  - **Qualquer pessoa** dá acesso a qualquer pessoa que recebe este link, se eles recebê-lo diretamente de você ou encaminhado de outra pessoa. Isso pode incluir pessoas fora da sua organização. 
+  - **Qualquer pessoa** dá acesso a qualquer pessoa que receba este link, quer o receba diretamente de si ou reencaminhado de outra pessoa. Isto pode incluir pessoas fora da sua organização. 
     
-  - As pessoas **específicas** dão acesso apenas às pessoas que você especificar, embora outras pessoas já possam ter acesso. Se as pessoas encaminharem o convite de compartilhamento, somente as pessoas que já tiverem acesso ao item poderão usar o link. 
+  - **Pessoas específicas** dão acesso apenas às pessoas que especifica, embora outras pessoas possam já ter acesso. Se as pessoas encaminharem o convite de partilha, apenas as pessoas que já têm acesso ao item poderão usar o link. 
     
     > [!NOTE]
-    > Se uma dessas opções não estiver disponível ou se você quiser que um tipo de link diferente apareça por padrão, você poderá alterar as configurações de toda a organização indo para o centro de administração do OneDrive e clicando em **compartilhamento** no painel esquerdo. [Saiba Mais](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Se uma destas opções não estiver disponível, ou se quiser que um tipo de link diferente apareça por padrão, pode alterar as definições em toda a organização, indo ao centro de administração do OneDrive e clicando em **Partilhar** no painel esquerdo. [Saiba mais](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. Por padrão, **permitir a edição** está ativada. Se pretender que as pessoas visualizem apenas os seus ficheiros, desmarque a caixa de verificação. 
+4. Por defeito, **permitir que a edição** seja ligada. Se quiser que as pessoas só vejam os seus ficheiros, verifique a caixa de verificação. 
     
-5. Introduza os nomes das pessoas com quem pretende partilhar e uma mensagem, se pretender.
+5. Insira os nomes das pessoas com quem quer partilhar e uma mensagem, se quiser.
     
 6. Quando estiver pronto para enviar o link, clique em **Enviar**. 
     
-[Saiba Mais](https://go.microsoft.com/fwlink/?linkid=871861)
+[Saiba mais](https://go.microsoft.com/fwlink/?linkid=871861)
   
 

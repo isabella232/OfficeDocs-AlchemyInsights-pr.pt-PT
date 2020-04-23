@@ -1,9 +1,9 @@
 ---
-title: 1490-resolução de problemas-detecção de dados electrónicos-falhas
+title: 1490-troubleshooting-eDiscovery-failures
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559384"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759595"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Resolver erros de pesquisa de conteúdo
+# <a name="troubleshoot-content-search-errors"></a>Erros de pesquisa de conteúdo de resolução de problemas
 
-São com problemas com a pesquisa de conteúdo no Office 365 ou obter falhas quando exporta os resultados da procura?
+Está a ter problemas com a Pesquisa de Conteúdos ou com falhas na exportação de resultados de pesquisa?
 
-Por exemplo, está a receber a seguinte quando executar procuras?
+Por exemplo, está a receber o seguinte ao fazer pesquisas?
 
-- Erros de CS008 ou CS012
+- Erros CS008 ou CS012
 
-- Erros de disponibilidade/tempo de espera do servidor
+- Erros de tempo/tempo do servidor
 
-- Ocorreu o erro de aplicação
+- Erro de aplicação ocorreu
 
-Ou, quando procura ou exportar os resultados de um grande número de caixas de correio (mais de 100.000 caixas de correio), está a obter erros de exportação?
+Ou ao pesquisar ou exportar resultados de um grande número de caixas de correio (mais de 100.000 caixas de correio), está a ter erros de exportação?
 
-Para estes tipos de erros, tente novamente a procura para as localizações de conteúdo que falharam. Consulte [Este artigo](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) para obter mais informações.
+Para este tipo de erros, tente novamente a procura dos locais de conteúdo que falharam. Consulte [este artigo](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) para mais informações.

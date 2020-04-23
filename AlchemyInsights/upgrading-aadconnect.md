@@ -1,9 +1,9 @@
 ---
-title: 932 AADConnect actualizar
+title: 932 Upgrade AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: ff3f74348599788edd8ce0991fe49bb6a54b55af
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fcc5fddb5cfd15407d0533449035317d187931ed
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506094"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766504"
 ---
-# <a name="upgrade-azure-ad-connect"></a>Actualização Azure AD ligar
+# <a name="upgrade-azure-ad-connect"></a>Upgrade Azure AD Connect
 
-Por predefinição, a actualização automática está activada para Azure ligar AD, que ajuda a garantir está a executar a versão mais recente. Para verificar as definições de actualização automáticas, utilize o cmdlet **Get-ADSyncAutoUpgrade** no PowerShell de AD Azure. O cmdlet irá devolver um dos seguintes valores:
+Por predefinição, a atualização automática está ativada para o Azure AD Connect, o que ajuda a garantir que está a executar a versão mais recente. Para verificar as definições de atualização automática, utilize o **cmdlet Get-ADSyncAutoUpgrade** em Azure AD PowerShell. O cmdlet devolverá um dos seguintes valores:
 
-- **Activado**: actualização automática está activada.
+- **Ativado**: Está ativada a atualização automática.
 
-- **Desactivado**: actualização automática está desactivada.
+- **Desativado**: A atualização automática está desativada.
 
-- **Suspenso**: O sistema já não é elegível para receber actualizações automáticas. Não é possível configurar este valor; é definida pelo sistema.
+- **Suspenso**: O sistema já não é elegível para receber atualizações automáticas. Não é possível configurar este valor; é definido pelo sistema.
 
-Para mais informações, consulte [actualização automática](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
+Para mais informações, consulte [a atualização automática](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
 
-Para transferir a versão mais recente do Azure AD ligar, vá para [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).
+Para descarregar a versão mais recente do [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594)Azure AD Connect, vá a .

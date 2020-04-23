@@ -1,9 +1,9 @@
 ---
-title: 603 obter informações sobre como ajustar as definições de Agenda
+title: 603 Saiba como ajustar as definições da Agenda
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "603"
 - "3800002"
 ms.assetid: d9d92a75-2ddc-41eb-b705-b2767d733f22
-ms.openlocfilehash: f7a08d64f2462036cdebc947d70126f43814884f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d2da78e005d64ddff0466e763e75d442aaf25980
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497562"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762796"
 ---
-# <a name="learn-how-to-configure-agenda-settings"></a>Obter informações sobre como configurar as definições de agenda
+# <a name="learn-how-to-configure-agenda-settings"></a>Saiba como configurar as definições da agenda
 
-Definições de agenda estão localizadas nas definições de **calendário** no Outlook na web. Para mais informações, consulte [definições de calendário do Outlook na web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).
+As definições da agenda estão localizadas nas definições do **Calendário** no Outlook na web. Para mais informações, consulte [as definições](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f)do Calendário no Outlook na web .
 
-Admins pode utilizar o cmdlet **Conjunto CalendarNotification** no PowerShell Online do Exchange para configurar definições de agenda. Para mais informações, consulte [Definir CalendarNotification](https://technet.microsoft.com/library/dd351284).
+Os administradores podem usar o **cmdlet Set-CalendarNotification** no Exchange Online PowerShell para configurar as definições da agenda. Para mais informações, consulte [Set-CalendarNotification](https://technet.microsoft.com/library/dd351284).

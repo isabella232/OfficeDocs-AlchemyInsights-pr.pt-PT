@@ -1,28 +1,28 @@
 ---
-title: Mude sua foto de perfil no Outlook na web
+title: Altere a sua imagem de perfil no Outlook na web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 01ebbe085c0f8585171be8ff71fbf5c09eddc8a7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: cce75481d3102aa6516fe18939e06fc9d5ff47bb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36557224"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764775"
 ---
-# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Mude sua foto de perfil no Outlook na web
+# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Altere a sua imagem de perfil no Outlook na web
 
-1. Na parte superior da página, selecione seu nome ou foto do perfil.
-1. No painel **da minha conta,** selecione sua foto de perfil.
-1. Na **alteração do seu** diálogo com fotos, selecione **faça upload de uma nova foto.**
-1. Escolha uma foto para fazer upload e selecionar **Aplicar**.
+1. No topo da página, selecione o seu nome ou imagem de perfil.
+1. No painel **da minha conta,** selecione a sua imagem de perfil.
+1. No diálogo **Alterar a sua foto,** selecione **Carregar uma nova fotografia**.
+1. Escolha uma foto para carregar e selecione **Aplicar**.
 
-*Nota:* Sua nova foto aparecerá na próxima vez que você entrar no Office 365.
+*Nota:* A sua nova fotografia aparecerá da próxima vez que iniciar sessão no Microsoft 365.
 
-Para mais informações, veja [alterar suas informações de fotos e conta no Outlook na web.](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)
+Para mais informações, consulte Alterar as [informações](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)sobre a sua fotografia e conta no Outlook na web .

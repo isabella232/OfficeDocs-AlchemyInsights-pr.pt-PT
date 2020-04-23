@@ -1,5 +1,5 @@
 ---
-title: Migrar dados de pastas públicas para o Office 365
+title: Migrar dados de pastas públicas para o Microsoft 365
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -11,22 +11,22 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: 85bef3ac5f590a57ead16cb73c7961fcb0ee8eae
-ms.sourcegitcommit: 198defbbed20dd9db3f7c044c6e77a8feb05dacd
+ms.openlocfilehash: b9659f657555411ffd87a63bc099708b49d46300
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "39202605"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762148"
 ---
-# <a name="migrate-public-folder-data-to-office-365"></a>Migrar dados de pastas públicas para o Office 365
+# <a name="migrate-public-folder-data-to-microsoft-365"></a>Migrar dados de pastas públicas para o Microsoft 365
 
-Se você não tem um monte de pastas públicas para trazer para o Office 365, a maneira mais fácil de trazê-los seria copiar os dados em . PST arquivos e, em seguida, importá-los para o Office 365. Para pequenas quantidades de dados, um arrasto simples e gota de pasta pública em um . O arquivo PST pode ser suficiente. Se você tiver mais dados do que isso (até 30GB), [documentamos um processo](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) que você pode usar para exportar pastas para arquivos PST.
+Se não tiver muitas pastas públicas para trazer para o Microsoft 365, a maneira mais fácil de as trazer seria copiar os dados em . Os ficheiros PST e, em seguida, importá-los para o Microsoft 365. Para pequenas quantidades de dados, um simples arrasto e gota de pasta pública em a . O ficheiro PST pode ser suficiente. Se tiver mais dados do que isso (até 30GB), [documentámos um processo](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) que pode utilizar para exportar pastas para ficheiros PST.
   
-Para organizações maiores que estão movendo pastas públicas para o Office 365, temos guias disponíveis:
+Para organizações maiores que estão a mover pastas públicas para o Microsoft 365, temos guias disponíveis:
   
-- [Migrar pastas públicas herdadas](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)
+- [Pastas públicas antigas (Bolsa](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) 2010)
 
-- [Migrate Exchange 2013, Exchange 2016, ou Exchange 2019 pastas públicas](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
+- [Bolsa de Migração 2013, Troca de 2016 ou Pastas públicas de Troca de 2019](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-Você também tem a opção de migrar pastas públicas para o [Office 365 Groups.](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups)
+Tem também a opção de migrar pastas públicas para o [Office 365 Groups](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
   

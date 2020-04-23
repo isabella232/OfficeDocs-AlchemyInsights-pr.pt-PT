@@ -1,30 +1,30 @@
 ---
-title: O que posso fazer a actualização de versões?
+title: O que posso fazer com a versão?
 ms.author: toresing
 author: tomresing
-ms.date: 6/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 36c890c4-cafc-4409-8887-4a5c039692e3
-ms.openlocfilehash: d479b44e9ef858b0279f2d7e053132a877aabbd2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b86d815bb1e2e34474df9237c24c254c57f56aeb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531334"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765352"
 ---
-# <a name="what-can-i-do-with-versioning"></a>O que posso fazer a actualização de versões?
+# <a name="what-can-i-do-with-versioning"></a>O que posso fazer com a versão?
 
-Pode utilizar o controlo de versões em listas e bibliotecas para SharePoint:
+Pode utilizar a versão nas listas e bibliotecas do SharePoint para:
   
-- **Histórico de faixa de uma versão**. Quando a actualização de versões está activada, pode ver quando um item ou ficheiro foi alterado e quem o alterou. Também pode ver quando propriedades (informações sobre o ficheiro) foram alteradas. Por exemplo, se outro utilizador alterar a data de vencimento de um item de lista, essa informação é apresentada no histórico de versão. Também pode ver os comentários pessoas efectuar-se ao que verifiquem os ficheiros em bibliotecas. 
+- **Acompanhe o histórico de uma versão.** Quando a versão está ativada, pode ver quando um item ou ficheiro foi alterado e quem o alterou. Também pode ver quando as propriedades (informações sobre o ficheiro) foram alteradas. Por exemplo, se alguém alterar a data de vencimento de um item da lista, essa informação aparece no histórico da versão. Também é possível ver os comentários que as pessoas fazem quando verificam ficheiros nas bibliotecas. 
     
-- **Restaurar uma versão anterior**. Se fizer um erro numa versão actual, se a versão actual está danificada ou se apenas pretender uma versão anterior melhor, pode substituir a versão actual por um anterior. Versão restaurada torna-se a nova versão actual. 
+- **Restaurar uma versão anterior.** Se cometeu um erro numa versão atual, se a versão atual for corrupta, ou se simplesmente gostar melhor de uma versão anterior, pode substituir a versão atual por uma anterior. A versão restaurada torna-se a nova versão atual. 
     
-- **Ver uma versão anterior**. Pode ver uma versão anterior sem substituir a versão actual. Se estiver a ver o histórico de versões num documento do Microsoft Office, tal como um ficheiro do Word ou Excel, pode comparar duas versões para determinar quais são as diferenças. 
+- **Ver uma versão anterior**. Pode ver uma versão anterior sem sobrepor a sua versão atual. Se estiver a ver o histórico da versão dentro de um documento do Microsoft Office, como um ficheiro Word ou Excel, pode comparar as duas versões para determinar quais são as diferenças. 
     
-[Obter mais informações sobre como funciona o controlo de versão no SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875710)
+[Saiba mais sobre como a versão funciona no SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875710)
   
 

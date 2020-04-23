@@ -1,9 +1,9 @@
 ---
-title: Localizar e recuperar em falta ou eliminados correio electrónico, eventos do calendário ou contactos
+title: Encontre e recupere e-mails desaparecidos ou eliminados, eventos de calendário ou contactos
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/20/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "8000003"
 - "1991"
-ms.openlocfilehash: 2b458c46f98b5f82fab33add6d66d7b34f8b9bfd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ee8a6d9bd660179f1da4ec267462ca580b3139d9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510418"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768484"
 ---
-# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-in-outlook-on-the-web"></a>Localizar e recuperar em falta ou eliminados correio electrónico, eventos do calendário ou contactos do Outlook na web
+# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-in-outlook-on-the-web"></a>Encontre e recupere e-mails desaparecidos ou eliminados, eventos de calendário ou contactos no Outlook na web
 
-- Na impressão, utilize a <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- Barra de **procura** na parte superior da página para [Procurar mensagens ou contactos](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).
+- No Correio, use o <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ **Pesquise** a barra no topo da página para [procurar mensagens ou contactos](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).
 
-- No calendário, utilizar o <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- Barra de **procura** na parte superior da página para [Procurar eventos utilizando uma palavra, nome ou expressão](https://support.office.com/article/d587aaec-fb2c-4f6f-aee1-0df1fc591477). Se tiver mais do que um calendário aberto, procura irá focar o calendário que está actualmente seleccionado.
+- No Calendário, use o <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ **Procure** na barra no topo da página para [procurar eventos usando uma palavra, nome ou frase](https://support.office.com/article/d587aaec-fb2c-4f6f-aee1-0df1fc591477). Se tiver mais de um calendário aberto, a pesquisa centrar-se-á no calendário que está atualmente selecionado.
 
-- Se eliminar acidentalmente uma mensagem, o evento do calendário ou o contacto, poderá [recuperar esses itens se estiverem ainda no seu itens eliminados ou a pasta de correio electrónico de publicidade](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).
+- Se apagar acidentalmente uma mensagem, um evento de calendário ou um contacto, poderá [recuperar esses itens se ainda estiverem nos seus Itens Apagados ou](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11)na pasta Junk Email .

@@ -10,16 +10,16 @@ ms.assetid: ''
 ms.custom:
 - "1300007"
 - "4372"
-ms.openlocfilehash: 8a912b32dee23e8c6eae0ad7bc72228d49ceeb92
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: a664bd709062ec1335ebcf1f9adddc8aef917ac1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946735"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766612"
 ---
 # <a name="unexpected-multi-factor-authentication"></a>Autenticação multifator inesperada
 
-Se o seu inquilino foi criado depois de 21 de outubro de 2019 e está a receber pedidos inesperados para a MFA, é provável que tenha [predefinições de segurança](http://aka.ms/securitydefaults) ativadas no seu inquilino. 
+Se o seu inquilino foi criado depois de 21 de outubro de 2019 e está a receber pedidos inesperados para a MFA, é provável que tenha [predefinições de segurança](https://aka.ms/securitydefaults) ativadas no seu inquilino. 
 
 Para Gerir predefinições de segurança:
 

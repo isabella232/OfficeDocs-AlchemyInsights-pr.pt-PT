@@ -1,9 +1,9 @@
 ---
-title: 1488-Perform-eDiscovery-and-Content-Searches
+title: 1488-perform-eDiscovery-and-content-searchs
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555244"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764739"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Como efectuar procuras de conteúdo e procuras de detecção de dados electrónicos
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Como realizar Pesquisas de Conteúdo e pesquisas eDiscovery
 
-Utilize a ferramenta Procurar conteúdo no & Security Center de conformidade para localizar rapidamente correio electrónico em caixas de correio do Exchange, documentos em sites do SharePoint e conta de OneDrive e conversações em Skype para a empresa de mensagens instantâneas. Também pode utilizar a ferramenta de pesquisa de conteúdo para procurar a mensagem de correio electrónico, documentos e conversações de mensagens instantâneas em ferramentas de colaboração do Office 365 como Teams da Microsoft e grupos do Office 365.
+Utilize a ferramenta de pesquisa de conteúdo no Security & Compliance Center para encontrar rapidamente e-mails em caixas de correio de troca, documentos em sites SharePoint e conta OneDrive, e conversas de mensagens instantâneas no Skype para negócios. Também pode utilizar a Ferramenta de Pesquisa de Conteúdo para procurar e-mails, documentos e conversas de mensagens instantâneas em ferramentas de colaboração microsoft 365, como Microsoft Teams e Office 365 Groups.
 
-**Para efectuar uma pesquisa de conteúdo**
+**Para realizar uma pesquisa de conteúdo**
 
-1. Vá para a [segurança & Centro de conformidade](https://protection.office.com) e iniciar sessão.
-2. Clique em **Procurar conteúdo de > de procura**.
-3. Clique em **nova procura** para criar uma nova procura.
-4. Introduza as condições de procura necessárias, incluindo palavras-chave e localizações de conteúdo.  
-5. Clique em **Guardar & executar** a procura de nomes, iniciá-lo e, em seguida, pré-visualize os resultados.
+1. Vá ao Centro de [Conformidade & segurança](https://protection.office.com) e inscreva-se.
+2. Clique em **pesquisar > Pesquisa de Conteúdo**.
+3. Clique em **Nova pesquisa** para criar uma nova pesquisa.
+4. Introduza as condições de pesquisa necessárias, incluindo palavras-chave e locais de conteúdo.  
+5. Clique em **Guardar & executar** para nomear a pesquisa, iniciá-la e, em seguida, pré-visualizar os resultados.
 
-Para obter instruções detalhadas sobre pesquisas de conteúdo, exportar resultados e a criação de casos de detecção de dados electrónicos para armazenar dados, consulte o [Conteúdo de procura](https://docs.microsoft.com/office365/securitycompliance/content-search) e [casos de detecção de dados electrónicos](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Para instruções detalhadas sobre pesquisas de conteúdo, resultados de exportação e criação de casos de eDiscovery para conter dados, consulte [casos](https://docs.microsoft.com/office365/securitycompliance/content-search) de Pesquisa de Conteúdo e [EDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-Compreenda mais sobre como procurar conteúdo por rever os [requisitos e os limites](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) e [investigar parcialmente itens indexados](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) e outros resultados para ter em consideração.
+Entenda mais sobre a Pesquisa de Conteúdos, analisando os [requisitos e limites](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) e [investigando itens parcialmente indexados](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) e outros resultados a ter em conta.

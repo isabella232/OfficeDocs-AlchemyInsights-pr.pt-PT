@@ -1,9 +1,9 @@
 ---
-title: Precisa de permissão para acessar o site
+title: Necessidade de permissão para aceder ao site
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: 950387b8c7f2a4910b38e3d30154c146af123c54
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: b8043dfff5ac85566135753ce9f44855f81357fd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122589"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761933"
 ---
-# <a name="you-need-permission-to-access-this-site"></a>Você precisa de permissão para acessar este site
+# <a name="you-need-permission-to-access-this-site"></a>Você precisa de permissão para aceder a este site
 
-["Acesso negado", "você precisa de permissão para acessar este site", ou "usuário não encontrado no diretório" erros no SharePoint Online e OneDrive para empresas](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+["Acesso Negado", "É necessário autorização para aceder a este site", ou "Utilizador não encontrado no diretório" erros no SharePoint Online e OneDrive para Negócios](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)

@@ -3,7 +3,7 @@ title: ProxyAddress incorreto
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c4cea778-1b26-4aea-bde8-4b7605e35886
-ms.openlocfilehash: 1f908b6fca813ff6cbc4d05d08ee2eb9c49f3515
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 9695ae693370b1b6145136ba470b41dcb910eb31
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36554235"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765460"
 ---
 # <a name="proxyaddress-incorrect"></a>ProxyAddress incorreto
 
-Quando um objeto é sincronizado com o AD do Azure, os valores especificados no atributo proxyAddressno Diretório Ativo são comparados com as regras do AD do Azure e, em seguida, o atributo proxyAddressé preenchido em AD azure. Portanto, os valores do atributo proxyAddresss para o objeto no Diretório Ativo pode não ser o mesmo que os valores do atributo proxyAddresss em AD Azure.
+Quando um objeto é sincronizado para AD Azure, os valores especificados no atributo proxyAddresses em Diretório Ativo são comparados com as regras da AD Azure, e então o atributo proxyAddresses é povoado em Azure AD. Por isso, os valores dos proxyAddresss atributos para o objeto em Diretório Ativo podem não ser os mesmos que os valores do atributo proxyAddresses em Azure AD.
   
-Para saber mais sobre como o endereço proxy é preenchido, veja [como o atributo proxyAddress é preenchido em azure ad](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).
+Para saber mais sobre como o proxyaddress é povoado, veja [como o atributo proxyAddress é povoado em Azure AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).
   
 

@@ -1,9 +1,9 @@
 ---
-title: Outlook.com assinaturas de e-mail
+title: Outlook.com subscrições de e-mail
 ms.author: lpyfer
 author: lpyfer
 manager: joallard
-ms.date: 11/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3158"
 - "9001198"
-ms.openlocfilehash: c07e1af1f1559b06515cdb65ca3c40c58bdb7216
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f802c3fb16decad593cf79ebb20561f61f0931ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38645663"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43723542"
 ---
-# <a name="unable-to-attach-or-upload-files-from-facebook"></a><span data-ttu-id="8be62-102">Incapaz de anexar ou carregar arquivos do Facebook</span><span class="sxs-lookup"><span data-stu-id="8be62-102">Unable to attach or upload files from Facebook</span></span>
+# <a name="unable-to-attach-or-upload-files-from-facebook"></a><span data-ttu-id="f67d0-102">Incapaz de anexar ou carregar ficheiros a partir do Facebook</span><span class="sxs-lookup"><span data-stu-id="f67d0-102">Unable to attach or upload files from Facebook</span></span>
 
-<span data-ttu-id="8be62-103">Devido a uma alteração nos termos e condições do Facebook, após 23 de outubro de 2019, você não poderá mais carregar anexos diretamente do Facebook, e o Facebook não aparecerá mais na lista de seus locais de nuvem.</span><span class="sxs-lookup"><span data-stu-id="8be62-103">Due to a change in Facebook terms and conditions, after October 23, 2019, you will no longer be able to able to upload attachments directly from Facebook, and Facebook will no longer appear in the list of your cloud locations.</span></span> 
+<span data-ttu-id="f67d0-103">Devido a uma mudança nos termos e condições do Facebook, depois de 23 de outubro de 2019, deixará de ser capaz de carregar anexos diretamente do Facebook, e o Facebook deixará de aparecer na lista das suas localizações na nuvem.</span><span class="sxs-lookup"><span data-stu-id="f67d0-103">Due to a change in Facebook terms and conditions, after October 23, 2019, you will no longer be able to able to upload attachments directly from Facebook, and Facebook will no longer appear in the list of your cloud locations.</span></span> 
 
-<span data-ttu-id="8be62-104">Você pode gerenciar sua lista de outros locais de nuvem em suas [contas de armazenamento.](https://go.microsoft.com/fwlink/?linkid=2111075)</span><span class="sxs-lookup"><span data-stu-id="8be62-104">You can manage your list of other cloud locations in your [Storage accounts](https://go.microsoft.com/fwlink/?linkid=2111075).</span></span>
+<span data-ttu-id="f67d0-104">Pode gerir a sua lista de outras localizações em nuvem nas suas contas de [Armazenamento](https://go.microsoft.com/fwlink/?linkid=2111075).</span><span class="sxs-lookup"><span data-stu-id="f67d0-104">You can manage your list of other cloud locations in your [Storage accounts](https://go.microsoft.com/fwlink/?linkid=2111075).</span></span>
 
-<span data-ttu-id="8be62-105">Saiba mais sobre [as contas de armazenamento.](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a)</span><span class="sxs-lookup"><span data-stu-id="8be62-105">Learn more about [Storage accounts](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).</span></span>
+<span data-ttu-id="f67d0-105">Saiba mais sobre [as contas de Armazenamento.](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a)</span><span class="sxs-lookup"><span data-stu-id="f67d0-105">Learn more about [Storage accounts](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).</span></span>
   

@@ -2,7 +2,7 @@
 title: Está a ter problemas com a entrega de e-mails?
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/21/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: 031b79da47892b4449bfd3d6f1157d1c41e60473
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 1737c1f78da348cb09cbdd1ff110b0b766fcd505
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739792"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710274"
 ---
 # <a name="having-email-delivery-issues"></a>Está a ter problemas com a entrega de e-mails?
 
@@ -26,7 +26,7 @@ Detetámos que os seus utilizadores não conseguem receber e-mails enviados para
   
 {HealthCheckString}
   
-Os registos NS ou MX das definições do domínio (DNS) não estão configurados corretamente para a entrega de e-mails para o seu serviço do Office 365. Pode consultar o artigo [Criar registos DNS em qualquer fornecedor de alojamento DNS para o Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) para obter instruções detalhadas.
+Os registos NS ou MX das definições do domínio (DNS) não estão configurados corretamente para a entrega de e-mails para o seu serviço Microsoft. Pode consultar o artigo [Criar registos DNS em qualquer fornecedor de alojamento DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) para obter instruções detalhadas.
   
 Para corrigir o problema, aceda à página [Domínios](https://admin.microsoft.com/adminportal/home#/Domains) no centro de administração do Microsoft 365.
   

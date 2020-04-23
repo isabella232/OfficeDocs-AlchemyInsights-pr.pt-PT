@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692406"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709950"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Conferências de Áudio
 
-Precisa de ajuda para ligar ou configurar as Conferências de Áudio no Microsoft Teams? Este utilizador foi criado recentemente?  Em caso afirmativo, terá de esperar 2 a 24 horas para que as definições entrem em vigor.    
+Precisa de ajuda para ligar ou configurar as Conferências de Áudio no Microsoft Teams? Este utilizador foi criado recentemente?  Em caso afirmativo, terá de esperar 2 a 24 horas para que as definições entrem em vigor.
 
 Para verificar se o utilizador está licenciado para Conferências de Áudio e tem um Número de Serviço Pago Predefinido:
 
@@ -39,4 +39,4 @@ Para verificar se o utilizador está licenciado para Conferências de Áudio e t
 
 7. Selecione o utilizador em questão e verifique se tem um **Número de Serviço Pago Predefinido**.
 
-Para mais informações consulte [Planos de Chamadas para o Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou ligue para a equipa de faturação da Microsoft Commerce para obter ajuda com questões relacionadas com licenciamento.
+Para mais informações consulte [Planos de Chamadas](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou ligue para a equipa de faturação da Microsoft Commerce para obter ajuda com questões relacionadas com licenciamento.

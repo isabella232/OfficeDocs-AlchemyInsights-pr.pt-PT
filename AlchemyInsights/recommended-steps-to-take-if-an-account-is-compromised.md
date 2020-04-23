@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745444"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719315"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Passos recomendados a seguir se uma conta estiver comprometida
 
-[VÍDEO: Corrigir uma conta do Office 365 comprometida](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[VÍDEO: Corrigir uma conta comprometida](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. [Reponha a palavra-passe do utilizador](https://docs.microsoft.com/office365/admin/add-users/reset-passwords) imediatamente. Não comunique a nova palavra-passe através de um e-mail para o utilizador final.
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745444"
 
 5. Remova a conta de utilizador de todos os [grupos com funções administrativas](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles) até ter a certeza de que a conta já não está comprometida.
 
-Para minimizar as probabilidades de sofrer uma falha de segurança de dados ou de uma conta ficar comprometida no futuro, recomendamos que leia o nosso [roteiro de segurança do Office 365](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
+Para minimizar as probabilidades de sofrer uma falha de segurança de dados ou de uma conta ficar comprometida no futuro, recomendamos que leia o nosso [roteiro de segurança do Microsoft 365](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
   

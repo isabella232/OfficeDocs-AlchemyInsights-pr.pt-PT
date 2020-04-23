@@ -1,35 +1,35 @@
 ---
-title: Gerenciar perfis de usuário sinem o Delve
+title: Gerir perfis de utilizador em Delve
 ms.author: ponincev
 author: pebaum
-ms.date: 9/12/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 73061d23b7deec176f0695dcfb1895eebc428df9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36497202"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720550"
 ---
-# <a name="manage-user-profiles-in-delve"></a>Gerenciar perfis de usuário sinem o Delve
+# <a name="manage-user-profiles-in-delve"></a>Gerir perfis de utilizador em Delve
 
-O Office Delve permite que os usuários gerenciem seu perfil de usuário do Office 365. Os usuários podem:
+O Office Delve permite que os utilizadores gerem o seu perfil de utilizador. Os utilizadores podem:
   
-- Visualizar e atualizar suas informações
+- Ver e atualizar as suas informações
     
 - Mantenha algumas informações privadas
     
-- Alterar o perfil ou a imagem da capa
+- Alterar o seu perfil ou imagem de capa
     
-- Alterar o formato de linguagem e tempo para Delve
+- Alterar o formato de idioma e tempo para Adelve
     
 > [!NOTE]
-> Se um usuário atualizou sua foto de perfil e a alteração não está aparecendo no SharePoint ou No OneDrive, peça que eles abram um navegador da web, [acesse Office.com,](https://www.office.com)entre mine com sua conta de trabalho ou escola e, em seguida, clique no tileno OneDrive ou SharePoint. Isso fará com que a imagem do perfil sincronize. O usuário pode precisar tentar concluir essas etapas com a versão privada de seu navegador. 
+> Se um utilizador atualizou a sua imagem de perfil e a mudança não aparece no SharePoint ou oneDrive, peça-lhe para abrir um navegador web, [vá para Office.com](https://www.office.com), inscreva-se com o seu trabalho ou conta escolar e, em seguida, clique no azulejo OneDrive ou SharePoint. Isto irá levar a imagem do perfil a sincronizar. O utilizador poderá ter de tentar completar estes passos com a versão Privada do seu navegador. 
   
-[Saiba mais sobre a atualização de perfis em Delve](https://go.microsoft.com/fwlink/?linkid=735070)
+[Saiba mais sobre atualização de perfis em Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

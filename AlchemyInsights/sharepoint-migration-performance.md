@@ -12,21 +12,19 @@ ms.custom:
 - "5300030"
 - "2700"
 - "3179"
-ms.openlocfilehash: 500406e0f19610fe884df1faf3537aa7cb947e47
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552791"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789313"
 ---
 # <a name="sharepoint-migration-performance-guidance"></a>Diretrizes sobre o desempenho de migrações do SharePoint
 
-O desempenho da migração pode ser afetado pela infraestrutura da rede, tamanho dos ficheiros, tempo de migração e limitações. Compreender estes fatores vai ajudá-lo a planear e maximizar a eficácia da sua migração.
+O desempenho da migração pode ser afetado pela infraestrutura da rede, tamanho dos ficheiros, tempo de migração e limitações.
 
 Para mais informações, visite:
 
 - [Diretrizes gerais sobre o desempenho de migrações](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [Avoid getting throttled or blocked in SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online) (Evitar ser limitado ou bloqueado no SharePoint Online)
-
-- [Download and install the SharePoint Migration Tool](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool) (Transferir e Instalar a Ferramenta de Migração do SharePoint)

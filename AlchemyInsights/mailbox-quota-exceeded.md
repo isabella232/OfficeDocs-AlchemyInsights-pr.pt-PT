@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 7e1108cb4c9f2c5deecb32dc669800c5d23cc975
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 898c80d915ba24d9977b1f96063fa09f99c006fc
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286156"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784702"
 ---
 # <a name="mailbox-quota-exceeded"></a>Quota de caixa de correio ultrapassada
 
@@ -30,4 +30,4 @@ Excedeu a sua quota de caixa de correio para a sua conta. Existem vários passos
 
 4. Guarde os seus anexos para o OneDrive para que não estejam armazenados na sua caixa de correio. Consulte [os limites de armazenamento em Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) para obter mais informações. 
 
-Se for um utilizador do Office 365, poderá também solicitar um aumento da caixa de correio do seu administrador de TI.
+Se for um utilizador da Microsoft 365, poderá também solicitar um aumento da caixa de correio do seu administrador de TI.

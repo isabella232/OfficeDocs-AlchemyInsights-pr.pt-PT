@@ -1,9 +1,9 @@
 ---
-title: 1489-Permissions-required-for-ediscovery-Searches
+title: 1489 permissões-permissões-necessárias-para-ediscovery-searchs
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4e937861381ba5ba00c7ffb544dc4f6cb3502bc7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 412466d1366527dc319191cd88915e36519fec7e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372139"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758919"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>Permissões necessárias para procuras de detecção de dados electrónicos
+# <a name="permissions-required-for-ediscovery-searches"></a>Permissões necessárias para pesquisas no eDiscovery
 
-Para efectuar procuras de conteúdo & o Security Center de conformidade, um utilizador tem de ser, pelo menos, de ser membro do grupo de funções de Gestor de detecção de dados electrónicos, que lhes permite executar procuras e local contém em caixas de correio, SharePoint sites e localizações de OneDrive. Membros podem também criar e gerir incidentes de detecção de dados electrónicos, adicionar e remover membros de um incidente, criar e editar procuras de conteúdos e aceder a dados casos avançado detecção de dados electrónicos.
+Para realizar pesquisas de conteúdo no Security & Compliance Center, um utilizador deve ser pelo menos um membro do grupo de role manager eDiscovery, que lhes permite realizar pesquisas e colocar em caixas de correio, sites SharePoint e localizações OneDrive. Os membros também podem criar e gerir casos de eDiscovery, adicionar e remover membros para um caso, criar e editar Pesquisas de Conteúdo, e aceder a dados de casos no Advanced eDiscovery.
 
-Para efectuar procuras de detecção de dados electrónicos no local no Centro de administração do Exchange (EAC), o utilizador tem de ser um membro do grupo de função de gestão de detecção no Exchange Online.
+Para realizar pesquisas in-Place eDiscovery no centro de administração exchange (EAC), o utilizador deve ser membro do grupo de papel Discovery Management no Exchange Online.
 
-Para mais informações sobre permissões de detecção de dados electrónicos, consulte: 
+Para mais informações sobre permissões eDiscovery, consulte: 
 
-- [Atribuir permissões de detecção de dados electrónicos de & o Security Center de conformidade](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- [Atribuir permissões eDiscovery no Centro de Conformidade & de Segurança](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
-- [Atribuir permissões de detecção de dados electrónicos no Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [Atribuir permissões eDiscovery em Troca](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Nota**: depois de atribuir permissões a detecção de dados electrónicos, poderá ter de aguardar alguns minutos para que as permissões a objectos secundários.
+**Nota:** Após a atribuição de permissões eDiscovery, poderá ter de esperar alguns minutos pelas permissões para se propagar.

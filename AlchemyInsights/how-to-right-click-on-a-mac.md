@@ -1,9 +1,9 @@
 ---
-title: 8000063 como botão direito do rato sobre uma Mac
+title: 8000063 Como clicar à direita num Mac
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1071"
 - "8000063"
 ms.assetid: a34d2a91-e1bd-44fe-8124-a084cbf9f38b
-ms.openlocfilehash: 236da9aeac882d9a44373372a93910863fa18469
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8fbfb43cd50040f861ae9975f4703b49eb10f6ec
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539976"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763408"
 ---
-# <a name="how-to-right-click-on-a-mac"></a>Como botão direito do rato sobre uma Mac
+# <a name="how-to-right-click-on-a-mac"></a>Como clicar à direita num Mac
 
-Em computadores de Mac, o botão direito do rato é conhecido como secundário clique ou clique de controlo. Se o rato, trackpad ou outro dispositivo de entrada não inclui um botão do rato ou de outra forma de efectuar um botão direito do rato, mantenha premida a **tecla Control** no teclado enquanto clica.
+Nos computadores Mac, o clique direito é conhecido como clique secundário ou clique de controlo. Se o rato, o trackpad ou outro dispositivo de entrada não incluir um botão de clique certo ou outra forma de realizar um clique certo, mantenha a **tecla Controlo** no teclado enquanto clica.
   
-Para mais informações, vá para [suportar Apple](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
+Para mais informações, vá ao suporte da [Apple.](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409)
   

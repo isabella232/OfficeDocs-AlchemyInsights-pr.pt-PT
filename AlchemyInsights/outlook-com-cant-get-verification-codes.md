@@ -1,9 +1,9 @@
 ---
-title: Outlook.com não é possível receber códigos de verificação
+title: Outlook.com não pode receber códigos de verificação
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 5de84426e3b7eb0b0d755bbcd65f00f7f9eef5ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b13aa78e26ff5695f83a83e967b69de2aa96b189
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537706"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760819"
 ---
-# <a name="cant-get-verification-codes"></a>Não é possível obter os códigos de verificação
+# <a name="cant-get-verification-codes"></a>Não consigo obter códigos de verificação
 
-Se não conseguir aceder a correio electrónico alternativo ou o número de telefone, vá para a página de [Noções básicas de segurança](https://account.microsoft.com/security) do Microsoft conta, seleccione **que não tenho nenhum** na página de início de sessão e siga as instruções para substituir as informações de segurança.
+Se não conseguir aceder ao seu email alternativo ou número de telefone, aceda à página básica de [segurança](https://account.microsoft.com/security) da sua conta microsoft, selecione **que não tenho nenhum destes** na página de acesso e siga as instruções para substituir as suas informações de segurança.
 
-*Nota:* A [aplicação Microsoft autenticador](https://go.microsoft.com/fwlink/?linkid=2016117) não requer uma ligação à internet para lhe fornecer um código de verificação.
+*Nota:* A [aplicação Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) não necessita de uma ligação à Internet para lhe fornecer um código de verificação.
 
-Para obter mais informações, leia o [Microsoft security info e verificação códigos de contas](https://support.microsoft.com/help/12428/).
+Para saber mais, leia as informações de segurança da conta da Microsoft e os códigos de [verificação.](https://support.microsoft.com/help/12428/)

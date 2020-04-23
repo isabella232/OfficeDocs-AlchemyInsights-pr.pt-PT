@@ -2,31 +2,31 @@
 title: Corrigir erro 0x8004de40 no OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 48b29f57763ca22a71a23b2afddcac0e8e8a95db
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5da4271f242597b195ef61d553fd4a2ffb313025
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052048"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716039"
 ---
 # <a name="fix-0x8004de40-error-in-onedrive"></a>Corrigir erro 0x8004de40 no OneDrive
 
-Se você receber um erro 0x8004de40 com OneDrive:
+Se receber um erro 0x8004de40 com o OneDrive:
 
-- Reiniciar o computador afetado enquanto estiver conectado ao seu domínio acitve diretório.
-- Se uma reinicialização não corrigir o problema, unjoin e voltar ao seu dispositivo a partir de AD Azure. 
+- Reinicie o computador afetado enquanto está ligado ao seu domínio de Diretório Acitve.
+- Se um reboot não resolver o problema, desadere e volte a juntar-se ao seu dispositivo a partir de Azure AD. 
 
-**Nota:** Você deve estar em sua rede corporativa durante a execução dessas etapas. Não execute essas etapas quando você não é capaz de se conectar à sua infraestrutura corporativa (por exemplo, durante a viagem). 
+**Nota:** Deve estar na sua rede corporativa enquanto realiza estes passos. Não execute estes passos quando não conseguir ligar-se à sua infraestrutura corporativa (por exemplo, durante a viagem). 
 
-- Abra uma alerta de comando elevado. 
-- Para abrir um alerta de comando elevado, clique em - **Comece,** clique à direita **no Comando Prompt**e, em seguida, clique em Correr como **administrador.**
-- Tipo *dsregcmd /leave* and press **Enter**.
-- Quando completo, tipo *dsregcmd /join* e **pressione Entre.**
-- Quando estiver completo, feche o alerta de comando.
-- Reiniciar o computador, e entrar em OneDrive.
+- Abra um pedido de comando elevado. 
+- Para abrir um pedido de comando elevado, clique em **- Iniciar**, clique à direita No Pedido de **Comando**, e, em seguida, clique em Executar **como administrador**.
+- Digite *dsregcmd /leave* e **pressione Enter**.
+- Quando estiver concluído, escreva *dsregcmd /junte* e prima **Enter**.
+- Quando estiver concluído, feche o pedido de comando.
+- Reinicie o computador e entre no OneDrive.

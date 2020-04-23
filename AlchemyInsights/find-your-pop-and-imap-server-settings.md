@@ -1,8 +1,8 @@
 ---
-title: 1800018 localizar as definições do servidor POP e IMAP
+title: 1800018 Encontre as definições do seu servidor POP e IMAP
 ms.author: pdigia
 author: pebaum
-ms.date: 6/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ ms.custom:
 - "934"
 - "1800018"
 ms.assetid: 244fb17f-f0e3-474a-b287-023f4fb74830
-ms.openlocfilehash: 3a18978d520f400672bc50a455fcd6bc45337b48
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 76d1dadc2bfcb0589ae26fc4051acbbf913d19a7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525322"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716075"
 ---
-# <a name="find-your-pop-or-imap-server-settings"></a>Localizar as definições do servidor POP ou IMAP
+# <a name="find-your-pop-or-imap-server-settings"></a>Encontre as definições do seu servidor POP ou IMAP
 
-Se não souber quais as definições que é necessário adicionar a conta POP ou IMAP para o Outlook, pode procurá-las no nosso [POP e IMAP de correio electrónico definições para o Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
+Se não sabe quais as definições que precisa para adicionar a sua conta POP ou IMAP ao Outlook, pode procurá-las nas nossas definições de [e-mail POP e IMAP para outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
   
 > [!NOTE]
-> Sabia que pode [Activar e configurar o POP3 num servidor Exchange de 2016](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)?
+> Sabia que pode [ativar e configurar POP3 num servidor exchange 2016?](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)
   

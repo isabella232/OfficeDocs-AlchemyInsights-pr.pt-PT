@@ -1,9 +1,9 @@
 ---
-title: 646 como configurar AADConnect
+title: 646 Como configurar o AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 316d7253494c55a9bc94797d493897c2ddec516c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 713cda26e55f07f0438cb9ebe5aa9da86c4ebb3a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541596"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722574"
 ---
-# <a name="configure-sync-features"></a>Configurar funcionalidades de sincronização
+# <a name="configure-sync-features"></a>Configure as funcionalidades de sincronização
 
-Ligar de AD Azure inclui várias funcionalidades que estão activadas por predefinição, ou que pode activar mais tarde. Algumas funcionalidades requerem configuração adicional em ambientes específicos.
+O Azure AD Connect inclui várias funcionalidades que são ativadas por padrão, ou que pode ativar mais tarde. Algumas funcionalidades requerem configuração adicional em ambientes específicos.
 
-- Limites de [filtragem](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) os objectos são sincronizados para Azure AD. Por predefinição, todos os utilizadores, contactos, grupos e Windows 10 contas de computador são sincronizadas. Pode incluir ou excluir objectos baseados em domínios, UO ou outros atributos.
+- Os limites [de filtragem](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) dos objetos são sincronizados com o Azure AD. Por padrão, todos os utilizadores, contactos, grupos e contas de computador do Windows 10 estão sincronizados. Pode incluir ou excluir objetos baseados em domínios, OUs ou outros atributos.
 
-- [Sincronização de hash de palavra-passe](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) sincroniza o hash de palavra-passe do Active Directory no local para Azure AD. Isto permite a gestão de palavra-passe numa localização, mas utilize a mesma palavra-passe em ambas as instalações e ambientes de nuvem. Uma vez que o Active Directory é a origem autoritária, pode utilizar as suas próprias políticas de palavra-passe.
+- [A sincronização de hash de palavra-passe](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) sincroniza o hash de senha do Diretório Ativo no local para O AD Azure. Isto permite a gestão de passwords num local, mas a utilização da mesma senha tanto no local como em ambientes na nuvem. Como o Diretório Ativo é a fonte autoritária, pode usar as suas próprias políticas de senha.
 
-- [Reposição de palavra-passe self-service (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) permite aos utilizadores para repor as respectivas palavras-passe na nuvem enquanto ainda a aplicar a política de palavra-passe no local.
+- [O reset de palavra-passe self-service (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) permite que os utilizadores redefinirem as suas próprias palavras-passe na nuvem enquanto aplicam a sua política de senha no local.
 
-- [Repetição de escrita do dispositivo](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) permite que os dispositivos registados no AD Azure a ser escrito novamente ao Active Directory no local para que possam ser utilizados para acesso condicional.
+- [A reescrita](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) do dispositivo permite que os dispositivos registados em Azure AD sejam reescritos no Diretório Ativo no local para que possam ser utilizados para acesso condicional.
 
-- [Acidental impedir eliminações](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) está activada por predefinição para ajudar a impedir eliminações de objecto simultâneas demasiados (mais de 500 objectos por sincronização). Pode alterar esta definição para satisfazer as necessidades da organização.
+- [Evitar eliminações acidentais](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) é ativado por predefinição para ajudar a evitar demasiadas eliminações simultâneas de objetos (mais de 500 objetos por sincronização). Pode alterar este cenário para atender às necessidades da sua organização.
 
-- [Actualização automática](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) está activada por predefinição para instalações express e ajuda a garantir a que sua versão do Azure AD ligar está sempre actual.
+- [A atualização automática](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) está ativada por predefinição para instalações expressas e ajuda a garantir que a sua versão do Azure AD Connect está sempre atual.

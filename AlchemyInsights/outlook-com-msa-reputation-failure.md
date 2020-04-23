@@ -1,9 +1,9 @@
 ---
-title: Outlook.com conta bloqueada
+title: conta Outlook.com bloqueada
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/30/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: 9a96bb18d06814164cd54e8183f67f2d2db55eac
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e3ddebc8b73688d65c32e15383c7d654a3f1fff1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546098"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43745766"
 ---
 # <a name="account-locked"></a>Conta bloqueada
 
-Se vir a mensagem "a sua conta foi bloqueada" quando tentar iniciar sessão no Outlook.com, é porque a Microsoft já reparou alguns actividade invulgar na sua conta. Para ajudar a proteger contra potenciais fraudes e abusos, vamos tenha bloqueado temporariamente a sua conta. Reconhecemos que esta é frustrante, mas podemos ajudá-lo regressar sua conta com apenas alguns passos.
+Se vir a mensagem "A sua conta foi bloqueada" ao tentar entrar para Outlook.com, é porque notamos alguma atividade incomum na sua conta. Para ajudá-lo a protegê-lo de potenciais fraudes ou abusos, trancamos temporariamente a sua conta. Sabemos que isto é frustrante, mas podemos ajudá-lo a voltar à sua conta com apenas alguns passos.
 
-1. Vá para [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) e iniciar sessão sua conta bloqueada.Para desbloquear a conta, tem de introduzir o código de segurança fornecido na mensagem de texto da Microsoft. Para obter a mensagem de texto, tem de ter um número de telefone que suporte mensagens de texto. Se o telefone não suporta mensagens de texto, pode pedir um amigo ou familiar para utilizar o seu telefone. Microsoft não guarde este número de telefone, para que o número de telefone que utiliza para receber esta mensagem de texto não tenha de estar associados com a sua conta.
-2. Se vir a mensagem "Limite de utilização foi excedido", vá para a [Conta degradado](https://go.microsoft.com/fwlink/?linkid=2090483) e um dos nossos agentes irá rever a sua conta.
+1. Vá a [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) e inscreva-se na sua conta fechada.Para desbloquear a sua conta, tem de introduzir o código de segurança fornecido na mensagem de texto da Microsoft. Para obter a mensagem de texto, deve ter um telefone que suporte mensagens de texto. Se o seu telefone não suportar mensagens de texto, pode pedir a um amigo ou familiar que use o seu telemóvel. A Microsoft não guarda este número de telefone, pelo que o número de telefone que utiliza para receber esta mensagem de texto não precisa de estar associado à sua conta.
+2. Se vir a mensagem "Limite de utilização ultrapassado", vá à [Reinstatement](https://go.microsoft.com/fwlink/?linkid=2090483) de Conta e um dos nossos agentes irá rever a sua conta.
 
-Para obter mais informações, leia [desbloquear a minha conta de Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 
+Para saber mais, leia [Desbloquear a minha conta Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 

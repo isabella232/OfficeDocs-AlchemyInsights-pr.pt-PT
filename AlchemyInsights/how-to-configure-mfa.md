@@ -1,5 +1,5 @@
 ---
-title: 955 como configurar AMF
+title: 955 Como configurar mFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 52ab5336858c0013667be721dc865fdccf71bfa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7fda732dc49e4e01b2dc0fcbf0fcde83b4dcbab4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739648"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722387"
 ---
-# <a name="configure-multi-factor-authentication-in-office-365"></a>Configurar autenticação multi-factores no Office 365
+# <a name="configure-multi-factor-authentication"></a>Configure a autenticação de vários fatores
 
-Para configurar AMF, consulte [Configurar a autenticação multi-factores para utilizadores do Office 365](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
+Para configurar o MFA, consulte Configurar a [autenticação de vários fatores](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
 
-Tenha em atenção que tem de ser um administrador global do Office 365 para activar e configurar AMF.
+Note que precisa de ser um administrador global para ativar e configurar o MFA.

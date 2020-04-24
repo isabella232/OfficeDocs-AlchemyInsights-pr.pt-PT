@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500021"
 - "4689"
-ms.openlocfilehash: c31415c4191ebcf50acc8095de3ba6cf31661aa9
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 19366565b8ecef5e89a2deb9fa1b4ff2476246cf
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191111"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789457"
 ---
 # <a name="transfer-licenses-between-tenants"></a>Transferir licenças entre inquilinos
 
-Não é possível transferir licenças do Office 365 entre duas organizações (inquilinos). 
+Não é possível transferir licenças entre 2 organizações (inquilinos). 
 
 - Se já não planeia utilizar o inquilino do qual pretende transferir, pode [cancelar a subscrição](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions) e [comprar um novo inquilino](https://products.office.com/compare-all-microsoft-office-products-b?rtc=1&activetab=tab:primaryr2) (de destino).
 

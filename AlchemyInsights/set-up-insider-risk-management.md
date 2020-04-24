@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 556150c41ccf363e6025ba6fac0660d1fb74f9b8
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43060008"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784558"
 ---
 # <a name="set-up-insider-risk-management"></a>Configurar a gestão de riscos internos
 
@@ -26,13 +26,13 @@ Utilize políticas de gestão de riscos internos para identificar atividades de 
 
 - Subscrição do **Microsoft 365 E3** com o suplemento de conformidade Microsoft E5.
 
-Se não tiver um plano existente **Microsoft 365 E5** e pretender experimentar a gestão de riscos internos, pode adicionar o Microsoft 365 à sua subscrição do Office 365 existente ou inscrever-se numa versão de avaliação do Microsoft 365 Enterprise E5.
+Se não tiver um plano existente do **Microsoft 365 E5** e pretender experimentar a gestão de riscos internos, pode adicionar o Microsoft 365 à sua subscrição existente ou inscrever-se numa versão de avaliação do Microsoft 365 Enterprise E5.
 
 Os passos básicos para a utilização da Gestão de Riscos Internos incluem:
 
 1. Ativar permissões para a gestão de riscos internos.
 
-2. Ativar o registo de auditoria do Office 365.
+2. Ativar o registo de auditoria.
 
 3. Configurar os pré-requisitos para o modelo (opcional).
 

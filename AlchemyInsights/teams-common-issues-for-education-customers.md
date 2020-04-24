@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856808"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739447"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Teams: problemas comuns de clientes das subscrições para educação
 
@@ -45,12 +45,12 @@ Se precisar de ajuda a implementar o Teams para suportar a aprendizagem remota, 
     6. No Centro de administração do Skype para Empresas, clique em **conferências áudio** e, em seguida, em **utilizadores**.
     7. Selecione o utilizador em questão e verifique se tem um Número de Serviço Pago Predefinido.
 
-    Para mais informações, consulte [Planos de Chamadas para o Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou ligue para a equipa de faturação da Microsoft Commerce para obter ajuda com questões relacionadas com licenciamento.
+    Para mais informações consulte [Planos de Chamadas](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou ligue para a equipa de faturação da Microsoft Commerce para obter ajuda com questões relacionadas com licenciamento.
 
     Recursos Adicionais
 
     - [Reuniões e conferências no Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Conferências de Áudio no Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Conferências de Áudio](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Políticas de Reuniões**: as políticas de reuniões são utilizadas para controlar as funcionalidades disponíveis para os participantes das reuniões agendadas pelos utilizadores na sua organização. Depois de criar uma política e fazer alterações, poderá atribuir utilizadores à política.
 

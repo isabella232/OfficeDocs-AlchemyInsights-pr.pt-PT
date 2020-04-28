@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642155"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912977"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problemas ao criar um site ligado ao grupo no SharePoint
 
@@ -30,5 +30,5 @@ Se tiver eliminado um grupo e o seu site conectado e pretender criar outro site 
 
 1. Existem diferentes formas de criar e usar grupos modernos com o SharePoint.
 
-   - Pode ligar os sites existentes a um grupo do Office 365. Para mais informações, consulte [Connect um grupo Office 365 utilizando a interface de utilizador do SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Para criar um site ligado ao grupo Office 365, terá de criar um Site de [Equipa.](https://admin.microsoft.com/sharepoint)
+   - Pode ligar os sites existentes a um grupo Microsoft 365. Para mais informações, consulte [Connect um grupo Microsoft 365 utilizando a interface de utilizador do SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Para criar um site ligado ao grupo Microsoft 365, terá de criar um Site de [Equipas.](https://admin.microsoft.com/sharepoint)

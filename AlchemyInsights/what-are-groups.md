@@ -1,5 +1,5 @@
 ---
-title: O que são grupos?
+title: O que são Grupos?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001110"
 - "3071"
-ms.openlocfilehash: fe511850ec82d32be9aa2bc3832ad211c597b33c
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: 1679f1b0452314395c5067b326f6b753f9baa84e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959365"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912161"
 ---
-# <a name="what-are-groups"></a>O que são grupos?
+# <a name="what-are-groups"></a>O que são Grupos?
 
-Os grupos do Office 365 permitem que você escolha um conjunto de pessoas com as quais deseja colaborar e configure facilmente uma coleção de recursos para essas pessoas compartilharem. Você não precisa se preocupar com a atribuição manual de permissões a todos esses recursos, porque adicionar membros ao grupo automaticamente lhes dá as permissões que eles precisam para as ferramentas que seu grupo fornece. Além disso, os grupos são a experiência nova e melhorada para o que usamos para usar listas de distribuição ou caixas de correio compartilhadas para fazer.  Veja [saiba mais sobre o Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) para obter mais informações. 
+Os Grupos Microsoft 365 permitem-lhe escolher um conjunto de pessoas com quem deseja colaborar e configurar facilmente uma coleção de recursos para que essas pessoas partilhem. Não tem de se preocupar em atribuir manualmente permissões a todos esses recursos, pois adicionar membros ao grupo dá-lhes automaticamente as permissões de que necessitam para as ferramentas que o seu grupo fornece. Além disso, os grupos são a nova e melhorada experiência para o que usávamos para usar listas de distribuição ou caixas de correio partilhadas para fazer.  Consulte [o Microsoft 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) para obter mais informações. 

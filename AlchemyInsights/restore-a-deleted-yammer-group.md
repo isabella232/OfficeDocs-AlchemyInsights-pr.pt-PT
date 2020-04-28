@@ -1,5 +1,5 @@
 ---
-title: Restaurar um grupo do Yammer excluído
+title: Restaurar um Grupo Yammer Eliminado
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: 467dc14be08410397e08d6d0a4c33bffc7aea80e
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 255629468a896ebf10917e4738e6aaf8c2d26826
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745156"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912630"
 ---
-# <a name="restore-a-deleted-yammer-group"></a>Restaurar um grupo do Yammer excluído
+# <a name="restore-a-deleted-yammer-group"></a>Restaurar um grupo Yammer apagado
 
-Os [grupos conectados do office 365 no Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) podem ser restaurados dentro de 30 dias após a exclusão seguindo as etapas para [restaurar um grupo excluído do Office 365](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group).
-Em alguns casos, um grupo do Yammer não pode ser conectado a um grupo do Office 365. Se for esse o caso, não é possível restaurar automaticamente o grupo, mas pode ser possível acessar os dados excluídos na [exportação de dados](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) do Yammer se a diretiva de retenção de [dados](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) de rede estiver definida como *exclusão suave*. Contacte o [administrador verificado](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) para a rede do Yammer para verificar a política de retenção de dados ou para efectuar uma exportação de dados.
+[O Office 365 grupos conectados em Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) pode ser restaurado no prazo de 30 dias após a eliminação, seguindo os passos para [restaurar um Grupo Microsoft 365 eliminado](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group).
+Em alguns casos, um grupo Yammer pode não estar ligado a um grupo Microsoft 365. Se for esse o caso, não é possível restaurar automaticamente o grupo, mas pode ser possível aceder aos dados eliminados na [exportação](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) de dados yammer se a política de [retenção](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) de dados da rede for definida para *Soft Delete*. Contacte o [Administrador Verificado](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) para a sua rede Yammer para verificar a política de retenção de dados ou para realizar uma exportação de dados.

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3198"
-ms.openlocfilehash: 16071ef6aa8cf8a24522bf00d19b3aaa31f35ccf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 81b05e14fb3755c6602548087617f19ee1d585a5
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719189"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911735"
 ---
 # <a name="remove-users-from-a-sharepoint-group"></a>Remova os utilizadores de um grupo SharePoint
 
 Um grupo SharePoint é uma coleção de utilizadores que todos têm o mesmo conjunto de permissões para sites e conteúdos. Em vez de atribuir permissões uma pessoa de cada vez, pode usar grupos para atribuir convenientemente o mesmo nível de permissão a muitas pessoas ao mesmo tempo.
 
 - [Remover utilizadores de um grupo](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
-- [Adicione ou remova membros dos grupos do Office 365 utilizando o centro de administração](https://docs.microsoft.com/office365/admin/create-groups/add-or-remove-members-from-groups?view=o365-worldwide)
+- [Adicione ou remova membros dos Grupos Microsoft 365 utilizando o centro de administração](https://docs.microsoft.com/office365/admin/create-groups/add-or-remove-members-from-groups?view=o365-worldwide)

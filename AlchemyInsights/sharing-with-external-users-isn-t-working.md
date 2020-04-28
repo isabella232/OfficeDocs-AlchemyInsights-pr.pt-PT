@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 285535d6144825f0935bf72579a483260c2f2bd6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767260"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43913013"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Corrigir problemas de partilha de conteúdo do SharePoint com utilizadores externos
 
@@ -32,7 +32,7 @@ Certifique-se de que a partilha externa foi ligada para o site. Para uma coleç�
     
 2. Selecione o site ou os sites e na fita, clique em **Partilhar**.
     
-Para um site de equipa que pertence a um grupo do Office 365, ou a um site de comunicação:
+Para um site de equipa que pertence a um grupo Microsoft 365, ou a um site de comunicação:
   
 - Estes novos tipos de sites têm a mesma definição de partilha que a sua configuração em toda a organização, a menos que a definição em toda a organização permita a partilha de ficheiros usando links que não requerem iniciar sessão. Neste caso, os sites permitem a partilha com utilizadores externos novos e existentes que se inscrevam. Para alterar a definição para sites específicos, utilize o novo centro de administração do SharePoint ou o PowerShell. [Saiba mais](https://go.microsoft.com/fwlink/?linkid=871863).
     

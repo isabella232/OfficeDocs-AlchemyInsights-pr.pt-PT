@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 0498f7e6b4b0989f043afbb7573af54b5206a11a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: daab5cfbcb52a1e946a5bd228897a2dc5e3ebe7e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742378"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911699"
 ---
 # <a name="how-to-share-in-sharepoint-online"></a>Como partilhar no SharePoint Online
 
@@ -24,7 +24,7 @@ Para partilhar um site:
   
 1. Abra o site num navegador web.
     
-2. Se o site pertencer a um grupo do Office 365, clique no ícone Definições na parte superior direita e, em seguida, clique em **permissões do Site**. Clique **em convidar pessoas**e, em seguida, escolha adicionar membros ao grupo Office 365 ou partilhar apenas o site. 
+2. Se o site pertencer a um grupo Microsoft 365, clique no ícone Definições na parte superior direita e, em seguida, clique em **permissões do Site**. Clique **em convidar pessoas**, e depois escolha adicionar membros ao grupo Microsoft 365 ou partilhar apenas o site. 
     
     Para um site de comunicação, clique no **site Partilhar** no canto superior direito, insira o nome da pessoa e, em seguida, selecione o nível de permissão (Ler, Editar ou Controlo Completo). 
     

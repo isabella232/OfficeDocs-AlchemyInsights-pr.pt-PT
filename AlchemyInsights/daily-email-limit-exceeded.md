@@ -1,5 +1,5 @@
 ---
-title: Limite de e-mail diário ultrapassado. O fluxo de trabalho está suspenso.
+title: Limite diário de e-mail ultrapassado. O fluxo de trabalho está suspenso.
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,26 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053128"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908715"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Limite de e-mail diário ultrapassado. O fluxo de trabalho está suspenso.
 
-Esse erro pode ser recebido nos seguintes cenários:
+Este erro pode ser recebido nos seguintes cenários:
 
-- Você tem um fluxo de trabalho no SharePoint Online que está usando o tipo de plataforma de fluxo de trabalho SharePoint 2010 ou SharePoint 2013.
-- O fluxo de trabalho está configurado para enviar uma mensagem de e-mail personalizada para mais de 200 usuários de cada vez, mais de 10.000 destinatários por dia ou mais de 30 mensagens por minuto.
-- Quando você executar o fluxo de trabalho, a mensagem de e-mail não é enviada, e você percebe o seguinte comportamento:
-    - Para um fluxo de trabalho usando o tipo de plataforma SharePoint 2013, você navega na página de status do fluxo de **trabalho.** Na página de status do fluxo de trabalho, o **status interno** está definido para **iniciado,** e o balão de informações exibe **incapaz de enviar a um destinatário.**
+- Tem um fluxo de trabalho no SharePoint Online que está a usar o tipo de plataforma de fluxo de trabalho SharePoint 2010 ou SharePoint 2013.
+- O fluxo de trabalho está configurado para enviar uma mensagem de correio eletrónico personalizada a mais de 200 utilizadores de cada vez, mais de 10.000 destinatários por dia, ou mais de 30 mensagens por minuto.
+- Quando executa o fluxo de trabalho, a mensagem de e-mail não é enviada, e você nota o seguinte comportamento:
+    - Para um fluxo de trabalho utilizando o tipo de plataforma SharePoint 2013, você navega para a página **Workflow Status.** Na página do Estado do Fluxo de Trabalho, o **Estado Interno** está definido para **Iniciar**, e o balão de informação mostra Incapaz de enviar a **um destinatário**.
 
-Para contornar esse problema, configure seu fluxo de trabalho para enviar mensagens de e-mail sem exceder os limites do [remetente da Exchange Online.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits) Por exemplo, use uma pausa no fluxo de trabalho, envie o e-mail para um grupo do Office 365, um grupo de distribuição ou um grupo de segurança habilitado por e-mail ou envie a mensagem para menos de 200 destinatários de cada vez.
+Para resolver este problema, configure o seu fluxo de trabalho para enviar mensagens de correio eletrónico sem exceder os limites de [remetente exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Por exemplo, utilize uma pausa no fluxo de trabalho, envie o e-mail para um grupo Microsoft 365, um grupo de distribuição ou grupo de segurança ativado por correio, ou envie a mensagem para menos de 200 destinatários de cada vez.
 
 
-Para mais informações, consulte o seguinte [artigo.](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)
+Para mais informações, consulte o [seguinte artigo](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).
 
 ## <a name="related-topics"></a>Tópicos relacionados
 - [Criar fluxo](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 

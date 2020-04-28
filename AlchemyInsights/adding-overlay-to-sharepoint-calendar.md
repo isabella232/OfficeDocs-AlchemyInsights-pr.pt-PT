@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: e40d4b866d4a2d70e83b5addf8de2690c04eaffc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709418"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908859"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Adicionar uma sobreposição a um calendário do SharePoint
 
-Os calendários do SharePoint são tipos clássicos da lista que às vezes são confundidos com calendários de grupo do Office 365.
+Os calendários do SharePoint são tipos clássicos da lista que às vezes são confundidos com calendários de grupo Microsoft 365.
  
 Se utilizar um calendário sharePoint no seu site, pode sobrepor-se ao seu próprio calendário de trocas para criar uma visão combinada do calendário. Em alternativa, pode sobrepor-se a outro calendário do SharePoint desde que ambos os calendários do SharePoint estejam na mesma coleção do site.
  

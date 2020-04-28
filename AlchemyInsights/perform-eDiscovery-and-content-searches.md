@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764739"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911842"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Como realizar Pesquisas de Conteúdo e pesquisas eDiscovery
 
-Utilize a ferramenta de pesquisa de conteúdo no Security & Compliance Center para encontrar rapidamente e-mails em caixas de correio de troca, documentos em sites SharePoint e conta OneDrive, e conversas de mensagens instantâneas no Skype para negócios. Também pode utilizar a Ferramenta de Pesquisa de Conteúdo para procurar e-mails, documentos e conversas de mensagens instantâneas em ferramentas de colaboração microsoft 365, como Microsoft Teams e Office 365 Groups.
+Utilize a ferramenta de pesquisa de conteúdo no Security & Compliance Center para encontrar rapidamente e-mails em caixas de correio de troca, documentos em sites SharePoint e conta OneDrive, e conversas de mensagens instantâneas no Skype para negócios. Também pode utilizar a Ferramenta de Pesquisa de Conteúdo para procurar e-mails, documentos e conversas de mensagens instantâneas em ferramentas de colaboração microsoft 365, como Microsoft Teams e Microsoft 365 Groups.
 
 **Para realizar uma pesquisa de conteúdo**
 

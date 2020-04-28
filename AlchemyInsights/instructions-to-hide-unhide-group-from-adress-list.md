@@ -1,5 +1,5 @@
 ---
-title: Instruções para esconder/desesconder o grupo da lista de endereços
+title: Instruções para ocultar/desocultar grupo da lista de endereços
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: d0e0285701f1a5f308bdc682abaddf5cc2d34120
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.openlocfilehash: 61ba34e6d554831da712a92401f26fabb02c26b7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37768942"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908355"
 ---
-# <a name="hide-office-365-group-from-address-list-gal"></a><span data-ttu-id="9d5c4-102">Hide Office 365 grupo da lista de endereços (GAL)</span><span class="sxs-lookup"><span data-stu-id="9d5c4-102">Hide Office 365 group from address list (GAL)</span></span>
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a><span data-ttu-id="5a157-102">Ocultar o grupo Microsoft 365 da lista de endereços (GAL)</span><span class="sxs-lookup"><span data-stu-id="5a157-102">Hide Microsoft 365 group from address list (GAL)</span></span>
 
-<span data-ttu-id="9d5c4-103">Para ocultar um grupo do Office 365 das listas de endereços (GAL) dos clientes da Exchange (como outlook ou OWA), use o seguinte comando no escudo EXO:</span><span class="sxs-lookup"><span data-stu-id="9d5c4-103">To hide an Office 365 group from address lists (GAL) of Exchange clients (such as Outlook or OWA), use the following command in EXO shell:</span></span>
+<span data-ttu-id="5a157-103">Para ocultar um grupo Microsoft 365 das listas de endereços (GAL) dos clientes Exchange (como outlook ou OWA), utilize o seguinte comando na concha EXO:</span><span class="sxs-lookup"><span data-stu-id="5a157-103">To hide an Microsoft 365 group from address lists (GAL) of Exchange clients (such as Outlook or OWA), use the following command in EXO shell:</span></span>
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
-<span data-ttu-id="9d5c4-104">Para esconder o grupo do Office 365 de ser visível para os clientes da Exchange, use o seguinte comando no escudo EXO:</span><span class="sxs-lookup"><span data-stu-id="9d5c4-104">To hide the Office 365 group from being visible to Exchange clients, use the following command in EXO shell:</span></span>
+<span data-ttu-id="5a157-104">Para esconder que o grupo Microsoft 365 seja visível para os clientes Exchange, utilize o seguinte comando na concha EXO:</span><span class="sxs-lookup"><span data-stu-id="5a157-104">To hide the Microsoft 365 group from being visible to Exchange clients, use the following command in EXO shell:</span></span>
 
 `Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:$true
 Check this article for detailed instructions`

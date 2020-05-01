@@ -13,13 +13,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 9e7505978ef80f3aba44e69dc7b5f7ab9c1780d5
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799134"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957917"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Múltiplas tentativas de cobrar instrumentos de pagamento on-line
+# <a name="past-due-account"></a>Conta de vida passada?
 
-Se a acusação não for bem sucedida, o sistema continuará a tentar acertar o saldo nas próximas semanas. Pode efazer atualizações das suas informações de pagamento a qualquer momento para garantir que a próxima tentativa de cobrança seja bem sucedida. Para mais informações, consulte [Adicionar, atualizar ou remover um cartão de crédito ou uma conta bancária no Microsoft 365 para negócios](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Um pagamento pode ser recusado por várias razões, incluindo se o cartão de crédito tiver expirado. Pode utilizar a funcionalidade de **saldo 'Liquidar'** a qualquer momento para alterar as informações do seu cartão de crédito e reenviar imediatamente o pagamento.
+
+1. No centro de administração, vá aos ** [serviços de &](https://go.microsoft.com/fwlink/p/?linkid=842054)de Produtos de Faturação >.**
+Encontre a subscrição com o saldo pendente. Na secção **de Faturação,** junto à **Subscrição tem um pagamento devido passado,** clique em **Liquidar** o saldo para pagar a totalidade do saldo em dívida.
+2. Se possuir o cartão de crédito, pode alterar a data de validade, escolher um cartão diferente ou [adicionar um cartão novo.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide)
+3. Se não possuir o cartão de crédito, pode escolher um cartão de crédito diferente ou [adicionar um cartão novo.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide)
+4. Depois de ter completado as suas atualizações, clique em **Guardar**.
+
+**Nota**: Após a ehora de um pagamento, a notificação vencida passada pode ainda ser visível por um curto período de tempo. Por favor, aguarde pelo menos **48 horas** antes de contactar o suporte.

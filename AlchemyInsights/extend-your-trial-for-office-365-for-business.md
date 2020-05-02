@@ -12,16 +12,16 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 46dd8532d920c33d2bd82c1cea752944b3a99866
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e39bfd064d5a1a712e87cb026851b6a4cc4ff8a5
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702893"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005341"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Prolongue o seu julgamento para o Microsoft 365 para negócios
 
-Pode prolongar o julgamento por mais 30 dias. Só pode fazê-lo uma vez.
+Pode prolongar o julgamento por um período de 30 dias. Depois disso, o seu julgamento vai para um período de [carência](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial)adicional de 30 dias. Siga estes passos para prolongar o seu julgamento:
   
 1. No centro de administração, vá aos [serviços de & de](https://portal.office.com/adminportal/home#/subscriptions)Produtos de **Faturação.** \>
 

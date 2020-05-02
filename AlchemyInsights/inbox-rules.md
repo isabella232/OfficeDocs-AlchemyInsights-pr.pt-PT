@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724567"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005269"
 ---
-# <a name="inbox-rules"></a>Regras da caixa de entrada
+# <a name="inbox-rules-in-outlook-desktop"></a>Regras de caixa de entrada no Outlook Desktop
 
-Para obter mais informações sobre a utilização das regras da Caixa de Entrada na sua própria caixa de correio, consulte:
+1. Vá ao **Arquivo > Gerir regras & Alertas** para abrir a caixa de diálogo Regras e **Alertas.**
+2. No separador Regras de **E-mail,** clique em **Nova Regra**.
+3. Selecione um dos modelos do **passo 1**. Para começar a partir de uma regra em branco, selecione **Aplicar a regra nas mensagens que recebo ou aplicar regra nas mensagens que envio**.
+4. No **Passo 2: Editar a caixa de descrição da regra,** clique em quaisquer opções sublinhadas para as definir. Por exemplo, se selecionar **mensagens de bandeira de alguém para acompanhamento** no Passo 1, clique em **pessoas ou grupo público** para selecionar quais as mensagens dos remetentes que pretende sinalizar; em seguida, clique em **acompanhar neste momento** para selecionar uma bandeira e uma data de seguimento.
+5. Clique em **Seguinte**.
 
-- [Gerir mensagens de e-mail utilizando regras no Outlook para PC](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Gerencie as suas mensagens utilizando regras de caixa de entrada no Outlook na web](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-Também pode gerir as regras da Caixa de Entrada no Exchange Online PowerShell. Para mais informações, consulte [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (visualização), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (criar), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (eliminar), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modificar existindo), [Desativar a Regra](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) da Entrada (desativar a regra existente) e [Ativar a Regra](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) da Entrada (ativar a existência).
+Para obter informações adicionais sobre como trabalhar com as regras da caixa de entrada, consulte [Gerir mensagens](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59)de correio eletrónico utilizando regras .

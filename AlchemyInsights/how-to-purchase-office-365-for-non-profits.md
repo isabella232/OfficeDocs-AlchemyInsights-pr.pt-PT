@@ -1,5 +1,5 @@
 ---
-title: Como comprar o Office 365 para sem fins lucrativos
+title: Microsoft 365 para organizações sem fins lucrativos - em análise
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763552"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005233"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Como comprar o Office 365 para sem fins lucrativos
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 para organizações sem fins lucrativos - em análise
 
-A sua elegibilidade como Organização Sem Fins Lucrativos Qualificada da Microsoft está a ser analisada. Pode esperar receber uma notificação sobre a determinação da sua elegibilidade antes de expirar o seu julgamento. Pode rastrear o estado da sua candidatura [aqui](https://eligibilityweb.azurewebsites.net/).
+A sua elegibilidade como Organização Sem Fins Lucrativos Qualificada da Microsoft está **a ser analisada.** Pode esperar receber uma notificação sobre a determinação da sua elegibilidade **a 48 horas** do seu tempo de submissão. Por favor, permita pelo menos **48 horas** para receber esta notificação antes de abrir um pedido de serviço. 
+
+Para mais informações, consulte o [Microsoft 365 para sem fins lucrativos.](https://www.microsoft.com/nonprofits/microsoft-365) 

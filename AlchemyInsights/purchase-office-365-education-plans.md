@@ -1,5 +1,5 @@
 ---
-title: Comprar planos do Microsoft 365 Educação
+title: Microsoft 365 para Educação - aprovado
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 915d625dbf8726787e9bcd45e0cf7b025e90ead9
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789385"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005413"
 ---
-# <a name="purchase-microsoft-365-education-plans"></a>Comprar planos do Microsoft 365 Educação
+# <a name="microsoft-365-for-education---approved"></a>Microsoft 365 para Educação - aprovado
 
 Foi aprovado para o plano Microsoft 365 Educação.  Para comprar:
 
@@ -28,6 +28,8 @@ Foi aprovado para o plano Microsoft 365 Educação.  Para comprar:
 2. Selecione uma opção a partir da lista em **Planos para Educação**.
 
 3. Paire com o cursor sobre a subscrição que pretende comprar e clique em **Comprar Agora**.
+
+4. [Instale o seu inquilino do Microsoft 365 Educação](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant).
 
 **Ativar o Teams**
 

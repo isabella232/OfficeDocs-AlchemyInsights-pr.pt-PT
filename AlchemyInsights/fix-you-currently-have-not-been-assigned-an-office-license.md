@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: aceea65f054299797e989330b64af17a24fd5389
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 08743a57ff963a23f7fe1910012f63f3955fb6d2
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218243"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010193"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Correção – "Atualmente, não lhe foi atribuída uma licença do Office"
 
-Para instalar aplicações do cliente do Office, certifique-se de que tem uma subscrição do Office 365 ou Microsoft 365 que [inclui aplicações do cliente do Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), por ex.: Office 365 Empresas - Versão Premium, Office 365 Empresas ou Office 365 ProPlus.
+Para instalar aplicações do cliente do Office, certifique-se de que tem uma subscrição do Office 365 ou Microsoft 365 que [inclui aplicações do cliente do Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), por ex.: Microsoft 365 Empresas Premium, Microsoft 365 Apps para Pequenas e Médias Empresas ou Microsoft 365 Apps para Grandes Empresas.
 
 **Nota**: o [Office Casa e Negócios](https://products.office.com/home-and-business) é um produto do [Office para casa](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) e não faz parte de uma subscrição para empresas. O Project Online – Versão Essentials não inclui uma versão de computador do Project, pelo que não é necessária instalação. Os utilizadores do Visio (Plano 1) podem aceder ao Visio na Web, uma vez que o plano não inclui a aplicação de computador do Visio. As aplicações de computador do Project e do Visio não estão disponíveis no Mac
 

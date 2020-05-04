@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000176
-ms.openlocfilehash: 869e00dd187e8bd2bf9c37c8e4574902db3cd6e8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f6ead7c1f0e146056c008226c5689b912fd1fdf5
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766396"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010697"
 ---
 # <a name="using-the-office-readiness-toolkit"></a>Utilização do Kit de Ferramentas de Prontidão de Escritório
 
-Para obter informações sobre a utilização do Kit de Ferramentas de Prontidão do Office, consulte Utilize o Kit de [Ferramentas de Prontidão para avaliar a compatibilidade da aplicação para aplicações microsoft 365 Apps para empresa](https://docs.microsoft.com/DeployOffice/use-the-readiness-toolkit-to-assess-application-compatibility-for-office-365-pro).
+Para obter informações sobre a utilização do Kit de Ferramentas de Prontidão do Office, consulte Utilize o Kit de [Ferramentas de Prontidão para avaliar a compatibilidade da aplicação para aplicações microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).
 
 Se tiver feedback ou perguntas sobre o Kit de Ferramentas de Prontidão, por favor envie-nos um e-mail para ReadyForOffice@microsoft.com.

@@ -10,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 7252efdc0f55b8923e685ec89f9b3c63882aa6b0
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6e952513679c9ac66f8de2b43d6d243cf17ff789
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763228"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010625"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Instalação de escritório em um servidor de terminal
 
@@ -23,7 +23,7 @@ Para implementar aplicações Microsoft 365 para empresa num Servidor Windows ut
   
 - Deve ter uma subscrição Microsoft 365 que inclua aplicações Microsoft 365 para empresa, como o Office 365 Enterprise E3 ou enterprise E5. As Aplicações Microsoft 365 para negócios e aplicações Microsoft 365 para planos premium de negócios não incluem aplicações Microsoft 365 para empresa.
 
-- Tem de ativar a [ativação do computador partilhado.](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)
+- Tem de ativar a [ativação do computador partilhado.](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)
 
 Se pretender instalar aplicações Microsoft 365 para empresa em RDS a partir do centro de administração microsoft 365, que utiliza as definições de ***instalação predefinidas,*** utilize os seguintes passos.
 
@@ -48,9 +48,9 @@ Se pretender instalar aplicações Microsoft 365 para empresa em RDS a partir do
 
 3. No Editor de Registo, adicione um valor de cadeia de **SharedComputerLicensing** com uma definição de 1 em HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuração.
 
-7. No servidor RDS, ***inscreva-se como utilizador final*** e verifique se a [ativação partilhada de computador está ativada para aplicações microsoft 365 para empresa](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. No servidor RDS, ***inscreva-se como utilizador final*** e verifique se a [ativação partilhada de computador está ativada para aplicações microsoft 365 para empresa](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
 
-Para mais detalhes sobre pré-requisitos, instruções de configuração e orientação sobre instalações personalizadas utilizando a Ferramenta de Implementação do Office, consulte [implementar aplicações Microsoft 365 para empresa utilizando serviços](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services)de ambiente de trabalho remotos .
+Para mais detalhes sobre pré-requisitos, instruções de configuração e orientação sobre instalações personalizadas utilizando a Ferramenta de Implementação do Office, consulte [implementar aplicações Microsoft 365 para empresa utilizando serviços](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)de ambiente de trabalho remotos .
   
-Para corrigir erros relacionados com a ativação partilhada de computador, consulte [problemas de Resolução de Problemas com ativação de computador partilhado para aplicações microsoft 365 para empresa](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Para corrigir erros relacionados com a ativação partilhada de computador, consulte [problemas de Resolução de Problemas com ativação de computador partilhado para aplicações microsoft 365 para empresa](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
   

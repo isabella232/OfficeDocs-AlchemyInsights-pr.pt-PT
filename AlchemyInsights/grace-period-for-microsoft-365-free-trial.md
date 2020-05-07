@@ -11,15 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400006"
 - "5479"
-ms.openlocfilehash: 19e87487fbb27fb811267fc99da819c2620ebcc0
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d7c4e97371a4c9a8643573bebd114b18cb60c866
+ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43910051"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44016987"
 ---
 # <a name="grace-period-for-microsoft-365-free-trial"></a>Período de tolerância para a avaliação gratuita do Microsoft 365
 
-Para uma avaliação gratuita, a sua conta passa para um estado de período de tolerância por **30 dias** na maioria dos países e regiões. Durante este período de tolerância, pode adquirir o Microsoft 365. Se decidir não comprar o Microsoft 365, pode [cancelar a sua avaliação](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide) ou deixar o seu período de tolerância expirar e as informações e dados da sua conta de avaliação serão apagados. Pode optar por [prolongar a sua avaliação](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial) por mais 30 dias se ainda não o tiver feito.
+Depois da sua avaliação gratuita de 30 dias, a sua conta passa para um estado de período de tolerância por **30 dias** adicionais na maioria dos países e regiões. Durante este período de tolerância, pode adquirir o Microsoft 365. Se decidir não comprar o Microsoft 365, pode [cancelar a sua avaliação](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide) ou deixar o seu período de tolerância expirar e as informações e dados da sua conta de avaliação serão apagados.
+
+Pode optar por [prolongar a sua avaliação](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial) por mais 30 dias se ainda não o tiver feito.
 
 Se for um cliente com **Licença em Volume**, use o [Microsoft Volume Licensing Service Center](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center) para questões adicionais sobre o período de tolerância da avaliação.

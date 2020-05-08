@@ -13,16 +13,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705096"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062295"
 ---
 # <a name="declined-credit-card"></a>Cartão de crédito recusado
 
-Se pagar através de cartão de crédito e este for recusado, receberá um e-mail a informar que não conseguimos processar o seu pagamento. Verifique duas vezes se os dados do [cartão](https://go.microsoft.com/fwlink/p/?linkid=842054) de crédito - número do cartão, data de validade, nome no cartão de crédito, e endereço, incluindo cidade, estado e código POSTAL - aparecem exatamente como no cartão de crédito e no extrato do seu cartão de crédito. Pode atualizar as informações do seu cartão de crédito e submeter imediatamente o pagamento utilizando a opção de **saldo de Liquidação** na página [de serviços & Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054) 
+Se pagar através de cartão de crédito e este for recusado, receberá um e-mail a informar que não conseguimos processar o seu pagamento. Verifique duas vezes se os dados do [cartão](https://go.microsoft.com/fwlink/p/?linkid=842054) de crédito - número do cartão, data de validade, nome no cartão de crédito, e endereço, incluindo cidade, estado e código POSTAL - aparecem exatamente como no cartão de crédito e no extrato do seu cartão de crédito. Pode atualizar as informações do seu cartão de crédito e submeter imediatamente o pagamento utilizando a opção de **saldo 'Liquidar'** na página **[dos Seus produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)** 
 
 Para saber mais, veja "E se o meu cartão de crédito expirou e o meu pagamento já passou?" em [Pay for your Microsoft 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   

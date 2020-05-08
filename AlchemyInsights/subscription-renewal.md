@@ -13,18 +13,18 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0ac7d1077319ab8b9aeef281b880a766b3cd98f2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 083e5298aba0ddd3b5d87cf482fdd949a2ee34da
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741838"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063268"
 ---
 # <a name="subscription-recurring-billing"></a>Faturação recorrente de subscrição
 
 Se quiser saber quando a sua subscrição mensal ou anual será faturada (se a **faturação recorrente** for ligada) ou expirar (se a **faturação recorrente** for desligada):
   
-1. No centro de administração, aceda à página **Faturação** \> [Produtos e Serviços](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. No centro de administração, vá à página de **Billing** \> **[Your products.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Para a subscrição que pretende saber mais, ao abrigo **da Faturação,** consulte as **Renovações ou** **Expirando na** data.
 

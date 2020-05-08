@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714161"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063484"
 ---
 # <a name="expired-subscription"></a>Subscrição expirada
 
@@ -26,7 +26,7 @@ Parece que tem uma ou mais subscrições vencidas. Se quiser continuar o serviç
   
 **Reativar**
   
-1. No centro de administração, aceda à página **Faturação** \> [Produtos e Serviços](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. No centro de administração, vá à página de **Billing** \> **[Your products.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Localize a subscrição que pretende reativar. Na secção **Faturação**, selecione **Reativar**.
 
@@ -38,7 +38,7 @@ Para saber mais, consulte [Reativar a sua subscrição](https://docs.microsoft.c
 
 **Faça uma nova compra**
   
-1. No centro de administração, vá à página de [serviços](https://go.microsoft.com/fwlink/p/?linkid=868433) de **Compra de** \> Faturação.
+1. No centro de administração, vá à página de **[serviços](https://go.microsoft.com/fwlink/p/?linkid=868433)** de **Compra de** \> Faturação.
 
 2. Escolha a subscrição que pretende comprar e escolha **Comprar**.
 

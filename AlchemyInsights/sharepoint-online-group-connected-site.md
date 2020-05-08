@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: b54457427ffa563b6a6323d85e1c8800191eca11
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912977"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064404"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problemas ao criar um site ligado ao grupo no SharePoint
 
@@ -26,7 +26,7 @@ Se tiver eliminado um grupo e o seu site conectado e pretender criar outro site 
    - Para mais informações sobre começar com a Powershell, consulte [Getting started with SharePoint Online Management Shell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
    - Remova o Site dos Sites Eliminados utilizando o cmdlet [remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell. A Powershell é necessária para eliminar permanentemente os sites do grupo.
 
-1. Se estiver a criar um site ligado ao grupo e receber um aviso: **Outro grupo com o mesmo pseudónimo já existe,** verifique os grupos existentes do Microsoft [365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/groups). Para resolver o problema, elimine o grupo existente se já não for necessário ou criar o site com um pseudónimo diferente atribuído.
+1. Se estiver a criar um site ligado ao grupo e receber um aviso: **Outro grupo com o mesmo pseudónimo já existe,** verifique os grupos existentes a partir do centro de administração da Microsoft [365](https://admin.microsoft.com/AdminPortal/Home#/groups). Para resolver o problema, elimine o grupo existente se já não for necessário ou criar o site com um pseudónimo diferente atribuído.
 
 1. Existem diferentes formas de criar e usar grupos modernos com o SharePoint.
 

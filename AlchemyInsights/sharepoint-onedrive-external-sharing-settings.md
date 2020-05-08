@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e39b8525fbcd43ee3778e5f3df9d3576fbd8924f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4883c5a8fe77610e86a66637e2e12c3a18fe6e67
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692884"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063664"
 ---
 # <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Mensagem de aviso: As políticas da sua organização não lhe permitem partilhar com estes utilizadores
 
@@ -23,12 +23,12 @@ Os utilizadores podem experimentar uma mensagem de aviso ao tentar partilhar com
 
 Verifique as **definições de Partilha Externa SharePoint e OneDrive** para a sua organização.
 
-1. No seu [Microsoft 365 Admin Center,](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)selecione **SharePoint**.
+1. No seu [centro de administração Microsoft 365,](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)selecione **SharePoint**.
 3. Selecione **Partilhar** para ver as definições de partilha externa.
 
 Verifique as **definições de Partilha Externa** para um site específico.
 
-1. No seu [Microsoft 365 Admin Center,](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)selecione **SharePoint**.
+1. No seu [centro de administração Microsoft 365,](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)selecione **SharePoint**.
 2. Selecione **Sites Ativos** para ver os seus sites disponíveis.
 3. Selecione o site que pretende verificar e, em seguida, selecione o botão **Partilha** que exibe na barra de menus para verificar as definições do site.
 

@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: a0e06904289b026b498aadf09c426473b11e9662
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763452"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064096"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Como reativar e gerir faturação recorrente
 
 Parece que tem uma assinatura que expirou. Se quiser reativar, é assim que se faz.
   
-1. No centro de administração, aceda à página **Faturação** \> [Produtos e Serviços](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. No centro de administração, vá à página de **Billing** \> **[Your products.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Localize a subscrição que pretende reativar. Na secção **de Faturação,** selecione **Reativar**.
 
@@ -36,7 +36,7 @@ Para saber mais, consulte [Reativar a sua subscrição](https://docs.microsoft.c
 
 Para gerir a faturação mensal ou anual pode alternar **faturação recorrente** dentro ou fora.
   
-1. No centro de administração, aceda à página **Faturação** \> [Produtos e Serviços](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. No centro de administração, vá à página de **Billing** \> **[Your products.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Escolha a subscrição para a qual pretende gerir a faturação periódica.
 

@@ -12,25 +12,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 733625a79fe2da5436e9b14899121fd02132bf0e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 039a60a6a4eece841fc494f619f13f1021b8906a
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789169"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064368"
 ---
-# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a><span data-ttu-id="b1cf4-102">Mude para um Microsoft 365 diferente para subscrição de negócios</span><span class="sxs-lookup"><span data-stu-id="b1cf4-102">Switch to a different Microsoft 365 for business subscription</span></span>
+# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a><span data-ttu-id="326fc-102">Mude para um Microsoft 365 diferente para subscrição de negócios</span><span class="sxs-lookup"><span data-stu-id="326fc-102">Switch to a different Microsoft 365 for business subscription</span></span>
 
-<span data-ttu-id="b1cf4-103">Quando o seu negócio muda, ou precisa de mais funcionalidades, pode fazer upgrade para um novo plano.</span><span class="sxs-lookup"><span data-stu-id="b1cf4-103">When your business changes, or you need more features, you can upgrade to a new plan.</span></span>
+<span data-ttu-id="326fc-103">Quando o seu negócio muda, ou precisa de mais funcionalidades, pode fazer upgrade para um novo plano.</span><span class="sxs-lookup"><span data-stu-id="326fc-103">When your business changes, or you need more features, you can upgrade to a new plan.</span></span>
   
-1. <span data-ttu-id="b1cf4-104">No centro de administração, vá aos \*\* \> [serviços de &](https://go.microsoft.com/fwlink/p/?linkid=842054)\*\* de Produtos de Faturação.</span><span class="sxs-lookup"><span data-stu-id="b1cf4-104">In the admin center, go to **Billing \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
+1. <span data-ttu-id="326fc-104">No centro de administração, vá à página de **Billing** \> **[Your products.](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="326fc-104">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
 
-2. <span data-ttu-id="b1cf4-105">Selecione a subscrição que pretende atualizar.</span><span class="sxs-lookup"><span data-stu-id="b1cf4-105">Select the subscription that you want to upgrade.</span></span>
+2. <span data-ttu-id="326fc-105">Selecione a subscrição que pretende atualizar.</span><span class="sxs-lookup"><span data-stu-id="326fc-105">Select the subscription that you want to upgrade.</span></span>
 
-3. <span data-ttu-id="b1cf4-106">Na página de detalhes da [subscrição,](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702)selecione **Upgrade**.</span><span class="sxs-lookup"><span data-stu-id="b1cf4-106">On the [subscription details page](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702), select **Upgrade**.</span></span>  <span data-ttu-id="b1cf4-107">Se o separador **Upgrade** estiver vazio, verá uma explicação do porquê de não conseguir fazer o upgrade neste momento.</span><span class="sxs-lookup"><span data-stu-id="b1cf4-107">If the **Upgrade** tab is empty, you'll see an explanation of why you can't upgrade at this time.</span></span> <span data-ttu-id="b1cf4-108">Em vez disso, terá de [alterar os planos manualmente.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="b1cf4-108">Instead, you will need to [change plans manually](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually?view=o365-worldwide).</span></span>
+3. <span data-ttu-id="326fc-106">Na página de detalhes da [subscrição,](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702)selecione **Upgrade**.</span><span class="sxs-lookup"><span data-stu-id="326fc-106">On the [subscription details page](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702), select **Upgrade**.</span></span>  <span data-ttu-id="326fc-107">Se o separador **Upgrade** estiver vazio, verá uma explicação do porquê de não conseguir fazer o upgrade neste momento.</span><span class="sxs-lookup"><span data-stu-id="326fc-107">If the **Upgrade** tab is empty, you'll see an explanation of why you can't upgrade at this time.</span></span> <span data-ttu-id="326fc-108">Em vez disso, terá de [alterar os planos manualmente.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="326fc-108">Instead, you will need to [change plans manually](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually?view=o365-worldwide).</span></span>
 
-4. <span data-ttu-id="b1cf4-109">Encontre o plano para o qual pretende atualizar e, em seguida, selecione o botão **'Actualizar'.**</span><span class="sxs-lookup"><span data-stu-id="b1cf4-109">Find the plan to which you want to upgrade, then select the **Upgrade** button.</span></span>
+4. <span data-ttu-id="326fc-109">Encontre o plano para o qual pretende atualizar e, em seguida, selecione o botão **'Actualizar'.**</span><span class="sxs-lookup"><span data-stu-id="326fc-109">Find the plan to which you want to upgrade, then select the **Upgrade** button.</span></span>
 
-5. <span data-ttu-id="b1cf4-110">Insira o número de licenças de que necessita, escolha se paga todos os meses ou durante todo o ano, em seguida, selecione **Checkout**.</span><span class="sxs-lookup"><span data-stu-id="b1cf4-110">Enter the number of licenses that you need, choose whether to pay each month or for the whole year, then select **Checkout**.</span></span>
+5. <span data-ttu-id="326fc-110">Insira o número de licenças de que necessita, escolha se paga todos os meses ou durante todo o ano, em seguida, selecione **Checkout**.</span><span class="sxs-lookup"><span data-stu-id="326fc-110">Enter the number of licenses that you need, choose whether to pay each month or for the whole year, then select **Checkout**.</span></span>
 
-<span data-ttu-id="b1cf4-111">Para saber mais, consulte [o Upgrade para um plano diferente.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)</span><span class="sxs-lookup"><span data-stu-id="b1cf4-111">To learn more, see [Upgrade to a different plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).</span></span>
+<span data-ttu-id="326fc-111">Para saber mais, consulte [o Upgrade para um plano diferente.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)</span><span class="sxs-lookup"><span data-stu-id="326fc-111">To learn more, see [Upgrade to a different plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).</span></span>

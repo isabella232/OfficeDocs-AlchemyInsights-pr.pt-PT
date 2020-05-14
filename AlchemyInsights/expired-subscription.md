@@ -14,10 +14,10 @@ ms.custom:
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
 ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063484"
 ---
 # <a name="expired-subscription"></a>Subscrição expirada
@@ -38,7 +38,7 @@ Para saber mais, consulte [Reativar a sua subscrição](https://docs.microsoft.c
 
 **Faça uma nova compra**
   
-1. No centro de administração, vá à página de **[serviços](https://go.microsoft.com/fwlink/p/?linkid=868433)** de **Compra de** \> Faturação.
+1. No centro de administração, vá à página de serviços de **Compra de** \> **[Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)** Faturação.
 
 2. Escolha a subscrição que pretende comprar e escolha **Comprar**.
 

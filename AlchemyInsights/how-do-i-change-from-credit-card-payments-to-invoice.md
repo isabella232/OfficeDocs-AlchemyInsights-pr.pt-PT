@@ -13,24 +13,30 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 05ba3bb421cedf94352d5bbb6c5daf1417eca609
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.openlocfilehash: 5d118036398d8d9f9a56e8a96e44d81ceccf6573
+ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44062439"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44225207"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Como posso mudar dos pagamentos com cartão de crédito para fatura?
 
 > [!NOTE]
 > A opção de pagar por fatura só está disponível se a sua subscrição custar mais de um determinado valor (que varia em função da localização do serviço). Poderá ser necessária uma verificação de crédito para pagamentos por fatura de valores mais elevados. Para saber mais, consulte [Pagar pela sua subscrição.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription)
-  
-1. No centro de administração, vá à página de **Billing** \> **[Your products.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
-2. Selecione a subscrição que pretende alterar. Na secção **de Faturação,** selecione a opção **Editar** para o seu método de pagamento atual.
+1. No centro de administração, vá à página de **Billing**  >  [Your products.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-3. Na alteração da forma como paga por esta caixa de **subscrição,** selecione **Alterar,** escolha ou adicione um método de pagamento diferente e, em seguida, selecione **Guardar**.
+2. Encontre a subscrição que pretende alterar. Em **Faturação**, junto ao método de pagamento, **selecione Editar**.
 
-   > [!NOTE]
-   > Se esta opção não for apresentada, significa que a mudança do cartão de crédito ou da conta bancária para a fatura não está disponível para a subscrição porque a subscrição não cumpre o valor mínimo de custo para faturação por fatura. O montante de custo mínimo necessário para pagar através de fatura varia consoante a localização geográfica.
-  
+3. Ao lado do método de pagamento existente, selecione **Alterar**.
+
+4. A partir do menu suspenso, selecione **Fatura ou transferência bancária**.
+
+5. Insira o seu nome, endereço e número de telefone. Também pode adicionar um número de PO para exibir na fatura.
+
+6. Quando terminar, selecione **Guardar**.
+
+7. Verifique se o método de pagamento selecionado está correto e, em seguida, selecione **Guardar**.
+
+Para saber mais, consulte Alterar o seu método de [pagamento.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)

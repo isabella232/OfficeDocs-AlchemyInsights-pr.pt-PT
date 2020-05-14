@@ -12,10 +12,10 @@ ms.custom:
 - "9001519"
 - "3576"
 ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062475"
 ---
 # <a name="find-and-activate-my-product-key"></a>Encontre e ative a minha chave de produto
@@ -32,7 +32,7 @@ Se adquiriu o Microsoft 365 Business Premium Standard numa loja de retalho, util
 
 **Nota:** Para utilizar uma chave de produto para prolongar a data de validade ou adicionar uma licença à subscrição microsoft 365 Business Premium Standard existente, precisa de uma nova chave não utilizada para a mesma subscrição microsoft 365.  A introdução da chave original do produto Microsoft 365 não funcionará porque uma chave que já foi resgatada não pode ser usada novamente.
 
-1. No centro de administração, vá à página de **Billing** > **[Your products.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. No centro de administração, vá à página de **Billing**  >  **[Your products.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Encontre a subscrição à qual pretende prolongar a data de validade ou adicionar licenças.  Clique em [prolongar a data de fim](https://go.microsoft.com/fwlink/p/?linkid=842054) ou adicionar mais [licenças](https://go.microsoft.com/fwlink/p/?linkid=842054).
 

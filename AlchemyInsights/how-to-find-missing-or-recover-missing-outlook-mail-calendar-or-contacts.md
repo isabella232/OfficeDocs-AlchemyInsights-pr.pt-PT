@@ -12,19 +12,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 75f7a7e842d8fafdd4cad3d48289d3cc609caec6
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720707"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235308"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Como encontrar e recuperar mensagens, contactos ou itens de calendário em falta no Outlook
 
-- Podes usar a [ferramenta que estou a ter problemas em enviar, receber ou encontrar mensagens](https://aka.ms/SaRA-OutlookSendReceive) de correio eletrónico na máquina afetada. Esta ferramenta irá verificar uma série de problemas e sugerirá possíveis soluções.
+1. No Outlook, vá à sua lista de pastas de e-mail e, em seguida, selecione **Itens Eliminados**. **Importante**: Se não vir a pasta **'Itens Apagados',** mas em vez disso ver a pasta **Lixo,** a sua conta não suporta recuperar um item que já não se encontra na pasta **'Itens Eliminados'.**
 
-- [Determinar se a conta está comprometida](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Se estiver comprometido, siga os passos na resposta a uma conta de [e-mail comprometida.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
+2. No menu **Inicial,** clique em **Recuperar Itens Eliminados do Servidor**. **Importante**: Se não houver **itens apagados de recuperação do** comando do Servidor no menu, a sua conta não suporta recuperar um item que já não se encontra na pasta De **itens Eliminados.**
 
-- [Encontre a mensagem ou o item usando a Pesquisa Instantânea](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+3. Selecione os itens que pretende recuperar, clique em **Restaurar Itens Selecionados,** e, em seguida, clique em **OK**.
 
-- [Recuperar itens apagados no Outlook para Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+**Para onde vão os artigos recuperados?** Quando recupera itens da pasta Itens Recuperáveis, são transferidos para a pasta Itens **Eliminados.** Depois de recuperar um item, pode encontrá-lo na pasta De **itens Eliminados** e depois pode movê-lo para outra pasta.
+
+Também pode usar a [ferramenta i'm having problems send, receiving ou find mail messages tool](https://aka.ms/SaRA-OutlookSendReceive) on the affected **machine**. Esta ferramenta irá verificar uma série de problemas e sugerirá possíveis soluções.

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742058"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343079"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Notificações de alerta SharePoint não entregues
 
@@ -33,15 +33,6 @@ FAQ em alertas:
 
 - Não é possível enviar alertas ao Grupo de Distribuição, apenas os grupos de Segurança e O365 são apoiados.
 - Não é possível personalizar modelos de e-mail de alerta; é necessário utilizar o Microsoft FLOW ou o SharePoint Designer Workflow para os conseguir.
-
-Mais informações:
-
-- **Configuração do alerta**: Para obter mais informações sobre a configuração de alertas, consulte [Criar um alerta para ser notificado quando um ficheiro ou pasta mudar no SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Alertas de resolução de problemas**: Para mais informações sobre alertas de resolução de problemas, consulte [utilizadores que não recebam notificações](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications)de alerta SharePoint Online .
-- Políticas avançadas de alerta de **conformidade O365**: Para mais informações sobre a configuração destes alertas, consulte Políticas de Alerta de [Conformidade](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **Registos de auditoria SharePoint e OneDrive**: Para obter mais informações sobre como recuperar estes eventos, consulte [o registo de auditoria](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Alertas enviados por Advanced Threat Protection**: Consulte [ATP para SharePoint e OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Alertas enviados pelas polícias de Prevenção**de Perdas de Dados : Ver [notificações de e-mail para políticas de DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Tópicos Relacionados
 

@@ -10,18 +10,22 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: e72d1b0f4c9f45ee214747efa9502b2341bde8e7
-ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
+ms.openlocfilehash: 71e5388df7a36652e3da9163d82dbb2be86823e3
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42891724"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343139"
 ---
 # <a name="rename-a-sharepoint-site"></a>Mude o nome de um site do SharePoint
 
-Siga os passos [neste artigo](https://docs.microsoft.com/sharepoint/change-site-address) para alterar o nome https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2de um site -- por exemplo, de .
+Os passos para alterar/mudar um URL do site estão documentados no Alterar um endereço do [site;](https://docs.microsoft.com/sharepoint/change-site-address) por exemplo, para mudar de https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 .
 
-**Nota:** Não é possível alterar o nome de domínio (no exemplo acima, a parte contoso do URL) num URL Online SharePoint. 
+Para erros conhecidos durante a renomeação, consulte Erros quando mudar o nome de um endereço do [site SharePoint](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86).
+
+Para efeitos conhecidos após renomeação, consulte [Efeitos de alteração de um endereço do site](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address).
+
+**Nota:** Não é possível alterar o nome de domínio (no exemplo acima, a parte "contoso" do URL) num URL Online SharePoint. 
 
 Para obter mais informações, consulte:
 

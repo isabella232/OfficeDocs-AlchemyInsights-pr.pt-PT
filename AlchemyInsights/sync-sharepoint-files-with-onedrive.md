@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: be1136f7fd4575d482d38ee70163e5252d4ffbca
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767044"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343210"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Resolver problemas relacionados com a opção "Abrir com o Explorador" no SharePoint Online
 
@@ -28,9 +28,6 @@ Para resolver problemas com a opção Abrir com o Explorador, siga os passos e a
 - [Copiar ou mover ficheiros da biblioteca com a opção Abrir com o Explorador](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
 > **Nota:**
+>- A opção Abrir com o Explorador é suportada apenas no Internet Explorer 10 ou 11. A funcionalidade Abrir com o Explorador não funciona no Windows com o Microsoft Edge, Google Chrome, Mozilla Firefox ou na plataforma Mac. Por esta razão, a opção Vista do Explorador pode estar desativada.
 >
 >- O botão Abrir com o Explorador não é apresentado na nova experiência da biblioteca. Selecione o menu pendente **Ver** no canto superior direito (o nome do menu pendente varia consoante a vista atual) e, em seguida, selecione **Ver no Explorador de Ficheiros**.
->
->- A opção Abrir com o Explorador é suportada apenas no Internet Explorer 10 ou 11. A funcionalidade Abrir com o Explorador não funciona no Windows com o Microsoft Edge, Google Chrome, Mozilla Firefox ou na plataforma Mac. Por esta razão, a opção Vista do Explorador pode estar desativada.
-
-

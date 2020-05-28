@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
-ms.translationtype: HT
+ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021650"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354099"
 ---
 # <a name="teams-admin-center"></a>Centro de Administração do Teams
 
@@ -30,4 +30,6 @@ Se não conseguir aceder ao Centro de Administração do Teams, verifique os seg
 Se os utilizadores não aparecerem no Centro de Administração do Teams, verifique os seguintes itens:
 
 - Criou utilizadores ou atribuiu licenças nas últimas 24 horas? Certifique-se de que esperou pelo menos 24 horas antes de iniciar um pedido de suporte.
-- Verificou se atribuiu licenças apropriadas? 
+- Verificou se atribuiu licenças apropriadas?
+- Se tiver um Diretório Ativo no local, verifique se [o valor do MSRTCSIP-PrimaryUserAddress ou o endereço SIP no campo ProxyAddresses no seu Diretório Ativo local é único e o formato corresponde ao](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) gole:**Username** do utilizador do centro de administração microsoft [365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Se pretende manter um Skype para implementação do Business Server e ter utilizadores alojados no local e Online: siga o **"set up hybrid with Teams and Skype for Business Online"** no seu Skype para Business Server Control Panel e mova os utilizadores Online.

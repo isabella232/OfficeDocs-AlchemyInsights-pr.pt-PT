@@ -1,5 +1,5 @@
 ---
-title: Gerir utilizador sincronizado
+title: Gerir o Utilizador Sincronizado
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: a943c59d67c512e6326856dacd0053db121f6aa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 84e337a7224fdd3c3ab7ad0f61240692fe007d5a
+ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542011"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44407361"
 ---
-# <a name="unable-to-set-primary-email-address-or-change-user-attributes"></a>Não é possível definir o endereço de correio electrónico principal ou alterar atributos de utilizador
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Incapaz de definir o endereço de e-mail primário, alterar atributos do utilizador ou remover/eliminar um utilizador sincronizado
 
-Se a sincronização de directório estiver activada para o seu ambiente, alguns atributos de utilizador ou objecto não podem ser alterados utilizando o Centro de administração do Microsoft 365.
+Se a sincronização do diretório estiver ativada para o seu ambiente, alguns atributos de utilizador ou objeto não podem ser alterados utilizando o centro de administração da Microsoft 365.
 
-Para gerir totalmente sincronizados utilizadores e os respectivos atributos, utilize o local active directory utilizadores e grupos consola de gestão (Adsiedit. msc).  
+Para gerir totalmente os utilizadores sincronizados e todos os seus atributos, utilize os utilizadores de diretórios ativos locais e a consola de gestão de grupos (adsiedit.msc).  
 
-Em alternativa, pode alterar utilizadores individuais ou atributos para utilizadores sincronizados utilizando powershell tal como indicado nestes exemplos comuns: 
-- Conjunto-MsolUser - UserPrincipalName user@yourdomain.onmicrosoft.com - AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com
-- Conjunto-MsolUser - UserPrincipalName "user@yourdomain.onmicrosoft.com" - DisplayName "Utilizador de teste" - Apelido "Utilizador"-"Gestor" do título-departamento "H"
-- Remover-MsolUser - UserPrincipalName "user@yourdomain.onmicrosoft.com
+Alternativamente, pode alterar utilizadores individuais ou atributos para utilizadores sincronizados usando powershell, como mostrado nestes exemplos comuns: 
+- `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
+
+- `Set-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com" -DisplayName "Test User" -LastName "User" -Title "Manager" -Department "HR"`
+
+- `Remove-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com`

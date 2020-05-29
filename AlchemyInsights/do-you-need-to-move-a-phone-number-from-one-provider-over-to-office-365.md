@@ -10,14 +10,19 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: feedd3e1433f9c8232a6ab9577473e4dbed03b31
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1e6ad5908b56f76fa41cf9fbdfad0f50c1a6f552
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714925"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417399"
 ---
-# <a name="move-a-phone-number-from-another-provider-to-microsoft"></a>Mova um número de telefone de outro fornecedor para a Microsoft
+# <a name="port-existing-numbers-to-teams"></a>Importar números existentes para o Teams
 
-Precisa de transferir um número de telefone de outro fornecedor para a Microsoft? Os números de telefone para diferentes países e regiões podem ser encontrados em [Gerir números de telefone para a sua organização](https://docs.microsoft.com/SkypeForBusiness/what-are-calling-plans-in-office-365/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). Escolha o seu país ou região para encontrar informações sobre a transferência de números. 
-  
+Se tem atualmente um fornecedor de serviços telefónicos ou uma operadora e já tem números de telefone para os seus utilizadores ou serviços, precisa de criar um "pedido de transferência" para transferir esses números de telefone para o Microsoft Teams.
+
+- Consulte [Transfer phone numbers to Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) (Transferir números de telefone para o Teams) para saber como concluir a transferência 
+
+- Consulte [Manage phone numbers for your organization](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) (Gerir números de telefone para a sua organização) para obter diretrizes relativamente a gestão de números de telefone. 
+
+Para mais informações, consulte a [Port Order Overview](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview) (Descrição Geral do Pedido de Transferência).  

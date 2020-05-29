@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: f8b44773767aa28750a7c444b22091359030c93f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: dbe971468add6cc7278b5d5aa4511408ae33b296
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709986"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417291"
 ---
-# <a name="how-do-i-remove-my-credit-card-information"></a><span data-ttu-id="3e07d-102">Como retiro a informação do meu cartão de crédito?</span><span class="sxs-lookup"><span data-stu-id="3e07d-102">How do I remove my credit card information?</span></span>
+# <a name="how-do-i-remove-my-credit-card-information"></a><span data-ttu-id="32d70-102">Como retiro a informação do meu cartão de crédito?</span><span class="sxs-lookup"><span data-stu-id="32d70-102">How do I remove my credit card information?</span></span>
 
-1. <span data-ttu-id="3e07d-103">No centro de administração do Microsoft 365, aceda à página **Faturação** \> [Métodos de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="3e07d-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
+1. <span data-ttu-id="32d70-103">No centro de administração do Microsoft 365, aceda à página **Faturação** \> [Métodos de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="32d70-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
 
-2. <span data-ttu-id="3e07d-104">Na página dos métodos de **Pagamento,** escolha o cartão de crédito ou a conta bancária para apagar.</span><span class="sxs-lookup"><span data-stu-id="3e07d-104">On the **Payment methods** page, pick the credit card or bank account to delete.</span></span>
+2. <span data-ttu-id="32d70-104">Na página **de métodos de pagamento,** escolha o cartão de crédito ou a conta bancária para apagar.</span><span class="sxs-lookup"><span data-stu-id="32d70-104">On the **Payment methods** page, pick the credit card or bank account to delete.</span></span>
 
-3. <span data-ttu-id="3e07d-105">Para remover o cartão de crédito ou a conta bancária, selecione Eliminar o **método de pagamento.**</span><span class="sxs-lookup"><span data-stu-id="3e07d-105">To remove the credit card or bank account, select **Delete payment method.**</span></span>
+3. <span data-ttu-id="32d70-105">Para remover o cartão de crédito ou conta bancária, **selecione Eliminar o método de pagamento.**</span><span class="sxs-lookup"><span data-stu-id="32d70-105">To remove the credit card or bank account, select **Delete payment method.**</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="3e07d-106">Não poderá remover uma conta bancária ou cartão de crédito se este estiver a ser utilizado atualmente para pagar uma subscrição.</span><span class="sxs-lookup"><span data-stu-id="3e07d-106">You won't be able to remove a credit card or bank account if it's currently being used to pay for a subscription.</span></span>
+> <span data-ttu-id="32d70-106">Não poderá remover uma conta bancária ou cartão de crédito se este estiver a ser utilizado atualmente para pagar uma subscrição.</span><span class="sxs-lookup"><span data-stu-id="32d70-106">You won't be able to remove a credit card or bank account if it's currently being used to pay for a subscription.</span></span>
 
-4. <span data-ttu-id="3e07d-107">No painel do **método de pagamento Eliminar,** selecione **Eliminar**.</span><span class="sxs-lookup"><span data-stu-id="3e07d-107">In the **Delete payment method** pane, select **Delete**.</span></span>
+4. <span data-ttu-id="32d70-107">No painel de **método de pagamento Eliminar,** selecione **Delete**.</span><span class="sxs-lookup"><span data-stu-id="32d70-107">In the **Delete payment method** pane, select **Delete**.</span></span>
 
-<span data-ttu-id="3e07d-108">Para saber mais, consulte [Adicionar, atualizar ou remover um cartão](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)de crédito ou uma conta bancária.</span><span class="sxs-lookup"><span data-stu-id="3e07d-108">To learn more, see [Add, update, or remove a credit card or bank account](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="32d70-108">Para saber mais, consulte [Gerir os métodos de pagamento.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)</span><span class="sxs-lookup"><span data-stu-id="32d70-108">To learn more, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>

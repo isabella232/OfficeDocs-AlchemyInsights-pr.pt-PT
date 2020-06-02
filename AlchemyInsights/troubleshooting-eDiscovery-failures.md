@@ -1,5 +1,5 @@
 ---
-title: 1490-troubleshooting-eDiscovery-failures
+title: 1490-resolução de problemas-falhas na descoberta
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759595"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512565"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Erros de pesquisa de conteúdo de resolução de problemas
+# <a name="troubleshoot-content-search-errors"></a>Resolução de problemas Erros de pesquisa de conteúdo
 
-Está a ter problemas com a Pesquisa de Conteúdos ou com falhas na exportação de resultados de pesquisa?
+Está a ter problemas com a Pesquisa de Conteúdo ou com falhas quando exporta resultados de pesquisa?
 
 Por exemplo, está a receber o seguinte ao fazer pesquisas?
 
 - Erros CS008 ou CS012
 
-- Erros de tempo/tempo do servidor
+- Erros ocupados/tempoout do servidor
 
 - Erro de aplicação ocorreu
 
-Ou ao pesquisar ou exportar resultados de um grande número de caixas de correio (mais de 100.000 caixas de correio), está a ter erros de exportação?
+Ou quando pesquisar ou exportar resulta de um grande número de caixas de correio (mais de 100.000 caixas de correio), está a obter erros de exportação?
 
-Para este tipo de erros, tente novamente a procura dos locais de conteúdo que falharam. Consulte [este artigo](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) para mais informações.
+Para este tipo de erros, recandiduça a procura das localizações de conteúdo que falharam. Consulte [este artigo](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) para mais informações.

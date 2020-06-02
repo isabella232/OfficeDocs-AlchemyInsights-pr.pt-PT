@@ -1,5 +1,5 @@
 ---
-title: Problemas de conexão sharepoint designer
+title: Problemas de conexão do SharePoint Designer
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,35 +10,35 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 9730bd66afd494385db3de605f5fe68d0f274ed3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 01ccc6bc28148f397fb6cd2b7a0eaaeb5b51973f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051724"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511555"
 ---
-# <a name="sharepoint-designer-connection-issues"></a>Problemas de conexão sharepoint designer 
+# <a name="sharepoint-designer-connection-issues"></a>Problemas de conexão do SharePoint Designer 
 
-Se o SharePoint Designer está enfrentando problemas de conexão com sites do SharePoint, tente as seguintes soluções comuns.
+Se o SharePoint Designer estiver a ter problemas de ligação aos sites do SharePoint, experimente as seguintes soluções comuns.
 
-Etapa 1: Verifique se o SharePoint Designer 2013 é atualizado com o Pacote de Serviço de [Designer SharePoint 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) e a atualização de 2 de agosto de [2016 para designer sharepoint 2013.](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721)
+Passo 1: Verifique se o SharePoint Designer 2013 é atualizado com o [SharePoint Designer Service Pack 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) e a [Atualização de 2 de agosto de 2016 para o SharePoint Designer 2013](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721).
 
 
 
-Passo 2: Limpe os arquivos de cache locais:
+Passo 2: Limpar os ficheiros de cache locais:
 
-1. Fechar SharePoint Designer 2013.
+1. Close SharePoint Designer 2013.
 
-2. No computador local, remova todos os arquivos encontrados em cada uma das seguintes pastas.
+2. No computador local, remova todos os ficheiros encontrados em cada uma das pastas que se seguem.
 
-    - %APPDATA%\Microsoft\Web Server Extensions\Cache %APPDATA%\Microsoft\Web Server Extensões \Cache
-    - %APPDATA%\Microsoft\SharePoint Designer\ProxyAssemblyCache %APPDATA%\Microsoft\SharePoint Designer\ProxyAssemblyCache
-    - %USERPROFILE%\AppData\Local\Microsoft\WebsiteCache %USERPROFILE%\AppData\Local\Microsoft\WebsiteCache
+    - %APPDATA%\Microsoft\Extensões do servidor web\Cache
+    - %APPDATA%\Microsoft\SharePoint Designer\ProxyAssemblyCache
+    - %USERPROFILE%\AppData\Local\Microsoft\WebsiteCache
 
-3. Abra sharepoint designer 2013 e digite a conta novamente para ver se ele funciona.
+3. Abra o SharePoint Designer 2013 e introduza novamente a conta para ver se funciona.
 
-Etapa 3: [Habilite autenticação moderna para o Office 2013 em dispositivos Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide).
+Passo 3: [Ativar a autenticação moderna do Office 2013 em dispositivos Windows](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication).
 
-Passo 4: Os administradores precisarão **permitir o script personalizado** nas configurações do SharePoint Admin Center para permitir a conexão SharePoint Designer. Veja [permitir ou impedir o script personalizado](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) para obter mais informações.
+Passo 4: Os administradores terão de **permitir scripts personalizados** nas definições do Centro de Administração SharePoint para permitir a ligação do SharePoint Designer. Consulte [Permitir ou prevenir scripts personalizados](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) para obter mais informações.
 
 

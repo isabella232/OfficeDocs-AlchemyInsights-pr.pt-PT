@@ -1,5 +1,5 @@
 ---
-title: Mover mensagens de correio eletrónico para a caixa de correio do Arquivo
+title: Mova mensagens de e-mail para a caixa de correio do Arquivo
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,26 +12,26 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: a5ad81e97df0ed5c337a622126173df94af80bb8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 35c11f1bfb7c61b28a64f0128c29ddf7b4fce939
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713657"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511051"
 ---
-# <a name="move-email-to-the-archive-mailbox"></a>Mova o e-mail para a caixa de correio de arquivo
+# <a name="move-email-to-the-archive-mailbox"></a>Mova o e-mail para a caixa de correio do arquivo
 
-1. Confirme que foi ativada uma **caixa de correio Archive.** Caso contrário, utilize os passos [deste artigo](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) para ativar a caixa de correio de arquivo.
+1. Confirme se foi ativada uma **caixa de correio archive.** Caso contrário, utilize os passos [deste artigo](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) para ativar a caixa de correio de arquivo.
 
-2. Para arquivar mensagens automaticamente na caixa de correio de arquivo, deve ser definida uma etiqueta de retenção com o **Movimento para arquivar** ação para ser aplicada automaticamente à etiqueta inteira da caixa de correio **(predefinido).** Utilize os passos aqui para criar a etiqueta: [Etiqueta padrão de arquivo](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
+2. Para arquivar automaticamente as mensagens na caixa de correio de arquivo, deve ser definida uma etiqueta de retenção com a ação **Move to archive** para ser aplicada automaticamente na **marcação completa da caixa de correio (predefinição).** Utilize os passos aqui para criar a etiqueta: [Etiqueta Padrão de Arquivo](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
-3. Em seguida, adicione a etiqueta **de Arquivo** à sua política de retenção. No centro de administração exchange, escolha Políticas de **Retenção** > adicione a **etiqueta Move to Archive** à política > **Save**.
+3. Em seguida, adicione a etiqueta **Archive** à sua política de retenção. No centro de administração Exchange, escolha **Políticas de Retenção** > adicione a **etiqueta Move to Archive** à política > **Salvar**.
 
-4. Agora [atribua a Política](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) de Retenção à caixa de correio do utilizador específico. A mesma política será aplicada tanto à **Primary** como à **Caixa** de Correio seleções.
+4. Agora [atribua a Política de Retenção](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) à caixa de correio específica do utilizador. A mesma política será aplicada tanto à **caixa de** correio Primária como ao **Arquivo.**
 
-Pode ser necessário forçar o Assistente de Pasta Gerida (MFA) a executar e aplicar as novas definições na caixa de correio do utilizador. Executar o seguinte comando enquanto [ligado ao EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) para iniciar o Assistente de Pasta Gerida para uma caixa de correio específica:
+Pode ser necessário forçar o Assistente de Pasta Gerida (MFA) a executar e aplicar as novas definições na caixa de correio do utilizador. Executar o seguinte comando enquanto [está ligado ao EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) para iniciar o Assistente de Pasta Gerida para uma caixa de correio específica:
   
-Assistente de Pasta Gerido por Início -Identidade<name of the mailbox>
+Start-ManagedFolderAssistant -Identidade<name of the mailbox>
 
-Para obter mais informações sobre a criação de uma política de arquivo, consulte [A criação de uma política de arquivo e eliminação para caixas de correio](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+Para obter mais informações sobre a criação de uma política de arquivo, consulte [configurar uma política de arquivo e eliminação para caixas de correio](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   

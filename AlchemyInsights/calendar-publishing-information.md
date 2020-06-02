@@ -1,5 +1,5 @@
 ---
-title: 613 Informações de Publicação de Calendário
+title: 613 Informação de Publicação de Calendário
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 08be08e96ac34c0559a5f5d2b2e47fbb48da28ad
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0fcb5552bc072cf3647e32e663ec7681212dc599
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712074"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506166"
 ---
-# <a name="calendar-publishing-information"></a><span data-ttu-id="3f78b-102">Informação de publicação de calendário</span><span class="sxs-lookup"><span data-stu-id="3f78b-102">Calendar publishing information</span></span>
+# <a name="calendar-publishing-information"></a><span data-ttu-id="6273b-102">Informação de publicação de calendário</span><span class="sxs-lookup"><span data-stu-id="6273b-102">Calendar publishing information</span></span>
 
-- <span data-ttu-id="3f78b-103">Os administradores da Microsoft 365 podem ativar ou desativar a publicação de calendários e a partilha de calendários para uma organização.</span><span class="sxs-lookup"><span data-stu-id="3f78b-103">Microsoft 365 admins can enable or disable calendar publishing and calendar sharing for an organization.</span></span> <span data-ttu-id="3f78b-104">Para mais informações, consulte a publicação de calendários para que [as pessoas possam partilhar informações](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) e [partilhar calendários com utilizadores externos](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span><span class="sxs-lookup"><span data-stu-id="3f78b-104">For more information, see [Turn on calendar publishing so people can share information](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) and [Share calendars with external users](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span></span>
+- <span data-ttu-id="6273b-103">Os administradores da Microsoft 365 podem ativar ou desativar a publicação de calendários e a partilha de calendários para uma organização.</span><span class="sxs-lookup"><span data-stu-id="6273b-103">Microsoft 365 admins can enable or disable calendar publishing and calendar sharing for an organization.</span></span> <span data-ttu-id="6273b-104">Para obter mais informações, consulte [a publicação do calendário para que as pessoas possam partilhar informações](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) e partilhar [calendários com utilizadores externos.](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)</span><span class="sxs-lookup"><span data-stu-id="6273b-104">For more information, see [Turn on calendar publishing so people can share information](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) and [Share calendars with external users](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users).</span></span>
 
-- <span data-ttu-id="3f78b-105">Os utilizadores do Outlook podem partilhar os seus próprios calendários.</span><span class="sxs-lookup"><span data-stu-id="3f78b-105">Outlook users can share their own calendars.</span></span> <span data-ttu-id="3f78b-106">Para mais informações, consulte [Partilhar um calendário do Outlook com outras pessoas.](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)</span><span class="sxs-lookup"><span data-stu-id="3f78b-106">For more information, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span></span>
+- <span data-ttu-id="6273b-105">Os utilizadores do Outlook podem partilhar os seus próprios calendários.</span><span class="sxs-lookup"><span data-stu-id="6273b-105">Outlook users can share their own calendars.</span></span> <span data-ttu-id="6273b-106">Para mais informações, consulte [partilhar um calendário do Outlook com outras pessoas.](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)</span><span class="sxs-lookup"><span data-stu-id="6273b-106">For more information, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span></span>

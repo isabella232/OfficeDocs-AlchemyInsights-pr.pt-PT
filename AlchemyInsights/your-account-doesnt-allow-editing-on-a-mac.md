@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: 6fb0783b8fefabc004c42d24e4ba6e750f986d52
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: d9ce4e7061ed01a5c1309367504e1a532f8f72e8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628145"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510115"
 ---
-# <a name="fixing-the-office-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Corrigindo os aplicativos do Office "Sua conta não permite edição em uma mensagem de Mac"
+# <a name="fixing-the-office-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Corrigir as aplicações do Office "A sua conta não permite a edição numa mensagem Mac"
 
-Se você receber esta mensagem, tente o seguinte:
+Se receber esta mensagem, experimente o seguinte:
 
-- Certifique-se de ter uma assinatura que permite licenças de cliente e [garantir que o usuário tenha uma licença atribuída.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) 
-- Baixe e execute a ferramenta de remoção de [licença.](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193)
-- Redefinir suas credenciais. Veja não pode ativar o office após a [instalação.](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#bkmk_cantactivate)
-- Reiniciar e entrar no Escritório com sua conta.
+- Certifique-se de que tem uma subscrição que permite licenças de cliente e [garanta que o utilizador tem uma licença atribuída](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
+- Transfira e execute a [ferramenta de remoção de licenças](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193).
+- Reponha as suas credenciais. Consulte [Não consigo ativar o Office após a instalação](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#bkmk_cantactivate).
+- Reinicie e inicie sessão no Office com a sua conta.
 
 Para obter mais informações, consulte:
-- [Ativar o Escritório para Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
-- [O que tentar se você não pode instalar ou ativar o Office for Mac](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#picktab=activation)
-- [Outlook 2016 para Mac repetidamente solicita autenticação](https://docs.microsoft.com/outlook/troubleshoot/sign-in/repeated-prompts-authentication)
+- [Ativar o Office para Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
+- [O que fazer se não conseguir instalar ou ativar o Office para Mac](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#picktab=activation)
+- [O Outlook 2016 para Mac solicita repetidamente a autenticação](https://docs.microsoft.com/outlook/troubleshoot/sign-in/repeated-prompts-authentication)

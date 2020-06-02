@@ -12,19 +12,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 3c74953118f248c79186e54bd6728e2c6e083226
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 37ab3aef2e6aeaef4a8b8d89ec4b9417b2067b69
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005485"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510331"
 ---
 # <a name="view-my-bill-or-invoice"></a>Ver a minha fatura
 
-1. No centro de administração da Microsoft 365, vá à página de pagamentos & **Billing** \> [Bills.](https://go.microsoft.com/fwlink/p/?linkid=848039)
+1. No centro de administração microsoft 365, vá à página de pagamentos **& Billing** \> [Bills.](https://go.microsoft.com/fwlink/p/?linkid=848039)
 
 2. Selecione um intervalo de datas a partir da lista pendente e, em seguida, escolha a ordem em que pretende ver.
 
-3. Para imprimir a conta, faça o download da conta como ficheiro PDF e clique em **Imprimir**.
+3. Para imprimir a conta, descarregue a conta como um ficheiro PDF e clique em **Imprimir**.
 
-Para mais informações consulte [Ver a sua conta ou fatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+Para mais informações consulte [Ver a sua conta ou fatura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).

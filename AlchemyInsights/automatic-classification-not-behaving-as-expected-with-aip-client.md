@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 95a994d6a49ee8737a6ebcb196314f92776d8482
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493180"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508387"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Classificação automática não se comporta como esperado com o cliente AIP
 
 Classificação automática não se comporta como esperado, utilize as seguintes orientações recomendadas:
 
-1. Se tiver problemas com a rotulagem automática, consulte [como configurar condições para classificação automática e recomendada para a Proteção de Informação Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) e [quais os tipos de informação sensíveis procuram](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+1. Se tiver problemas com a rotulagem automática, consulte [como configurar condições para classificação automática e recomendada para a Proteção de Informação Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) e [quais os tipos de informação sensíveis procuram](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 2. Verifique se está a utilizar políticas de âmbito que não estejam configuradas corretamente: [Como configurar a política de proteção de informação Azure para utilizadores específicos utilizando políticas de âmbito](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 3. Se a rotulagem automática não estiver a funcionar para o Outlook ao anexar um documento rotulado, verifique se `DRMEncryptProperty` não está definido como descrito aqui: [Definições de registo de IRM para segurança](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
 4. Se utilizar os [tipos de informação incorporada](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) para a sua política de Proteção de Informações Azure, verifique se o seu conteúdo corresponde ao formato esperado.

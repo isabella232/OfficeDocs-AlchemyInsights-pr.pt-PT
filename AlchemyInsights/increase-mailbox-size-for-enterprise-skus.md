@@ -1,5 +1,5 @@
 ---
-title: Aumentar o tamanho da caixa de correio para Empresas SKUs
+title: Aumentar o tamanho da caixa de correio para SKUs da Empresa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: cc3842bf7226079b8542cb95aa0cdbf00d95361f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 82917466c3e9f7b1e452f98cac41fa945f0ec736
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671252"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508783"
 ---
-# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>O que fazer se o tamanho da sua caixa de correio já for de 100GB
+# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>O que fazer se o tamanho da sua caixa de correio já estiver 100GB
 
-Com um plano E3 ou E5, o tamanho da sua caixa de correio já é de 100 GB, e não há como aumentá-lo. Em vez disso, apague o e-mail antigo ou ligue o arquivo de e-mail para armazená-lo na nuvem. 
+Com um plano E3 ou E5, o tamanho da sua caixa de correio já é de 100 GB, e não há como aumentá-lo. Em vez disso, apague o e-mail antigo ou ligue o e-mail para armazená-lo na nuvem. 
   
-Para permitir o arquivamento de e-mails:
+Para ativar o arquivo de e-mails:
   
-1. No centro de administração da Microsoft 365, vá aos **centros** \> de administração **Exchange.** 
+1. No centro de administração Microsoft 365, vá ao **Admin Centers** \> **Exchange**. 
     
-2. Escolha caixas de \> **correio** **destinatários** e selecione uma caixa de correio. 
+2. Escolha caixas de correio **para** \> **destinatários**e selecione uma caixa de correio. 
     
-3. Nos detalhes, em que se lecione em **Arquivo In-Place,** escolha **Ativação**. 
+3. No painel de detalhes em **In-Place Archive,** escolha **Enable**. 
     
-4. Após alguns minutos, uma nova pasta aparecerá no Outlook do seu utilizador na web chamada *In-Place Archive* , ou na aplicação Outlook chamada *Arquivo Online \<- nome\> * . O utilizador pode arrastar e largar e-mails para o arquivo. 
+4. Após alguns minutos, aparecerá uma nova pasta no Outlook do seu utilizador na web chamada *In-Place Archive* , ou na aplicação Outlook chamada *Online Archive \<name\> -* . O seu utilizador pode arrastar e deixar cair o e-mail para o arquivo. 
     
-Você pode aceder a uma quantidade ilimitada de armazenamento para arquivamento. Para saber mais, consulte [Permitir arquivamento ilimitado.](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving)
+Você pode aceder a uma quantidade ilimitada de armazenamento para arquivar. Para saber mais, consulte [Ativar o arquivo ilimitado.](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving)
   
 

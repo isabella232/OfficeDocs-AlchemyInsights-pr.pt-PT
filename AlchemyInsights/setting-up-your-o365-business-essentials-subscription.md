@@ -8,39 +8,39 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767800"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509359"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Configurar a sua subscrição O365 Business Essentials
 
-Crie as contas do Microsoft 365 e adicione o seu domínio
+Crie contas Microsoft 365 e adicione o seu domínio
   
-- Neste passo, utiliza o assistente de configuração para criar contas Microsoft 365 para os seus utilizadores e adicionar o seu próprio domínio. O assistente permite personalizar a identificação de cada utilizador e e-mail para o seu negócio, como [rob@contoso.com](mailto:rob@contoso.com).
+- Neste passo, utiliza o assistente de configuração para criar contas microsoft 365 para os seus utilizadores e adicionar o seu próprio domínio. O assistente permite-lhe personalizar o ID do utilizador e o e-mail de todos para o seu negócio, como [rob@contoso.com](mailto:rob@contoso.com).
     
-- Vá ao centro de administração da [Microsoft 365.](https://login.partner.microsoftonline.cn/)
+- Vá ao [centro de administração Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- Para iniciar o assistente, selecione **Ir para configuração**. Para saber mais, consulte [Adicionar um domínio à Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
+- Para iniciar o assistente, selecione **Ir para configuração**. Para saber mais, consulte [Adicionar um domínio ao Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
 E-mail de importação
   
-- Desloque os seus e-mails e contactos existentes de outros sistemas de email para a sua caixa de correio Microsoft 365 para que possa ver tudo num só local. Para opções de migração, [emigrar e-mails e contactos para o Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
+- Mova o seu e-mail e contactos existentes de outros sistemas de e-mail para a sua caixa de correio Microsoft 365 para que possa ver tudo num só local. Para opções de migração, [e-mail migrar e contactos para a Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
-- Ligar contas de e-mail
+- Conecte contas de e-mail
     
-  - Além de gerir o seu email no Outlook, também pode ligar outras contas de email ao Outlook, como as suas contas Gmail e Yahoo. Isto permite-lhe gerir todos os seus e-mails num só lugar. Pode associar até 5 contas de e-mail ao Outlook. Consulte as contas de [e-mail Connect no Outlook na web (Microsoft 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) para obter mais detalhes. 
+  - Além de gerir o seu email no Outlook, também pode ligar outras contas de e-mail ao Outlook, como as suas contas Gmail e Yahoo. Isto permite-lhe gerir todos os seus e-mails num só lugar. Pode associar até 5 contas de e-mail ao Outlook. Consulte [as contas de e-mail do Connect no Outlook na web (Microsoft 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) para obter mais detalhes. 
     
-Instalar skype para negócios
+Instalar o Skype para negócios
   
 - O utilizador e os membros da sua equipa podem [transferir e instalar o Skype para Empresas](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) em todos os seus PCs, Macs, tablets e telemóveis. Em seguida, poderá ver o estado online dos seus colegas, iniciar conversas a partir de outras aplicações do Office e organizar reuniões de vídeo com até 250 pessoas. 
     
 Armazenar ficheiros online
   
-- Para saber quais os locais de armazenamento mais adequados para o seu negócio, consulte [onde pode armazenar ficheiros no Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Todos recebem automaticamente um local de armazenamento em nuvem **OneDrive** quando crias as contas do Microsoft 365 para eles. Com o OneDrive, podem aceder a ficheiros em todos os seus computadores, telemóveis e tablets. 
+- Para saber quais os locais de armazenamento melhores para o seu negócio, veja [onde pode armazenar ficheiros no Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Todos recebem automaticamente um local de armazenamento em nuvem **OneDrive** quando criam as contas do Microsoft 365 para elas. Com o OneDrive, podem aceder a ficheiros em todos os seus computadores, telemóveis e tablets. 
     
-Podem ser encontradas etapas detalhadas para a configuração [neste artigo](https://docs.microsoft.com/office365/admin/setup/setup).
+Neste [artigo](https://docs.microsoft.com/microsoft-365/admin/setup/setup)podem encontrar-se passos pormenorizados para a configuração .
   
 

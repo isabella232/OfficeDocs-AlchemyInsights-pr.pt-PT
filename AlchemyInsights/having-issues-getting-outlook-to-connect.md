@@ -1,5 +1,5 @@
 ---
-title: Ter problemas em fazer com que o Outlook se conectem?
+title: Tendo problemas em fazer o Outlook ligar??
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -8,22 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b812e53a-d519-4f3e-8438-4115a8e8e906
-ms.openlocfilehash: 7ec68ef7e5852e37b219113e8e6a6341ffe8c256
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 16e16be8ded889347ae4be286edef239fb9283fa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710166"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44499018"
 ---
-# <a name="having-issues-getting-outlook-to-connect"></a><span data-ttu-id="632d7-102">Ter problemas em fazer com que o Outlook se conectem?</span><span class="sxs-lookup"><span data-stu-id="632d7-102">Having issues getting Outlook to connect?</span></span>
+# <a name="having-issues-getting-outlook-to-connect"></a><span data-ttu-id="f3310-102">Tendo problemas em fazer o Outlook ligar??</span><span class="sxs-lookup"><span data-stu-id="f3310-102">Having issues getting Outlook to connect?</span></span>
 
-<span data-ttu-id="632d7-103">Detetámos que o Outlook não está configurado para funcionar corretamente sob o seguinte domínio( s):</span><span class="sxs-lookup"><span data-stu-id="632d7-103">We've detected that Outlook isn't configured to work properly under the following domain(s):</span></span>
+<span data-ttu-id="f3310-103">Detetamos que o Outlook não está configurado para funcionar corretamente sob os seguintes domínios):</span><span class="sxs-lookup"><span data-stu-id="f3310-103">We've detected that Outlook isn't configured to work properly under the following domain(s):</span></span>
   
-<span data-ttu-id="632d7-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="632d7-104">{HealthCheckString}</span></span>
+<span data-ttu-id="f3310-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="f3310-104">{HealthCheckString}</span></span>
   
-<span data-ttu-id="632d7-105">Os registos NS ou CNAME das definições de domínio (DNS) não estão corretamente configurados.</span><span class="sxs-lookup"><span data-stu-id="632d7-105">The NS or CNAME records of the domain (DNS) settings aren't setup correctly.</span></span> <span data-ttu-id="632d7-106">Pode consultar os [registos DoNs create em qualquer fornecedor de hospedagem DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) para obter instruções detalhadas.</span><span class="sxs-lookup"><span data-stu-id="632d7-106">You can refer to [Create DNS records at any DNS hosting provider](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for detailed instructions.</span></span> 
+<span data-ttu-id="f3310-105">Os registos NS ou CNAME das definições de domínio (DNS) não estão corretamente configurados.</span><span class="sxs-lookup"><span data-stu-id="f3310-105">The NS or CNAME records of the domain (DNS) settings aren't setup correctly.</span></span> <span data-ttu-id="f3310-106">Pode consultar o artigo [Criar registos DNS em qualquer fornecedor de alojamento DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) para obter instruções detalhadas.</span><span class="sxs-lookup"><span data-stu-id="f3310-106">You can refer to [Create DNS records at any DNS hosting provider](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for detailed instructions.</span></span> 
   
-<span data-ttu-id="632d7-107">Para corrigir o problema, aceda à página [Domínios](https://admin.microsoft.com/adminportal/home#/Domains) no centro de administração do Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="632d7-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span> 
+<span data-ttu-id="f3310-107">Para corrigir o problema, aceda à página [Domínios](https://admin.microsoft.com/adminportal/home#/Domains) no centro de administração do Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="f3310-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span> 
 
   
 

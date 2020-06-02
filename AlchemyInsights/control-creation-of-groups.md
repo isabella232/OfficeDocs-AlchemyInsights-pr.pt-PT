@@ -1,5 +1,5 @@
 ---
-title: Controlar a criação de Grupos
+title: Criação de grupos de controlo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: b4c322896efc5e382674cc1bd3dde6a5baeaf81c
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 39eb0a09543ab55f9255a42cb1c83e91f656acb0
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908751"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507741"
 ---
-# <a name="control-creation-of-microsoft-365-groups"></a><span data-ttu-id="02264-102">Criação de controlo da Microsoft 365 Grupos</span><span class="sxs-lookup"><span data-stu-id="02264-102">Control creation of Microsoft 365 Groups</span></span>
+# <a name="control-creation-of-microsoft-365-groups"></a><span data-ttu-id="4e242-102">Criação de controlo de Grupos Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="4e242-102">Control creation of Microsoft 365 Groups</span></span>
 
-<span data-ttu-id="02264-103">Por padrão, todos os utilizadores da empresa são capazes de criar grupos.</span><span class="sxs-lookup"><span data-stu-id="02264-103">By default, all users within the company are able to create groups.</span></span> <span data-ttu-id="02264-104">Se necessário, é capaz de alterar isso e atribuir o direito de criar grupos a um conjunto de pessoas dentro da sua empresa.</span><span class="sxs-lookup"><span data-stu-id="02264-104">If needed, you are able to change this, and assign the right to create groups to a set of people within your company.</span></span> <span data-ttu-id="02264-105">Note que isso terá impacto na criação de grupos de qualquer serviço Microsoft 365 (como Outlook, Teams, Planner e assim por diante).</span><span class="sxs-lookup"><span data-stu-id="02264-105">Note that this will have impact on creation of groups from any Microsoft 365 service (such as Outlook, Teams, Planner and so on).</span></span>
+<span data-ttu-id="4e242-103">Por padrão, todos os utilizadores dentro da empresa são capazes de criar grupos.</span><span class="sxs-lookup"><span data-stu-id="4e242-103">By default, all users within the company are able to create groups.</span></span> <span data-ttu-id="4e242-104">Se necessário, pode alterar isso e atribuir o direito de criar grupos a um conjunto de pessoas dentro da sua empresa.</span><span class="sxs-lookup"><span data-stu-id="4e242-104">If needed, you are able to change this, and assign the right to create groups to a set of people within your company.</span></span> <span data-ttu-id="4e242-105">Note que isso terá impacto na criação de grupos a partir de qualquer serviço Microsoft 365 (como Outlook, Teams, Planner e assim por diante).</span><span class="sxs-lookup"><span data-stu-id="4e242-105">Note that this will have impact on creation of groups from any Microsoft 365 service (such as Outlook, Teams, Planner and so on).</span></span>
   
-<span data-ttu-id="02264-106">Instruções: [Gerir quem pode criar grupos Microsoft 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)</span><span class="sxs-lookup"><span data-stu-id="02264-106">Instructions: [Manage who can create Microsoft 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)</span></span>
+<span data-ttu-id="4e242-106">Instruções: [Gerir quem pode criar grupos Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)</span><span class="sxs-lookup"><span data-stu-id="4e242-106">Instructions: [Manage who can create Microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)</span></span>

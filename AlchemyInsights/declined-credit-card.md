@@ -13,18 +13,18 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: c3968ef0ac4926fae3e8a0f988c464471f740a94
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 2e5a26819030087e22eaeba0603569f92e2f86e1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44417615"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505734"
 ---
 # <a name="declined-credit-card"></a>Cartão de crédito recusado
 
 Se pagar através de cartão de crédito e este for recusado, receberá um e-mail a informar que não conseguimos processar o seu pagamento. Verifique duas [vezes](https://go.microsoft.com/fwlink/p/?linkid=842054) se os dados do cartão de crédito - número do cartão, data de validade, nome no cartão de crédito e endereço, incluindo city, state e código POSTAL - aparecem exatamente como fazem no cartão de crédito e no extrato do seu cartão de crédito. Pode atualizar as informações do seu cartão de crédito e submeter imediatamente o pagamento utilizando a opção **de saldo Settle** na página dos Seus **[produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)** 
 
-Para saber mais, veja "E se o meu cartão de crédito expirou e o meu pagamento já passou?" em [Pay for your Microsoft 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Para saber mais, veja "E se o meu cartão de crédito expirou e o meu pagamento já passou?" em [Pay for your Microsoft 365 for business subscription](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
 Se continuar a ver a mensagem "recusado", contacte o seu banco. É possível que o seu cartão de crédito não se encontre ativo: por exemplo, se recebeu recentemente o cartão de crédito no correio com a data de validade atualizada, ainda poderá ter de o ativar. O seu banco também pode informá-lo se o seu cartão de crédito não tiver autorização para realizar transações online, internacionais ou periódicas.  
   

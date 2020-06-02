@@ -1,5 +1,5 @@
 ---
-title: Ativar visio
+title: Ativar Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: e44a2c9ba855daec0b79212655d52c291c3c72eb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3e82793bb993aeba66eab0cca5c8b1d18d7f9103
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682303"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504886"
 ---
-# <a name="activate-visio"></a>Ativar visio
+# <a name="activate-visio"></a>Ativar Visio
 
-Antes de um utilizador poder instalar e ativar a aplicação de desktop Visio incluída no seu Visio Online Plan 2, o utilizador deve ter sido atribuída uma [licença Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+Antes de um utilizador poder instalar e ativar a aplicação de ambiente de trabalho Visio, incluída no seu Plano Online Visio 2, o utilizador deve ter sido atribuído a uma [licença Visio](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
-**Nota** O Visio Online Plan 1 não inclui uma versão desktop do Visio.
+**Nota** Visio Online Plan 1 não inclui uma versão para desktop do Visio.
 
-Para ativar visio:
+Para ativar Visio:
 
-1. Instale o Visio no seu [portal de conta My](https://portal.office.com/account#installs) se ainda não estiver instalado. Para obter ajuda, consulte [Instalar o Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+1. Instale visio a partir do seu [portal de conta My](https://portal.office.com/account#installs) account se ainda não estiver instalado. Para obter ajuda, consulte [Instalar o Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
 2. Quando a instalação estiver completa, abra a aplicação do Visio. O Visio será provavelmente ativado de forma automática, pelo que pode começar a usá-lo de imediato. Se não for esse o caso, poderá ser-lhe pedido para iniciar sessão. Certifique-se de que inicia sessão com a mesma conta escolar ou profissional à qual a licença do Visio está associada. Siga as instruções para continuar a ativação. 
 
-Para problemas de ativação, execute o resoludor de problemas de [ativação](https://aka.ms/SARA-OfficeActivation-Alchemy) no computador afetado.
+Para problemas de ativação, execute o [resolução de problemas de ativação](https://aka.ms/SARA-OfficeActivation-Alchemy) no computador afetado.
 
 Para obter informações detalhadas consulte:<br>
-[Ativar escritório em um PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Um aviso de subscrição aparece quando abro uma aplicação da Microsoft](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Erro de escritório "Os produtos que encontramos na <app>sua conta não podem ser usados para ativar"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Ativar o Office num PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[É apresentado um aviso de subscrição quando abro uma aplicação da Microsoft](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Erro do Office "Os produtos que encontrámos na sua conta não podem ser usados para <app> ativar"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
 [Erros de Produto Não Licenciado e de ativação no Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)

@@ -1,5 +1,5 @@
 ---
-title: Incidentes de serviço em curso
+title: Incidente de Serviço em curso
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,18 +13,18 @@ ms.custom:
 - "1600011"
 - "9000287"
 ms.openlocfilehash: 56593d5cc395799f7d253553e5f806d9f9b196e3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666311"
 ---
-# <a name="service-incident-in-progress"></a>Incidentes de serviço em curso
+# <a name="service-incident-in-progress"></a>Incidente de Serviço em curso
 
-Poderá ser afectado por um acidente de serviço ou consultivo que está actualmente a ser investigado. Pode verificar o estado mais recente, ir para a página de [Estado de funcionamento do serviço](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Você pode ser afetado por um incidente de serviço ou aconselhamento que está atualmente a ser investigado. Pode verificar o estado mais recente indo à página [de Saúde](https://admin.microsoft.com/adminportal/home#/servicehealth) do Serviço.
   
-Para sua comodidade, pode encontrar um resumo deste incidente abaixo:
+Para sua conveniência, pode encontrar um resumo deste incidente abaixo:
   
-> **Número de incidente:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Número do incidente:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Impacto Descrição: {ImpactDescription}
+> Descrição do impacto: {ImpactDescription}

@@ -1,5 +1,5 @@
 ---
-title: 1800009 suporte no aplicativo do Outlook para Mac
+title: 1800009 Outlook para suporte ao mac na aplicação
 ms.author: supravee
 author: supravee
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
 ms.openlocfilehash: b151c74c0b35361b6edc91e3b68874717d8a2ba2
-ms.sourcegitcommit: a1af40d92fa9c6c0dda9ec5da3b4776400fbb857
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/18/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "37035766"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a>Suporte no aplicativo no Outlook para Mac
+# <a name="in-app-support-in-outlook-for-mac"></a>Suporte na aplicação no Outlook for Mac
 
-Para receber suporte no aplicativo para Outlook para problemas de Mac, abra o Outlook e clique em **ajuda** \> **entre em contato com o suporte**. Digite sua pergunta e um membro da equipe de suporte do Outlook para Mac entrará em contato com você. 
+Para receber suporte na aplicação para perspetivas para problemas com Mac, abra o Outlook e clique em **Suporte de** Contacto de Ajuda \> **Contact Support**. Digite a sua pergunta e um membro da equipa de apoio do Outlook for Mac entrará em contacto consigo. 
 
-Saiba mais: [contate o suporte no Outlook para Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
+Saiba mais: [Suporte de contato dentro do Outlook for Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)

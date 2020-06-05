@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000185
 ms.assetid: ''
-ms.openlocfilehash: 9f67a53adfce49c2823767a9c1dca273d9bc1a56
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: baec4baff6d3a7e13c15815cd413394e057428be
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743356"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582030"
 ---
 # <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Não é possível editar o campo de notas para um contacto no Outlook
-Esta é uma questão conhecida. Estamos a trabalhar para o corrigir e o estado será atualizado em [Can't editar o campo](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe)de notas para um contacto.
+Esta é uma questão conhecida. Estamos a trabalhar para corrigi-lo e o estado será atualizado em [Não posso editar o campo de notas para um contacto.](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe)
 
-**Sinuoso**: Se estiver a utilizar uma conta Microsoft 365 ou Outlook.com, pode editar os seus contactos utilizando a web. Se estiver a utilizar uma conta IMAP ou POP, não existe qualquer suver neste momento.
+**Solução:** Se estiver a utilizar uma conta Microsoft 365 ou uma conta Outlook.com, pode editar os seus contactos utilizando a web. Se estiver a utilizar uma conta IMAP ou POP, não existe qualquer solução para o presente momento.

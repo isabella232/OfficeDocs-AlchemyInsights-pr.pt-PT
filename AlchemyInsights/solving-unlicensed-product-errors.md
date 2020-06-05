@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512023"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582750"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Sugestões para resolver erros de "Produto Não Licenciado"
 
@@ -26,7 +26,7 @@ Para resolver erros sobre um "Produto Não Licenciado", experimente o seguinte:
 - Certifique-se de que tem uma subscrição que permite licenças de clientes, como aplicações microsoft 365 para negócios ou Business Premium, e [certifique-se de que o utilizador tem uma licença atribuída.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) 
 - Certifique-se de que o utilizador está a iniciar sessão no Office com a mesma conta que tem a licença atribuída.
 - Consulte a [página de saúde](https://docs.microsoft.com/office365/enterprise/view-service-health) do Serviço para ver se existem problemas conhecidos com o serviço.
-- Verifique a sua firewall, software antivírus e configurações de procuração para confirmar que não estão a bloquear o acesso das aplicações do Office à Internet. Consulte [os intervalos de endereços URLs e IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Verifique as definições de firewall, antivírus e proxy para confirmar que não estão a bloquear o acesso das aplicações da Microsoft 365 à Internet. Consulte [os intervalos de endereços URLs e IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Pode também experimentar as seguintes ações de resolução de problemas: 
 

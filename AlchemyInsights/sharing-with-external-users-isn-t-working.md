@@ -11,32 +11,32 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 9a40f52637bc8aa7894754118f0f862aa6c71fe2
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43913013"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582786"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Corrigir problemas de partilha de conteúdo do SharePoint com utilizadores externos
 
-Certifique-se de que a partilha externa está ligada para a sua organização:
+Certifique-se de que a partilha externa está ligada à sua organização:
   
-1. Vá à página de [add-ins dos Serviços &amp; no centro de administração da Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), e clique em **Sites**.
+1. Aceda à [ &amp; página de suplementos de serviços no centro de administração Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)e clique em **Sites**.
     
-2. Certifique-se de que a definição está virada para "On". Se "Apenas forem selecionados utilizadores externos existentes", certifique-se de que o utilizador externo está listado no centro de administração da Microsoft 365.
+2. Certifique-se de que a definição está virada para "Ligado". Se for selecionado "Apenas utilizadores externos existentes", certifique-se de que o utilizador externo está listado no centro de administração microsoft 365.
     
-Certifique-se de que a partilha externa foi ligada para o site. Para uma coleção clássica do site:
+Certifique-se de que a partilha externa foi ligada para o site. Para uma coleção de site clássico:
   
-1. No novo centro de administração do SharePoint, no painel esquerdo, clique **em sites**.
+1. No novo centro de administração do SharePoint, no painel esquerdo, clique nos **sites**.
     
-2. Selecione o site ou os sites e na fita, clique em **Partilhar**.
+2. Selecione o site ou sites, e na fita, clique em **Partilhar**.
     
-Para um site de equipa que pertence a um grupo Microsoft 365, ou a um site de comunicação:
+Para um site de equipa que pertence a um grupo Microsoft 365, ou um site de comunicação:
   
-- Estes novos tipos de sites têm a mesma definição de partilha que a sua configuração em toda a organização, a menos que a definição em toda a organização permita a partilha de ficheiros usando links que não requerem iniciar sessão. Neste caso, os sites permitem a partilha com utilizadores externos novos e existentes que se inscrevam. Para alterar a definição para sites específicos, utilize o novo centro de administração do SharePoint ou o PowerShell. [Saiba mais](https://go.microsoft.com/fwlink/?linkid=871863).
+- Estes novos tipos de sites têm a mesma definição de partilha que a configuração da organização, a menos que a configuração em toda a organização permita partilhar ficheiros usando links que não requerem o acesso. Neste caso, os sites permitem a partilha com utilizadores externos novos e existentes que se inscrevem. Para alterar a definição para sites específicos, utilize o novo centro de administração sharePoint ou PowerShell. [Saiba mais](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
-> O cenário de partilha externa para qualquer site pode ser mais restritivo do que o ambiente em toda a organização, mas não mais permissivo do que o ambiente em toda a organização. 
+> A definição de partilha externa para qualquer site pode ser mais restritiva do que a configuração em toda a organização, mas não mais permissiva do que a configuração em toda a organização. 
   
 

@@ -2,7 +2,7 @@
 title: 408 RBA
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 408
 ms.assetid: 99553a9f-3713-4d57-a243-add33813f360
-ms.openlocfilehash: bcb53573d31b274f73f25b61f74ac127c73984a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d2e4ba8bf4a63a3368d7a769b3bc844cf788a5d4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553515"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581994"
 ---
-# <a name="about-room-mailboxes"></a>Acerca de caixas de correio da sala
+# <a name="about-room-mailboxes"></a>Sobre caixas de correio de quartos
 
-Uma caixa de correio da sala é uma caixa de correio do recurso atribuído a uma localização física, tal como uma sala de conferência, um auditório ou numa sala de formação. Para mais informações sobre caixas de correio de sala, consulte [criar e gerir caixas de correio da sala](https://go.microsoft.com/fwlink/p/?linkid=717533).
+Uma caixa de correio de sala é uma caixa de correio de recursos que é atribuída a um local físico, como uma sala de conferências, um auditório ou uma sala de treino. Para obter mais informações sobre caixas de correio de salas, consulte [Criar e gerir caixas de correio de quartos.](https://go.microsoft.com/fwlink/p/?linkid=717533)

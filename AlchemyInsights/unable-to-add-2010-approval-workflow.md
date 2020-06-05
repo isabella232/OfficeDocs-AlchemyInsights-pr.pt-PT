@@ -1,44 +1,44 @@
 ---
-title: Incapaz de adicionar o fluxo de trabalho de aprovação de 2010
+title: Não é possível adicionar fluxo de trabalho de aprovação de 2010
 ms.author: pebaum
 author: pebaum
-ms.date: 12/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: 11ba9bf04f826b0d7465a9a81a36c327e79f4d13
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f40716dd399fe7bea1b606cd725676268dc0a66d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049564"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582858"
 ---
-# <a name="unable-to-add-2010-approval-workflow"></a>Incapaz de adicionar o fluxo de trabalho de aprovação de 2010
+# <a name="unable-to-add-2010-approval-workflow"></a>Não é possível adicionar fluxo de trabalho de aprovação de 2010
 
-Em uma coleção de sites do Microsoft SharePoint, você não pode adicionar um fluxo de trabalho globalmente reutilizável (como "Aprovação - SharePoint 2010") a uma lista ou biblioteca.
+Numa coleção de sites do Microsoft SharePoint, não é possível adicionar um fluxo de trabalho globalmente reutilizável (como "Approval - SharePoint 2010") a uma lista ou biblioteca.
   
-Para resolver este problema, siga estas etapas: 
+Para resolver esta questão, siga estes passos: 
   
-1. Abra o site raiz da coleção do site em SharePoint Designer 2013.
+1. Abra o site de raiz da coleção do site no SharePoint Designer 2013.
   
-2. **objetos do site,** selecione fluxos de **trabalho.** 
+2. Em **Objetos do Local,** selecione **Fluxos de Trabalho.** 
   
-3. Na **nova** seção da fita **workflows,** selecione fluxo de **trabalho reutilizável.** 
+3. Na **nova** secção da fita **Workflows,** selecione **Fluxo de Trabalho Reutilizável**. 
   
-4. No formulário criar fluxo de **trabalho reutilizável,** digite o nome ** *Repair2010* **. Para **o tipo de plataforma,** clique no fluxo de trabalho **sharepoint 2010**e, em seguida, clique na **OK.** 
+4. No formulário **De Fluxo de Trabalho Reutilizável, insira** o nome ** *Reparação2010* **. Para **o Tipo de Plataforma**, clique no Fluxo de Trabalho do **SharePoint 2010**e, em seguida, clique em **OK**. 
   
-1. Na seção **Save** da fita **workflow,** **selecione Publicar**. 
+1. Na secção **Guardar** a fita **Workflow,** selecione **Publicar**. 
   
-2. Na seção **gerenciar** da fita **workflow,** selecione **Publicar Globalmente**. Na caixa de diálogo de confirmação que aparece, selecione **OK**. 
+2. Na secção **Gerir** a fita **Workflow,** selecione **Publicar Globalmente**. Na caixa de diálogo de confirmação que aparece, selecione **OK**. 
   
-3. Em um navegador da web, localizar o site raiz da coleção do site, e, em seguida, acessar **site Configurações Características** \> **de coleta do site.** Alternar o recurso de fluxos de **trabalho:** 
+3. Num navegador web, localize o site raiz da **Site Settings** coleção do site e, em seguida, aceda às \> **Funcionalidades de Recolha do Site**. Alternar a função **Fluxos de Trabalho:** 
   
-· Se o recurso for *ativado,* clique **em desativar** e, em seguida, clique **em Ativar.** 
+· Se a função estiver *Ativada,* clique em **Desativar e,** em seguida, clique em **Ativar**. 
   
-· Se o recurso for *desativado,* clique **em Ativar.** 
+· Se a função estiver *desativada,* clique em **Ativar**. 
   
-Para mais informações, consulte o seguinte [artigo.](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)
+Para mais informações, consulte o [seguinte artigo.](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)
   
 

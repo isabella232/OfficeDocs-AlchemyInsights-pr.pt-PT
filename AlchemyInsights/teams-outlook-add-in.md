@@ -1,5 +1,5 @@
 ---
-title: Complemento de Teams Outlook
+title: Complemento do Teams Outlook
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021509"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702217"
 ---
-# <a name="teams-outlook-add-in"></a>Complemento de Teams Outlook
+# <a name="teams-outlook-add-in"></a>Complemento do Teams Outlook
 
-Existem vários fatores que podem fazer com que o seu complemento de Equipas não apareça, e todos estão listados [aqui.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
+Para resolver problemas com um Add-in do Outlook das Equipas desaparecidas, certifique-se primeiro de executar o Diagnóstico de Serviço aqui no Portal do Administrador.  Se o Diagnóstico de Serviço não indicar problemas, por favor, proceda ao download e execute o **cenário de adição** [do Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) Teams Outlook nas máquinas de utilizador afetadas para diagnosticar e corrigir quaisquer problemas do cliente.
 
-**Recomendamos primeiro verificar se o add-in não está desativado:**
-
-- No Outlook, clique em **Ficheiros** e, em seguida, **Opções**.
-- Selecione o separador **Add-ins** da caixa de diálogo **Outlook Options.**
-- Confirme que o **Microsoft Teams Meeting Add-in para o Microsoft Office** está listado na lista de **Add-ins de aplicações ativas.**
-- Se o Add-in de reuniões de equipas estiver listado na lista de suplementos de **aplicação para deficientes,** selecione **Add-ins COM** em **Gerir** e, em seguida, clique em **Go...**
-- Detete a caixa de verificação ao lado do **Microsoft Teams Meeting Add-in para o Microsoft Office**.
-- Clique **ok** em todas as caixas de diálogo e reinicie o Outlook.
+Para resolver manualmente o problema, reveja a lista de fatores potenciais que podem fazer com que o add-in das suas Equipas não apareça [aqui](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)listado.

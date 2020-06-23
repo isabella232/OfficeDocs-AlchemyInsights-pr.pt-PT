@@ -1,5 +1,5 @@
 ---
-title: Incapaz de abrir documentos sharepoint em cliente local
+title: Não é possível abrir documentos do Sharepoint em cliente local
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000131"
 - "1827"
-ms.openlocfilehash: ae577b33c37d597477582c6e6ac45304548f97b4
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
-ms.translationtype: MT
+ms.openlocfilehash: af0bbfd4d1a68cf3079b06a17b0d7283f258156b
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44357927"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44841082"
 ---
-# <a name="unable-to-open-sharepoint-documents-in-local-client"></a>Incapaz de abrir documentos sharepoint em cliente local
+# <a name="unable-to-open-sharepoint-documents-in-local-client"></a>Não é possível abrir documentos do SharePoint em cliente local
 
-Por vezes, poderá ter dificuldade em abrir ficheiros e documentos do Office a partir do SharePoint nos seus clientes locais do Office.
-- [Não é possível abrir ficheiros do Office a partir do SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)
+Por vezes poderá ter dificuldade em abrir ficheiros e documentos do Office do SharePoint ou do OneDrive dos seus clientes locais do Office.
+
+- [Não é possível abrir ficheiros do Office do SharePoint ou do OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)

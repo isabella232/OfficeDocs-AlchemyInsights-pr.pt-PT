@@ -13,15 +13,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 0fcb5552bc072cf3647e32e663ec7681212dc599
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0ed8826ec8b6d867f22abbc2cd33776e8db271ab
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506166"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840932"
 ---
-# <a name="calendar-publishing-information"></a>Informação de publicação de calendário
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>Ativar a partilha de calendários utilizando o centro de administração Microsoft 365
 
-- Os administradores da Microsoft 365 podem ativar ou desativar a publicação de calendários e a partilha de calendários para uma organização. Para obter mais informações, consulte [a publicação do calendário para que as pessoas possam partilhar informações](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) e partilhar [calendários com utilizadores externos.](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)
+1. No centro de administração, aceda às **Definições**   >   **org .**
+2. No separador **Serviços,** selecione **Calendário.**
+3. Na página **Do Calendário** que abre, escolha se pretende deixar que os seus utilizadores partilhem os seus calendários com pessoas fora da sua organização que tenham Microsoft 365 ou Exchange.
+4. Escolha se pretende permitir que utilizadores anónimos (utilizadores sem credenciais de início de são) acedam a calendários através de um convite por e-mail.
+5. Escolha que tipo de informação de calendário disponibilizar aos utilizadores. Você pode permitir toda a informação, ou limitá-la apenas a tempo ou tempo, sujeito e apenas localização.
 
-- Os utilizadores do Outlook podem partilhar os seus próprios calendários. Para mais informações, consulte [partilhar um calendário do Outlook com outras pessoas.](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+Mais informações: [Partilhar calendários com utilizadores externos](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 1759240afe18342bd5af205eb36d747803808134
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
-ms.translationtype: HT
+ms.openlocfilehash: 3d2cb4689a0281e0184f2a02ec153208a997e8f7
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915138"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44841010"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>Configurar uma subscrição do Microsoft 365 Educação
 
@@ -24,6 +24,5 @@ Para uma visita guiada, assista a um [vídeo com áudio descritivo](https://aka.
 
 **Mais recursos fantásticos**
 
-- Veja [Configurar um inquilino do Office 365 Educação](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) para uma visão geral.
-- Veja [Introdução ao Microsoft 365 Educação](https://docs.microsoft.com/education/) para Administradores de TI, Programadores e Parceiros. 
-- [Associar a sua conta da Microsoft Store com o Intune para Educação](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education). 
+- Consulte [a conta do seu escritório 365](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) para obter uma visão geral.
+- Veja [a partida com a Microsoft 365 Education](https://docs.microsoft.com/education/) for IT Admins, Developers e Partners.

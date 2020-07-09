@@ -1,5 +1,5 @@
 ---
-title: Emigrar opções para SharePoint Online
+title: Migrar opções para SharePoint Online
 ms.author: pebaum
 author: v-miegge
 manager: v-cojank
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: fed306790f74fce7c0b5a97b3609af5a90f16bf0
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d161e46e1d707fc05adab20aa62c2403f149cfd4
+ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758328"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45083906"
 ---
-# <a name="migrate-options-to-sharepoint-online"></a>Emigrar opções para SharePoint Online
+# <a name="migrate-options-to-sharepoint-online"></a>Migrar opções para SharePoint Online
 
 Existem várias opções diferentes disponíveis para migrar conteúdos para o SharePoint Online, consoante o tamanho e a quantidade de ficheiros que precisa de mover. Consulte a lista de opções [aqui](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
@@ -27,4 +27,4 @@ Para obter mais informações sobre a migração de conteúdos, aceda às ligaç
 
 - [Get started with the Migration Manager](https://docs.microsoft.com/sharepointmigration/mm-get-started) (Começar com o Gestor de Migração)
 
-- [Mover](https://mover.io/)
+- [Mover](https://docs.microsoft.com/sharepointmigration/mover-plan-migration)

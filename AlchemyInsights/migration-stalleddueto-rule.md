@@ -1,5 +1,5 @@
 ---
-title: 973 Migração Paralisada* regra
+title: Regra 973 Migração ParadaDueTo*
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,13 +12,13 @@ ms.custom:
 - "973"
 - "3500008"
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
-ms.openlocfilehash: 4b44e2401f044a6373f545aa9ed418b3ec537c66
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8ee0bc2230f013f4bf38ad29bbcde217165ba71e
+ms.sourcegitcommit: 5eb4fad2edc1d15b961ec1e46ef78b39175dffed
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762209"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45167716"
 ---
-# <a name="stalleddueto-errors-during-migration"></a>Erros de stalledDueTo durante a migração
+# <a name="stalleddueto-errors-during-migration"></a>Paralisatototo erros durante a migração
 
-Pode ver uma variedade de erros que começam com "StalledDueTo..." durante a sua migração para O Exchange Online. Muitos destes erros são perfeitamente normais. Para mais informações, consulte a [aceleração e priorização baseadas em recursos em troca](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/)de migrações online.
+Pode ver uma variedade de erros que começam com "StalledDueTo..." durante a sua migração para Exchange Online. Muitos destes erros são perfeitamente normais. Para obter mais informações, consulte [a Throttling baseada em recursos e priorização em Exchange Online Migrations.](https://techcommunity.microsoft.com/t5/exchange-team-blog/resource-based-throttling-and-prioritization-in-exchange-online/ba-p/608020)

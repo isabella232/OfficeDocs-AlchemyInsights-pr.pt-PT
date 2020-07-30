@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508819"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522854"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Aumente o tamanho da caixa de correio de arquivo
+
+
+Se quiser que façamos verificações automatizadas das definições abaixo mencionadas, selecione o botão de trás <-- no topo desta página e, em seguida, insira o endereço de e-mail do utilizador que necessita do tamanho da caixa de correio de arquivo aumentado.
 
 O Microsoft 365 [limita](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) o tamanho das caixas de correio de arquivo com base na licença atribuída à conta de utilizador. Quando a caixa de correio de arquivo atinge 90% do seu tamanho permitido, o utilizador recebe uma notificação por e-mail. Quando uma caixa de correio de arquivo atinge o seu limite de tamanho, o utilizador não pode mover mais itens para a caixa de correio de arquivo. O Microsoft 365 não aumentará o tamanho de uma caixa de correio de arquivo uma vez atingido o limite de tamanho. Em vez disso, os utilizadores podem tomar as seguintes ações para libertar espaço na caixa de correio de arquivo:
 

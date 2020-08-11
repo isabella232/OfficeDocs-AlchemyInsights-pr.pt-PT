@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509035"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634317"
 ---
-# <a name="how-to-verify-your-domain"></a><span data-ttu-id="7efae-102">Como verificar o seu domínio</span><span class="sxs-lookup"><span data-stu-id="7efae-102">How to verify your domain</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="efe2a-102">Como verificar o seu domínio</span><span class="sxs-lookup"><span data-stu-id="efe2a-102">How to verify your domain</span></span>
 
-<span data-ttu-id="7efae-103">Para verificar o seu domínio, terá de adicionar um registo TXT ao seu registo de domínio para verificar se é dono do seu domínio.</span><span class="sxs-lookup"><span data-stu-id="7efae-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="7efae-104">Primeiro, siga o [assistente de "Adicionar o Domínio](https://portal.office.com/adminportal/home#/Domains/Wizard) clicando em Domínios de **Configuração"** \> **Domains**e, em seguida, Adicione **o domínio**.</span><span class="sxs-lookup"><span data-stu-id="7efae-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard) by clicking **Setup** \> **Domains**, and then **Add domain**.</span></span>
-  
-<span data-ttu-id="7efae-105">Siga as instruções em [Criar registos DNS em qualquer fornecedor de hospedagem DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) para adicionar um registo TXT para verificar o seu domínio.</span><span class="sxs-lookup"><span data-stu-id="7efae-105">Follow the instructions in [Create DNS records at any DNS hosting provider](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+<span data-ttu-id="efe2a-103">Para verificar um domínio, siga o [assistente de 'Adicionar domínio'](https://portal.office.com/adminportal/home#/Domains/Wizard)ou aceda manualmente **ao**  >  domínio **'Adicionar domínio'.**  >  **Add domain**</span><span class="sxs-lookup"><span data-stu-id="efe2a-103">To verify a domain, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
 
-<span data-ttu-id="7efae-106">Para outros domínios, experimente as [FAQ de Domínios.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)</span><span class="sxs-lookup"><span data-stu-id="7efae-106">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="efe2a-104">Para obter mais informações sobre como adicionar um registo TXT para verificar o seu domínio, consulte as instruções nos [registos Add DNS para ligar o seu domínio](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="efe2a-104">For more information about how to add a TXT record to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
+
+<span data-ttu-id="efe2a-105">Para outras questões de domínios, consulte as [FAQ de Domínios.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)</span><span class="sxs-lookup"><span data-stu-id="efe2a-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>

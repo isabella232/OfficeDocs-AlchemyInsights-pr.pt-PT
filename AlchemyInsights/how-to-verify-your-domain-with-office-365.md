@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509035"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634317"
 ---
 # <a name="how-to-verify-your-domain"></a>Como verificar o seu domínio
 
-Para verificar o seu domínio, terá de adicionar um registo TXT ao seu registo de domínio para verificar se é dono do seu domínio. Primeiro, siga o [assistente de "Adicionar o Domínio](https://portal.office.com/adminportal/home#/Domains/Wizard) clicando em Domínios de **Configuração"** \> **Domains**e, em seguida, Adicione **o domínio**.
-  
-Siga as instruções em [Criar registos DNS em qualquer fornecedor de hospedagem DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) para adicionar um registo TXT para verificar o seu domínio.
+Para verificar um domínio, siga o [assistente de 'Adicionar domínio'](https://portal.office.com/adminportal/home#/Domains/Wizard)ou aceda manualmente **ao**  >  domínio **'Adicionar domínio'.**  >  **Add domain**
 
-Para outros domínios, experimente as [FAQ de Domínios.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)
+Para obter mais informações sobre como adicionar um registo TXT para verificar o seu domínio, consulte as instruções nos [registos Add DNS para ligar o seu domínio](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+
+Para outras questões de domínios, consulte as [FAQ de Domínios.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)

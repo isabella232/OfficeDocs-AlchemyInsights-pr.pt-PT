@@ -10,27 +10,15 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: c769c17796d805f88afb4d5b32adb7d4a9bb3ce0
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 571c82d47bea7ca34a204ddd6fc89b7657808a23
+ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43655293"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46665509"
 ---
 # <a name="data-location"></a>Localização de dados
 
-Pode ver a localização do seu inquilino no centro de administração ou ligando-se ao Exchange Online via PowerShell.
+Pode ver a localização do seu inquilino no centro de administração navegando na página de perfil da [ **Organização** ](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) e selecionando a **Localização de Dados.**
 
-
-**Centro de administração:**
-1. Faça login no [centro de administração](https://admin.microsoft.com/Adminportal/Home).
-2. Selecione o perfil da**Organização** **de Definições** > .
-3. Em **termos de localização de Dados,** selecione Ver **detalhes**.
-
-
-**PowerShell:**
-1. Ligue-se ao Exchange Online utilizando o Windows PowerShell.
-2. Execute o cmdlet [Get-OrganizationalUnit](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) para apresentar uma lista das propriedades do seu inquilino. 
-3. Olhe para a propriedade OrganizationId.
-
-Quando tiver a localização dos dados para EXO e SPO, pode determinar a localização dos dados para outros serviços que poderá utilizar a partir de [onde os seus dados estão localizados](https://products.office.com/where-is-your-data-located).
+Para aplicações às quais não está subscrito, consulte onde os [dados do seu cliente Microsoft 365 estão armazenados.](https://docs.microsoft.com/office365/enterprise/o365-data-locations)

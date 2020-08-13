@@ -2,7 +2,7 @@
 title: Atribuir ou não assinar licenças aos utilizadores
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,20 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2c3b11d51a2b5895c8d90ebef27121561f221334
+ms.sourcegitcommit: 69cf3c185e03a4b1da35c5ca492ee6c74a5d739a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495998"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46657078"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>Atribuir ou não assinar licenças aos utilizadores
 
-Um utilizador precisa de uma licença para ter acesso aos serviços. Aqui estão os passos para **adicionar, alterar ou remover** uma licença de um utilizador.
+Um utilizador precisa de uma licença para ter acesso aos serviços. Aqui estão os passos para atribuir uma licença ou não assinar uma licença de um utilizador.
   
 1. No centro de administração, **Users** aceda aos \> [utilizadores Utilizadores Ativos](https://go.microsoft.com/fwlink/p/?linkid=834822).
+2. Selecione a linha do utilizador a que pretende atribuir uma licença.
+3. No painel direito, selecione **Licenças e Aplicações**.
+4. Expandir a secção **Licenças,** selecionar ou limpar as caixas para as licenças que pretende atribuir ou não assinar, em seguida, selecione **Guardar alterações**.
 
-2. Selecione o nome do utilizador para quem pretende atribuir, alterar ou remover uma licença.
-
-3. Clique **em Gerir as licenças de produto**e selecione a licença que pretende atribuir a este utilizador.
-
-    Por predefinição, todos os serviços associados a essa licença são automaticamente atribuídos ao utilizador. Para limitar quais os serviços que estão disponíveis para o utilizador, limpe a caixa de verificação dos serviços que não pretende que esse utilizador tenha.
-
-4. Na parte inferior do painel, clique em **Guardar as alterações**.
-
-Para obter mais informações, consulte [atribuir licenças aos utilizadores](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)e [remover as licenças dos utilizadores.](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user)
+Para obter mais informações, consulte [atribuir licenças aos utilizadores](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)e [obter licenças de assesign dos utilizadores.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)

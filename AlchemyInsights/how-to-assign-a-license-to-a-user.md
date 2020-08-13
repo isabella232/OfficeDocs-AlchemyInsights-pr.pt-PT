@@ -2,7 +2,7 @@
 title: Atribuir ou não assinar licenças aos utilizadores
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,20 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2c3b11d51a2b5895c8d90ebef27121561f221334
+ms.sourcegitcommit: 69cf3c185e03a4b1da35c5ca492ee6c74a5d739a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495998"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46657078"
 ---
-# <a name="assign-or-unassign-licenses-to-users"></a><span data-ttu-id="ec3dd-102">Atribuir ou não assinar licenças aos utilizadores</span><span class="sxs-lookup"><span data-stu-id="ec3dd-102">Assign or unassign licenses to users</span></span>
+# <a name="assign-or-unassign-licenses-to-users"></a><span data-ttu-id="1aa69-102">Atribuir ou não assinar licenças aos utilizadores</span><span class="sxs-lookup"><span data-stu-id="1aa69-102">Assign or unassign licenses to users</span></span>
 
-<span data-ttu-id="ec3dd-103">Um utilizador precisa de uma licença para ter acesso aos serviços.</span><span class="sxs-lookup"><span data-stu-id="ec3dd-103">A user needs a license to have access to services.</span></span> <span data-ttu-id="ec3dd-104">Aqui estão os passos para **adicionar, alterar ou remover** uma licença de um utilizador.</span><span class="sxs-lookup"><span data-stu-id="ec3dd-104">Here are steps to **add, change, or remove** a license from a user.</span></span>
+<span data-ttu-id="1aa69-103">Um utilizador precisa de uma licença para ter acesso aos serviços.</span><span class="sxs-lookup"><span data-stu-id="1aa69-103">A user needs a license to have access to services.</span></span> <span data-ttu-id="1aa69-104">Aqui estão os passos para atribuir uma licença ou não assinar uma licença de um utilizador.</span><span class="sxs-lookup"><span data-stu-id="1aa69-104">Here are steps to assign a license to or unassign a license from a user.</span></span>
   
-1. <span data-ttu-id="ec3dd-105">No centro de administração, **Users** aceda aos \> [utilizadores Utilizadores Ativos](https://go.microsoft.com/fwlink/p/?linkid=834822).</span><span class="sxs-lookup"><span data-stu-id="ec3dd-105">In the admin center, go to **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).</span></span>
+1. <span data-ttu-id="1aa69-105">No centro de administração, **Users** aceda aos \> [utilizadores Utilizadores Ativos](https://go.microsoft.com/fwlink/p/?linkid=834822).</span><span class="sxs-lookup"><span data-stu-id="1aa69-105">In the admin center, go to **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).</span></span>
+2. <span data-ttu-id="1aa69-106">Selecione a linha do utilizador a que pretende atribuir uma licença.</span><span class="sxs-lookup"><span data-stu-id="1aa69-106">Select the row of the user that you want to assign a license to.</span></span>
+3. <span data-ttu-id="1aa69-107">No painel direito, selecione **Licenças e Aplicações**.</span><span class="sxs-lookup"><span data-stu-id="1aa69-107">In the right pane, select **Licenses and Apps**.</span></span>
+4. <span data-ttu-id="1aa69-108">Expandir a secção **Licenças,** selecionar ou limpar as caixas para as licenças que pretende atribuir ou não assinar, em seguida, selecione **Guardar alterações**.</span><span class="sxs-lookup"><span data-stu-id="1aa69-108">Expand the **Licenses** section, select or clear the boxes for the licenses that you want to assign or unassign, then select **Save changes**.</span></span>
 
-2. <span data-ttu-id="ec3dd-106">Selecione o nome do utilizador para quem pretende atribuir, alterar ou remover uma licença.</span><span class="sxs-lookup"><span data-stu-id="ec3dd-106">Select the name of the user for whom you want to assign, change, or remove a license.</span></span>
-
-3. <span data-ttu-id="ec3dd-107">Clique **em Gerir as licenças de produto**e selecione a licença que pretende atribuir a este utilizador.</span><span class="sxs-lookup"><span data-stu-id="ec3dd-107">Click **Manage product licenses**, and select the license that you want to assign to this user.</span></span>
-
-    <span data-ttu-id="ec3dd-108">Por predefinição, todos os serviços associados a essa licença são automaticamente atribuídos ao utilizador.</span><span class="sxs-lookup"><span data-stu-id="ec3dd-108">By default, all services associated with that license are automatically assigned to the user.</span></span> <span data-ttu-id="ec3dd-109">Para limitar quais os serviços que estão disponíveis para o utilizador, limpe a caixa de verificação dos serviços que não pretende que esse utilizador tenha.</span><span class="sxs-lookup"><span data-stu-id="ec3dd-109">To limit which services are available to the user, clear the check box for the services that you don't want that user to have.</span></span>
-
-4. <span data-ttu-id="ec3dd-110">Na parte inferior do painel, clique em **Guardar as alterações**.</span><span class="sxs-lookup"><span data-stu-id="ec3dd-110">At the bottom of the pane, click **Save changes**.</span></span>
-
-<span data-ttu-id="ec3dd-111">Para obter mais informações, consulte [atribuir licenças aos utilizadores](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)e [remover as licenças dos utilizadores.](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user)</span><span class="sxs-lookup"><span data-stu-id="ec3dd-111">For more information, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users), and [Remove licenses from users](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user).</span></span>
+<span data-ttu-id="1aa69-109">Para obter mais informações, consulte [atribuir licenças aos utilizadores](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)e [obter licenças de assesign dos utilizadores.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)</span><span class="sxs-lookup"><span data-stu-id="1aa69-109">For more information, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users), and [Unassign licenses from users](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).</span></span>

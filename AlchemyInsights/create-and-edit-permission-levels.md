@@ -1,7 +1,7 @@
 ---
-title: Trabalhar com os níveis de permissão SharePoint
-ms.author: v-todmc
-author: todmccoy
+title: Trabalhar com os níveis de permissão do SharePoint
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3164"
-ms.openlocfilehash: 924d8ed360c34c8cdcfba2651d1615ec1ca59c90
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e0a3270af310e25cd7b8b37faccbd29214ea4b47
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705492"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786396"
 ---
-# <a name="working-with-sharepoint-permission-levels"></a>Trabalhar com os níveis de permissão SharePoint
+# <a name="working-with-sharepoint-permission-levels"></a>Trabalhar com os níveis de permissão do SharePoint
 
-O SharePoint vem com níveis de permissão padrão que pode utilizar, como **apenas** **Contribuir** e Ver . Mas se uma destas não atender às suas necessidades, pode criar um novo nível de permissão. Tenha em mente que é mais fácil acompanhar os níveis de permissão se não alterar os incumprimentos.
+O SharePoint vem com níveis de permissão predefinidos que pode utilizar, tais como **Apenas Contribuir** e **Ver**. Mas se uma destas não satisfaça as suas necessidades, pode criar um novo nível de permissão. Tenha em mente que é mais fácil acompanhar os níveis de permissão se não alterar os padrão.
 
 [Como criar e editar níveis de permissão](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)

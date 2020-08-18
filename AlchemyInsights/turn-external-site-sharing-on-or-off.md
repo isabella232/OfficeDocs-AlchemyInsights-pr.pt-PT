@@ -1,7 +1,7 @@
 ---
-title: Como personalizar permissões para uma lista de SharePoint ou biblioteca
-ms.author: v-todmc
-author: todmccoy
+title: Ligue a partilha externa para um site
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 0959e0bd31a7e38da08120749a29cd41910eecb1
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ea013e81a7d7be47b5e062794b8fee88d299478d
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43731709"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786792"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-site"></a>Ligue ou desligue a partilha externa para um site
+# <a name="turn-external-sharing-on-or-off-for-a-site"></a>Ligue a partilha externa para um site
 
-Deve ser um administrador global ou SharePoint para alterar a definição de partilha externa para um site (anteriormente chamado de "coleção de site"). Os proprietários do site não estão autorizados a alterar este cenário. 
+Você deve ser um administrador global ou SharePoint para alterar a definição de partilha externa para um site (anteriormente chamado de "coleção de sites"). Os proprietários do site não estão autorizados a alterar esta definição. 
 
-Para mais informações, consulte [a partilha externa de um site](https://docs.microsoft.com/sharepoint/change-external-sharing-site).
+Para obter mais informações, consulte [Turn external sharing on or off for a site](https://docs.microsoft.com/sharepoint/change-external-sharing-site).

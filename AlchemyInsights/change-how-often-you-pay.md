@@ -2,7 +2,7 @@
 title: Mude a frequência com que paga
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43939666"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364598"
 ---
 # <a name="change-how-often-you-pay"></a>Mude a frequência com que paga
 
-Para alterar a frequência com que é cobrado e paga uma subscrição, complete os seguintes passos no centro de administração da Microsoft 365. 
-1. Aceda a **Faturação > [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Encontre a subscrição que pretende alterar. Na secção **de Faturação,** junto à **Faturação mensal** ou **faturada anualmente,** clique em **Editar**. 
-3. Escolha a opção para a frequência com que pretende ser faturado e, em seguida, clique em **Alterar**.
+Para alterar a frequência com que é cobrado e paga por uma subscrição, complete os seguintes passos no centro de administração microsoft 365.
 
-**Nota**: Faturação mensal ou anual são as únicas opções.
+1. Vá à página **de**  >  [Faturação dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. No separador **Produtos,** selecione a subscrição que pretende alterar. 
+3. Na página de detalhes da subscrição, na secção **de Definições de Subscrição e pagamento,** selecione **a frequência de faturação de Edição**.
+4. No painel **de frequência de faturação de edição,** despreze a opção pela frequência com que pretende ser faturado e, em seguida, selecione **Alterar**.
 
-Para mais informações, consulte [Alterar a sua frequência de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).
+**Nota:** A faturação mensal ou anual são as únicas opções.
+
+Para mais informações, consulte [Altere a frequência da faturação.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

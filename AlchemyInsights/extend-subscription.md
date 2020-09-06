@@ -1,8 +1,8 @@
 ---
-title: Quais são as minhas opções para estender
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: Quais são as minhas opções para prolongar
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400006"
 - "5832"
-ms.openlocfilehash: e75243e24f609601e3f4d0014a318a55294be7a4
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.openlocfilehash: 20626d3759cddfbc818da687ce4eafe0c41c843f
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708164"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364742"
 ---
-# <a name="what-are-my-options-to-extend"></a>Quais são as minhas opções para estender?
+# <a name="what-are-my-options-to-extend"></a>Quais são as minhas opções para prolongar?
 
-Antes que a subscrição atinja a data de validade, tem algumas opções:
+Antes de a sua subscrição atingir realmente a data de expiração, existem algumas opções para si:
 
-- **Prolongue o seu julgamento.**  Precisa de mais tempo para avaliar o Microsoft 365? Em certos casos, poderá [prolongar o seu julgamento.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial?view=o365-worldwide)  
-- **Ativar a faturação recorrente** para a subscrição. Se a faturação recorrente já está ligada, não tens de tomar nenhuma ação. A sua subscrição será faturada automaticamente e será cobrada por mais um ano ou mês, dependendo da sua frequência de pagamento atual. Se, por alguma razão, tiver desligado a faturação recorrente, pode sempre [voltar a ligar a faturação recorrente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide).
-- Se adquiriu aplicações microsoft 365 para negócios com um **cartão pré-pago,** pode [ligar a faturação recorrente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide) para a sua subscrição.
-- Se for cliente de **licenciamento de volume aberto** com uma subscrição pré-paga de um ano, contacte o seu parceiro para comprar uma nova chave de produto. Receberá instruções por e-mail para ativar a sua chave no [Centro de Assistência de Licenciamento de Volume](https://go.microsoft.com/fwlink/p/?LinkID=282016). Para aprender a encontrar um novo parceiro, ou o parceiro com quem trabalhou no passado, consulte [Encontre o seu parceiro ou revendedor.](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide)
-- Se tiver **Aplicações microsoft 365 para negócios,** consulte [Gerir a faturação recorrente para a sua subscrição.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide)
+- **Prolongar a sua versão de avaliação**.  Precisa de mais tempo para avaliar o Microsoft 365? Em alguns casos, pode [prolongar a sua versão de avaliação](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).  
+- **Ativar a faturação periódica** para a subscrição. Se a Faturação periódica já estiver ativada, não precisa de tomar nenhuma medida. A sua subscrição será faturada automaticamente e ser-lhe-á cobrado um ano ou mês adicional, consoante a sua frequência de faturação atual. Se, por algum motivo, tiver desativado a Faturação periódica, pode sempre [ativar a Faturação periódica](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+- Se tiver comprado o Microsoft 365 Apps para Pequenas e Médias Empresas com um **cartão pré-pago**, pode [ativar a faturação periódica](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription) para a sua subscrição.
+- Se for um **cliente de Licenciamento em Volume Aberto** com uma subscrição pré-paga de um ano, contacte o seu parceiro para adquirir uma nova chave de produto. Irá receber por e-mail as instruções para ativar a sua chave no [Centro de Serviços de Licenciamento em Volume](https://go.microsoft.com/fwlink/p/?LinkID=282016). Para obter mais informações sobre como localizar um novo parceiro ou um parceiro com que trabalhou anteriormente, consulte [Localizar parceiro ou revendedor](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).
+- Se tiver o **Microsoft 365 Apps para Pequenas e Médias Empresas**, consulte [Gerir a faturação periódica para a sua subscrição](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).

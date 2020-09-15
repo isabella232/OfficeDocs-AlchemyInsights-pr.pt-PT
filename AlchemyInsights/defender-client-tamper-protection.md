@@ -1,32 +1,33 @@
 ---
-title: 'Proteção de adulteração do cliente defensor '
+title: 'Proteção de Adulteração de Clientes Defender '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 909874d06e74e7df9c2eec9b47c89c25a30ac58c
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738509"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680515"
 ---
-# <a name="defender-tamper-protection"></a>Proteção de adulteração do defensor 
+# <a name="defender-tamper-protection"></a>Proteção de Tamper do Defensor 
 
-Com a Proteção de Adulteração, aplicativos mal-intencionados são impedidos de tomar ações como essas:
+Com a Tamper Protection, aplicações maliciosas são impedidas de tomar ações como estas:
 
-- Desabilitar o vírus e a proteção contra ameaças
-- Desativar a proteção em tempo real
-- Desativar o monitoramento de comportamento
-- Antivírus incapacitante (como iOfficeAntivirus (IOAV))
-- Desativar a proteção fornecida pela nuvem
-- Remoção de atualizações de inteligência de segurança
+- Desativação do vírus e da proteção contra ameaças
+- Desativação da proteção em tempo real
+- Desligar a monitorização do comportamento
+- Antivírus incapacitante (como IOfficeAntivirus (IOAV))
+- Desativar a proteção entregue em nuvem
+- Remover atualizações de inteligência de segurança
 
-Para mais detalhes, [consulte as configurações de segurança protectimas com proteção de adulteração.](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)
+Para obter mais detalhes, consulte [as definições de segurança da Proteção contra adulteração](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).

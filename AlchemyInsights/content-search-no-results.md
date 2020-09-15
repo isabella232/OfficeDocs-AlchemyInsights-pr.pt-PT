@@ -1,29 +1,30 @@
 ---
-title: Não existem resultados de pesquisa de conteúdo
+title: Pesquisa de conteúdo Sem Resultados
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 09cdbc3cb0465e0e0bc08872c49e283081ad3e92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516790"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680658"
 ---
-# <a name="no-results-from-content-searchexports"></a>Não existem resultados de conteúdo procura/exportações
+# <a name="no-results-from-content-searchexports"></a>Sem resultados de Pesquisa/Exportações de Conteúdos
 
-Problemas com conteúdo procura/exportações não devolver quaisquer dados podem ser devido a certas filtro de segurança de conformidade que foi configurado por um administrador específico e não a comunicar a todos os Admins.
+Problemas com a Pesquisa/Exportações de Conteúdo que não devolvam quaisquer dados podem dever-se a um certo Filtro de Segurança de Conformidade que foi configurado por um Administrador específico e não os comunicando a todos os Administradores.
 
-Para resolver este problema, verifique se existem quaisquer filtros de segurança de conformidade que poderá estar a causar este:
-1. Ligar a segurança e conformidade Centro Powershell
-2. Execute o commandlets do seguinte:
-<br>$org = "seudomínio. com"
-<br>Get-ComplianceSecurityFilter-$org de organização
+Para resolver isto, verifique se existem filtros de segurança de conformidade que possam estar a causar isto:
+1. Ligue-se ao Centro de Segurança e Conformidade Powershell
+2. Executar os seguintes comandos:
+<br>$org = "yourdomain.com"
+<br>Obtém-ComplianceSecurityFilter - Organização $org

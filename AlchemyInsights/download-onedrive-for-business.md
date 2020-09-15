@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003082"
 - "5904"
-ms.openlocfilehash: ec73b305e8acb8a71740c26d05a09ed51469a0b7
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: cd7c8badaeb9afb4bcd6ef52b6506ffeb0daca57
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44847105"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678659"
 ---
 # <a name="download-onedrive-for-business"></a>Baixar OneDrive para Negócios
 

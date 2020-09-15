@@ -5,29 +5,30 @@ author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 5e027994175dcdbd35ffbc67934d3c31b7ab503a
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: b3577ac32be31b213feb172b76843ba884b42a03
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654559"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705526"
 ---
 # <a name="help-with-apple-dep"></a>Ajuda com apple DEP
 
-Se um dispositivo DEP não conseguir se inscrever e o MFA (Autenticação Multifator) estiver ativado, desative o MFA. O MFA não é atualmente suportado para inscrição no DEP.
+Se um dispositivo DEP não conseguir inscrever-se e o MFA (Autenticação Multi-Factor) estiver ativado, desative o MFA. O MFA não é atualmente apoiado para a inscrição de DEP.
 
-[Começando com Intune e programa de inscrição de dispositivos da Apple (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[Começando com o Programa de Inscrição de Dispositivos intune e apple (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
 [Erros e soluções comuns de inscrição no iOS](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-[Solução de problemas de inscrição geral](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Resolução geral de problemas de inscrição](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Use o Portal de Solução de Problemas para diagnosticar e resolver falhas comuns de inscrição](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[Utilize o Portal de Resolução de Problemas Intune para diagnosticar e resolver falhas comuns de inscrição](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
 
 

@@ -1,31 +1,32 @@
 ---
-title: Esvazie a pasta de Itens Eliminados em Outlook.com
+title: Esvazie a pasta de itens eliminados em Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 25140869694e48d79ed3f29f159c8114c244c34d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43723460"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672463"
 ---
-# <a name="empty-the-deleted-items-folder"></a>Esvazie a pasta de Itens Eliminados
+# <a name="empty-the-deleted-items-folder"></a>Esvaziar a pasta de itens eliminados
 
-1. Abra a pasta 'Itens Eliminados' e selecione **pasta Vazia**.
-2. **Selecione itens recuperáveis** na parte superior da página e selecione novamente a **pasta Empty.**
+1. Abra a pasta de Itens Apagados e selecione **pasta Vazia**.
+2. Selecione **itens recuperáveis** no topo da página e selecione **pasta Vazia** novamente.
 
-**Incapaz de esvaziar a pasta De itens eliminados**
+**Não é possível esvaziar a pasta de itens eliminados**
 
-- Se tiver apagado muitos e-mails, pode levar algum tempo para que esses itens se movam ou sejam eliminados da pasta De itens Eliminados. Deixe a janela do navegador aberta enquanto ocorre a eliminação.
-- Se o e-mail ainda não apagar corretamente, selecione um lote menor para eliminar.
+- Se apagou muitos e-mails, pode demorar algum tempo para que esses itens se movam ou sejam eliminados da pasta de Itens Eliminados. Deixe a janela do navegador aberta enquanto a eliminação ocorre.
+- Se o e-mail continuar a não apagar corretamente, selecione um lote menor para eliminar.
 - Se o e-mail apagado voltar, pode ser porque apagou muitos e-mails recentemente. Por favor, tente de novo mais tarde.

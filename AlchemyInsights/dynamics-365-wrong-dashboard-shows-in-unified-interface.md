@@ -1,43 +1,44 @@
 ---
-title: Dinâmica 365 - Mostras de painel errado na interface unificada dynamics 365
+title: Dinâmica 365 - Dashboard Errado Mostra em Dinâmica 365 Interface Unificada
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1484"
 - "6200024"
-ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 02e33c7dbdfe9b7d2ad7a04f154cf067fba0aab2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36528562"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711286"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Painel errado mostra na interface unificada dynamics 365
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Painel de instrumentos errado mostra na Interface Unificada Dynamics 365
 
-Há várias razões pelas quais você pode ver um painel diferente do que você espera:
+Existem várias razões pelas quais pode ver um painel diferente daquele que espera:
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a>O usuário definiu um painel padrão do usuário 
+## <a name="the-user-has-set-a-user-default-dashboard"></a>O utilizador definiu um painel de instrumentos predefinido do utilizador 
 
-Normalmente, você pode identificar que um painel padrão do usuário é definido se o botão **Set As Default** não aparecer na barra de comando do painel. O painel padrão do usuário substituirá todos os outros painéis padrão, mesmo que o painel padrão do usuário não esteja no aplicativo atual.
+Normalmente, é possível identificar um painel de instrumentos predefinido do utilizador se o botão **"Como Predefinido"** não aparecer na barra de comando do painel de instrumentos. O painel de instrumentos predefinido do utilizador irá sobrepor-se a todos os outros dashboards predefinidos, mesmo que o painel de instrumentos predefinido do utilizador não esteja na aplicação atual.
 
-Use a seguinte solução para desdefinir seu painel padrão.
+Utilize a seguinte solução para desacorrentar o seu painel de instrumentos predefinido.
 
-1. Crie um novo painel pessoal.
+1. Criar um novo painel pessoal.
 
-2. Defina esse novo painel como o padrão do usuário.
+2. Desafine o novo painel de instrumentos como o padrão do utilizador.
 
-3. Exclua esse painel.
+3. Apaga o painel.
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>O painel está definido no sitemap
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>O painel de instrumentos está definido no mapa do site
 
-Você pode ter definido um painel padrão da organização selecionando um painel e escolhendo "Set As Default" em "Personalize o sistema". Mas o painel definido no designer do sitemap terá precedência sobre este painel, se o usuário tiver acesso a ele.
+Pode ter definido um dashboard padrão da organização selecionando um dashboard e escolhendo 'set As Default' em 'Personalizar o Sistema'. Mas o dashboard definido no sitemap designer terá precedência sobre este dashboard, se o utilizador tiver acesso ao mesmo.
 
-Para que os usuários vejam o painel que você definiu como padrão da organização, você também pode:
+Para que os utilizadores vejam o dashboard que definiu como o padrão da organização, pode:
 
-* Defina esse painel no mapa do site
+* Coloque o painel no mapa do site
 
-* Remover o acesso ao painel definido pelo mapa do site para esses usuários
+* Remova o acesso ao mapa de site definido para esses utilizadores

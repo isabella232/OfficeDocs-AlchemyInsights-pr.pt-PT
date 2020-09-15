@@ -1,33 +1,34 @@
 ---
-title: Modernizar a página inicial clássica
+title: Modernizar a Página Inicial Clássica
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: e727f40b725cefa8a09c15fe2d65ab3307d4e3e1
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 16da500b8b7e97b9085c8e954fbf75d8c1b90c8a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600575"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666737"
 ---
-# <a name="modernize-the-classic-home-page"></a>Modernizar a página inicial clássica
+# <a name="modernize-the-classic-home-page"></a>Modernizar a Página Inicial Clássica
 
-Uma recente atualização para as páginas home do site da equipa do SharePoint afeta a página inicial de sites clássicos da equipa (STS#0) quando uma página inicial contém *apenas peças web padrão fora da caixa,* tais como começar, biblioteca de documentos e feed de notícias.
+Uma atualização recente das páginas iniciais do site clássico do SharePoint afeta a página inicial de sites clássicos de equipas (STS#0) quando uma página inicial contém *apenas partes da web fora da caixa,* tais como começar, biblioteca de documentos e newsfeed.
 
 Veja aqui um walk-through da [mudança.](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif) 
 
 **Nota: Os sites clássicos da equipa que contenham conteúdo personalizado não serão automaticamente atualizados.**
 
-* Saiba mais sobre os critérios de atualização na modernização da [página inicial clássica.](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern)
+* Saiba mais sobre os critérios de atualização na [modernização da página inicial clássica.](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern)
 
 * [Atualize outras páginas que não faziam parte da modernização automática.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)
 
-* Desative esta atualização em sites específicos utilizando um [Cmdlet PowerShell (Padrões e Práticas do SharePoint) (PnP).](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)
+* Desative esta atualização em sites específicos utilizando um [cmdlet PowerShell (PnP) de SharePoint](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets).

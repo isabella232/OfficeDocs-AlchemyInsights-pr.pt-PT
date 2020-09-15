@@ -5,31 +5,32 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001112"
 - "3073"
-ms.openlocfilehash: 98f30d8e0a59ee9d735818d670755affbe627d54
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 2bb937c2ac2d95680dd1b247765c42ec0247d9f0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286182"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47682981"
 ---
 # <a name="change-my-language"></a>Mude a minha linguagem
 
-A aplicação Outlook é automaticamente traduzida para o idioma para o que o seu dispositivo está definido. 
+A aplicação Outlook é automaticamente traduzida para o idioma que o seu dispositivo está definido. 
 
-(Ver uma [lista de idiomas suportados no Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).) 
+(Ver [uma lista de línguas suportadas no Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).) 
 
-**Para alterar a linguagem no seu dispositivo:** 
+**Para alterar o idioma no seu dispositivo:** 
 
 **No Android:** 
 
-- Definições do dispositivo > idioma e entrada 
+- Definições de dispositivo > linguagem e entrada 
 
 **No iOS:** 
 
-- Definições do dispositivo > região geral de & de língua sin >uosa 
+- Configurações > Região geral de & da língua > 

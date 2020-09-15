@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: c6ebac44d800483bfb03fe5997dfb17844ac2f15
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d44d0bd3eefe0c50e05bff0dab1f3515a1e6ffc2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766252"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669042"
 ---
-# <a name="verify-your-domain-with-dreamhost"></a><span data-ttu-id="83bf1-102">Verifique o seu domínio com dreamhost</span><span class="sxs-lookup"><span data-stu-id="83bf1-102">Verify your domain with Dreamhost</span></span>
+# <a name="verify-your-domain-with-dreamhost"></a><span data-ttu-id="79868-102">Verifique o seu domínio com dreamhost</span><span class="sxs-lookup"><span data-stu-id="79868-102">Verify your domain with Dreamhost</span></span>
 
-<span data-ttu-id="83bf1-103">Para verificar o seu domínio, terá de adicionar um registo TXT ao seu registo de domínio para verificar se possui o seu domínio.</span><span class="sxs-lookup"><span data-stu-id="83bf1-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="79868-103">Para verificar o seu domínio, terá de adicionar um registo TXT ao seu registo de domínio para verificar se é dono do seu domínio.</span><span class="sxs-lookup"><span data-stu-id="79868-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="83bf1-104">Em primeiro lugar, siga o assistente de [domínio adicionar](https://portal.office.com/adminportal/home#/Domains) selecionando **domínios**de **definições** \> **e,** em seguida, adicione domínio .</span><span class="sxs-lookup"><span data-stu-id="83bf1-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="79868-104">Primeiro, siga o [assistente de "Adicionar o Domínio](https://portal.office.com/adminportal/home#/Domains) selecionando **Domínios de Definições"** \> **Domains**e, em seguida, adicione **o domínio**.</span><span class="sxs-lookup"><span data-stu-id="79868-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="83bf1-105">Consulte [os registos DoNs Create no Dreamhost para o Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) para obter instruções passo a passo.</span><span class="sxs-lookup"><span data-stu-id="83bf1-105">See [Create DNS records at Dreamhost for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) for step-by-step instructions.</span></span>
+<span data-ttu-id="79868-105">Consulte [os registos DE CRIAR DNS na Dreamhost para a Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) para obter instruções passo a passo.</span><span class="sxs-lookup"><span data-stu-id="79868-105">See [Create DNS records at Dreamhost for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) for step-by-step instructions.</span></span>

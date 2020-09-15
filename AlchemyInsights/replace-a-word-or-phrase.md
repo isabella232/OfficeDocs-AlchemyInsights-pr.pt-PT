@@ -1,28 +1,29 @@
 ---
-title: Substituir uma palavra ou frase
+title: Substitua uma palavra ou frase
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001453"
 - "3465"
-ms.openlocfilehash: 755d0adabe835a79dc4bf4b0e712ad4aa38233b9
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: 47a631bd045d3a3ae889d00d8e4ac615948a0d0f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959890"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692702"
 ---
-# <a name="replace-a-word-or-phrase"></a>Substituir uma palavra ou frase
+# <a name="replace-a-word-or-phrase"></a>Substitua uma palavra ou frase
 
-Substituir várias instâncias de uma palavra ou frase em um documento do Word:
+Para substituir várias instâncias de uma palavra ou frase num documento do Word:
 
-1. Vá para **casa** > **substituir,** ou pressione Ctrl + H.
-2. No **Encontrar que** caixa, digite a palavra ou frase que você deseja substituir. 
-3. No **Substituir com** caixa, digite seu novo texto.
-3. Selecione **substituir todos** para alterar todas as ocorrências da palavra ou frase, ou **selecione Find Next** até encontrar o (s) que você deseja atualizar e, em seguida, **selecione Substituir**.
+1. Vá para **casa**  >  **Substituir,** ou pressione Ctrl+H.
+2. Na caixa **Localizar,** insira a palavra ou frase que pretende substituir. 
+3. Na **caixa Substitua-a,** introduza o seu novo texto.
+3. Selecione **Substituir Tudo** para alterar todas as ocorrências da palavra ou frase, ou selecione **Localizar a próxima** até encontrar a(s) que pretende atualizar e, em seguida, selecione **Substituir**.

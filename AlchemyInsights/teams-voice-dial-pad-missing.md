@@ -1,27 +1,28 @@
 ---
-title: Equipes voz dial pad faltando
+title: Folha de marcação de voz das equipas desaparecida
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2641"
 - "9000719"
-ms.openlocfilehash: 8abbacf3c7807001ff1b63bd70a5a385d1d3a188
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 8ad3480c20ac29ef4d9394d3c84b310ef26a9535
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628289"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653488"
 ---
-# <a name="dial-pad-is-missing-in-microsoft-teams"></a>O bloco de discagem está faltando nas equipes da Microsoft 
+# <a name="dial-pad-is-missing-in-microsoft-teams"></a>Falta o teclado de marcação no Microsoft Teams 
 
-Se o seu bloco de discagem estiver faltando no Microsoft Teams, verifique o seguinte:
+Se faltar o seu bloco de marcação nas Equipas microsoft, verifique o seguinte:
 
-- Certifique-se de que o usuário tenha sido atribuído uma [licença de equipes.](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)
-- Certifique-se de que o usuário tenha um plano de [chamada](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) atribuído.
-- Habilite os usuários para o [Enterprise Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+- Certifique-se de que o utilizador tem uma [licença do Teams](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses) atribuída.
+- Certifique-se de que o utilizador tem um [Plano de Chamadas](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) atribuído.
+- Ative a [Voz para Empresas](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail) para os utilizadores.

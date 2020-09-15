@@ -1,29 +1,30 @@
 ---
-title: Chave de produto de servidor de relatório de BI energia
+title: Chave de produto do servidor do relatório de energia BI
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: dc4418ed53bfc9e40eae8936f1b135b71ad57934
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: ec7b033d524ba257ee985b5cd11881b0b9109e8b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753508"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801960"
 ---
-# <a name="power-bi-report-server-product-key"></a>Chave de produto de servidor de relatórios BI de energia
+# <a name="power-bi-report-server-product-key"></a>Chave de produto do Servidor de Relatório de Bi de Potência
 
-Se adquiriu o prémio de BI da energia, no separador **definições de prémio** da portal admin do BI energia tem acesso para a chave de produto de servidor de relatórios BI de energia. Isto só está disponível para Global Admins ou os utilizadores atribuídos a função de administrador do serviço de BI de energia.
+Se adquiriu Power BI Premium, dentro do separador **definições Premium** do portal de administração Power BI tem acesso à tecla de produto Power BI Report Server. Isto só está disponível para a Global Admins ou utilizadores que atribuíram a função de administrador de serviço power BI.
 
-Seleccionar **servidor de relatórios BI energia chave** apresenta uma caixa de diálogo que contém a chave de produto. Pode copiá-la e utilizá-lo com a instalação.
+Selecionar a **tecla Power BI Report Server** exibe uma caixa de diálogo contendo a sua chave de produto. Pode copiá-lo e usá-lo com a instalação.
 
-Se tiver um acordo de SA do SQL Server Enterprise, pode obter a chave de produto a partir do [Centro de serviço de licenciamento de Volume](https://www.microsoft.com/Licensing/servicecenter/).
+Se tiver um acordo SQL Server Enterprise SA, pode obter a chave do produto no Centro de [Serviço de Licenciamento de Volume.](https://www.microsoft.com/Licensing/servicecenter/)
 
-Para mais informações:https://docs.microsoft.com/power-bi/report-server/install-report-server
+Para mais informações: https://docs.microsoft.com/power-bi/report-server/install-report-server

@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: e1fc48f367691b2f722b69d631d880c18f3504cb
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579840"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677001"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Problemas de sessão no Microsoft 365 Apps
 
 Para corrigir problemas de inscrição com aplicações microsoft 365, experimente as seguintes opções na máquina afetada:  
 
 - Para windows, consulte [recomendações sobre a resolução de problemas comuns de inscrição](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
-- Para Mac, veja [Can't assinar em um Office 2016 para app Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+- Para Mac, veja  [Can't assinar em um Office 2016 para app Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**Nota:** **Não é aconselhável**desativar a Autenticação Moderna (ADAL) ou a Gestão de Conta Web (WAM) para corrigir problemas de inscrição ou ativação . Se ocorrerem erros durante a ligação ao Microsoft 365 utilizando o Office 2013, certifique-se de que [ativa a autenticação moderna](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication) para o cliente do Office.
+**Nota:**  **Não é aconselhável**desativar a Autenticação Moderna (ADAL) ou a Gestão de Conta Web (WAM) para corrigir problemas de inscrição ou ativação . Se ocorrerem erros durante a ligação ao Microsoft 365 utilizando o Office 2013, certifique-se de que [ativa a autenticação moderna](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  para o cliente do Office.
 
 Para ações específicas de resolução de problemas, consulte:
 

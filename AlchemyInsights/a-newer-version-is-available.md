@@ -1,23 +1,24 @@
 ---
-title: Está disponível uma versão mais recente
+title: Uma versão mais recente está disponível
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000694"
 - "2597"
-ms.openlocfilehash: 42f82c873e8674b41975782b33aefe55b821ca39
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: ce38d96381c5be7a10459313df18e586e5dd6267
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045513"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663893"
 ---
-# <a name="delete-the-office-document-cache"></a>Elimine a Cache de documentos do Office
+# <a name="delete-the-office-document-cache"></a>Eliminar a Cache do Documento do Escritório
 
-Se tiver recebido uma linha de comandos do Excel **está disponível uma versão mais recente do ficheiro**, tente eliminar a Cache de documentos do Office, seguindo as instruções no [elimina a Cache de documentos do Office](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d). Em seguida, tente reabrir o ficheiro.
+Se recebeu um pedido do Excel de que **está disponível uma versão mais recente do ficheiro,** tente eliminar a Cache do Documento do Office seguindo as instruções na [Eliminação da cache do documento do Office](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d). Então tente reabrir o ficheiro.

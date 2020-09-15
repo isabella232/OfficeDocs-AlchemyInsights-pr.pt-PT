@@ -5,37 +5,38 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2500"
-ms.openlocfilehash: 4fe4574786674add89040fd530b931c1fd4e38de
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 6d458e3b2318b47be971be9a3c6f4d323d9ad740
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800533"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662327"
 ---
 # <a name="resolving-missing-data-in-onenote"></a>Resolução de dados em falta no OneNote
 
-**Bloco de notas em falta**
+**Caderno desaparecido**
 
-- Se o bloco de notas OneDrive foi eliminado acidentalmente, pode recuperá-lo seguindo os passos em [Restaurar ficheiros eliminados ou pastas em OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
-- Pode recuperar bloco de notas numa OneDrive eliminado no prazo de 30 dias por predefinição seguintes os passos em [Restaurar uma OneDrive eliminado](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
-- O OneNote pode estar a utilizar uma conta diferente daquela que esperava. Se tiver uma conta fornecidos por escolas de trabalho ou para além da sua conta Microsoft pessoal, terá de adicionar a outra conta para ver todos os blocos de notas (consulte para obter instruções sobre como [Adicionar a conta no OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).
+- Se o portátil do OneDrive foi acidentalmente eliminado, pode recuperá-lo seguindo os passos em [Restaurar ficheiros ou pastas eliminadas no OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
+- Pode recuperar o portátil num OneDrive eliminado no prazo de 30 dias, seguindo os passos em [Restaurar um OneDrive eliminado](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+- O OneNote pode estar a utilizar uma conta diferente do que espera. Se tiver uma conta de trabalho ou de escola para além da sua conta pessoal da Microsoft, terá de adicionar a sua outra conta para visualizar todos os seus cadernos (consulte instruções sobre como [adicionar conta no OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).
 
-**Notas em falta no bloco de notas**
+**Notas em falta no caderno**
 
-Uma das causas mais comuns de falta de páginas ou secções num bloco de notas é um erro de sincronização. Neste caso, os dados não são perdidos e podem ser recuperados depois da sincronização está a funcionar. Verifique cada OneNote utilizadores cliente tem utilizado para identificar se qualquer uma delas mostra um erro para o bloco de notas e, se existir um erro, consulte [resolver problemas quando não consegue sincronizar o OneNote](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45).
+Uma das causas mais comuns de páginas ou secções em falta num caderno é um erro de sincronização. Neste caso, os dados não são perdidos e podem ser recuperados uma vez que a sincronização está funcionando. Verifique todos os utilizadores do Cliente OneNote que usaram para identificar se algum deles apresenta um erro para o portátil, e se houver um erro, consulte [problemas de Correção quando não conseguir sincronizar o OneNote](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45).
 
-- No OneNote para o Windows 10, um ícone de aviso amarela triangular provavelmente será apresentado junto do bloco de notas.
-- No OneNote de 2016, clique com o botão direito no nome do bloco de notas abaixo do Friso e, clique em "Estado de sincronização do bloco de notas"
-- No OneNOte para Mac, verificar a existência de um ponto de exclamação amarelo junto do ícone de bloco de notas
-- No OneNote para iPhone, navegue para o bloco de notas e clique no botão de acção no canto superior direito
-- No OneNote para Android, navegue para erros de sincronização mais blocos de notas >View
+- No OneNote para o Windows 10, um ícone de aviso triangular amarelo será provavelmente apresentado ao lado do portátil.
+- No OneNote 2016, clique no nome do caderno abaixo da fita e clique em "Estado de Sincronização do Portátil"
+- No OneNOte para Mac, verifique se há uma marca de exclamação amarela perto do ícone do caderno
+- No OneNote para iPhone, navegue no seu bloco de notas e clique no botão de ação no canto superior direito
+- No OneNote for Android, navegue para mais >ver erros de sincronização
 
-Siga os passos em [Localizar as minhas notas perdidas](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) para procurar, sincronizar o ficheiro ou recuperar notas.
+Siga os passos em Localizar as [minhas notas perdidas](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) para pesquisar, sincronizar o seu ficheiro ou recuperar as suas notas.
 
-Se estiver a utilizar o OneNote de 2016, poderá [recuperar](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14) eliminar notas de cópias de segurança.
+Se estiver a utilizar o OneNote 2016, poderá [recuperar as notas apagadas](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14) das cópias de segurança.

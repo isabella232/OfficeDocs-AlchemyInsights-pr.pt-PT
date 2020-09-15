@@ -1,10 +1,11 @@
 ---
-title: 718 Adicionando contatos externos / pessoas fora da organização para uma lista de distribuição
+title: 718 Adicionar contactos externos/pessoas fora da organização a uma lista de distribuição
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "718"
 - "3"
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: 57f8b5859a5a91b9ce83d7ca8da5330ac73413f9
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e9860a3c061b17a8b2fc87caa40ede0dd5277346
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766650"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663488"
 ---
 # <a name="add-external-email-addresses-to-a-distribution-group"></a>Adicionar endereços de e-mail externos a um grupo de distribuição
 
-Primeiro, você precisa criar um contato em sua organização para o endereço de e-mail externo. Em seguida, você pode adicionar o contato ao grupo de distribuição. Para mais informações, veja [adicionar usuários externos a um Grupo de Distribuição?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba)
+Em primeiro lugar, tem de criar um contacto na sua organização para o endereço de e-mail externo. Em seguida, pode adicionar o contacto ao grupo de distribuição. Para obter mais informações, consulte [adicionar utilizadores externos a um Grupo de Distribuição?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba)
 
-Se você quiser que usuários externos possam enviar mensagens para o grupo de distribuição, verifique se o grupo está configurado para aceitar e-mails de remetentes externos. Para mais informações, consulte a gerência de [entrega.](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement)
+Se pretender que os utilizadores externos possam enviar mensagens para o grupo de distribuição, verifique se o grupo está configurado para aceitar o correio de remetentes externos. Para mais informações, consulte [a gestão da Entrega.](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement)

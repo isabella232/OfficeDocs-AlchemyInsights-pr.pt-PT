@@ -1,32 +1,33 @@
 ---
-title: 'Proteção de adulteração do cliente defensor '
+title: 'Proteção de Adulteração de Clientes Defender '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 909874d06e74e7df9c2eec9b47c89c25a30ac58c
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738509"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680515"
 ---
-# <a name="defender-tamper-protection"></a><span data-ttu-id="00bce-102">Proteção de adulteração do defensor</span><span class="sxs-lookup"><span data-stu-id="00bce-102">Defender Tamper Protection</span></span> 
+# <a name="defender-tamper-protection"></a><span data-ttu-id="e3853-102">Proteção de Tamper do Defensor</span><span class="sxs-lookup"><span data-stu-id="e3853-102">Defender Tamper Protection</span></span> 
 
-<span data-ttu-id="00bce-103">Com a Proteção de Adulteração, aplicativos mal-intencionados são impedidos de tomar ações como essas:</span><span class="sxs-lookup"><span data-stu-id="00bce-103">With Tamper Protection, malicious apps are prevented from taking actions such as these:</span></span>
+<span data-ttu-id="e3853-103">Com a Tamper Protection, aplicações maliciosas são impedidas de tomar ações como estas:</span><span class="sxs-lookup"><span data-stu-id="e3853-103">With Tamper Protection, malicious apps are prevented from taking actions such as these:</span></span>
 
-- <span data-ttu-id="00bce-104">Desabilitar o vírus e a proteção contra ameaças</span><span class="sxs-lookup"><span data-stu-id="00bce-104">Disabling virus and threat protection</span></span>
-- <span data-ttu-id="00bce-105">Desativar a proteção em tempo real</span><span class="sxs-lookup"><span data-stu-id="00bce-105">Disabling real-time protection</span></span>
-- <span data-ttu-id="00bce-106">Desativar o monitoramento de comportamento</span><span class="sxs-lookup"><span data-stu-id="00bce-106">Turning off behavior monitoring</span></span>
-- <span data-ttu-id="00bce-107">Antivírus incapacitante (como iOfficeAntivirus (IOAV))</span><span class="sxs-lookup"><span data-stu-id="00bce-107">Disabling antivirus (such as IOfficeAntivirus (IOAV))</span></span>
-- <span data-ttu-id="00bce-108">Desativar a proteção fornecida pela nuvem</span><span class="sxs-lookup"><span data-stu-id="00bce-108">Disabling cloud-delivered protection</span></span>
-- <span data-ttu-id="00bce-109">Remoção de atualizações de inteligência de segurança</span><span class="sxs-lookup"><span data-stu-id="00bce-109">Removing security intelligence updates</span></span>
+- <span data-ttu-id="e3853-104">Desativação do vírus e da proteção contra ameaças</span><span class="sxs-lookup"><span data-stu-id="e3853-104">Disabling virus and threat protection</span></span>
+- <span data-ttu-id="e3853-105">Desativação da proteção em tempo real</span><span class="sxs-lookup"><span data-stu-id="e3853-105">Disabling real-time protection</span></span>
+- <span data-ttu-id="e3853-106">Desligar a monitorização do comportamento</span><span class="sxs-lookup"><span data-stu-id="e3853-106">Turning off behavior monitoring</span></span>
+- <span data-ttu-id="e3853-107">Antivírus incapacitante (como IOfficeAntivirus (IOAV))</span><span class="sxs-lookup"><span data-stu-id="e3853-107">Disabling antivirus (such as IOfficeAntivirus (IOAV))</span></span>
+- <span data-ttu-id="e3853-108">Desativar a proteção entregue em nuvem</span><span class="sxs-lookup"><span data-stu-id="e3853-108">Disabling cloud-delivered protection</span></span>
+- <span data-ttu-id="e3853-109">Remover atualizações de inteligência de segurança</span><span class="sxs-lookup"><span data-stu-id="e3853-109">Removing security intelligence updates</span></span>
 
-<span data-ttu-id="00bce-110">Para mais detalhes, [consulte as configurações de segurança protectimas com proteção de adulteração.](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)</span><span class="sxs-lookup"><span data-stu-id="00bce-110">For more details, see [Protect security settings with Tamper Protection](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).</span></span>
+<span data-ttu-id="e3853-110">Para obter mais detalhes, consulte [as definições de segurança da Proteção contra adulteração](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).</span><span class="sxs-lookup"><span data-stu-id="e3853-110">For more details, see [Protect security settings with Tamper Protection](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).</span></span>

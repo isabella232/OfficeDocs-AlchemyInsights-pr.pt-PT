@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 527556fcb02525eb88ea992c38a2ddfcba6f9453
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0dfaae776ec551fe12919e8a8e69f2e7a58d67d0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506569"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663200"
 ---
 # <a name="aip-policies-not-behaving-as-expected"></a>AIP: Políticas que não se comportam como esperado
 
@@ -39,5 +40,5 @@ Recursos adicionais:
 
 - [Como configurar um rótulo para marcações visuais para proteção de informação Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
 - [Rever documentação de proteção de informação do Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Use etiquetas de sensibilidade em aplicações do Office](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+- [Utilize etiquetas de sensibilidade em aplicações microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
 

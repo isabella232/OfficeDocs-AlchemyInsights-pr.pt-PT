@@ -1,33 +1,34 @@
 ---
-title: Incapaz de definir ou ver a política de Compra allowSelfService
+title: Não é possível definir ou ver a política AllowSelfServicePurchase
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158572"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735210"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Incapaz de definir ou ver a política de Compra allowSelfService
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Não é possível definir ou ver a política AllowSelfServicePurchase
 
-Ao tentar definir ou visualizar a política AllowSelfServicePurchase, recebe a seguinte mensagem de erro:
+Ao tentar definir ou ver a política AllowSelfServicePurchase, recebe a seguinte mensagem de erro:
 
-*HandleError : Falha na recuperação da política do produto com o PolicyId 'AllowSelfServicePurchase', ErrorMessage - A ligação subjacente foi fechada: Ocorreu um erro inesperado num envio.*
+*HandleError : Falhou na recuperação da política do produto com a PolicyId 'AllowSelfServicePurchase', ErrorMessage - A ligação subjacente foi encerrada: Ocorreu um erro inesperado num envio.*
 
-Isto pode ser devido a uma versão mais antiga da Transport Layer Security (TLS). Para ligar o serviço MSCommerce, precisa de utilizar o TLS 1.2 ou superior.  
+Isto pode ser devido a uma versão mais antiga da Segurança da Camada de Transporte (TLS). Para ligar o serviço MSCommerce, é necessário utilizar o TLS 1.2 ou superior.  
 
-Tente os seguintes passos para ativar/definir o protocolo TLS para 1.2, verificar e voltar a tentar.
- 1. No pedido de comando PowerShell\) (PS C: insira o seguinte comando para definir o protocolo TLS na versão 1.2:
+Experimente os seguintes passos para ativar/definir o protocolo TLS para 1.2, verificar e voltar a tentar.
+ 1. Na tenção de comando PowerShell (PS C: \) insira o seguinte comando para definir o protocolo TLS para a versão 1.2:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
@@ -35,5 +36,5 @@ Tente os seguintes passos para ativar/definir o protocolo TLS para 1.2, verifica
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Tente novamente os comandos Get ou Update, conforme necessário.
+3. Revendo os comandos Get ou Update conforme necessário.
 

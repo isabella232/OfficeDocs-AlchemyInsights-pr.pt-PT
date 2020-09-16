@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354099"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670375"
 ---
 # <a name="teams-admin-center"></a>Centro de Administração do Teams
 
@@ -31,5 +32,5 @@ Se os utilizadores não aparecerem no Centro de Administração do Teams, verifi
 
 - Criou utilizadores ou atribuiu licenças nas últimas 24 horas? Certifique-se de que esperou pelo menos 24 horas antes de iniciar um pedido de suporte.
 - Verificou se atribuiu licenças apropriadas?
-- Se tiver um Diretório Ativo no local, verifique se [o valor do MSRTCSIP-PrimaryUserAddress ou o endereço SIP no campo ProxyAddresses no seu Diretório Ativo local é único e o formato corresponde ao](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) gole:**Username** do utilizador do centro de administração microsoft [365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Se pretende manter um Skype para implementação do Business Server e ter utilizadores alojados no local e Online: siga o **"set up hybrid with Teams and Skype for Business Online"** no seu Skype para Business Server Control Panel e mova os utilizadores Online.
+- Se tiver um Diretório Ativo no local, verifique se [o valor do msRTCSIP-PrimaryUserAddress ou do endereço SIP no campo ProxyAddresses no seu Diretório Ativo local é único e o formato corresponde](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) a um gole: Nome de**utilizador** do utilizador do centro [de administração Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Se pretende manter um Skype para implementação de Servidor de Negócios e ter utilizadores aloiados no local e online: siga o **"set up hybrid with Teams and Skype for Business Online"** no seu Skype para Business Server Control Panel e mova os utilizadores online.

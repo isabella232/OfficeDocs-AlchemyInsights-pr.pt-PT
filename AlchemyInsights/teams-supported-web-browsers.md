@@ -5,19 +5,20 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 273edf85c9beec35d3b9cace03b809dde0db01c3
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 7ede4f52740835b0690648ad17cafbea50929f61
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599387"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750534"
 ---
 # <a name="teams-supported-web-browsers"></a>Navegadores web suportados por equipas
 
-As equipas suportam totalmente os navegadores de Internet listados no artigo, [Limites e especificações para as Equipas](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)microsoft, com exceções notadas para chamadas e reuniões.
+As equipas suportam totalmente os navegadores de Internet listados no artigo, [Limites e especificações para as Equipas da Microsoft,](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)com exceções notadas para chamadas e reuniões.

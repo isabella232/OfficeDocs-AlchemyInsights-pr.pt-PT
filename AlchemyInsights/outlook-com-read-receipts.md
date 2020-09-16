@@ -1,11 +1,12 @@
 ---
-title: Leia recibos em Outlook.com
+title: Leia os recibos em Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
@@ -14,15 +15,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: e9636af661230dd77066d04660c39ef40f4b9126
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8b610fad6789b57320c3d18d557f1d9e3b9ad65e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43744232"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723762"
 ---
 # <a name="read-receipts"></a>Ler recibos
 
-Não é possível solicitar um recibo de leitura em Outlook.com, mas pode solicitar recibos de leitura para mensagens Outlook.com enviadas através do Outlook para windows. Para saber como, consulte [Adicionar e solicitar que leia recibos e notificações](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy)de entrega.
+Não é possível solicitar um recibo de leitura em Outlook.com, mas pode solicitar a leitura de recibos de Outlook.com mensagens enviadas através do Outlook for Windows. Para saber como, consulte [Adicionar e solicite ler recibos e notificações de entrega.](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy)
   
-Para escolher como Outlook.com responde a ler pedidos de recibo, vá ler [as definições](https://outlook.live.com/mail/options/mail/handling/readReceipts)de recibo .
+Para escolher como Outlook.com responde aos pedidos de recibo de leitura, vá para [Ler as definições de recibo .](https://outlook.live.com/mail/options/mail/handling/readReceipts)

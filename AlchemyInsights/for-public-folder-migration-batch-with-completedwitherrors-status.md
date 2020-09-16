@@ -1,31 +1,32 @@
 ---
-title: Para o lote de migração de pastas públicas com o estatuto CompletedWithErrors
+title: Para lote de migração de pastas públicas com estatuto de ConcluídoWithErrors
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: 739e9d91f90e4c0374814d199e4372eb5625553a
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: cbf5237fdb5c660057465e67702e35f68e545ddb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158628"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744124"
 ---
-# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Para o lote de migração de pastas públicas com o estatuto CompletedWithErrors
+# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Para lote de migração de pastas públicas com estatuto de ConcluídoWithErrors
 
 Utilize os seguintes passos para completar o lote, saltando os itens grandes/maus: 
-1. Aprove os itens ignorados no lote de migração:
+1. Aprovar os itens ignorados no lote de migração:
 
     `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
 2. Utilize o seguinte comando para aprovar os itens ignorados em pedidos de migração que são "Sincronizados" mas não concluídos:
 
     `$pf=Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics -IncludeReport; ForEach ($i in $pf) {if ($i.LargeItemsEncountered -gt 0 -or $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([DateTime]::UtcNow)}}`
-3. O lote de migração e os pedidos devem ser retomados e concluídos em poucos minutos.
+3. O lote de migração e os pedidos devem ser retomados e completos em poucos minutos.
 

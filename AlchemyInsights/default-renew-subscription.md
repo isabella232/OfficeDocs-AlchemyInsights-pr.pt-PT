@@ -1,31 +1,32 @@
 ---
-title: Predefinição de subscrição
+title: Subscrição por defeito de renovação
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 038c8f55ced056254d3d9fb882dc842e66941263
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062259"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745870"
 ---
 # <a name="renewing-your-subscription"></a>Renovar a sua subscrição
 
-Se pagar com cartão de crédito ou conta bancária, a faturação recorrente é ligada por defeito. Quando a faturação recorrente estiver em curso, a sua subscrição continuará a ser faturada todos os anos no dia em que subscreveu. Pode desligá-lo ou voltar a ligá-lo no centro de administração se a sua subscrição estiver ativa.
+Se pagar com cartão de crédito ou conta bancária, a faturação recorrente é ligada por defeito. Quando a faturação recorrente estiver em curso, a sua subscrição continuará a ser faturada todos os anos no dia em que se inscreveu. Pode desligá-lo ou voltar a ligá-lo no centro de administração se a sua subscrição estiver ativa.
 
-Se tiver pago a subscrição com uma chave de produto, a sua subscrição expirará no final do prazo de subscrição. Pode ativar a faturação recorrente e fornecer informações sobre cartão de crédito ou conta bancária para que a sua subscrição continue a ser faturada todos os anos no dia em que subscreveu.
+Se pré-pagar a sua subscrição com uma chave de produto, a sua subscrição expirará no final do prazo de subscrição. Pode ligar a faturação recorrente e fornecer informações sobre cartão de crédito ou conta bancária para que a sua subscrição continue a ser cobrada todos os anos no dia em que se inscreveu.
 
 Para ligar a faturação recorrente: 
 
-1. Vá à **Faturação**  >  **[dos seus produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Vá a **Faturar**  >  **[Os seus produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Escolha a subscrição para a qual pretende gerir a faturação recorrente.
-3. Em **'Faturação',** selecione **Editar** e faça as suas alterações na janela de definições de **faturação Recorrente.** 
+3. Em **Billing,** **selecione Editar** e faça as suas alterações na janela **de definições de faturação recorrente.** 

@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: c5f50b22b4d665c6af0d0bbcb901d79657f2b306
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: febef6e2def6d7b928ec8b21d07aa2e8d94d7d4a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063700"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744673"
 ---
 # <a name="fix-windows-update-errors"></a>Corrigir erros de atualização do Windows
 
-Se obtém um código de erro ao descarregar e instalar a atualização do Windows, o **'Update Troubleshooter'** pode ajudar a resolver o problema.
+Se obter um código de erro durante o download e instalação da atualização do Windows, o **Resolução de Problemas** de Atualização pode ajudar a resolver o problema.
 
-- [Download Update Troubleshooter para Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
-- Corre contra o atirador de sarilhos. Quando estiver feito, é melhor reiniciar o seu dispositivo. Em seguida, verifique se há novas atualizações indo [iniciar > Definições > Atualização & Atualização do Windows](ms-settings:windowsupdate)> Segurança .
+- [Baixar Update Troubleshooter para Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- Executar a resolução de problemas. Quando estiver feito, é melhor recomeçar o seu dispositivo. Em seguida, verifique se há novas atualizações indo para [iniciar > Definições > Atualização & Segurança > atualização do Windows .](ms-settings:windowsupdate)
 
-Se estes ainda não funcionarem, consulte o [Windows Update: FAQ](https://support.microsoft.com/help/12373/windows-update-faq) para obter mais informações.
+Se estes ainda não funcionarem, por favor consulte [o Windows Update: FAQ](https://support.microsoft.com/help/12373/windows-update-faq) para obter mais informações.

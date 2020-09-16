@@ -1,33 +1,34 @@
 ---
-title: Excluir a imagem da conta
+title: Apagar imagem da conta
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3452"
 - "9001439"
-ms.openlocfilehash: 5226da86643db58b39687735b67118796e9c40ad
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 94d7c783b13632e9fcf0875785fdeab8b8951f93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796293"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730962"
 ---
-# <a name="delete-an-account-picture-in-windows-10"></a>Excluir uma foto da conta no Windows 10
+# <a name="delete-an-account-picture-in-windows-10"></a>Eliminar uma imagem de conta no Windows 10
 
-O Windows foi projetado para permitir que você alterne entre suas três fotos mais recentes. Se você precisa excluir uma das fotos da sua conta:
+O Windows foi concebido para permitir a troca entre as três imagens mais recentes. Se precisar de apagar uma das suas fotos da sua conta:
 
-1. Explorador de arquivo aberto da barra de tarefas. Se você não vir o explorador de arquivos (o ícone da pasta) na barra de tarefas, selecione **iniciar** e **digite explorador**de arquivos.
+1. Abra o explorador de ficheiros a partir da barra de tarefas. Se não vir o Explorador de Ficheiros (o ícone da pasta) na barra de tarefas, selecione **Iniciar** e digitar **o explorador de ficheiros**.
 
-2. Vá para C:\Users\\*yourname*\AppData\Roaming\Microsoft\Windows\AccountPictures. 
-    - Substitua *seu nome* pelo nome da sua conta.
-    - Se você não conseguir encontrar a pasta AppData no File Explorer, ela poderá estar oculta. Selecione a configuração **View** e selecione a caixa de seleção de **itens ocultos** para mostrar todos os itens em uma pasta.
+2. Vá a C:\Utilizadores \\ *o seu nome*\AppData\Roaming\Microsoft\Windows\AccountPictures. 
+    - Substitua *o seu nome pelo* nome da sua conta.
+    - Se não conseguir encontrar a pasta AppData no Explorador de Ficheiros, pode estar escondida. Selecione a definição **'Ver'** e selecione a caixa de verificação **de Itens Ocultos** para mostrar todos os itens numa pasta.
 
-3. Excluir a foto da conta que você não quer mais usar.
+3. Elimine a imagem da conta que já não pretende utilizar.
  
  

@@ -6,21 +6,22 @@ manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: f1dc675c8a8217ea2824ad46e029bfa303303e6a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4164781a331ec919811332e94636449e9d88430d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511123"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758076"
 ---
 # <a name="troubleshoot-issues-with-office-365-atp"></a>Problemas de resolução de problemas com o Office 365 ATP
 
 - **Aviso de atrasos com a entrega de mensagens de correio eletrónico?** Tente utilizar a opção Entrega Dinâmica para as suas políticas de Anexos Seguros ATP. Isto evitará atrasos na entrega de mensagens de correio eletrónico enquanto protege os destinatários de ficheiros maliciosos.
-- **Quer denunciar falsos positivos ou falsos negativos?** Utilize este link para submeter o seu ficheiro para análise:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **Quer denunciar falsos positivos ou falsos negativos?** Utilize este link para submeter o seu ficheiro para análise: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
 - **Sabia que pode ativar a proteção ATP Safe Links para e-mail enviado entre pessoas da sua organização?** Siga estes passos:
     1. Vá https://protection.office.com para.
     2. Ir para **a Política de Gestão de**Ameaças  >  **Policy**  >  **Ligações Seguras**.

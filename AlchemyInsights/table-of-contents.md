@@ -5,29 +5,30 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3042"
 - "9000592"
-ms.openlocfilehash: a7d34c8b99e1cdab915bfeec20ad5f9bdf1c1603
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b3e78ae5f7f6bc79b46993d7f67a57114282edd3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769782"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758040"
 ---
 # <a name="table-of-contents"></a>Tabela de conteúdos
 
-Para obter informações sobre a criação de uma tabela de conteúdono Word, [consulte inserir uma tabela de conteúdo](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)ou baixe nosso tutorial de Tabela de [Conteúdos.](https://go.microsoft.com/fwlink/?linkid=2065106)
+Para obter informações sobre a criação de uma tabela de conteúdos no Word, consulte [inserir uma tabela de conteúdos,](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)ou descarregar o nosso tutorial da Tabela de [Conteúdos.](https://go.microsoft.com/fwlink/?linkid=2065106)
 
 **Soluções para questões comuns**
 
-- A tabela de conteúdo não contém o título que você acabou de adicionar ao seu documento.
-  1. Selecione o texto de título, vá para **Home** > **Styles**e verifique se um estilo é aplicado ao título.
-  2. Acesse a tabela de**atualização** **de referências** > para atualizar a tabela de conteúdo.
+- A tabela de conteúdos não contém o título que acaba de adicionar ao seu documento.
+  1. Selecione o texto do título, vá a **Home**  >  **Styles,** e verifique se um estilo é aplicado ao título.
+  2. Consulte a tabela De Atualização **de Referências**  >  **Update table** para atualizar a tabela de conteúdos.
 
-- A tabela de conteúdo está exibindo muito texto. 
-  1. Selecione o texto do parágrafo e, em seguida, vá para **home** > **styles.**
+- A tabela de conteúdos exibe demasiado texto. 
+  1. Selecione o texto do parágrafo e, em seguida, vá para **Home**  >  **Styles**.
   2. Selecione um estilo, como **o Normal,** que não está incluído na tabela de conteúdos.

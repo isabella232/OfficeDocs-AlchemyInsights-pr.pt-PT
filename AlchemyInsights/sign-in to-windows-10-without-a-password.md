@@ -1,47 +1,48 @@
 ---
-title: Iniciar sessão no Windows 10 sem usar uma senha
+title: Iniciar s-in no Windows 10 sem utilizar uma senha
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 1f325eb7afb1e88457296e8187f8ba6dff2ebfe0
-ms.sourcegitcommit: 00e4266575438f55bdc18db05ed54aafcb75a3c9
+ms.openlocfilehash: 839b945c457cb007f13605c5b903ded75dadd1d7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42588291"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719964"
 ---
-# <a name="sign-in-to-windows-10-without-using-a-password"></a>Iniciar sessão no Windows 10 sem usar uma senha
+# <a name="sign-in-to-windows-10-without-using-a-password"></a>Iniciar s-in no Windows 10 sem utilizar uma senha
 
-Para evitar ter de escrever uma palavra-passe no arranque do Windows, recomendamos que utilize uma das opções de entrada segura do Windows Hello, como um PIN, reconhecimento facial ou impressão digital, se disponível. Se realmente quiser desativar o acesso seguro, consulte as instruções "Iniciar automaticamente o sessão no Windows 10" abaixo.
+Para evitar ter de escrever uma palavra-passe no arranque do Windows, recomendamos que utilize uma das opções de entrada segura do Windows Hello, como um PIN, reconhecimento facial ou impressão digital, se disponível. Se realmente pretender desativar o s-in seguro, consulte as instruções "Iniciar automaticamente o Windows 10" abaixo.
 
-**Alternativas Secure Windows Hello à palavra-passe da conta**
+**Secure Windows Hello alternativas à senha de conta**
 
-Vá a **Definições > Contas > opções de iniciar sessão** (ou clique [aqui](ms-settings:signinoptions?activationSource=GetHelp)). As opções de inscrição disponíveis serão listadas. Por exemplo:
+Aceda a **Definições > Contas > opções de inscrição** (ou clique [aqui).](ms-settings:signinoptions?activationSource=GetHelp) As opções de inscrição disponíveis serão listadas. Por exemplo:
 
 ![Opções de inscrição.](media/sign-in-options.png)
 
 Clique ou toque numa das opções para configurá-lo. Da próxima vez que iniciar ou desbloquear o Windows, poderá utilizar a nova opção em vez de uma palavra-passe. 
 
-**Iniciar sessão automática no Windows 10**
+**Iniciar automaticamente o ó20.**
 
-**Nota:** O início automático é conveniente, mas introduz um risco de segurança, especialmente se o seu PC estiver acessível por várias pessoas. 
+**Nota:** O acesso automático é conveniente, mas introduz um risco de segurança, especialmente se o seu PC estiver acessível por várias pessoas. 
 
 1. Clique ou toque no botão **Iniciar** na barra de tarefas.
 
-2. Digite **netplwiz** e acerte na tecla Enter para abrir a janela contas do utilizador.
+2. Digite **netplwiz** e bata na tecla 'Introduzir' para abrir a janela Contas de Utilizador.
 
-3. Nas **Contas do Utilizador,** clique na conta para a sua assinatura automaticamente quando o Windows começar.
+3. Nas **Contas de Utilizador,** clique na conta a que pretende iniciar automaticamente o seu início.
 
-4. Desmarque a caixa de verificação "Os utilizadores devem introduzir um nome de utilizador e uma senha para utilizar este computador".
+4. Desmarque a caixa de verificação "Os utilizadores devem introduzir um nome de utilizador e uma palavra-passe para utilizar este computador".
 
-    ![Os utilizadores devem introduzir uma opção de username e password.](media/users-must-enter-username.png)
+    ![Os utilizadores devem introduzir uma opção de nome de utilizador e palavra-passe.](media/users-must-enter-username.png)
 
-5. Clique em **OK**. Será-lhe pedido que introduza e confirme a palavra-passe para a conta selecionada. Clique **em OK** para terminar. Da próxima vez que o Windows 10 começar, iniciará automaticamente o seu início na conta selecionada.
+5. Clique em **OK**. Ser-lhe-á pedido que introduza e confirme a palavra-passe para a conta que selecionou. Clique **em OK** para terminar. Da próxima vez que o Windows 10 começar, iniciará automaticamente o s registação na conta selecionada.

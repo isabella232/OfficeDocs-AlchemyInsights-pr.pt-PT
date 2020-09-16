@@ -1,24 +1,25 @@
 ---
-title: 924 Limites de regra
+title: 924 Limites de regras
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "924"
 - "1800021"
 ms.assetid: d80318be-6e30-4cd9-a65e-e7dc55f69e69
-ms.openlocfilehash: 8f26aac23cbcbc6b0b1d18f433467f90b666a4d2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 185f19f58a9efd3c83f5f3c0ec2682a0849b6675
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43681871"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727650"
 ---
-# <a name="rule-limits"></a><span data-ttu-id="c0cdb-102">Limites de regras</span><span class="sxs-lookup"><span data-stu-id="c0cdb-102">Rule limits</span></span>
+# <a name="rule-limits"></a><span data-ttu-id="1ca10-102">Limites de regras</span><span class="sxs-lookup"><span data-stu-id="1ca10-102">Rule limits</span></span>
 
-<span data-ttu-id="c0cdb-103">Os limites de regras podem variar entre as opções do plano e as opções autónomas.</span><span class="sxs-lookup"><span data-stu-id="c0cdb-103">Rule limits might vary across plan options and standalone options.</span></span> <span data-ttu-id="c0cdb-104">Para mais informações, consulte os limites de [regras do Journal, Transport e Inbox](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span><span class="sxs-lookup"><span data-stu-id="c0cdb-104">For more information, see [Journal, Transport, and Inbox rule limits](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span></span>
+<span data-ttu-id="1ca10-103">Os limites de regras podem variar entre as opções do plano e as opções autónomas.</span><span class="sxs-lookup"><span data-stu-id="1ca10-103">Rule limits might vary across plan options and standalone options.</span></span> <span data-ttu-id="1ca10-104">Para obter mais informações, consulte [os limites das regras journal, transport e inbox](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span><span class="sxs-lookup"><span data-stu-id="1ca10-104">For more information, see [Journal, Transport, and Inbox rule limits](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span></span>

@@ -5,37 +5,38 @@ author: MikePlumleyMSFT
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 077d1d69f0c317d958163dcf07239cbdf35edcdb
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 779db68e3018476f64da78678766b81cc0656cad
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579444"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796731"
 ---
-# <a name="user-permissions-in-sharepoint-and-onedrive"></a><span data-ttu-id="6598b-102">Permissões do utilizador no SharePoint e NomDrive</span><span class="sxs-lookup"><span data-stu-id="6598b-102">User permissions in SharePoint and OneDrive</span></span>
+# <a name="user-permissions-in-sharepoint-and-onedrive"></a><span data-ttu-id="6259d-102">Permissões do utilizador no SharePoint e NomDrive</span><span class="sxs-lookup"><span data-stu-id="6259d-102">User permissions in SharePoint and OneDrive</span></span>
 
-<span data-ttu-id="6598b-103">Se um utilizador da sua organização não conseguir aceder ao SharePoint ou ao OneDrive, certifique-se de que tem uma licença que inclui o SharePoint e o OneDrive.</span><span class="sxs-lookup"><span data-stu-id="6598b-103">If a user in your organization isn't able to access SharePoint or OneDrive, make sure they have a license that includes SharePoint and OneDrive.</span></span> 
+<span data-ttu-id="6259d-103">Se um utilizador da sua organização não conseguir aceder ao SharePoint ou ao OneDrive, certifique-se de que tem uma licença que inclui o SharePoint e o OneDrive.</span><span class="sxs-lookup"><span data-stu-id="6259d-103">If a user in your organization isn't able to access SharePoint or OneDrive, make sure they have a license that includes SharePoint and OneDrive.</span></span> 
   
-1. <span data-ttu-id="6598b-104">Aceda à página de [utilizadores Ative no centro de administração Microsoft 365](https://portal.office.com/adminportal/home#/users) e selecione o utilizador.</span><span class="sxs-lookup"><span data-stu-id="6598b-104">Go to the [Active users page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/users) and select the user.</span></span> 
+1. <span data-ttu-id="6259d-104">Aceda à página de [utilizadores Ative no centro de administração Microsoft 365](https://portal.office.com/adminportal/home#/users) e selecione o utilizador.</span><span class="sxs-lookup"><span data-stu-id="6259d-104">Go to the [Active users page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/users) and select the user.</span></span> 
     
-2. <span data-ttu-id="6598b-105">Certifique-se de que, segundo **as licenças do Produto,** é atribuída uma licença e o **SharePoint Online.**</span><span class="sxs-lookup"><span data-stu-id="6598b-105">Make sure that under **Product licenses**, a license is assigned and **SharePoint Online** is selected.</span></span> 
+2. <span data-ttu-id="6259d-105">Certifique-se de que, segundo **as licenças do Produto,** é atribuída uma licença e o **SharePoint Online.**</span><span class="sxs-lookup"><span data-stu-id="6259d-105">Make sure that under **Product licenses**, a license is assigned and **SharePoint Online** is selected.</span></span> 
     
- <span data-ttu-id="6598b-106">Para dar permissão a um utilizador para aceder a um site do SharePoint:</span><span class="sxs-lookup"><span data-stu-id="6598b-106">To give a user permission to access a SharePoint site:</span></span> 
+ <span data-ttu-id="6259d-106">Para dar permissão a um utilizador para aceder a um site do SharePoint:</span><span class="sxs-lookup"><span data-stu-id="6259d-106">To give a user permission to access a SharePoint site:</span></span> 
   
-1. <span data-ttu-id="6598b-107">Abra o site num navegador web.</span><span class="sxs-lookup"><span data-stu-id="6598b-107">Open the site in a web browser.</span></span>
+1. <span data-ttu-id="6259d-107">Abra o site num navegador web.</span><span class="sxs-lookup"><span data-stu-id="6259d-107">Open the site in a web browser.</span></span>
     
-2. <span data-ttu-id="6598b-108">Se o site pertencer a um grupo Microsoft 365, clique no ícone Definições no canto superior direito e, em seguida, clique nas **permissões do Site**.</span><span class="sxs-lookup"><span data-stu-id="6598b-108">If the site belongs to a Microsoft 365 group, click the Settings icon in the upper right, and then click **Site permissions**.</span></span> <span data-ttu-id="6598b-109">Clique **em Convidar pessoas**e, em seguida, opte por adicionar membros ao grupo Microsoft 365 ou partilhar apenas o site.</span><span class="sxs-lookup"><span data-stu-id="6598b-109">Click **Invite people**, and then choose to add members to the Microsoft 365 group or share only the site.</span></span> 
+2. <span data-ttu-id="6259d-108">Se o site pertencer a um grupo Microsoft 365, clique no ícone Definições no canto superior direito e, em seguida, clique nas **permissões do Site**.</span><span class="sxs-lookup"><span data-stu-id="6259d-108">If the site belongs to a Microsoft 365 group, click the Settings icon in the upper right, and then click **Site permissions**.</span></span> <span data-ttu-id="6259d-109">Clique **em Convidar pessoas**e, em seguida, opte por adicionar membros ao grupo Microsoft 365 ou partilhar apenas o site.</span><span class="sxs-lookup"><span data-stu-id="6259d-109">Click **Invite people**, and then choose to add members to the Microsoft 365 group or share only the site.</span></span> 
     
-    <span data-ttu-id="6598b-110">Para um site de comunicação, clique em Partilhar o **site** no canto superior direito, insira o nome da pessoa e, em seguida, selecione o nível de permissão (Ler, Editar ou Controlo Total).</span><span class="sxs-lookup"><span data-stu-id="6598b-110">For a communication site, click **Share site** in the upper-right, enter the person's name, and then select the permission level (Read, Edit, or Full Control).</span></span> 
+    <span data-ttu-id="6259d-110">Para um site de comunicação, clique em Partilhar o **site** no canto superior direito, insira o nome da pessoa e, em seguida, selecione o nível de permissão (Ler, Editar ou Controlo Total).</span><span class="sxs-lookup"><span data-stu-id="6259d-110">For a communication site, click **Share site** in the upper-right, enter the person's name, and then select the permission level (Read, Edit, or Full Control).</span></span> 
     
-    <span data-ttu-id="6598b-111">Para um site de equipa clássico, clique em **Partilhar** no canto superior direito.</span><span class="sxs-lookup"><span data-stu-id="6598b-111">For a classic team site, click **Share** in the upper-right.</span></span> <span data-ttu-id="6598b-112">Insira o nome da pessoa que pretende convidar ou digite Todos para partilhar com todos na sua organização.</span><span class="sxs-lookup"><span data-stu-id="6598b-112">Enter the name of the person you want to invite or type Everyone to share with everyone in your organization.</span></span> <span data-ttu-id="6598b-113">Clique **em Partilhar**.</span><span class="sxs-lookup"><span data-stu-id="6598b-113">Click **Share**.</span></span>
+    <span data-ttu-id="6259d-111">Para um site de equipa clássico, clique em **Partilhar** no canto superior direito.</span><span class="sxs-lookup"><span data-stu-id="6259d-111">For a classic team site, click **Share** in the upper-right.</span></span> <span data-ttu-id="6259d-112">Insira o nome da pessoa que pretende convidar ou digite Todos para partilhar com todos na sua organização.</span><span class="sxs-lookup"><span data-stu-id="6259d-112">Enter the name of the person you want to invite or type Everyone to share with everyone in your organization.</span></span> <span data-ttu-id="6259d-113">Clique **em Partilhar**.</span><span class="sxs-lookup"><span data-stu-id="6259d-113">Click **Share**.</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="6598b-114">Se você é membro de um site mas não um proprietário, você pode convidar as pessoas para o site, mas seu convite irá gerar um pedido de acesso que pode ser aprovado ou recusado por um proprietário do site.</span><span class="sxs-lookup"><span data-stu-id="6598b-114">If you're a member of a site but not an owner, you can invite people to the site, but your invitation will generate an access request that can be either approved or declined by a site owner.</span></span> 
+> <span data-ttu-id="6259d-114">Se você é membro de um site mas não um proprietário, você pode convidar as pessoas para o site, mas seu convite irá gerar um pedido de acesso que pode ser aprovado ou recusado por um proprietário do site.</span><span class="sxs-lookup"><span data-stu-id="6259d-114">If you're a member of a site but not an owner, you can invite people to the site, but your invitation will generate an access request that can be either approved or declined by a site owner.</span></span> 
   
-[<span data-ttu-id="6598b-115">Saiba como partilhar um ficheiro ou pasta com um utilizador</span><span class="sxs-lookup"><span data-stu-id="6598b-115">Learn how to share a file or folder with a user</span></span>](https://go.microsoft.com/fwlink/?linkid=533408)
+[<span data-ttu-id="6259d-115">Saiba como partilhar um ficheiro ou pasta com um utilizador</span><span class="sxs-lookup"><span data-stu-id="6259d-115">Learn how to share a file or folder with a user</span></span>](https://go.microsoft.com/fwlink/?linkid=533408)
   
 

@@ -1,0 +1,26 @@
+---
+title: Sobreposição do calendário online do SharePoint
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9000677"
+- "2587"
+ms.openlocfilehash: 052330e0cf84c2dbb1586803806b8d013e53dd12
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
+ms.contentlocale: pt-PT
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665513"
+---
+# <a name="sharepoint-online-calendar-overlay"></a><span data-ttu-id="b5973-102">Sobreposição do calendário online do SharePoint</span><span class="sxs-lookup"><span data-stu-id="b5973-102">SharePoint Online calendar overlay</span></span>
+
+<span data-ttu-id="b5973-103">Pode sobrepor-se a outro calendário sharePoint desde que ambos os calendários do SharePoint estejam na mesma coleção de sites.</span><span class="sxs-lookup"><span data-stu-id="b5973-103">You can overlay another SharePoint calendar as long as both SharePoint calendars are in the same site collection.</span></span> <span data-ttu-id="b5973-104">A capacidade de utilizar a sobreposição do calendário num calendário do SharePoint Online ou do SharePoint Server que é recuperado do Exchange Online não é suportada.</span><span class="sxs-lookup"><span data-stu-id="b5973-104">The ability to use the calendar overlay in a SharePoint Online or SharePoint Server calendar that is retrieved from Exchange Online isn't supported.</span></span>
+
+<span data-ttu-id="b5973-105">O SharePoint Online oferece uma experiência moderna com calendários de grupo microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="b5973-105">SharePoint Online offers a modern experience with Microsoft 365 group calendars.</span></span> <span data-ttu-id="b5973-106">Para saber mais, consulte [Use a parte web do calendário do grupo.](https://support.microsoft.com/en-us/office/use-the-group-calendar-web-part-eaf3c04d-5699-48cb-8b5e-3caa887d51ce)</span><span class="sxs-lookup"><span data-stu-id="b5973-106">To learn more, see [Use the Group calendar web part](https://support.microsoft.com/en-us/office/use-the-group-calendar-web-part-eaf3c04d-5699-48cb-8b5e-3caa887d51ce).</span></span>

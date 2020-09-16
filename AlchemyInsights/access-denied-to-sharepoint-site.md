@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,13 +13,13 @@ ms.custom:
 - "9000150"
 - "1666"
 - "1806"
-ms.openlocfilehash: 3ed1cb472ccb1d96dbc482c3ab1cbbcf7fbb87ef
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
-ms.translationtype: HT
+ms.openlocfilehash: 40ce9d572e87d19ebe62948169fd05e3d11f55c6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021580"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663561"
 ---
-# <a name="access-denied-to-sharepoint-site"></a><span data-ttu-id="f9198-102">Acesso negado ao site do Sharepoint</span><span class="sxs-lookup"><span data-stu-id="f9198-102">Access denied to Sharepoint site</span></span>
+# <a name="access-denied-to-sharepoint-site"></a><span data-ttu-id="dd40e-102">Acesso negado ao site do Sharepoint</span><span class="sxs-lookup"><span data-stu-id="dd40e-102">Access denied to Sharepoint site</span></span>
 
-<span data-ttu-id="f9198-103">Se estiver a receber mensagens de acesso negado ao tentar navegar para um site do Sharepoint Online, consulte [Acesso negado a um site do SharePoint](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-sharepoint-site).</span><span class="sxs-lookup"><span data-stu-id="f9198-103">If you are receiving an access denied message when attempting to browse to a Sharepoint Online site, please see [Access Denied to a SharePoint site](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-sharepoint-site).</span></span>
+<span data-ttu-id="dd40e-103">Se estiver a receber mensagens de acesso negado ao tentar navegar para um site do Sharepoint Online, consulte [Acesso negado a um site do SharePoint](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-sharepoint-site).</span><span class="sxs-lookup"><span data-stu-id="dd40e-103">If you are receiving an access denied message when attempting to browse to a Sharepoint Online site, please see [Access Denied to a SharePoint site](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-sharepoint-site).</span></span>

@@ -1,33 +1,34 @@
 ---
-title: Excluir permanentemente um e-mail no Outlook
+title: Eliminar permanentemente um e-mail no Outlook
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: d9b74b39c344559c87147d9f8efb6b6e6f8238b3
-ms.sourcegitcommit: e5e09d841fe397a6f841d617a9ae0a560d41a3f2
+ms.openlocfilehash: 85a9f244c44af7695f3bbea76ad62877172ea53e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42395739"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771696"
 ---
-# <a name="permanently-delete-an-email-in-outlook"></a>Excluir permanentemente um e-mail no Outlook
+# <a name="permanently-delete-an-email-in-outlook"></a>Eliminar permanentemente um e-mail no Outlook
 
-- A partir da vista da caixa de entrada, pressione uma mensagem com longa longevidade e verá o ícone do caixote do lixo. Toque neste ícone para apagar a mensagem.
+- A partir da vista da caixa de entrada, pressione uma mensagem longa e verá o ícone do caixote do lixo. Toque neste ícone para apagar a mensagem.
 
-- Também pode definir "eliminar" como uma opção de swipe **(Definições -> Opções de Swipe);** em seguida, use o dedo para passar o correio que pretende apagar. 
+- Também pode definir "excluir" como opção de swipe **(Definições -> Opções de swipe**); em seguida, use o dedo para passar no correio que pretende apagar. 
 
-- Para apagar uma mensagem de uma vista de e-mail aberta, toque no ícone do caixote do lixo na parte superior do ecrã. As mensagens apagadas serão transferidas para a sua pasta Lixo. 
+- Para eliminar uma mensagem a partir de uma vista de e-mail aberta, toque no ícone do caixote do lixo na parte superior do seu ecrã. As mensagens apagadas serão transferidas para a pasta Lixo. 
 
 **Para apagar permanentemente um e-mail**
 
 - Aceda à pasta do lixo a partir da vista do correio, toque no ícone da conta (3 linhas) e toque na pasta do lixo.
 
-- Eliminar e-mails individuais ou marcar vários e-mails e eliminá-los daqui; serão permanentemente eliminados.
+- Eliminar e-mails individuais ou marcar vários e-mails e eliminá-los a partir daqui; serão permanentemente eliminados.

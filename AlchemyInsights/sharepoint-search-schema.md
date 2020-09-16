@@ -1,36 +1,37 @@
 ---
-title: Gerenciar o esquema de pesquisa no SharePoint Online
+title: Gerir esquema de pesquisa no SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 9836cf139e97fc556995a8f0ad38c51c5c2392ac
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f2d8d3e07fe32d21af484e4c59e0f5ac6fe8081c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40042974"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770562"
 ---
-# <a name="manage-search-schema-in-sharepoint-online"></a>Gerenciar o esquema de pesquisa no SharePoint Online
+# <a name="manage-search-schema-in-sharepoint-online"></a>Gerir esquema de pesquisa no SharePoint Online
 
-O esquema de pesquisa controla o que os usuários podem pesquisar, como os usuários podem pesquisá-lo e como você pode apresentar os resultados em seus sites de pesquisa. 
+O esquema de pesquisa controla o que os utilizadores podem pesquisar, como os utilizadores podem pesquisar e como pode apresentar os resultados nos seus sites de pesquisa. 
 
-Veja gerenciar o esquema de [pesquisa no SharePoint Online](https://docs.microsoft.com/sharepoint/manage-search-schema) para saber como: 
-- Mude o esquema de busca.
-- Criar propriedades gerenciadas.
-- Mapa rastreado mapa rastreado propriedades para propriedades gerenciadas.
+Consulte [gerir o esquema de pesquisa no SharePoint Online](https://docs.microsoft.com/sharepoint/manage-search-schema) para aprender a: 
+- Mude o esquema de pesquisa.
+- Criar propriedades geridas.
+- Mapa rastejado de propriedades rastejadas para propriedades geridas.
 
-Observe o seguinte em relação à gestão do seu Esquema de Pesquisa:
+Note o seguinte no que diz respeito à gestão do seu Esquema de Pesquisa:
 
-- Se você receber um aviso afirmando **que o aplicativo é pausado** ao fazer uma alteração de esquema, isso é apenas temporário, pois há manutenção do serviço ocorrendo. 
+- Se receber um aviso indicando que **a aplicação é interrompida** ao fazer uma alteração de esquema, esta é apenas temporária, uma vez que existe manutenção de serviço. 
 
-    Se mais de 24 horas se passaram e você ainda experimentar o aviso, por favor, registrar um caso de suporte.
-- Quando você altera as propriedades gerenciadas ou adiciona novas, as alterações só afetam depois que o conteúdo foi re-rastreado. No SharePoint Online, o rastreamento acontece automaticamente com base no cronograma de rastreamento definido.
-- Para garantir que suas alterações sejam engacadas, você pode solicitar especificamente [uma reindexação da lista ou biblioteca](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
+    Se já passaram mais de 24 horas e ainda experimenta o aviso, por favor registe um caso de apoio.
+- Quando altera propriedades geridas ou adiciona novas, as alterações só têm efeito depois de o conteúdo ter sido re-rastejado. No SharePoint Online, o rastreio acontece automaticamente com base no horário definido de rastreio.
+- Para se certificar de que as suas alterações estão rastreadas, pode solicitar especificamente [uma re-indexação da lista ou biblioteca](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
 
-Para uma visão completa do Esquema de Pesquisa, [consulte a introdução do Esquema de Pesquisa](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
+Para uma visão geral completa do Esquema de Pesquisa, consulte [a introdução do esquema de pesquisa](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
 
 

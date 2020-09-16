@@ -1,39 +1,40 @@
 ---
-title: Instalar servidor de relatórios de BI da energia
+title: Instalar servidor de relatório de bi de energia
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 38ef162bd5c26328ee70af37df07adfbf2bfd93b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 3ea596547093773ab872ca34e8dd3a4e49e59fd7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752386"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755106"
 ---
-# <a name="install-power-bi-report-server"></a>Instalar servidor de relatórios de BI da energia
+# <a name="install-power-bi-report-server"></a>Instalar servidor de relatório de bi de energia
 
-1. Encontrar a localização de PowerBIReportServer.exe e iniciar o programa de instalação.
+1. Encontre a localização do PowerBIReportServer.exe e lance o instalador.
 
-2. Seleccione **instalar o servidor de relatórios de BI da energia**.
+2. Selecione **instalar o servidor de relatório de energia BI**.
 
-3. Escolha uma edição para instalar e, em seguida, seleccione **seguinte**.
+3. Escolha uma edição para instalar e, em seguida, selecione **Next**.
 
-4. Pode escolher a edição de avaliação ou programador de pendente para baixo.  Caso contrário, pode introduzir uma chave de produto para o servidor que tenha adquirido o serviço de BI de energia ou o Centro de serviço de licenciamento de Volume. Para mais informações sobre como obter o Consulte chave, do produto antes de iniciar secção. Ler e concordar com os termos de licenciamento e as condições e, em seguida, seleccione **seguinte**.
+4. Pode escolher a edição de Avaliação ou Developer a partir da entrega.  Caso contrário, pode introduzir uma chave de produto para o servidor que adquiriu no serviço Power BI ou no Centro de Serviço de Licença de Volume. Para obter mais informações sobre como obter a chave do produto, consulte a secção Antes de começar. Leia e concorde com os termos e condições da licença e, em seguida, selecione **Next**.
 
-5. É necessário ter um motor de base de dados disponíveis para armazenar a base de dados do servidor de relatório. Seleccione **seguinte** para instalar apenas o servidor de relatório.
+5. Precisa de ter um Motor de Base de Dados disponível para armazenar a base de dados do servidor de relatórios. Selecione **Seguinte** para instalar apenas o servidor de relatório.
 
-6. Especifique a localização de instalação para o servidor de relatório. Seleccione **instalar** para continuar.
+6. Especifique a localização de instalação para o servidor de relatórios. **Selecione Instalar** para continuar.
 
-7. Depois de uma configuração com êxito, seleccione **Configurar servidor de relatórios** para iniciar o Gestor de configuração de serviços de relatório.
+7. Após uma configuração bem sucedida, selecione **o Configure Report Server** para lançar o Gestor de Configuração de Serviços de Relato.
 
-Não necessita de um servidor de motor de base de dados do SQL Server disponível no momento da instalação. Terá uma para configurar serviços de relatório após a instalação.
+Não precisa de um servidor de base de dados de base de dados SQL disponível no momento da instalação. Necessitará de um para configurar os Serviços de Relato após a instalação.
 
-Para mais informações:https://docs.microsoft.com/power-bi/report-server/install-report-server
+Para mais informações: https://docs.microsoft.com/power-bi/report-server/install-report-server

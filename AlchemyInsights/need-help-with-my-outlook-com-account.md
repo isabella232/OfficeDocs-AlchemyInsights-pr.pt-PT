@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: 73a386d338b880c808ec9f620e07b23badf1285f
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: 46fe8d21b725083b733fdd9cc0a77b2962ff7c62
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288294"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803292"
 ---
 # <a name="need-help-with-my-outlookcom-account"></a>Preciso de ajuda com a minha conta Outlook.com
 
-Se precisa de ajuda com o serviço de Outlook.com, temos ajuda dedicada para ajudá-lo. Para obter suporte diretamente na aplicação web: 
+Se precisar de ajuda com o serviço Outlook.com, temos ajuda dedicada para o ajudar. Para obter suporte diretamente na aplicação web: 
 
-1. Clique no? ícone na parte superior direita do ecrã. 
+1. Clicar no ? ícone no topo direito do ecrã. 
 
-2. Digite o que precisa de assistência na caixa de ajuda exibida no painel pop up e clique em **submeter**. 
+2. Digite o que necessitar de assistência na caixa de ajuda exibida no painel pop-up e clique em **submeter**. 
 
-3. Se não for apresentada uma solução, por favor, desloque-se para o painel lateral e clique em **e-mail para nós**.
+3. Se não for apresentada uma solução, desloque-se para baixo do painel lateral e clique em **enviar-nos um e-mail**.

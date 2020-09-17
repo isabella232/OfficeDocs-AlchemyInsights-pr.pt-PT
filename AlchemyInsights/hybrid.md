@@ -5,19 +5,20 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1555"
 - "9000080"
-ms.openlocfilehash: 94edbc3eb9bfa42367566792f231eab464d6d63f
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: e89485096fdf0eb4f2b116d367616efe9e854a55
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771010"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778990"
 ---
 # <a name="hybrid-mdm"></a>MDM híbrido
 
-Para saber mais sobre o MDM híbrido com o Microsoft Endpoint Configuration Manager e o Microsoft Intune, consulte [OM híbrido configurar com o Gestor](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm)de Configuração e o Microsoft Intune .
+Para saber sobre o MDM híbrido com o Microsoft Endpoint Configuration Manager e o Microsoft Intune, consulte [Configurar MDM híbrido com o Gestor de Configuração e o Microsoft Intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm).

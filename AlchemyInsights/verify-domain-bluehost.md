@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 09164223d31584e0127e87a9a158d1b5932faca8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5b4b6fdfa90d0ddf9dec28276f406801feb114aa
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689461"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816300"
 ---
 # <a name="verify-your-domain-with-bluehost"></a>Verifique o seu domínio com bluehost
 
 Para verificar o seu domínio, terá de adicionar um registo TXT ao seu registo de domínio para verificar se é dono do seu domínio. 
 
-Primeiro, siga o [assistente de "Adicionar o Domínio](https://portal.office.com/adminportal/home#/Domains) selecionando **Domínios de Definições"** \> **Domains**e, em seguida, adicione **o domínio**.
+Primeiro, siga o [assistente de "Adicionar o Domínio](https://admin.microsoft.com/Adminportal#/Domains) selecionando **Domínios de Definições"** \> **Domains**e, em seguida, adicione **o domínio**.
   
 Consulte [os registos DNS da Bluehost para obter](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost) instruções passo a passo.

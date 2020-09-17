@@ -1,27 +1,28 @@
 ---
-title: Sua autoridade de MDM não está definida
+title: Sua autoridade MDM não está definida
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 1cb463e0300e432c2a06fa392b3d2b6e45b2d18e
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37638224"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796299"
 ---
-# <a name="your-mdm-authority-is-not-set"></a>Sua autoridade de MDM não está definida
+# <a name="your-mdm-authority-is-not-set"></a>Sua autoridade MDM não está definida
 
-A autoridade de gerenciamento de dispositivo móvel (MDM) deste locatário não está definida. Você deve definir uma autoridade de MDM antes de inscrever e gerenciar dispositivos por meio do Intune MDM. Sem definir a autoridade de MDM, você não poderá usar os recursos de MDM do Intune. A configuração de autoridade MDM determina como você gerencia seus dispositivos.
+A autoridade de gestão de dispositivos móveis (MDM) deste inquilino não está definida. Deve definir uma autoridade de MDM antes de inscrever e gerir dispositivos através do Intune MDM. Sem definir a autoridade MDM, não poderá utilizar as funcionalidades de MDM do Intune. A definição da autoridade DOM determina como gere os seus dispositivos.
 
-Etapas recomendadas:
-1. Navegue até a folha visão geral de registro do Intune para definir a autoridade de MDM.
-2. Escolha a autoridade apropriada com base em suas necessidades administrativas. Para obter mais informações, consulte [definir o artigo da autoridade de gerenciamento de dispositivos móveis](https://docs.microsoft.com/intune/mdm-authority-set).
+Passos recomendados:
+1. Navegue até à lâmina de visão geral de inscrição intune para definir a autoridade DOM.
+2. Escolha a autoridade adequada com base nas suas necessidades administrativas. Para obter mais informações, consulte [Definir o artigo da autoridade de gestão de dispositivos móveis](https://docs.microsoft.com/intune/mdm-authority-set).

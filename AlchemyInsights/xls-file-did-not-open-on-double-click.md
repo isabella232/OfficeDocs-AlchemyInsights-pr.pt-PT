@@ -1,49 +1,50 @@
 ---
-title: Xls arquivo não abriu em dupla clicação
+title: O ficheiro XLS não abriu em duplo clique
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530758"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796335"
 ---
-# <a name="excel-file-doesnt-open"></a>O arquivo Excel não abre
+# <a name="excel-file-doesnt-open"></a>O ficheiro Excel não abre
 
-Tente uma dessas sugestões:
+Experimente uma destas sugestões:
 
-**Escolha o Excel como padrão**
+**Escolha o Excel como o padrão**
 
-* Clique direito na planilha, escolha **o Open e,** em seguida, escolha **o Excel**
+* Clique com o botão direito na folha de cálculo, escolha **Abrir com,** e depois escolha **Excel**
 
-**Executar um reparo rápido**
+**Executar uma reparação rápida**
 
-1. Ir ao **Painel de Controle > Programas > Programas e Recursos.**
+1. Vá ao **Painel de Controlo > Programas > Programas e Funcionalidades**.
 
-2. Selecione o produto Office que deseja reparar e, em seguida, escolha **a Mudança.**
+2. Selecione o produto Office que pretende reparar e, em seguida, escolha **Alterar**.
 
-3. Escolha a opção **de reparo rápido** e, em seguida, escolha **reparação.**
+3. Escolha a opção **De Reparação Rápida** e, em seguida, escolha **Reparação**.
 
-**Desinstale versões do Office que você não usa**
+**Desinstalar versões do Office que não utiliza**
 
-1. Vá ao Painel de **Controle > desinstalar um Programa**e, em seguida, selecione a versão do Office que deseja remover.
+1. Vá ao **Painel de Controlo > Desinstale um Programa**e, em seguida, selecione a versão do Office que pretende remover.
 
-2. Clique **em desinstalar.**
+2. Clique **em Desinstalar**.
 
-3. Reiniciar o computador.
+3. Reinicie o computador.
 
-**Executar este solucionado de problemas para definir extensões de arquivo office para abrir no Office**
+**Executar este resolução de problemas para definir extensões de ficheiros do Office para abrir no Office**
 
-1. Executar este solucionado de problemas: https://aka.ms/diag_officefile.
+1. Gere este problema: https://aka.ms/diag_officefile .
 
-2. Dependendo do seu navegador, **abra** ou **salve** o solucionador de problemas para o seu desktop e, em seguida, **execute-o.**
+2. Dependendo do seu navegador, **abra** ou **guarde** o resolução de problemas para o seu ambiente de trabalho e, em seguida, execute-o. **Run**

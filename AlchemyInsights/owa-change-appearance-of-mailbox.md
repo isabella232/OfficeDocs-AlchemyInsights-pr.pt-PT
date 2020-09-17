@@ -1,28 +1,29 @@
 ---
-title: Altere o visual da sua caixa de correio no Outlook na web
+title: Mude o visual da sua caixa de correio no Outlook na web
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: b8e5347285577a8d45cb4f3e5698cfd630d7ea7b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4e4c07296c1d4ae579757ad49f7ad8325ec45f57
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743140"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795975"
 ---
-# <a name="change-the-look-of-your-outlook-mailbox"></a><span data-ttu-id="8abae-102">Altere o visual da sua caixa de correio Outlook</span><span class="sxs-lookup"><span data-stu-id="8abae-102">Change the look of your Outlook mailbox</span></span>
+# <a name="change-the-look-of-your-outlook-mailbox"></a><span data-ttu-id="cef83-102">Mude o aspeto da sua caixa de correio do Outlook</span><span class="sxs-lookup"><span data-stu-id="cef83-102">Change the look of your Outlook mailbox</span></span>
 
-<span data-ttu-id="8abae-103">Pode alterar a aparência da lista de mensagens e ler o painel para que pareça e compor-se da forma que quiser.</span><span class="sxs-lookup"><span data-stu-id="8abae-103">You can change the appearance of the message list and reading pane so it looks and behaves the way you want.</span></span> <span data-ttu-id="8abae-104">Escolha se as suas mensagens devem ser exibidas individualmente ou como conversas, se novas mensagens devem aparecer na parte superior ou inferior da lista de mensagens, e muito mais.</span><span class="sxs-lookup"><span data-stu-id="8abae-104">Choose whether your messages should be displayed individually or as conversations, if new messages should appear at the top or bottom of the message list, and more.</span></span>
+<span data-ttu-id="cef83-103">Pode alterar a aparência da lista de mensagens e ler o painel para que pareça e se comporte da forma que quiser.</span><span class="sxs-lookup"><span data-stu-id="cef83-103">You can change the appearance of the message list and reading pane so it looks and behaves the way you want.</span></span> <span data-ttu-id="cef83-104">Escolha se as suas mensagens devem ser exibidas individualmente ou como conversas, se novas mensagens devem aparecer na parte superior ou inferior da lista de mensagens, e muito mais.</span><span class="sxs-lookup"><span data-stu-id="cef83-104">Choose whether your messages should be displayed individually or as conversations, if new messages should appear at the top or bottom of the message list, and more.</span></span>
 
-1. <span data-ttu-id="8abae-105">Selecione o ícone da engrenagem</span><span class="sxs-lookup"><span data-stu-id="8abae-105">Select the gear icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- <span data-ttu-id="8abae-106">no topo da página para abrir o painel Definições.</span><span class="sxs-lookup"><span data-stu-id="8abae-106">at the top of the page to open the Settings pane.</span></span>
-1. <span data-ttu-id="8abae-107">Escolha as definições para Caixa de Entrada Focada, densidade de visualização, visualização de conversação e painel de leitura.</span><span class="sxs-lookup"><span data-stu-id="8abae-107">Choose your settings for Focused Inbox, display density, conversation view, and reading pane.</span></span>
-1. <span data-ttu-id="8abae-108">No topo da lista de mensagens, selecione **Filter** > **Sort para** escolher como pretende classificar o seu e-mail.</span><span class="sxs-lookup"><span data-stu-id="8abae-108">At the top of the message list, select **Filter** > **Sort by** to choose how you want to sort your email.</span></span>
+1. <span data-ttu-id="cef83-105">Selecione o ícone de engrenagem</span><span class="sxs-lookup"><span data-stu-id="cef83-105">Select the gear icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="cef83-106">no topo da página para abrir o painel de Definições.</span><span class="sxs-lookup"><span data-stu-id="cef83-106">at the top of the page to open the Settings pane.</span></span>
+1. <span data-ttu-id="cef83-107">Escolha as definições para Inbox focada, densidade de exibição, vista de conversação e painel de leitura.</span><span class="sxs-lookup"><span data-stu-id="cef83-107">Choose your settings for Focused Inbox, display density, conversation view, and reading pane.</span></span>
+1. <span data-ttu-id="cef83-108">No topo da lista de mensagens, selecione **Filter**  >  **Sort para** escolher como pretende classificar o seu e-mail.</span><span class="sxs-lookup"><span data-stu-id="cef83-108">At the top of the message list, select **Filter** > **Sort by** to choose how you want to sort your email.</span></span>
 
-<span data-ttu-id="8abae-109">Para saber mais, consulte [Alterar o visual da sua caixa de correio](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).</span><span class="sxs-lookup"><span data-stu-id="8abae-109">To learn more, see [Change the look of your mailbox](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).</span></span>
+<span data-ttu-id="cef83-109">Para saber mais, consulte [Alterar o aspeto da sua caixa de correio.](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c)</span><span class="sxs-lookup"><span data-stu-id="cef83-109">To learn more, see [Change the look of your mailbox](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).</span></span>

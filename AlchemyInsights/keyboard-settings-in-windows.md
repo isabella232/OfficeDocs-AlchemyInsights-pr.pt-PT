@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 0359163206ef9ddf0bac7b0ee4b44ed3a016f918
-ms.sourcegitcommit: 4c64a8974c87fa69babaf920b0895f0c17c2d346
+ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42415374"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772814"
 ---
 # <a name="keyboard-settings-in-windows-10"></a>Definições de teclado no Windows 10
 
 **Definições de tipo**
 
-Para alterar as definições do Windows relacionadas com a verificação de feitiços, correção automática, sugestões e outros aspetos do seu teclado de hardware e toque, vá a **Definições > Dispositivos > Digitação**. 
+Para alterar as definições do Windows relacionadas com a verificação ortográfica, correção automática, sugestões e outros aspetos do seu hardware e teclado de toque, vá a **Definições > Dispositivos > dactificagem**. 
 
 **Definições de idioma e teclado**
 
-Para alterar as definições relacionadas com o método de utilização do teclado ou da entrada para uma linguagem Windows, vá às **Definições > Hora & linguagem > Idioma**. Selecione idiomas na lista de **idiomas preferenciais** e clique em **Opções** para adicionar/remover teclados ou métodos de entrada (IMEs).
+Para alterar as definições relacionadas com o teclado ou método de entrada a utilizar para um idioma Windows, aceda a **Definições > Tempo & idioma > idioma**. Selecione os idiomas na lista **de línguas preferenciais** e clique em **Opções** para adicionar/remover teclados ou métodos de entrada (IMEs).

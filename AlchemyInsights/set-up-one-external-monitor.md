@@ -1,30 +1,31 @@
 ---
-title: Configure um monitor externo
+title: Configurar um monitor externo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: b9ec34f420092d5ca46137739a848cf413253a6b
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738404"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773921"
 ---
-# <a name="set-up-one-monitor"></a>Configure um monitor
+# <a name="set-up-one-monitor"></a>Configurar um monitor
 
-**Confira as configurações do projeto do seu PC**
+**Verifique as definições de projeto do seu PC**
 
-1. Abra as configurações do seu projeto pressionando as seguintes teclas ao mesmo tempo: chave do Windows (botão iniciar o logotipo do Windows) + P.
-2. Escolha **duplicado,** **estender,** ou **segunda tela somente,** dependendo de suas preferências.
+1. Abra as definições do projeto premindo simultaneos as seguintes teclas: Tecla Windows (botão Iniciar o logótipo do Windows) + P.
+2. Escolha **duplicado,** **apenas o ecrã ,** ou **segundo,** dependendo das suas preferências.
 
-**Nota:** Se o seu PC tiver apenas uma porta de exibição (como HDMI ou VGA), você precisará de uma estação de encaixe ou de um adaptador USB para configurar vários monitores.
+**Nota:** Se o seu PC tiver apenas uma porta de exibição (como HDMI ou VGA), necessitará de uma estação de ancoragem ou de um adaptador USB para configurar vários monitores.
 
-Além disso, se você pode configurar um monitor, mas não múltiplo, seu PC pode não ser compatível com vários monitores. Verifique os documentos originais do seu PC para obter mais informações.
+Além disso, se conseguir configurar um monitor mas não múltiplos, o seu PC pode não ser compatível com vários monitores. Consulte os documentos originais do seu PC para obter mais informações.

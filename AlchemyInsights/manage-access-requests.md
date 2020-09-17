@@ -6,17 +6,18 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 975609294a4fd564c99594269bb4c348ad1d4191
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 690935623685712959c6544752c5df06f7d9da01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579732"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778330"
 ---
 # <a name="manage-access-requests"></a>Gerir pedidos de acesso
 
@@ -28,7 +29,7 @@ Quando um utilizador tenta aceder a um item no SharePoint e não tem permissão,
     
 3. Para dar permissão ao utilizador individualmente, clique em **Aprovar** ou **Recusar**. Para selecionar um nível de permissão específico, clique primeiro na elipse (...) ao lado do nome da pessoa. Em alternativa, adicione o utilizador a um grupo que tenha permissão para o site. Para sites de comunicação e sites de equipas clássicos, pode fazê-lo na página De Definições do Site. Para sites pertencentes a um grupo Microsoft 365, pode adicionar o utilizador ao grupo.
     
-    [Gerir pedidos de acesso](https://go.microsoft.com/fwlink/?linkid=2008747)
+    [Gerir pedidos de acesso ](https://go.microsoft.com/fwlink/?linkid=2008747)
     
     [Mais informações sobre os níveis de permissão](https://go.microsoft.com/fwlink/?linkid=867071)
     

@@ -1,11 +1,12 @@
 ---
-title: Microsoft 365 para organizações sem fins lucrativos - em análise
+title: Microsoft 365 para sem fins lucrativos - sob revisão
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: e101cc34f28eee2abeae55e0cb5abc078f78bf41
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005233"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779746"
 ---
-# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 para organizações sem fins lucrativos - em análise
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 para sem fins lucrativos - sob revisão
 
-A sua elegibilidade como Organização Sem Fins Lucrativos Qualificada da Microsoft está **a ser analisada.** Pode esperar receber uma notificação sobre a determinação da sua elegibilidade **a 48 horas** do seu tempo de submissão. Por favor, permita pelo menos **48 horas** para receber esta notificação antes de abrir um pedido de serviço. 
+A sua elegibilidade como Organização Sem Fins Lucrativos Da Microsoft está **a ser analisada.** Receberá uma notificação sobre a determinação da sua elegibilidade dentro de **48 horas** a partir do momento da sua submissão. Aguarde, no mínimo, **48 horas** para receber esta notificação antes de iniciar um pedido de serviço. 
 
-Para mais informações, consulte o [Microsoft 365 para sem fins lucrativos.](https://www.microsoft.com/nonprofits/microsoft-365) 
+Para mais informações, consulte [a Microsoft 365 para Sem Fins Lucrativos.](https://www.microsoft.com/nonprofits/microsoft-365) 

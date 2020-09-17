@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: eee6e4a4494e259050f40173d66c2747b68a1608
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ef035f1e75756342cce48de7d00adfee7c74caf0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509107"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779566"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Como reativar e gerir faturação recorrente
 
@@ -26,7 +27,7 @@ Parece que tem uma assinatura que expirou. Se quiser reativá-lo, eis como.
   
 1. No centro de administração, vá à página **de Faturação** \> **[dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
-2. Localize a subscrição que pretende reativar. Na secção **de Faturação,** selecione **Reativar**.
+2. Localize a subscrição que pretende reativar. Na secção **de Faturação,** selecione  **Reativar**.
 
     Se não vir **reativar** como opção, utilize o botão "Need help" para falar com um engenheiro de suporte para reativar a sua subscrição.
 

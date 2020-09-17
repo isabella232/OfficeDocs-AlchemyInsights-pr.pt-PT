@@ -1,27 +1,28 @@
 ---
-title: Como posso limpar o cache ou redefinir localmente / atualizar o cliente / aplicativo?
+title: Como limpar a cache ou repor localmente/refrescar o cliente/app?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3060"
 - "9001099"
-ms.openlocfilehash: e6ec9d321c4ec09661bfc712084f920dc8c6054d
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: ef56e513ca04f8b51390d565c18aabd7908c2f7f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627693"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780286"
 ---
-# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Como posso limpar o cache ou redefinir localmente / atualizar o cliente / aplicativo?
+# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Como limpar a cache ou repor localmente/refrescar o cliente/app?
 
-Se você estiver vendo dados incompletos ou incorretos, tente forçar o fechamento e reabrir o aplicativo.  
+Se estiver a ver dados incompletos ou incorretos, tente forçar o fecho e reabrir a aplicação.  
 
-Se isso não funcionar, você pode tentar redefinir a conta no dispositivo.
+Se isso não funcionar, pode tentar redefinir a conta no dispositivo.
  
-Abra o aplicativo, acesse **configurações,** selecione a conta de e-mail e escolha **a conta de redefinição.**
+Abra a aplicação, vá a **Definições,** selecione a conta de e-mail e escolha **a Conta Reset.**

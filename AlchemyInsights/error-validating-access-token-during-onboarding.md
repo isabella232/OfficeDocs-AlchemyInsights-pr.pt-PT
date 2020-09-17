@@ -1,25 +1,26 @@
 ---
-title: Houve um erro validando o erro de acesso ao token durante a internação da Desktop Analytics
+title: Houve um erro a validar o erro do token de acesso durante o desktop Analytics no embarque
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2536"
 - "9000657"
-ms.openlocfilehash: 7472af5c4e19e5697b5fb4802ed1cbb2c74f1d19
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 45c6fb1a1632799a07c028c0791b6b8e77635293
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741244"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783562"
 ---
-# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>"Houve um erro validando o erro de acesso ao token" durante a integração da Desktop Analytics
+# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>"Houve um erro a validar o erro do token de acesso" durante o desktop Analytics no embarque
 
-Esse erro é normalmente observado quando o token de autenticação expira. Normalmente, atualizar a página atualiza o token. No entanto, esse problema pode persistir se houver políticas de acesso condicional aplicadas à conta que está sendo usada na Desktop Analytics a bordo. Você pode revisar o AD Azure Sign In em logs no Portal Azure para ver se há alguma falha de login para a conta que está sendo usada para integração de Desktop Analytics.
+Este erro é normalmente observado quando o token de autenticação expira. Normalmente, refrescar a página refresca o símbolo. No entanto, este problema pode persistir se existirem algumas políticas de Acesso Condicional aplicadas à conta que está a ser utilizada para o Desktop Analytics a bordo. Pode rever o sinal AZure AD In registos no Portal Azure para ver se existem falhas de login na conta que estão a ser utilizadas para desktop Analytics.
 
-Para obter mais informações sobre acesso condicional, visite o plano de sua implantação de [acesso condicional.](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access)
+Para mais informações sobre o Acesso Condicionado, visite [Plan a sua implementação de Acesso Condicional.](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access)

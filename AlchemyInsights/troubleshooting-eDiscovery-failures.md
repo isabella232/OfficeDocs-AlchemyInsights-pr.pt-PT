@@ -14,12 +14,12 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 6e04773d9c0a5f30b613221ad59fe77096ae39a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658961"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277845"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Resolução de problemas Erros de pesquisa de conteúdo
 
@@ -36,3 +36,5 @@ Por exemplo, está a receber o seguinte ao fazer pesquisas?
 Ou quando pesquisar ou exportar resulta de um grande número de caixas de correio (mais de 100.000 caixas de correio), está a obter erros de exportação?
 
 Para este tipo de erros, recandiduça a procura das localizações de conteúdo que falharam. Consulte  [este artigo](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) para mais informações.
+
+Se estiver a exportar mais de 100mil caixas de correio, terá de utilizar o seguinte Powershell para descarregar os resultados [da Exportação: Exportar resultados de mais de 100mil caixas de correio.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)

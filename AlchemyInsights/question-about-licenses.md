@@ -2,7 +2,7 @@
 title: Pergunta sobre licenças
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,18 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ff02e0beb7a15053961e860bfa1bf5a66d9eeaaf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5dcc770bb8ce91c732171030431740ed387044c
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812630"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287077"
 ---
 # <a name="questions-about-your-microsoft-365-license"></a>Perguntas sobre a sua licença Microsoft 365
 
-Se quiser saber quantas licenças adquiriu ou quantas licenças são atribuídas a partir de uma subscrição:
+Use estes passos para saber quantas licenças comprou ou quantas licenças são atribuídas a partir de uma subscrição.
   
-1. No centro de administração, vá à página **de Faturação** \> **[dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. No centro de administração, vá à página **de Faturação** \> [dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. No separador **Produtos,** encontre a subscrição que deseja saber mais sobre. Pode ver o número de licenças que está a pagar e quantas estão atualmente atribuídas.
 
-2. Encontre a subscrição sobre a qual deseja saber mais. Pode ver o número de licenças que está a pagar e quantas estão disponíveis para serem atribuídas.
-
-Se quiser adicionar mais licenças, ou se tiver demasiadas, escolha **licenças Add/Remove** para ajustar o valor adquirido.
+Se quiser adicionar mais licenças, ou se tiver muitas, selecione a subscrição. Na página de dados de subscrição, selecione **licenças de compra** ou **remoção de licenças** para ajustar o número total de licenças para a subscrição.

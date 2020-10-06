@@ -8,34 +8,38 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 6083fc427e3791fdb0907198b525337a0c987c4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.custom:
+- "9003769"
+- "6702"
+ms.openlocfilehash: 0687875a3714067e774872d02630564858d71d1b
+ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702914"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48366439"
 ---
 # <a name="monitoring-conditional-access-for-exchange"></a>Monitorização do Acesso Condicional para Troca
 
 Os utilizadores direcionados com acesso condicional receberão um e-mail de notificação se não cumprirem os requisitos de acesso da sua organização. Para resolver, recomendamos uma ou mais das seguintes soluções:
-  
-- Caso se presuma que o dispositivo esteja matriculado, aconselhe o utilizador a recorrer à aplicação Portal da Empresa e verificar se aparece no Portal da Empresa. Se não o fizer, o utilizador deverá inscrever o dispositivo.
-    
-- No portal Azure aceda à ** \> conformidade do Dispositivo Intune**. No **Monitor** clique **na conformidade do dispositivo**. Consulte o relatório de conformidade do dispositivo para verificar se o dispositivo do utilizador está marcado como conforme. 
-    
-- No portal Azure aceda à ** \> conformidade do Dispositivo Intune**. Em **Gestão**, clique em **Políticas**. Na lista de políticas de conformidade, verifique se um perfil é atribuído ao dispositivo do seu utilizador. Se não for atribuído nenhum perfil, o Intune não poderá confirmar o estado de conformidade do dispositivo. 
-    
-- Editar a atribuição de acesso condicional do utilizador.
-    
-1. No portal Azure vai para Políticas de ** \> Acesso Condicionado \> Intune**
-    
-2. Selecione uma política da lista
-    
-3. Clique em **Utilizadores e grupos**
-    
-4. Para direcionar uma determinada política a alguém, adicione-a à lista **de incluir.** Para garantir que uma pessoa é omitida da apólice, adicione-a à lista **de exclusão.** 
-    
-Leia mais: [Como monitorizar dispositivos de acesso condicional](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
-  
 
+- Caso se presuma que o dispositivo esteja matriculado, aconselhe o utilizador a recorrer à aplicação Portal da Empresa e verificar se aparece no Portal da Empresa. Se não o fizer, o utilizador deverá inscrever o dispositivo.
+- No portal Azure vai para a conformidade do Dispositivo Intune >. No Monitor clique na conformidade do dispositivo. Consulte o relatório de conformidade do dispositivo para verificar se o dispositivo do utilizador está marcado como conforme.
+- No portal Azure vai para a conformidade do Dispositivo Intune >. Em Gestão, clique em Políticas. Na lista de políticas de conformidade, verifique se um perfil é atribuído ao dispositivo do seu utilizador. Se não for atribuído nenhum perfil, o Intune não poderá confirmar o estado de conformidade do dispositivo.
+- Editar a atribuição de acesso condicional do utilizador.
+
+1. No portal Azure aceda às Políticas de Acesso Condicionado **Intune**  >  **Conditional access**  >  **Policies**.
+2. Selecione uma política da lista.
+3. Clique em Utilizadores e grupos.
+4. Para direcionar uma determinada política a alguém, adicione-a à lista de incluir. Para garantir que uma pessoa é omitida da apólice, adicione-a à lista de exclusão.
+
+Links úteis:
+
+[Visão geral da conformidade do dispositivo](https://docs.microsoft.com/intune/device-compliance-get-started)
+
+[Resolução de problemas CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+
+[Política de resolução de problemas](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+
+[Monitorização da conformidade do dispositivo Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+
+Nota: estes passos só são úteis para resolver problemas na resolução do Azure Ative Directory recurso Acesso Condicional. Também é possível colocar em quarentena um dispositivo que bloqueia o seu acesso por e-mail com a política de Troca. Mais informações sobre a gestão do dispositivo Exchange podem ser [encontradas aqui.](<https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141>)

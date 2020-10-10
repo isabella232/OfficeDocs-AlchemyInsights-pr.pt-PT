@@ -1,8 +1,8 @@
 ---
 title: Subscrição por defeito de renovação
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 038c8f55ced056254d3d9fb882dc842e66941263
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a3cb1d3600e347af88e422c2c125c096a5d805
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745870"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416633"
 ---
 # <a name="renewing-your-subscription"></a>Renovar a sua subscrição
 
@@ -25,8 +25,10 @@ Se pagar com cartão de crédito ou conta bancária, a faturação recorrente é
 
 Se pré-pagar a sua subscrição com uma chave de produto, a sua subscrição expirará no final do prazo de subscrição. Pode ligar a faturação recorrente e fornecer informações sobre cartão de crédito ou conta bancária para que a sua subscrição continue a ser cobrada todos os anos no dia em que se inscreveu.
 
-Para ligar a faturação recorrente: 
+Para ligar a faturação recorrente:
 
-1. Vá a **Faturar**  >  **[Os seus produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
-2. Escolha a subscrição para a qual pretende gerir a faturação recorrente.
-3. Em **Billing,** **selecione Editar** e faça as suas alterações na janela **de definições de faturação recorrente.** 
+1. No centro de administração, vá à página **de Faturação**  >  [dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. No separador **Produtos,** selecione a subscrição que pretende alterar.
+3. Na página de detalhes da subscrição, nas **definições de Subscrição e pagamento,** selecione **Editar faturação recorrente**.
+4. No painel **de definições de faturação recorrentes da Edição,** selecione **On**, **On, but renew once**, or **Desative**.
+5. Seleccione **Guardar**. 

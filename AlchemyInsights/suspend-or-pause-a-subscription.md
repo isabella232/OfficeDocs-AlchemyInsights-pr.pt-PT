@@ -1,8 +1,8 @@
 ---
 title: Suspender ou interromper uma subscrição
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-ms.openlocfilehash: f04c1a88a0c21d164fb687af1ecd2546a89601f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 716f48793826e813796ec8c62baaf8d252ae4362
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800151"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488964"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Suspender ou interromper uma subscrição
 
-Para suspender ou interromper a subscrição temporariamente, pode cancelar a subscrição do **centro de administração Microsoft 365**.
+Para suspender ou interromper a subscrição temporariamente, pode cancelar a subscrição no centro de administração Microsoft 365.
 
-1. Vá ao **Billing > [os seus produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. No centro de administração, vá à página **de Faturação**  >  [dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. No separador **Produtos,** encontre a subscrição que pretende cancelar. Selecione **Mais ações** (três pontos) e, em seguida, selecione **Cancelar a subscrição**.
+3. O estado de subscrição apresenta-se como **Desativado** e mostra a data em que a subscrição foi cancelada. A subscrição permanece em estado de desativação durante 90 dias, e tem uma funcionalidade reduzida até ser eliminada ou [reativada](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
-2. Encontre a subscrição que pretende cancelar e em **Definições & Ações,** clique em **Cancelar a subscrição**.
-
-3. A sua subscrição aparecerá agora num estado desativado durante 90 dias e terá uma funcionalidade reduzida até ser eliminada ou [reativada.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription?view=o365-worldwide)
-
-Para mais informações, consulte [o que acontece quando cancela uma subscrição](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide#what-happens-when-you-cancel-a-subscription) e [guarde os seus dados.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+Para mais informações, consulte [o que acontece quando cancela uma subscrição](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) e [guarde os seus dados.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)

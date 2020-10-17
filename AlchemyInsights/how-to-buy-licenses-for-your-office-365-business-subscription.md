@@ -2,8 +2,8 @@
 title: Como comprar licenças para as suas Apps Microsoft 365 para subscrição de negócios
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,21 +13,20 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 4339c735097ea1f4b277572b65baa112cc35a087
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27b9f659c97cea3c2eaa01b5a6b8facd5b255f8f
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781114"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488892"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Como comprar licenças para as suas Apps Microsoft 365 para subscrição de negócios
 
-Ao atribuir licenças aos seus utilizadores, poderá descobrir que tem a necessidade de comprar licenças adicionais. Para fazer isto:
+Ao atribuir licenças aos seus utilizadores, poderá descobrir que precisa de comprar licenças adicionais. Utilize os seguintes passos:
   
-1. No centro de administração, vá à página **de Faturação** \> **[dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. No centro de administração, vá à página **de Faturação**  >  [dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. No separador **Produtos,** encontre a subscrição que pretende atualizar. Selecione **Mais ações** (três pontos) e, em seguida, selecione **Licenças de Compra**.
+3. No painel **de licenças Buy,** sob **Nova quantidade** na caixa **de licenças Total, insira** o número total de licenças que deseja para esta subscrição. Por exemplo, se tiver 100 licenças e quiser adicionar mais 25, insira 125.
+4. Seleccione **Guardar**.
 
-2. Encontre a subscrição à qual pretende adicionar licenças e, em seguida, selecione **licenças Add/Remove**.
-
-3. Na caixa total de **licenças, insira** o número total de licenças que necessita para esta subscrição e, em seguida, **selecione Alterar por submissão.** Por exemplo, se tiver 100 licenças e precisar de adicionar mais 5, introduza 105.
-
-Para saber mais, consulte [as licenças de compra para as suas Aplicações Microsoft 365 para subscrição de negócios.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+Para saber mais, consulte [as licenças de compra para o microsoft 365 para subscrição de negócios.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

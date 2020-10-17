@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: c0d9ed14f83d3c7d47e1728d5ed9ca3a19412ad2
-ms.sourcegitcommit: f74c9698a31634154ce58dda8b3145bb10685ace
+ms.openlocfilehash: 2f3528375d251542fd82761d00c776706de2e23c
+ms.sourcegitcommit: f7b82f75a5400e992ecbd48a666783354e2e2871
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48219866"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "48473112"
 ---
 # <a name="blocking-or-unblocking-email-forwarding"></a>Bloquear ou desbloquear o reencaminhamento de e-mails
 
 Para ativar ou desativar o reencaminhamento de e-mails para uma caixa de correio específica, consulte o [reencaminhamento de e-mail Configure](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-Ao nível dos inquilinos, o controlo do reencaminhamento externo é feito utilizando a política anti-correio publicitário não-correio eletrónico de saída. Se estiver definido para Off ou Automatic, poderá bloquear o reencaminhamento de e-mails com o erro de "Acesso 550 5.7.520 negado, a sua organização não permite o encaminhamento externo". Posteriormente, se o encaminhamento foi definido para ser bloqueado, este é o erro que os seus utilizadores verão.
+Ao nível dos inquilinos, o controlo do encaminhamento externo é feito utilizando a política de spam de saída. Pode consultar a política de filtro de spam de saída do Security and Compliance Center [aqui] ( https://protection.office.com/antispam) ou utilizando o comando [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
 
-Se o encaminhamento estiver bloqueado, certifique-se de que a política está configurada para ativar o autoforário externo. Pode consultar a Política de Filtro de Spam de Saída do Centro de Segurança e Conformidade ou executando o comando Get-HostedOutboundSpamFilterPolicy / nome fl,AutoForwardingMode. Se quiser configurar o bloqueio auto-forward, o mesmo comando dir-lhe-á agora o estado da política.
+Se estiver a obter o seguinte erro: **"550 5.7.520 Acesso negado, a sua organização não permite o encaminhamento externo"**, certifique-se de que a política está configurada para ativar o Auto-forward Externo.
 
-Nota: É aconselhável manter o autoforário externo desativado na sua Política de Filtro de Correio publicitário não solicitado por defeito e permitir que este seja apenas para os utilizadores que necessitem de reencaizá-lo externo, criando uma política personalizada para esses utilizadores. Pode ler mais na [configuração do reencaminhamento de e-mails externos no Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**Nota:** Recomenda-se manter o Autoforward Externo desativado na sua política de filtro de spam por defeito e permitir apenas para os utilizadores que necessitem de reencaminhamento externo, criando uma política personalizada para esses utilizadores. Pode ler mais na [configuração do reencaminhamento de e-mails externos no Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).

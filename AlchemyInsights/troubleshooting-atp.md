@@ -1,5 +1,5 @@
 ---
-title: Resolução de problemas Do Gabinete 365 Proteção Avançada de Ameaças
+title: Resolução de problemas microsoft Defender para o Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658925"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801454"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Resolução de problemas Do Gabinete 365 Proteção Avançada de Ameaças
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Resolução de problemas microsoft Defender para o Office 365
 
 - Nota atrasos na entrega de mensagens? Utilize a opção [De Entrega Dinâmica](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) na sua política de Anexos Seguros ATP. Isto ajudará a evitar atrasos de mensagens enquanto protege os destinatários de ficheiros maliciosos.
 
@@ -28,8 +28,8 @@ ms.locfileid: "47658925"
 
   1. Vá [https://protection.office.com](https://protection.office.com) e inscreva-se com um administrador global ou conta de administrador de segurança.
 
-  2. No painel de navegação à esquerda sob **gestão de ameaças,** escolha Links Seguros de **Política** \> **Safe Links**.
+  2. No painel de navegação à esquerda sob **gestão de ameaças,** escolha Links Seguros de **Política** \> **Safe Links** .
 
   3. Nas **Políticas que se aplicam a toda a** secção de organização, selecione a política e clique em **Editar.**
 
-  4. Em **Definições**, ative **aplicar links seguros às mensagens enviadas dentro da organização**.
+  4. Em **Definições** , ative **aplicar links seguros às mensagens enviadas dentro da organização** .

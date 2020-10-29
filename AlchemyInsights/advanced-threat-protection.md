@@ -1,5 +1,5 @@
 ---
-title: Escritório 365 Proteção Avançada de Ameaças
+title: Microsoft Defender para o Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696632"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801238"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Escritório 365 Proteção Avançada de Ameaças
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para o Office 365
 
-- Anexos seguros, ligações seguras e anti-phishing fazem parte do Office 365 Advanced Threat Protection (ATP). Enterprise E5, Education A5 e Microsoft 365 Business Premium incluem ATP. Todos os outros planos requerem uma subscrição ATP adicionada.
+- Anexos seguros, ligações seguras e anti-phishing fazem parte do Microsoft Defender para o Office 365 (ATP). Enterprise E5, Education A5 e Microsoft 365 Business Premium incluem ATP. Todos os outros planos requerem uma subscrição ATP adicionada.
 
 - Tem de atribuir as licenças adequadas para proteger os seus utilizadores pelo Office 365 ATP. Consulte [este tópico](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) para obter instruções sobre como aplicar licenças a granel aos seus utilizadores.
 
-- Os administradores globais ou administradores de segurança podem aceder às funcionalidades ATP do Office 365 no Centro de Conformidade & de Segurança na Política **de Ameaça Managmeent** \> **Policy**.
+- Os administradores globais ou administradores de segurança podem aceder às funcionalidades ATP do Office 365 no Centro de Conformidade & de Segurança na Política **de Ameaça Managmeent** \> **Policy** .
 
 - Anexos Seguros e Políticas de Ligação Segura podem ser examinados em toda a sua organização, domínios específicos ou grupos menores de utilizadores.
 

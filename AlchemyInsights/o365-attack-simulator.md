@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759230"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801562"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Simulador de ataque na Microsoft 365
 
-- Estás a perder o Simulador de Ataque? O Simulador de Ataque requer **o Office 365 Advanced Threat Protection Plan 2 (ATP Plan 2)** ou **o Office 365 Enterprise E5**. O Simulador de Ataque **não** está incluído no Office 365 Advanced Threat Protection Plan 1 (ATP Plan 1), no Office 365 Enterprise E3 ou em quaisquer aplicações da Microsoft 365 para subscrições empresariais.
+- Estás a perder o Simulador de Ataque? O Simulador de Ataque requer **o Microsoft Defender para o Office 365 Plan 2 (ATP Plan 2)** ou o Office **365 Enterprise E5** . O Simulador de Ataque **não** está incluído no Microsoft Defender para o Office 365 Plan 1 (ATP Plan 1), no Office 365 Enterprise E3 ou em quaisquer aplicações da Microsoft 365 para subscrições empresariais.
 
 - A conta que utiliza para lançar ataques simulados requer permissões globais de administrador ou administrador de segurança e autenticação de vários fatores (MFA). Para obter mais informações sobre os requisitos do Simulador de Ataque, consulte [este tópico.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
 

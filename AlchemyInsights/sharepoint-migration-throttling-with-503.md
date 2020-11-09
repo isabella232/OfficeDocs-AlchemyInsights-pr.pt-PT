@@ -13,28 +13,22 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: e46c39652db6a13a45d77d303102b4873e67a076
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7e0030670564eba15c89f7426e49283d44c3151
+ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720072"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48947459"
 ---
 # <a name="sharepoint-migration-throttling-with-503-errors"></a>Migração sharePoint com 503 erros
 
-**Importante**: durante estes tempos sem precedentes, estamos a tomar medidas para garantir que os serviços SharePoint Online e OneDrive permaneçam com elevada disponibilidade. Para obter mais informações, visite [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) (Ajustes Temporários de Funcionalidades do SharePoint Online).
+Parece que está a migrar para o SharePoint Online e a receber 503 erros. Por favor, siga os passos abaixo para que possamos ajudá-lo o mais rápido possível.
 
-**503 erros ao migrar para o SharePoint Online**
-
-Parece que está a migrar para o SharePoint Online e a receber 503 erros. Por favor, siga os passos abaixo para que possamos ajudá-lo o mais rápido possível. 
-
-1. Clique em **Suporte de Contacto**e, em seguida, Novo Pedido de **Serviço**.
+1. Clique em **Suporte de Contacto** e, em seguida, Novo Pedido de **Serviço**.
 2. Para o título e descrição, **escreva SharePoint Migration Throttling com 503**.
 3. Uma vez enviado o bilhete, por favor atualize-o com as seguintes informações:
-    - Quanto resta de migração (por exemplo, quantas TBs?).
+    - Quanto resta de migração (por exemplo, quantas Tuberculose)?
     - A migração começa e termina.
-    - Descreva de onde está a migrar o seu conteúdo, tais como SharePoint Server, Box, GDrive, File shares, etc..
-    - Estimar o número de erros de estrangulamento (por exemplo, x acelerador por hora?) e quando é que o estrangulamento aconteceu.
-    - Que ferramenta de migração está a utilizar (por exemplo, SPMT ou ShareGate).
-
-
+    - Descreva de onde está a migrar o seu conteúdo, tais como SharePoint Server, Box, GDrive, File shares, etc.
+    - Estimar o número de erros de estrangulamento (por exemplo, x acelerador por hora) e quando é que o estrangulamento aconteceu.
+    - Que ferramenta de migração está a utilizar (por exemplo, SPMT ou ShareGate)?

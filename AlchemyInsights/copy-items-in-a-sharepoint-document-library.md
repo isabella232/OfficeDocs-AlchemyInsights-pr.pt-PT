@@ -1,5 +1,5 @@
 ---
-title: Copiar itens numa biblioteca de documentos SharePoint
+title: Copiar ficheiros no SharePoint e no OneDrive
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,33 +14,18 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 8d7b2b6c997faf057be1c7fafdd401411d48c7bd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 473c7376b9f413732ac766e25817b2406b5dbd75
+ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807166"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49002640"
 ---
-# <a name="copy-items-in-a-sharepoint-document-library"></a><span data-ttu-id="99648-102">Copiar itens numa biblioteca de documentos SharePoint</span><span class="sxs-lookup"><span data-stu-id="99648-102">Copy items in a SharePoint document library</span></span>
+# <a name="copy-files-in-sharepoint-and-onedrive"></a><span data-ttu-id="affcb-102">Copiar ficheiros no SharePoint e no OneDrive</span><span class="sxs-lookup"><span data-stu-id="affcb-102">Copy files in SharePoint and OneDrive</span></span>
 
-1. <span data-ttu-id="99648-103">Num navegador web, navegue nos ficheiros, pastas ou links que pretende copiar e, em seguida, clique em **Copiar para**.</span><span class="sxs-lookup"><span data-stu-id="99648-103">In a web browser, browse to the files, folders, or links that you want to copy, and then click **Copy to**.</span></span>
+<span data-ttu-id="affcb-103">Pode copiar ficheiros do navegador web para diferentes localizações dentro do SharePoint e do OneDrive.</span><span class="sxs-lookup"><span data-stu-id="affcb-103">You can copy files from web browser to different locations within SharePoint and OneDrive.</span></span>
 
-    > [!NOTE]
-    > <span data-ttu-id="99648-104">**A cópia** não está disponível se estiver a utilizar a experiência clássica do SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="99648-104">**Copy to** isn't available if you're using the classic experience of SharePoint Online.</span></span>
-  
-2. <span data-ttu-id="99648-105">Em **Escolha um destino,** selecione a localização para a qual pretende copiar os itens.</span><span class="sxs-lookup"><span data-stu-id="99648-105">Under **Choose a destination**, select the location to which you want to copy the items.</span></span> <span data-ttu-id="99648-106">Se estiver a copiar para um site diferente ou subsite e não o vir listado, clique em **procurar sites** para ver a lista completa de sites a que pode copiar.</span><span class="sxs-lookup"><span data-stu-id="99648-106">If you're copying to a different site or subsite and don't see it listed, click **Browse sites** to see the full list of sites that you can copy to.</span></span>
-
-    > [!NOTE]
-    > <span data-ttu-id="99648-107">Se não vir outros sites listados quando copiar itens, a cópia em sites não foi configurada.</span><span class="sxs-lookup"><span data-stu-id="99648-107">If you don't see other sites listed when you copy items, copying across sites hasn't been configured.</span></span> <span data-ttu-id="99648-108">Para o ativar, aceda à página de definições do centro de administração do SharePoint e clique **em OK**.</span><span class="sxs-lookup"><span data-stu-id="99648-108">To enable it, go to the settings page of the SharePoint admin center and click **OK**.</span></span>
-  
-    <span data-ttu-id="99648-109">Para criar uma nova pasta para copiar os ficheiros para, selecionar uma localização na hierarquia da pasta, clique em **Nova pasta,** introduza um nome para a pasta e clique na marca de verificação para guardar o nome.</span><span class="sxs-lookup"><span data-stu-id="99648-109">To create a new folder to copy the files to, select a location in the folder hierarchy, click **New folder**, enter a name for the folder, and click the check mark to save the name.</span></span>
-
-3. <span data-ttu-id="99648-110">Clique **em Copiar aqui.**</span><span class="sxs-lookup"><span data-stu-id="99648-110">Click **Copy here**.</span></span>
+<span data-ttu-id="affcb-104">Para mais informações, consulte [Move ou Copy](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)</span><span class="sxs-lookup"><span data-stu-id="affcb-104">For more information, see [Move or Copy](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="99648-111">Pode copiar até 500 MB de ficheiros e pastas de uma só vez.</span><span class="sxs-lookup"><span data-stu-id="99648-111">You can copy up to 500 MB of files and folders at one time.</span></span> <span data-ttu-id="99648-112">> Quando utiliza **copy para** com documentos que têm histórico de versão, apenas a versão mais recente é copiada.</span><span class="sxs-lookup"><span data-stu-id="99648-112">>  When you use **Copy to** with documents that have version history, only the latest version is copied.</span></span>
-  
-<span data-ttu-id="99648-113">Para obter mais informações, consulte:</span><span class="sxs-lookup"><span data-stu-id="99648-113">For more information, see:</span></span>
-
- - <span data-ttu-id="99648-114">[Mover ou copiar ficheiros no SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (artigo de suporte ao Office)</span><span class="sxs-lookup"><span data-stu-id="99648-114">[Move or copy files in SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office support article)</span></span>
- - <span data-ttu-id="99648-115">[Mover ficheiros de qualquer pasta](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (artigo de blog da Microsoft Tech Community)</span><span class="sxs-lookup"><span data-stu-id="99648-115">[Move files from any folder](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community blog article)</span></span>   
+> <span data-ttu-id="affcb-105">**A cópia** não está disponível se estiver a utilizar a experiência clássica do SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="affcb-105">**Copy to** isn't available if you are using the classic experience of SharePoint Online.</span></span>

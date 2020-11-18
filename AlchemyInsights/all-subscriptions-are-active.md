@@ -14,15 +14,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: 4b6ce603b4c47014f8a99a479da55dca3ecc264c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bfe51559421c94cda4d3aa53c9baf5265af57224
+ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718344"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49348712"
 ---
 # <a name="all-subscriptions-are-active"></a>Todas as subscrições são Ativas
 
-As suas subscrições estão Ativas. Isto pode ser verificado indo para a página **de Faturação** \> [dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054) As suas subscrições são encomendadas por estado, com subscrições Ative no topo. Informações adicionais, como a contagem de licenças e o método de pagamento, podem ser vistas escolhendo a subscrição.
+As suas subscrições estão Ativas. Isto pode ser verificado indo para a página **de Faturação** \> [dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054) As suas subscrições estão listadas no separador **Produtos** e o estado de cada subscrição é indicado na coluna de estado de **Subscrição.** Para mais informações, selecione uma subscrição para ver a página de detalhes da subscrição.
   
 Se procura remover as suas subscrições ativas ou fechar a sua conta, consulte [Como fechar a sua conta](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide).

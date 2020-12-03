@@ -1,28 +1,27 @@
 ---
-title: Entrar em contato com a Equipa de Vendas
+title: Contacte a Equipa de Vendas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: b45071a3a03daf55b109e9e9b73c7262868f82ac
-ms.sourcegitcommit: 7c3819614681716748802b04240e80f0dc7e1e8a
-ms.translationtype: MT
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44932105"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529029"
 ---
-# <a name="contact-the-sales-team"></a>Entrar em contato com a Equipa de Vendas
+# <a name="contact-the-sales-team"></a>Contacte a Equipa de Vendas
 
-Com os conectores Microsoft Graph, a sua organização pode indexar dados de terceiros para aparecer nos resultados da Microsoft Search.
+Há um número de maneiras de contactar a Equipa de Vendas do Microsoft 365.
 
-- [Conectores por Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [Conectores pelos nossos Parceiros](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-Para obter mais informações, consulte [a visão geral dos conectores do Microsoft Graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+- Utilize o formulário [Contacte-nos](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409)  para um perito em vendas da Microsoft 365 o contacte.
+- Para contactar um perito em Licenciamento por Volume de Contrato Empresarial, comece com o portal do  [Centro de Licenciamento em Volume de Serviços](https://go.microsoft.com/fwlink/p/?LinkId=329762).

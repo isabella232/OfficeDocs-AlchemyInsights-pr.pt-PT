@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 513a647a3247cb10b134ba770b2cf245bd883be8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 303b77e9464b5974d737d3549df4366ed0747ad3
+ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688489"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49571676"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Criar ou adicionar um pseudónimo de e-mail para um utilizador
 
 Precisa criar um pseudónimo de e-mail para um utilizador, ou adicionar um endereço de e-mail adicional? Basta seguir estes passos!
   
-1. No centro de administração Microsoft 365, vá à página [dos Utilizadores](https://go.microsoft.com/fwlink/p/?linkid=834822) ou escolha **Users** \> **Utilizadores Ativos**dos Utilizadores .
+1. No centro de administração Microsoft 365, vá à página [dos Utilizadores](https://go.microsoft.com/fwlink/p/?linkid=834822) ou escolha **Users**  >  **Utilizadores Ativos** dos Utilizadores .
     
 2. Na página **Utilizadores Ativos**, selecione o nome da pessoa que pretende editar. 
     

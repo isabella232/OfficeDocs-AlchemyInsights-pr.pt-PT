@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
-ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
+ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
+ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49569178"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49605720"
 ---
 # <a name="onedrive-puid-mismatch"></a>Desforra do PuID OneDrive
 
-Parece que está a sentir uma incompatibilidade de [ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) no OneDrive for Business. Por favor, siga os passos abaixo para que possamos ajudá-lo o mais rápido possível:
+Parece que está a sentir uma incompatibilidade de [ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) no OneDrive for Business. Para podermos ajudá-lo o mais cedo possível, faça os seguintes passos:
 
 1. Clique em  **Suporte de Contacto** e, em seguida, Novo Pedido de  **Serviço**.
 2. Deixe o título e a descrição como  **OneDrive Site User ID Desajuste**.

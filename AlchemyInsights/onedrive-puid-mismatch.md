@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
+ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605720"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49653271"
 ---
 # <a name="onedrive-puid-mismatch"></a>Desforra do PuID OneDrive
 
@@ -26,6 +26,6 @@ Parece que está a sentir uma incompatibilidade de [ID](https://docs.microsoft.c
 
 1. Clique em  **Suporte de Contacto** e, em seguida, Novo Pedido de  **Serviço**.
 2. Deixe o título e a descrição como  **OneDrive Site User ID Desajuste**.
-3. Uma vez enviado o bilhete, por favor atualize-o com as seguintes informações:
+3. Uma vez enviado o bilhete, atualize-o com as seguintes informações:
     - URL do site OneDrive que é afetado.
     - Nome principal do utilizador (UPN) do utilizador afetado.

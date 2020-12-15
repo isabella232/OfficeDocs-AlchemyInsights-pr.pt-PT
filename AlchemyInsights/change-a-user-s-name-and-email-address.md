@@ -1,5 +1,5 @@
 ---
-title: Alterar o nome e endereço de e-mail de um utilizador
+title: Alterar um nome e endereço de e-mail
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 3ef63bd59683eed105b8391188b8c8bbd99ed984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f76ab1f3cec5cdf17cb8fa0aea179f29e271663
+ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756942"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683913"
 ---
-# <a name="change-a-users-name-and-email-address"></a>Alterar o nome e endereço de e-mail de um utilizador
+# <a name="change-a-name-and-email-address"></a>Alterar um nome e endereço de e-mail
 
-Mudar o nome e o endereço de e-mail de um utilizador no Microsoft 365 é fácil. Aceda **Users** à página \> [Utilizadores Ativos dos Utilizadores](https://go.microsoft.com/fwlink/p/?linkid=834822) e selecione o utilizador para editar as suas informações. Também pode usar este artigo para instruções passo a passo:
+Mudar o nome e o endereço de e-mail de um utilizador no Microsoft 365 é fácil. Aceda  à página \> [Utilizadores Ativos dos Utilizadores](https://go.microsoft.com/fwlink/p/?linkid=834822) e selecione o utilizador para editar as suas informações. Também pode usar este artigo para instruções passo a passo:
   
 [Alterar o nome de utilizador e endereço de e-mail no Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   

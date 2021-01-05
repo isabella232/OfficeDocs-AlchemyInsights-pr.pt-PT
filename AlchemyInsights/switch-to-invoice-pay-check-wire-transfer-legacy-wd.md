@@ -1,5 +1,5 @@
 ---
-title: Mudar para pagamento de fatura (cheque/transferência bancária) - Legacy WD
+title: Mudar para pagar por fatura (cheque/transferência bancária)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726157"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755414"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Mudar para pagamento de fatura (cheque/transferência bancária) - Legacy WD
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Mudar para pagar por fatura (cheque/transferência bancária)
+
+Com base na descrição do seu problema, encontrámos uma solução para si. A maioria dos clientes conseguiu resolver o seu problema por conta própria depois de seguir a nossa documentação.
 
 Se mudar para pagar por fatura, isso significa que pagará a sua conta no prazo de 30 dias a contar da data da fatura. Para se tornar elegível para pagar a sua subscrição Azure por fatura, envie um pedido ao suporte da Azure. Uma vez aprovado o seu pedido, pode trocar uma subscrição para pagar a fatura no [portal Azure](https://portal.azure.com/).
 

@@ -1,5 +1,5 @@
 ---
-title: Mudar para pagamento de fatura (transferência de cheque/fio) - CL moderno
+title: Mudar para pagar por fatura (cheque/transferência bancária)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706787"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755481"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>Mudar para pagamento de fatura (transferência de cheque/fio) - CL moderno
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Mudar para pagar por fatura (cheque/transferência bancária)
+
+Com base na descrição do seu problema, encontrámos uma solução para si. A maioria dos clientes conseguiu resolver o seu problema por conta própria depois de seguir a nossa documentação.
 
 Se mudar para pagar por fatura, isso significa que pagará a sua conta no prazo de 30 dias a contar da data da fatura. Para se tornar elegível para pagar a sua subscrição Azure por fatura, envie um pedido ao suporte da Azure. Uma vez aprovado o seu pedido, pode trocar uma subscrição para pagar a fatura no portal Azure.
 

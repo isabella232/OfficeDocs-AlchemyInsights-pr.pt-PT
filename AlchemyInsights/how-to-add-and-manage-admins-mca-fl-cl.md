@@ -1,5 +1,5 @@
 ---
-title: Como adicionar e gerir administradores - MCA FL/CL
+title: Como adicionar e gerir administradores
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692309"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755506"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Como adicionar e gerir administradores - MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>Como adicionar e gerir administradores
+
+Com base na descrição do seu problema, encontrámos uma solução para si. A maioria dos clientes conseguiu resolver o seu problema por conta própria depois de seguir a nossa documentação.
 
 Para gerir a sua conta de faturação para um Microsoft Customer Agreement (MCA), pode utilizar diferentes funções com o nível de acesso pretendido. Estas funções são para além das funções de serviço Azure incorporadas que o ajudam a controlar os seus recursos.
 

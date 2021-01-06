@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731250"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768828"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Ativar a encriptação bitlocker com Intune
 
@@ -30,10 +30,12 @@ Para obter informações sobre problemas de resolução de problemas, consulte [
  
 **FAQ**
 
- P: Que edições de encriptação do dispositivo de suporte do Windows utilizando a Política de Proteção de Pontos Finais?<br>
- R: As definições na Política de Proteção do Ponto Final intune são implementadas utilizando o [Bitlocker CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Nem todas as edições ou construções do Windows suportam o Bitlocker CSP. <br><br>
-      Neste momento, as seguintes edições do Windows são suportadas: Enterprise, Education, Mobile, Mobile Enterprise e Professional (build 1809 e posterior).
- 
+P: Que edições de encriptação do dispositivo de suporte do Windows utilizando a Política de Proteção de Pontos Finais?<br>
+R: As definições na Política de Proteção do Ponto Final intune são implementadas utilizando o [Bitlocker CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Nem todas as edições ou construções do Windows suportam o Bitlocker CSP. <br><br>
+
+P: Como pode o Bitlocker ser ativado em dispositivos sem necessitar de interação do utilizador final?<br>
+R: Enquanto forem cumpridos os pré-requisitos necessários, é possível ativar bitlocker "Silent Encryption" através do Intune. Consulte os detalhes dos requisitos do dispositivo e as definições de política de exemplo para permitir a encriptação silenciosa no seguinte doc: [Ativar silenciosamente a encriptação bitlocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+
 P: Se um dispositivo já estiver encriptado com o Bitlocker utilizando as definições padrão do SISTEMA para o método de encriptação e a resistência cifra (XTS-AES-128), aplicará uma política com diferentes configurações desencadeando automaticamente a reen encriptação da unidade com as novas definições?<br>
 R: Não. Para aplicar as novas definições de cifra, a unidade deve primeiro ser desencriptado.<br><br>
 **Nota:** Para os dispositivos que estão a ser matriculados com o Autopilot, a encriptação automática que ocorreria durante o OOBE não é ativada até que a política do Intune seja avaliada, o que permite que as definições baseadas em políticas sejam utilizadas em vez dos padrãos de SISTEMA.

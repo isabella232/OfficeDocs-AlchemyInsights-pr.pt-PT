@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768828"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778204"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Ativar a encriptação bitlocker com Intune
 
- A Política de Proteção de Pontos Finais intune pode ser utilizada para configurar definições de encriptação bitlocker para dispositivos Windows. Para obter mais informações, consulte [as definições do Windows 10 (e posterior) para proteger os dispositivos que utilizam o Intune.](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)
- 
+A Política de Proteção de Pontos Finais intune pode ser utilizada para configurar definições de encriptação bitlocker para dispositivos Windows. Para obter mais informações, consulte [as definições do Windows 10 (e posterior) para proteger os dispositivos que utilizam o Intune.](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)
+
+Além da Política de Proteção de Pontos Finais, existe também um Relatório de Encriptação que fornece uma visão mais detalhada do estado de encriptação dos dispositivos. Este relatório pode ser acedido a partir do portal MEM no **Monitor > dispositivos**, e, em seguida, no relatório de [encriptação](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport)selecionado de **Configuração** .
+
+Se descobrir que o Bitlocker não está ativado como esperado ou que o perfil utilizado para ativar o Bitlocker está num estado de erro, por favor reveja o relatório de encriptação para obter uma melhor compreensão do porquê do comportamento estar a ocorrer.
+
+Para obter detalhes sobre como interpretar o relatório, incluindo os vários valores de estado de encriptação, consulte [a encriptação do dispositivo Monitor com o Intune](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+
 Deve estar ciente de que muitos dispositivos mais recentes que executam a encriptação automática do Bitlocker do Windows 10, que é desencadeada sem a aplicação da política DOM. Isto pode ter impacto na aplicação da política se as definições não padrão forem configuradas. Consulte as seguintes FAQ para obter mais detalhes.
- 
+
 Para obter informações sobre problemas de resolução de problemas, consulte [as políticas bitLocker de resolução de problemas no Microsoft Intune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  

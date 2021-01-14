@@ -1,0 +1,41 @@
+---
+title: Problemas com a integração do Seamless SSO com as minhas aplicações no local
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 01/13/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9004356"
+- "7798"
+ms.openlocfilehash: 785d7f842031c1056ec6868376f253439919a3ab
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.translationtype: MT
+ms.contentlocale: pt-PT
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49868720"
+---
+# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a><span data-ttu-id="a5866-102">Problemas com a integração do Seamless SSO com as minhas aplicações no local</span><span class="sxs-lookup"><span data-stu-id="a5866-102">Issues with integrating Seamless SSO with my on-premises apps</span></span>
+
+<span data-ttu-id="a5866-103">Para resolver problemas com a integração do SSO sem emenda com aplicações no local, faça o seguinte:</span><span class="sxs-lookup"><span data-stu-id="a5866-103">To troubleshoot issues with integrating Seamless SSO with on-premises applications, do the following:</span></span>
+
+<span data-ttu-id="a5866-104">**Passos recomendados**</span><span class="sxs-lookup"><span data-stu-id="a5866-104">**Recommended steps**</span></span>
+
+1. <span data-ttu-id="a5866-105">Para configurar um **pedido no local** para um único sinal de acesso através de **Aplicação Proxy**, consulte [abotoação de palavra-passe para um único sinal de acesso com procuração de aplicação](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).</span><span class="sxs-lookup"><span data-stu-id="a5866-105">To configure an **on-premises application** for **single sign-on through Application Proxy**, see [Password vaulting for single sign-on with Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).</span></span>
+1. <span data-ttu-id="a5866-106">**Problemas de resolução de problemas Problemas Aplicações Problemas de procuração**: recomendamos que comece a rever o fluxo de resolução de [problemas, problemas de Conector de Procuração de Aplicações de Debug](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), para determinar se os conectores de procuração de aplicação estão configurados corretamente.</span><span class="sxs-lookup"><span data-stu-id="a5866-106">**Troubleshooting Application Proxy issues**: we recommend that you start with reviewing the troubleshooting flow, [Debug Application Proxy Connector issues](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), to determine if Application Proxy connectors are configured correctly.</span></span> <span data-ttu-id="a5866-107">Se ainda tiver problemas em ligar-se à aplicação, siga os passos de resolução de problemas em problemas de [aplicação de depuração](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps).</span><span class="sxs-lookup"><span data-stu-id="a5866-107">If you're still having trouble connecting to the application, follow the troubleshooting steps in [Debug Application Proxy application issues](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps).</span></span> <span data-ttu-id="a5866-108">Pode [identificar problemas de CORS](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) utilizando as seguintes ferramentas de depuragem do navegador:</span><span class="sxs-lookup"><span data-stu-id="a5866-108">You can [identify CORS issues](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) by using the following browser debug tools:</span></span>
+    1. <span data-ttu-id="a5866-109">Lance o navegador e navegue para a aplicação web.</span><span class="sxs-lookup"><span data-stu-id="a5866-109">Launch the browser and browse to the web app.</span></span>
+    1. <span data-ttu-id="a5866-110">Pressione **f12** para trazer a consola de depurg.</span><span class="sxs-lookup"><span data-stu-id="a5866-110">Press **F12** to bring up the debug console.</span></span>
+    1. <span data-ttu-id="a5866-111">Tente reproduzir a transação e reveja a mensagem da consola.</span><span class="sxs-lookup"><span data-stu-id="a5866-111">Try to reproduce the transaction, and review the console message.</span></span> <span data-ttu-id="a5866-112">Uma violação do CORS produz um erro de consola sobre a origem.</span><span class="sxs-lookup"><span data-stu-id="a5866-112">A CORS violation produces a console error about origin.</span></span>
+    1. <span data-ttu-id="a5866-113">Alguns problemas do CORS não podem ser resolvidos, como quando a sua aplicação redireciona para login.microsoftonline.com para autenticar, e o token de acesso expira.</span><span class="sxs-lookup"><span data-stu-id="a5866-113">Some CORS issues can't be resolved, such as when your app redirects to login.microsoftonline.com to authenticate, and the access token expires.</span></span> <span data-ttu-id="a5866-114">A chamada do CORS falha.</span><span class="sxs-lookup"><span data-stu-id="a5866-114">The CORS call then fails.</span></span> <span data-ttu-id="a5866-115">Uma solução alternativa para este cenário é prolongar a vida útil do token de acesso, para evitar que expire durante a sessão do utilizador.</span><span class="sxs-lookup"><span data-stu-id="a5866-115">A workaround for this scenario is to extend the lifetime of the access token, to prevent it from expiring during a user’s session.</span></span> <span data-ttu-id="a5866-116">Para obter mais informações sobre como fazê-lo, consulte [as vidas de token configurantes na plataforma de identidade da Microsoft.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)</span><span class="sxs-lookup"><span data-stu-id="a5866-116">For more information about how to do this, see [Configurable token lifetimes in Microsoft identity platform](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).</span></span>
+
+<span data-ttu-id="a5866-117">**Documentos recomendados**</span><span class="sxs-lookup"><span data-stu-id="a5866-117">**Recommended documents**</span></span>
+
+- [<span data-ttu-id="a5866-118">Como configurar um único sign-on para uma aplicação de procuração de aplicação</span><span class="sxs-lookup"><span data-stu-id="a5866-118">How to configure single sign-on to an Application Proxy application</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
+- [<span data-ttu-id="a5866-119">SAML único sinal de inscrição para aplicações no local com Proxy de aplicação</span><span class="sxs-lookup"><span data-stu-id="a5866-119">SAML single sign-on for on-premises applications with Application Proxy</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
+- [<span data-ttu-id="a5866-120">Compreender e resolver problemas de aplicação de diretório ativo Azure</span><span class="sxs-lookup"><span data-stu-id="a5866-120">Understand and solve Azure Active Directory Application Proxy CORS issues</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
+- [<span data-ttu-id="a5866-121">Resolução de problemas Kerberos limitou configurações da delegação para aplicação proxy</span><span class="sxs-lookup"><span data-stu-id="a5866-121">Troubleshoot Kerberos constrained delegation configurations for Application Proxy</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)

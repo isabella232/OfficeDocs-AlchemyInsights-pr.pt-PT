@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 0eecd89b2558359702935379d7ffbd8b7508f4cd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1e90aedab20c8abaa021ed980e868cea0503b7b1
+ms.sourcegitcommit: db95fd628c45d9810e5af5c5a4e6388c793339ac
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560451"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50093366"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Ativar a repetição de escrita de palavras-passe do Azure AD Connect
 
@@ -43,4 +43,4 @@ Com a repetição de escrita de palavra-passe ativada no Azure AD Connect, confi
 Para obter mais informações, consulte [Ativar a repetição de escrita de reposição personalizada de palavra-passe do Azure Active Directory num ambiente no local](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
 > [!NOTE]
->  Se um administrador redefinir a palavra-passe de um utilizador no portal do Azure, se esse utilizador estiver federado ou tiver sincronização de hash de palavra-passe, a escrita da palavra-passe será repetida no local. Neste momento, esta funcionalidade não é suportada no portal de Administração do Office.
+>  Se um administrador redefinir a palavra-passe de um utilizador no portal do Azure, se esse utilizador estiver federado ou tiver sincronização de hash de palavra-passe, a escrita da palavra-passe será repetida no local. Esta funcionalidade necessita da licença do Azure Premium (P1 ou P2) e não é atualmente suportada no portal de Administração do Office.

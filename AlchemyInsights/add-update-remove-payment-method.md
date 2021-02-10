@@ -1,33 +1,34 @@
 ---
 title: Adicionar, atualizar ou remover métodos de pagamento
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002348"
 - "4574"
-ms.openlocfilehash: 6481ee963ab08bbdaf4918142823c0c9cb561c13
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: edd6cf55ecc7808e80b74728a686d7d700ffc222
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708734"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152533"
 ---
 # <a name="add-update-or-remove-payment-method"></a>Adicionar, atualizar ou remover métodos de pagamento
 
 Pode adquirir produtos e serviços da Microsoft com cartão de crédito/débito ou conta bancária (débito direto).
 
-- Para adicionar uma conta bancária como método de pagamento, consulte [Adicionar um método de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#add-a-payment-method).
+- Para adicionar uma conta bancária como método de pagamento, consulte [Adicionar um método de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method).
 
-- Para atualizar informações sobre uma conta bancária, consulte [Atualizar um método de pagamento existente](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#update-an-existing-payment-method).
+- Para atualizar informações sobre uma conta bancária, consulte [Atualizar os detalhes do método de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).
 
-- Para alterar o método de pagamento de ou para uma conta bancária, consulte [Alterar um método de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#change-a-payment-method).
+- Para alterar o método de pagamento de ou para uma conta bancária, consulte [Substituir um método de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method).
 
-- Para remover uma conta bancária como método de pagamento, consulte [Remover um método de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#remove-a-payment-method). 
+- Para remover uma conta bancária como método de pagamento, consulte [Eliminar um método de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method).
 
-Para mais informações, consulte [Adicionar, atualizar ou remover os seus métodos de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide). 
+Para mais informações, consulte [Gerir métodos de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

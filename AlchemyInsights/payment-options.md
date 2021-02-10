@@ -2,43 +2,39 @@
 title: Opções de pagamento
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
+- commerce
 - "1639"
 - "9000134"
-ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: b743d7ef20fa2c5ebbc5d3f8a236464522aa79c5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 1ddff99967b62a151711a4c978f5fe35b2a99008
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666779"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152569"
 ---
-# <a name="payment-options-for-office-365-for-business-subscriptions"></a>Opções de pagamento das subscrições do Office 365 para Empresas
+# <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Opções de pagamento das subscrições do Microsoft 365 para empresas
   
-Cartão de crédito, conta bancária (débito direto) e fatura (pagamento por cheque ou transferência eletrónica de fundos) são, todas elas, opções de pagamento das subscrições do Office 365 para Empresas.
+Cartão de crédito, cartão de débito, conta bancária (débito direto) e fatura (pagamento por cheque ou transferência eletrónica de fundos) são, todas elas, opções de pagamento das subscrições do Microsoft 365 para empresas.
   
-**Pagamento através de cartão de crédito ou conta bancária**
+**Pagar através de cartão de crédito ou de débito ou conta bancária**
   
-Se pagar através de cartão de crédito ou conta bancária, a subscrição ser-lhe-á cobrada automaticamente no dia a seguir à data de faturação, até ao fim do seu período de subscrição. Pode [atualizar as suas informações de cartão de crédito ou conta bancária](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) sempre que precisar. Também pode optar por [receber uma cópia do seu extrato de faturação por e-mail](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
-  
-Se o seu cartão de crédito tiver sido recusado ou tiver saldo anterior em dívida, pode selecionar a opção **Regularizar o saldo** na página **Faturação** \> [Produtos e Serviços](https://portal.office.com/adminportal/home#/subscriptions).
-  
+Pode pagar a sua subscrição com um cartão de crédito ou de débito, ou através de conta bancária. Ao pagar através de um destes métodos de pagamento, continuaremos a efetuar cobranças nesse método de pagamento até a subscrição expirar ou ser cancelada. Pode [gerir métodos de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) sempre que precisar. Também pode optar por [receber uma cópia do seu extrato de faturação por e-mail](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email).
+
+Se o seu cartão de crédito foi recusado ou tiver um saldo em atraso, e adicionou pessoalmente o método de pagamento que tem o saldo em atraso, pode utilizar a opção **Liquidar Saldo** para efetuar um pagamento. O método de pagamento utilizado para pagar o montante em atraso tornar-se-á no novo método de pagamento de todas as subscrições que tenham utilizado o método de pagamento recusado. Para mais informações, consulte [E se tiver um montante por pagar?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+
 **Pagamento por fatura (cheque ou transferência eletrónica de fundos)**
   
-Se a sua subscrição custar mais do que um determinado montante (este montante varia consoante a localização do serviço), terá a opção de pagar por fatura através de um cheque ou EFT (transferência eletrónica de fundos). Poderá ser necessária uma verificação de crédito para pagamentos de valores elevados por fatura. Se for necessária uma verificação de crédito, será notificado quando comprar a sua subscrição. Para além disso, se concordar em ser contactado, receberá um e-mail com mais informações sobre como se candidatar a uma aprovação de crédito. Normalmente, as verificações de crédito são concluídas dentro de dois dias úteis.
-  
-Se pagar a sua subscrição através de fatura, receberá um e-mail a informar que já pode ver o seu extrato de faturação. Este e-mail não contém uma cópia do seu extrato de faturação. No entanto, também pode optar por [receber uma cópia do seu extrato de faturação por e-mail](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email). O seu extrato de faturação inclui detalhes sobre as suas opções para efetuar pagamentos. Se introduzir um número de nota de encomenda (PO) ao comprar uma subscrição, o número será apresentado no seu extrato de faturação. Para obter informações sobre como aceder aos extratos de faturação, consulte [Ver a sua fatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
-  
-**Alterar a forma de pagamento**
-  
-Se quiser alterar a forma de pagamento de uma subscrição atual, siga as instruções [aqui](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method).
+Se a sua subscrição custar mais do que um determinado montante (este montante varia consoante a localização do serviço), terá a opção de pagar por fatura através de um cheque ou EFT (transferência eletrónica de fundos). Poderá ser necessária uma verificação de crédito para pagamentos de valores elevados por fatura. Se for necessária uma verificação de crédito, será notificado quando comprar a sua subscrição. Se concordar em ser contactado, receberá um e-mail com mais informações sobre como se candidatar a uma aprovação de crédito. Normalmente, as verificações de crédito são concluídas dentro de dois dias úteis.
+
+Se pagar a sua subscrição através de fatura, receberá um e-mail a informar quando o seu extrato de faturação estiver pronto para consulta. Este e-mail não contém nenhuma cópia do seu extrato de faturação. No entanto, pode optar por [receber uma cópia do seu extrato de faturação por e-mail](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email). O seu extrato de faturação inclui detalhes sobre as suas opções para efetuar pagamentos e para onde enviá-lo. Se introduzir um número de nota de encomenda (PO) ao comprar uma subscrição, o número será apresentado no seu extrato de faturação. Para obter informações sobre como aceder aos extratos de faturação, consulte [Ver a sua fatura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
   
 **Informações adicionais**
   
-[Pagar a sua subscrição do Office 365 para Empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription)
+[Como pagar a sua subscrição do Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

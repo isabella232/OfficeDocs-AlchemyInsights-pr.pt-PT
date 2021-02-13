@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "530"
 - "1400007"
-ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 1039ce18dacbbe04aa7cb7a5a85eddab52b36d67
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 7994f7bb94720b1929790f587a9506c5e3dea469
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307209"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232306"
 ---
 # <a name="buy-additional-licenses"></a>Comprar licenças adicionais
 
-1. No centro de administração, vá à página **de Faturação**  >  [dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. No separador **Produtos,** encontre a subscrição para a qual pretende comprar ou remover licenças. Selecione **Mais ações** (três pontos) e, em seguida, selecione **Licenças de Compra**.
-3. Se pretender diminuir o número de licenças, no topo do painel de **licenças de compra,** selecione **remover licenças**.
-4. Para comprar ou remover licenças, sob **Nova quantidade** na caixa **de licenças Total, insira** o número total de licenças que deseja para esta subscrição. Por exemplo, se tiver 100 licenças e quiser adicionar mais 25, insira 125. Se quiser remover 25 licenças, introduza 75.
-5. Seleccione **Guardar**.
+**Veja um vídeo** que mostra como fazer isto: [Compre licenças](https://go.microsoft.com/fwlink/p/?linkid=2154857)
 
-Para saber mais, consulte [as licenças de compra para o microsoft 365 para subscrição de negócios.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+1. No centro de administração, vá à página **de Faturação**  >  [dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. No separador **Produtos,** encontre a subscrição para a qual pretende comprar licenças. Selecione **Mais ações** (três pontos) e, em seguida, selecione **Licenças de Compra**.
+3. Sob **nova quantidade** na caixa de **licenças Total, insira** o número total de licenças que deseja para esta subscrição. Por exemplo, se tiver 100 licenças e quiser adicionar mais 25, insira 125.
+4. Selecione **Guardar**.
+
+Para saber mais, consulte [Comprar ou remover licenças.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Recursos Adicionais**
 

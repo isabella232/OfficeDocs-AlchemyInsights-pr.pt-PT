@@ -12,16 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 7d67d47d2fb427537501930401d7a33978293718
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 1ab15eed7f368663843846ea970f44a0f88d3cb5
+ms.sourcegitcommit: 705c8a0c5fe31248bfa9da048cdee2c6296c6281
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232414"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50237579"
 ---
 # <a name="manage-app-licenses"></a>Gerir licenças de aplicativos
 
 ## <a name="to-change-license-quantity"></a>Para alterar a quantidade de licença
+
+**Veja um vídeo** que mostra como fazê-lo: [Compre novas licenças](https://go.microsoft.com/fwlink/p/?linkid=2154857) ou [remova as licenças existentes](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
 1. Vá à página **de**  >  **[Faturação dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. No separador **Produtos,** na secção **Apps,** encontre a app que pretende gerir. Selecione **Mais ações** (três pontos) e, em seguida, selecione **Licenças de Compra**.

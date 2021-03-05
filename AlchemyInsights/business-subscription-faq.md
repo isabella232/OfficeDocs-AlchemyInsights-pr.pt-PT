@@ -1,10 +1,11 @@
 ---
 title: FAQ da subscrição para empresas
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -19,23 +20,24 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 5ceadd44976b61f3570d9f15dbf724aed0b44e38
-ms.sourcegitcommit: 9ed8b920cb598f9e22f54964029b3bef8e22a630
-ms.translationtype: MT
+- commerce
+ms.openlocfilehash: 80191be73c91faa9fe0fce12eed4c9a6f9ab8507
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45169719"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469061"
 ---
 # <a name="business-subscription-faq"></a>FAQ da subscrição para empresas
 
 - Para ver as opções do Microsoft 365 para Empresas, consulte [Comparar os Planos para Empresas](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2). Para mais informações, contacte o departamento de vendas através do 1-855-270-0615.
-- Para **comprar** um plano, aceda a **Faturação > [Comprar serviços](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Selecione o plano e o número de utilizadores. Para mais informações, consulte [Comprar subscrição](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide).
-- Para **mudar de planos**, consulte [Trocar planos do Microsoft 365 para Empresas manualmente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- Para **atribuir licenças a utilizadores**, aceda a **Faturação > [Licenças](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Para mais informações, consulte [Atribuir Licenças](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- Para **adicionar/remover licenças**, aceda a **Faturação > [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)**, selecione **Adicionar/remover licenças**. Para mais informações, consulte [Adicionar/Remover licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Para **cancelar** licenças, aceda a **Faturação > [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)**, selecione **Definições e ações**, e clique em **Cancelar subscrição**. Para mais informações, consulte [Cancelar a sua subscrição](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Para **comprar** um plano, aceda a **Faturação > [Comprar serviços](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Selecione o plano e o número de utilizadores. Para mais informações, consulte [Comprar uma subscrição diferente](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Para **alterar planos**, consulte [Atualizar para um plano diferente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Para **atribuir** licenças a utilizadores, aceda a **Faturação > [Licenças](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Para mais informações, consulte [Atribuir licenças a utilizadores](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Para **comprar ou remover** licenças, aceda a **Faturação > [Os seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Para mais informações, consulte [Comprar ou remover licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Para **cancelar** uma subscrição, aceda a **Faturação >[Os seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**, selecione a subscrição e, na secção **Subscrição e definições de pagamento**, selecione **Cancelar subscrição**. Para mais informações, consulte [Cancelar a sua subscrição](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Para **ativar** a subscrição, consulte [Ativar a sua subscrição](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
-- Para **reativar uma subscrição expirada**, consulte [Reativar a sua subscrição](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Para **prolongar a versão de avaliação**, consulte [Prolongar a sua versão de avaliação](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Para **reativar** a subscrição, consulte [Reativar a sua subscrição](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
+- Para **prolongar** a versão de avaliação, consulte [Prolongar a sua versão de avaliação](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
 
-Para obter mais informações, consulte [Gerir licenças de subscrições](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Para mais informações, consulte [Comprar ou remover licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

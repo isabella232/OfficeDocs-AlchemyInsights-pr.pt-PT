@@ -1,32 +1,34 @@
 ---
 title: Gestão de licenças do Exchange
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002548"
 - "5149"
-ms.openlocfilehash: 296b77e6b1596732c58e5caa21954225eb31e3ec
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+- commerce
+ms.openlocfilehash: 84d3dd65f0d50a25c5357892c729610ff4d42988
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991400"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469133"
 ---
 # <a name="exchange-license-management"></a>Gestão de licenças do Exchange
 
 A gestão de licenças do Exchange pode ser efetuada no **Centro de Administração do Microsoft 365**.
 
 - [Compare as opções do Exchange](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans) para saber as diferenças entre o **Exchange Online (Plano 1), (Plano 2) e Empresas – Versão Premium**.
-- Para **comprar** o Exchange, aceda a **Faturação > [Comprar serviços](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Utilize a caixa de pesquisa para procurar "Exchange", selecione o plano e o número de utilizadores. Para mais informações, consulte [Comprar subscrição](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide).
-- Para **mudar de planos**, consulte [Trocar planos do Microsoft 365 para Empresas manualmente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- Para **atribuir** licenças do Exchange, aceda a **Faturação > [Licenças](https://go.microsoft.com/fwlink/p/?linkid=842264)**, selecione a subscrição, selecione os utilizadores, e clique em **Atribuir licenças**. Para obter mais informações, consulte [Atribuir Licenças](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- Para **adicionar/remover** licenças do Exchange, aceda a **Faturação > [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)** e clique em **Adicionar/Remover licenças**. Para mais informações, consulte [Adicionar/remover licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Para **cancelar** licenças do Exchange, aceda a **Faturação > [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054),** selecione **Definições e Ações**, e clique em **Cancelar subscrição**. Para obter mais informações, consulte [Cancelar a sua subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Para **comprar** o Exchange, aceda a **Faturação > [Comprar serviços](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Utilize a caixa de pesquisa para pesquisar no "Exchange" e selecione o plano e o número de utilizadores. Para mais informações, consulte [Comprar uma subscrição diferente](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Para **alterar planos**, consulte [Atualizar para um plano diferente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Para **atribuir** licenças a utilizadores, aceda a **Faturação > [Licenças](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Para mais informações, consulte [Atribuir licenças a utilizadores](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Para **comprar ou remover** licenças, aceda a **Faturação > [Os seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Para mais informações, consulte [Comprar ou remover licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Para **cancelar** uma subscrição, aceda a **Faturação > [Os seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**, selecione a subscrição e, na secção **Subscrição e definições de pagamento**, selecione **Cancelar subscrição**. Para obter mais informações, consulte [Cancelar a sua subscrição](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
-Para obter mais informações, consulte [Gerir licenças de subscrições](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Para mais informações, consulte [Comprar ou remover licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

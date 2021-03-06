@@ -1,32 +1,34 @@
 ---
 title: FAQ sobre a subscrição e gestão de licenças do Microsoft 365 F3
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002873"
 - "5472"
-ms.openlocfilehash: 25aa28ef98e35ec75f63c45bade34844730e74e5
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+- commerce
+ms.openlocfilehash: 0efc3353924a1c21f174d0d95071dad76b16e563
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944292"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469781"
 ---
 # <a name="microsoft-365-f3-subscription-and-license-management-faq"></a>FAQ sobre a subscrição e gestão de licenças do Microsoft 365 F3
 
 - Para **aprender e comprar** uma subscrição F3, consulte [Microsoft 365 F3](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot%3aoverviewtab).
-- Para **mudar de planos**, consulte [Trocar planos do Microsoft 365 para Empresas manualmente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- Para **atribuir** licenças do F3 a utilizadores, aceda a **Faturação > [Licenças](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Para obter mais informações, consulte [Atribuir Licenças](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- Para **adicionar/remover** licenças do F3, aceda a **Faturação > [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)** e clique em **Adicionar/Remover licenças**. Para obter mais informações, consulte [Adicionar/remover licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription) 
-- Para **cancelar** licenças do F3, aceda a **Faturação > [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)**, clique em **Definições e Ações** e clique em **Cancelar subscrição**. Para obter mais informações, consulte [Cancelar a sua subscrição](https://docs.microsoft.com/officF365/admin/subscriptions-and-billing/cancel-your-subscription).
-- Para **ativar** a subscrição F3, consulte [Ativar a sua subscrição](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
-- Para **reativar** a subscrição F3, consulte [Reativar a sua subscrição](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Para **prolongar** a versão de avaliação do F3, consulte [Prolongar a sua versão de avaliação](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Para **alterar planos**, consulte [Atualizar para um plano diferente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Para **atribuir** licenças F3 a utilizadores, aceda a **Faturação > [Licenças](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Para mais informações, consulte [Atribuir licenças a utilizadores](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Para **comprar ou remover** licenças F3, aceda a **Faturação > [Os seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Para mais informações, consulte [Comprar ou remover licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+- Para **cancelar** licenças F3, aceda a **Faturação > [Os seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**, selecione a subscrição e, na secção **Definições de subscrição e de pagamento**, selecione **Cancelar subscrição**. Para obter mais informações, consulte [Cancelar a sua subscrição](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Para **ativar** uma subscrição F3, consulte [Ativar a sua subscrição](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
+- Para **reativar** uma subscrição F3, consulte [Reativar a sua subscrição](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
+- Para **prolongar** uma versão de avaliação do F3, consulte [Prolongar a sua versão de avaliação](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
 
-Para obter mais informações, consulte [Gerir licenças de subscrições](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Para mais informações, consulte [Comprar ou remover licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002548"
 - "5149"
-- commerce
-ms.openlocfilehash: 84d3dd65f0d50a25c5357892c729610ff4d42988
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 5f942bc9fa80628c5a9ff34b5dfeaa5643d1dc78
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469133"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602969"
 ---
 # <a name="exchange-license-management"></a>Gestão de licenças do Exchange
 
@@ -29,6 +28,6 @@ A gestão de licenças do Exchange pode ser efetuada no **Centro de Administraç
 - Para **alterar planos**, consulte [Atualizar para um plano diferente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 - Para **atribuir** licenças a utilizadores, aceda a **Faturação > [Licenças](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Para mais informações, consulte [Atribuir licenças a utilizadores](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Para **comprar ou remover** licenças, aceda a **Faturação > [Os seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Para mais informações, consulte [Comprar ou remover licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
-- Para **cancelar** uma subscrição, aceda a **Faturação > [Os seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**, selecione a subscrição e, na secção **Subscrição e definições de pagamento**, selecione **Cancelar subscrição**. Para obter mais informações, consulte [Cancelar a sua subscrição](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Para **cancelar** uma subscrição, aceda a **Faturação >[Os seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**, selecione a subscrição e, na secção **Subscrição e definições de pagamento**, selecione **Cancelar subscrição**. Para obter mais informações, consulte [Cancelar a sua subscrição](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 Para mais informações, consulte [Comprar ou remover licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

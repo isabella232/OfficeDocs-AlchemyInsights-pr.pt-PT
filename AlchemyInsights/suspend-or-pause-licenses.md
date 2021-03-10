@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-- commerce
-ms.openlocfilehash: b1cd19b7a3db161fcdb0d64972e6fd06b259b61b
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 03cee51b8f4c86e36004a91d25c8ad7798383ef5
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50470017"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50600997"
 ---
 # <a name="suspend-or-pause-licenses"></a>Suspender ou interromper licenças
 
@@ -32,4 +31,4 @@ Para suspender ou interromper temporariamente o uso da sua licença, pode remove
 4. Na página de detalhes da subscrição, selecione **Remover licenças**.
 5. No painel **de licenças Remover,** na caixa total de **licenças, insira** o número total de licenças que deseja para esta subscrição e, em seguida, selecione **Save**. Por exemplo, se tiver 100 licenças e quiser suspender ou fazer uma pausa 25, insira 75 como o total de licenças para a sua subscrição.
 
-Para mais informações, consulte [Comprar ou remover licenças.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+Para mais informações, consulte [Comprar ou remover licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

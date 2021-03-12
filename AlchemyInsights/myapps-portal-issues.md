@@ -1,5 +1,5 @@
 ---
-title: Problemas no portal myApps
+title: Problemas do portal MyApps
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,54 +13,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: ce17fdbda093dff6706762b6753f9cac889c3098
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
-ms.translationtype: MT
+ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917048"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708577"
 ---
-# <a name="myapps-portal-issues"></a>Problemas no portal myApps
+# <a name="myapps-portal-issues"></a>Problemas do portal MyApps
 
-Para resolver problemas que está a sentir ao iniciar sessão ou utilizar o portal My Apps, consulte [problemas de resolução de problemas com o portal My Apps](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot).
+Para resolver problemas que esteja a ter ao iniciar sessão no ou ao utilizar o portal As Minhas Aplicações, consulte [resolver problemas com o portal As Minhas Aplicações](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot).
 
-**Não vejo as aplicações que espero no painel de acesso à aplicação**
+**Não vejo as aplicações que esperava no painel de acesso às aplicações**
 
-Para obter orientações sobre o porquê das aplicações que espera não estarem a aparecer no painel de acesso à aplicação, consulte:
+Para obter informações sobre como descobrir porque é que as aplicações esperadas não estão a ser apresentadas no painel de acesso às aplicações, consulte:
 
-- [Não sei por que uma aplicação que designei não está aparecendo no painel de acesso](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-not-appearing/)
+- [Não sei porque é que uma aplicação que atribuí não está a ser apresentada no painel de acesso](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [Não sei por que uma aplicação está a aparecer no painel de acesso](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-appears/)
+- [Não sei porque é que uma aplicação está a aparecer no painel de acesso](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Estou com problemas em inscrever-me no painel de acesso à aplicação.**
+**Estou a ter problemas ao iniciar sessão no painel de acesso às aplicações**
 
-Para resolver problemas no que diz respeito à inscrição no painel de acesso à aplicação, consulte:
+Para resolver problemas relacionados com o início de sessão no painel de acesso às aplicações, consulte:
 
-[Não posso entrar no site do painel de acesso](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
+[Não consigo iniciar sessão no site do painel de acesso](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Estou com problemas em usar a extensão do navegador do painel de acesso à aplicação**
+**Estou a ter problemas com a extensão do browser do painel de acesso às aplicações**
 
-Para resolver problemas relacionados com a utilização da extensão do navegador do painel de acesso à aplicação, consulte:
+Para resolver problemas relacionados com a utilização da extensão do browser do painel de acesso às aplicações, consulte:
 
-[Vi um erro ao instalar a extensão do navegador do painel de acesso à aplicação](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
+[Recebi uma mensagem de erro ao instalar a extensão do browser do painel de acesso às aplicações](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
 
-**Estou tendo problemas com uma funcionalidade no painel de acesso à aplicação**
+**Estou a ter problemas com uma funcionalidade no painel de acesso às aplicações**
 
-Para resolver problemas relativos a uma característica específica no painel de acesso à aplicação, consulte:
+Para resolver problemas relacionados com uma funcionalidade específica no painel de acesso às aplicações:
 
-- [Não sei como usar o acesso a aplicações de self-service](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
+- [Não sei como utilizar o acesso a aplicações de gestão personalizada](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
 
-- [Deparei-me com um problema ao usar o acesso a aplicações de self-service](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
+- [Encontrei um problema ao utilizar o acesso a aplicações de gestão personalizada](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
     
-**Se tiver problemas em implementar ou utilizar o portal My Apps**
+**Se estiver a ter problemas em implementar ou utilizar o portal As Minhas Aplicações**
 
-Para resolver problemas que experimente ao implementar ou utilizar o portal MyApps, consulte:
+Para resolver problemas que ocorrem ao implementar ou utilizar o portal As Minhas Aplicações, consulte:
 
-- [Criar coleções no portal My Apps](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
+- [Criar coleções no portal As Minhas Aplicações](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
     
-- [Configure atribuição de aplicativo de self-service](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
+- [Configurar a atribuição de aplicações através de gestão personalizada](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
      
-- [Resolução de problemas com os problemas dos utilizadores finais no portal My Apps](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
+- [Resolver problemas do utilizador final no portal As Minhas Aplicações](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
 
 

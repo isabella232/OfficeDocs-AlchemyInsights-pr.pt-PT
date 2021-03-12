@@ -13,12 +13,12 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: b5cb2e8a76e8e7d91bd9cd8789ae1623a7f96579
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc8c68a1e838f67c4510002b2c7ff5294a4649fe
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689965"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709009"
 ---
 # <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Problemas na resolução de problemas com a inscrição de dispositivos Android no Microsoft Intune
 
@@ -34,7 +34,7 @@ Algumas questões comuns e passos de resolução:
 
 2. Atualize o dispositivo para o Android 6.0 ou superior.
 
-3. Desativar o Smart Manager da Samsung na gestão do Portal da Empresa Intune. [Reveja este documento](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) para mais informações sobre estas questões e resoluções.
+3. Desativar o Smart Manager da Samsung na gestão do Portal da Empresa Intune. [Reveja este documento](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) para mais informações sobre estas questões e resoluções.
 
  Tipo de licença de **utilizador Inválido** ou **Nome de Utilizador Não Reconhecido:** O utilizador precisa de ser atribuído a uma licença Intune ou EMS. Reveja estes documentos para atribuir uma licença através de: Office Admin Center ou portal Azure.
   
@@ -42,6 +42,6 @@ Recursos adicionais para ajudar a resolver o seu problema:
   
 1. Utilize [o Portal de Resolução de Problemas Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) para diagnosticar e resolver falhas comuns de inscrição. [Reveja este documento](https://docs.microsoft.com/intune/help-desk-operators) para mais detalhes.
 
-2. [Reveja este documento](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) para obter uma lista de erros comuns que impeçam a inscrição e as resoluções para cada um.
+2. [Reveja este documento](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) para obter uma lista de erros comuns que impeçam a inscrição e as resoluções para cada um.
 
 3. [Saiba como inscrever dispositivos Android no Microsoft Intune.](https://docs.microsoft.com/intune/android-enroll)

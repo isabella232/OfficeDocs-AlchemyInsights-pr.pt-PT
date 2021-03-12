@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 417f1e343b94bf0397fa7fce067317f9ccc24bab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6cfb01fbe117fe3c1d3c3bddbec9f5a8188066ae
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740990"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709225"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>Restaurar itens no SharePoint Online
 
@@ -31,6 +31,6 @@ Quando elimina itens no SharePoint Online, estes são retidos por um total de 93
     
 3. Clique em **Restaurar**.
     
-[Restaurar itens eliminados do caixote de reciclagem de recolha do Site](https://go.microsoft.com/fwlink/?linkid=866439)
+[Restaurar itens eliminados do caixote de reciclagem de recolha do Site](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
   
 

@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 0ed893420b5813d5d18639c2c226c12f0306a13f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f07e64c95675a4f6a0aeb6df110fe4e6a21d72f
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679704"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707821"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP não funciona como esperado
 
@@ -28,7 +28,7 @@ ms.locfileid: "47679704"
 
 Está a ter problemas com **a Prevenção de Perdas de Dados (DLP)** no Office 365 que não funciona como esperado? Em caso afirmativo, certifique-se de que a sua **política DLP** está corretamente configurada e que os seus dados contêm o que a **política de DLP** procura quando está a ser avaliada.
   
-As políticas de DLP permitem identificar e proteger informações sensíveis na sua organização. Para configurar as políticas DLP, utilize a informação [aqui.](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp)
+As políticas de DLP permitem identificar e proteger informações sensíveis na sua organização. Para configurar as políticas DLP, utilize a informação [aqui.](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template)
   
  **O que as políticas de DLP procuram**
   

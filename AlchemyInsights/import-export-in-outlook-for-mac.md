@@ -14,12 +14,12 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 7ce37e2ea3efbc762d5298311eac6054d238224c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fcba3e4b8979bd75e97ac67282c7b7893d4d7abc
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667925"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708109"
 ---
 # <a name="importexport-in-outlook-for-mac"></a>Importação/Exportação em Outlook for Mac 
 
@@ -37,4 +37,4 @@ Importação:
 
 Para um conjunto completo de instruções de importação e exportação de Outlook for Mac consulte [e-mail, contactos e calendário do Outlook de Importação e Exportação.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac) 
 
-Para receber suporte na aplicação para problemas com o Outlook para o Mac, abra o Outlook e selecione **Suporte ao**Contacto de Ajuda  >  **Contact Support**. Digite a sua pergunta e um membro da equipa de suporte do Outlook for Mac entrará em contacto consigo. [Suporte de contato no Outlook for Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+Para receber suporte na aplicação para problemas com o Outlook para o Mac, abra o Outlook e selecione **Suporte ao** Contacto de Ajuda  >  . Digite a sua pergunta e um membro da equipa de suporte do Outlook for Mac entrará em contacto consigo. [Suporte de contato no Outlook for Mac](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)

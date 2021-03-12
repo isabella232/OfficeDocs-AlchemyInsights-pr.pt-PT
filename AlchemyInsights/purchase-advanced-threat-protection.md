@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: dca5f0adec60af8583f286630613a4c5a94cddb4
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 6317ba5b9ba4513d6d92e06b449778aa7614fe28
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602123"
+ms.locfileid: "50707857"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Comprar Microsoft Defender para o Office 365
 
-O Microsoft Defender para o Office 365 está incluído em certas subscrições, tais como Microsoft 365 E5, Office 365 E5, Office 365 A5 e Microsoft 365 Business Premium. Se a sua subscrição não incluir o Microsoft Defender para o Office 365, pode comprar [o Microsoft Defender para o Office 365](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) como complemento a determinada subscrição. Para comprar no centro de administração Microsoft 365:
+O Microsoft Defender para o Office 365 está incluído em certas subscrições, tais como Microsoft 365 E5, Office 365 E5, Office 365 A5 e Microsoft 365 Business Premium. Se a sua subscrição não incluir o Microsoft Defender para o Office 365, pode comprar [o Microsoft Defender para o Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) como complemento a determinada subscrição. Para comprar no centro de administração Microsoft 365:
 
 1. No centro de administração, vá à página de serviços de Compra **de Faturação.**  >  [](https://go.microsoft.com/fwlink/p/?linkid=868433)
 2. Na parte inferior da página de **serviços de Compra,** na secção **Add-ons,** encontre o Microsoft Defender para o addon do Office 365 e selecione **Detalhes**.

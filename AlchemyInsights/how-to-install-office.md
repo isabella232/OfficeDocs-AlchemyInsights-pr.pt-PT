@@ -5,27 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 623222ee0cfe9cd5798e341149b439e887a998e4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7f61ff7eb02371790ecb335841244eddb2bcbb2e
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759163"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707749"
 ---
 # <a name="how-to-install-office"></a>Como instalar o Office
 
 Para instalar as aplicações cliente do Office, certifique-se de que tem uma subscrição empresarial como o Microsoft 365 Empresas Premium Standard, Microsoft 365 Apps para Pequenas e Médias Empresas ou o Office 365 Educação.
   
-*NOTA: [o Office Casa e Negócios](https://products.office.com/home-and-business) é um produto do [Office para casa](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) e não faz parte de uma subscrição para empresas. Para obter instruções específicas sobre o Visio ou o Project, consulte [Instalar o Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) ou [Instalar o Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
+*NOTA: [o Office Casa e Negócios](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) é um produto do [Office para casa](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) e não faz parte de uma subscrição para empresas. Para obter instruções específicas sobre o Visio ou o Project, consulte [Instalar o Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) ou [Instalar o Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
 
-Crie as contas de utilizador e adicione o seu domínio. Certifique-se de que o utilizador tem uma [licença atribuída](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+Crie as contas de utilizador e adicione o seu domínio. Certifique-se de que o utilizador tem uma [licença atribuída](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 Peça a cada utilizador para:
 

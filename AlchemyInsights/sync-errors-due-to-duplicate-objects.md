@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
-ms.openlocfilehash: 33b8ad0a33eb02eb9ec5bd26f94b00e5645b3fd7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 75b684c5c6b4a594af069d8ed668df95726e1b31
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737352"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708073"
 ---
 # <a name="sync-errors-due-to-duplicate-objects"></a>Erros de sincronização devidos a objetos duplicados
 
@@ -28,6 +28,6 @@ Pode receber uma das seguintes mensagens de erro quando a sincronização do dir
 
 - Não é possível atualizar este objeto porque os seguintes atributos associados a este objeto têm valores que podem já estar associados a outro objeto nos seus serviços de diretório local: UserPrincipalName.
 
-Para identificar e corrigir o problema, descarregue e execute a [Ferramenta de Remediação de Erros IdFix DirSync](https://www.microsoft.com/download/details.aspx?id=36832).
+Para identificar e corrigir o problema, descarregue e execute a [Ferramenta de Remediação de Erros IdFix DirSync](https://github.com/Microsoft/idfix).
 
 Para mais informações, consulte [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).

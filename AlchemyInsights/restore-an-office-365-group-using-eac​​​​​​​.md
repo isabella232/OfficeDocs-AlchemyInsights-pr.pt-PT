@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
 ms.openlocfilehash: 34d7b9195ff7d8d8d43da173a4c77643080ef67e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.sourcegitcommit: e2bc22150b58db99452a79b33a926e0e66e2a98b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801411"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "50714002"
 ---
 # <a name="restore-a-microsoft-365-group-using-the-exchange-admin-center"></a>Restaurar um Grupo Microsoft 365 utilizando o centro de administração Exchange
 
-1. Na navegação à esquerda do centro de administração Microsoft 365, expanda o **centro de administração**e, em seguida, escolha **Exchange**.
+1. Na navegação à esquerda do centro de administração Microsoft 365, expanda o **centro de administração** e, em seguida, escolha **Exchange**.
     
 2. No centro de administração do Exchange, selecione **destinatários** e, em seguida, selecione **grupos**. Poderá ver se o grupo está Ativo ou Eliminado de forma recuperável. Se o grupo tiver sido eliminado permanentemente, não estará na lista.
     

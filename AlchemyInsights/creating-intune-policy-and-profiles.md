@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 9026beac824ebc3849241dbb534c27b00ef1d0eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746770"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704653"
 ---
 # <a name="creating-intune-policy-and-profiles"></a>Criação de políticas e perfis intune
 
@@ -28,7 +28,7 @@ Em Intune, pode criar políticas e perfis que façam coisas diferentes.
 
   [O que é a inscrição de dispositivos](https://docs.microsoft.com/intune/device-enrollment), e criar perfis de inscrição para [Android](https://docs.microsoft.com/intune/android-enroll), [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll)e [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) são bons recursos.
 
-- **Políticas de**conformidade : Defina as regras e configurações que os dispositivos devem seguir para serem compatíveis. Também pode utilizar políticas de conformidade para monitorizar os dispositivos e notificar os utilizadores de incumprimento.
+- **Políticas de** conformidade : Defina as regras e configurações que os dispositivos devem seguir para serem compatíveis. Também pode utilizar políticas de conformidade para monitorizar os dispositivos e notificar os utilizadores de incumprimento.
 
   Começar com [as políticas de conformidade do dispositivo.](https://docs.microsoft.com/intune/device-compliance-get-started)
 - **Políticas de acesso condicional**: Ajude a garantir recursos organizacionais, dependendo das condições em que insira. Por exemplo, para dispositivos que não estejam em conformidade, utilize acesso condicional para restringir o acesso a e-mail e SharePoint.
@@ -43,4 +43,4 @@ Links úteis:
 
 - [Questões, questões e resoluções comuns com políticas e perfis de dispositivos no Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Políticas e perfis de resolução de problemas em Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Políticas e perfis de resolução de problemas em Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)

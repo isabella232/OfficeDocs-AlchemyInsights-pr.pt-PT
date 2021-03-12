@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 58b428e3110c06b8b39d45d327ac514c4245be81
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4fcd6682b2676e724ab6628b28e3b82afbbf0c8b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687805"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704761"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Adicione, remova ou impeça os utilizadores de alterar fotos de perfil
 
@@ -25,6 +25,6 @@ ms.locfileid: "47687805"
 
 - **Remoção de fotos de perfil:** As fotos de perfil podem ser removidas por um administrador na [Azure Ative Directory User Management](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) ou por um utilizador no seu perfil de utilizador microsoft Teams.
 
-- **Alterações de foto de perfil de bloqueio:** As alterações de fotografia podem ser bloqueadas para toda a Microsoft 365* adicionando uma política de Aplicação Web Outlook de acordo com o artigo, [bloqueando fotografias ou restringindo permissões para alterar a foto de perfil do Microsoft 365](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **Alterações de foto de perfil de bloqueio:** As alterações de fotografia podem ser bloqueadas para toda a Microsoft 365* adicionando uma política de Aplicação Web Outlook de acordo com o artigo, [bloqueando fotografias ou restringindo permissões para alterar a foto de perfil do Microsoft 365](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_dep365-mso_o365b/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
-*Por favor, note que as Equipas microsoft não suportam atualmente a política da App Web do Outlook para bloquear alterações de fotografias, mas planeia adicionar suporte a esta funcionalidade no início de 2020.
+*O Microsoft Teams não suporta atualmente a política da App Web Outlook para bloquear alterações de fotografias, mas planeia adicionar suporte a esta funcionalidade no início de 2020.

@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 5eec5982118b4f0246afadf2af219b2d5f32f95c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20ef8205431aad821419f2559be3402c8228d838
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807670"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704797"
 ---
 # <a name="conditional-access-with-intune"></a>Acesso Condicional com Intune
 
@@ -30,7 +30,7 @@ A utilização  **do Acesso Condicional**  com Intune requer 3 passos:
 
 [Resolução de problemas CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Política de resolução de problemas](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[Política de resolução de problemas](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
 Para proteger o Email (Exchange online) do acesso por dispositivos não conformes, ambos os documentos devem ser seguidos:
 

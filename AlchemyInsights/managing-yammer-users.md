@@ -12,12 +12,12 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 5aaca1ca3095616606da2e36c1f992af6366ac47
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b0c44ffd3dd1a9f8f2a021299dc8d9ada200636
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812738"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704725"
 ---
 # <a name="managing-yammer-users"></a>Gerir utilizadores da Yammer
 
@@ -29,7 +29,7 @@ ms.locfileid: "47812738"
 
   - Gerir utilizadores da Yammer da Microsoft 365
 
-2. Por [favor, consulte Add, block ou remova os utilizadores yammer](https://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) para obter informações sobre a gestão dos utilizadores a partir da consola de administração Yammer. Isto inclui:
+2. Por [favor, consulte Add, block ou remova os utilizadores yammer](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) para obter informações sobre a gestão dos utilizadores a partir da consola de administração Yammer. Isto inclui:
 
   - Convidar ou remover utilizadores
 

@@ -25,7 +25,7 @@ ms.locfileid: "50901578"
 Poderá ter problemas com a inclusão de computadores com o serviço MDE. Se consegue aceder ao computador do utilizador final, siga estes passos:
 
 1. Transfira a versão de pré-visualização da ferramenta de diagnóstico [MDE Client Analyzer](https://aka.ms/betamdeanalyzer).
-2. Clique com o botão direito do rato em **MDEClientAnalyzer.cmd** e selecione ‘Executar como administrador’.
+2. Clique com o botão direito do rato em **MDEClientAnalyzer.cmd** e selecione "Executar como administrador".
 3. Siga as orientações sugeridas em **MDEClientAnalyzer.htm**.
 4. Para obter registos mais detalhados, consulte a subpasta criada com o nome **MDEClientAnalyzerResult**.
 5. Se necessitar de orientações adicionais, contacte o [suporte do Microsoft Defender para Ponto Final](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) e forneça o ficheiro MDEClientAnalyzerResult.zip resultante para análise.

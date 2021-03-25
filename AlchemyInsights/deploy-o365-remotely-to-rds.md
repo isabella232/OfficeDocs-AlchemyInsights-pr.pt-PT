@@ -2,8 +2,8 @@
 title: Implementação de Aplicativos Microsoft 365 para uso partilhado em RDS, Terminal Server ou VDI
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 22ded616e82b2e82023b55a1d3ca6251cfb71712
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a57be7fcf9d8236a51dc4b38e33ad1c2ac717f11
+ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745546"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51200684"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Implementação de Aplicativos Microsoft 365 para uso partilhado em RDS, Terminal Server ou VDI
 
 Para implementar aplicações microsoft 365 para empresas que utilizem serviços de desktop remoto (RDS), anteriormente nomeados Serviços de Terminal:
+
 - Você deve ter um plano Microsoft 365 Para Negócios ou um plano office 365 que inclui Aplicações Microsoft 365 para empresas, tais como Office 365 Enterprise E3 ou Enterprise E5.
-   > [!NOTE] 
-   > As aplicações microsoft 365 para negócios e os planos Microsoft 365 Business Premium Standard não incluem aplicações microsoft 365 para empresas.
+   > [!NOTE]
+   > As aplicações microsoft 365 para negócios e os planos Microsoft 365 Business Standard não incluem aplicações microsoft 365 para empresas.
 - Tem de [ativar a ativação partilhada do computador.](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)
 
 > [!NOTE]
@@ -34,19 +35,19 @@ Para implementar aplicações microsoft 365 para empresas que utilizem serviços
 Para obter mais informações sobre pré-requisitos, instruções de configuração e orientação sobre instalações personalizadas utilizando a Ferramenta de Implementação do Office, consulte [implementar aplicações do Microsoft 365 para empresas utilizando serviços de ambiente de trabalho remotos](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
 
 Corrigir erros relacionados com a ativação partilhada do computador:
+
 - Consulte [problemas de resolução de problemas com ativação de computador partilhada para aplicações da Microsoft 365 para empresa](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
 - Consulte [Reset Microsoft 365 Apps for enterprise activation state](https://go.microsoft.com/fwlink/?linkid=2109218) (Repor as Aplicações do Microsoft 365 para empresas).
 
 Se pretender instalar aplicações microsoft 365 para empresas em RDS a partir do centro de administração Microsoft 365, ***que utiliza definições de instalação predefinidos,*** utilize os seguintes passos:
 
-1.    Verifique a subscrição que tem. [Saiba como](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
-2.    Se necessário, mude para uma subscrição diferente. [Saiba como](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
-3.    Se o Office já estiver instalado no servidor RDS utilizando quaisquer outras subscrições da Microsoft, desinstale-o. Por exemplo, indo ao **Painel de Controlo**  >  **Desinstale um programa**. Desinstala-se utilizando [o Microsoft Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) se estiver a ter problemas.
-4.    No servidor RDS, inscreva-se no centro de administração microsoft 365 com a sua conta de administrador e [instale aplicações microsoft 365 para empresa](https://portal.office.com/OLS/MySoftware.aspx).
-5.    Depois de instalado o Office, ***não abra nem inscreva nenhuma*** aplicação do Office.
-6.    No servidor RDS, ative a ativação partilhada do computador editando o registo seguindo estes passos:
-   1. Clique no botão Windows no canto inferior esquerdo do seu ecrã e selecione **Executar**. Na caixa Aberta, escreva **regedit**e, em seguida, selecione **OK**.
+1. Verifique a subscrição que tem. [Saiba como](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
+2. Se necessário, mude para uma subscrição diferente. [Saiba como](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+3. Se o Office já estiver instalado no servidor RDS utilizando quaisquer outras subscrições da Microsoft, desinstale-o. Por exemplo, indo ao **Painel de Controlo**  >  **Desinstale um programa**. Desinstala-se utilizando [o Microsoft Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) se estiver a ter problemas.
+4. No servidor RDS, inscreva-se no centro de administração microsoft 365 com a sua conta de administrador e [instale aplicações microsoft 365 para empresa](https://portal.office.com/OLS/MySoftware.aspx).
+5. Depois de instalado o Office, ***não abra nem inscreva nenhuma*** aplicação do Office.
+6. No servidor RDS, ative a ativação partilhada do computador editando o registo seguindo estes passos:
+   1. Clique no botão Windows no canto inferior esquerdo do seu ecrã e selecione **Executar**. Na caixa Abrir, escreva **regedit** e, em seguida, selecione **OK**.
    2. Selecione **Sim** quando solicitado para permitir que o Editor de Registo escora alterações no seu dispositivo.
    3. No Editor de Registo, adicione um valor de cadeia de **SharedComputerLicensing** com uma definição de 1 em HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
    4. No servidor RDS, ***inscreva-se como utilizador final*** e verifique se a [ativação partilhada do computador está ativada para as Aplicações da Microsoft 365 para a empresa](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
-

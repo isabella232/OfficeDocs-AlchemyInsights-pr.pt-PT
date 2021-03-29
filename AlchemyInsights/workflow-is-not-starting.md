@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e3b8777ed74b812b31338784999eea43a95d3456
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794778"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403754"
 ---
 # <a name="workflow-is-not-starting"></a>O fluxo de trabalho não está a começar
 
 - Os fluxos de trabalho do SharePoint 2010 e do SharePoint 2013 não estão a começar.
 
-    - Se o seu fluxo de trabalho não estiver a começar, pode haver um problema de serviço temporário onde os utilizadores podem sofrer atrasos intermitentes com o progresso do fluxo de trabalho. Consulte o [Painel de Saúde](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) do Serviço para ver se a sua organização está com impacto.
+    - Se o seu fluxo de trabalho não estiver a começar, pode haver um problema de serviço temporário onde os utilizadores podem sofrer atrasos intermitentes com o progresso do fluxo de trabalho. Consulte o [Painel de Saúde](https://admin.microsoft.com/AdminPortal/Home/servicehealth) do Serviço para ver se a sua organização está com impacto.
 
     - Se passaram mais de 24 horas desde que viu este problema pela primeira vez, por favor, faça um bilhete de apoio. Em muitos casos, já estamos a trabalhar numa solução. Por favor, dê-nos pelo menos 24 horas para completar uma solução.
 
@@ -47,5 +47,3 @@ ms.locfileid: "47794778"
 Quer experimentar o Microsoft Flow no SharePoint Online?
 - [Criar Fluxo](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint e Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
-
-

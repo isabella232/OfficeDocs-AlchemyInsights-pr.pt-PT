@@ -12,13 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003845"
+- "9004632"
 - "6894"
-ms.openlocfilehash: 7f626152c3833638436dfe05e8dcd13fc86ef594
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8358"
+ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583741"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402386"
 ---
 # <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Configure as definições de política do Microsoft Edge no Windows
 
@@ -26,7 +28,7 @@ Para configurar as definições de política e gerir as atualizações para o Mi
 
 Para configurar o Microsoft Edge utilizando GPOs, faça o seguinte:
 
-1. Para a Loja Central de Política de Grupo no seu domínio de Diretório Ativo, ou para a pasta de modelo de Definição de Política em computadores individuais, instale todos os modelos administrativos que adicionam regras e configurações para o Microsoft Edge.
+1. Vá à Loja Central de Política de Grupo no seu domínio Ative Directory ou à pasta do modelo de Definição de Política em computadores individuais, instale todos os modelos administrativos que adicionam regras e configurações para o Microsoft Edge.
 2. Configure as políticas específicas que pretende definir.
 
 Para saber mais, consulte [configurar as definições de política do Microsoft Edge no Windows](https://go.microsoft.com/fwlink/?linkid=2135024).

@@ -1,5 +1,5 @@
 ---
-title: Como partilhar ficheiros ou pastas SharePoint
+title: Como partilhar ficheiros ou pastas SharePoint ou OneDrive
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: f75b7521c384396bef61dd9cad256161ddf67d83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d021267604325d73d554c107ded943dc7084a24
+ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779026"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408125"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a>Como partilhar ficheiros ou pastas SharePoint
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>Como partilhar ficheiros ou pastas SharePoint ou OneDrive
 
-Os ficheiros que armazena num site do SharePoint estão normalmente disponíveis para todos os que possuem permissões para o site, mas pode querer partilhar ficheiros ou pastas específicos com pessoas que de outra forma não têm acesso ao site. Quando partilha ficheiros e pastas, pode decidir se permite que as pessoas editem ou apenas as vejam.
+Os ficheiros que armazena num site do SharePoint estão normalmente disponíveis para todos os que possuem permissões para o site, mas pode querer partilhar ficheiros ou pastas específicos com pessoas que de outra forma não têm acesso ao site. Quando partilha ficheiros e pastas, pode decidir se permite que as pessoas editem ou apenas as vejam. Para mais informações, consulte:
 
 [Partilhar ficheiros ou pastas SharePoint](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[Partilhar ficheiros e pastas OneDrive](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)

@@ -14,12 +14,12 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 9a8897767ebfebac5807116251634c615ef6767d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6bab821aaa3b50c365ef5d25a61bca195c76d7ce
+ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706761"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51426673"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Receber uma caixa de correio não encontrou erro no Outlook na web?
 
@@ -28,3 +28,9 @@ Se estiver a usar o Outlook na web e receber uma **Caixa de Correio não foi enc
 1. Abra o [centro de administração Microsoft 365](https://portal.office.com/adminportal/home#/homepage) e vá para **utilizadores Ativos** sob a secção **Utilizadores** e selecione o utilizador que está a ver o erro.
 
 2. Na página de utilizador que abre, aceda à secção **licenças e aplicações,** selecione o valor de **Localização** apropriado e atribua uma licença que contenha Exchange Online (expanda a licença para ver os seus dados). Quando terminar, clique em **Guardar as alterações.**
+
+Em alguns casos, se a licença já estiver atribuída a uma conta de utilizador, remover e reatribuir a licença ajuda a resolver o problema e a obtê-la adequadamente a provisionada no sistema: 
+
+- Verifique se as suas subscrições M365 Exchange Online (e outras, caso tenha alguma) estão em vigor e não expiraram recentemente.
+
+Uma vez que tenha assegurado que a sua subscrição não expirou e que foi atribuída uma licença válida à conta de utilizador, pode demorar até 24 horas para que a licença seja antesetada, pelo que poderá ter de esperar que o seu problema seja resolvido. Para mais informações, consulte [Atribuir e gerir licenças.](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses)

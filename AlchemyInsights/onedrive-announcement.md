@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002660"
 - "9422"
-ms.openlocfilehash: dec51a33f9801291765c48c11ec616e870f3e054
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: ecc1ecc0cede129cb66a788130d8d3bd7ab38ecf
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51405196"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440877"
 ---
 # <a name="one-drive-announcement"></a>Anúncio de Uma Unidade
 
-Faça o back up de ficheiros e fotografias automaticamente, para que tenha sempre acesso aos mesmos, mesmo que o seu PC esteja perdido, danificado ou roubado. Para obter mais informações, consulte [configurar a pasta para PC OneDrive gratuita.](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup)
+Faça o back up de ficheiros e fotografias automaticamente, para que tenha sempre acesso aos mesmos, mesmo que o seu PC esteja perdido, danificado ou roubado. [Configurar a pasta oneDrive PC gratuita.](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup)

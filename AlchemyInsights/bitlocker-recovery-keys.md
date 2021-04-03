@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685897"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505079"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Aceder às chaves de recuperação bitlocker
 
@@ -46,5 +46,6 @@ All Key Protectors
 Se o dispositivo foi encriptado antes da inscrição no Intune, a chave de recuperação pode ter sido associada à "Conta Microsoft" (MSA) utilizada para iniciar súpido no dispositivo durante o processo OOBE. Se for esse o caso, aceder  https://onedrive.live.com/recoverykey e iniciar sessão com esse MSA deverá mostrar os dispositivos para os quais foram armazenadas as chaves de recuperação.
  
 Se o dispositivo foi encriptado como resultado da configuração através da política de grupo baseada em domínio, as informações de recuperação podem ser armazenadas no Ative Directory no local.
- 
+
+Se tiver configurado a política de proteção endpoint para armazenar a chave de recuperação no Diretório Azure Ative, mas a chave para um dispositivo específico não foi carregada, pode ativar o upload rodando a chave de recuperação desse dispositivo a partir da consola MEM. Para mais detalhes, consulte [as teclas de recuperação do BitLocker rotativos](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
 

@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 04daad34d1097da0039ac63a13f793a550b68414
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696300"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645178"
 ---
 # <a name="issues-when-installing-exchange-server-updates"></a>Problemas ao instalar atualizações do Exchange Server
 
-Antes de instalar as atualizações do Exchange Server, consulte a secção "Boas Práticas" do artigo [Upgrade Exchange para a mais recente Atualização Cumulativa](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates). É especialmente importante instalar atualizações utilizando o pedido cmd elevado (a menos que as atualizações sejam instaladas através do Microsoft Update). Isto aplica-se tanto às atualizações cumulativas como à segurança!
+Se precisar de atualizar a mais recente Atualização Cumulativa (CU) para o Exchange Server, pode utilizar [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) para obter um conjunto detalhado de passos para atualizar da sua cu atual para a CU alvo.
 
-Se vir erros ao instalar atualizações de segurança ou após a instalação da atualização, consulte [este artigo sobre a resolução de problemas das instalações falhadas](https://aka.ms/exupdatefaq).
+Se houver erros durante ou após a instalação das atualizações do Exchange Server, consulte a secção "Boas Práticas" da bolsa de [valores para a mais recente Atualização Cumulativa](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates). É muito importante instalar atualizações de segurança utilizando o pedido de CMD elevado (se as atualizações não forem instaladas através do Microsoft Update).
+
+Se vir erros ao instalar atualizações de segurança ou após a instalação da atualização, consulte [as instalações falhadas da Reparação de Atualizações Cumulativas e de Segurança](https://aka.ms/exupdatefaq)do Exchange .

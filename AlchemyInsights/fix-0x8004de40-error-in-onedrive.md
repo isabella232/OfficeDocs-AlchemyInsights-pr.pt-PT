@@ -1,5 +1,5 @@
 ---
-title: Corrigir erro 0x8004de40 no OneDrive
+title: Corrigir erro de 0x8004de40 no OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: b9bd6dff48f78063e3d47f5fe2f834f59eb9868a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0edb3e19b5dea240c9f2846dc503e65d92113cb7
+ms.sourcegitcommit: 477cce131dc4a3c212ab18a8763a50b2f3bb20b1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745141"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51649759"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>Corrigir erro 0x8004de40 no OneDrive
+# <a name="fix-0x8004de40-error-in-onedrive"></a>Corrigir erro de 0x8004de40 no OneDrive
 
-Se receber um erro de 0x8004de40 com o OneDrive:
+Se estiver a executar o Windows 7 e receber este erro, [atualize para ativar o TLS 1.1 e o TLS 1.2 como protocolos seguros predefinidos no WinHTTP no Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392).
+
+Se estiver a executar o Windows 10 e receber um erro 0x8004de40 com o OneDrive:
 
 - Reinicie o computador afetado enquanto estiver ligado ao seu domínio acitve Directory.
 - Se um reboot não corrigir o problema, un un unin e rejoine o seu dispositivo a partir de Azure AD. 
 
-**Nota:** Deve estar na sua rede corporativa durante a realização destes passos. Não execute estes passos quando não é capaz de se conectar à sua infraestrutura corporativa (por exemplo, durante a viagem). 
+**Nota:** Deve estar na sua rede corporativa durante a realização destes passos. Não execute estes passos quando não estiver ligado à sua infraestrutura corporativa (por exemplo, durante a viagem). 
 
-- Abra um pedido de comando elevado. 
-- Para abrir um pedido de comando elevado, clique em - **Iniciar**, clique com o botão direito **Command Prompt**e, em seguida, clique em Executar **como administrador**.
-- Tipo *dsregcmd /leave* and press **Enter**.
-- Quando estiver concluído, *escreva /junte-se* e prima **Enter**.
-- Quando estiver completo, feche o aviso de comando.
-- Reinicie o computador e inicie sessão no OneDrive.
+1. Abra uma solicitação de comando elevada selecionando **Iniciar**, clique com o botão direito **Command Prompt** e, em seguida, selecione Executar **como administrador**.
+
+1. Tipo *dsregcmd /leave* and press **Enter**.
+
+1. Quando estiver concluído, *escreva /junte-se* e prima **Enter**.
+
+1. Quando estiver completo, feche o aviso de comando.
+
+1. Reinicie o computador e inicie sessão no OneDrive.

@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43739447"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692405"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Teams: problemas comuns de clientes das subscrições para educação
 
@@ -45,7 +46,7 @@ Se precisar de ajuda a implementar o Teams para suportar a aprendizagem remota, 
     6. No Centro de administração do Skype para Empresas, clique em **conferências áudio** e, em seguida, em **utilizadores**.
     7. Selecione o utilizador em questão e verifique se tem um Número de Serviço Pago Predefinido.
 
-    Para mais informações consulte [Planos de Chamadas](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou ligue para a equipa de faturação da Microsoft Commerce para obter ajuda com questões relacionadas com licenciamento.
+    Para mais informações consulte [Planos de chamadas do Microsoft Teams](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou ligue para a equipa de Faturação da Microsoft Commerce para obter ajuda com questões relacionadas com licenciamento.
 
     Recursos Adicionais
 

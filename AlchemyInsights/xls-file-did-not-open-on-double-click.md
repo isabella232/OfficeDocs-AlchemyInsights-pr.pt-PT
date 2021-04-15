@@ -2,7 +2,7 @@
 title: O ficheiro XLS não abriu em duplo clique
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796335"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770606"
 ---
 # <a name="excel-file-doesnt-open"></a>O ficheiro Excel não abre
 
@@ -37,7 +37,7 @@ Experimente uma destas sugestões:
 
 **Desinstalar versões do Office que não utiliza**
 
-1. Vá ao **Painel de Controlo > Desinstale um Programa**e, em seguida, selecione a versão do Office que pretende remover.
+1. Vá ao **Painel de Controlo > Desinstale um Programa** e, em seguida, selecione a versão do Office que pretende remover.
 
 2. Clique **em Desinstalar**.
 
@@ -47,4 +47,4 @@ Experimente uma destas sugestões:
 
 1. Gere este problema: https://aka.ms/diag_officefile .
 
-2. Dependendo do seu navegador, **abra** ou **guarde** o resolução de problemas para o seu ambiente de trabalho e, em seguida, execute-o. **Run**
+2. Dependendo do seu navegador, **abra** ou **guarde** o resolução de problemas para o seu ambiente de trabalho e, em seguida, execute-o. 

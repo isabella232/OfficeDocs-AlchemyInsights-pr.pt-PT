@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
@@ -11,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002264"
 - "4385"
-ms.openlocfilehash: 6282139c8ea88c45f5990019fb9ef4cf62c34b66
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: 0ab3ee85866795b655d7838884658d6f4727503f
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953950"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692825"
 ---
-# <a name="set-up-a-conferencing-bridge-for-teams"></a><span data-ttu-id="b1837-102">Configurar uma bridge de conferências para o Teams</span><span class="sxs-lookup"><span data-stu-id="b1837-102">Set up a conferencing bridge for Teams</span></span>
+# <a name="set-up-a-conferencing-bridge-for-teams"></a><span data-ttu-id="dfb83-102">Configurar uma bridge de conferências para o Teams</span><span class="sxs-lookup"><span data-stu-id="dfb83-102">Set up a conferencing bridge for Teams</span></span>
 
-<span data-ttu-id="b1837-103">Só precisa de configurar as Conferências de Áudio para as pessoas que pretendem agendar ou organizar reuniões.</span><span class="sxs-lookup"><span data-stu-id="b1837-103">You only need to set up Audio Conferencing for people who plan to schedule or lead meetings.</span></span> <span data-ttu-id="b1837-104">Fornecemos um processo passo a passo para completar a configuração do sistema telefónico.</span><span class="sxs-lookup"><span data-stu-id="b1837-104">We've provided a step-by-step process to complete the phone system setup.</span></span> <span data-ttu-id="b1837-105">Consulte [Configuração do Sistema Telefónico na sua organização](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span><span class="sxs-lookup"><span data-stu-id="b1837-105">Please review [Setting up Phone System in your organization](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span></span>
+<span data-ttu-id="dfb83-103">Só precisa de configurar as Conferências de Áudio para as pessoas que pretendem agendar ou organizar reuniões.</span><span class="sxs-lookup"><span data-stu-id="dfb83-103">You only need to set up Audio Conferencing for people who plan to schedule or lead meetings.</span></span> <span data-ttu-id="dfb83-104">Fornecemos um processo passo a passo para completar a configuração do sistema telefónico.</span><span class="sxs-lookup"><span data-stu-id="dfb83-104">We've provided a step-by-step process to complete the phone system setup.</span></span> <span data-ttu-id="dfb83-105">Reveja a [Definição do Telefone Microsoft Teams na sua organização](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span><span class="sxs-lookup"><span data-stu-id="dfb83-105">Please review [Setting up Microsoft Teams Phone in your organization](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span></span>

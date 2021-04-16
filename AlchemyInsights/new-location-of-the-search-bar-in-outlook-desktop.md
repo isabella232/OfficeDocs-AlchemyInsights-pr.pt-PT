@@ -2,7 +2,7 @@
 title: Nova localização da barra de pesquisa no desktop do Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800005"
 - "5620"
-ms.openlocfilehash: 920b5cd73b366e1bf656cd7090814ceb6beb3b8f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 25c97e81eff5daf75d22072353af319c237ced66
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803184"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51791855"
 ---
 # <a name="new-location-of-the-search-bar-in-outlook-desktop"></a>Nova localização da barra de pesquisa no desktop do Outlook
 

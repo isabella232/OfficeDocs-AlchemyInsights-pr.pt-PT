@@ -2,7 +2,7 @@
 title: 'Erro de aplicações da Microsoft 365: A app deparou-se com um erro que está a impedi-lo de funcionar corretamente'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2534"
 - "9000572"
-ms.openlocfilehash: aaff626451e389c229cf0ed0532e44b637090fec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0ddd01e62dd25f63f6b6941097fd0d49c5cddfe7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802968"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801998"
 ---
 # <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Erro de aplicações da Microsoft 365: A app deparou-se com um erro que está a impedi-lo de funcionar corretamente
 
@@ -30,7 +30,7 @@ Para corrigir este erro, experimente as seguintes opções:
 
 **Nota:** Se o problema ocorrer com documentos específicos, esses documentos podem ser corruptos. Ver [Como resolver os problemas de documentos danificados](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 
-Para obter mais informações, consulte: 
+Para mais informações, consulte: 
 
 - [Erro ao abrir aplicações microsoft Microsoft 365](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
 - [Tenho um erro de "parar de trabalhar" quando começo as aplicações do Office no meu PC](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)

@@ -1,8 +1,8 @@
 ---
-title: Ver palavra-passe da rede Wi-Fi no Windows 10
+title: Ver Wi-Fi palavra-passe de rede no Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: dd4fa680b03a7f9dd29a22189b3e22b76e3f2025
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 254c192084ef7022f7bfbb146ecf8df57e6ff2a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689101"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51807389"
 ---
-# <a name="view-wi-fi-network-password-in-windows-10"></a>Ver palavra-passe da rede Wi-Fi no Windows 10
+# <a name="view-wi-fi-network-password-in-windows-10"></a>Ver Wi-Fi palavra-passe de rede no Windows 10
 
 1. Certifique-se de que o seu PC Windows 10 está ligado à rede Wi-Fi.
 
@@ -33,9 +33,9 @@ ms.locfileid: "47689101"
 
     ![Ligações de rede.](media/network-connections.png)
 
-    Clique no nome da rede sem fios para abrir a janela 'Estado Wi-Fi'. 
+    Clique no nome da rede sem fios para abrir a janela Wi-Fi Status. 
 
-5. Na janela 'Estado Wi-Fi', clique **em Propriedades Sem Fios,** clique no separador **Segurança** e verifique os caracteres **do Show**.
+5. Na janela status Wi-Fi, clique em **Propriedades Sem Fios,** clique no separador **Segurança** e verifique os caracteres **Do Show**.
 
-    ![Mostre caracteres de palavra-passe Wi-Fi.](media/show-password-characters.png)
+    ![Mostre Wi-Fi caracteres de senha.](media/show-password-characters.png)
 

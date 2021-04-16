@@ -1,29 +1,30 @@
 ---
-title: Obtenha suporte para Windows ou Azure
+title: Obter suporte para Windows ou Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002474"
 - "4811"
-ms.openlocfilehash: fdc2b1fc30e5f3b5a06c9a489789e81fe342a890
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
-ms.translationtype: MT
+ms.openlocfilehash: 2b5b1b6ed6395878c6fcb79454624c4aeb185585
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44493262"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812151"
 ---
-# <a name="get-support-for-windows-or-azure"></a>Obtenha suporte para Windows ou Azure
+# <a name="get-support-for-windows-or-azure"></a>Obter suporte para Windows ou Azure
 
-Para Windows ou Azure, a Microsoft fornece uma variedade de planos para ajudá-lo a obter o suporte de negócio assistido que precisa, desde suporte premium disponível dia e noite, até opções pay-per-incident. Se a sua organização não tiver um plano de apoio pago, escolha uma opção abaixo para obter mais informações.
+Para o Windows ou o Azure, a Microsoft oferece vários planos para o ajudar a obter o suporte profissional assistido de que necessita, desde o suporte premium disponível 24 horas, às opções de pagamento por incidente. Se a sua organização não tiver um plano de suporte pago, selecione uma opção abaixo para obter mais informações.
 
-- **Microsoft Unified Support** - O Suporte Unificado da Microsoft altera fundamentalmente a experiência de suporte da empresa, proporcionando cobertura a toda a organização para todos os seus produtos e serviços microsoft, novas capacidades expansivas para capacitar profissionais e desenvolvedores de TI, e uma abordagem baseada em resultados para oferecer um maior valor de suporte à medida que a sua organização cresce. Saiba mais no [site do Apoio Unificado.](https://aka.ms/unified-support)
-- **Microsoft Professional Support (pay-per-incident)** - Se precisar de suporte técnico imediato para o seu negócio, o Apoio Profissional está disponível como um único pay-per-incident (PPI) ou um pacote de 5 incidentes. Os especialistas da Microsoft ajudam-no a resolver um problema específico, uma mensagem de erro ou uma funcionalidade que não está a funcionar como esperado. Para saber mais e comprar pagamento por suporte a incidentes, [crie um novo pedido de apoio.](https://support.microsoft.com/supportforbusiness/productselection)
-- **Suporte Azure** - O suporte de faturação e subscrição está incluído na subscrição do Microsoft Azure, que pode submeter através do [portal de administração microsoft Azure](https://portal.azure.com/). Para suporte técnico, pode adquirir [planos de suporte do Microsoft Azure](https://azure.microsoft.com/support/plans/) através de programas de licenciamento de volume ou diretamente da Microsoft.
+- **Suporte Unificado da Microsoft** - basicamente, o Suporte Unificado da Microsoft altera a experiência de suporte empresarial, fornecendo cobertura em toda a organização para todos os seus produtos e serviços Microsoft, novas funcionalidades expansivas para capacitar profissionais e programadores de TI, e uma abordagem baseada em resultados para fornecer um maior valor de suporte à medida que a sua organização cresce. Saiba mais sobre o [site do Suporte Unificado](https://aka.ms/unified-support).
+- **Suporte profissional da Microsoft (pago-por-incidente)** - se precisar de suporte técnico imediato para a sua empresa, o Suporte Profissional está disponível como um único pagamento por incidente (PPI) ou um pack de 5 incidentes. Os especialistas da Microsoft ajudam-no a resolver um problema específico, uma mensagem de erro ou uma funcionalidade que não está a funcionar conforme esperado. Para saber mais e comprar o suporte pago por incidente, [crie um novo pedido de suporte](https://support.microsoft.com/supportforbusiness/productselection).
+- **Suporte do Azure** - O suporte de faturação e de subscrição está incluído na sua subscrição do Microsoft Azure, que pode submeter através do [portal de administrador do Microsoft Azure](https://portal.azure.com/). Para suporte técnico, pode comprar [Planos de suporte do Microsoft Azure](https://azure.microsoft.com/support/plans/) através de programas de licenciamento em volume ou diretamente na Microsoft.
 
-Se o seu problema estiver relacionado com o Microsoft 365, ressai reclae a sua consulta utilizando nomes e funcionalidades específicas do produto.
+Se o seu problema estiver relacionado com o Microsoft 365, reformule a consulta usando nomes e funcionalidades de produto específicos.

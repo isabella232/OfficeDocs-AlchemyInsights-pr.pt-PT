@@ -1,35 +1,36 @@
 ---
-title: Corrigir problemas com cadernos de abertura
+title: Corrigir problemas ao abrir blocos de notas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002359"
 - "4718"
-ms.openlocfilehash: c867da55661bd520367b8f909ebe18656e8ffc93
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: MT
+ms.openlocfilehash: 0d31e84fbb4faaadc435f826c61860c69ba01744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "44283213"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812835"
 ---
-# <a name="fix-issues-with-opening-notebooks"></a>Corrigir problemas com cadernos de abertura
+# <a name="fix-issues-with-opening-notebooks"></a>Corrigir problemas ao abrir blocos de notas
 
-**Importante:** Pode ver a mensagem: "Estamos a sentir limitações com o OneNote nas Equipas microsoft. Por favor, use o OneNote para a web editar este caderno."
+**Importante**: poderá ver a mensagem, "Estamos a ter algumas dificuldades com o OneNote no Microsoft Teams. Utilize o OneNote na Web para editar este bloco de notas."
 
-Consulte o ID do [Message Center: 207439 - Consciência dos ajustes temporários da funcionalidade microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207439).
+Consulte [ID do centro de mensagens: 207439 - Divulgação dos ajustes da funcionalidade temporária do Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207439).
 
 O OneNote in Teams estará apenas disponível em modo de leitura para inquilinos comerciais e de educação. Para editar, utilize o OneNote para a web ou a aplicação do OneNote para ambiente de trabalho.
 
-Aqui estão algumas resoluções comuns para questões com cadernos de abertura:
+Eis algumas resoluções comuns para problemas ao abrir blocos de notas:
 
-1. Pode não conseguir abrir o caderno porque está registado na sua conta pessoal em vez do seu trabalho ou conta escolar.
-    - Se o caderno abrir no OneNote para a web, certifique-se de que está a iniciar sessão com credenciais atuais no OneNote.
-    - No OneNote 2016, clique em **File > Account** e Assine **Fora** de todas as contas. Volte a fazer o sessão utilizando uma conta de utilizador com uma licença válida. Para obter informações detalhadas, consulte [Contas no Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9). 
-    - No OneNote para Windows, clique na elipse (**...**) na parte superior direita do ecrã, clique em **Definições > Contas,** e certifique-se de que uma conta de trabalho ou de escola está listada. 
-2. Se o caderno que não abre for armazenado no OneDrive ou no SharePoint Online, tente abrir o portátil no [OneNote para a web](https://onenote.com). Se o caderno não estiver listado, pode não ter permissões. Se for um caderno partilhado, peça ao proprietário que o partilhe e certifique-se de que está a usar a conta correta para fazer login.
+1. Poderá não conseguir abrir o bloco de notas porque tem sessão iniciada com a sua conta pessoal em vez da sua conta escolar ou profissional.
+    - Se o bloco de notas abrir no OneNote na Web, certifique-se de que está a iniciar sessão com as credenciais atuais no OneNote.
+    - No OneNote 2016, clique em **Ficheiro > Conta** e **Termine sessão** em todas as contas. Volte a iniciar sessão usando uma conta de utilizador com uma licença válida. Para obter informações detalhadas, consulte [Contas no Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9). 
+    - No OneNote para Windows, clique nas reticências (**...**) no canto superior direito do ecrã, clique em **Definições > Contas**, e certifique-se de que é apresentada uma conta escolar ou profissional. 
+2. Se o bloco de notas que não abrir estiver armazenado no OneDrive ou no Microsoft Office SharePoint Online, experimente abrir o bloco de notas no [Microsoft OneNote na Web](https://onenote.com). Se o bloco de notas não estiver listado, poderá não ter permissões para o mesmo. Se for um bloco de notas partilhado, peça ao proprietário para o partilhar e certifique-se de que está a utilizar a conta correta para iniciar sessão.

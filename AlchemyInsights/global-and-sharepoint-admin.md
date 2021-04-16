@@ -1,32 +1,33 @@
 ---
-title: Administração Global e SharePoint
+title: Administrador Global e do Microsoft Office SharePoint Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5674"
-ms.openlocfilehash: 231f302bd3f3655b1fe72518d71b14d464914ce0
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
-ms.translationtype: MT
+ms.openlocfilehash: 91abc97be5d616392f8d04b3641af3c9dd8bfd74
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44716430"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811899"
 ---
-# <a name="global-and-sharepoint-admin"></a>Administração Global e SharePoint
+# <a name="global-and-sharepoint-admin"></a>Administrador Global e do Microsoft Office SharePoint Online
 
-Os administradores global e sharePoint precisam de ser atribuídos a uma licença SharePoint. As contas recém-criadas apenas atribuídas com uma licença SharePoint ou função de administrador podem experimentar problemas de acesso ao SharePoint, como "acesso negado" ou "utilizador não encontrado". Por favor, dê pelo menos 24 horas para sincronização para completar em todos os nossos sistemas. Sabemos que 24 horas podem parecer muito tempo. Em muitos casos, já estamos a trabalhar numa solução.
+É necessário atribuir uma licença do Microsoft Office SharePoint Online aos administradores globais e do SharePoint. As novas contas criadas apenas com uma licença do Microsoft Office SharePoint Online ou uma função de administrador podem ter problemas em aceder ao Microsoft Office SharePoint Online, como "acesso negado" ou "utilizador não encontrado". Aguarde pelo menos 24 horas para que a sincronização seja concluída em todos os sistemas. Compreendemos que 24 horas pode parecer muito tempo. Em muitos casos, estamos a trabalhar numa solução.
 
-Os utilizadores atribuídos à função de administração Global ou SharePoint têm acesso ao centro de administração do SharePoint e podem criar e gerir sites (anteriormente chamados "coleções de sites"), designar administradores de sites, gerir definições de partilha, entre outros. Não têm acesso automático a todos os sites e ao OneDrive de cada utilizador, mas podem dar-se acesso a qualquer site ou OneDrive. Também podem usar o Microsoft PowerShell para gerir o SharePoint e o OneDrive.
+Os utilizadores a quem foi atribuída a função de administrador global ou do Microsoft Office SharePoint Online têm acesso ao Centro de Administração do SharePoint Online e podem criar e gerir sites (anteriormente designados de "coleções de sites"), designar administradores de sites, gerir definições de partilha, e muito mais. Não têm acesso automático a todos os sites nem ao Microsoft OneDrive de cada utilizador, mas podem conceder-lhes acesso a qualquer site ou ao Microsoft OneDrive. Também podem utilizar o Microsoft PowerShell para gerir o Microsoft Office SharePoint Online e o Microsoft OneDrive.
 
-Para saber mais, consulte [sobre o papel de administrador do SharePoint na Microsoft 365](https://docs.microsoft.com/sharepoint/sharepoint-admin-role).
+Para saber mais, consulte [Sobre a função de administrador do Microsoft Office SharePoint Online no Microsoft 365](https://docs.microsoft.com/sharepoint/sharepoint-admin-role).
 Há várias razões pelas quais o Microsoft SharePoint ou o Microsoft OneDrive podem ficar inacessíveis. Se não conseguir aceder ao SharePoint Online, utilize o seguinte guia para resolver este problema.
 
 - [Incapaz de aceder ao SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
 
-- [Acesso negado para contas de utilizadores geridas por PIM no SharePoint ou no Centro de Administração OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-to-pim-user-accounts)
+- [Acesso negado para contas de utilizador geridas pelo PIM no Microsoft Office SharePoint Online ou no Centro de Administração do Microsoft OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-to-pim-user-accounts)

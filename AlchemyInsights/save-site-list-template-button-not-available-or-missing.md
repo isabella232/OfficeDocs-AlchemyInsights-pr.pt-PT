@@ -1,31 +1,32 @@
 ---
-title: Guardar botão de modelo de site/lista não disponível ou em falta
+title: Botão guardar modelo de site/lista indisponível ou em falta
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5709"
-ms.openlocfilehash: 90ff4b0d84f9d27ea9662014545fb7045a720aea
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: a7dadd6fed2d6623c60e66a6ac564b6160be5aa5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358068"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789299"
 ---
-# <a name="save-sitelist-template-button-not-available-or-missing"></a>Guardar botão de modelo de site/lista não disponível ou em falta
+# <a name="save-sitelist-template-button-not-available-or-missing"></a>Botão guardar modelo de site/lista indisponível ou em falta
 
-A capacidade de salvar um site como modelo não é suportada com sites modernos de Comunicação ou Equipa. Para obter mais informações sobre a utilização de modelos, consulte [Guardar, transferir e carregar um site do SharePoint como modelo](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
+A capacidade de guardar um site como um modelo não é suportada com Comunicação moderna ou Sites de Equipa. Para obter mais informações sobre como utilizar modelos, consulte o artigo [Guardar, transferir e carregar um site do SharePoint como um modelo](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
 
-Os administradores terão de permitir o Script Personalizado para ativar as funcionalidades do modelo. Para etapas detalhadas, exemplos e considerações ver:
+Os administradores terão de Permitir o Script Personalizado para ativar as funcionalidades de modelo. Para obter passos detalhados, exemplos e considerações, consulte:
 
-- [Permitir ou prevenir scriptpersonalizado](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [Permitir ou impedir um script personalizado](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- O site Save como comando de modelo não é suportado e pode causar problemas em sites que usam a Infraestrutura de Publicação do Servidor SharePoint.
+- O comando Guardar site como modelo não é suportado e pode causar problemas em sites que utilizem a Infraestrutura de Publicação do SharePoint Server.
 
 

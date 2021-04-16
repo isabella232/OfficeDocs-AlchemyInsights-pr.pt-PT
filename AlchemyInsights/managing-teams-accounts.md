@@ -1,8 +1,8 @@
 ---
-title: Contas de Gestão de Equipas
+title: Gerir contas do Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003572"
 - "6659"
-ms.openlocfilehash: 227bddf2d37190f0b70092b4169349fbe5386c3c
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
-ms.translationtype: MT
+ms.openlocfilehash: dd3bf836a6a7173f422381f6f9909847418a9264
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365009"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794663"
 ---
-# <a name="managing-teams-accounts"></a><span data-ttu-id="3862a-102">Contas de Gestão de Equipas</span><span class="sxs-lookup"><span data-stu-id="3862a-102">Managing Teams accounts</span></span>
+# <a name="managing-teams-accounts"></a><span data-ttu-id="7d478-102">Gerir contas do Teams</span><span class="sxs-lookup"><span data-stu-id="7d478-102">Managing Teams accounts</span></span>
 
-<span data-ttu-id="3862a-103">Para obter informações [gerais, consulte Gerir as definições e permissões](https://support.microsoft.com/office/ce053b04-1b8e-4796-baa8-90dc427b3acc#ID0EAABAAA=Desktop)da equipa em Equipas.</span><span class="sxs-lookup"><span data-stu-id="3862a-103">For general information, see [Manage team settings and permissions in Teams](https://support.microsoft.com/office/ce053b04-1b8e-4796-baa8-90dc427b3acc#ID0EAABAAA=Desktop).</span></span>
+<span data-ttu-id="7d478-103">Para informações gerais, consulte [Gerir as definições e as permissões de equipas no Teams](https://support.microsoft.com/office/ce053b04-1b8e-4796-baa8-90dc427b3acc#ID0EAABAAA=Desktop).</span><span class="sxs-lookup"><span data-stu-id="7d478-103">For general information, see [Manage team settings and permissions in Teams](https://support.microsoft.com/office/ce053b04-1b8e-4796-baa8-90dc427b3acc#ID0EAABAAA=Desktop).</span></span>

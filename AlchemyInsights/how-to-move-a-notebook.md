@@ -2,7 +2,7 @@
 title: Como mover um caderno
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2495"
 - "9000580"
-ms.openlocfilehash: d6cc387f5d1cd8293ce85b65d4a0e5b024c71daf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38bfd961675dfb25170ba05c4aac52711eabb20e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703744"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51803627"
 ---
 # <a name="how-to-move-a-onenote-notebook"></a>Como mover um caderno OneNote
 

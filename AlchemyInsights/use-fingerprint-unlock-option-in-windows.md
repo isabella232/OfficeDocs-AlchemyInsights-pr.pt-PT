@@ -2,7 +2,7 @@
 title: Utilize a opção de desbloqueio de impressões digitais no Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: 99f037f62748c06d77b526e35f67b711885c4a1e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba1f2e7b0bb54e89178a320b8579b8d1bfdaff9a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795255"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796688"
 ---
 # <a name="use-fingerprint-unlock-option-in-windows-10"></a>Utilize a opção de desbloqueio de impressões digitais no Windows 10
 
@@ -29,7 +29,7 @@ Para desbloquear o Windows 10 utilizando a sua impressão digital, é necessári
 
     ![Opções de inscrição.](media/sign-in-options.png)
 
-2. Clique ou toque no **Windows Hello Fingerprint**e, em seguida, clique em **Configurar**. Na janela de configuração Do Windows Hello, clique **em Iniciar**. O sensor de impressões digitais será ativado, e ser-lhe-á pedido que coloque o dedo no sensor:
+2. Clique ou toque no **Windows Hello Fingerprint** e, em seguida, clique em **Configurar**. Na janela de configuração Do Windows Hello, clique **em Iniciar**. O sensor de impressões digitais será ativado, e ser-lhe-á pedido que coloque o dedo no sensor:
 
    ![Sensor de impressões digitais.](media/fingerprint-sensor.png)
 

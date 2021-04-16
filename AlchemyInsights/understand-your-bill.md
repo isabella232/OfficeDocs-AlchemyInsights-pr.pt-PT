@@ -2,9 +2,10 @@
 title: Compreender a sua fatura
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: a8b1c378856adaa13bcd33d8bc185a093f990e2f
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
+ms.openlocfilehash: 72f6ba61c8b898643aa967bb7c6ddaebf6c977de
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158410"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796868"
 ---
 # <a name="understand-your-bill"></a>Compreender a sua fatura
 
@@ -27,7 +28,7 @@ ms.locfileid: "43158410"
 
 2. Selecione um intervalo de datas a partir da lista pendente e, em seguida, escolha a encomenda que pretende rever ou clique na ligação **Transferir fatura em PDF** para visualizar uma cópia da conta.
 
-Para mais informações consulte [Ver a sua conta ou fatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+Para mais informações consulte [Ver a sua conta ou fatura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
 
 **Compreender a sua fatura**
 

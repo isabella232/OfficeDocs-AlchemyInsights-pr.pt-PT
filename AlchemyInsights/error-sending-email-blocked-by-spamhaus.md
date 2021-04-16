@@ -2,7 +2,7 @@
 title: Erro de envio de e-mail bloqueado por SpamHaus
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "255"
 - "3100003"
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: a0c2f4be0b2d8ba6fd3dadbdf306e6ce623ad380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b5ac1df0b6a07a475345235a8b4b555d6881147
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783814"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813735"
 ---
 # <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Erro de envio de e-mail: Anfitrião do cliente bloqueado usando Spamhaus
 

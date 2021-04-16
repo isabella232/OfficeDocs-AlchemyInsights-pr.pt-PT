@@ -2,7 +2,7 @@
 title: ferramenta de exportação eDiscovery
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277935"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814599"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Não pode instalar ou executar a ferramenta de exportação eDiscovery?
 
@@ -42,7 +42,7 @@ Se não conseguir instalar ou executar a Ferramenta de Exportação de eDiscover
 
     Outros navegadores, como o Google Chrome e Mozilla Firefox, não são suportados.
 
-- A sua organização pode ligar-se ao ponto final em Azure, que é ** \* .blob.core.windows.net** (o wildcard representa um identificador único para o seu trabalho de exportação).
+- A sua organização pode ligar-se ao ponto final em Azure, que é **\* .blob.core.windows.net** (o wildcard representa um identificador único para o seu trabalho de exportação).
 
 - Foi-lhe atribuída a função de Exportação no Microsoft 365 Security &amp; Compliance Center. Por padrão, esta função é atribuída apenas ao grupo de funções eDiscovery Manager. Ver [Atribuir permissões eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 

@@ -2,7 +2,7 @@
 title: Resolução de dados em falta no OneNote
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2500"
-ms.openlocfilehash: 6d458e3b2318b47be971be9a3c6f4d323d9ad740
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 33e344f6d6ea15139ff88bcce4885da62456d8ad
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662327"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51798776"
 ---
 # <a name="resolving-missing-data-in-onenote"></a>Resolução de dados em falta no OneNote
 

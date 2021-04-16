@@ -2,7 +2,7 @@
 title: OneDrive para business Web OneDrive redireciona para Delve
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: faa2cf25270a3b74a12aeb63d23ce98b51e13cb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 96f23585f7cbce672842f6330ba79816f24dbc41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776391"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800000"
 ---
 # <a name="redirected-to-delve-after-you-click-onedrive"></a>Redirecionado para Delve depois de clicar no OneDrive
 
@@ -35,4 +35,4 @@ Para conceder este direito, siga estes passos:
 
 4. Depois de ter adicionado o utilizador, utilizadores ou grupo, certifique-se de que o utilizador, utilizadores ou grupo adicionados é selecionado, percorra a secção **de permissões** e, em seguida, selecione a caixa de verificação ao lado **do Site Criar Pessoal (necessário para armazenamento pessoal, newsfeed e conteúdo seguido)**.
 
-5. Clique **em OK**e, em seguida, tenha o utilizador a navegar na página OneDrive para criar o site.
+5. Clique **em OK** e, em seguida, tenha o utilizador a navegar na página OneDrive para criar o site.

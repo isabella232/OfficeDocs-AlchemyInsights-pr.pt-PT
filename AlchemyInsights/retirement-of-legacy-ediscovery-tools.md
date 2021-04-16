@@ -2,7 +2,7 @@
 title: Aposentadoria de Legacy eDiscovery Tools
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 2315c4c651a83f0ecc78c0171f32aba13bc93f8c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 986c78f20e7b8c303c302913d63d817a56ce2896
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727794"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51798560"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Aposentadoria de Legacy eDiscovery Tools
 
@@ -25,7 +25,7 @@ Como resultado da nova e melhorada funcionalidade eDiscovery no Microsoft 365 Co
 
 - [In-Place eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) e [In-Place Holds](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) no Centro de Administração Exchange.
 
-- Os cmdlets Exchange Online PowerShell que suportam in-place eDiscovery e In-Place Holds. (Estes cmdlets são identificados colectivamente como cmdlets *-MailboxSearch.) Isto inclui os seguintes cmdlets:
+- Os cmdlets Exchange Online PowerShell que suportam In-Place eDiscovery e In-Place Holds. (Estes cmdlets são identificados colectivamente como cmdlets *-MailboxSearch.) Isto inclui os seguintes cmdlets:
 
     - [Novo MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
     - [Start-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
@@ -41,15 +41,15 @@ Como resultado da nova e melhorada funcionalidade eDiscovery no Microsoft 365 Co
 - [EDiscovery avançado v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Cronologia da reforma:**
-- **1 de julho de 2020** Já não é possível criar novas pesquisas e detém, mas pode executar, editar e eliminar as pesquisas existentes por sua conta e risco. O Microsoft Support já não suporta in-place eDiscovery & Holds no EAC.
+- **1 de julho de 2020** Já não é possível criar novas pesquisas e detém, mas pode executar, editar e eliminar as pesquisas existentes por sua conta e risco. O Microsoft Support já não suporta In-Place & eDiscovery no EAC.
     
-- **1 de outubro de 2020** In-Place eDiscovery & A funcionalidade Holds no EAC será colocada no modo apenas de leitura, pelo que só pode remover as pesquisas e os suportes existentes.
+- **1 de outubro de 2020** In-Place funcionalidade eDiscovery & Holds no EAC será colocada no modo apenas de leitura, pelo que só pode remover as pesquisas e os suportes existentes.
 
 **Para mais informações, consulte:**
 
  - [Migrar pesquisas eDiscovery legacy e detém para o centro de conformidade Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
  - [Aposentadoria de ferramentas eDiscovery legacy](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Perguntas frequentes sobre in-place eDiscovery e In-Place Holds](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Perguntas frequentes sobre In-Place eDiscovery e In-Place Holds](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 

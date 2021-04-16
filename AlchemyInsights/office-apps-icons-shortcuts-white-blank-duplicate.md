@@ -2,7 +2,7 @@
 title: Ícones de aplicações microsoft 365/atalhos brancos, em branco ou duplicados
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2530"
 - "9000572"
-ms.openlocfilehash: 57112a1fe9e407d1f95c26fac86c0ae0b60d98d3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df72f583d698cbcbe3e399a94763801935d55ee5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802932"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810135"
 ---
 # <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a>Ícones de aplicativos de escritório ou atalhos são brancos, em branco ou duplicados
 

@@ -2,7 +2,7 @@
 title: Porque é que o botão de orçamento add está desativado para mim?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6464"
-ms.openlocfilehash: 18edad73f617ba180cb08576ee6e5fa8faf07128
-ms.sourcegitcommit: 9a7b85eae0bb775bc2498a83d8f5fedb72a6451e
+ms.openlocfilehash: 426a54ea22490dcc47f40fd990654b2cf051a058
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807666"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822646"
 ---
 # <a name="why-is-the-add-budget-button-disabled-for-me"></a>Porque é que o botão de orçamento add está desativado para mim?
 

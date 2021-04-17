@@ -2,7 +2,7 @@
 title: Agendar uma reunião em Equipas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: d75f3a1d83845609ff4a41788ce9dbf92fbfc3d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76921d4111f8e5f268ea5a2196e0a209b5dbe16d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746914"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815986"
 ---
 # <a name="schedule-a-meeting-in-teams"></a>Agendar uma reunião em Equipas
 

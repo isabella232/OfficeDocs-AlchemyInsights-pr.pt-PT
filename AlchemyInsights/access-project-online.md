@@ -2,7 +2,7 @@
 title: Projeto de acesso online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "5723"
-ms.openlocfilehash: 94fd156311aafffa2a41552d811916e82f4462ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36f9480cb4bf6e52f0f4cffaca6e5f328ed46cb7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668584"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823402"
 ---
 # <a name="access-project-online"></a>Projeto de acesso online
 
@@ -29,5 +29,5 @@ Para dar aos utilizadores acesso a um site de aplicações web do projeto usando
 1. Faça login no Project Online como administrador.
 2. Na página inicial da App Web do Projeto, clique em **Partilhar** no canto superior direito.
 3. Na caixa de diálogo **da App Web do Projeto De partilha,** digite o nome de utilizador da pessoa a quem pretende dar acesso na caixa **Pessoas convidadas.**
-4. Clique em **Opções de Exibição**e no menu **Selecionar um nível de permissão,** selecione **Project Managers para Project Web App**.
+4. Clique em **Opções de Exibição** e no menu **Selecionar um nível de permissão,** selecione **Project Managers para Project Web App**.
 5. Clique **em Partilhar**.

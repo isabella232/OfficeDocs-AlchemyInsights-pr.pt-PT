@@ -2,7 +2,7 @@
 title: Ativar o Windows 10 pela primeira vez ou depois de reinstalar
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3485"
 - "9001418"
-ms.openlocfilehash: 981583abd210c3263bfe09e4c3147870a1ae0c7c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1117105c30db642ae2d47df6caa57ed51529b04a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698180"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823078"
 ---
 # <a name="activate-windows-10"></a>Ativar o Windows 10
 
@@ -25,7 +25,7 @@ ms.locfileid: "47698180"
 
 - Terá de utilizar uma chave de produto válida para ativar o Windows 10 num dispositivo que nunca teve uma cópia ativada do Windows 10 no mesmo.
 - Também vai precisar de uma chave de produto válida se estiver a instalar uma edição do Windows 10 que não foi ativada previamente no dispositivo. Por exemplo, para instalar e ativar o Windows 10 Pro num dispositivo que tenha o Windows 10 Home instalado, precisará de uma chave de produto válida do Windows 10 Pro.
-- Durante a instalação, será solicitado que introduza uma chave de produto válida. Após a conclusão da instalação, o Windows 10 será automaticamente ativado online. Para verificar o estado de ativação no Windows 10, selecione **Start** >  **Settings**  >  **Update &**  >  **ativação de**segurança .
+- Durante a instalação, será solicitado que introduza uma chave de produto válida. Após a conclusão da instalação, o Windows 10 será automaticamente ativado online. Para verificar o estado de ativação no Windows 10, selecione **Start** >  **Settings**  >  **Update &**  >  **ativação de** segurança .
 
 **Para ativar depois de reinstalar o Windows 10:**
 

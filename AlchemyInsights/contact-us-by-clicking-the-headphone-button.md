@@ -2,7 +2,7 @@
 title: Contacte-nos clicando no botão dos auscultadores
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: 0458ae0a6afdc2c4624ea0658f72f85d4a7d6fdd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 329768f62c3da71b5454c7155e66509ae4c01df4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680911"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816967"
 ---
-# <a name="contact-us-by-clicking-the-headphone-button"></a><span data-ttu-id="34bd8-102">Contacte-nos clicando no botão dos auscultadores</span><span class="sxs-lookup"><span data-stu-id="34bd8-102">Contact us by clicking the headphone button</span></span>
+# <a name="contact-us-by-clicking-the-headphone-button"></a><span data-ttu-id="f60bc-102">Contacte-nos clicando no botão dos auscultadores</span><span class="sxs-lookup"><span data-stu-id="f60bc-102">Contact us by clicking the headphone button</span></span>
 
-<span data-ttu-id="34bd8-103">Se pretender contactar o Microsoft Support, clique em **Contactar-nos** no canto inferior esquerdo desta aplicação.</span><span class="sxs-lookup"><span data-stu-id="34bd8-103">If you'd like to contact Microsoft Support, please click **Contact us** in the lower left corner of this app.</span></span> <span data-ttu-id="34bd8-104">Dentro da janela fly-out, você será guiado para o canal de suporte certo depois de escolher o seu produto e a categoria de emissão.</span><span class="sxs-lookup"><span data-stu-id="34bd8-104">Inside the fly-out window, you will be guided to the right support channel after choosing your product and issue category.</span></span>
+<span data-ttu-id="f60bc-103">Se pretender contactar o Microsoft Support, clique em **Contactar-nos** no canto inferior esquerdo desta aplicação.</span><span class="sxs-lookup"><span data-stu-id="f60bc-103">If you'd like to contact Microsoft Support, please click **Contact us** in the lower left corner of this app.</span></span> <span data-ttu-id="f60bc-104">Dentro da janela fly-out, você será guiado para o canal de suporte certo depois de escolher o seu produto e a categoria de emissão.</span><span class="sxs-lookup"><span data-stu-id="f60bc-104">Inside the fly-out window, you will be guided to the right support channel after choosing your product and issue category.</span></span>
 
 ![Contacte-nos clicando no ícone dos auscultadores.](media/contact-us-headphone-icon.png)
 
-<span data-ttu-id="34bd8-106">Pode continuar a interagir com o resto da app mesmo depois de ter iniciado uma sessão contacte-nos.</span><span class="sxs-lookup"><span data-stu-id="34bd8-106">You can keep interacting with the rest of the app even after you have initiated a Contact us session.</span></span> <span data-ttu-id="34bd8-107">O painel Contacte-nos pode ser temporariamente minimizado clicando em qualquer outro lugar dentro da app.</span><span class="sxs-lookup"><span data-stu-id="34bd8-107">The Contact us panel can be temporarily minimized by clicking anywhere else inside the app.</span></span> <span data-ttu-id="34bd8-108">Para voltar à mesma sessão, basta clicar em **contactar-nos** novamente.</span><span class="sxs-lookup"><span data-stu-id="34bd8-108">To return to the same session, just click **Contact us** again.</span></span>
+<span data-ttu-id="f60bc-106">Pode continuar a interagir com o resto da app mesmo depois de ter iniciado uma sessão contacte-nos.</span><span class="sxs-lookup"><span data-stu-id="f60bc-106">You can keep interacting with the rest of the app even after you have initiated a Contact us session.</span></span> <span data-ttu-id="f60bc-107">O painel Contacte-nos pode ser temporariamente minimizado clicando em qualquer outro lugar dentro da app.</span><span class="sxs-lookup"><span data-stu-id="f60bc-107">The Contact us panel can be temporarily minimized by clicking anywhere else inside the app.</span></span> <span data-ttu-id="f60bc-108">Para voltar à mesma sessão, basta clicar em **contactar-nos** novamente.</span><span class="sxs-lookup"><span data-stu-id="f60bc-108">To return to the same session, just click **Contact us** again.</span></span>

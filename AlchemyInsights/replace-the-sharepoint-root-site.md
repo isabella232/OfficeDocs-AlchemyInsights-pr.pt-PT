@@ -1,29 +1,31 @@
 ---
-title: Substitua o Site raiz do SharePoint
+title: Substituir o Site Raiz do SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5726"
-ms.openlocfilehash: 33ee85c305aa9daae0028ad2c0c79a003f9dc017
-ms.sourcegitcommit: 505a576cc0e2b20f8ea5ce0a2f26763a11463918
-ms.translationtype: MT
+ms.openlocfilehash: 5984179a3de72752772ec198623f339949344e6e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44493297"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826786"
 ---
-# <a name="replace-the-sharepoint-root-site"></a>Substitua o Site raiz do SharePoint
-Se procura modernizar o seu site de raiz com um site existente ou simplesmente quer ter um site diferente ao nível do site raiz, pode optar por substituir (trocar) sites.
+# <a name="replace-the-sharepoint-root-site"></a>Substituir o Site Raiz do SharePoint
+Se pretender modernizar o seu site raiz com um site existente ou se quiser simplesmente ter um site diferente no nível do site raiz, pode optar por substituir (trocar) sites.
 
-1. Utilizando o novo centro de administração sharePoint, vá a [Ative Sites](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true).
+1. A utilizar o novo centro de administração do SharePoint, aceda [Sites Ativos](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true).
 2. Selecione o site raiz que pretende substituir.
-3. Selecione **Substitua o local**.
-4. Forneça o url do site existente para substituir. **Nota:** Será informado se o site pode ser usado como um local de raiz de substituição.
+3. Selecione **Substituir site**.
+4. Forneça o URL do site existente a ser substituído. **Nota:** Será informado se o site pode ser utilizado como um site raiz de substituição.
 
-Para obter mais informações sobre os requisitos, consulte [modernizar o seu site de raiz.](https://docs.microsoft.com/sharepoint/modern-root-site)
+Para obter mais informações sobre os requisitos, consulte [Modernize o seu site raiz](https://docs.microsoft.com/sharepoint/modern-root-site).
+

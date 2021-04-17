@@ -2,7 +2,7 @@
 title: Utilização de Planner com equipas da Microsoft
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2653"
 - "9000727"
-ms.openlocfilehash: 95b83d6658fc77ac6e5eeac58c198f5c4adbb674
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb0677e7b4115cb957d32c74ee8ad6de954eb373
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657395"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827155"
 ---
 # <a name="using-planner-with-microsoft-teams"></a>Utilização de Planner com equipas da Microsoft
 

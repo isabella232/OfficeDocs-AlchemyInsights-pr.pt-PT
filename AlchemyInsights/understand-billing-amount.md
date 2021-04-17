@@ -2,7 +2,7 @@
 title: Compreender o valor da faturação
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: f48ee1e36909515bf81df1ebeb367f91e9a1c9ca
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808407"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827875"
 ---
 # <a name="understand-billing-amount"></a>Compreender o valor da faturação
 
@@ -54,7 +54,7 @@ Fatura de excesso de serviço de revisão:
 - Inscreva-se no **portal Enterprise.** Selecione **Relatórios**
 - No canto superior direito da lingueta, mude a vista de **M** para **C** e corresponda ao período na fatura
 - O valor total **de utilização** deve corresponder ao Valor **Total Estendido** na fatura de overage do seu serviço
-- Vá para **baixar o uso > Relatório Avançado Descarregar** para obter mais informações sobre os seus encargos **Nota** : Este relatório não inclui impostos, taxas de reservas ou taxas de mercado
+- Vá para **baixar o uso > Relatório Avançado Descarregar** para obter mais informações sobre os seus encargos **Nota**: Este relatório não inclui impostos, taxas de reservas ou taxas de mercado
 
 **Mercado Azure**
 
@@ -67,7 +67,7 @@ Compare o seu total de Azure Marketplace em Relatórios > Resumo de Utilização
 - Inscreva-se no **portal Enterprise.** Selecione **Relatórios**
 - No canto superior direito da lingueta, mude a vista de **M** para **C** e corresponda ao período na fatura
 - O **total do Azure Marketplace** deve corresponder à Venda **Total** na sua fatura do mercado
-- Vá ao **Download Usage** para obter mais informações sobre os seus custos baseados no uso. Sob **Taxas de Mercado** , selecione **Download** **Nota** : Este relatório não inclui impostos ou show compras únicas
+- Vá ao **Download Usage** para obter mais informações sobre os seus custos baseados no uso. Sob **Taxas de Mercado**, selecione **Download** **Nota**: Este relatório não inclui impostos ou show compras únicas
 
 **Provedor de solução em nuvem (CSP)**
 

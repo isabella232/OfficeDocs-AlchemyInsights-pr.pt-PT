@@ -2,7 +2,7 @@
 title: Perspetivas questões e resoluções comuns
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2728"
 - "9000784"
-ms.openlocfilehash: 9003b1fe8782fa3e11f9fb4d6c3c04cc1c7614b7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb3be6afad8450693d06c0ed728a46c1526b2e61
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722430"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832645"
 ---
 # <a name="outlook-common-issues-and-resolutions"></a>Perspetivas questões e resoluções comuns
 

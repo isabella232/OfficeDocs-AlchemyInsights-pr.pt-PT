@@ -2,7 +2,7 @@
 title: Problemas de sessão nas aplicações da Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2556"
-ms.openlocfilehash: 3c016b198ad43f35c8149dde71c28a2f7fc3bd38
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e6cbab7401fd6168041e7fc31ac97e3be036536d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695298"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833050"
 ---
 # <a name="blank-sign-in-screen-in-microsoft-365-apps"></a>Ecrã de sindução em branco nas aplicações da Microsoft 365
 
 Para corrigir este problema, experimente o seguinte:
 - Instale as atualizações mais recentes para [windows](https://support.microsoft.com/help/4027667/windows-10-update) e [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- Redefinir as opções do Internet Explorer: Vá a **Ferramentas**  >  **Opções**de Internet  >  **Advanced**  >  **Versões avançadas do Internet Reset (note** que perderá as definições personalizadas) e tente iniciar novamente a sessão no Office.
+- Redefinir as opções do Internet Explorer: Vá a **Ferramentas**  >  **Opções** de Internet  >    >  **Versões avançadas do Internet Reset (note** que perderá as definições personalizadas) e tente iniciar novamente a sessão no Office.
 - Desative a Proteção de Aplicações do Windows Defender (WDAG) ou qualquer programa semelhante de firewall ou antivírus:
     1. No Painel de Controlo, vá a Programas e, em seguida, escolha as **funcionalidades** **Turn Windows ligados ou desligados**.
     2. Se o Windows Defender Application Guard estiver ativado, tente desativá-lo.<br/>

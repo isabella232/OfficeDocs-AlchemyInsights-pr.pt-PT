@@ -2,7 +2,7 @@
 title: Aumentar o tamanho da caixa de correio para SKUs da Empresa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 1af9775706a6e40aaed8f23b67a9329efe841090
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3e576a11e223917160c2f31d3d83c54329013879
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778234"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832141"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>O que fazer se o tamanho da sua caixa de correio já estiver 100GB
 
@@ -27,7 +27,7 @@ Para ativar o arquivo de e-mails:
   
 1. No centro de administração Microsoft 365, vá ao **Admin Centers** \> **Exchange**. 
     
-2. Escolha caixas de correio **para** \> **destinatários**e selecione uma caixa de correio. 
+2. Escolha caixas de correio **para** \> **destinatários** e selecione uma caixa de correio. 
     
 3. No painel de detalhes em **In-Place Archive,** escolha **Enable**. 
     

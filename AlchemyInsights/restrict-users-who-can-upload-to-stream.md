@@ -2,7 +2,7 @@
 title: Restringir os utilizadores que podem fazer o upload para o Stream
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5096"
-ms.openlocfilehash: ff84a15bb765021d7b6a2aec76cd917823669f0b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 964087efb30bda9f6f78786d92e8ffb9a8f5b8a9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740846"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831313"
 ---
-# <a name="restrict-users-who-can-upload-to-stream"></a><span data-ttu-id="3743a-102">Restringir os utilizadores que podem fazer o upload para o Stream</span><span class="sxs-lookup"><span data-stu-id="3743a-102">Restrict users who can upload to Stream</span></span>
+# <a name="restrict-users-who-can-upload-to-stream"></a><span data-ttu-id="b4b5c-102">Restringir os utilizadores que podem fazer o upload para o Stream</span><span class="sxs-lookup"><span data-stu-id="b4b5c-102">Restrict users who can upload to Stream</span></span>
 
-<span data-ttu-id="3743a-103">Como organização, pode querer limitar os funcionários que podem fazer o upload de vídeos.</span><span class="sxs-lookup"><span data-stu-id="3743a-103">As an organization you may want to limit the employees who can upload videos.</span></span> <span data-ttu-id="3743a-104">Por defeito, todos na sua organização podem fazer o upload de vídeos.</span><span class="sxs-lookup"><span data-stu-id="3743a-104">By default, everyone in your organization can upload videos.</span></span>
+<span data-ttu-id="b4b5c-103">Como organização, pode querer limitar os funcionários que podem fazer o upload de vídeos.</span><span class="sxs-lookup"><span data-stu-id="b4b5c-103">As an organization you may want to limit the employees who can upload videos.</span></span> <span data-ttu-id="b4b5c-104">Por defeito, todos na sua organização podem fazer o upload de vídeos.</span><span class="sxs-lookup"><span data-stu-id="b4b5c-104">By default, everyone in your organization can upload videos.</span></span>
 
-- [<span data-ttu-id="3743a-105">Restringir os colaboradores que podem criar conteúdo no Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="3743a-105">Restrict employees who can create content in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/restrict-uploaders)
+- [<span data-ttu-id="b4b5c-105">Restringir os colaboradores que podem criar conteúdo no Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="b4b5c-105">Restrict employees who can create content in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/restrict-uploaders)

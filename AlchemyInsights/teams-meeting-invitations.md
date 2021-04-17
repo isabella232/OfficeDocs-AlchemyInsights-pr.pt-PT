@@ -2,24 +2,25 @@
 title: Convites para reunião do Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 778ac2d7796539f78f34a6659b75116c8866f399
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 88b7cbbe36882e06400869fbd211bb6fe81e845c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553421"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831025"
 ---
 # <a name="teams-meeting-invitations"></a>Convites para reunião do Teams
 
-- Precisa de saber como [criar um convite de reunião no Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)?
+Precisa de ajuda para personalizar os Convites para reunião do Teams da sua organização? Certifique-se de que revê [Personalizar Convites para reunião](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).  
 
-- De momento, os convites para reunião no Teams **não podem ser personalizados** Vote no [UserVoice do Teams](https://microsoftteams.uservoice.com/) para que este pedido seja adicionado ao mapa de objetivos.
+Para obter informações adicionais, consulte [Gerir definições da reunião no Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).

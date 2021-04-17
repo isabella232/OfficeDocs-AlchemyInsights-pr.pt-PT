@@ -2,7 +2,7 @@
 title: E-mails desaparecidos em quarentena
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 55ed9a92675939c05477fbf6d12bbedd6eb931d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43f9a1f03084bf9adab706b3f77eff1d1db888ca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673725"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831745"
 ---
 # <a name="missing-emails-in-quarantine"></a>Faltando e-mails em quarentena"
 

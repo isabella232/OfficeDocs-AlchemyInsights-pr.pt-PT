@@ -2,7 +2,7 @@
 title: Projetar questões e resoluções comuns
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: e044e70fb581896bce98b4e2d8e5853e28ae7411
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 969cf2812a60f4b9a03aad46c96c1eb7a0458816
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801735"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830845"
 ---
 # <a name="project-common-issues-and-resolutions"></a>Projetar questões e resoluções comuns
 
 Aqui estão alguns tópicos frequentemente solicitados com Projeto:
 
-1. **Comece com o Project Online:** Comece a[usar o Project Online](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) e aprenda a [planear, implementar e manter o Project Online](https://docs.microsoft.com/projectonline/project-online) no seu ambiente.   Consulte [os limites e limites do software online do projeto](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) para rever limitações importantes.
+1. **Comece com o Project Online:** Comece a [usar o Project Online](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) e aprenda a [planear, implementar e manter o Project Online](https://docs.microsoft.com/projectonline/project-online) no seu ambiente.   Consulte [os limites e limites do software online do projeto](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) para rever limitações importantes.
 
 2. **Dar aos utilizadores acesso ao Projeto Online:** Adicione [pessoas, grupos, recursos e partilhe o Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) para colaborar com outros. 
 

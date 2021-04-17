@@ -2,7 +2,7 @@
 title: Tabela de conteúdos
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3042"
 - "9000592"
-ms.openlocfilehash: b3e78ae5f7f6bc79b46993d7f67a57114282edd3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c44e18d349624d9fed172bc3ffecc59b41717dda
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758040"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831061"
 ---
 # <a name="table-of-contents"></a>Tabela de conteúdos
 
@@ -27,7 +27,7 @@ Para obter informações sobre a criação de uma tabela de conteúdos no Word, 
 
 - A tabela de conteúdos não contém o título que acaba de adicionar ao seu documento.
   1. Selecione o texto do título, vá a **Home**  >  **Styles,** e verifique se um estilo é aplicado ao título.
-  2. Consulte a tabela De Atualização **de Referências**  >  **Update table** para atualizar a tabela de conteúdos.
+  2. Consulte a tabela De Atualização **de Referências**  >   para atualizar a tabela de conteúdos.
 
 - A tabela de conteúdos exibe demasiado texto. 
   1. Selecione o texto do parágrafo e, em seguida, vá para **Home**  >  **Styles**.

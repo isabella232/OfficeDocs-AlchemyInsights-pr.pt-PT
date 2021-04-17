@@ -1,31 +1,32 @@
 ---
-title: Cadernos de reserva no OneNote
+title: Fazer uma cópia de segurança dos blocos de notas no OneNote
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000567"
 - "4500"
-ms.openlocfilehash: c6426ecf66089043fedb76baed4358b12b340388
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
-ms.translationtype: MT
+ms.openlocfilehash: fa45fbaca4727d3e14cc28b62bcd4c3b20824283
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44283367"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820549"
 ---
-# <a name="backup-notebooks-in-onenote"></a>Cadernos de reserva no OneNote
+# <a name="backup-notebooks-in-onenote"></a>Fazer uma cópia de segurança dos blocos de notas no OneNote
 
-O OneNote pode manter cópias de segurança de todo o seu trabalho, mas isso não é possível no OneNote para a web. Para obter passos detalhados sobre como fazê-lo na aplicação de desktop OneNote 2016, consulte notas de [backup](https://support.office.com/article/back-up-notes-f58b34b0-611d-435e-87fa-7942a1767af4#id0eaabaaa=2016,_2013,_2010) e [repor notas a partir de uma cópia de segurança](https://support.microsoft.com/office/restore-notes-from-a-backup-5daf9cb0-6769-4998-a5de-f044fdd0d831).
+O OneNote consegue manter cópias de segurança de todo o seu trabalho, mas isso não é, atualmente, possível no Microsoft OneNote na Web. Para saber detalhadamente como o fazer na aplicação de computador do OneNote 2016, consulte [Fazer cópias de segurança de notas](https://support.office.com/article/back-up-notes-f58b34b0-611d-435e-87fa-7942a1767af4#id0eaabaaa=2016,_2013,_2010) e [Restaurar notas a partir de uma cópia de segurança](https://support.microsoft.com/office/5daf9cb0-6769-4998-a5de-f044fdd0d831).
 
-1. Na aplicação oneNote 2016, clique em **File > Options**.
-2. Na caixa de diálogo OneNote Options, clique em save & Backup**.
-3. À direita, em **'Guardar',** clique na **pasta de reserva > modificar**.
-4. Na caixa de diálogo **Select Folder,** aceda à pasta de reserva.
+1. Na aplicação de computador do OneNote 2016, clique em **Ficheiro > Opções**.
+2. Na caixa de diálogo Opções do OneNote, clique em** Guardar e Fazer Cópia de Segurança**.
+3. À direita, em **Guardar**, clique em **Pasta de Cópias de Segurança > Modificar**.
+4. Na caixa de diálogo **Selecionar Pasta**, aceda à sua pasta de cópias de segurança.
 5. Clique em **Selecionar** para aceitar a nova localização e, em seguida, clique em **OK**.
 
-Com o OneNote para o Windows 10, os seus cadernos são armazenados no OneDrive ou no SharePoint. Todas as versões do OneNote guardam uma cópia em cache dos seus cadernos no seu dispositivo, para que possa aceder-lhes mesmo quando estiver offline, e todas as alterações irão sincronizar-se quando estiver conectado.
+Com o OneNote para o Windows 10, os seus blocos de notas são armazenados ou no OneDrive ou no SharePoint. Todas as versões do OneNote mantêm uma cópia dos seus blocos de notas em cache no seu dispositivo, podendo assim aceder a eles mesmo quando estiver offline e todas as alterações serão sincronizadas quando estiver ligado.

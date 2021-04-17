@@ -2,7 +2,7 @@
 title: Faturação para compra de Instância Reservada
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6814"
 - "9003552"
-ms.openlocfilehash: 6cdcb5af27a475cc838eb434ff025eb18356360c
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 9d71554d2089a6d9e5d4850149d113959f3d43c0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823166"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820333"
 ---
 # <a name="billing-for-reserved-instance-purchase"></a>Faturação para compra de Instância Reservada
 
@@ -80,13 +80,13 @@ Algumas razões possíveis para não ver uma fatura:
 - A fatura ainda não foi gerada. Aguarde até ao fim do período de faturação
 - Se não for o Administrador de Conta, as faturas mais antigas podem não estar disponíveis para si
 
-**Faça o download da sua fatura a partir do portal Azure (.pdf)**
+**Faça o download da sua fatura do portal Azure (.pdf)**
 
 - Selecione a sua subscrição a partir da página [subscrições](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) no portal Azure como [um utilizador com acesso a faturas](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Selecione **Faturas**
 - Clique **em Baixar Fatura** para ver uma cópia da sua fatura PDF. Se diz **não disponível,** veja [por que não vejo uma fatura para o último período de faturação?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
 
-**Receba a sua fatura em e-mail (.pdf)**
+**Receba a sua fatura por e-mail (.pdf)**
 
 - Selecione a sua subscrição na página [De Subscrições.](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Clique **em Faturas** e envie por email a minha fatura
 - Clique **em optar** e aceitar os termos. Terá de optar por cada subscrição que possuir

@@ -2,7 +2,7 @@
 title: Sitens do Hub Associado como Proprietário do Site
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000717"
 - "2638"
-ms.openlocfilehash: 9dd2faff114be063bfac0455c7ac13202b5b20cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e08bed31171bfcb4420b86c225542515d5e1e819
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715644"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821017"
 ---
 # <a name="associate-hub-sites-as-site-owner"></a>Sitens do Hub Associado como Proprietário do Site
 
@@ -30,7 +30,7 @@ ms.locfileid: "47715644"
 4. A partir do banner azul no topo do ecrã, selecione **a aplicação Launch agora** para exibir o novo centro de administração sharepoint.
 5. No visor do lado esquerdo do ecrã selecione **Sites** do menu e, em seguida, selecione **Ative Sites**.
 6. Verifique o local do hub onde pretende alterar as definições.
-7. Selecione Hub a partir do menu na parte superior do ecrã e selecione **Editar As Definições do Site do Hub**. **Hub**
+7. Selecione Hub a partir do menu na parte superior do ecrã e selecione **Editar As Definições do Site do Hub**. 
 8. Especifique os utilizadores ou grupos de segurança com os quais pretende permitir trabalhar no item "Utilizadores que possam associar o site a este hub".
 9. **Selecione Guarde** na parte inferior do ecrã.
 

@@ -2,7 +2,7 @@
 title: Faturação e pagamento
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686041"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820405"
 ---
 # <a name="billing-and-payment"></a>Faturação e pagamento
 
@@ -25,7 +25,7 @@ As suas contas podem ser encontradas na conta **de**  >  [pagamentos & Contas](h
 
 **Receber faturas por e-mail**
 
-Na página de notificações **de Faturação**de  >  [Faturação,](https://go.microsoft.com/fwlink/p/?linkid=853212) pode ligar esta funcionalidade e gerir os utilizadores que receberão a fatura como anexo de e-mail. **on** A fatura será enviada para os endereços de e-mail dos utilizadores na lista de destinatários da Notificação. A lista inclui todos os administradores de faturação e global.  Pode gerir quem recebe as notificações da fatura alterando o papel.  A remoção da função de administração global ou de faturação remove esse utilizador da lista de destinatários, e a adição da função de administrador global ou de faturação irá adicionar o utilizador à lista de destinatários.
+Na página de notificações **de Faturação** de  >  [Faturação,](https://go.microsoft.com/fwlink/p/?linkid=853212) pode ligar esta funcionalidade e gerir os utilizadores que receberão a fatura como anexo de e-mail.  A fatura será enviada para os endereços de e-mail dos utilizadores na lista de destinatários da Notificação. A lista inclui todos os administradores de faturação e global.  Pode gerir quem recebe as notificações da fatura alterando o papel.  A remoção da função de administração global ou de faturação remove esse utilizador da lista de destinatários, e a adição da função de administrador global ou de faturação irá adicionar o utilizador à lista de destinatários.
 
 **Nota:** Receberá dois e-mails separados: um que lhe permite saber que a sua conta está pronta, com instruções para iniciar sessão no Centro de Administração para a visualizar, e um segundo e-mail que contém a declaração de faturação como anexo.
 
@@ -35,7 +35,7 @@ Se pagar com cartão de crédito ou conta bancária, o método de pagamento asso
 
 Se adicionou um novo cartão e ainda estiver a receber um aviso de recusa no antigo cartão de crédito, poderá ter de associar esse novo cartão à subscrição.
 
-1. No centro de administração, **Billing**vá à página de  >  **projetos de faturação & pagamentos.**  >  [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. No centro de administração, vá à página de  >  **projetos de faturação & pagamentos.**  >  [](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
 2. Selecione a linha do método de pagamento para substituir. O painel direito lista todos os perfis de faturação e subscrições individuais que utilizam o método de pagamento selecionado.
 

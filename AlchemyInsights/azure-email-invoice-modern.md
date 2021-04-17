@@ -1,8 +1,8 @@
 ---
-title: Faturação de e-mail moderna Azure
+title: Invoicing de e-mail do Azure Moderno
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6866"
-ms.openlocfilehash: 65df6091a97d4937379ded384a78b5d07aa76e42
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 4df8c49880fe638c1659f76edc0905532d091e45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922140"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820837"
 ---
-# <a name="email-invoicing-in-azure"></a>Faturação de e-mail em Azure
+# <a name="email-invoicing-in-azure"></a>Invoicing de e-mail do Azure
 
-Deve ter um proprietário ou um papel de contribuinte no perfil de faturação ou na sua conta de faturação para atualizar a sua preferência por e-mail. Uma vez optado, todos os utilizadores com funções de proprietário, colaborador, leitores e gestor de faturas num perfil de faturação receberão a sua fatura por e-mail.
+Tem de ter um proprietário ou uma função de contribuinte no perfil de faturação ou na sua conta de faturação para atualizar a preferência da fatura por e-mail. Assim que optar ativamente por participar, todos os utilizadores com as funções de proprietário, colaborador, leitores e gestor de faturação num perfil de faturação receberão a sua fatura por e-mail.
 
-1. Inscreva-se no [portal Azure](https://portal.azure.com/).
-2. Pesquisa de **Gestão de Custos + Faturação.**
-3. Selecione **Faturas** do lado esquerdo e, em seguida, selecione **e-mail Fatura** a partir do topo da página.
-4. Se tiver vários perfis de faturação, selecione um perfil de faturação e, em seguida, **selecione Opt in**.
+1. Inicie sessão no [portal do Azure](https://portal.azure.com/).
+2. Procure **Gestão de Custos + Faturação**.
+3. Selecione **Faturas** do lado esquerdo e, em seguida, selecione **Fatura por e-mail** na parte superior da página.
+4. Se tiver múltiplos perfis de faturação, selecione um perfil de faturação e, em seguida, selecione **Optar**.
 
-5. Selecione **Update**.
-6. Se tiver vários perfis de faturação, selecione um perfil de faturação e, em seguida, **selecione Opt in**.
+5. Selecione **Atualizar**.
+6. Se tiver múltiplos perfis de faturação, selecione um perfil de faturação e, em seguida, selecione **Optar**.
 
-Você dá aos outros acesso para visualizar, transferir e pagar faturas atribuindo-lhes o papel de gestor de fatura para um perfil de faturação MCA ou MPA. Se optou por obter a sua fatura por e-mail, os utilizadores também recebem as faturas por e-mail.
+Dá acesso a outras pessoas verem, transferirem, e pagarem faturas ao atribuir-lhes a função gestor de faturas de um perfil de faturação MCA ou MPA. Caso tenha optado por obter a sua fatura por e-mail, os utilizadores também receberão as faturas por e-mail.
 
-1. Inscreva-se no [portal Azure](https://portal.azure.com/).
-2. Pesquisa de **Gestão de Custos + Faturação.**
-3. Selecione **perfis de Faturação** do lado esquerdo. A partir da lista de perfis de faturação, selecione um perfil de faturação para o qual pretende atribuir uma função de gestor de fatura.
-4. Selecione **Access Control (IAM)** do lado esquerdo e, em seguida, selecione **Adicionar** a partir do topo da página.
+1. Inicie sessão no [portal do Azure](https://portal.azure.com/).
+2. Procure **Gestão de Custos + Faturação**.
+3. Selecione **Perfis de faturação** do lado esquerdo. Na lista perfis de faturação, selecione um perfil de faturação ao qual pretende atribuir uma função de gestor de faturas.
+4. Selecione **Controlo de acesso (IAM)** do lado esquerdo e, em seguida, selecione **Adicionar** na parte superior da página.
 
-Na lista de drop-down de função, **selecione Gestor de Faturas**. Insira o endereço de e-mail do utilizador para dar acesso. **Selecione Guardar** para atribuir o papel.
+Na lista de opções pendente, selecione **Gestor de faturas**. Introduza o endereço de e-mail do utilizador para lhe conceder acesso. Selecione **Guardar** para atribuir a função.

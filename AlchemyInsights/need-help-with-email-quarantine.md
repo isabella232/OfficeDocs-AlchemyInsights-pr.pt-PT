@@ -1,26 +1,27 @@
 ---
-title: Precisa de ajuda com a quarentena de e-mail?
+title: Precisa de ajuda para colocar endereços de e-mail em quarentena?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "5679"
-ms.openlocfilehash: 24a836365b03da4f85e6b8f0a24304d4af9efa29
-ms.sourcegitcommit: 43acdecef129bfffc8bbe8ebb08fdd581b238a03
-ms.translationtype: MT
+ms.openlocfilehash: b824e4fe12788848ff09cd7f0c6c5a43563fd5c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44281199"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836326"
 ---
-# <a name="need-help-with-email-quarantine"></a>Precisa de ajuda com a quarentena de e-mail?
+# <a name="need-help-with-email-quarantine"></a>Precisa de ajuda para colocar endereços de e-mail em quarentena?
 
-- Para **visualizar e divulgar mensagens de correio**eletrónico de quarentena, vá à página de Quarentena no Office [365 Security & Compliance Center](https://protection.office.com/quarantine). Instruções detalhadas estão [aqui.](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages)
-- Se a mensagem foi **erroneamente colocada em quarentena (falso positivo)**, clique em "Reportar mensagens à Microsoft para análise" depois de encontrar a mensagem selecionada na página de Quarentena. 
-- Descubra a **razão pela qual a mensagem foi colocada** em quarentena sob o campo de "razão de quarentena".
-- **Faltando e-mails em quarentena?** Alguns e-mails em quarentena não podem ser divulgados por utilizadores finais. Estas são mensagens prováveis que foram classificadas como e-mails de phishing de alta confiança, malware ou por uma ação de transporte. Os administradores podem [visualizar, libertar ou apagar estas mensagens.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide) 
+- Para **ver e libertar mensagens de e-mail da quarentena**, aceda à [Página quarentena no Centro de Conformidade e Segurança do Office 365](https://protection.office.com/quarantine). Pode encontrar instruções detalhadas [aqui](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages).
+- Se a mensagem tiver sido erroneamente **colocada em quarentena (falso positivo)**, clique em "Comunicar mensagens à Microsoft para análise" após verificar que a mensagem foi selecionada na página de Quarentena. 
+- Localize o **motivo pelo qual a mensagem foi colocada em quarentena** no campo "motivo da quarentena".
+- **Faltam e-mails em quarentena?** Alguns e-mails em quarentena não podem ser libertados pelos utilizadores finais. Provavelmente, são mensagens que foram classificadas como e-mail de phishing de alta confiança, malware ou uma ação de transporte. Os administradores podem [ver, libertar ou eliminar estas mensagens](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide). 

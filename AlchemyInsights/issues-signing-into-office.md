@@ -2,7 +2,7 @@
 title: Problemas de sessão nas aplicações da Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 02841a1b4e92eec94fc6409941d91618f02518c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236136"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836614"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Problemas de sessão no Microsoft 365 Apps
 
@@ -26,9 +26,9 @@ Para corrigir problemas de inscrição com aplicações microsoft 365, experimen
 - Para windows, consulte [recomendações sobre a resolução de problemas comuns de inscrição](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - Para Mac, veja  [Can't assinar em um Office 2016 para app Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**Ponta** Nas máquinas Windows, podemos diagnosticar e corrigir automaticamente vários problemas comuns de inscrição no Office para si. Descarregue e execute o  **[Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-OfficeSignInScenario)** para utilizar a nossa ferramenta automatizada.
+**Sugestão** Em computadores Windows, podemos diagnosticar e corrigir automaticamente vários problemas comuns de início de sessão do Office. Transfira e execute o **[Assistente de Recuperação e Suporte da Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** para utilizar a nossa ferramenta automatizada.
 
-**Nota:**  **Não é aconselhável**desativar a Autenticação Moderna (ADAL) ou a Gestão de Conta Web (WAM) para corrigir problemas de inscrição ou ativação . Se ocorrerem erros durante a ligação ao Microsoft 365 utilizando o Office 2013, certifique-se de que [ativa a autenticação moderna](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  para o cliente do Office.
+**Nota:**  **Não é aconselhável** desativar a Autenticação Moderna (ADAL) ou a Gestão de Conta Web (WAM) para corrigir problemas de inscrição ou ativação . Se ocorrerem erros durante a ligação ao Microsoft 365 utilizando o Office 2013, certifique-se de que [ativa a autenticação moderna](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  para o cliente do Office.
 
 Para ações específicas de resolução de problemas, consulte:
 

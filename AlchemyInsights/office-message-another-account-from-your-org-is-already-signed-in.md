@@ -2,7 +2,7 @@
 title: Mensagem de aplicações microsoft 365 - Desculpe, outra conta da sua organização já está assinada
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: c2bb894cf97c094a1648da8db83cbd459da4fda4
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236029"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836254"
 ---
 # <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Mensagem de aplicações microsoft 365 - Desculpe, outra conta da sua organização já está assinada
 
@@ -33,7 +33,7 @@ Para corrigir este erro, experimente o seguinte:
 
 - Abra a aplicação do Office e inicie sessão novamente se for necessário. 
 
-**Ponta** Nas máquinas Windows, podemos diagnosticar e corrigir automaticamente vários problemas comuns de inscrição no Office para si. Descarregue e execute o  **[Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-OfficeSignInScenario)** para utilizar a nossa ferramenta automatizada.
+**Sugestão** Em computadores Windows, podemos diagnosticar e corrigir automaticamente vários problemas comuns de início de sessão do Office. Transfira e execute o **[Assistente de Recuperação e Suporte da Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** para utilizar a nossa ferramenta automatizada.
 
 Se o problema persistir, experimente o seguinte: 
 

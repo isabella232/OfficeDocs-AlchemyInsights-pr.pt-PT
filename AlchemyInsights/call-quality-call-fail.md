@@ -1,23 +1,24 @@
 ---
-title: Chamada qualidade ou chamadas abandonadas
+title: Qualidade da Chamada ou Chamadas Interrompidas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000675"
 - "5987"
-ms.openlocfilehash: cc4750b204d70ce7284a94a045633791f416fbbc
-ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
-ms.translationtype: MT
+ms.openlocfilehash: d41775a74f61dfaaac1052c00e9f6efd84cfee68
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/30/2020
-ms.locfileid: "44932125"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819883"
 ---
-# <a name="call-quality-or-dropped-calls"></a>Chamada qualidade ou chamadas abandonadas
+# <a name="call-quality-or-dropped-calls"></a>Qualidade da Chamada ou Chamadas Interrompidas
 
-Se estiver a experimentar problemas de Qualidade de Chamada como áudio fraco ou chamadas abandonadas, consulte: [Problemas de qualidade de chamada de resolução de problemas usando Call Analytics](https://docs.microsoft.com/microsoftteams/use-call-analytics-to-troubleshoot-poor-call-quality#troubleshoot-call-quality-problems-using-call-analytics)
+Caso se depare com problemas relativos à Qualidade da Chamada, como má qualidade do áudio ou chamadas interrompidas, consulte: [Resolver problemas relativos à qualidade das chamadas com Análise de Chamadas](https://docs.microsoft.com/microsoftteams/use-call-analytics-to-troubleshoot-poor-call-quality#troubleshoot-call-quality-problems-using-call-analytics)

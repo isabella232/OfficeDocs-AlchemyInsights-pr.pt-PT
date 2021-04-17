@@ -2,7 +2,7 @@
 title: Alterar o nome de uma conta local ou de uma conta Microsoft
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: db13ecbe31b9bb0ca4a98b061619358c6c5edadd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ee233e780df0a7f686a7104551cff1f670e832a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682801"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818947"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>Alterar o nome de uma conta local ou de uma conta Microsoft
 
@@ -25,11 +25,11 @@ Se utilizar apenas um nome de utilizador e uma palavra-passe para iniciar sconta
 
 **Para alterar o nome de uma conta local:**
 
-1. Clique no botão **Iniciar,** escreva **painel de controlo**e selecione Painel de **Controlo** da lista de resultados.
+1. Clique no botão **Iniciar,** escreva **painel de controlo** e selecione Painel de **Controlo** da lista de resultados.
 
-2. Clique em **Contas de Utilizador**e, em seguida, **altere o tipo de conta**.
+2. Clique em **Contas de Utilizador** e, em seguida, **altere o tipo de conta**.
 
-3. Selecione a conta que pretende alterar, clique em **Propriedades**e, em seguida, introduza um novo nome para nome de Utilizador.
+3. Selecione a conta que pretende alterar, clique em **Propriedades** e, em seguida, introduza um novo nome para nome de Utilizador.
 
 4. Clique em **OK**.
 

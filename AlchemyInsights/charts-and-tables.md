@@ -2,7 +2,7 @@
 title: Gráficos e tabelas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3047"
 - "9000592"
-ms.openlocfilehash: c0bca112ea345dedc7fa5e9cfa4e65866e6a8aa6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 40aaa485ea38d471922699a9d0dd4fd1085571b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812486"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817964"
 ---
 # <a name="common-issues-with-tables"></a>Questões comuns com tabelas 
 
@@ -25,9 +25,9 @@ Aqui estão alguns tópicos frequentemente solicitados relacionados com o trabal
 
 Consulte [abrir um documento após um erro de corrupção de ficheiro](https://support.office.com/article/47df9d48-2165-4411-a699-1786ac734bc3) para reparar uma tabela danificada no Word:
 
- 1. In Word, **File**selecione  >  **'Abrir**  >  **ficheiros' Navegar.**
+ 1. In Word, selecione  >  **'Abrir**  >  **ficheiros' Navegar.**
  2. Selecione o ficheiro com a tabela danificada.
- 3. Selecione a seta ao lado **de Abrir**e escolha Abrir **e Reparar**.
+ 3. Selecione a seta ao lado **de Abrir** e escolha Abrir **e Reparar**.
 
 [Ordenar o conteúdo de uma tabela](https://support.office.com/article/F8392477-4613-49CD-ABA6-7C2E48F1D91F)
 

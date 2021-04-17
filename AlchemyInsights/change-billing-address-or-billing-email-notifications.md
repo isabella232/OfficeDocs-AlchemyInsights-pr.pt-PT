@@ -2,7 +2,7 @@
 title: Alterar endereço de faturação ou notificações de e-mail de faturação
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1200012"
 - "4716"
-ms.openlocfilehash: 4a280eb646270bf5597e4e390be9c73bf3c357d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 013fd35e4c299d78504adbb59675a22df301c503
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793553"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819199"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Alterar endereço de faturação ou notificações de e-mail de faturação
 
-**Altere o seu endereço Bill-To**
+**Altere o seu endereço de Bill-To**
 
-1. No centro de administração, vá à página de ** [métodos](https://go.microsoft.com/fwlink/p/?linkid=2018806) de pagamento de > de faturação.**
+1. No centro de administração, vá à página de **[métodos](https://go.microsoft.com/fwlink/p/?linkid=2018806) de pagamento de > de faturação.**
 
 2. Selecione o cartão de crédito ou a conta bancária que pretende alterar.
 
@@ -34,7 +34,7 @@ ms.locfileid: "47793553"
 
 **Altere o endereço de e-mail alternativo para que as suas notificações de faturação sejam enviadas** 
 
-1. Clique no **ícone Do Utilizador**e, em seguida, clique na minha **conta**.
+1. Clique no **ícone Do Utilizador** e, em seguida, clique na minha **conta**.
 
 2. Clique **em informações pessoais.**
 

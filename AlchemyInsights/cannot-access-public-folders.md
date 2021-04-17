@@ -2,7 +2,7 @@
 title: Não é possível aceder a pastas públicas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: 272918b38f6019cb2bdcaa4013baebaa5f04fe85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812558"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819523"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook não pode ligar-se a pastas públicas
 
@@ -27,7 +27,7 @@ Ligue-se ao EXO PowerShell e configuure o parâmetro DefaultPublicFolderMailbox 
 
 Exemplo:
 
-Get-Mailbox WorkingUser [ ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox
+| de Get-Mailbox WorkingUser ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox
 
 Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous command>
 

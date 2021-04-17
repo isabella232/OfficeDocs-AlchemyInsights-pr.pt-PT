@@ -2,7 +2,7 @@
 title: Mude o fundo do ecrã de bloqueio
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 44e7d38655c7087f0b95a80488aef2de1fcb36c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8c13ad21019ffa00067ea6be0af7f05210e264a8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714483"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818119"
 ---
 # <a name="change-your-lock-screen-background"></a>Mude o fundo do ecrã de bloqueio
 
-- Ir para o ecrã de bloqueio de personalização **de**  >  **definições**  >  **Lock screen**. Ou clique ou toque [aqui.](ms-settings:lockscreen?activationSource=GetHelp)
+- Ir para o ecrã de bloqueio de personalização **de**  >  **definições**  >  ****. Ou clique ou toque [aqui.](ms-settings:lockscreen?activationSource=GetHelp)
 
 - Para definir uma imagem de fundo personalizada, selecione **Imagem** da lista de drop-down de **fundo** e escolha ou **navegue** para a imagem.
 

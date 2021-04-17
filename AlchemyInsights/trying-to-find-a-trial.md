@@ -2,7 +2,7 @@
 title: A tentar encontrar um julgamento?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,18 +14,18 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 37670ede6c60292282c16a8da3a888c10e96bc76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb6d6dc4aad5e5b00b34f93211a51ba6edcdbeec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658385"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834706"
 ---
 # <a name="trying-to-find-a-trial"></a>A tentar encontrar um julgamento?
 
 Se quiser experimentar um novo serviço, pode encontrar uma lista de subscrições disponíveis para teste no centro de administração microsoft 365.
   
-1. No centro de administração, vá à página de serviços de Compra **de Faturação.** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)
+1. No centro de administração, vá à página de serviços de Compra **de Faturação.** \> [](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
 2. Selecione a subscrição que satisfaça as suas necessidades e, em seguida,  **selecione Obter teste gratuito**.
 

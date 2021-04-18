@@ -1,25 +1,36 @@
 ---
-title: Políticas de configuração de aplicativos para Microsoft Intune
+title: Políticas de Configuração de Aplicações para o Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "1030"
-ms.openlocfilehash: 6f7c5f7cc3dc47ca8f5899ef96c5aafa8505342b
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
-ms.translationtype: MT
+- "9003770"
+- "6709"
+ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423971"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821341"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a>Políticas de configuração de aplicativos para Microsoft Intune
+# <a name="app-configuration-policies-for-microsoft-intune"></a>Políticas de Configuração de Aplicações para o Microsoft Intune
 
-As políticas de configuração de aplicações no Microsoft Intune fornecem configurações de configuração para aplicações iOS ou Android. Estas configurações permitem personalizar uma aplicação. O suporte à política de configuração é limitado por versões e aplicações do sistema operativo.
+As políticas de configuração de aplicações no Microsoft Intune são utilizadas para fornecer definições de configuração para aplicações iOS ou Android. Estas definições de configuração permitem que uma aplicação seja personalizada. Tenha em atenção que existem limitações em relação às versões do sistema operativo e aplicações que suportam a utilização de políticas de configuração.
 
-Para mais detalhes, consulte [as políticas de configuração da App para o Microsoft Intune.](https://docs.microsoft.com/intune/app-configuration-policies-overview)
+Consulte a seguinte documentação para obter detalhes.
+
+[Políticas de configuração de aplicações para o Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+
+[Adicionar políticas de configuração de aplicações para dispositivos iOS geridos](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+
+[Adicionar políticas de configuração de aplicações para dispositivos Android geridos](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+
+[Adicionar políticas de configuração de aplicações para aplicações geridas sem a inscrição de dispositivos](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)

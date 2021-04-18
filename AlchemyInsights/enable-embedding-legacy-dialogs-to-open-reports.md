@@ -23,11 +23,11 @@ ms.locfileid: "51814275"
 
 **Sintoma**
 
-Os utilizadores não conseguem abrir relatórios. "Algo correu mal. Consulte detalhes técnicos para obter mais detalhes. "
+Os utilizadores não conseguem abrir relatórios. "Algo correu mal. Consulte os detalhes técnicos para obter mais detalhes. "
 
 **Causa**
 
-Os relatórios não estão a carregar o UCI com o erro, "o descritor de formulários é nulo ou não está definido". Os relatórios no UCI ainda requerem caixas de diálogo legadas, por isso, o sistema do cliente precisa de ter *allowlegacydialogsembedding* ativadadas.
+Os relatórios não estão a carregar o UCI com o erro "o descritor de formulários é nulo ou não está definido". Os relatórios no UCI ainda requerem caixas de diálogo legadas, por isso, o sistema do cliente precisa de ter *allowlegacydialogsembedding* ativadas.
 
 **Solução**
 

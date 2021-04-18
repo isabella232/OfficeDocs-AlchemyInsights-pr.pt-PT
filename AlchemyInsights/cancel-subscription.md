@@ -32,9 +32,9 @@ Só pode cancelar a subscrição do Microsoft Azure no portal do Microsoft Azure
 
 **O que acontece depois de cancelar a minha subscrição?**
 
-Depois de cancelar, a faturação é imediatamente interrompida. No entanto, pode demorar até 10 minutos para que o cancelamento seja apresentado no portal. Se cancelar a meio de um período de faturação, enviamos a fatura final na data da sua fatura típica após o fim do período.
+Depois de cancelar, a faturação é imediatamente interrompida. No entanto, pode demorar até 10 minutos para que o cancelamento seja apresentado no portal. Se cancelar a meio de um período de faturação, enviamos a fatura final na data típica da sua fatura após o fim do período.
 
-Depois de cancelar, os seus serviços são desativados. Isto significa que as suas máquinas virtuais são desalocadas, os endereços IP temporários são liberados e o armazenamento é só de leitura.
+Depois de cancelar, os seus serviços são desativados. Isto significa que as suas máquinas virtuais são desalocadas, os endereços IP temporários são libertados e o armazenamento é só de leitura.
 
-Após a sua subscrição ser cancelada, a Microsoft aguarda 30-90 dias antes de eliminar permanentemente os seus dados, para o caso de precisar de aceder à mesma ou de mudar de ideias. Não lhe cobramos a retenção dos dados. Para saber mais, consulte [Centro de Confiança da Microsoft - Como gerimos os seus dados](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Após a sua subscrição ser cancelada, a Microsoft aguarda 30-90 dias antes de eliminar permanentemente os seus dados, para o caso de precisar de aceder aos mesmos ou de mudar de ideias. Não lhe cobramos a retenção dos dados. Para saber mais, consulte [Centro de Confiança da Microsoft - Como gerimos os seus dados](https://www.microsoft.com/trust-center/privacy/data-management#leave).
 

@@ -2,21 +2,22 @@
 title: 'AIP: Cabeçalhos e rodapés não exibidos como esperado'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4541"
-ms.openlocfilehash: 418362beea221a7cb9d8fd4be6cfc0f28022093d
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
+ms.openlocfilehash: 5f50fc1d38618017bca61b4e9290d9893983534e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493149"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821710"
 ---
 # <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: Cabeçalhos e rodapés não exibidos como esperado
 
@@ -31,14 +32,14 @@ Se ainda estiver a passar pelo problema, recolha os registos de clientes da Azur
 **Exportar registos de proteção de informação do Azure**
 
 1. Abra um documento do Office ou crie um novo e-mail no Outlook.
-2. Clique **em Proteger/Sensibilidade**  >  **Ajuda e feedback**.
-3. Clique em **Registos de Exportação**.
+2. Clique em **Proteger/Confidencialidade** > **Ajuda e comentários**.
+3. Clique em **Exportar Registos**.
 4. Guarde os registos à sua escolha de localização e anexe-os a este pedido de serviço.
 
-Para obter informações adicionais, consulte:
+Para obter mais informações, consulte:
 
 - [Como configurar um rótulo para marcações visuais para proteção de informação Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
-- [Rever documentação de proteção de informação do Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Requisitos para a proteção da informação do Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Tutorial de início rápido para proteção de informação do Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
-- [Baixar cliente da Azure Information Protection](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Rever a documentação do Azure Information Protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Requisitos do Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Tutorial de início rápido para o Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Transferir cliente do Azure Information Protection](https://www.microsoft.com/download/details.aspx?id=53018)

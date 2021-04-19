@@ -2,21 +2,22 @@
 title: Ativar aplicações microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 94f4c8802e511bbb8b42570ac3c4536b61a1c5db
-ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
+ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "44735223"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823042"
 ---
 # <a name="activating-microsoft-365-apps"></a>Ativar aplicações microsoft 365
 
@@ -34,6 +35,8 @@ Para corrigir problemas de ativação do Office, consulte:
 - [Erros de Produto Não Licenciado e de ativação no Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 - [O que fazer se não conseguir instalar ou ativar o Office para Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
+
+**Sugestão** Em computadores Windows, podemos diagnosticar e corrigir automaticamente vários problemas comuns de início de sessão do Office. Transfira e execute o **[Assistente de Recuperação e Suporte da Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** para utilizar a nossa ferramenta automatizada.
 
 Se não conseguir iniciar sôm-se nas aplicações da Microsoft 365, siga os passos abaixo:
 

@@ -1,30 +1,31 @@
 ---
-title: Endereçamento de equipas de erro de inscrição AADSTS9000411
+title: Endereço de erro de inscrição das equipas AADSTS9000411
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000744"
 - "5689"
-ms.openlocfilehash: b70f1320ea1dfa29e6fa489bd02acfcd1d92971b
-ms.sourcegitcommit: 88d2918aa51f4ba10771527380c3e0db0f5a9147
+ms.openlocfilehash: 7b0e90e3fea716df649ec906ad8b3008386684be
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44357873"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821998"
 ---
-# <a name="addressing-teams-sign-in-error-aadsts9000411"></a>Endereçamento de equipas de erro de inscrição AADSTS9000411
+# <a name="addressing-teams-sign-in-error-aadsts9000411"></a>Endereço de erro de inscrição das equipas AADSTS9000411
 
-Ao iniciar sessão no Microsoft Teams, pode receber o erro: **Desculpe, mas estamos com dificuldades em contratá-lo em AADSTS900411: O pedido não está devidamente formatado. O parâmetro "login_hint" é duplicado.**
+Ao iniciar sessão no Microsoft Teams, poderá receber o erro: **Desculpe, mas estamos com dificuldades em contratá-lo no AADSTS9000411: O pedido não está devidamente formatado. O parâmetro "login_hint" é duplicado.**
 
-Para resolver este problema, certifique-se de que os seus clientes da Microsoft Teams estão atualizados. Para obter mais informações sobre a atualização do seu cliente, consulte [Atualizar as Equipas microsoft](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
+Para resolver este problema, certifique-se de que os seus clientes Microsoft Teams estão atualizados. Para obter mais informações sobre a atualização do seu cliente, consulte [Update Microsoft Teams](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-Se não conseguir atualizar o seu cliente por alguma razão, o registo do cliente irá limpar a maioria dos dados em cache. No entanto, se ainda tiver problemas após o logoff/logon, desista das Equipas e, por favor, limpe a cache do seu cliente fazendo o seguinte:
+Se não conseguir atualizar o seu cliente por alguma razão, o registo do cliente limpará a maioria dos dados em cache. No entanto, se ainda tiver problemas após o logoff/início de são, saia das Equipas e, por favor, limpe a cache do seu cliente fazendo o seguinte:
 1. Feche as equipas da Microsoft.
-2. Vá a: %appdata%\microsoft\teams e delete todos os ficheiros.
-3. Reabra as Equipas microsoft.
+2. Aceda a: %appdata%\microsoft\microsoft\teams e elimine todos os ficheiros.
+3. Reabrir equipas da Microsoft.

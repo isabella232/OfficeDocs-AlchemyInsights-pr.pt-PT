@@ -32,6 +32,6 @@ Tem de ter uma função de administrador de conta numa subscrição ou um plano 
 
     Poderá querer partilhar as faturas da sua subscrição e o plano de suporte todos os meses com a sua equipa de contabilidade ou enviá-las para um dos seus outros endereços de e-mail.  
 
-7. Siga os passos acima para ativar a fatura por e-mail e, em seguida, selecione  **Configurar os destinatários.**
+7. Siga os passos acima para ativar a fatura por e-mail e, em seguida, selecione **Configurar os destinatários.**
 8. Insira um endereço de e-mail e, em seguida, selecione **Adicionar destinatário**. Pode adicionar múltiplos endereços de e-mail.
 9. Assim que tiver adicionado todos os endereços de e-mail, selecione **Concluído** na parte inferior do ecrã.

@@ -21,7 +21,7 @@ ms.locfileid: "51814419"
 ---
 # <a name="editing-onenote-notebooks-in-teams"></a>Editar blocos de notas do OneNote no Teams
 
-**Importante**: poderá ver a mensagem "Estamos a ter algumas dificuldades com o OneNote no Microsoft Teams. Utilize o OneNote na Web para editar este bloco de notas. "  
+**Importante**: poderá ver a mensagem "Estamos a ter algumas dificuldades com o OneNote no Microsoft Teams. Utilize o OneNote na Web para editar este bloco de notas."  
 
 Consulte [ID de Centro de Mensagens: 207439](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207439) para mais informações.
 

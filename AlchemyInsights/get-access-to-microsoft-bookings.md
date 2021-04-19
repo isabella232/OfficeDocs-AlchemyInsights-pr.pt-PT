@@ -27,6 +27,6 @@ Ative o Microsoft Bookings no **centro de administração do Microsoft 365**.
 2. Clique na caixa de verificação para **Permitir que a sua organização utilize o Bookings** para ativar ou desativar o Bookings na sua organização.
 3. Clique em **Guardar Alterações**.
 
-**Importante**: A aplicação Microsoft Booking está disponível para ser utilizada por predefinição no **Microsoft 365 Educação A3, A5**, **Microsoft 365 Empresas (anteriormente Empresas – Versão Premium)**, e **Microsoft 365 Empresas Premium (anteriormente Empresas)**. O Bookings está disponível para **clientes Empresas E3 e E5** como suplemento até 12 de maio de 2020, nessa altura, será ativado por predefinição.
+**Importante**: A aplicação Microsoft Booking está disponível para ser utilizada por predefinição no **Microsoft 365 Educação A3, A5**, **Microsoft 365 Empresas (anteriormente Empresas – Versão Premium)** e **Microsoft 365 Empresas Premium (anteriormente Empresas)**. O Bookings está disponível para **clientes Empresas E3 e E5** como suplemento até 12 de maio de 2020. Nessa data, será ativado por predefinição.
 
 Para mais informações, consulte [Obter acesso ao Microsoft Bookings](https://support.microsoft.com/pt-PT/office/get-access-to-microsoft-bookings-5382dc07-aaa5-45c9-8767-502333b214ce).

@@ -13,12 +13,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 68387bf6f5f91657f1d853b9d67bdea6fac21bde
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
+ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952203"
+ms.locfileid: "51958713"
 ---
 # <a name="dlp-policy-tip-issues"></a>Problemas com a Sugestão de Política DLP
 
@@ -28,8 +28,8 @@ Para configurar sugestões de políticas na sua política DLP no Centro de Confo
 
 - Certifique-se de que as sugestões **de política foram ativadas** na regra DLP. Para ver os passos, [consulte Enviar notificações de e-mail e mostrar sugestões de políticas para políticas DLP.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-Certifique-se de que os seus conteúdos correspondem ao necessário para ativar a regra em Definições de entidade de tipo [de informação sensível.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+- Certifique-se de que os seus conteúdos correspondem ao necessário para ativar a regra em Definições de entidade de tipo [de informação sensível.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-As sugestões de política são apresentadas no OWA e no Outlook. No entanto, ao utilizar o Outlook 2013 ou posterior, as sugestões de política são apresentadas apenas em determinadas condições. Para a lista de condições específicas, consulte Condições suportadas para o [Outlook 2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)ou posterior para apresentar Sugestões de Política.
+- As sugestões de política são apresentadas no OWA e no Outlook. No entanto, ao utilizar o Outlook 2013 ou posterior, as sugestões de política são apresentadas apenas em determinadas condições. Para a lista de condições específicas, consulte Condições suportadas para o [Outlook 2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)ou posterior para apresentar Sugestões de Política.
 
 Para obter informações sobre sugestões de Políticas [DLP,](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) consulte Referência de Sugestões de Política DLP e Matriz de Suporte para Sugestões de Política [DLP.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)

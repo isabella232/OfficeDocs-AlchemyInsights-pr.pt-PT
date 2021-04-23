@@ -1,5 +1,5 @@
 ---
-title: Dicas de política DLP não funcionam
+title: As Sugestões de Políticas DLP não funcionam
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,28 +13,23 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68387bf6f5f91657f1d853b9d67bdea6fac21bde
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679596"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952203"
 ---
-# <a name="dlp-policy-tip-issues"></a>Questões da Dica de Política DLP
+# <a name="dlp-policy-tip-issues"></a>Problemas com a Sugestão de Política DLP
 
 **Importante**: durante estes tempos sem precedentes, estamos a tomar medidas para garantir que os serviços SharePoint Online e OneDrive permaneçam com elevada disponibilidade. Para obter mais informações, visite [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) (Ajustes Temporários de Funcionalidades do SharePoint Online).
 
-**Dicas de política do DLP**
+Para configurar sugestões de políticas na sua política DLP no Centro de Conformidade & Segurança no modo de imposição total, faça o seguinte:
 
-Ao utilizar **as políticas DLP,** os utilizadores podem ser notificados de uma violação de política com **dicas de política**. Os administradores podem configurar dicas de política para exibir enquanto testam a sua política DLP ou quando a política está em pleno modo de aplicação.
-  
-Para configurar as dicas de política sobre a sua política DLP no centro de segurança e conformidade em modo de aplicação integral, faça o seguinte:
-  
-- Certifique-se de que as dicas de política foram **ativadas** na regra DLP utilizando os passos [aqui](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
+- Certifique-se de que as sugestões **de política foram ativadas** na regra DLP. Para ver os passos, [consulte Enviar notificações de e-mail e mostrar sugestões de políticas para políticas DLP.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-- Certifique-se de que o seu **conteúdo corresponde** ao **necessário** para desencadear a regra descrita neste artigo [aqui](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+Certifique-se de que os seus conteúdos correspondem ao necessário para ativar a regra em Definições de entidade de tipo [de informação sensível.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- As dicas de política são exibidas tanto na OWA como no Outlook. No entanto, quando se utiliza **o Outlook 2013 ou posteriormente,** as dicas de política só são apresentadas sob determinadas condições. Estas condições estão listadas aqui: [Condições suportadas para o Outlook 2013 ou posteriormente para a exibição de Dicas de Política](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+As sugestões de política são apresentadas no OWA e no Outlook. No entanto, ao utilizar o Outlook 2013 ou posterior, as sugestões de política são apresentadas apenas em determinadas condições. Para a lista de condições específicas, consulte Condições suportadas para o [Outlook 2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)ou posterior para apresentar Sugestões de Política.
 
-Para obter informações adicionais sobre dicas de política do DLP, consulte: [Mostrar dicas de política para políticas de DLP](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-  
+Para obter informações sobre sugestões de Políticas [DLP,](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) consulte Referência de Sugestões de Política DLP e Matriz de Suporte para Sugestões de Política [DLP.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)

@@ -1,5 +1,5 @@
 ---
-title: Políticas de Retenção no Centro de Administração de Intercâmbio não funcionam
+title: As Políticas de Retenção no Centro de Administração do Exchange não funcionam
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,55 +13,35 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 1fee2361b2dd6e0989d430a17aebb13bd5948578
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740521"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952239"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Políticas de Retenção no Centro de Administração de Intercâmbio
+# <a name="retention-policies-in-exchange-admin-center"></a>Políticas de Retenção no Centro de Administração do Exchange
 
-Se quiser que façamos verificações automatizadas das definições abaixo mencionadas, selecione o botão de trás <-- no topo desta página e, em seguida, insira o endereço de e-mail do utilizador que tem problemas com as políticas de retenção.
+Se quiser que executemos verificações automáticas das definições mencionadas abaixo, selecione o botão Back < -- na parte superior desta página e, em seguida, introduza o endereço de e-mail do utilizador que tem problemas com as políticas de retenção.
 
- **Emissão:** As políticas de retenção recentemente criadas ou atualizadas no Exchange Admin Center não estão a ser aplicadas a caixas de correio ou os itens não são transferidos para a caixa de correio de arquivo ou eliminados. 
-  
- **Causas de raiz:**
-  
-- Isto pode ser porque o **Assistente de Pasta Gerida** não processou a caixa de correio do utilizador. O Assistente de Pasta Gerida tenta processar todas as caixas de correio da sua organização baseada na nuvem uma vez a cada sete dias. Se alterar uma etiqueta de retenção ou aplicar uma política de retenção diferente a uma caixa de correio, pode esperar até que o Serviço de Assistência à Pasta Gerida processe a caixa de correio, ou pode executar a cmdlet Start-ManagedFolderAssistant para iniciar o Assistente de Pasta Gerida para processar uma caixa de correio específica. A execução deste cmdlet é útil para testar ou resolver problemas de uma política de retenção ou configurações de etiquetas de retenção. Para mais informações, visite [executar o Assistente de Pasta Gerida](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
-    
-  - **Solução:** Executar o seguinte comando para iniciar o Assistente de Pasta Gerida para uma caixa de correio específica:
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+Se tiver problemas com as políticas de retenção no Centro de Administração do Exchange que não se aplicam a caixas de correio ou itens que não estão a ser movidos para a caixa de correio de arquivo, verifique o seguinte:
 
-- Isto também pode ocorrer se **o RetentionHold** tiver sido **ativado** na caixa de correio. Se a caixa de correio tiver sido colocada num RetentionHold, a política de retenção na caixa de correio não será processada durante esse período. Para obter mais informação sobre a definição Retençãoremente ver: [Retenção de caixa de correio .](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold)
-    
-    **Solução:**
-    
-  - Verifique o estado da definição RetentionHold na caixa de correio específica em [exo powershell:](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)
-    
-  ```
-  Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
-  ```
+**Causas Raiz:**
 
-  - Executar o seguinte comando para **desativar** o RetentionHold numa caixa de correio específica:
-    
-  ```
-  Set-Mailbox -RetentionHoldEnabled $false
-  ```
+- **O Assistente de Pastas** Geridas não processou a caixa de correio do utilizador. O Assistente de Pastas Geridas tenta processar todas as caixas de correio na sua organização baseada na nuvem uma vez a cada sete dias.
 
-  - Agora, reencamina o Assistente de Pasta Gerida:
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+  **Solução:** Execute o Assistente de Pastas Geridas.
 
- **Nota:** Se uma caixa de correio for inferior a 10 MB, o Assistente de Pasta Gerida não processará automaticamente a caixa de correio.
+- **O RetentionHold** foi **ativado** na caixa de correio. Se a caixa de correio tiver sido colocada num RetentionHold, a política de retenção na caixa de correio não será processada durante esse período de tempo.
+
+  **Solução:** Verifique o estado da definição e atualização da Retenção conforme necessário. Para obter detalhes, consulte [o artigo Retenção na Caixa de Correio](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
  
-Para obter mais informações sobre as políticas de retenção no Exchange Admin Center, consulte:
+**Nota:** Se uma caixa de correio for inferior a 10 MB, o Assistente de Pastas Geridas não processará automaticamente a caixa de correio.
+ 
+Para mais informações sobre políticas de retenção no Centro de Administração do Exchange, consulte:
+
 - [Etiquetas de retenção e políticas de retenção](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [Aplicar uma política de retenção nas caixas de correio](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [Adicione ou remova etiquetas de retenção](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Como identificar o tipo de porão colocado numa caixa de correio](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
+
+- [Aplicar uma política de retenção a caixas de correio](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) ou [Adicionar ou remover etiquetas de retenção](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+
+- [Como identificar o tipo de reter colocado numa caixa de correio](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)

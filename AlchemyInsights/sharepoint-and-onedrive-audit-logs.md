@@ -1,5 +1,5 @@
 ---
-title: Relatórios clássicos do registo de auditoria do SharePoint
+title: Relatórios de registo de auditoria do SharePoint clássicos
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,41 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1372"
 - "3100005"
-ms.assetid: ''
-ms.openlocfilehash: daf79f8d75ccdff8ad54f0f307648a5832a6bb71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f84a86331ffe714ffb5154d55608a91725a2fbfb
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662219"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233617"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>Registos de auditoria do SharePoint e do OneDrive
+# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint e registos OneDrive de auditoria
 
-## <a name="sharepoint-classic-audit-logs"></a>Registos clássicos de auditoria do SharePoint
+* [Ate/deslige o Registo de Auditoria Unificado](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
 
-A auditoria do legado SPO foi migrada para o Registo de Auditoria Unificado (UAL). Todos os relatórios de auditoria do legado da SPO serão agora alimentados através da UAL, e os sinais de auditoria do legado foram migrados para a UAL.
+Utilize a pesquisa de registo de auditoria para verificar a atividade dos ficheiros, pastas, utilizadores e permissões:
 
-Alterações de chaves:
-
-* O corte não está disponível como capacidade.
-* A escolha de eventos específicos para auditoria não está disponível. Consulte [este documento](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) para obter uma lista completa de eventos auditados disponíveis por padrão.
-* A opção **localização** em **relatórios personalizados** NÃO está disponível.
-* A opção de eventos **de abertura ou descarregamento de documentos** NÃO está disponível.
-
-[Configurar definições de auditoria para uma recolha de site](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
-
-## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>SharePoint e OneDrive Modern Unified Audit registações de conformidade
-
-* [Ligar/desligar Registo de Auditoria Unificada](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
-
-Não é necessária nenhuma configuração adicional dentro do SharePoint ou oneDrive.
-
-Utilize a pesquisa de registo de auditoria para verificar a atividade dos ficheiros, pastas, user(s), permissões:
-
-* [Atividades de arquivo e página](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
-* [Atividades de pasta](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-* [Atividades de pedido de partilha e acesso](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [Atividades de ficheiros e páginas](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
+* [Atividades de pastas](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+* [Atividades de partilha e pedido de acesso](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
 * [Atividades de sincronização](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-* [Atividades de administração do site](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+* [Atividades de administração de site](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-Para obter mais informações sobre como recuperar estes eventos, consulte [procurar o registo de auditoria](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Para obter mais informações sobre como obter estes eventos, consulte [Procurar no registo de auditoria.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
+
+A auditoria legada do SPO foi migrada para o Registo de Auditoria Unificado (UAL). Todos os relatórios de auditoria legados do SPO são transmitidos através da UAL e os sinais de auditoria legados foram migrados para a UAL. Para obter mais informações, consulte [Configurar dados de auditoria para uma coleção de site.](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)

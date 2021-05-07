@@ -1,5 +1,5 @@
 ---
-title: Sobre as atualizações de Segurança do Servidor de Câmbio
+title: Acerca das Exchange Server atualizações
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726538"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233473"
 ---
-# <a name="about-exchange-server-security-updates"></a>Sobre as atualizações de Segurança do Servidor de Câmbio
+# <a name="about-exchange-server-updates"></a>Acerca das Exchange Server atualizações
 
-A Microsoft lançou uma série de atualizações críticas de segurança para o Exchange Server no local. As versões do servidor afetado são quaisquer níveis de atualização do Exchange Server 2010, 2013, 2016 e 2019. O Exchange Online não é impactado, mas se tiver alguns servidores de Troca no local devido à configuração Híbrida, eles são potencialmente vulneráveis.
+A Microsoft lança normalmente atualizações Exchange Server atualizações atualizadas na terça-feira (Atualizações de Segurança) ou trimestrais (Atualizações Acumulativas). Para ver os anúncios das atualizações lançadas mais recentes, consulte o [blogue Exchange equipa.](https://aka.ms/ehlo)
 
-Consulte o seguinte anúncio para a localização das correções: [Lançado: março 2021 Exchange Server Security Updates](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- Para fazer o inventário dos seus Exchange, utilize o script do [Exchange Server Health Checker (GitHub, utilize](https://aka.ms/ExchangeHealthChecker)a versão mais recente). Executar este script diz-lhe se algum dos seus servidores Exchange está atrasado para as atualizações (CUs e SUs).
 
-**Notas importantes:**
+- Para atualizar para a atualização Cumulativa mais recente, vá para o Assistente de Atualizações [Exchange](https://aka.ms/ExchangeUpdateWizard) atualizar e escolha o CU que está a executar atualmente e o cu de destino. **Selecione Diga-me os** passos para obter direções para o seu ambiente.
 
-Se instalar atualizações manualmente, leia a secção "Questões conhecidas" da atualização de artigos KB para obter informações importantes. Atualizações de segurança DEVEM ser executadas a partir de alerta CMD/PowerShell elevado!
-
-Atualização de informações de resolução de problemas pode ser [encontrada aqui](https://aka.ms/exupdatefaq).
+- Se encontrar erros durante ou após a instalação das atualizações Exchange Server, consulte Falhas na reparação de instalações do [Exchange Cumulativas e de Segurança.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)

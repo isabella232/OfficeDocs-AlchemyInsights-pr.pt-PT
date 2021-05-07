@@ -1,5 +1,5 @@
 ---
-title: Sobre as atualizações de Segurança do Servidor de Câmbio
+title: Acerca das Exchange Server atualizações
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726538"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233473"
 ---
-# <a name="about-exchange-server-security-updates"></a><span data-ttu-id="d4622-102">Sobre as atualizações de Segurança do Servidor de Câmbio</span><span class="sxs-lookup"><span data-stu-id="d4622-102">About Exchange Server Security updates</span></span>
+# <a name="about-exchange-server-updates"></a><span data-ttu-id="c09d8-102">Acerca das Exchange Server atualizações</span><span class="sxs-lookup"><span data-stu-id="c09d8-102">About Exchange Server updates</span></span>
 
-<span data-ttu-id="d4622-103">A Microsoft lançou uma série de atualizações críticas de segurança para o Exchange Server no local.</span><span class="sxs-lookup"><span data-stu-id="d4622-103">Microsoft has released a series of critical security updates for Exchange Server on-premises.</span></span> <span data-ttu-id="d4622-104">As versões do servidor afetado são quaisquer níveis de atualização do Exchange Server 2010, 2013, 2016 e 2019.</span><span class="sxs-lookup"><span data-stu-id="d4622-104">The affected server versions are any update levels of Exchange Server 2010, 2013, 2016 and 2019.</span></span> <span data-ttu-id="d4622-105">O Exchange Online não é impactado, mas se tiver alguns servidores de Troca no local devido à configuração Híbrida, eles são potencialmente vulneráveis.</span><span class="sxs-lookup"><span data-stu-id="d4622-105">Exchange Online is NOT impacted, but if you have some on-premises Exchange servers due to Hybrid configuration, they are potentially vulnerable.</span></span>
+<span data-ttu-id="c09d8-103">A Microsoft lança normalmente atualizações Exchange Server atualizações atualizadas na terça-feira (Atualizações de Segurança) ou trimestrais (Atualizações Acumulativas).</span><span class="sxs-lookup"><span data-stu-id="c09d8-103">Microsoft usually releases Exchange Server updates on Update Tuesday (Security Updates) or quarterly (Cumulative Updates).</span></span> <span data-ttu-id="c09d8-104">Para ver os anúncios das atualizações lançadas mais recentes, consulte o [blogue Exchange equipa.](https://aka.ms/ehlo)</span><span class="sxs-lookup"><span data-stu-id="c09d8-104">To see the announcements of latest released updates released, see the [Exchange Team Blog](https://aka.ms/ehlo).</span></span>
 
-<span data-ttu-id="d4622-106">Consulte o seguinte anúncio para a localização das correções: [Lançado: março 2021 Exchange Server Security Updates](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)</span><span class="sxs-lookup"><span data-stu-id="d4622-106">Please see the following announcement for location of fixes: [Released: March 2021 Exchange Server Security Updates](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)</span></span>
+- <span data-ttu-id="c09d8-105">Para fazer o inventário dos seus Exchange, utilize o script do [Exchange Server Health Checker (GitHub, utilize](https://aka.ms/ExchangeHealthChecker)a versão mais recente).</span><span class="sxs-lookup"><span data-stu-id="c09d8-105">To inventory your Exchange Servers, use the [Exchange Server Health Checker script, (GitHub, use the latest release)](https://aka.ms/ExchangeHealthChecker).</span></span> <span data-ttu-id="c09d8-106">Executar este script diz-lhe se algum dos seus servidores Exchange está atrasado para as atualizações (CUs e SUs).</span><span class="sxs-lookup"><span data-stu-id="c09d8-106">Running this script tells you if any of your Exchange Servers are behind on updates (CUs and SUs).</span></span>
 
-<span data-ttu-id="d4622-107">**Notas importantes:**</span><span class="sxs-lookup"><span data-stu-id="d4622-107">**Important notes:**</span></span>
+- <span data-ttu-id="c09d8-107">Para atualizar para a atualização Cumulativa mais recente, vá para o Assistente de Atualizações [Exchange](https://aka.ms/ExchangeUpdateWizard) atualizar e escolha o CU que está a executar atualmente e o cu de destino.</span><span class="sxs-lookup"><span data-stu-id="c09d8-107">To update to the latest Cumulative Update, go to [Exchange Update Wizard](https://aka.ms/ExchangeUpdateWizard) and choose your currently running CU and your target CU.</span></span> <span data-ttu-id="c09d8-108">**Selecione Diga-me os** passos para obter direções para o seu ambiente.</span><span class="sxs-lookup"><span data-stu-id="c09d8-108">Select **Tell me the steps** to get directions for your environment.</span></span>
 
-<span data-ttu-id="d4622-108">Se instalar atualizações manualmente, leia a secção "Questões conhecidas" da atualização de artigos KB para obter informações importantes.</span><span class="sxs-lookup"><span data-stu-id="d4622-108">If installing updates manually, please read the "Known issues" section of update KB articles for important information.</span></span> <span data-ttu-id="d4622-109">Atualizações de segurança DEVEM ser executadas a partir de alerta CMD/PowerShell elevado!</span><span class="sxs-lookup"><span data-stu-id="d4622-109">Security updates MUST be run from elevated CMD/PowerShell prompt!</span></span>
-
-<span data-ttu-id="d4622-110">Atualização de informações de resolução de problemas pode ser [encontrada aqui](https://aka.ms/exupdatefaq).</span><span class="sxs-lookup"><span data-stu-id="d4622-110">Update troubleshooting information can be [found here](https://aka.ms/exupdatefaq).</span></span>
+- <span data-ttu-id="c09d8-109">Se encontrar erros durante ou após a instalação das atualizações Exchange Server, consulte Falhas na reparação de instalações do [Exchange Cumulativas e de Segurança.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)</span><span class="sxs-lookup"><span data-stu-id="c09d8-109">If you encounter errors during or after installation of Exchange Server updates, see [Repair failed installations of Exchange Cumulative and Security updates](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues).</span></span>

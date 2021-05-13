@@ -1,5 +1,5 @@
 ---
-title: Importar favoritos do Google Chrome ou Mozilla Firefox para o Microsoft Edge
+title: Importar favoritos do Google Chrome ou Mozilla Firefox para Microsoft Edge
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,24 +12,26 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9447"
+- "11023"
 - "9005491"
-ms.openlocfilehash: 056e9b2c4d60a7f15eed26c8a38d3c50cc81aecd
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
-ms.translationtype: MT
+- "9006474"
+ms.openlocfilehash: a4636532111248d91a2e2b3d52fcc2e896aa7cd5
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51492264"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470275"
 ---
-# <a name="import-favorites-from-google-chrome-or-mozilla-firefox-to-microsoft-edge"></a>Importar favoritos do Google Chrome ou Mozilla Firefox para o Microsoft Edge
+# <a name="import-favorites-from-google-chrome-or-mozilla-firefox-to-microsoft-edge"></a>Importar favoritos do Google Chrome ou Mozilla Firefox para Microsoft Edge
 
-1. Abra o Microsoft Edge e, em seguida, **selecione Definições e muito mais ...**  >  **Configurações**  >  **Importar dados do navegador.**
+1. Abra o Microsoft Edge e, em seguida, **selecione Definições e muito mais...**  >  **Definições**  >  **Importar dados do browser.**
 
-1. A partir **do menu Import,** selecione **Google Chrome** ou **Mozilla Firefox** e, em seguida, selecione **Import**.
+1. No menu **Importar de,** selecione **Google Chrome ou** **Mozilla Firefox e,** em seguida, selecione **Importar.**
 
-1. Under **Profile**, selecione o perfil.
+1. Em **Perfil**, selecione o perfil.
 
-1. Em **Escolha o que importar,** selecione os itens que pretende importar e, em seguida, selecione **Import**.
+1. Em **Escolha o que importar**, selecione os itens que pretende importar e, em seguida, selecione **Importar**.
 
-1. No **All done!** caixa de diálogo, selecione **Feito**.
+1. Em **Tudo feito!** , selecione **Feito**.
 
-Os favoritos importados devem estar numa pasta (por exemplo, importada ou outras favoritas) no bar Favoritos. Pode mantê-los onde estão ou movê-los para uma pasta diferente.
+Os favoritos importados devem estar numa pasta (por exemplo, Importados ou Outros favoritos) na barra de Favoritos. Pode mantê-las onde estão ou movê-las para uma pasta diferente.

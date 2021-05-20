@@ -1,29 +1,31 @@
 ---
 title: Cancelar a sua subscrição da Microsoft
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 0bc16dac8daf6219fcd3507e1f47d1d62a0961d2
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: 218ed088ca13c5d7964600559857f49c5dd00f19
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707753"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543336"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Cancelar a sua subscrição da Microsoft
 
-1. Aceda a [Serviços e subscrições](https://account.microsoft.com/services/) e inicie sessão com a conta da Microsoft que usou na compra da sua subscrição.
+Os administradores podem cancelar a subscrição da respetiva organização no Microsoft 365 de administração.
 
-2. Encontre a sua subscrição e clique em **Gerir**. Se vir **Ativar a faturação periódica** em vez de **Gerir**, consulte a secção de Resolução de Problemas. Caso contrário, continue para o passo 3.
+1. Vá para a página **Faturação** \> [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.
+2. No **separador** Produtos, localmente a subscrição que pretende cancelar. Selecione os três pontos (mais ações) e, em **seguida, selecione Cancelar subscrição**.
+3. No painel **Cancelar subscrição,** escolha um motivo pelo qual está a cancelar. Opcionalmente, forneça feedback.
+4. Selecione **Guardar**.
 
-3. Na página seguinte, clique em **Cancelar** ou **Atualizar ou Cancelar**, dependendo do seu tipo de subscrição.
-
-4. Siga as instruções na página para dar seguimento ao cancelamento.
+**Reembolso:** Qualquer crédito profissional ser-lhe-à devolvido no próximo ciclo de faturação.

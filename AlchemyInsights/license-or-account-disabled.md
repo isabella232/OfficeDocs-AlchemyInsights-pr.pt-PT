@@ -1,22 +1,23 @@
 ---
 title: Licença ou conta desativada
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "3764"
-ms.openlocfilehash: 57331da43579af705c7e9ba52211295c0e37ce34
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
-ms.translationtype: HT
+ms.openlocfilehash: 045726996da5b409da9afe0e7b19e3f6675ade8c
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286734"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544877"
 ---
 # <a name="license-or-account-disabled"></a>Licença ou conta desativada
 
@@ -24,12 +25,11 @@ Se a sua subscrição expirar, se a mesma tiver sido desativada pela Microsoft o
 
 **Reativar uma subscrição**
 
-1. No centro de administração, aceda à página **Faturação > [ Produtos e Serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. No centro de administração, vá para a página **Faturação**  >  [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.
+2. No **separador** Produtos, locale a subscrição que pretende reativar. Selecione os três pontos (mais ações) e, em **seguida, selecione Reativar esta subscrição**.
+    > [!NOTE]
+    > Se não vir a ação **Reativar esta subscrição,** contacte o suporte.
+3. No painel **Reativar esta subscrição,** selecione um método de pagamento na lista única ou selecione **Adicionar método de pagamento**.
+4. Selecione **Guardar**.
 
-2. Na página Produtos e Serviços, localize a subscrição que pretende reativar.
-
-3. Na secção Faturação, clique em **Reativar agora**.  Se estiver na vista Cartões, clique nas reticências entre Nome e Quantidade disponível e clique em Reativar no menu. **Nota**: se não vir a subscrição que procura, poderá ter de ajustar o filtro Estado e subscrição perto da parte superior da página para **Todos**.
-
-4. Confirme os seus dados de pagamento para atualizar as informações de pagamento existentes. Quando terminar de introduzir o seu método de pagamento, clique em **Reativar**.
-
-Para mais informações, consulte [Reativar a sua subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Para mais informações, consulte [Reativar a sua subscrição](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

@@ -1,35 +1,33 @@
 ---
 title: A subscrição já não está ativa
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 8f9b9a06d12c289f40f9be8247621a01c619f21e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 8a85768fc419829f288bbc8dcf887c2d6b0044b4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789241"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544265"
 ---
 # <a name="subscription-no-longer-active"></a>A subscrição já não está ativa
 
-Se [aparecer um aviso de subscrição quando uma aplicação da Microsoft](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB) for aberta, é provável que precise de reativar a sua subscrição.
+Se for [exibido um aviso](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) de subscrição quando uma aplicação da Microsoft é aberta, é provável que tenha de reativar a sua subscrição.
 
 **Reativar uma subscrição**
 
-1. No centro de administração, aceda à página **Faturação > [ Produtos e Serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. No centro de administração, vá para a página **Faturação**  >  [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.
+2. No **separador** Produtos, locale a subscrição que pretende reativar. Selecione os três pontos (mais ações) e, em **seguida, selecione Reativar esta subscrição**.
+3. No painel **Reativar esta subscrição,** selecione um método de pagamento na lista única ou selecione **Adicionar método de pagamento**.
+4. Selecione **Guardar**.
 
-2. Na página Produtos e Serviços, localize a subscrição que pretende reativar.
-
-3. Na secção Faturação, clique em **Reativar agora**.  Se estiver na vista Cartões, clique nas reticências entre Nome e Quantidade disponível e clique em Reativar no menu. **Nota**: se não vir a subscrição que procura, poderá ter de ajustar o filtro Estado e subscrição perto da parte superior da página para **Todos**.
-
-4. Confirme os seus dados de pagamento para atualizar as informações de pagamento existentes. Quando terminar de introduzir o seu método de pagamento, clique em **Reativar**.
-
-Para mais informações, consulte [Reativar a sua subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Para saber mais, consulte [Reativar a sua subscrição](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

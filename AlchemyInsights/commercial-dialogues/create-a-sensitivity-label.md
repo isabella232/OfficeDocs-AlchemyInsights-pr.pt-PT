@@ -1,5 +1,5 @@
 ---
-title: Criar um rótulo de sensibilidade
+title: Criar uma etiqueta de sensibilidade
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: c55550529aff28fd13c8329bc1f2303e04cf1316
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1869cff3a5ef80a90d36a7d40199c14011cd87a0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747881"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543768"
 ---
-# <a name="create-a-sensitivity-label"></a>Criar um rótulo de sensibilidade
+# <a name="create-a-sensitivity-label"></a>Criar uma etiqueta de sensibilidade
 
-Para criar um rótulo de sensibilidade, execute os seguintes passos:
+Para criar uma etiqueta de sensibilidade, efetue os seguintes passos:
 
-1. Aceda ao **[Office 365 Security & Compliance Center](https://sip.protection.office.com/) > Labels > Sensitivity**.
-2. Clique **+ Crie uma etiqueta** para iniciar o novo assistente de etiqueta de **sensibilidade.** Para obter mais informações sobre definições de encriptação e rotulagem automática, consulte [restringir o acesso ao conteúdo utilizando encriptação em etiquetas de sensibilidade](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels) e aplicar automaticamente uma etiqueta de sensibilidade ao [conteúdo,](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)respectivamente.
-3. Repita estes passos para criar mais etiquetas. No entanto, se pretender criar um sublbel, primeiro selecione a etiqueta dos pais, clique **em ...** para **mais ações** e, em seguida, clique em **Adicionar a etiqueta sub**.
-4. Quando tiver criado todas as etiquetas necessárias, reveja a sua encomenda e, se necessário, mova-as para cima ou para baixo. Para alterar a ordem de uma etiqueta, clique **em ...** para **mais ações**, e, em seguida, clique em **Mover para cima** ou **para baixo**. 
+1. Vá para o Centro de Office 365 de Conformidade & de Conformidade **[](https://sip.protection.office.com/) > classificação > etiquetas de Sensibilidade.**
+2. Clique **em + Criar uma etiqueta** para iniciar o Assistente de Nova etiqueta **de** sensibilidade. Para obter mais informações sobre as definições de encriptação e etiquetagem automática, consulte Restringir o acesso aos [conteúdos](/microsoft-365/compliance/encryption-sensitivity-labels) ao utilizar encriptação em etiquetas de confidencialidade e Aplicar uma etiqueta de confidencialidade aos conteúdos [automaticamente,](/microsoft-365/compliance/apply-sensitivity-label-automatically)respetivamente.
+3. Repita estes passos para criar mais etiquetas. No entanto, se quiser criar um sublabela, primeiro selecione a etiqueta principal, selecione as retas (mais ações) e, em seguida, selecione Adicionar **sub etiqueta**.
+4. Depois de criar todas as etiquetas de que precisa, reveja a encomenda e, se necessário, mova-as para cima ou para baixo. Para alterar a ordem de uma etiqueta, selecione os três pontos (mais ações) e, em seguida, selecione Mover para **cima** **ou Mover para baixo**. 

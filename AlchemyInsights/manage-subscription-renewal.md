@@ -1,10 +1,11 @@
 ---
 title: Gerir a renovação da subscrição
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,25 +13,21 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 1f54b65f9e20bed4f69bdd08dbbbc3b03a1a22e5
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
-ms.translationtype: HT
+ms.openlocfilehash: cefdc227b9a9c7151dc2ec9d5075db2f29134840
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195246"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545531"
 ---
 # <a name="manage-subscription-renewal"></a>Gerir a renovação da subscrição
 
 Para gerir a faturação mensal ou anual, pode ativar ou desativar a **Faturação periódica**.
 
-1. No centro de administração, aceda à página **Faturação > [Produtos e Serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. No centro de administração, vá para a página **Faturação**  >  **[dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos.
+2. No **separador Produtos,** localcione a subscrição que pretende gerir, selecione as retas (mais ações) e, em seguida, selecione **Editar faturação periódita**.
+3. No painel **Editar faturação periódita,** selecione **Ativos**, Ativos, **renovar uma vez ou Desativo**. 
+4. Selecione **Guardar**.
 
-2. Escolha a subscrição para a qual pretende gerir a faturação periódica.
+Para mais informações, consulte [Ativar ou desativar a faturação periódica](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-3. Em **Faturação**, junto a **Renovação a** ou **Expira em**, clique em **editar**.
-
-4. No painel de **Definições de faturação periódica**, clique em **DESATIVAR** para desativá-la. Se a faturação periódica estiver desativada, clique em **Mensalmente** ou **Uma vez** para ativá-la.
-
-5. Clique em **Submeter Alteração**.
-
-Para mais informações, consulte [Ativar ou desativar a faturação periódica](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

@@ -1,10 +1,11 @@
 ---
 title: Subscrição expirada
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 1d907be89da6339d35941672ef6a5b9bf5df44b7
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
-ms.translationtype: HT
+ms.openlocfilehash: d26c4e6738ed1d34a642436b09c67853a88586a8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158628"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544301"
 ---
 # <a name="subscription-expired"></a>Subscrição expirada
 
@@ -25,28 +26,23 @@ Se a sua subscrição expirar, se a mesma tiver sido desativada pela Microsoft o
 
 **Reativar uma subscrição**
 
-1. No centro de administração, aceda à página **Faturação > [ Produtos e Serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. No centro de administração, vá para a página **Faturação**  >  [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.
+2. No **separador** Produtos, localcione a subscrição que pretende reativar, selecione as retas (mais ações) e, em seguida, selecione **Reativar esta subscrição**.
+    > [!NOTE]
+    > Se não vir a ação **Reativar esta subscrição,** contacte o suporte.
+3. No painel **Reativar esta subscrição,** selecione um método de pagamento na lista única ou selecione **Adicionar método de pagamento**.
+4. Selecione **Guardar**.
 
-2. Na página Produtos e Serviços, localize a subscrição que pretende reativar.
-
-3. Na secção Faturação, clique em **Reativar agora**.  Se estiver na vista Cartões, clique nas reticências entre Nome e Quantidade disponível e clique em Reativar no menu. **Nota**: se não vir a subscrição que procura, poderá ter de ajustar o filtro Estado e subscrição perto da parte superior da página para **Todos**.
-
-4. Confirme os seus dados de pagamento para atualizar as informações de pagamento existentes. Quando terminar de introduzir o seu método de pagamento, clique em **Reativar**.
-
-Para mais informações, consulte [Reativar a sua subscrição](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Para mais informações, consulte [Reativar a sua subscrição](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Gerir a renovação da subscrição**
 
 Para gerir a faturação mensal ou anual pode ativar ou desativar a faturação periódica.
 
-1. No centro de administração, aceda à página **Faturação > [ Produtos e Serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. No centro de administração, vá para a página **Faturação**  >  [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.
+2. No **separador** Produtos, selecione a subscrição que pretende gerir.
+3. Na página de detalhes da subscrição, em Definições **de subscrição** e pagamento, selecione **Editar faturação periódita**.
+4. No painel **Editar definições de faturação** periódita, selecione Ativos, Ativos, mas renove **uma** vez ou **Deslige**.
+5. Selecione **Guardar**.
 
-2. Escolha a subscrição para a qual pretende gerir a faturação periódica. 
-
-3. Em Faturação, junto a Renovação a ou Expira em, clique em **editar**
-
-4. No painel de definições de faturação periódica, selecione **DESATIVAR** para desativá-la. Se a faturação periódica estiver desativada, clique em **Mensalmente** ou **Uma vez** para ativá-la. 
-
-5. Clique em **Submeter Alteração**.
-
-Para mais informações, consulte [Ativar ou desativar a faturação periódica](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Para mais informações, consulte [Ativar ou desativar a faturação periódica](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

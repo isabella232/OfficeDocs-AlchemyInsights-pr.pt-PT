@@ -1,5 +1,5 @@
 ---
-title: Complemento de equipas para Mac
+title: Teams para Mac
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6173"
+- "6166"
 - "9003233"
-ms.openlocfilehash: 1e5f6d66386398ad8600f9383f9f7a1dcf0ce69f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9002573"
+ms.openlocfilehash: 45df4381688335f10f6699d8b5ff1aaafd6f7257
+ms.sourcegitcommit: 730efbac8eec016b2b4f83f1b0e01e077f28c444
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670339"
+ms.lasthandoff: 05/20/2021
+ms.locfileid: "52582081"
 ---
-# <a name="teams-add-in-for-mac"></a>Complemento de equipas para Mac
+# <a name="teams-add-in-for-mac"></a>Teams para Mac
 
-Para resolver um suplemento de equipas em falta para os utilizadores do sistema operativo Mac, siga estes passos:
+Para somar problemas com um Teams de sistema operativo Mac para utilizadores do sistema operativo Mac, siga estes passos:
 
-**Passo 1:** Se tiver As Instalações de Intercâmbio Híbrido (2016 CU3 ou posteriormente necessária), utilize a ferramenta Test-HMA.ps1 para confirmar que a Autenticação Moderna Híbrida está corretamente configurada. Para obter mais informações, consulte [a configuração de autenticação moderna híbrida para Outlook para iOS e Android.](https://aka.ms/AA980zq)  
+**Passo 1:** Se tiver o Exchange Híbrido no Local (2016 CU3 ou posterior), utilize a ferramenta Test-HMA.ps1 para confirmar que a Autenticação Moderna Híbrida está configurada corretamente. Para mais informações, consulte Validar a [configuração da Autenticação Moderna Híbrida Outlook para iOS e Android.](https://aka.ms/TestHMAEAS)  
 
-**Nota** Utilize o formato de endereço UPN (por exemplo, [username@contoso.com),](mailto:username@contoso.com)não domínio\username. Faça isto mesmo para utilizadores com caixas de correio Exchange Online.
+**Nota** Utilize o formato de endereço UPN (por exemplo, [username@contoso.com )](mailto:username@contoso.com)e não domínio \nome de utilizador. Faça-o mesmo para utilizadores com caixas Exchange Online correio.
 
-**Passo 2:** Que o utilizador **Tools**vá às  >  **Contas Ferramentas...** no Outlook for Mac, e encontrar e selecionar a conta. Confirme que o nome de utilizador listado está no formato UPN (por exemplo, [username@contoso.com).](mailto:username@contoso.com)
+**Passo 2:** O utilizador pode ir para **Ferramentas**  >  **Contas...** no Outlook para Mac, localcione e selecione a conta. Confirme que o nome de utilizador listado está no formato UPN (por exemplo, [username@contoso.com](mailto:username@contoso.com)).
 
-**Passo 3:** Confirme que o utilizador é um utilizador licenciado da Microsoft Teams. O utilizador deve estar a utilizar o Office 365 para a subscrição do Mac, versão do produto 16.24 ou posterior.
+**Passo 3:** Confirme que o utilizador é um utilizador Microsoft Teams licença. O utilizador tem de utilizar a subscrição Office 365 para Mac, versão de produto 16.24 ou posterior.

@@ -1,5 +1,5 @@
 ---
-title: 2681 Simulador de ataque na Microsoft 365
+title: Simulador de Ataque 2681 no Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,31 +12,31 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: e7d71fdb77b4a047c1998e9aba75cdd469a936a8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801562"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545737"
 ---
-# <a name="attack-simulator-in-microsoft-365"></a>Simulador de ataque na Microsoft 365
+# <a name="attack-simulator-in-microsoft-365"></a>Simulador de Ataque no Microsoft 365
 
-- Estás a perder o Simulador de Ataque? O Simulador de Ataque requer **o Microsoft Defender para o Office 365 Plan 2 (ATP Plan 2)** ou o Office **365 Enterprise E5** . O Simulador de Ataque **não** está incluído no Microsoft Defender para o Office 365 Plan 1 (ATP Plan 1), no Office 365 Enterprise E3 ou em quaisquer aplicações da Microsoft 365 para subscrições empresariais.
+- Não tem o Simulador de Ataque? O Simulador de **Ataque necessita do Microsoft Defender Office 365 Plano 2** ou Office 365 Enterprise **E5.** O Simulador de **Ataque não** está incluído no Microsoft Defender para Office 365 Plano 1, Office 365 Enterprise E3 ou Microsoft 365 Apps para Pequenas e Médias Empresas subscrições.
 
-- A conta que utiliza para lançar ataques simulados requer permissões globais de administrador ou administrador de segurança e autenticação de vários fatores (MFA). Para obter mais informações sobre os requisitos do Simulador de Ataque, consulte [este tópico.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
+- A conta que utiliza para iniciar ataques simulados requer permissões de administrador global ou administrador de segurança e a autenticação multifator (MFA). Para obter mais informações sobre os requisitos do Simulador de Ataque, [consulte este tópico.](/microsoft-365/security/office-365-security/attack-simulator)
 
-- Coisas importantes a saber sobre simulações de ataque de password da **Força Bruta:**
+- As coisas importantes a saber sobre **simulações de ataque de Forçar Palavra-passe Brute:**
 
-  - Se a conta-alvo tiver MFA ativada e a palavra-passe foi adivinhada corretamente, a conta não será apresentada como comprometida (o segundo fator de autenticação estará incompleto).
+  - Se a conta de destino tiver a autenticação mfa ativada e a palavra-passe tiver sido corretamente adivinhar, a conta não será mostrada como comprometida (o segundo fator de autenticação estará incompleto).
 
-  - O ficheiro de senha não pode ser maior que 10 MB. Use uma palavra-passe por linha e inclua uma linha em branco (retorno do transporte) após a última palavra-passe da lista.
+  - O ficheiro de palavra-passe não pode ter mais de 10 MB. Utilize uma palavra-passe por linha e inclua uma linha em branco (sinal de retorno) após a última palavra-passe na lista.
 
-- Coisas importantes a saber sobre simulações de **phishing de lança:**
+- Informações importantes sobre as **simulações de anexação de Phishing spear:**
 
-  - Por design, não é possível fornecer um valor personalizado para **o URL do servidor de login do Phishing.**
+  - Por predeleção, não pode fornecer um valor personalizado para o URL do servidor de início de sessão de **Phishing.**
 
-  - Se um destinatário utilizar [o add-in 'Ativar a mensagem's](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) reporte a mensagem como phishing, poderá não receber alertas para a mensagem (porque se trata de um ataque simulado).
+  - Se um destinatário [](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) utilizar o adicionar Ativar a Mensagem do Relatório para denunciar a mensagem como phishing, poderá não receber alertas da mensagem (porque se trata de um ataque simulado).
 
-- Relatórios: Após o ataque simulado estar completo, pode clicar em **Detalhes de Ataque** para ver o relatório.
+- Relatórios: quando o ataque simulado estiver concluído, pode clicar em Detalhes **do Ataque** para ver o relatório.
 
-- Para obter instruções detalhadas e novas funcionalidades no Simulador de Ataque, consulte [o Simulador de Ataque na Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Para obter instruções detalhadas e novas funcionalidades no Simulador de Ataque, consulte [Simulador](/microsoft-365/security/office-365-security/attack-simulator)de Ataque Microsoft 365 .

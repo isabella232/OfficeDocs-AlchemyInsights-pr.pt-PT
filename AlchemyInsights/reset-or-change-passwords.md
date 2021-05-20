@@ -1,5 +1,5 @@
 ---
-title: Redefinir ou alterar palavras-passe
+title: Repor ou alterar palavras-passe
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8714ec8bb90f4c785b20be053b35ca213dd8c61b
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810207"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569662"
 ---
-# <a name="reset-or-change-passwords"></a>Redefinir ou alterar palavras-passe
+# <a name="reset-or-change-passwords"></a>Repor ou alterar palavras-passe
 
-Um utilizador pode alterar a sua própria palavra-passe a partir da **minha conta** Segurança  >  [& privacidade](https://portal.office.com/account/#security).
+Um utilizador pode alterar a sua própria palavra-passe ao selecionar a fotografia ou as iniciais > **Ver conta.**
   
-Se o utilizador tiver esquecido a sua palavra-passe, um administrador pode redefinir a palavra-passe indo para **os utilizadores** ativos dos Utilizadores  >  [](https://portal.office.com/adminportal/home#/users), selecione o utilizador(s) e clique em Redefinir **a palavra-passe**.
+Se o utilizador se tiver esquecido da palavra-passe, um administrador pode repor a palavra-passe ao aceder a Utilizadores Ativos , selecionar os utilizadores e clicar em  >  [](https://portal.office.com/adminportal/home#/users) **Repor palavra-passe**.
   
-[Clique aqui para saber mais,](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)ou para permitir que os utilizadores reiniciem as suas próprias palavras-passe esquecidas.
+Para saber mais sobre palavras-passe e permitir que os utilizadores reporem as suas próprias palavras-passe, consulte [Repor palavras-passe.](/microsoft-365/admin/add-users/reset-passwords)

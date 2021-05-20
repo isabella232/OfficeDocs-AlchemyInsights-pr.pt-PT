@@ -1,5 +1,5 @@
 ---
-title: Microsoft Threat Experts - Notificação de ataque direcionada
+title: Grupo de Peritos em Ameaças da Microsoft - Notificação de Ataque Directado
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 2f93020fc3b350e1d85064e9c57de80a65814687
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 4cb5194e692ad64fc85d35170659c55b546fc431
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714850"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545387"
 ---
-# <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft Threat Experts - Notificação de ataque direcionada
+# <a name="microsoft-threat-experts---targeted-attack-notification"></a>Grupo de Peritos em Ameaças da Microsoft - Notificação de Ataque Directado
 
-A Notificação de Ataque Direcionada é uma das duas capacidades de peritos em ameaças da Microsoft. É um serviço proactivo de caça a ameaças que fornece insights e análises especiais que ajudam a garantir que as ameaças mais críticas são identificadas e respondidas de forma rápida e precisa.
+A Notificação de Ataque Diretado é uma das duas Grupo de Peritos em Ameaças da Microsoft de ataque. É um serviço proativo de procura de ameaças que fornece informações e análises especiais que ajudam a garantir que as ameaças mais críticas são identificadas e respondidos de forma rápida e precisa.
 
-Se é um Microsoft Defender para cliente Endpoint, tem de se candidatar a Microsoft Threat Experts - Notificações de ataque direcionadas para obter informações e análises especiais que ajudem a identificar as ameaças mais críticas para que possa responder rapidamente a elas.
+Se for um cliente do Microsoft Defender para Pontos Finais, tem de se candidatar ao Grupo de Peritos em Ameaças da Microsoft - Notificações de Ataque Diretado para obter informações e análises especiais que o ajudem a identificar as ameaças mais críticas para que possa responder às mesmas rapidamente.
 
-Para se inscrever em Microsoft Threat Experts - Benefícios de notificações de ataque direcionados, vá a **Definições**  >    >  **General Advanced features** Microsoft Threat  >  **Experts - Targeted Attack Notifications** to apply. Uma vez aceite, obterá os benefícios das notificações de ataque direcionados.
+Para se inscrever para o Grupo de Peritos em Ameaças da Microsoft - benefícios das Notificações de Ataque De Destino, vá para **Definições** Funcionalidades Avançadas  >    >    >  **Gerais Grupo de Peritos em Ameaças da Microsoft - Notificações** de Ataque Diretado a aplicar. Assim que aceitar, obterá as vantagens das Notificações de Ataque Diretado.
 
-Pode receber a notificação de ataque direcionada dos Especialistas em Ameaças da Microsoft através do seguinte meio:
+Pode receber uma notificação de ataque de destino Grupo de Peritos em Ameaças da Microsoft através dos seguintes meios:
 
-- A página de Incidentes do Portal Defensor para o Endpoint
-- O painel de alertas do portal Defender para o Endpoint
-- OData alertando API e REST API
-- DeviceAlertEvents em caça avançada
+- A página Incidentes do portal do Defender para Ponto Final
+- O dashboard de Alertas do Defender para o portal Endpoint
+- Alertar a API de OData e a API REST
+- Tabela DeviceAlertEvents em Procura avançada
 - O seu e-mail, se optar por configurá-lo
 
-Para receber notificações de ataque direcionadas através de e-mail, crie uma regra de notificação de e-mail. 
+Para receber notificações de ataque diretido por e-mail, crie uma regra de notificação por e-mail. 
 
-Consulte [configurar e gerir as capacidades dos Microsoft Threat Experts](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) para obter mais detalhes.
+Consulte [Configurar e gerir Grupo de Peritos em Ameaças da Microsoft funcionalidades de suporte para](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) obter detalhes.

@@ -1,5 +1,5 @@
 ---
-title: Como comprar licenças para as suas Apps Microsoft 365 para subscrição de negócios
+title: Como comprar licenças para a sua subscrição Microsoft 365 Apps para Pequenas e Médias Empresas Subscrição
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: cefa266e26a5ddeb60ca0496742e9051d6f14830
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 7b60f51f394c28d90b42a7d86ad08d1aeefd8a78
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232342"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545351"
 ---
-# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Como comprar licenças para as suas Apps Microsoft 365 para subscrição de negócios
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Como comprar licenças para a sua subscrição Microsoft 365 Apps para Pequenas e Médias Empresas Subscrição
 
-Ao atribuir licenças aos seus utilizadores, poderá descobrir que precisa de comprar licenças adicionais.
+Ao atribuir licenças aos seus utilizadores, poderá ter de comprar licenças adicionais.
 
-**Veja um vídeo** que mostra como fazer isto: [Compre novas licenças](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+**VEJA um vídeo** que mostra como fazê-lo: [Comprar novas licenças](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-1. No centro de administração, vá à página **de Faturação**  >  [dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. No separador **Produtos,** encontre a subscrição que pretende atualizar. Selecione **Mais ações** (três pontos) e, em seguida, selecione **Licenças de Compra**.
-3. No painel **de licenças Buy,** sob **Nova quantidade** na caixa **de licenças Total, insira** o número total de licenças que deseja para esta subscrição. Por exemplo, se tiver 100 licenças e quiser adicionar mais 25, insira 125.
+1. No centro de administração, vá para a página **Faturação**  >  [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.
+2. No **separador** Produtos, localize a subscrição que pretende atualizar. Selecione os três pontos (mais ações) e, em seguida, **selecione Comprar licenças**.
+3. No painel **Comprar licenças,** em Nova quantidade na caixa Total de  **licenças,** introduza o número total de licenças que pretende para esta subscrição. Por exemplo, se tiver 100 licenças e quiser adicionar mais 25, introduza 125.
 4. Selecione **Guardar**.
 
-Para saber mais, consulte [Comprar ou remover licenças.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+Para saber mais, consulte [Comprar ou remover licenças.](/microsoft-365/commerce/licenses/buy-licenses)

@@ -1,5 +1,5 @@
 ---
-title: O inventário de software está em falta ou impreciso
+title: O inventário de software está em falta ou incorreto
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665297"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543975"
 ---
-# <a name="software-inventory-is-missing-or-inaccurate"></a>O inventário de software está em falta ou impreciso
+# <a name="software-inventory-is-missing-or-inaccurate"></a>O inventário de software está em falta ou incorreto
 
-O inventário de software no serviço ATP do Microsoft Defender fornece o nome do produto ou fornecedor, o seu número de versão mais recente, e detetou fraquezas e vulnerabilidades. Para obter mais informações, consulte [o inventário de Software - gestão de ameaças e vulnerabilidades.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)
+O inventário de software no Microsoft Defender ATP fornece o nome do produto ou fornecedor, o seu número de versão mais recente e detetou falhas e vulnerabilidades. Para mais informações, consulte [Inventário de software - Gestão de Vulnerabilidades e Ameaças](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
-Pode reportar informações vagas ou incompletas, números de versão imprecisos ou informações de inventário de software remediadas seguindo estes passos.  
+Pode denunciar informações vagos ou incompletos, números de versão incorretos ou informações de inventário de software remediadas ao seguir estes passos.  
 
-1. Abra o flyout do software e selecione a aplicação na página de inventário de Software.
-2. Selecione **Inexatidão**do Relatório , e a partir do painel flyout, selecione uma categoria do menu suspenso.
-3. Preencha o seu endereço de e-mail e os detalhes da imprecisão.
-4. Selecione **Enviar por isso.**</br>
-    O seu feedback é imediatamente enviado para especialistas em Gestão de Vulnerabilidades & Ameaça.
+1. Abra a lista de escolha do software e selecione a aplicação na página Inventário de software.
+2. **Selecione Relatório incorreto** e, a partir do painel de lista de opções, selecione uma categoria no menu de lista.
+3. Preencha o seu endereço de e-mail e os detalhes da incorreta.
+4. **Selecione Submeter**.</br>
+    O seu feedback é imediatamente enviado para peritos em Gestão & de Vulnerabilidade.

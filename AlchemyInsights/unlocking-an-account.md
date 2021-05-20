@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 532b273154a31c024825b150d9b0edd42eb6130c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cf2431cb49902b3f7625ab96bc6d4e2121e51fdd
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827767"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544155"
 ---
 # <a name="unlocking-an-account"></a>Desbloquear uma conta
 
@@ -25,7 +25,7 @@ ms.locfileid: "51827767"
 
 **E-mail Restrito**
 
-Enquanto administrador, se um dos seus utilizadores estiver impedido de enviar e-mails, pode [desbloquear a conta](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). O utilizador poderá enviar e-mails no prazo de uma hora após remover a restrição.
+Enquanto administrador, se um dos seus utilizadores estiver impedido de enviar e-mails, pode [desbloquear a conta](/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). O utilizador poderá enviar e-mails no prazo de uma hora após remover a restrição.
 
 **Repor a Palavra-passe do Utilizador**
 
@@ -37,8 +37,8 @@ Enquanto administrador, se um dos seus utilizadores estiver impedido de enviar e
 
 1. No centro de administração, aceda a **Utilizadores > [Utilizadores Ativos](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.
 
-2. Selecione o utilizador e clique em **Mais Ações (...)**. Em seguida, clique em **Editar o estado de início de sessão**.
+2. Selecione o utilizador e clique nas retas (mais ações) e, em seguida, clique em **Editar estado de acesso.**
 
-Para mais cenários de reposição de palavra-passe, incluindo a Reposição Personalizada de Palavra-passe, consulte [Repor as palavras-passe do Microsoft 365 para Empresas em relação a múltiplas tentativas para carregar instrumentos de pagamento online ](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
+Para mais cenários de reposição de palavra-passe, incluindo a Reposição Personalizada de Palavra-passe, consulte [Repor as palavras-passe do Microsoft 365 para Empresas em relação a múltiplas tentativas para carregar instrumentos de pagamento online ](/microsoft-365/admin/add-users/reset-passwords).
 
-O serviço impede que um utilizador envie e-mails após terem sido detetadas provas de que uma conta foi comprometida e/ou que foi enviado e-mail de spam. Como precaução, siga os passos em [Responder a uma Conta de E-mail Comprometida no Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) para o utilizador.
+O serviço impede que um utilizador envie e-mails após terem sido detetadas provas de que uma conta foi comprometida e/ou que foi enviado e-mail de spam. Como precaução, siga os passos em [Responder a uma Conta de E-mail Comprometida no Microsoft 365](/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) para o utilizador.

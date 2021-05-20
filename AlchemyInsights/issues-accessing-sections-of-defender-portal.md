@@ -1,5 +1,5 @@
 ---
-title: Problemas de acesso às secções do portal ATP do Microsoft Defender
+title: Problemas ao aceder a secções do Microsoft Defender para o Office 365 portal
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6031"
 - "9001222"
-ms.openlocfilehash: 3b6fe048713500aec1558d611b67c715b6b21317
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: cf460b45bfc6caf0b627265e9926c2794cd27179
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713862"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545243"
 ---
-# <a name="issues-accessing-sections-of-microsoft-defender-atp-portal"></a>Problemas de acesso às secções do portal ATP do Microsoft Defender
+# <a name="issues-accessing-sections-of-microsoft-defender-for-office-365-portal"></a>Problemas ao aceder a secções do Microsoft Defender para o Office 365 portal
 
-Se o painel de instrumentos do portal e outras secções mostrarem uma mensagem de erro como "Os dados atualmente não estão disponíveis", é provável que certos domínios de URL e todos os sub-domínios sejam permitidos na sua organização e abertos para comunicação. 
+Se o dashboard do portal e outras secções apresentarem uma mensagem de erro como "Atualmente, os dados não estão disponíveis", é provável que determinados domínios de URL e todos os subdomâneos sejam permitidos na sua organização e abertos para comunicação. 
 
-Para obter mais informações, consulte [os problemas de subscrição de resolução de problemas e acesso ao portal.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal)
+Para obter mais informações, consulte [Remoção de problemas de acesso](/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal)ao portal e subscrição.

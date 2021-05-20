@@ -1,5 +1,5 @@
 ---
-title: Suspender ou interromper uma subscrição
+title: Suspender ou suspender uma subscrição
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,20 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-- commerce
-ms.openlocfilehash: 1eec8f54e7fcc779dfcae73bda39efbabf533c43
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 1a4c9016335bc045569ac6a17627b8cce4e78dc5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469097"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544517"
 ---
-# <a name="suspend-or-pause-a-subscription"></a>Suspender ou interromper uma subscrição
+# <a name="suspend-or-pause-a-subscription"></a>Suspender ou suspender uma subscrição
 
-Para suspender ou interromper a subscrição temporariamente, pode cancelar a subscrição no centro de administração Microsoft 365.
+Para suspender ou interromper temporariamente a sua subscrição, pode cancelar a subscrição no Microsoft 365 de administração.
 
-1. No centro de administração, vá à página **de Faturação**  >  **[dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
-2. No separador **Produtos,** encontre a subscrição que pretende cancelar. Selecione **Mais ações** (três pontos) e, em seguida, selecione **Cancelar a subscrição**.
-3. O estado de subscrição apresenta-se como **Desativado** e mostra a data em que a subscrição foi cancelada. A subscrição permanece em estado de desativação durante 90 dias, e tem uma funcionalidade reduzida até ser eliminada ou [reativada](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+1. No centro de administração, vá para a página **Faturação**  >  **[dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos.
+2. No **separador** Produtos, localmente a subscrição que pretende cancelar. Selecione os três pontos (mais ações) e, em **seguida, selecione Cancelar subscrição**.
+3. O estado da subscrição é apresentado como **Desativado** e mostra a data em que a subscrição foi cancelada. A subscrição permanece num estado desativado durante 90 dias e tem funcionalidades reduzidas até ser eliminada ou [reativada.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
-Para mais informações, consulte [o que acontece quando cancela uma subscrição](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) e [guarde os seus dados.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)
+Para mais informações, consulte O [que acontece quando cancela uma subscrição e](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) Guardar os seus [dados.](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)

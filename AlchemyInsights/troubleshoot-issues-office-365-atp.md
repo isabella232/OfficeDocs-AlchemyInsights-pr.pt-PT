@@ -1,5 +1,5 @@
 ---
-title: Problemas de resolução de problemas com o Microsoft Defender para o Office 365 (ATP)
+title: Remoção de problemas com o Microsoft Defender para Office 365
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,21 +11,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: cf54d5b3b854587202ff1b575889b9602228dd06
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: d6170ac52b9af4d2bc6f8822ff2a9b8c1b161ed9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801418"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544769"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Problemas de resolução de problemas com o Office 365 ATP
+# <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Remoção de problemas com o Microsoft Defender para Office 365
 
-- **Aviso de atrasos com a entrega de mensagens de correio eletrónico?** Tente utilizar a opção Entrega Dinâmica para as suas políticas de Anexos Seguros ATP. Isto evitará atrasos na entrega de mensagens de correio eletrónico enquanto protege os destinatários de ficheiros maliciosos.
-- **Quer denunciar falsos positivos ou falsos negativos?** Utilize este link para submeter o seu ficheiro para análise: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Sabia que pode ativar a proteção ATP Safe Links para e-mail enviado entre pessoas da sua organização?** Siga estes passos:
-    1. Vá https://protection.office.com para.
-    2. Ir para **a Política de Gestão de** Ameaças  >  **Policy**  >  **Ligações Seguras** .
-    3. No âmbito **de Políticas aplicáveis a destinatários específicos,** edite (ou adicione) uma política.
-    4. **Selecione Aplicar links seguros às mensagens enviadas dentro da organização.**
-    5. Guarde a sua política e permita que cerca de 30 minutos para as suas alterações funcionem através do seu datacenter.
-- Para obter mais ajuda com o ATP, consulte [o Microsoft Defender para o Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
+- **Notificação de atrasos com a entrega de mensagens de e-mail?** Experimente utilizar a opção entrega dinâmica para o seu Microsoft Defender para Office 365 Cofre políticas de Anexos. Isto evitará atrasos na entrega de mensagens de e-mail ao mesmo tempo que protege os destinatários de ficheiros maliciosos.
+- **Pretende comunicar falsos positivos ou falsos negativos?** Utilize [o Explorador de Submissões.](https://protection.office.com/reportsubmission)
+- Sabia que pode ativar o Microsoft Defender para Microsoft Defender para a proteção Office 365 Cofre Ligações para **e-mails enviados entre pessoas na sua organização?** Siga estes passos:
+    1. Vá para https://protection.office.com e inscreva-se.
+    2. Vá para **Ligações de Políticas de**  >    >  **gestão Cofre Ameaças.**
+    3. Em **Políticas que se aplicam a destinatários específicos,** edite (ou adicione) uma política.
+    4. **Selecione Aplicar ligações seguras a mensagens enviadas para a organização**.
+    5. Guarde a sua política e admais 30 minutos para que as alterações se apliquem.
+
+- Para obter mais ajuda com o Microsoft Defender para Office 365, consulte [Microsoft Defender para Office 365](/microsoft-365/security/office-365-security/office-365-atp).

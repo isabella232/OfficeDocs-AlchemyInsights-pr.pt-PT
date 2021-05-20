@@ -1,5 +1,5 @@
 ---
-title: Como posso mudar dos pagamentos com cartão de crédito para fatura?
+title: Como posso mudar de pagamentos com cartão de crédito para fatura?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "433"
 - "1500001"
-ms.openlocfilehash: 4358c7ea329b86b49fae7c412d8387a2da7ffe88
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: c34dc93f7ad091c08f23f11cdf0dddea6afb9a04
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602375"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544481"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Como posso mudar dos pagamentos com cartão de crédito para fatura?
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Como posso mudar de pagamentos com cartão de crédito para fatura?
 
 > [!NOTE]
-> Só pode alterar para pagar por fatura se a sua subscrição custar acima de um determinado valor. Primeiro tem de pagar qualquer saldo pendente no cartão de crédito ou no cartão de débito ou na conta bancária antes de poder alterar para pagar por fatura.
+> Só pode alterar o pagamento através de fatura se a sua subscrição custar mais do que um determinado valor. Primeiro, tem de pagar o montante em dívida no cartão de crédito ou débito ou conta bancária antes de poder mudar para pagar através de fatura.
 
-1. No centro de administração, vá à página **de Faturação**  >  [dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. No separador **Produtos,** encontre a subscrição que pretende pagar com o método de pagamento alternativo.
-3. Selecione **Mais ações** (três pontos) e, em seguida, selecione **Substitua o método de pagamento**.
-4. No painel de **método de pagamento Substitua,** selecione **Adicionar método de pagamento**.
-5. No painel de método de pagamento Adicionar um painel de método de **pagamento,** selecione **Fatura ou transferência bancária**.
-6. Insira o seu nome, endereço e número de telefone. Também pode adicionar um número de PO para visualizar na fatura.
-7. Quando terminar, **selecione Save**.
+1. No centro de administração, vá para a página **Faturação**  >  [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.
+2. No **separador** Produtos, locale a subscrição que pretende pagar com o método de pagamento alternativo.
+3. Selecione os três pontos (mais ações) e, em seguida, **selecione Substituir método de pagamento**.
+4. No painel **Substituir método de pagamento,** selecione **Adicionar método de pagamento**.
+5. No painel Adicionar **um método de pagamento,** selecione **Fatura ou transferência bancária**.
+6. Introduza o seu nome, endereço e número de telefone. Também pode adicionar um número de PO para apresentar na fatura.
+7. Quando terminar, selecione **Guardar**.
 
-Para saber mais, veja [Como pagar a sua subscrição.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Para saber mais, [consulte Como pagar a sua subscrição.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

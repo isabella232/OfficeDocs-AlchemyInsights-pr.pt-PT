@@ -1,5 +1,5 @@
 ---
-title: Gerir licenças de aplicativos
+title: Gerir licenças de aplicações
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 1ab15eed7f368663843846ea970f44a0f88d3cb5
-ms.sourcegitcommit: 705c8a0c5fe31248bfa9da048cdee2c6296c6281
+ms.openlocfilehash: 8414b288dca9edae321fa0f6f7fcc5b5a394f8bb
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50237579"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545658"
 ---
-# <a name="manage-app-licenses"></a><span data-ttu-id="6da67-102">Gerir licenças de aplicativos</span><span class="sxs-lookup"><span data-stu-id="6da67-102">Manage app licenses</span></span>
+# <a name="manage-app-licenses"></a><span data-ttu-id="5d1a6-102">Gerir licenças de aplicações</span><span class="sxs-lookup"><span data-stu-id="5d1a6-102">Manage app licenses</span></span>
 
-## <a name="to-change-license-quantity"></a><span data-ttu-id="6da67-103">Para alterar a quantidade de licença</span><span class="sxs-lookup"><span data-stu-id="6da67-103">To change license quantity</span></span>
+## <a name="to-change-license-quantity"></a><span data-ttu-id="5d1a6-103">Para alterar a quantidade de licenças</span><span class="sxs-lookup"><span data-stu-id="5d1a6-103">To change license quantity</span></span>
 
-<span data-ttu-id="6da67-104">**Veja um vídeo** que mostra como fazê-lo: [Compre novas licenças](https://go.microsoft.com/fwlink/p/?linkid=2154857) ou [remova as licenças existentes](https://go.microsoft.com/fwlink/p/?linkid=2154938)</span><span class="sxs-lookup"><span data-stu-id="6da67-104">**WATCH a video** that shows how to do this: [Buy new licenses](https://go.microsoft.com/fwlink/p/?linkid=2154857) or [Remove existing licenses](https://go.microsoft.com/fwlink/p/?linkid=2154938)</span></span>
+<span data-ttu-id="5d1a6-104">**VEJA um vídeo** que mostra como fazê-lo: [Comprar novas licenças](https://go.microsoft.com/fwlink/p/?linkid=2154857) ou [Remover licenças existentes](https://go.microsoft.com/fwlink/p/?linkid=2154938)</span><span class="sxs-lookup"><span data-stu-id="5d1a6-104">**WATCH a video** that shows how to do this: [Buy new licenses](https://go.microsoft.com/fwlink/p/?linkid=2154857) or [Remove existing licenses](https://go.microsoft.com/fwlink/p/?linkid=2154938)</span></span>
 
-1. <span data-ttu-id="6da67-105">Vá à página **de**  >  **[Faturação dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="6da67-105">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
-2. <span data-ttu-id="6da67-106">No separador **Produtos,** na secção **Apps,** encontre a app que pretende gerir.</span><span class="sxs-lookup"><span data-stu-id="6da67-106">On the **Products** tab, in the **Apps** section, find the app that you want to manage.</span></span> <span data-ttu-id="6da67-107">Selecione **Mais ações** (três pontos) e, em seguida, selecione **Licenças de Compra**.</span><span class="sxs-lookup"><span data-stu-id="6da67-107">Select **More actions** (three dots), then select **Buy licenses**.</span></span>
-3. <span data-ttu-id="6da67-108">Se pretender reduzir o número de licenças, no topo do painel de **licenças de compra,** selecione **remover licenças**.</span><span class="sxs-lookup"><span data-stu-id="6da67-108">If you want to reduce the number of licenses, at the top of the **Buy licenses** pane, select **remove licenses**.</span></span>
-4. <span data-ttu-id="6da67-109">Para comprar ou remover licenças, sob **Nova quantidade** na caixa **de licenças Total, insira** o número total de licenças que deseja para esta subscrição.</span><span class="sxs-lookup"><span data-stu-id="6da67-109">To buy or remove licenses, under **New quantity** in the **Total licenses** box, enter the total number of licenses that you want for this subscription.</span></span> <span data-ttu-id="6da67-110">Por exemplo, se tiver 100 licenças e quiser adicionar mais cinco, introduza 105.</span><span class="sxs-lookup"><span data-stu-id="6da67-110">For example, if you have 100 licenses and you want to add five more, enter 105.</span></span> <span data-ttu-id="6da67-111">Se quiser remover cinco, introduza 95.</span><span class="sxs-lookup"><span data-stu-id="6da67-111">If you want to remove five of them, enter 95.</span></span>
-5. <span data-ttu-id="6da67-112">Selecione **Guardar**.</span><span class="sxs-lookup"><span data-stu-id="6da67-112">Select **Save**.</span></span>
+1. <span data-ttu-id="5d1a6-105">Vá para a página **Faturação**  >  **[dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos.</span><span class="sxs-lookup"><span data-stu-id="5d1a6-105">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+2. <span data-ttu-id="5d1a6-106">No **separador** Produtos, na **secção Aplicações,** localmente a aplicação que pretende gerir.</span><span class="sxs-lookup"><span data-stu-id="5d1a6-106">On the **Products** tab, in the **Apps** section, find the app that you want to manage.</span></span> <span data-ttu-id="5d1a6-107">Selecione os três pontos (mais ações) e, em seguida, **selecione Comprar licenças**.</span><span class="sxs-lookup"><span data-stu-id="5d1a6-107">Select the three dots (more actions), then select **Buy licenses**.</span></span>
+3. <span data-ttu-id="5d1a6-108">Se quiser reduzir o número de licenças, na parte superior do painel Comprar **licenças,** selecione **remover licenças.**</span><span class="sxs-lookup"><span data-stu-id="5d1a6-108">If you want to reduce the number of licenses, at the top of the **Buy licenses** pane, select **remove licenses**.</span></span>
+4. <span data-ttu-id="5d1a6-109">Para comprar ou remover  licenças, em Nova quantidade na caixa Total de **licenças,** introduza o número total de licenças que pretende para esta subscrição.</span><span class="sxs-lookup"><span data-stu-id="5d1a6-109">To buy or remove licenses, under **New quantity** in the **Total licenses** box, enter the total number of licenses that you want for this subscription.</span></span> <span data-ttu-id="5d1a6-110">Por exemplo, se tiver 100 licenças e quiser adicionar mais cinco, introduza 105.</span><span class="sxs-lookup"><span data-stu-id="5d1a6-110">For example, if you have 100 licenses and you want to add five more, enter 105.</span></span> <span data-ttu-id="5d1a6-111">Se quiser remover cinco, introduza 95.</span><span class="sxs-lookup"><span data-stu-id="5d1a6-111">If you want to remove five of them, enter 95.</span></span>
+5. <span data-ttu-id="5d1a6-112">Selecione **Guardar**.</span><span class="sxs-lookup"><span data-stu-id="5d1a6-112">Select **Save**.</span></span>
 
-## <a name="to-assign-app-licenses"></a><span data-ttu-id="6da67-113">Para atribuir licenças de aplicativos</span><span class="sxs-lookup"><span data-stu-id="6da67-113">To assign app licenses</span></span>
+## <a name="to-assign-app-licenses"></a><span data-ttu-id="5d1a6-113">Para atribuir licenças de aplicações</span><span class="sxs-lookup"><span data-stu-id="5d1a6-113">To assign app licenses</span></span>
 
-1. <span data-ttu-id="6da67-114">Vá à página **de**  >  **[Faturação dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="6da67-114">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
-2. <span data-ttu-id="6da67-115">No separador **Produtos,** na secção **Apps,** encontre e selecione a aplicação que pretende gerir.</span><span class="sxs-lookup"><span data-stu-id="6da67-115">On the **Products** tab, in the **Apps** section, find and select the app you want to manage.</span></span>
-3. <span data-ttu-id="6da67-116">Em **Definições & ações**, selecione o link para **Gerir no portal do editor**.</span><span class="sxs-lookup"><span data-stu-id="6da67-116">Under **Settings & actions**, select the link to **Manage in publisher's portal**.</span></span>
+1. <span data-ttu-id="5d1a6-114">Vá para a página **Faturação**  >  **[dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos.</span><span class="sxs-lookup"><span data-stu-id="5d1a6-114">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+2. <span data-ttu-id="5d1a6-115">No **separador** Produtos, na secção **Aplicações,** localcione e selecione a aplicação que pretende gerir.</span><span class="sxs-lookup"><span data-stu-id="5d1a6-115">On the **Products** tab, in the **Apps** section, find and select the app you want to manage.</span></span>
+3. <span data-ttu-id="5d1a6-116">Em **Definições & , selecione** a ligação para Gerir no portal **do Publisher**.</span><span class="sxs-lookup"><span data-stu-id="5d1a6-116">Under **Settings & actions**, select the link to **Manage in publisher's portal**.</span></span>

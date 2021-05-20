@@ -1,5 +1,5 @@
 ---
-title: Cancelar subscrição do Projeto
+title: Cancelar Project subscrição
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 14f594f72e8104cbd900fcd4e2acc1232ca26167
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: c87f6ea32fa758d7b7779a77897b338edc0308e8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416496"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543408"
 ---
-# <a name="cancel-project-subscription"></a><span data-ttu-id="c7c7b-102">Cancelar subscrição do Projeto</span><span class="sxs-lookup"><span data-stu-id="c7c7b-102">Cancel Project subscription</span></span>
+# <a name="cancel-project-subscription"></a><span data-ttu-id="931e6-102">Cancelar Project subscrição</span><span class="sxs-lookup"><span data-stu-id="931e6-102">Cancel Project subscription</span></span>
 
-<span data-ttu-id="c7c7b-103">Os administradores podem cancelar a subscrição do Projeto para a sua organização no centro de administração microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="c7c7b-103">Admins can cancel the Project subscription for their organization in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="931e6-103">Os administradores podem cancelar a Project subscrição de subscrição da organização no Microsoft 365 de administração.</span><span class="sxs-lookup"><span data-stu-id="931e6-103">Admins can cancel the Project subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="c7c7b-104">Vá à página **de** \> [Faturação dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="c7c7b-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="c7c7b-105">No separador **Produtos,** encontre a subscrição do Projeto que pretende cancelar.</span><span class="sxs-lookup"><span data-stu-id="c7c7b-105">On the **Products** tab, find the Project subscription that you want to cancel.</span></span> <span data-ttu-id="c7c7b-106">Selecione **Mais ações** (três pontos) e, em seguida, selecione **Cancelar a subscrição**.</span><span class="sxs-lookup"><span data-stu-id="c7c7b-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
-3. <span data-ttu-id="c7c7b-107">No painel de **subscrição Cancele,** escolha uma razão pela qual está a cancelar.</span><span class="sxs-lookup"><span data-stu-id="c7c7b-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="c7c7b-108">Opcionalmente, forneça qualquer feedback.</span><span class="sxs-lookup"><span data-stu-id="c7c7b-108">Optionally, provide any feedback.</span></span>
-4. <span data-ttu-id="c7c7b-109">Seleccione **Guardar**.</span><span class="sxs-lookup"><span data-stu-id="c7c7b-109">Select **Save**.</span></span>
+1. <span data-ttu-id="931e6-104">Vá para a página **Faturação** \> [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.</span><span class="sxs-lookup"><span data-stu-id="931e6-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="931e6-105">No **separador** Produtos, localmente Project subscrição que pretende cancelar.</span><span class="sxs-lookup"><span data-stu-id="931e6-105">On the **Products** tab, find the Project subscription that you want to cancel.</span></span> <span data-ttu-id="931e6-106">Selecione os três pontos (mais ações) e, em **seguida, selecione Cancelar subscrição**.</span><span class="sxs-lookup"><span data-stu-id="931e6-106">Select the three dots (more actions), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="931e6-107">No painel **Cancelar subscrição,** escolha um motivo pelo qual está a cancelar.</span><span class="sxs-lookup"><span data-stu-id="931e6-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="931e6-108">Opcionalmente, forneça feedback.</span><span class="sxs-lookup"><span data-stu-id="931e6-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="931e6-109">Selecione **Guardar**.</span><span class="sxs-lookup"><span data-stu-id="931e6-109">Select **Save**.</span></span>
 
-<span data-ttu-id="c7c7b-110">**Reembolso:** Qualquer crédito proscedido será-lhe devolvido no próximo ciclo de faturação.</span><span class="sxs-lookup"><span data-stu-id="c7c7b-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
+<span data-ttu-id="931e6-110">**Reembolso:** Qualquer crédito profissional ser-lhe-à devolvido no próximo ciclo de faturação.</span><span class="sxs-lookup"><span data-stu-id="931e6-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
 
-<span data-ttu-id="c7c7b-111">Para saber mais, consulte [Cancelar a sua subscrição.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="c7c7b-111">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="931e6-111">Para saber mais, consulte [Cancelar a sua subscrição](/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="931e6-111">To learn more, see [Cancel your subscription](/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>

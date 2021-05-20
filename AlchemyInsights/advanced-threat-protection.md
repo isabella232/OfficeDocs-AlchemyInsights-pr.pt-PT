@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender para o Office 365
+title: Microsoft Defender para Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801238"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542904"
 ---
-# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para o Office 365
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para Office 365
 
-- Anexos seguros, ligações seguras e anti-phishing fazem parte do Microsoft Defender para o Office 365 (ATP). Enterprise E5, Education A5 e Microsoft 365 Business Premium incluem ATP. Todos os outros planos requerem uma subscrição ATP adicionada.
+- Cofre Os anexos, Cofre e anti-phishing fazem parte do Microsoft Defender para Office 365. O Enterprise E5, Educação A5 e Microsoft 365 Empresas Premium incluem o Microsoft Defender para Office 365. Todos os outros planos requerem um adicionar ao Microsoft Defender para uma subscrição Office 365 empresas.
 
-- Tem de atribuir as licenças adequadas para proteger os seus utilizadores pelo Office 365 ATP. Consulte [este tópico](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) para obter instruções sobre como aplicar licenças a granel aos seus utilizadores.
+- Tem de atribuir as licenças adequadas para proteger os seus utilizadores pelo Microsoft Defender Office 365. Consulte [Adicionar utilizadores e atribuir licenças ao](/microsoft-365/admin/add-users/add-users) mesmo tempo para obter instruções sobre como aplicar licenças em volume aos seus utilizadores.
 
-- Os administradores globais ou administradores de segurança podem aceder às funcionalidades ATP do Office 365 no Centro de Conformidade & de Segurança na Política **de Ameaça Managmeent** \> **Policy** .
+- Os administradores globais ou os administradores de segurança podem aceder ao Microsoft Defender Office 365 funcionalidades no Centro de Conformidade & Segurança em Política de Gestão **de** \> **Ameaças.**
 
-- Anexos Seguros e Políticas de Ligação Segura podem ser examinados em toda a sua organização, domínios específicos ou grupos menores de utilizadores.
+- Cofre Anexos e Cofre as políticas de Ligações podem ser âmbitos para toda a sua organização, domínios específicos ou grupos de utilizadores mais pequenos.
 
-- Não existe uma política de apSoca fixação padrão. É necessário [criar uma política](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) e aplicá-la aos seus utilizadores.
+- Não existe uma política de Cofre predefinida. Tem de criar uma política e aplicá-la aos seus utilizadores. [](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies)
 
-- Existe uma política de Ligações Seguras ATP padrão que se aplica a todos na sua organização. Para editar esta política ou para criar políticas personalizadas, consulte [este tópico.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)
+- Existe uma política de ligação Cofre predefinida que se aplica a todas as pessoas na sua organização. Para editar esta política ou para criar políticas [personalizadas,](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)consulte Configurar políticas Cofre Ligações no Microsoft Defender para Office 365 .

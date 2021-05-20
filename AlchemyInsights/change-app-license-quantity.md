@@ -1,5 +1,5 @@
 ---
-title: Alterar a quantidade de licença de aplicação
+title: Alterar a quantidade de licenças de aplicação
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 6b4256c1bd466ced0ad8b9f1d8eb6ae160d9961b
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 3e892e4754b959851fe82e15ee2f4c1eb355fd32
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232270"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543156"
 ---
-# <a name="change-app-license-quantity"></a>Alterar a quantidade de licença de aplicação
+# <a name="change-app-license-quantity"></a>Alterar a quantidade de licenças de aplicação
 
-Pode visualizar ou alterar o número de licenças que tem e atribuí-las aos utilizadores no centro de administração Microsoft 365.
+Pode ver ou alterar o número de licenças que tem e atribui-las aos utilizadores no Microsoft 365 de administração.
 
-## <a name="to-change-license-quantity"></a>Para alterar a quantidade de licença
+## <a name="to-change-license-quantity"></a>Para alterar a quantidade de licenças
 
-**Veja um vídeo** que mostra como fazê-lo: [Compre novas licenças](https://go.microsoft.com/fwlink/p/?linkid=2154857) ou [remova as licenças existentes](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**VEJA um vídeo** que mostra como fazê-lo: [Comprar novas licenças](https://go.microsoft.com/fwlink/p/?linkid=2154857) ou [Remover licenças existentes](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-1. Vá à página **de**  >  **[Faturação dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
-2. No separador **Produtos,** na secção **Apps,** encontre a app que pretende gerir. Selecione **Mais ações** (três pontos) e, em seguida, selecione **Licenças de Compra**.
-3. Se pretender reduzir o número de licenças, no topo do painel de **licenças de compra,** selecione **remover licenças**.
-4. Para comprar ou remover licenças, sob **Nova quantidade** na caixa **de licenças Total, insira** o número total de licenças que deseja para esta subscrição. Por exemplo, se tiver 100 licenças e quiser adicionar mais cinco, introduza 105. Se quiser remover cinco, introduza 95.
+1. Vá para a página **Faturação**  >  **[dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos.
+2. No **separador** Produtos, na **secção Aplicações,** localmente a aplicação que pretende gerir. Selecione os três pontos (mais ações) e, em seguida, **selecione Comprar licenças**.
+3. Se quiser reduzir o número de licenças, na parte superior do painel Comprar **licenças,** selecione **remover licenças.**
+4. Para comprar ou remover  licenças, em Nova quantidade na caixa Total de **licenças,** introduza o número total de licenças que pretende para esta subscrição. Por exemplo, se tiver 100 licenças e quiser adicionar mais cinco, introduza 105. Se quiser remover cinco, introduza 95.
 5. Selecione **Guardar**.
 
-## <a name="to-assign-app-licenses"></a>Para atribuir licenças de aplicativos
+## <a name="to-assign-app-licenses"></a>Para atribuir licenças de aplicações
 
-1. Vá à página **de**  >  **[Faturação dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
-2. No separador **Produtos,** na secção **Apps,** encontre a app que pretende gerir.
-3. Em **Definições & ações**, selecione o link para **Gerir no portal do editor**.
+1. Vá para a página **Faturação**  >  **[dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos.
+2. No **separador** Produtos, na **secção Aplicações,** localmente a aplicação que pretende gerir.
+3. Em **Definições & , selecione** a ligação para Gerir no portal **do Publisher**.

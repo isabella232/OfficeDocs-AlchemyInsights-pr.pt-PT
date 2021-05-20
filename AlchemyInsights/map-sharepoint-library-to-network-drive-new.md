@@ -1,5 +1,5 @@
 ---
-title: Mapear uma biblioteca SharePoint para uma unidade de rede
+title: Mapear uma biblioteca do SharePoint para uma unidade de rede
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,23 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 9115a3ab8d1234127a95628a9a49679ef06f6d39
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b7cb38362baa26bd39fe7478ef6dd1971b5b063
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806194"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542832"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Mapear uma biblioteca SharePoint para uma unidade de rede
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Mapear uma biblioteca do SharePoint para uma unidade de rede
 
-Mapear uma biblioteca como uma unidade de rede é temporário e suportado apenas através do Internet Explorer. Deve ocasionalmente abrir o site SharePoint no Internet Explorer e selecionar **Stay in in** para evitar que a sessão expire. Em vez disso, [sincronizar os ficheiros do SharePoint com o novo cliente de sincronização OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> que fornece [ficheiros on-demand](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e). Aceda a todos os seus ficheiros no OneDrive sem utilizar o espaço de armazenamento local.
+Em vez de mapear uma unidade de rede, sincroniza os ficheiros do SharePoint com o novo cliente OneDrive de sincronização, que fornece os Ficheiros a Pedido. Aceda a todos os seus ficheiros no OneDrive sem utilizar espaço de armazenamento local. Para obter mais informações, consulte [Sincronizar](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88) o SharePoint Teams ficheiros com o seu computador e Poupar espaço em disco OneDrive [Ficheiros](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e)a Pedido para Windows 10 .
 
-Se optar por mapear uma unidade em vez de [utilizar o novo cliente de sincronização OneDrive,](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)certifique-se de que segue os passos no artigo abaixo. 
+Se optar por mapear uma unidade em vez de utilizar o novo cliente [de OneDrive,](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88)certifique-se de que segue estes passos:
 
+- [Resolver problemas de unidades de rede mapeadas que se ligam ao SharePoint Online](/sharepoint/support/administration/troubleshoot-mapped-network-drives)
 
-**Como configurar e resolução de problemas de unidades de rede mapeadas**
+- [Os erros de autenticação ocorrem quando o cliente não tem suporte TLS 1.2](/sharepoint/troubleshoot/administration/authentication-errors-tls12-support#network-drive-mapped-to-a-sharepoint-library)  
 
-
-Consulte [as unidades de rede mapeadas de resolução de problemas que se ligam ao SharePoint Onlines](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
-
-NOTA: Se utilizar o Internet Explorer 10 com o Windows 8 ou Windows 7, e receber **o Access negado** ou o Path não estiver **acessível** ao mapear uma unidade, instale [este hotfix](https://support.microsoft.com/help/2846960) para resolver este problema. 
+**NOTA:** Se utilizar o Internet Explorer 10 com o Windows 8 ou o Windows 7 e receber  o **Access negado** ou o Caminho não está acessível ao mapear uma unidade, resolva este problema ao instalar esta [atualização](https://support.microsoft.com/topic/error-when-you-open-a-sharepoint-document-library-in-windows-explorer-or-map-a-network-drive-to-the-library-after-you-install-internet-explorer-10-96e640ba-059f-9b09-bb91-2a0319ee8b1d).

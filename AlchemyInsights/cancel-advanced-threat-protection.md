@@ -1,5 +1,5 @@
 ---
-title: Cancelar proteção avançada de ameaças
+title: Cancelar Proteção Avançada Contra Ameaças
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 0919862f1954058d2d891abb35d91a19ee948933
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416273"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543516"
 ---
-# <a name="cancel-advanced-threat-protection"></a>Cancelar proteção avançada de ameaças
+# <a name="cancel-advanced-threat-protection"></a>Cancelar Proteção Avançada Contra Ameaças
 
-Os administradores podem cancelar a subscrição de Proteção de Ameaças Avançadas para a sua organização no centro de administração microsoft 365.
+Os administradores podem cancelar a subscrição da Proteção Avançada Contra Ameaças da respetiva organização no Microsoft 365 de administração.
 
-1. Vá à página **de**  >  [Faturação dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. No separador **Produtos,** encontre o plano avançado de proteção contra ameaças que pretende cancelar. Selecione **Mais ações** (três pontos) e, em seguida, selecione **Cancelar a subscrição**.
-3. No painel de **subscrição Cancele,** escolha uma razão pela qual está a cancelar. Opcionalmente, forneça qualquer feedback.
-4. Seleccione **Guardar**.
+1. Vá para a página **Faturação**  >  [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.
+2. No **separador** Produtos, procure o plano Proteção Avançada Contra Ameaças que pretende cancelar. Selecione os três pontos (mais ações) e, em **seguida, selecione Cancelar subscrição**.
+3. No painel **Cancelar subscrição,** escolha um motivo pelo qual está a cancelar. Opcionalmente, forneça feedback.
+4. Selecione **Guardar**.
 
-**Reembolso:** Qualquer crédito proscedido será-lhe devolvido no próximo ciclo de faturação.
+**Reembolso:** Qualquer crédito profissional ser-lhe-à devolvido no próximo ciclo de faturação.
 
-Para saber mais, consulte [Cancelar a sua subscrição.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Para saber mais, consulte [Cancelar a sua subscrição](/microsoft-365/commerce/subscriptions/cancel-your-subscription).

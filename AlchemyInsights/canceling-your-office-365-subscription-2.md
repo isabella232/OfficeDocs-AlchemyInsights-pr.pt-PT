@@ -1,5 +1,5 @@
 ---
-title: Cancelar a subscrição do Microsoft 365?
+title: Quer cancelar a Microsoft 365 subscrição?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 43c70e34ea89f5579309bb831b2c20db0d9e7d7d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232018"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543228"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Cancelar a subscrição do Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Quer cancelar a Microsoft 365 subscrição?
 
-Lamentamos vê-lo partir!
+Lamentamos que esteja de volta!
   
-Com base nos dados da sua organização, acreditamos que todas as suas subscrições atuais têm mais de 25 licenças atribuídas. Antes de poder cancelar:
+Com base nos dados da sua organização, parece que todas as suas subscrições atuais têm mais de 25 licenças atribuídas. Antes de poder cancelar:
 
-1. Remova as licenças dos utilizadores até ter menos de 25 utilizadores licenciados.
-2. Vá à página **de** \> **[Faturação dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
-3. No separador **Produtos,** encontre a subscrição que pretende cancelar, selecione **Mais ações** (três pontos) e, em seguida, selecione **Cancelar a subscrição**.
+1. Remova licenças de utilizadores até ter menos de 25 utilizadores licenciados.
+2. Vá para a página **Faturação** \> **[dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos.
+3. No **separador Produtos,** localcione a subscrição que pretende cancelar, selecione as remarcas (mais ações) e, em seguida, **selecione Cancelar subscrição**.
 
-**Reembolso:** Qualquer crédito proscedido será-lhe devolvido no próximo ciclo de faturação.
+**Reembolso:** Qualquer crédito profissional ser-lhe-à devolvido no próximo ciclo de faturação.
 
-Para saber mais, consulte [Cancelar a sua subscrição.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Para saber mais, consulte [Cancelar a sua subscrição](/microsoft-365/commerce/subscriptions/cancel-your-subscription).

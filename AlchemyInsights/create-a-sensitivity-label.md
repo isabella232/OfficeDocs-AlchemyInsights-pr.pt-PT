@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: d90645758100e3ff29d77dd09848b36f33c3f526
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233401"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543660"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Como criar uma etiqueta de sensibilidade
 
@@ -30,8 +30,8 @@ ms.locfileid: "52233401"
 
     Para saber mais sobre etiquetagem automática, consulte Aplicar automaticamente uma [etiqueta de sensibilidade ao conteúdo.](https://go.microsoft.com/fwlink/?linkid=2105837)
 
-1. Repita estes passos para criar mais etiquetas. No entanto, se quiser criar um sublabela, primeiro selecione a etiqueta principal, selecione **...** para Mais ações **e,** em seguida, selecione **Adicionar submarca**.
+1. Repita estes passos para criar mais etiquetas. No entanto, se quiser criar um sublabela, primeiro selecione a etiqueta principal, selecione as retas (mais ações) e, em seguida, selecione Adicionar **sub etiqueta**.
 
 1. Depois de criar todas as etiquetas de que precisa, reveja a encomenda e, se necessário, mova-as para cima ou para baixo. 
     
-    Para alterar a ordem de uma etiqueta, selecione **...** para Mais **ações** e, em seguida, selecione Mover para **cima** ou Mover **para baixo**.
+    Para alterar a ordem de uma etiqueta, selecione os três pontos (mais ações) e, em seguida, selecione Mover para **cima** **ou Mover para baixo**.

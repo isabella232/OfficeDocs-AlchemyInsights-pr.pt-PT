@@ -1,5 +1,5 @@
 ---
-title: ATP para SharePoint, OneDrive e Microsoft Teams
+title: Microsoft Defender para Office 365 para SharePoint, OneDrive e Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 3d02ded959114675847831690b4d4a3ebcf0e137
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d2ed7bc4c7d99cd01dadc12e38762903d6d8ab3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715572"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543588"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP para SharePoint, OneDrive e Microsoft Teams
+# <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender para Office 365 para SharePoint, OneDrive e Microsoft Teams
 
-Siga estes passos para permitir a Proteção Avançada de Ameaças:
+Siga estes passos para ativar o Microsoft Defender para Office 365:
 
-1. Vá [https://protection.office.com](https://protection.office.com) e inscreva-se com um administrador global ou conta de administrador de segurança.
+1. Vá para [https://protection.office.com](https://protection.office.com) e inscreva-se com uma conta de administrador global ou administrador de segurança.
 
-2. No painel de navegação à **Policy** esquerda sob **gestão de ameaças,** escolha \> **Os Anexos Seguros de**Política .
+2. No painel de navegação esquerdo, em **Gestão de ameaças,** **selecionar** \> **Política Cofre Anexos**.
 
-3. Selecione **Ligue ATP para SharePoint, OneDrive e Microsoft Teams**.
+3. **Selecione Acionar o Defender Office 365 para SharePoint, OneDrive e Microsoft Teams**.
 
-4. [Crie uma política de alerta de atividade](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) para receber notificações quando detetarmos ficheiros maliciosos.
+4. [Crie uma política de alerta de](/microsoft-365/compliance/create-activity-alerts) atividade para receber notificações quando detetamos ficheiros maliciosos.
 
-Para obter instruções completas, consulte este [tópico.](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)
+Para obter instruções completas, consulte [a Cofre Anexos do SharePoint, OneDrive e Microsoft Teams](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
 
-**Nota:** Por design, o ATP não digitaliza todos os ficheiros do SharePoint Online, OneDrive for Business ou Microsoft Teams. Os ficheiros são analisados assíncrono por um processo que utiliza atividade de partilha, atividade de hóspedes e sinais de ameaça para identificar ficheiros maliciosos. Para mais informações, consulte este [tópico.](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+**Nota:** por predeferição, o Microsoft Defender Office 365 não analisa todos os ficheiros no SharePoint Online, OneDrive para Empresas ou Microsoft Teams. Os ficheiros são analisados assíncronamente por um processo que utiliza atividade de partilha, atividade de convidado e sinais de ameaça para identificar ficheiros maliciosos. Para obter mais informações, [consulte Cofre Anexos para o SharePoint, OneDrive e Microsoft Teams.](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)

@@ -1,5 +1,5 @@
 ---
-title: Como comprar licenças para as suas Apps Microsoft 365 para subscrição de negócios
+title: Como comprar licenças para a sua subscrição Microsoft 365 Apps para Pequenas e Médias Empresas Subscrição
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: cefa266e26a5ddeb60ca0496742e9051d6f14830
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 7b60f51f394c28d90b42a7d86ad08d1aeefd8a78
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232342"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545351"
 ---
-# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a><span data-ttu-id="e8177-102">Como comprar licenças para as suas Apps Microsoft 365 para subscrição de negócios</span><span class="sxs-lookup"><span data-stu-id="e8177-102">How to buy licenses for your Microsoft 365 Apps for business subscription</span></span>
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a><span data-ttu-id="8aab4-102">Como comprar licenças para a sua subscrição Microsoft 365 Apps para Pequenas e Médias Empresas Subscrição</span><span class="sxs-lookup"><span data-stu-id="8aab4-102">How to buy licenses for your Microsoft 365 Apps for business subscription</span></span>
 
-<span data-ttu-id="e8177-103">Ao atribuir licenças aos seus utilizadores, poderá descobrir que precisa de comprar licenças adicionais.</span><span class="sxs-lookup"><span data-stu-id="e8177-103">When assigning licenses to your users, you may find that you need to buy additional licenses.</span></span>
+<span data-ttu-id="8aab4-103">Ao atribuir licenças aos seus utilizadores, poderá ter de comprar licenças adicionais.</span><span class="sxs-lookup"><span data-stu-id="8aab4-103">When assigning licenses to your users, you may find that you need to buy additional licenses.</span></span>
 
-<span data-ttu-id="e8177-104">**Veja um vídeo** que mostra como fazer isto: [Compre novas licenças](https://go.microsoft.com/fwlink/p/?linkid=2154857)</span><span class="sxs-lookup"><span data-stu-id="e8177-104">**WATCH a video** that shows how to do this: [Buy new licenses](https://go.microsoft.com/fwlink/p/?linkid=2154857)</span></span>
+<span data-ttu-id="8aab4-104">**VEJA um vídeo** que mostra como fazê-lo: [Comprar novas licenças](https://go.microsoft.com/fwlink/p/?linkid=2154857)</span><span class="sxs-lookup"><span data-stu-id="8aab4-104">**WATCH a video** that shows how to do this: [Buy new licenses](https://go.microsoft.com/fwlink/p/?linkid=2154857)</span></span>
   
-1. <span data-ttu-id="e8177-105">No centro de administração, vá à página **de Faturação**  >  [dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="e8177-105">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="e8177-106">No separador **Produtos,** encontre a subscrição que pretende atualizar.</span><span class="sxs-lookup"><span data-stu-id="e8177-106">On the **Products** tab, find the subscription that you want to update.</span></span> <span data-ttu-id="e8177-107">Selecione **Mais ações** (três pontos) e, em seguida, selecione **Licenças de Compra**.</span><span class="sxs-lookup"><span data-stu-id="e8177-107">Select **More actions** (three dots), then select **Buy licenses**.</span></span>
-3. <span data-ttu-id="e8177-108">No painel **de licenças Buy,** sob **Nova quantidade** na caixa **de licenças Total, insira** o número total de licenças que deseja para esta subscrição.</span><span class="sxs-lookup"><span data-stu-id="e8177-108">In the **Buy licenses** pane, under **New quantity** in the **Total licenses** box, enter the total number of licenses that you want for this subscription.</span></span> <span data-ttu-id="e8177-109">Por exemplo, se tiver 100 licenças e quiser adicionar mais 25, insira 125.</span><span class="sxs-lookup"><span data-stu-id="e8177-109">For example, if you have 100 licenses and you want to add 25 more, enter 125.</span></span>
-4. <span data-ttu-id="e8177-110">Selecione **Guardar**.</span><span class="sxs-lookup"><span data-stu-id="e8177-110">Select **Save**.</span></span>
+1. <span data-ttu-id="8aab4-105">No centro de administração, vá para a página **Faturação**  >  [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.</span><span class="sxs-lookup"><span data-stu-id="8aab4-105">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="8aab4-106">No **separador** Produtos, localize a subscrição que pretende atualizar.</span><span class="sxs-lookup"><span data-stu-id="8aab4-106">On the **Products** tab, find the subscription that you want to update.</span></span> <span data-ttu-id="8aab4-107">Selecione os três pontos (mais ações) e, em seguida, **selecione Comprar licenças**.</span><span class="sxs-lookup"><span data-stu-id="8aab4-107">Select the three dots (more actions), then select **Buy licenses**.</span></span>
+3. <span data-ttu-id="8aab4-108">No painel **Comprar licenças,** em Nova quantidade na caixa Total de  **licenças,** introduza o número total de licenças que pretende para esta subscrição.</span><span class="sxs-lookup"><span data-stu-id="8aab4-108">In the **Buy licenses** pane, under **New quantity** in the **Total licenses** box, enter the total number of licenses that you want for this subscription.</span></span> <span data-ttu-id="8aab4-109">Por exemplo, se tiver 100 licenças e quiser adicionar mais 25, introduza 125.</span><span class="sxs-lookup"><span data-stu-id="8aab4-109">For example, if you have 100 licenses and you want to add 25 more, enter 125.</span></span>
+4. <span data-ttu-id="8aab4-110">Selecione **Guardar**.</span><span class="sxs-lookup"><span data-stu-id="8aab4-110">Select **Save**.</span></span>
 
-<span data-ttu-id="e8177-111">Para saber mais, consulte [Comprar ou remover licenças.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)</span><span class="sxs-lookup"><span data-stu-id="e8177-111">To learn more, see [Buy or remove licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>
+<span data-ttu-id="8aab4-111">Para saber mais, consulte [Comprar ou remover licenças.](/microsoft-365/commerce/licenses/buy-licenses)</span><span class="sxs-lookup"><span data-stu-id="8aab4-111">To learn more, see [Buy or remove licenses](/microsoft-365/commerce/licenses/buy-licenses).</span></span>

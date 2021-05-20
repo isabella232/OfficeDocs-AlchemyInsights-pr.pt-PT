@@ -1,5 +1,5 @@
 ---
-title: Renovação de assinaturas
+title: Renovação da subscrição
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: f0b1244204b082e8c8e2fc7581af600526b40ec4
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: bb9750e7a2357254485c938da447b8f3579a77f5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286861"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539979"
 ---
-# <a name="subscription-recurring-billing"></a>Faturação recorrente de assinatura
+# <a name="subscription-recurring-billing"></a>Faturação periódia de subscrição
 
-Se quiser saber quando a sua subscrição mensal ou anual é faturada (se **a faturação recorrente** estiver ligada) ou quando expirar (se **a faturação recorrente** estiver desligada), utilize os seguintes passos:
+Se quiser saber quando é que a sua subscrição mensal  ou anual é faturada (se a  faturação recorrente estiver ativada) ou quando expira (se a faturação recorrente estiver desligada), utilize os seguintes passos:
   
-1. No centro de administração, vá à página **de Faturação** \> [dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. No separador **Produtos,** encontre a subscrição que deseja saber mais sobre. A coluna **de estado de subscrição** mostra a data de renovação ou de validade.
-3. Para fazer uma alteração, selecione **Mais ações** (três pontos) e, em seguida, selecione **Editar faturação recorrente**.
-4. No painel **de faturação recorrente editar,** selecione **On**, **On, Renew once**, or **Off**.
-5. Seleccione **Guardar**.
+1. No centro de administração, vá para a página **Faturação** \> [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.
+2. No **separador** Produtos, localmente a subscrição sobre a qual pretende saber mais. A **coluna Estado da subscrição** mostra a data de renovação ou de expiração.
+3. Para fazer uma alteração, selecione as retas (mais ações) e, em seguida, **selecione Editar faturação periódita**.
+4. No painel **Editar faturação periódita,** selecione Ação **,** **Acionado, renovar uma vez** ou **Desativo**.
+5. Selecione **Guardar**.
 
-Para mais informações, consulte [Ativar ou desativar a faturação periódica](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+Para mais informações, consulte [Ativar ou desativar a faturação periódica](/microsoft-365/commerce/subscriptions/renew-your-subscription).

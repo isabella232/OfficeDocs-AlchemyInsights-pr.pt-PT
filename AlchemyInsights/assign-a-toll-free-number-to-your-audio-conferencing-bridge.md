@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: 8d0ec82e602aff6558a08c4e5b7fb02e07167969
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 76e809d49925f842e69f0b0a17fcf1e62645e75f
+ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821125"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626088"
 ---
 # <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>Atribuir um número gratuito à sua bridge de conferências de áudio
 
 Para atribuir um novo número gratuito à sua bridge de conferências de áudio:
 
-1. Inicie sessão no Office 365 com a sua conta profissional.
-2. Aceda a **Centro de administração do Microsoft 365 > Centros de administração > Teams e Skype > Portal legado > Voz > Números de telefone**.
-3. Selecione o número de telefone na lista e, no painel **Ação**, clique em **Atribuir**.
-4. Na página **Atribuir**, clique em **Guardar**.
+1. Vá ao Centro de administração do Microsoft Teams.
+1. No painel de navegação esquerdo, vá para **Pontes de**  >  **conferência de Reuniões**.
+1. Realce o número de serviço pago que pretende configurar como padrão.
+1. Selecione **Predefinir**.
 
-Para obter mais informações, consulte [Change the phone numbers on your Audio Conferencing bridge](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge) (Alterar os números de telefone na sua bridge de Conferências de Áudio).
+Para obter mais informações, consulte [Change the phone numbers on your Audio Conferencing bridge](/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge) (Alterar os números de telefone na sua bridge de Conferências de Áudio).

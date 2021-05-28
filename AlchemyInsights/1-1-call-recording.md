@@ -1,5 +1,5 @@
 ---
-title: 1:1 gravação de chamada
+title: Gravação da chamada entre duas pessoas
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50733860"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696969"
 ---
-# <a name="11-call-recording"></a>1:1 gravação de chamada
+# <a name="11-call-recording"></a>Gravação da chamada entre duas pessoas
 
-Os administradores precisam de tomar medidas agora para continuar a permitir que os utilizadores gravem chamadas 1:1.
- 
-A partir de 12 de abril de 2021, começaremos a aplicar uma nova opção de Política de Chamadas de Equipas *AllowCloudRecordingForCalls*. 
+Se o **botão Iniciar** Gravação estiver a cinzento numa chamada entre duas pessoas, tem de alterar as definições da política do utilizador afetado.   
 
-Atualmente, as capacidades de gravação de chamadas 1:1 são controladas pela opção *AllowCloudRecording* em Políticas de Reunião de Equipas. Se os seus utilizadores estiverem autorizados a gravar Reuniões de Equipas, também podem gravar chamadas de 1:1.
+A partir de 31 de maio de 2021, começaremos Teams a impor uma nova política de *chamadas AllowCloudRecordingForCalls*. Antes desta alteração, a gravação de chamadas entre duas pessoas é controlada pela Política de Registo de Alterações Teams *AllowCloudRecording.* Esta alteração está documentada na mensagem do Centro de Mensagens: [(Atualizada) 1:1 Introdução à política](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)de gravação de chamadas .  
 
-Se preferir bloquear todos os utilizadores de gravar chamadas 1:1, não precisa de tomar nenhuma ação. A opção de chamada *AllowCloudRecordingForCalls* será $False por padrão.
+*AllowCloudRecordingForCalls*   a opção de política de chamadas está definida **como $False** predefinida. Se preferir bloquear todos os utilizadores de gravar chamadas entre duas pessoas, não precisa de fazer nada.  
 
-Esta alteração está documentada no seguinte Post do Centro de Mensagens: [(Atualizado) 1:1 Introdução da política de gravação de chamadas](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) Para definir a opção política de chamada de equipas deve utilizar o [PowerShell das Equipas](https://docs.microsoft.com/microsoftteams/teams-powershell-install).
+Para ativar a gravação de chamadas para todos os utilizadores em chamadas entre duas pessoas, utilize Teams PowerShell para executar o seguinte cmdlet: 
 
-**Para ativar a gravação de chamadas em chamadas 1:1:** Set-CsTeamsCallingPolicy -Identidade Global -AllowCloudRecordingForCalls $True
+**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
-**Para desativar a gravação de chamadas em chamadas 1:1:** Set-CsTeamsCallingPolicy -Identidade Global -AllowCloudRecordingForCalls $False
+Em alternativa, pode criar uma nova política e definir **-AllowCloudRecordingForCalls** para **$true** e atribuir essa política aos seus utilizadores. 
 
+Para obter mais informações, consulte 1:1 Os Controlos da Política de Gravação de [Chamadas estão (Quase!) Aqui.](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668)

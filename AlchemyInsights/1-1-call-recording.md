@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
-ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
+ms.openlocfilehash: 8cdadf34a059856338d7f40528446b70373465e4
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 05/28/2021
-ms.locfileid: "52696969"
+ms.locfileid: "52702101"
 ---
 # <a name="11-call-recording"></a>Gravação da chamada entre duas pessoas
 
-Se o **botão Iniciar** Gravação estiver a cinzento numa chamada entre duas pessoas, tem de alterar as definições da política do utilizador afetado.   
+Se o **botão Iniciar** Gravação estiver a cinzento numa chamada entre duas pessoas, tem de alterar as definições da política do utilizador afetado. Para verificar a definição de política, execute o Diagnóstico do utilizador afetado ao escrever **Diag: Teams 1:1 Gravação de Chamadas** acima.     
 
 A partir de 31 de maio de 2021, começaremos Teams a impor uma nova política de *chamadas AllowCloudRecordingForCalls*. Antes desta alteração, a gravação de chamadas entre duas pessoas é controlada pela Política de Registo de Alterações Teams *AllowCloudRecording.* Esta alteração está documentada na mensagem do Centro de Mensagens: [(Atualizada) 1:1 Introdução à política](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)de gravação de chamadas .  
 
 *AllowCloudRecordingForCalls*   a opção de política de chamadas está definida **como $False** predefinida. Se preferir bloquear todos os utilizadores de gravar chamadas entre duas pessoas, não precisa de fazer nada.  
 
-Para ativar a gravação de chamadas para todos os utilizadores em chamadas entre duas pessoas, utilize Teams PowerShell para executar o seguinte cmdlet: 
+Para ativar a gravação de chamadas para todos os utilizadores em chamadas entre [duas pessoas, utilize Teams PowerShell](/microsoftteams/teams-powershell-install) para executar o seguinte cmdlet: 
 
 **Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 

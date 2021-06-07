@@ -13,21 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 839a70282b4dd619e9dbe8167ef0e409e468b1ad
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
+ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830593"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52774370"
 ---
 # <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
 
-Trabalhar com PowerShell ou Scripts dentro do Sharepoint Online? Visite os links abaixo para mais informações.
-- [Começar com a SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [Ligue ao SPO PowerShell com a autenticação multifactor (MFA)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [SharePoint Patterns and Practices (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) contém uma biblioteca de comandos PowerShell que lhe permite executar ações de gestão complexas em relação ao SPO.
-
-> [!NOTE]
-> - Se tiver problemas de ligação com a concha de gestão SPO, [certifique-se](https://docs.microsoft.com/powershell/scripting/developer/module/importing-a-powershell-module?view=powershell-7.1) de que atualizou a versão mais recente e tente re importar o módulo utilizando *"Import-Module Microsoft.Online.SharePoint.PowerShell".*
-> - Se estiver a tentar executar scripts de modelos de objetos do lado do cliente, terá de ter os [Componentes de Cliente Online do Sharepoint SDK instalados](https://www.microsoft.com/download/details.aspx?id=42038) na sua máquina local.
-> - Se tiver problemas em executar scripts a partir de PowerShell, pode considerar executar o PowerShell como administrador e alterar a [Política de Execução](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).
+Está a trabalhar com o PowerShell ou com scripts no SharePoint Online? Visite as ligações abaixo para obter mais informações.
+- [Começar a trabalhar com a Shell de Gestão do SharePoint Online](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
+- [Ligação ao PowerShell do SPO com a autenticação multifator (MFA)](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
+- [Os Padrões e Práticas do SharePoint (PnP)](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) contêm uma biblioteca de comandos do PowerShell que lhe permite efetuar ações de gestão complexas no SPO.

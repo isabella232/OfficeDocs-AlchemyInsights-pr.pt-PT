@@ -1,5 +1,5 @@
 ---
-title: Ver o estado de gestão das aplicações da Microsoft utilizando o Microsoft Edge para dispositivos iOS ou Android
+title: Ver o estado de gestão das aplicações da Microsoft com o Microsoft Edge para dispositivos iOS ou Android
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,18 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003896"
+- "9006502"
 - "6950"
-ms.openlocfilehash: e670981d2cb9a918ad33cc9e6ce15663c112df1d
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+- "11143"
+ms.openlocfilehash: 321dac91dfbfea560b6b488b003940518637e642
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679196"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989908"
 ---
-# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Ver o estado de gestão das aplicações da Microsoft utilizando o Microsoft Edge para dispositivos iOS ou Android
+# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Ver o estado de gestão das aplicações da Microsoft com o Microsoft Edge para dispositivos iOS ou Android
 
-Para aceder aos registos de aplicações para utilização na resolução de problemas das suas aplicações geridas para iOS ou Android, abra o Microsoft Edge e **escreva cerca de:intunehelp** na caixa de endereços. O Microsoft Edge é lançado no modo de resolução de problemas.
+Para aceder aos registos da aplicação para utilizar na remoção de problemas das suas aplicações geridas para iOS ou Android, abra o Microsoft Edge e escreva **about:intunehelp** na caixa de endereço. O Microsoft Edge é iniciado no modo de resolução de problemas.
 
-Para obter uma lista das definições armazenadas nos registos de aplicações, consulte [os registos de proteção de aplicações do cliente de Revisão](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).
+Para ver uma lista das definições armazenadas nos registos da aplicação, consulte Rever registos de proteção de aplicações [cliente.](/mem/intune/apps/app-protection-policy-settings-log)
 
-Para aprender a ver registos de aplicações em dispositivos Android, consulte [upload e registos de e-mail.](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)
+Para saber como ver registos de aplicações em dispositivos Android, consulte Carregar [registos de e-mail.](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)

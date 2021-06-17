@@ -1,5 +1,5 @@
 ---
-title: Utilize uma lista de propriedades para configurar as definições de política do Microsoft Edge no macOS
+title: Utilizar uma lista de propriedades para configurar as definições de política para Microsoft Edge no macOS
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,17 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9004632"
+- "9006494"
 - "8361"
-ms.openlocfilehash: 279a42acc12662c57463010a101ade35df97074f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+- "11114"
+ms.openlocfilehash: 583e3f4401901bec70b0cef3444066c220cbb554
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405717"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989725"
 ---
-# <a name="use-a-property-list-to-configure-the-policy-settings-for-microsoft-edge-on-macos"></a>Utilize uma lista de propriedades para configurar as definições de política do Microsoft Edge no macOS
+# <a name="use-a-property-list-to-configure-the-policy-settings-for-microsoft-edge-on-macos"></a>Utilizar uma lista de propriedades para configurar as definições de política para Microsoft Edge no macOS
 
-No macOS, a versão 77 do Microsoft Edge pode ser configurada utilizando um ficheiro de lista de propriedades (.plist):
+No macOS, Microsoft Edge versão 77 ou posterior pode ser configurada através de um ficheiro de lista de propriedades (.plist):
 
-1. [Criar uma lista de propriedades.](https://go.microsoft.com/fwlink/?linkid=2134726)
-1. [Implemente a lista de propriedades.](https://go.microsoft.com/fwlink/?linkid=2134727)
+1. [Criar uma lista de propriedades](https://go.microsoft.com/fwlink/?linkid=2134726).
+1. [Implementar a lista de propriedades](https://go.microsoft.com/fwlink/?linkid=2134727).

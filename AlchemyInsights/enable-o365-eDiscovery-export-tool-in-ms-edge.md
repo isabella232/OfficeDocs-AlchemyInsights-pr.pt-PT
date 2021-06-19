@@ -1,5 +1,5 @@
 ---
-title: Ativar a ferramenta de exportação eDiscovery do Office 365 no Microsoft Edge
+title: Ativar Office 365 de Exportação da Deteção de Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
-ms.openlocfilehash: c3d4b45d77ffb47db458f11aeab183230d3fa9cc
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "11694"
+- "9006005"
+ms.openlocfilehash: 00b64ee8999ce47cac1f36a8fc3af32783e2e1a1
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583682"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023186"
 ---
-# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Ativar a ferramenta de exportação eDiscovery do Office 365 no Microsoft Edge
+# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Ativar Office 365 de Exportação da Deteção de Microsoft Edge
 
-O suporte para ClickOnce já não está ativado no Microsoft Edge por padrão. Para continuar a utilizar a ferramenta de exportação eDiscovery do Microsoft Office 365, terá de utilizar o Microsoft Internet Explorer ou ativar a opção de Suporte ClickOnce no Microsoft Edge baseado em Chromium, da seguinte forma:
+O suporte ClickOnce já não está ativado nas versões Microsoft Edge predefinição. Para continuar a utilizar a Ferramenta de Exportação da Deteção de Dados Microsoft Office 365, terá de utilizar o Microsoft Internet Explorer ou ativar a opção de Suporte do ClickOnce no Microsoft Edge baseado no Chromium, da seguinte forma:
 
-1. Vai para edge://flags/#edge-click-once.
-1. Para a opção **De Suporte ClickOnce,** altere o valor de **Predefinido** ou **Desativado** para **Ativado**.
-1. Na parte inferior da janela do navegador, clique em **Reiniciar**. A alteração entrará em vigor depois de reiniciar o Microsoft Edge.
+1. Vá para o edge://flags/#edge-click-once.
+1. Para a opção **ClickOnce Suporte, altere** o valor de Predefinido ou  **Desativado** para **Ativado.**
+1. Na parte inferior da janela do browser, clique em **Reiniciar**. A alteração terá efeito depois de reiniciar o Microsoft Edge.
 
-Para saber mais, consulte [use a ferramenta de exportação do Office 365 eDiscovery no Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).
+Para saber mais, consulte Utilizar [a Ferramenta de Office 365 de Exportação da Deteção de](https://go.microsoft.com/fwlink/?linkid=2111611)Microsoft Edge .

@@ -1,5 +1,5 @@
 ---
-title: As equipas atualizam a orientação
+title: Teams orientações de atualização
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333939"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095411"
 ---
-# <a name="microsoft-teams-upgrade"></a>Atualização do Microsoft Teams
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teams atualização
 
-**Importante**: Se foi atualizado do Skype para Business Online para o Modo Equipas da Microsoft no modo Teams Only, mas descobrir que ainda não está pronto, podemos ajudar a corrigir isto para si usando um diagnóstico de suporte. Certifique-se de que está a utilizar o novo Centro de Administração, deslizando o toggle no topo direito que diz **novo Centro de Administração**para a direita. Utilizando o novo Centro de Administração, clique no widget **Need Help,** escreva "**Teams Upgrade**", e siga as instruções para executar o diagnóstico.
+Quer esteja apenas a começar com o Teams, a utilizar o Teams juntamente com o Skype para Empresas ou pronto para a atualização, queremos garantir que tem tudo o que precisa para navegar com êxito para o Teams. Para obter mais informações, visite as ligações abaixo.
 
-Quer esteja apenas a começar com equipas, já usando equipas ao lado do Skype para negócios, ou pronto para fazer upgrade, queremos garantir que tem tudo o que precisa para navegar numa viagem bem sucedida às Equipas. Para mais informações visite os links abaixo.
+[Começar a trabalhar com a atualização Microsoft Teams de atualização](/MicrosoftTeams/upgrade-start-here)
 
-[Começar com o upgrade do Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Planear a atualização](/MicrosoftTeams/upgrade-plan-journey)
 
-[Plano para a sua atualização](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[Compreender Microsoft Teams e Skype para Empresas coexistência](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Compreenda as equipas da Microsoft e o Skype para a coexistência de negócios](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Efetuar a atualização do Skype para Empresas Online para o Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Realizando o upgrade do Skype para Business Online para Equipas](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[Realizando o upgrade do Skype para Business on-ins para equipas](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Efetuar a atualização do Skype para Empresas no local para a Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Verifique o estado do Skype para business online para as equipas atualizarem com o PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Verificar o estado do Skype para Empresas Online para atualizar Teams com o PowerShell](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

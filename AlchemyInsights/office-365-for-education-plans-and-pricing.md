@@ -1,5 +1,5 @@
 ---
-title: Escritório 365 para planos de educação e preços
+title: Office 365 e preços para Educação
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,17 +14,19 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 95d398a7f287899d11dc069e9874db805c5f51a8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6abec5038c8b0e0089ed3080f5b06db85766791f
+ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829603"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53104613"
 ---
-# <a name="get-microsoft-365-free-for-your-entire-school"></a>Obtenha o Microsoft 365 grátis para toda a sua escola
+# <a name="get-microsoft-365-free-for-your-entire-school"></a>Obter Microsoft 365 gratuitamente para toda a sua escola
 
-Melhorar a colaboração em sala de aula e escolar com ferramentas de produtividade gratuitas. Terá de verificar se é uma instituição académica acreditada para tirar partido destas ofertas.
+Melhore a colaboração na escola e na sala de aula com ferramentas de produtividade gratuitas. Terá de verificar se é uma instituição académica creditada para tirar partido destas ofertas.
   
 - [Rever os planos de Educação](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [Compare todas as subscrições da Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Começar a trabalhar com Office 365 Educação](https://support.office.com/article/get-started-with-office-365-education-ab02abe5-a1ee-458c-b749-5b44416ccf14?wt.mc_id=o365_portal_mmaven&ui=en-US&rs=en-US&ad=US)
+
+- [Comparar todas Microsoft 365 subscrições](https://products.office.com/business/compare-more-office-365-for-business-plans)

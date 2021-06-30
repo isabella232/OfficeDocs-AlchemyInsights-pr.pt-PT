@@ -1,5 +1,5 @@
 ---
-title: O cliente do Teams está a falhar?
+title: Teams cliente falha
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,39 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: 20f03b075787cab85ab15d5272c0416b88ebbaee
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7acb2f5f87a9cfbd67cd94efca696665fd80fc4a
+ms.sourcegitcommit: 3cdfde87b7311c200431196031af92c640fd0d8d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826282"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53187732"
 ---
-# <a name="teams-client-crashing"></a>O cliente do Teams está a falhar?
+# <a name="teams-client-crashing"></a>Teams cliente falha
 
 Se o seu cliente do Teams estiver a falhar, tente o seguinte:
 
 - Se estiver a utilizar a aplicação de ambiente de trabalho do Teams, [certifique-se de que a aplicação está totalmente atualizada](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Certifique-se de que todos os [URLs e intervalos de endereços Microsoft 365 estão acessíveis.](https://docs.microsoft.com/microsoftteams/connectivity-issues)
+- Certifique-se de que todos [os Microsoft 365 URLs e intervalos de endereços são](/microsoftteams/connectivity-issues) acessíveis.
 
-- Faça login com a sua conta de administração do inquilino e verifique o seu [Painel de Saúde de Serviço](https://docs.microsoft.com/office365/enterprise/view-service-health) para verificar se não existe nenhuma falha ou degradação do serviço.
+- Indique sessão com a conta de administrador do seu inquilino e verifique o [Dashboard](/office365/enterprise/view-service-health) do Estado de Estado de Serviço para verificar se existe qualquer degradação no serviço ou indistionável.
 
-- Desinstalar e reinstalar a Aplicação de Equipas (link)
-    - Navegue na pasta %appdata%\Microsoft\teams\ no seu computador e elimine todos os ficheiros desse diretório.
-    - [Descarregue e instale a App Teams](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy), e, se possível, instale equipas como administrador (clique no instalador de Equipas e selecione "Executar como administrador" se disponível).
+- Desinstalar e reinstalar a aplicação Teams Aplicação
+    - Navegue para a pasta %appdata%\Microsoft\Teams\ no seu computador e elimine todos os ficheiros nesse diretório.
+    - Transfira e instale a [Aplicação Teams](https://www.microsoft.com/microsoft-teams/download-app)e, se possível, instale o Teams como administrador  (clique com o botão direito do rato no instalador do Teams e selecione Executar como administrador se disponível).
 
-Se o cliente das Equipas ainda estiver em queda, pode reproduzir o problema? Em caso afirmativo:
+Se o Teams cliente continuar a falhar, tente reproduzir o problema. Se possível:
 
-1. Utilize o gravador de passos para capturar os seus passos.
-    - Feche todas as aplicações desnecessárias ou confidenciais.
-    - Lance o Gravador de Passos e reproduza o problema enquanto inicia sessão com a conta de utilizador afetada.
-    - [Recolher os registos das equipas que captam os passos de repro registados.](https://docs.microsoft.com/microsoftteams/log-files) **Nota:** Certifique-se de que captura o endereço de inscrição do utilizador afetado.
-    - Recolher a informação do balde de despejo e/ou fault (Windows). Lançar o Windows Powershell na máquina onde está a ocorrer a falha e executar os seguintes comandos:
+1. Utilize o Gravador de Passos para capturar os seus passos.
+    - Feche TODAS as aplicações desnecessárias ou confidenciais.
+    - Instalar o Gravador de Passos e reproduzir o problema com a sessão iniciada com a conta de utilizador afetada.
+    - [Recolha os registos das equipas que capturam os passos de reprovação gravados](/microsoftteams/log-files). **Nota:** certifique-se de que captura o endereço de assinatura do utilizador afetado.
+    - Recolha as informações do inserção de informações e/ou Falha do Windows). Incorra Windows PowerShell no máquina onde a falha está a ocorrer e execute os seguintes comandos (após cada comando, prima Enter):
 
-        `
-        PS C:\Users\user01> cd $env:temp
-        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
-        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
-        `
+    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`
+    `notepad .\FaultBuckets.txt`
     
-2. Anexe o ficheiro ao seu caso de suporte.
+2. Após o ficheiro de texto ser gerado e aparecer no ecrã, guarde o ficheiro e anexe-o ao pedido de serviço. 

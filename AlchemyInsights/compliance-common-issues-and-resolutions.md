@@ -12,29 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 010d9e6b3a4bedb5b8649ece6eaa3d857883c729
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: b6d2ff60548cfb578b30890cba069f67515e9c05
+ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470214"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53195495"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Problemas conhecidos de Conformidade e resoluções
 
-Para ajuda com a visualização de alertas, [consulte Políticas de alerta no centro de segurança e conformidade.](/microsoft-365/compliance/alert-policies.md)
+Para ajuda com a visualização de alertas, [consulte Políticas de alerta no centro de segurança e conformidade.](/microsoft-365/compliance/alert-policies)
 
 Seguem-se alguns tópicos frequentemente solicitados relacionados com conformidade:
 
-- Como configurar um Arquivo e mensagens para que não sejam automaticamente movidos para arquivamento: é necessário [Ativar um Arquivo, Configurar uma Política de Arquivo](/microsoft-365/compliance/enable-archive-mailboxes.md), e [Aumentar o Tamanho do Arquivo](/microsoft-365/compliance/enable-unlimited-archiving.md).
+- Como configurar um Arquivo e mensagens para que não sejam automaticamente movidos para arquivamento: é necessário [Ativar um Arquivo, Configurar uma Política de Arquivo](/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes), e [Aumentar o Tamanho do Arquivo](/microsoft-365/compliance/enable-unlimited-archiving).
 
-- Políticas de Retenção: questões relacionadas com o [Cálculo da Idade para Retenção ](/exchange/security-and-compliance/messaging-records-management/retention-age.md), [Adicionar ou remover Etiquetas de Retenção](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags.md), [Usar Políticas de Retenção no Centro de Conformidade e Segurança ](/microsoft-365/compliance/retention-policies.md) para reter ou eliminar conteúdos.
+- Políticas de Retenção: questões relacionadas com o [Cálculo da Idade para Retenção ](/exchange/security-and-compliance/messaging-records-management/retention-age), [Adicionar ou remover Etiquetas de Retenção](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags), [Usar Políticas de Retenção no Centro de Conformidade e Segurança ](/exchange/security-and-compliance/messaging-records-management/create-a-retention-policy) para reter ou eliminar conteúdos.
 
-- Configurar a Deteção de Dados Eletrónicos e Pesquisas e Exportação de Conteúdos: [Pesquisa de Conteúdos](/microsoft-365/compliance/search-for-content.md) e [Exportar Resultados de Pesquisa](/microsoft-365/compliance/export-search-results.md).
+- Configurar a Deteção de Conteúdo e a Exportação e a Pesquisa de Conteúdo: [Pesquisa de Conteúdos](/microsoft-365/compliance/content-search) [e Exportar Resultados da Pesquisa.](/microsoft-365/compliance/export-search-results)
 
-- Auditoria no O365: [Procurar Registo de Auditoria no O365](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance.md).
+- Auditoria no O365: [Procurar Registo de Auditoria no O365](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
 
-- Prevenção de Perdas de Dados (DLP) : Consulte [Descrição geral da Prevenção de Perdas de Dados (DLP)](/microsoft-365/compliance/data-loss-prevention-policies.md) para mais informações.
+- Prevenção de Perda de Dados (DLP): Consulte o artigo Visão Geral da Prevenção de Perda de Dados [(DLP)](/microsoft-365/compliance/data-loss-prevention-policies) para obter mais informações.
  
-- Etiquetas de sensibilidade: Para obter mais informações, consulte [Criar e configurar etiquetas de sensibilidade e suas políticas](/microsoft-365/compliance/create-sensitivity-labels.md).
+- Etiquetas de sensibilidade: para saber mais, consulte Criar e configurar etiquetas de sensibilidade e as suas [políticas.](/microsoft-365/compliance/create-sensitivity-labels)
+
+- Ver políticas de alertas: [consulte Políticas de alerta no Centro de Conformidade do Microsoft 365](/microsoft-365/compliance/alert-policies).
+
+- Permissões do centro de complicação: consulte [Permissões na vista Centro de Conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
 
 **Nota**: para uma resposta mais específica sobre um problema de conformidade, reformule ligeiramente a sua questão e inclua quaisquer erros que esteja a ver ou funcionalidades que esteja a usar.

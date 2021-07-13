@@ -1,7 +1,7 @@
 ---
-title: Erros de upload do Microsoft Stream
-ms.author: cmcatee
-author: cmcatee-MSFT
+title: Erros de carregamento do Microsoft Stream
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5094"
-ms.openlocfilehash: d6f0f9cc6a65be912b72431b4b4824011faef0f2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 20c18e5515d9500f8821953be58422763d3ea0e0
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833914"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389228"
 ---
-# <a name="microsoft-stream-upload-errors"></a><span data-ttu-id="394ad-102">Erros de upload do Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="394ad-102">Microsoft Stream upload errors</span></span>
+# <a name="microsoft-stream-upload-errors"></a><span data-ttu-id="0f7b1-102">Erros de carregamento do Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="0f7b1-102">Microsoft Stream upload errors</span></span>
 
-<span data-ttu-id="394ad-103">Se estiver a receber erros de upload no Microsoft Stream, consulte [erros de upload do Stream](https://docs.microsoft.com/stream/portal-understanding-upload-errors).</span><span class="sxs-lookup"><span data-stu-id="394ad-103">If you are receiving upload errors in Microsoft Stream, please see [Stream upload errors](https://docs.microsoft.com/stream/portal-understanding-upload-errors).</span></span>
+<span data-ttu-id="0f7b1-103">Se estiver a receber erros de carregamento no Microsoft Stream, consulte Erros [de carregamento do stream.](/stream/portal-understanding-upload-errors)</span><span class="sxs-lookup"><span data-stu-id="0f7b1-103">If you are receiving upload errors in Microsoft Stream, please see [Stream upload errors](/stream/portal-understanding-upload-errors).</span></span>

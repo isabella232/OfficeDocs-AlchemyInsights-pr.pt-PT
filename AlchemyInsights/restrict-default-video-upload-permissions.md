@@ -1,7 +1,7 @@
 ---
-title: Restringir permissões de upload de vídeo predefinidos
-ms.author: cmcatee
-author: cmcatee-MSFT
+title: Restringir permissões de carregamento de vídeo predefinida
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002650"
 - "5101"
-ms.openlocfilehash: f6622deada7e652bdad86cd95f1564f22634e7b8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3424d8c4a0e3f34e4b2708eec1c7b2c31ee8c428
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835678"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389084"
 ---
-# <a name="restrict-default-video-upload-permissions"></a>Restringir permissões de upload de vídeo predefinidos
+# <a name="restrict-default-video-upload-permissions"></a>Restringir permissões de carregamento de vídeo predefinida
 
-Quando os utilizadores fazem o upload de um vídeo para o Microsoft Stream através do portal Stream fora do contexto de um grupo ou canal de grupo, a caixa de verificação "Permitir que todos na sua empresa vejam este vídeo" é verificada por padrão. Isto disponibiliza o vídeo para ser visto por todos na sua empresa.
+Quando os utilizadores carregam um vídeo para o Microsoft Stream através do portal do Stream fora do contexto de um canal de grupo ou de grupo, a caixa de verificação "Permitir que todos os utilizadores da sua empresa vejam este vídeo" está seleda por predefinição. Isto disponibiliza o vídeo para ser visto por todas as pessoas na sua empresa.
 
-- [Desconte as permissões de upload de vídeo predefinidos](https://docs.microsoft.com/stream/default-video-permissions)
+- [Predefinir as permissões de carregamento de vídeos](/stream/default-video-permissions)

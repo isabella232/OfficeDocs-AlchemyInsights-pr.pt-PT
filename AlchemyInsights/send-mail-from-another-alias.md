@@ -1,7 +1,7 @@
 ---
-title: Enviar correio de outro pseudónimo
-ms.author: cmcatee
-author: cmcatee-MSFT
+title: Enviar e-mails a partir de outro alias
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -14,17 +14,17 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: dd41ecaf53d926880c5949892f7751906b549b8a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8bb9d2667ca8d08120b0d4dd7dc8f362212c39e6
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823690"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389264"
 ---
-# <a name="send-email-from-an-alias-or-secondary-address"></a>Envie e-mail a partir de um pseudónimo ou endereço secundário
+# <a name="send-email-from-an-alias-or-secondary-address"></a>Enviar e-mails a partir de um alias ou endereço secundário
 
-O Microsoft 365 não suporta atualmente o envio de e-mails a partir de um pseudónimo ou endereço de e-mail secundário. Os pseudónimos de e-mail podem ser usados apenas para receber e-mails. Se quiser enviar e-mail a partir de outro endereço de e-mail, tem de criar uma caixa de correio partilhada. A caixa de correio partilhada dar-lhe-á outro endereço de e-mail, sem necessidade de outra licença.
+Microsoft 365 atualmente não suporta o envio de e-mails a partir de um alias ou endereço de e-mail secundário. Os aliases de e-mail podem ser utilizados apenas para receber e-mails. Se quiser enviar e-mails a partir de outro endereço de e-mail, tem de criar uma caixa de correio partilhada. A caixa de correio partilhada dar-lhe-à outro endereço de e-mail, sem que para isso requeira outra licença.
   
-- [Vá aqui para criar uma caixa de correio partilhada](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [Aqui pode criar uma caixa de correio partilhada](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-Também pode ler o artigo [Criar uma caixa de correio partilhada](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) que lhe dirá tudo o que precisa de saber sobre caixas de correio partilhadas, incluindo como usá-las.
+Também pode ler o [artigo](/microsoft-365/admin/email/create-a-shared-mailbox) Criar uma caixa de correio partilhada que lhe irá dizer tudo o que precisa de saber sobre caixas de correio partilhadas, incluindo como as utilizar.

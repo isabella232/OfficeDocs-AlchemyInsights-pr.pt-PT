@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 69beadfaaa9303ddb4b89d288da38b7f7f9a925c
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543660"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532194"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Como criar uma etiqueta de sensibilidade
 
-1. Vá para o centro Office 365 de & de Conformidade e >  >  **etiquetas de Sensibilidade à Classificação.**
+1. Vá para o Centro Microsoft 365 de Conformidade > **Etiquetas de Proteção**  >  **de Informações.**
 
 1. **Selecione + Criar uma** etiqueta para iniciar o Assistente de Nova etiqueta de sensibilidade.
 

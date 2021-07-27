@@ -1,42 +1,41 @@
 ---
-title: Sincronizar a imagem do perfil de um utilizador
+title: Sincronização da imagem de perfil de um utilizador
 ms.author: pebaum
 author: pebaum
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 2bda15b7ebe4f3b71669b961a6e5bf36fd6260a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5b55402dc3c6eb4826451ee2b4076db26773318
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673797"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532158"
 ---
-# <a name="sync-a-users-profile-picture"></a>Sincronizar a imagem do perfil de um utilizador
+# <a name="sync-a-users-profile-picture"></a>Sincronização da imagem de perfil de um utilizador
 
-Pode adicionar ou alterar a sua foto de perfil no Microsoft 365 a partir de Office.com, ou durante a utilização de aplicações da Microsoft no seu computador ou num browser no seu telemóvel. A tua foto aparece em todo o lado há um círculo de fotos de perfil na Microsoft 365.
+Pode adicionar ou alterar a sua fotografia de perfil no Microsoft 365 a partir Office.com ou enquanto utiliza as aplicações da Microsoft no seu computador ou num browser no seu telemóvel. A sua fotografia aparece em todos os locais onde existe um círculo de fotografia de perfil Microsoft 365.
 
-Para adicionar a sua foto de perfil à Microsoft 365 para negócios:
+Para adicionar a sua fotografia de perfil ao Microsoft 365 para empresas:
 
-1. Encontre uma foto que pretende utilizar e guarde-a no seu computador, OneDrive ou em outro local onde possa chegar.
+1. Localiza uma fotografia que pretende utilizar e armazena-a no seu computador, OneDrive ou outra localização à onde possas ir.
 
-2. Inscreva-se no Microsoft 365 com a sua conta de trabalho ou escola [na office.com](https://www.office.com).
+2. Inscreva-Microsoft 365 com a sua conta escolar [ou](https://www.office.com)office.com .
 
 3. Selecione o círculo no canto superior direito da página que mostra as suas iniciais ou um ícone de uma pessoa.
 
-4. No painel de contas My, selecione o círculo que mostra as suas iniciais ou um ícone de uma pessoa. Mude a sua foto no pop-up que aparece.
+4. No painel As minhas contas, selecione o círculo que mostra as suas iniciais ou o ícone de uma pessoa. Altere a sua fotografia na janela pop-up que é exibida.
 
-**Nota** Se já fez o upload de uma imagem, talvez queira tentar selecionar o azulejo SharePoint ou OneDrive para voltar a sincronizar essa imagem.
+**Nota:** se uma imagem de perfil de utilizador for diferente no SharePoint em comparação com outras aplicações da Microsoft, o utilizador deverá concluir estes passos:
 
-Se uma imagem de perfil dos utilizadores aparecer diferente no SharePoint em comparação com outras aplicações da Microsoft, o utilizador complete estes passos:
+1. Abra uma sessão de browser privada (InPrivate/incognito).
+1. Vá para [o Microsoft Office 365](https://www.office.com).
+1. Selecione o ícone do SharePoint.
+1. Navegue para um site ou página onde a fotografia não está atualizada ou para uma página em que o utilizador está incluído numa Peça Web Pessoas.
 
-1. Abra uma sessão de navegador privada (InPrivate/incógnito).
-2. Aceda a [https://www.office.com](https://www.office.com/).
-3. Selecione o ícone SharePoint.
-4. Navegue para um site ou página onde a foto não é atualizada, ou uma página onde o utilizador está incluído numa Parte Web do Povo.
-
-Para obter mais informações, consulte [informações sobre a sincronização de imagens de perfil na Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).
+Para obter mais informações, consulte [Informações sobre a sincronização de imagens de perfil no Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).
 

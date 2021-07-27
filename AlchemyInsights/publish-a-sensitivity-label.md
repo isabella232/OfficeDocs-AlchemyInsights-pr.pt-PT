@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1db4d15b45ff95a643ceca788667de9fb6a8f4bc
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539655"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532266"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Como publicar uma etiqueta de sensibilidade
 
-1. Vá para o centro Office 365 de & de Conformidade e >  >  **etiquetas de Sensibilidade à Classificação.**
+1. Vá para o Centro Microsoft 365 de Conformidade > **de Etiquetas de Proteção** de  >  **Informações.**
 
-1. Na página Etiquetas de sensibilidade, selecione o separador **Políticas** de etiqueta e, em seguida, selecione **Publicar etiquetas**.
+1. **Selecione + Publicar** etiqueta para iniciar o Assistente de Nova etiqueta de sensibilidade.
 
 1. **Selecione Escolher etiquetas de sensibilidade para publicar**. Selecione as etiquetas que pretende disponibilizar nas aplicações e nos serviços e, em seguida, **selecione Adicionar**.
 

@@ -1,5 +1,5 @@
 ---
-title: Políticas unificadas de retenção no Centro de Conformidade & de Segurança
+title: Políticas de retenção unificada no Centro de Conformidade & Segurança
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a135fae4b6fb7369fd289ecdd5af50935e0c219e
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669222"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630152"
 ---
-# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Políticas unificadas de retenção no Centro de Conformidade & de Segurança
+# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Políticas de retenção unificada no Centro de Conformidade & Segurança
 
-As políticas de retenção permitem-lhe gerir os conteúdos da sua organização utilizando as definições de retenção e eliminação. Pode criar políticas unificadas de retenção no Office 365 Security & Compliance Center ou no Microsoft 365 Compliance Center. 
+As políticas de retenção permite-lhe gerir os conteúdos da sua organização utilizando as definições de retenção e eliminação. Pode criar políticas de retenção unificada no Centro de Conformidade Office 365 segurança & no Centro de Conformidade Microsoft 365 de Conformidade. 
 
-1. No [Centro de Conformidade & de Segurança,](https://go.microsoft.com/fwlink/p/?linkid=2077143)selecione Retenção de **Governação da Informação**  >  **Retention**  >  **+Criar**. <br/>
-    No [Microsoft 365 Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077149)selecione **Policies**  >  **Data > Retention > + Nova política de retenção.**
-2. Adicionar **Nome,** **Definições**e **Escolher locais**.
-3. Reveja as suas definições e, em seguida, **selecione Criar esta política** ou Guardar para mais **tarde**.  
+1. No Centro [de Conformidade & Segurança](https://go.microsoft.com/fwlink/p/?linkid=2077143), selecione Retenção da   >  **governação de informação**  >  **+Criar**. <br/>
+    No Centro [Microsoft 365 Conformidade, selecione](https://go.microsoft.com/fwlink/p/?linkid=2077149) **Políticas** Data  >  **> Retenção > + Nova política de retenção.**
+2. Adicione **o Nome,** **Definições** e **Selecionar localizações.**
+3. Reveja as suas definições e, em seguida, **selecione Criar esta política** **ou Guardar para mais tarde.**  
       
-Para obter mais detalhes sobre as políticas de retenção de conteúdos como o email Exchange, OneDrive, SharePoint e Teams, consulte [o resumo das políticas de retenção.](https://go.microsoft.com/fwlink/?linkid=2127785)  
+Para obter mais detalhes sobre políticas de retenção para conteúdos como e-mails Exchange, OneDrive, SharePoint e Teams, consulte o artigo Visão geral das políticas de [retenção.](https://go.microsoft.com/fwlink/?linkid=2127785)  
     
-Se estiver a utilizar políticas de retenção lado a lado no Centro de Administração Exchange e no Centro de Conformidade & de Segurança, consulte esta recomendação para [Utilizar uma política de retenção em vez de funcionalidades mais antigas.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features)  
+Se estiver a utilizar políticas de retenção lado a lado no centro de administração do Exchange e no Centro de Conformidade do & de Segurança, consulte esta recomendação para Utilizar uma política de [retenção](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features)em vez de funcionalidades mais antigas.  
     
-Para obter informações específicas sobre a retenção de equipas, consulte [as políticas de retenção em Equipas.](https://docs.microsoft.com/microsoftteams/retention-policies)
+Para obter informações específicas sobre Teams retenção, consulte Políticas [de retenção Teams](/microsoftteams/retention-policies).

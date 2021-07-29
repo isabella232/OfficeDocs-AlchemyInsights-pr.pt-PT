@@ -1,5 +1,5 @@
 ---
-title: 1488-perform-eDiscovery-and-content-searchs
+title: 1488-perform-eDiscovery-and-content-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,30 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
-ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
+ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49668525"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630224"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Como realizar Pesquisas de Conteúdo e pesquisas eDiscovery
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Como efetuar Pesquisas de Conteúdo e pesquisas de Deteção de Conteúdo
 
-**Para realizar uma pesquisa de conteúdo:**
+**Para efetuar uma pesquisa de conteúdo:**
 
-1. Vá ao [Centro de Conformidade & de Segurança](https://protection.office.com) e inscreva-se.
-2. Clique **em Pesquisar > pesquisa de conteúdo.**
-3. Clique **em Nova pesquisa** para criar uma nova pesquisa.
+1. Vá para o Microsoft 365 de Conformidade e inscreva-se.
+2. **Selecione Procurar > Pesquisa de Conteúdos**.
+3. **Selecione Nova** pesquisa para criar uma nova pesquisa.
 4. Introduza as condições de pesquisa necessárias, incluindo palavras-chave e localizações de conteúdo.
-5. Clique **em Guardar & executar** para nomear a pesquisa, iniciá-la e, em seguida, visualizar os resultados.
+5. **Selecione Guardar & para dar** um nome à pesquisa, iniciá-la e, em seguida, pré-visualize os resultados.
 
 > [!NOTE]
-> No **Centro de Conformidade M365,** em **Soluções,** escolha expandir **a eDiscovery** e selecione a ferramenta eDiscovery desejada.
+> Em **Soluções Microsoft 365 Centro de Conformidade**, expanda a Deteção de Dados Digitais  >   **e** selecione a ferramenta de Deteção de Dados Digitais pretendida.
 
-Para obter instruções detalhadas sobre pesquisas de conteúdos, resultados de exportação e criação de casos eDiscovery para guardar dados, consulte os casos [de Pesquisa de Conteúdos](https://docs.microsoft.com/microsoft-365/compliance/content-search) e [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
+Para obter instruções detalhadas sobre pesquisas de conteúdos, exportar resultados [](/microsoft-365/compliance/content-search) e criar casos de Deteção de Dados Online para armazenar dados, consulte o trmls casos de Pesquisa de Conteúdos e de Deteção [de Dados Online.](/microsoft-365/compliance/ediscovery-cases)
 
 **Mais informações:**
 
-- Para obter mais informações sobre ferramentas eDiscovery na Microsoft 365, consulte [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
-- Conheça as permissões, requisitos e limites necessários para a realização de pesquisas eDiscovery de Permissões necessárias para pesquisas e [requisitos e limites de](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) .
-- Se estiver a resolver problemas de problemas de eDiscovery, consulte [problemas comuns de resolução de problemas](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) e [a investigação de itens parcialmente indexados](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
+- Para obter mais informações sobre as ferramentas de Deteção de Dados Microsoft 365, consulte [a Deteção de Dados Online.](/microsoft-365/compliance/ediscovery)
+- Saiba mais sobre as permissões, requisitos e limites necessários para efetuar pesquisas de Deteção de Dados Técnicos a partir de Permissões necessárias para [pesquisas e](/microsoft-365/compliance/assign-ediscovery-permissions) requisitos e limites da Deteção [de Dados Técnicos.](/microsoft-365/compliance/limits-for-content-search)
+- Se estiver a remoção de problemas da Deteção de Dados Digitais, consulte o trso de Remoção de Problemas comuns [e](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) investigar itens [parcialmente indexados.](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)

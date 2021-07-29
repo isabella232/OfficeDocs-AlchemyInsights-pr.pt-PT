@@ -1,5 +1,5 @@
 ---
-title: Identificar excluir eventos de mensagens em registos de auditoria
+title: Identificar eventos de eliminação de mensagens em registos de auditoria
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,27 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: bc78076706aee15a3133c4b1a89064591f790b58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7dd9c98bd45c29702fbc6cc14bf82bf7bce7d89d
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696524"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630080"
 ---
-# <a name="audit-logs-for-deleted-email-messages"></a>Registos de auditoria para mensagens de correio de correio de correio apagados
+# <a name="audit-logs-for-deleted-email-messages"></a>Auditar registos de mensagens de e-mail eliminadas
 
-A partir de janeiro de 2019, a Microsoft está a ligar a auditoria da caixa de correio por padrão. Caso contrário, para rever os eventos de mensagens para um utilizador específico, é necessário ativar manualmente as ações de eliminação para auditoria. Se o registo de auditoria da caixa de correio já estiver ativado para a sua organização ou para o utilizador específico, siga os passos abaixo.
+A partir de janeiro de 2019, a Microsoft atale o registo de auditoria de caixa de correio por predefinição. Caso contrário, para rever os eventos de eliminação de mensagens de um utilizador específico, tem de ativar manualmente as ações de eliminação para auditoria. Se o registo de auditoria de caixa de correio já estiver ativado para a sua organização ou para o utilizador específico, siga os passos abaixo.
 
-1. Faça login no [Microsoft 365 Security & Compliance Center](https://protection.office.com/)
+1. Iniciar sessão no Centro [Microsoft 365 Conformidade](https://protection.office.com/)
 
-2. Clique em **Pesquisar e Investigar** e selecione Audit Log **Search**.
+2. Clique em **Pesquisa e Investigação e selecione** Pesquisa de Registo de **Auditoria**.
 
-3. Selecione o intervalo de datas nos campos **data de início** e **fim.** Especifique o nome de utilizador para o utilizador que pretende investigar (o utilizador que eliminou os itens). No campo **Atividades,** **selecione mensagens eliminadas da pasta de itens eliminados** e **mensagens movidas para pasta de Itens Eliminados**.
+3. Selecione o intervalo de **datas nos campos Data de início** e Data **de** fim. Especifique o nome de utilizador do utilizador que pretende investigar (o utilizador que eliminou os itens). No campo **Atividades, selecione** **Mensagens** eliminadas da pasta Itens Eliminados e Mensagens movidas para a **pasta Itens Eliminados**.
 
-4. Clique **em Pesquisar**.
+4. Clique **em Procurar**.
 
-Nos resultados, selecione um registo de auditoria. No voo de informação, clique em **Mais Informações.** Informações adicionais sobre o item eliminado (por exemplo, a linha de assunto e a localização do item quando foi eliminado) são apresentadas no campo **AffectedItems.** A propriedade **ClientInfoString** mostrará se a eliminação ocorreu no Outlook, Outlook na web (anteriormente conhecida como Outlook Web App), ou qualquer outro dispositivo.
+Nos resultados, selecione um registo de auditoria. Na panfleto de detalhes, clique **em Mais Informações.** As informações adicionais sobre o item eliminado (por exemplo, o assunto da linha e a localização do item quando foi eliminado) são **apresentadas** no campoItens Afetados. A **propriedade ClientInfoString** irá mostrar se a eliminação ocorreu no Outlook, Outlook na Web (anteriormente conhecido como Outlook Web App) ou em qualquer outro dispositivo.
 
-Para obter mais informações, consulte [Determineing quem criou o reencaminhamento de e-mail para uma caixa de correio](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
+Para obter mais informações, consulte Determinar [quem configurar o receção de e-mails para uma caixa de correio.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
 
-**Nota:** Não é possível recuperar itens eliminados utilizando a função de registo de auditoria. Para obter mensagens eliminadas no Outlook na web, consulte [Recuperar itens eliminados na App Web do Outlook](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
+**Nota:** não pode obter itens eliminados com a funcionalidade de registo de auditoria. Para obter mensagens eliminadas no Outlook na Web, consulte Recuperar [itens eliminados no Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

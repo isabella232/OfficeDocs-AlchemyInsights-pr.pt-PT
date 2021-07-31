@@ -1,9 +1,10 @@
 ---
-title: Microsoft 365 para sem fins lucrativos - recusou
+title: Microsoft 365 para organizações sem fins lucrativo - recusado
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,15 +15,15 @@ ms.custom:
 - "343"
 - "1500010"
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: b785243902b3e0ccbba14164ca6f19ab754beb9e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5fb62efe4ec3e2336e42ddadb4e4f2c8ec0ca43d
+ms.sourcegitcommit: 2bf484116c1dc7032f75275a7f7e4b1554b080e1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810711"
+ms.lasthandoff: 07/30/2021
+ms.locfileid: "53663251"
 ---
-# <a name="microsoft-365-for-nonprofits---declined"></a>Microsoft 365 para sem fins lucrativos - recusou
+# <a name="microsoft-365-for-nonprofits---declined"></a>Microsoft 365 para organizações sem fins lucrativo - recusado
 
-Revimos o seu pedido e determinámos que esta organização não é elegível como Organização Sem Fins Lucrativos da Microsoft.
+Analisámos o seu pedido e determinámos que esta organização não é elegível como uma Organização Sem Fins Lucrativos Elegível da Microsoft.
   
-Para adquirir o Office 365 comercialmente, consulte [as ofertas disponíveis.](https://portal.office.com/AdminPortal/Home)
+Para comprar Office 365 comercialmente, consulte as [ofertas disponíveis.](https://portal.office.com/AdminPortal/Home)

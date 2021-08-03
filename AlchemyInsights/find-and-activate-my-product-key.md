@@ -1,8 +1,10 @@
 ---
-title: Microsoft Open License Program
+title: Programa Microsoft Open License
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviwer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: bbe0ee6718e470e5d1d309a6e87f5312ef806599
-ms.sourcegitcommit: 84f0aebdb278703f642a0c33fe260e3aee849be9
+ms.openlocfilehash: 61d2c00657cb6f5f7955adf04142d0b072050557
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51217944"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688877"
 ---
-# <a name="microsoft-open-license-program"></a>Microsoft Open License Program
+# <a name="microsoft-open-license-program"></a>Programa Microsoft Open License
 
-Se comprou o Microsoft 365 para negócios através de um [Programa de Licenças Microsoft Open,](https://go.microsoft.com/fwlink/p/?LinkID=613298)é assim que encontra e ativa a chave do produto.
+Se comprou o Microsoft 365 para empresas através de um [Programa de Licenciamento Open License](https://go.microsoft.com/fwlink/p/?LinkID=613298)da Microsoft, eis como pode encontrar e ativar a sua chave de produto.
 
-1. Depois de comprar uma chave a um parceiro Microsoft 365, verifique a sua caixa de entrada para obter um e-mail da Microsoft que contenha uma ligação de ativação.
-
-    > [!NOTE]
-    > O e-mail é enviado à pessoa apresentada na lista como administrador online no contrato de licenciamento em volume. Se não tiver a certeza de quem é o administrador online, pergunte ao seu parceiro Microsoft 365.
-1. Siga o link no e-mail para iniciar sômbro com o seu trabalho ou conta escolar, aceite o contrato de licença Open e renove a subscrição. Para uma passagem passo a passo, descarregue o guia PDF, [Ative Serviços Online: Subscrição Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkId=618100).
+1. Depois de comprar uma chave a um parceiro Microsoft 365, verifique se a sua caixa de entrada contém um e-mail da Microsoft que contenha uma ligação de ativação.
 
     > [!NOTE]
-    > Os clientes licenciados em volume também podem optar por ativar subscrições no [Centro de Serviço de Licenciamento de Volume.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Para saber como, descarregue o guia PDF, [Ative Online Services no Centro de Serviços de Licenciamento de Volume.](https://go.microsoft.com/fwlink/p/?LinkId=618096)
+    > O e-mail é enviado à pessoa apresentada na lista como administrador online no contrato de licenciamento em volume. Se não tiver a certeza de quem está designado como administrador online, pergunte ao seu Microsoft 365 parceiro.
+1. Siga a ligação no e-mail para entrar com a sua conta escolar ou profissional, aceite o contrato de licença Abrir e renove a subscrição. Para uma passo passo a passo, transfira o guia PDF, [Ativar Serviços Online: Microsoft 365 Subscrição](https://go.microsoft.com/fwlink/p/?LinkId=618100).
+
+    > [!NOTE]
+    > Os clientes de licenciamento em volume também podem optar por ativar subscrições no Centro de Serviço de [Licenciamento em Volume.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Para saber como, transfira o guia pdf, Active Online Services no Centro de [Serviço de Licenciamento em Volume.](https://go.microsoft.com/fwlink/p/?LinkId=618096)

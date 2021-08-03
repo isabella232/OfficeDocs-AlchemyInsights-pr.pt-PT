@@ -1,9 +1,10 @@
 ---
-title: Escritório 365 para planos governamentais e preços
+title: Office 365 para Planos e preços para Governo
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,20 +12,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 05c047f9ca732dcb99ba57314bb591baa5c64431
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 47cde26b927f46e769957d8f490208eb2e71d216
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829171"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688445"
 ---
-# <a name="office-365-government-plans"></a>Gabinete 365 Planos do Governo
+# <a name="office-365-government-plans"></a>Office 365 Administração Pública planos
 
-Os planos do Governo dos EUA 365 são projetados para as necessidades únicas de organizações governamentais americanas. Eles fornecem todas as funcionalidades e capacidades dos serviços do Office 365 numa comunidade de nuvem governamental segmentada que permite que as organizações cumpram os padrões de conformidade e segurança dos EUA.
+Office 365 Os planos para o Governo dos EUA foram concebidos de forma a que se deparem com as necessidades únicas das organizações governamentais dos ESTADOS Unidos. Fornecem todas as funcionalidades e funcionalidades dos Office 365 numa comunidade governamental segmentada que permite às organizações cumprirem os padrões de segurança e conformidade dos EUA.
   
 - [Rever os planos do Governo](https://products.office.com/government/compare-office-365-government-plans)
 
-- [Compare todas as subscrições da Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Comparar todas Microsoft 365 subscrições](https://products.office.com/business/compare-more-office-365-for-business-plans)

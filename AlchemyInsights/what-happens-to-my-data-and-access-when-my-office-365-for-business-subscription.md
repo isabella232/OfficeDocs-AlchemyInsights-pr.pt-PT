@@ -1,8 +1,9 @@
 ---
-title: O que acontece aos meus dados e acesso quando o meu Microsoft 365 para subscrição de negócios termina?
+title: O que acontece aos meus dados e acesso quando a minha subscrição Microsoft 365 para empresas termina?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 5861aa9b952b571b620dca1d56adef7cc0fa420c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 865056484b449f1dd33b595eec9f3cb740536ba0
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668934"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688265"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>O que acontece aos meus dados e acesso quando o meu Microsoft 365 para subscrição de negócios termina?
+# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>O que acontece aos meus dados e acesso quando a minha subscrição Microsoft 365 para empresas termina?
 
-Se a sua subscrição terminar , quer porque expira, quer porque decide cancelar — o acesso a serviços, aplicações e dados do cliente passam por vários estados antes de a subscrição ser totalmente desligada ou  *desprovisionada*  . Se tiver conhecimento desta progressão, estará melhor equipado para devolver a sua subscrição a um estado ativo antes que seja tarde demais ou - se estiver a sair da Microsoft - faça o back up dos seus dados antes de ser eliminado.
+Se a sua subscrição terminar porque expirou ou porque decidiu cancelá-la, o seu acesso aos serviços, aplicações e dados do cliente passam por vários estados antes de a subscrição ser completamente desligada ou *desaprovisionada.* Se estiver consciente desta progressão, estará melhor preparado para renovar a sua subscrição antes que seja tarde demais ou, se estiver a deixar a Microsoft, fazer uma segurança dos dados antes de estes poderem ser eliminados.
   
-Antes de a subscrição chegar efetivamente à data de validade, tem algumas opções para **gerir a faturação recorrente para a subscrição.**
+Antes de a subscrição atingir realmente a data de expiração, tem algumas opções para Gerir a faturação periódtica da **subscrição.**
   
-- Se **a faturação recorrente** já está ligada, não tens de tomar nenhuma ação. A sua subscrição será faturada na data **de faturação recorrente,** e será cobrado por mais um ano ou mês, dependendo da sua frequência de faturação atual. Se por alguma razão tiver desligado **a faturação recorrente,** pode sempre [voltar a ligar a faturação recorrente.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)
+- Se **a faturação recorrente** já estiver ativada, não precisa de fazer nada. A sua subscrição será faturada na data de faturação recorrente e ser-lhe-á cobrado mais um ano ou mês, dependendo da sua frequência de faturação atual.  Se, por algum motivo, tiver desativou a faturação recorrente, pode sempre reativou a faturação [periódia.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on) 
 
-- Se for cliente de licenciamento de volume aberto com uma subscrição pré-paga de um ano, contacte o seu parceiro para comprar uma nova chave de produto. Receberá instruções por e-mail para ativar a sua chave no [Centro de Assistência de Licenciamento de Volume](https://go.microsoft.com/fwlink/p/?LinkID=282016). Para aprender a encontrar um novo parceiro, ou o parceiro com quem trabalhou no passado, consulte encontre o [seu parceiro microsoft 365 ou revendedor](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).
+- Se for um cliente de Licenciamento Open Volume com uma subscrição pré-paga de um ano, contacte o seu parceiro para comprar uma nova chave de produto. Receberá instruções por e-mail para ativar a sua chave no Centro de Serviço de [Licenciamento em Volume.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Para saber como encontrar um novo parceiro ou o parceiro com quem trabalhou no passado, consulte Encontrar o seu parceiro [Microsoft 365 ou revenda](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).

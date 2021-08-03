@@ -1,8 +1,9 @@
 ---
-title: Subscrição por defeito de renovação
+title: Subscrição de renovação predefinida
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,25 +11,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "3043"
 - "1500012"
-ms.openlocfilehash: 24a3cb1d3600e347af88e422c2c125c096a5d805
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 9bf0273fc2f0ca653750d037f022c5bf367bf23a
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416633"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689309"
 ---
 # <a name="renewing-your-subscription"></a>Renovar a sua subscrição
 
-Se pagar com cartão de crédito ou conta bancária, a faturação recorrente é ligada por defeito. Quando a faturação recorrente estiver em curso, a sua subscrição continuará a ser faturada todos os anos no dia em que se inscreveu. Pode desligá-lo ou voltar a ligá-lo no centro de administração se a sua subscrição estiver ativa.
+Se pagar com cartão de crédito ou através de conta bancária, a faturação periódida está adada por predefinição. Quando a faturação periódia estiver ativada, a sua subscrição continuará a ser faturada todos os anos no dia em que subscreveu. Pode desligá-la ou voltar a atuá-la no centro de administração se a sua subscrição estiver ativa.
 
-Se pré-pagar a sua subscrição com uma chave de produto, a sua subscrição expirará no final do prazo de subscrição. Pode ligar a faturação recorrente e fornecer informações sobre cartão de crédito ou conta bancária para que a sua subscrição continue a ser cobrada todos os anos no dia em que se inscreveu.
+Se tiver pré-pago a sua subscrição com uma chave de produto, a sua subscrição irá expirar no final do período de subscrição. Pode ativar a faturação periódia e fornecer informações de cartão de crédito ou conta bancária para que a sua subscrição continue a ser faturada todos os anos, no dia em que subscreveu.
 
-Para ligar a faturação recorrente:
+Para a ligar a faturação periódia:
 
-1. No centro de administração, vá à página **de Faturação**  >  [dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. No separador **Produtos,** selecione a subscrição que pretende alterar.
-3. Na página de detalhes da subscrição, nas **definições de Subscrição e pagamento,** selecione **Editar faturação recorrente**.
-4. No painel **de definições de faturação recorrentes da Edição,** selecione **On**, **On, but renew once**, or **Desative**.
+1. No centro de administração, vá para a página **Faturação**  >  [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.
+2. No **separador** Produtos, selecione a subscrição que pretende alterar.
+3. Na página de detalhes da subscrição, em Definições **de subscrição** e pagamento, selecione **Editar faturação periódita**.
+4. No painel **Editar definições de faturação** periódita, selecione Ativos, Ativos, mas renove **uma** vez ou **Deslige**.
 5. Seleccione **Guardar**. 

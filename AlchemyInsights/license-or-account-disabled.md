@@ -3,6 +3,7 @@ title: Licença ou conta desativada
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002459"
 - "3764"
-ms.openlocfilehash: 045726996da5b409da9afe0e7b19e3f6675ade8c
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 3ef8cc3b3069629fcc495aa3cd7920d2020b20eb
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544877"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687797"
 ---
 # <a name="license-or-account-disabled"></a>Licença ou conta desativada
 
@@ -30,6 +32,6 @@ Se a sua subscrição expirar, se a mesma tiver sido desativada pela Microsoft o
     > [!NOTE]
     > Se não vir a ação **Reativar esta subscrição,** contacte o suporte.
 3. No painel **Reativar esta subscrição,** selecione um método de pagamento na lista única ou selecione **Adicionar método de pagamento**.
-4. Selecione **Guardar**.
+4. Seleccione **Guardar**.
 
 Para mais informações, consulte [Reativar a sua subscrição](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

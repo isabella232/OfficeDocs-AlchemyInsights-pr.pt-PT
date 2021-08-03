@@ -1,9 +1,10 @@
 ---
-title: Como comprar oferta de educação
+title: Como comprar uma oferta para educação
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
+ms.date: 04/21/2020
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,25 +12,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "328"
 - "369"
 - "1500009"
-ms.openlocfilehash: fa70e88af2e5e964ed78824411ff78cd600d7777
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: a4841ee6d0ae782b310c6a6ef9233675144ff6bd
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489288"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686753"
 ---
-# <a name="how-to-purchase-an-education-offer"></a>Como comprar uma oferta de educação
+# <a name="how-to-purchase-an-education-offer"></a>Como comprar uma oferta para educação
 
 Foi aprovado para o plano Office 365 Educação. Para comprar:
   
-1. No centro de administração, vá à página **de Faturação** \> [dos Seus Produtos.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. No separador **Produtos,** selecione o ensaio para **Estudantes ou Docentes.**
-3. Na página de detalhes da subscrição, na secção **Licença,** selecione **Comprar subscrição paga agora**.
-4. Siga os passos restantes para verificar.
+1. No centro de administração, vá para a página **Faturação** \> [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.
+2. No **separador Produtos,** selecione a versão de avaliação **para Estudantes ou Corpo Docente.**
+3. Na página de detalhes da subscrição, na secção **Licença,** **selecione Comprar subscrição paga agora.**
+4. Siga os restantes passos para finalar a verificação.
 
-Se quiser comprar uma subscrição diferente da sua subscrição de teste, vá à página dos Serviços de Compra **de Faturação.** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) Nos **Planos de Educação,** selecione o plano que deseja.
+Se quiser comprar uma subscrição diferente da sua subscrição  de avaliação, vá para a página Serviços de Compra de \> [Faturação.](https://go.microsoft.com/fwlink/p/?linkid=868433) Em **Planos de Educação**, selecione o plano que pretende.
 
-Para saber mais, consulte [Comprar uma subscrição do seu teste gratuito.](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)
+Para saber mais, consulte [Comprar uma subscrição a partir da sua versão de avaliação gratuita.](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)

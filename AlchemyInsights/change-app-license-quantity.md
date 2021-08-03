@@ -3,6 +3,8 @@ title: Alterar a quantidade de licenças de aplicação
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, micurn
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,18 +12,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9000568"
 - "2425"
-ms.openlocfilehash: 3e892e4754b959851fe82e15ee2f4c1eb355fd32
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1af3d36dead1db10ed3857d2f75b2c16d31c854e
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543156"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687113"
 ---
 # <a name="change-app-license-quantity"></a>Alterar a quantidade de licenças de aplicação
 
-Pode ver ou alterar o número de licenças que tem e atribui-las aos utilizadores no Microsoft 365 de administração.
+Pode ver ou alterar o número de licenças que tem e atribui-las aos utilizadores na centro de administração do Microsoft 365.
 
 ## <a name="to-change-license-quantity"></a>Para alterar a quantidade de licenças
 
@@ -31,7 +34,7 @@ Pode ver ou alterar o número de licenças que tem e atribui-las aos utilizadore
 2. No **separador** Produtos, na **secção Aplicações,** localmente a aplicação que pretende gerir. Selecione os três pontos (mais ações) e, em seguida, **selecione Comprar licenças**.
 3. Se quiser reduzir o número de licenças, na parte superior do painel Comprar **licenças,** selecione **remover licenças.**
 4. Para comprar ou remover  licenças, em Nova quantidade na caixa Total de **licenças,** introduza o número total de licenças que pretende para esta subscrição. Por exemplo, se tiver 100 licenças e quiser adicionar mais cinco, introduza 105. Se quiser remover cinco, introduza 95.
-5. Selecione **Guardar**.
+5. Seleccione **Guardar**.
 
 ## <a name="to-assign-app-licenses"></a>Para atribuir licenças de aplicações
 

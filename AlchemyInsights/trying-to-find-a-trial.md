@@ -1,9 +1,10 @@
 ---
-title: A tentar encontrar um julgamento?
+title: Está à procura de uma versão de avaliação?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,27 +12,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: eb6d6dc4aad5e5b00b34f93211a51ba6edcdbeec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1243139fadb62b17bee217ecdf6e4f977f539a2e
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834706"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685205"
 ---
-# <a name="trying-to-find-a-trial"></a>A tentar encontrar um julgamento?
+# <a name="trying-to-find-a-trial"></a>Está à procura de uma versão de avaliação?
 
-Se quiser experimentar um novo serviço, pode encontrar uma lista de subscrições disponíveis para teste no centro de administração microsoft 365.
+Se quiser experimentar um novo serviço, pode encontrar uma lista de subscrições disponíveis para avaliação no centro de administração do Microsoft 365.
   
-1. No centro de administração, vá à página de serviços de Compra **de Faturação.** \> [](https://go.microsoft.com/fwlink/p/?linkid=868433)
+1. No centro de administração, vá para a página Compras **de** \> [Faturação.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
-2. Selecione a subscrição que satisfaça as suas necessidades e, em seguida,  **selecione Obter teste gratuito**.
+2. Selecione a subscrição que se adele às suas necessidades e, em seguida,  **selecione Obter avaliação gratuita**.
 
     > [!NOTE]
-    > Nem todas as subscrições estão disponíveis como um julgamento. Se não vir o botão **Obter teste gratuito** quando se trata de uma subscrição, isso significa que não está disponível um ensaio.
+    > Nem todas as subscrições estão disponíveis como versão de avaliação. Se não vir o  botão Obter versão de avaliação gratuita ao passar o rato por cima de uma subscrição, isso significa que não está disponível uma versão de avaliação.
   
-3. Pode ser-lhe pedido que introduza um cartão de crédito ou outro método de pagamento para fornecer uma verificação adicional como medida de segurança. Não será acusado por este julgamento gratuito. Manteremos as suas informações de pagamento arquivadas e não as usaremos para qualquer compra sem a sua aprovação.
+3. Poderá ser-lhe pedido que introduza um cartão de crédito ou outro método de pagamento para fornecer uma verificação adicional como medida de segurança. Esta avaliação gratuita não lhe será cobrada. Iremos manter as suas informações de pagamento arquivadas e não as utilizaremos para qualquer compra sem a sua aprovação.
 
-4. Escolha **Tente agora.**
+4. **Selecionar Experimentar agora.**

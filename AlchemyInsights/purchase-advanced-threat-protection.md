@@ -1,8 +1,10 @@
 ---
-title: Comprar Microsoft Defender para o Office 365
+title: Comprar o Microsoft Defender para Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,26 +12,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "9003019"
 - "5758"
-ms.openlocfilehash: 6317ba5b9ba4513d6d92e06b449778aa7614fe28
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 3ad512ae86f68fbaa05501c44de3428e4446e862
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707857"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685565"
 ---
-# <a name="purchase-microsoft-defender-for-office-365"></a>Comprar Microsoft Defender para o Office 365
+# <a name="purchase-microsoft-defender-for-office-365"></a>Comprar o Microsoft Defender para Office 365
 
-O Microsoft Defender para o Office 365 está incluído em certas subscrições, tais como Microsoft 365 E5, Office 365 E5, Office 365 A5 e Microsoft 365 Business Premium. Se a sua subscrição não incluir o Microsoft Defender para o Office 365, pode comprar [o Microsoft Defender para o Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) como complemento a determinada subscrição. Para comprar no centro de administração Microsoft 365:
+O Microsoft Defender Office 365 está incluído em algumas subscrições, como o Microsoft 365 E5, Office 365 E5, Office 365 A5 e Microsoft 365 Empresas Premium. Se a sua subscrição não incluir o Microsoft Defender para Office 365, pode comprar o [Microsoft Defender](/microsoft-365/security/office-365-security/office-365-atp) para Office 365 como um add-on para determinadas subscrições. Para comprar na centro de administração do Microsoft 365:
 
-1. No centro de administração, vá à página de serviços de Compra **de Faturação.**  >  [](https://go.microsoft.com/fwlink/p/?linkid=868433)
-2. Na parte inferior da página de **serviços de Compra,** na secção **Add-ons,** encontre o Microsoft Defender para o addon do Office 365 e selecione **Detalhes**.
-3. Na página de detalhes do produto, selecione **Comprar**.
-4. Se necessário, preencha qualquer outra informação de encomenda. Estas informações podem incluir a seleção da subscrição para a qual o addon é para e o número de utilizadores que irão usá-lo. Quando terminar, **selecione Check-out now**.
-5. Se necessário, reveja as informações de encomenda e preços e, em seguida, selecione **Next**.
-6. Escolha um método de pagamento, ou adicione um novo, em seguida, selecione **Peça**  >  **Ir para Admin Home**.
+1. No centro de administração, vá para a página Compras **de**  >  [Faturação.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+2. Na parte inferior  da página Comprar serviços, na secção **Add-ons,** locale o Microsoft Defender for Office 365 Add-on e selecione **Details.**
+3. Na página de detalhes do produto, **selecione Comprar**.
+4. Se necessário, preencha outras informações da encomenda. Estas informações podem incluir a seleção da subscrição para a qual o mesmo é utilizado e o número de utilizadores que o irão utilizar. Quando terminar, selecione **Dar saída agora**.
+5. Se for necessário, reveja as informações de encomenda e preços e, em seguida, **selecione Seguinte.**
+6. Selecione um método de pagamento ou adicione um novo e, em seguida, selecione **Fazer encomenda** Ir para  >  **a HomePadmin.**
 
-Para atribuir licenças aos utilizadores, consulte [atribuir licenças aos utilizadores.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
+Para atribuir licenças a utilizadores, consulte [Atribuir licenças a utilizadores.](/microsoft-365/admin/manage/assign-licenses-to-users)
 
-Para comprar mais ou remover licenças, consulte [Comprar ou remover Licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Para comprar mais ou remover licenças, consulte [Comprar ou remover Licenças](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).

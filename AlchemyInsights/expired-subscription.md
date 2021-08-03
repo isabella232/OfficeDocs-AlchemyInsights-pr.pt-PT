@@ -3,6 +3,7 @@ title: Subscrição expirada
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: f8e317f5911105e495d17f1242da86fe590651f9
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 23deea0e03b1d9a2208de38d16018a3679e8add3
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544193"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686789"
 ---
 # <a name="expired-subscription"></a>Subscrição expirada
 
@@ -31,7 +33,7 @@ Parece que tem uma ou mais subscrições expiradas. Se quiser continuar com o se
     > [!NOTE]
     > Se não vir a ligação **Reativar esta subscrição, ligue** para o suporte.
 3. No painel **Reativar esta subscrição,** selecione um método de pagamento na lista única ou selecione **Adicionar método de pagamento**.
-4. Selecione **Guardar**.
+4. Seleccione **Guardar**.
 
 Para saber mais, consulte [Reativar a sua subscrição](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 

@@ -1,9 +1,10 @@
 ---
-title: Alterar perfil da Organização
+title: Alterar Perfil da organização
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, tugu
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,19 +12,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9000175"
 - "1714"
-ms.openlocfilehash: 157ad13c6171bd221ca61a29ae2d15281784529e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: be270d66c4c57da67e4af7ff08a63b6d0745b89e
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818551"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685925"
 ---
-# <a name="change-organization-profile"></a>Alterar perfil da Organização
+# <a name="change-organization-profile"></a>Alterar Perfil da organização
 
-Altere o nome da empresa, endereço, informações técnicas de contacto e muito mais no centro de administração no **separador**  >  de perfil organizacional **Definições Org.**  >  [](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)
+Altere o nome da sua empresa, endereço, informações de contacto técnico e muito mais no centro de administração no separador **Definições** Organização Definições perfil  >    >  [organizacional.](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)
 
-Certifique-se de que preenche todos os campos necessários marcados com um * para permitir a poupança das suas alterações.
+Certifique-se de que preenche todos os campos obrigatórios marcados com um * para permitir que guarde as alterações.
 
-[Ver mais informações sobre endereço ou alterações no endereço de faturação](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).
+[Veja mais informações sobre as alterações ao endereço ou ao endereço de faturação.](/microsoft-365/admin/manage/change-address-contact-and-more)

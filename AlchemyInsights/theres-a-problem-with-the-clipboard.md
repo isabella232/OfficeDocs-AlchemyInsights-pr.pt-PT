@@ -1,5 +1,5 @@
 ---
-title: Há um problema com a prancheta.
+title: Existe um problema com a área de transferência
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: 825f19c47ca94b52624934e0c58afaa5d9c0a479
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c8c6d80d6ec4efc77eed254103ffa52be4ab82a825a3902d490f7059708e76e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824662"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908685"
 ---
-# <a name="resolving-excel-clipboard-error"></a>Resolução de erro de área de transferência do Excel
+# <a name="resolving-excel-clipboard-error"></a>Resolver o Excel da área de transferência
 
-Se receber um erro no Excel que diz: "Há um problema com a prancheta, mas ainda pode colar o seu conteúdo dentro deste livro", tente desativar a funcionalidade de Visualização ao Vivo seguindo estes passos:
+Se receber uma mensagem de erro no Excel que diz "Existe um problema com a área de transferência, mas ainda pode colar o seu conteúdo neste livro", experimente desativar a funcionalidade Pré-visualização Ao Vivo ao seguir estes passos:
 
-1. No Excel, clique em  >  **Opções de** Ficheiros.
-3. Na caixa de diálogo **Excel Options,** selecione **General**.
-4. Nas **opções de Interface do Utilizador**, **aclareire a pré-visualização ao vivo**.
+1. No Excel, clique **em Opções** de  >  **Ficheiro**.
+3. Na caixa **Excel de diálogo** Opções, selecione **Geral.**
+4. Em Opções da Interface de Utilizador , **des** limpar **Ativar Pré-visualização Ao Vivo**.
 5. Clique em **OK**.
 6. Reinicie o Excel.

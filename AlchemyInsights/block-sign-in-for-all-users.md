@@ -1,5 +1,5 @@
 ---
-title: Iniciar sindução para todos os utilizadores
+title: Bloquear o acesso de todos os utilizadores
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003536"
 - "6445"
-ms.openlocfilehash: b1596fdf463413a5b6714c48f4097e9552948070
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: 90d29fe284e70959e8e2c85e15667269517dc9c3eaf75688bc4750d8767fa2fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807763"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019267"
 ---
-# <a name="block-sign-in-for-all-users"></a>Iniciar sindução para todos os utilizadores
+# <a name="block-sign-in-for-all-users"></a>Bloquear o acesso de todos os utilizadores
 
-Para impedir que todos assinem no Escritório, siga estes passos:
+Para impedir todos de se inscreverem Office, siga estes passos:
 
-1. No centro de administração, aceda aos [ **Users**  >  **utilizadores Utilizadores Ativos**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-2. Selecione todos os utilizadores clicando na marca de verificação ao lado **do Nome de Exibição** . Certifique-se de que desmarça a conta de administração com a que está a iniciar sessão.
-3. Clique **em "..."** ao lado do estado de inscrição **dos Utilizadores de Exportação**  >  e, **em** seguida, selecione **os utilizadores do Bloco para iniciarem a sessão .** As novas entradas estão bloqueadas imediatamente. Se um utilizador já tiver sido assinado, o utilizador será automaticamente contratado a partir de todos os serviços da Microsoft dentro de 60 minutos.
+1. No centro de administração, vá para Utilizadores [   >  **Ativos.**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
+2. Selecione todos os utilizadores clicando na marca de verificação junto **a Nome a Apresentar.** Certifique-se de que desconfira a conta de administrador com a sua sessão.
+3. Clique **em "..." junto** a **Exportar Estado de** acesso de Edição de Utilizadores  >  **e, em seguida,** selecione Bloquear o acesso dos **utilizadores.** Os novos inscrever-se são bloqueados imediatamente. Se um utilizador já tiver feito a sua assinatura, a sua conta do utilizador será automaticamente desativada em todos os serviços Microsoft dentro de 60 minutos.

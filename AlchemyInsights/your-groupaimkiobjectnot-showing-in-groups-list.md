@@ -1,5 +1,5 @@
 ---
-title: O seu grupo não está a aparecer na lista de Grupos
+title: O seu grupo não é apresentado na lista Grupos
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: 89682fd8e68c5b93b50a5105e568bbc214fc3988
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a9a4cc59288046affe35c9248a3829e3c0b3fa361b5120e47aaeaa34eec7a983
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757491"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907641"
 ---
-# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>O seu grupo "{AimKIObject}" não aparece na lista de Grupos
+# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>O seu grupo "{AimKIObject}" não é apresentado na lista Grupos
 
-O seu grupo de distribuição chamado "{AimKIObject}" foi criado {AimKITimeElapsed} há minutos. Pode levar até 60 minutos antes que o seu novo grupo apareça no centro de administração.
+O seu grupo de distribuição denominado "{AimKIObject}" foi criado há {AimKITimeElapsed} minutos. Pode demorar até 60 minutos até que o seu novo grupo seja apresentado no Centro de administração.
   
-Se pretender adicionar membros ou fazer outras edições agora mesmo, utilize a função Grupos no [Centro de Administração de Intercâmbio](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+Se quiser adicionar membros ou fazer outras edições neste momento, utilize a funcionalidade Grupos no Centro de administração do [Exchange de Administração.](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx)
   
 

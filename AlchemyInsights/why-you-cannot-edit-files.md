@@ -14,27 +14,27 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3020837e8e8dd3b9ff4ada33f23c6118e83c3806
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 819aada39cdb819cb7a4fe30e14e88239c6352ab451eb77ee135307d5dd1cfcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664505"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907821"
 ---
-# <a name="why-cant-i-edit-files"></a>Por que não posso editar ficheiros?
+# <a name="why-cant-i-edit-files"></a>Por que motivo não consigo editar ficheiros?
 
-Veja rapidamente algumas das razões pelas quais [poderá não conseguir editar o ficheiro](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Veja algumas razões pelas quais poderá [não conseguir editar o ficheiro.](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)
 
-Se tiver bibliotecas com colunas ou metadados **de Checkout, Colunas ou** metadados de **validação,** ou quando **o Projeto de Segurança do Item** estiver definido apenas para **utilizadores que possam editar** ou **apenas utilizadores que possam aprovar itens** em Definições de Versão da biblioteca:
+Se tiver bibliotecas com finalização da **compra,** com colunas ou metadados obrigatórios ou **de Validação,** ou quando a Segurança de **Itens** de Rascunho está definida como Apenas os utilizadores que podem **editar** ou apenas os utilizadores que podem aprovar itens na Versão Definições da biblioteca: 
 
-- Para bibliotecas de documentos SharePoint, estes itens serão sincronizados apenas como leitura.
+- Para as bibliotecas de documentos do SharePoint, estes itens serão sincronizados como só de leitura.
 
-- Para as bibliotecas OneDrive, o OneDrive apresentará um ícone de bloqueio (ícone bloqueado por ficheiro OneDrive ) ao lado do estado de sincronização e o utilizador não poderá sincronizar a biblioteca até que as definições mencionadas tenham sido removidas. 
+- Para bibliotecas OneDrive, o OneDrive apresentará um ícone de bloqueio (um ícone de ficheiro bloqueado) junto ao estado de sincronização e o utilizador não conseguirá sincronizar OneDrive biblioteca até que as definições de menções tenham sido removidas. 
 
-Para mais informações sobre ficheiros bloqueados para Word ou Excel, consulte os artigos abaixo.
+Para obter mais informações sobre ficheiros bloqueados para o Word ou Excel, consulte os artigos abaixo.
 
-- [Tenho um erro de "Upload failed" ou "Não podia guardar automaticamente" ao editar um ficheiro do Office](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
+- [Recebi um erro "falha no carregamento" ou "não foi possível guardar automaticamente" durante a edição de um ficheiro do Office](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
 
-- [O ficheiro Excel está bloqueado para edição por outro utilizador](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [O ficheiro do Excel está protegido para edição por outro utilizador](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-- [O ficheiro de palavras está bloqueado para edição por outro utilizador](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [O ficheiro do Word está protegido para edição por outro utilizador](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)

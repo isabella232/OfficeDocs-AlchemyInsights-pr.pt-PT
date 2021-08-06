@@ -1,5 +1,5 @@
 ---
-title: "\"Utilizador desconhecido\" aparece em reuniões ou conversas de equipas"
+title: "\"Utilizador desconhecido\" aparece em reuniões Teams ou conversas"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6655"
 - "9003574"
-ms.openlocfilehash: 22d5fa0087791a9f0139917cd7532fc4a90644e5
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 1074075ede97250888927fe064a6faea456cef1dad7bb35726b2874032ba86b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365248"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019843"
 ---
-# <a name="unknown-user-appears-in-teams-meetings-or-chats"></a>"Utilizador desconhecido" aparece em reuniões ou conversas de equipas
+# <a name="unknown-user-appears-in-teams-meetings-or-chats"></a>"Utilizador desconhecido" aparece em reuniões Teams ou conversas
 
-O utilizador pode ter sido eliminado do Microsoft 365. Neste caso, tente eliminar o utilizador das Equipas.  
+O utilizador poderá ter sido eliminado do Microsoft 365. Neste caso, tente eliminar o utilizador da Teams.  
 
-Tente limpar a seguinte cache quando as equipas estiverem fechadas e, em seguida, reiniciar equipas: `C:\Users\<USER>\AppData\Roaming\Microsoft\Teams`
+Experimente limpar a seguinte cache quando a Teams estiver fechada e, em seguida, reinicie Teams:`C:\Users\<USER>\AppData\Roaming\Microsoft\Teams`
 
-Para obter atualizações sobre este problema, consulte  [O utilizador removido aparece como "Utilizador desconhecido" nas Equipas da Microsoft](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/removed-user-appears-as-unknown).
+Para atualizações sobre este problema, consulte O [utilizador removido aparece como "Utilizador desconhecido" no Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/removed-user-appears-as-unknown).

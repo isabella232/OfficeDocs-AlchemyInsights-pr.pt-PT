@@ -1,5 +1,5 @@
 ---
-title: Atribuir grupos para o papel de AD Azure
+title: Atribuir grupos à função Azure AD
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "7898"
 - "9003230"
-ms.openlocfilehash: feca81fe785bc45e47f6faa876230b5c7701713d
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
-ms.translationtype: MT
+ms.openlocfilehash: 563b1a7c93c9ca64fdea51c57b70fd2132750c4ad8ee15de0c65c9668c9c3c56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885394"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036251"
 ---
-# <a name="assigning-groups-to-azure-ad-role"></a>Atribuir grupos para o papel de AD Azure
+# <a name="assigning-groups-to-azure-ad-role"></a>Atribuir grupos à função Azure AD
 
-Para atribuir um grupo AD Azure com fonte de autoridade em Azure AD a um papel de AD Azure, execute os seguintes passos:
+Para atribuir uma função do Azure AD ao grupo de origem da autoridade no Azure AD, efetue os seguintes passos:
 
-1. Criar um novo grupo - Criar um novo grupo:
+1. Criar um novo grupo - Para criar um novo grupo:
 
-    a. Inscreva-se no centro de administração Azure AD com **funções privilegiadas de administrador** ou permissões **globais de administrador.**
-    b. Selecione **Azure Ative Directory > Groups > Todos os grupos > Novo grupo**.
-    c. Criar o grupo.
+    a. Inscreva-se no centro de administração do Azure AD com permissões **de administrador** privilegiado de funções ou de **administrador global.**
+    b. **Selecione Azure Active Directory > Grupos > Todos os > Grupo Novo.**
+    c. Crie o grupo.
 
-2. Atribua o papel ao grupo durante a criação do grupo ou após a criação do grupo.
+2. Atribuir a função ao grupo durante a criação do grupo ou após a criação do mesmo.
 
-    a. Para atribuir um papel ao grupo no momento da criação do grupo, ligue as **funções de AD Azure** pode ser atribuída ao grupo e criar o grupo.
-    b. Para atribuir um papel ao grupo depois de criado, navegue no separador **de funções atribuído** para o grupo recém-criado e atribua o papel ao grupo.  
+    a. Para atribuir uma função ao grupo na altura da criação de grupos, ativo o botão de alternar Funções do **Azure AD** pode ser atribuído ao grupo e criar o mesmo.
+    b. Para atribuir uma função ao grupo após ter sido criado, navegue para o separador Funções **atribuídas** para o grupo criado recém-criado e atribuir a função ao grupo.  
 
-**Gerir a adesão a um grupo que é atribuído ao papel de Azure AD**
+**Gerir a associação de um grupo atribuído à função Azure AD**
 
-Para evitar a elevação de privilégios, por defeito, apenas administradores privilegiados e administradores globais podem modificar a adesão de um grupo que é atribuído a um papel. Podem, no entanto, optar por designar um proprietário para tal grupo e delegar esta tarefa.
+Para impedir a elevação de privilégios, por predefinição, apenas os administradores de funções privilegiados e os administradores globais podem modificar a associação de um grupo a que está atribuída uma função. No entanto, podem optar por atribuir um proprietário a esse grupo e delegar esta tarefa.
 
-Para obter mais detalhes sobre a atribuição de grupos de nuvem a funções AD Azure, consulte [atribuir uma função de AD ao Cloud Group](https://docs.microsoft.com/azure/active-directory/roles/groups-concept). Para obter mais detalhes sobre as funções de resolução de problemas atribuídos a grupos de nuvem, consulte [as funções de resolução de problemas atribuídas a grupos de nuvem](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting).
+Para obter mais detalhes sobre como atribuir grupos na nuvem a funções do Azure AD, consulte Atribuir funções de AD ao Grupo na [Nuvem.](https://docs.microsoft.com/azure/active-directory/roles/groups-concept) Para obter mais detalhes sobre as funções de remoção de problemas atribuídas a grupos na nuvem, consulte Remoção de funções atribuídas a grupos na [nuvem.](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting)
 
 
 

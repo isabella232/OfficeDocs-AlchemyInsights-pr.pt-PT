@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 8dac2bdc20905cf37fc30317d9b371bfd755f452
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 255dbe35b808b3fe6b5707779251bf3f4a7e1c269c8b6f0ac2cb43ca03c469e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826102"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020203"
 ---
 # <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Não é possível definir ou ver a política AllowSelfServicePurchase
 
 Ao tentar definir ou ver a política AllowSelfServicePurchase, recebe a seguinte mensagem de erro:
 
-*HandleError : Falhou na recuperação da política do produto com a PolicyId 'AllowSelfServicePurchase', ErrorMessage - A ligação subjacente foi encerrada: Ocorreu um erro inesperado num envio.*
+*HandleError: Falha ao obter a política de produto com a PolíticaId 'AllowSelfServicePurchase', ErrorMessage – a ligação subjace foi fechada: ocorreu um erro inesperado num envio.*
 
-Isto pode ser devido a uma versão mais antiga da Segurança da Camada de Transporte (TLS). Para ligar o serviço MSCommerce, é necessário utilizar o TLS 1.2 ou superior.  
+Isto pode ser devido a uma versão anterior do Transport Layer Security (TLS). Para ligar o serviço MSCommerce, tem de utilizar o TLS 1.2 ou um número maior.  
 
-Experimente os seguintes passos para ativar/definir o protocolo TLS para 1.2, verificar e voltar a tentar.
- 1. Na tenção de comando PowerShell (PS C: \) insira o seguinte comando para definir o protocolo TLS para a versão 1.2:
+Experimente os seguintes passos para ativar/definir o protocolo TLS para 1.2, verificar e tentar novamente.
+ 1. Na lista de comandos do PowerShell (PS C: introduza o seguinte comando para definir o protocolo \) TLS para a versão 1.2:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. Verifique os protocolos TLS em uso, com o seguinte comando:
+2. Verifique os protocolos TLS em utilização, com o seguinte comando:
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Revendo os comandos Get ou Update conforme necessário.
+3. Repetir os comandos Obter ou Atualizar conforme necessário.
 

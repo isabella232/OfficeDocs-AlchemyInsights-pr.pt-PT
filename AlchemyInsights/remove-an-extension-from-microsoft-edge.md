@@ -14,18 +14,18 @@ ms.custom:
 - "6936"
 - "8311"
 - "9004621"
-ms.openlocfilehash: 1c8cfa9e871957de647b19b3ef6746740886d2fb
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: efd515d472f0ab99213ffa88709861000bb6536e1d2c10beef8f6d534cc94a7b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51504971"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922422"
 ---
 # <a name="remove-an-extension-from-microsoft-edge"></a>Remover uma extensão do Microsoft Edge
 
 Para remover uma extensão do Microsoft Edge:
 
-1. Abra o Microsoft Edge.
-2. Selecione **... extensões >**.
-3. Na página **de extensões instaladas,** encontre a extensão que pretende remover e, em seguida, selecione **Remover** ao lado.
+1. Abra a Microsoft Edge.
+2. **Selecione ... > Extensões**.
+3. Na página **Extensões instaladas,** encontre a extensão que quer remover e, em seguida, selecione **Remover** junto à mesma.
 4. Na caixa de diálogo de confirmação, selecione **Remover**.

@@ -1,5 +1,5 @@
 ---
-title: Restaurar itens eliminados do SharePoint ou OneDrive
+title: Restaurar itens eliminados a partir do SharePoint ou OneDrive
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: c53f8db579b93649e0ea370e63428383469ac60c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d015b6a479e6045eac59c13a430ca903c497a84b12ddaeaa22aeec9fae88f4e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728190"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922314"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Restaurar itens eliminados do SharePoint ou OneDrive
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Restaurar itens eliminados a partir do SharePoint ou OneDrive
 
-1. Aceda ao seu OneDrive ou ao site SharePoint.
+1. Vá para o seu OneDrive ou site do SharePoint.
     
-2. Clique em **Reciclar o recipiente** no painel esquerdo. 
+2. Clique **em Reciclagem** no painel esquerdo. 
     
 3. Clique à esquerda dos itens ou ficheiros que pretende restaurar.
     
 4. Clique em **Restaurar**. 
     
-Quando ficheiros, pastas, bibliotecas, listas e itens de lista são eliminados de um site do SharePoint, eles vão para o Caixote do Lixo, onde são mantidos por 93 dias, a menos que alguém os elimine deste Caixote do Lixo. Se forem eliminados deste Caixote do Lixo (chamado de Caixote do Lixo reciclado), vão para a recolha do local Reciclar Bin durante o tempo restante e, em seguida, são permanentemente eliminados. Sites apagados e coleções de sites vão diretamente para a coleção do site Reciclar Bin durante os 93 dias.
+Quando os ficheiros, pastas, bibliotecas, listas e itens de lista são eliminados de um site do SharePoint, são mantidos na Reciclagem durante 93 dias, a menos que alguém os elimine desta Reciclagem. Caso sejam eliminados desta Reciclagem (denominada Reciclagem do site), são eliminados da Reciclagem da coleção de site durante o tempo restante e, em seguida, são eliminados permanentemente. Os sites e coleções de sites eliminados são diretamente diretos para a Reciclagem da coleção de sites durante os 93 dias.
   
-[Restaurar itens na coleção do site Reciclar Bin](https://go.microsoft.com/fwlink/?linkid=867800) (administradores de recolha de locais) 
+[Restaurar itens na Reciclagem](https://go.microsoft.com/fwlink/?linkid=867800) da coleção de site (administradores da coleção de site) 
   
-[Restaurar as coleções de sites eliminadas](https://go.microsoft.com/fwlink/?linkid=867660) (administradores globais ou SharePoint na Microsoft 365) 
+[Restaurar coleções de site](https://go.microsoft.com/fwlink/?linkid=867660) eliminadas (administradores globais ou do SharePoint Microsoft 365) 
   
-Para sites que pertencem a um grupo Microsoft 365, você precisa restaurar o grupo para restaurar o site. Ver [Restaurar um grupo Microsoft 365 eliminado](https://go.microsoft.com/fwlink/?linkid=867802) (administrador global) 
+Para sites que pertencem a um Microsoft 365 grupo de sites, tem de restaurar o grupo para restaurar o site. Consulte [Restaurar um grupo de Microsoft 365](https://go.microsoft.com/fwlink/?linkid=867802) eliminado (administrador global) 
   
 

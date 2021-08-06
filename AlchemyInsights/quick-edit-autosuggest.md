@@ -1,5 +1,5 @@
 ---
-title: Editar rápido AutoSuggest
+title: Editar Automaticamentesadições Rápidas
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003088"
 - "7232"
-ms.openlocfilehash: 7e6781347e96a794c45ae5508282d44c958d3187
-ms.sourcegitcommit: 26e36ada9c19eb42a644a37d2cd3eb2627134f05
+ms.openlocfilehash: cdb9541c4f5a23a3c4903d0586e5eca105f473a0ab0aca68a948fdcac2363edd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49447486"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923106"
 ---
-# <a name="quick-edit-autosuggest"></a>Editar rápido AutoSuggest
+# <a name="quick-edit-autosuggest"></a>Editar Automaticamentesadições Rápidas
 
-Existem duas formas de editar um item numa lista do SharePoint. Pode editar um único item na vista da lista, que é o método padrão. Ou para ser ainda mais produtivo, pode editar vários itens na vista de edição rápida. Precisa de uma permissão de nível de contribuição ou superior para editar itens. Para mais informações, consulte [editar itens da lista no SharePoint Online](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7).
+Existem duas formas de editar um item numa lista do SharePoint. Pode editar um único item na vista de lista, que é o método predefinido. Ou, para ser ainda mais produtivo, pode editar vários itens na vista de Edição Rápida. Precisa de permissões do nível de Contribuição ou superiores para editar itens. Para obter mais informações, consulte [Editar itens de lista no SharePoint Online.](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7)

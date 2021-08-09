@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820297"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060075"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a>Aceder às chaves de recuperação bitlocker
+# <a name="accessing-bitlocker-recovery-keys"></a>Aceder a chaves de recuperação Bitlocker
 
-Ao configurar as definições do Bitlocker Intune Endpoint Policy, é possível definir se as informações de recuperação do Bitlocker devem ser armazenadas no Diretório Ativo Azure.
+Ao configurar a Política de Proteção de Pontos Finais do Intune, é possível definir se as informações de recuperação do Bitlocker devem ser armazenadas na Azure Active Directory.
 
-Se esta definição estiver configurada, os dados de recuperação armazenados devem ser visíveis a um administrador Intune como parte dos dados de registo do dispositivo na lâmina de dispositivos Intune de duas maneiras:
+Se essa definição estiver configurada, os dados de recuperação armazenados deverão ser visíveis para um administrador do Intune como parte do registo de dados do dispositivo na folha de dispositivos do Intune:
 
-Dispositivos - Azure AD dispositivos -> "Dispositivo" OU Dispositivos -> Todos os Dispositivos -> "Dispositivo" -> Chaves de recuperação
+Dispositivos - dispositivos Azure AD -> "Dispositivo" OU Dispositivos -> Todos os Dispositivos -> "Dispositivo" -> Chaves de Recuperação
 
-Alternativamente, se houver acesso administrativo ao próprio dispositivo, a chave de recuperação (Password) pode ser vista executando o seguinte comando a partir de uma solicitação de comando elevada:
+Em alternativa, se houver acesso administrativo ao dispositivo, a chave de recuperação (Palavra-passe) pode ser vista ao executar o seguinte comando a partir de uma lista de comandos elevada:
 
 ```
 manage-bde -protectors c: -get
@@ -43,9 +43,9 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Se o dispositivo foi encriptado antes da inscrição no Intune, a chave de recuperação pode ter sido associada à "Conta Microsoft" (MSA) utilizada para iniciar súpido no dispositivo durante o processo OOBE. Se for esse o caso, aceder  https://onedrive.live.com/recoverykey e iniciar sessão com esse MSA deverá mostrar os dispositivos para os quais foram armazenadas as chaves de recuperação.
+Se o dispositivo foi encriptado antes da inscrição no Intune, a chave de recuperação poderá ter sido associada à "Conta Microsoft" (MSA) utilizada para entrar no dispositivo durante o processo OOBE. Se fosse esse o caso, aceder e entrar com essa MSA devia mostrar os dispositivos para os quais as chaves de recuperação  https://onedrive.live.com/recoverykey estavam armazenadas.
  
-Se o dispositivo foi encriptado como resultado da configuração através da política de grupo baseada em domínio, as informações de recuperação podem ser armazenadas no Ative Directory no local.
+Se o dispositivo tiver sido encriptado como resultado da configuração através da política de grupo baseada no domínio, as informações de recuperação poderão ser armazenadas no Active Directory no local.
 
-Se tiver configurado a política de proteção endpoint para armazenar a chave de recuperação no Diretório Azure Ative, mas a chave para um dispositivo específico não foi carregada, pode ativar o upload rodando a chave de recuperação desse dispositivo a partir da consola MEM. Para mais detalhes, consulte [as teclas de recuperação do BitLocker rotativos](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
+Se tiver configurado a política de proteção do Ponto Final para armazenar a chave de recuperação no Azure Active Directory mas a chave de um dispositivo específico não tiver sido carregada, pode ativar o carregamento ao rodar a chave de recuperação do dispositivo a partir da consola MEM. Para obter detalhes, consulte [Rodar chaves de recuperação BitLocker.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 

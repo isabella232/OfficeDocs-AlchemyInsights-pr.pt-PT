@@ -1,5 +1,5 @@
 ---
-title: Não é possível receber e-mail das contas do Gmail
+title: Não é possível receber e-mails de contas do Gmail
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: 70472d6a25a386eff623389d29a4463098adb45a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2742b0d85a80bcca91997adf2b95f1e6b9f5a1a796d8111a961f545f2364613d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830404"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060687"
 ---
-# <a name="unable-to-receive-email-from-gmail-accounts"></a>Não é possível receber e-mail das contas do Gmail
+# <a name="unable-to-receive-email-from-gmail-accounts"></a>Não é possível receber e-mails de contas do Gmail
 
-**QUESTÃO**
+**PROBLEMA**
 
-Sabemos que alguns utilizadores podem não conseguir receber e-mails das contas do Gmail. Estamos a investigar um possível problema.
+Estamos cientes de que alguns utilizadores podem não conseguir receber e-mails de contas do Gmail. Estamos a investigar um possível problema.
 
-**SOLUÇÃO ALTERNATIVA**
+**SÍMPAR**
 
 Verifique se não bloqueou acidentalmente o domínio do Gmail ao bloquear um utilizador do Gmail.
 
-1. Abra a sua [lista de Remetentes Bloqueados](https://go.microsoft.com/fwlink/?linkid=2121010).
+1. Abra a sua [lista de Recetores Bloqueados.](https://go.microsoft.com/fwlink/?linkid=2121010)
 
-2. Se Gmail.com estiver na lista, clique no ícone do lixo ao lado da entrada e prima **Save**.
+2. Se Gmail.com estiver na lista, clique no ícone de lixo junto à entrada e prima **Guardar.**

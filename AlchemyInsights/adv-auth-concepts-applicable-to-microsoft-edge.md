@@ -1,5 +1,5 @@
 ---
-title: Conceitos avançados de autenticação aplicáveis ao Microsoft Edge
+title: Conceitos de autenticação avançados aplicáveis às Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -14,27 +14,27 @@ ms.custom:
 - "6986"
 - "8329"
 - "9004625"
-ms.openlocfilehash: d469973c4f8605b00d32f6f625eb5fdd17e8f390
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 8ddec37260ec4e3bcc390dcc8adb7397368de19555ee31be458be033d3886386
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398596"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934376"
 ---
-# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Conceitos avançados de autenticação aplicáveis ao Microsoft Edge
+# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Conceitos de autenticação avançados aplicáveis às Microsoft Edge
 
-Seguem-se os conceitos avançados de autenticação aplicáveis ao Microsoft Edge:
+Seguem-se os conceitos de autenticação avançados aplicáveis às Microsoft Edge:
 
 **Autenticação Proativa**
 
-Quando ativar a política [ProactiveAuthEnabled,](https://go.microsoft.com/fwlink/?linkid=2134621) o Microsoft Edge tentará autenticar proactivamente os utilizadores inscritos através dos serviços da Microsoft. Em intervalos regulares, utilizará um serviço online para verificar se há um manifesto atualizado que contenha a configuração que rege a Autenticação Proactiva.
+Quando ativar a política [ProactiveAuthEnabled,](https://go.microsoft.com/fwlink/?linkid=2134621) o Microsoft Edge tentará autenticar de forma proativa os utilizadores com acesso serviços Microsoft. Em intervalos regulares, utilizará um serviço online para procurar um manifesto atualizado que contenha a configuração que governa a Autenticação Proativa.
 
-Benefícios: A autenticação proativa permite a autenticação em serviços-chave, como a Página do Separador Do Office New. Além disso, se bing é usado como motor de pesquisa, a Autenticação Proativa melhora o desempenho da barra de endereços e ajuda a gerar resultados de pesquisa personalizados às necessidades do seu negócio.
+Vantagens: a Autenticação Proativa permite a autenticação para serviços principais, Office Nova Página de Separador. Além disso, se Bing for utilizado como motor de busca, a Autenticação Proativa melhora o desempenho da barra de endereço e ajuda a gerar resultados de pesquisa personalizados para as necessidades do seu negócio.
 
-**Windows Hello CredUI para autenticação NTLM**
+**Windows Hello CredUI para Autenticação NTLM**
 
-Se um único sign-on (SSO) não estiver disponível quando um website tentar assinar no utilizador através do mecanismo NTLM ou Negotiate, esta funcionalidade permitirá ao utilizador partilhar as credenciais de OS com o website e satisfazer o desafio de autenticação utilizando o UI do Windows Hello Cred. Este fluxo de entrada de sing-on aparecerá apenas no Windows 10 e apenas para utilizadores que não obtenham SSO durante um NTLM ou um desafio Negotiate.
+Se o SSO (single sign on) não estiver disponível quando um site tentar iniciá-lo no utilizador através do mecanismo NTLM ou Negotiate, esta funcionalidade permitirá ao utilizador partilhar as credenciais do SO com o site e satisfazer o desafio da autenticação através da IU do Windows Hello. Este fluxo de acesso só será apresentado no Windows 10 e apenas para os utilizadores que não o obterem durante um NTLM ou um desafio de Negociação.
 
-**Utilize senhas guardadas para iniciar sôm automaticamente**
+**Utilizar palavras-passe guardadas para assinar automaticamente**
 
-Os utilizadores que guardam palavras-passe no Microsoft Edge podem permitir o acesso automático aos websites onde guardaram credenciais. Os utilizadores podem ligar ou desligar esta funcionalidade em edge://settings/passwords, podendo configugá-la nas políticas do [gestor de passwords.](https://go.microsoft.com/fwlink/?linkid=2134622)
+Os utilizadores que guardam palavras-passe Microsoft Edge podem ativar o lote automático em sites onde as credenciais foram guardadas. Os utilizadores podem ativar ou destivar esta funcionalidade no edge://settings/passwords e pode configure-a nas políticas do gestor [de palavras-passe.](https://go.microsoft.com/fwlink/?linkid=2134622)

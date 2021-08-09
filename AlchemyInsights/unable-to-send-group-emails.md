@@ -1,5 +1,5 @@
 ---
-title: 8000053 Incapaz de enviar e-mails de grupo
+title: 8000053 não é possível enviar e-mails de grupo
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: dd014f9e5f4a126720614a2d92df3cfbc223bb17
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4be0f4a06100205083834763e39552a1daf008488232fbe681c3ab71e549f764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735246"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060579"
 ---
-# <a name="unable-to-send-group-emails"></a>Incapaz de enviar e-mails de grupo
+# <a name="unable-to-send-group-emails"></a>Não é possível enviar e-mails de grupo
 
-Se não conseguir enviar e-mail para listas de contactos ou grupos de contacto em Outlook.com, tente o seguinte:
+Se não conseguir enviar e-mails para listas de contactos ou grupos de contactos no Outlook.com, experimente o seguinte:
   
-1. Use Outlook.com beta. Para mais informações, [saiba sobre a Outlook.com beta.](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf)
+1. Utilize Outlook.com beta. Para obter mais informações, [saiba mais sobre a Outlook.com beta.](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf)
     
-2. Se ainda tiver problemas em compor um e-mail para o seu grupo, vá ao [People,](https://outlook.live.com/people/)selecione a lista de contactos ou grupo e, em seguida, escolha **Enviar por email**.
+2. Se continuar a ter dificuldades em compor um e-mail para o seu grupo, vá a Pessoas , selecione a lista de contactos ou grupo e, em seguida, selecione **Enviar e-mail**. [](https://outlook.live.com/people/)
     
  **Notas:**
   
-1. Certifique-se de que não tem pop-ups bloqueados: o envio de e-mails da página da lista de contactos abre uma nova janela.
+1. Certifique-se de que não tem pop-ups bloqueados: o envio de e-mails a partir da página da lista de contactos abre uma nova janela.
     
-2. Envie o correio da lista de contactos automaticamente coloca a lista na linha **TO.** Se quiser ocultar os dados da sua lista de contactos, clique em **BCC** no canto superior direito e, em seguida, copie e cole a lista de contactos no **BCC** e apague a entrada **TO.** 
+2. Enviar e-mails a partir da lista de contactos coloca automaticamente a lista **na linha** Para. Se quiser ocultar os detalhes da lista de contactos, clique em **BCC** no canto superior direito e, em seguida, copie e colar a lista de contactos em **BCC** e elimine a entrada **PARA.** 
     
-3. Ao utilizar **o BCC,** é uma boa prática ter sempre algo na linha **TO,** por exemplo o seu próprio endereço "a partir". 
+3. Ao utilizar **BCC,** é uma boa prática  ter sempre algo na linha Para, por exemplo, o seu próprio endereço "De". 
     
 

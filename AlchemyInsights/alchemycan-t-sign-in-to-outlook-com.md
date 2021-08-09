@@ -1,5 +1,5 @@
 ---
-title: Alquimia - Não posso assinar para Outlook.com
+title: Alchemy - Não é possível entrar no Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 79595b9d-ce9b-44e5-b142-8d6df9cbb427
-ms.openlocfilehash: c065bdee1ded7eaaa1851d6fc20007a3b7f20879
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f432ec75a71f5d142780c532ed5368c44da54b3a9ac6e0244b4a4a5127b0acff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718992"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934170"
 ---
-# <a name="cant-sign-in-to-outlookcom"></a>Não posso entrar na Outlook.com
+# <a name="cant-sign-in-to-outlookcom"></a>Não é possível inscrever-se em Outlook.com
 
-Se tiver problemas em entrar na sua conta, certifique-se de que a sua conta não está inativa há mais de 365 dias. Após 365 dias de inatividade, o seu email será apagado e não poderá ser recuperado.
+Se estiver com problemas em entrar na sua conta, certifique-se de que a sua conta não esteve inativa durante mais de 365 dias. Após 365 dias de inatividade, o seu e-mail será eliminado e não poderá ser recuperado.
   
-A sua conta pode estar temporariamente bloqueada porque reparámos numa atividade invulgar de inscrição. Se a sua conta estiver bloqueada, leia como desbloquear a [minha conta de Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx). 
+A sua conta poderá estar temporariamente bloqueada por ter detetado algum tipo de atividade de lote invulgar. Se a sua conta estiver bloqueada, leia como [Desbloquear a minha Outlook.com.](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx) 
   
-Se suspeitar que a sua conta de Outlook.com foi pirateada, veja [que a minha conta Outlook.com foi pirateada.](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx)
+Se suspeitar que alguém acedeu à sua conta Outlook.com de alguém, consulte Alguém acedeu à minha conta [Outlook.com](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx)de hacke .
   
-Se esqueceu ou perdeu a palavra-passe, pode [redefinir a sua palavra-passe.](https://go.microsoft.com/fwlink/p/?LinkID=242804)
+Caso se tenha esquecido ou perdido a sua palavra-passe, pode Repor a [sua palavra-passe](https://go.microsoft.com/fwlink/p/?LinkID=242804).
   
-Leia mais sobre [Quando não pode iniciar sôm na sua conta Microsoft.](https://go.microsoft.com/fwlink/p/?linkid=837479)
+Leia mais [sobre Quando não consegue entrar na sua conta Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).
   
 

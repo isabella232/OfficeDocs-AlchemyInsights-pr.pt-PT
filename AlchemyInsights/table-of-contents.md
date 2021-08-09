@@ -1,5 +1,5 @@
 ---
-title: Tabela de conteúdos
+title: Índice
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3042"
 - "9000592"
-ms.openlocfilehash: c44e18d349624d9fed172bc3ffecc59b41717dda
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 35e56f7175e94b24cb4ee5401d121bc05150ae5aa37d1f89e4da5989a80906e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831061"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909108"
 ---
-# <a name="table-of-contents"></a>Tabela de conteúdos
+# <a name="table-of-contents"></a>Índice
 
-Para obter informações sobre a criação de uma tabela de conteúdos no Word, consulte [inserir uma tabela de conteúdos,](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)ou descarregar o nosso tutorial da Tabela de [Conteúdos.](https://go.microsoft.com/fwlink/?linkid=2065106)
+Para obter informações sobre como criar um [](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)índice no Word, consulte Inserir um índice ou transferir o [nosso tutorial de Índice.](https://go.microsoft.com/fwlink/?linkid=2065106)
 
-**Soluções para questões comuns**
+**Soluções para problemas comuns**
 
-- A tabela de conteúdos não contém o título que acaba de adicionar ao seu documento.
-  1. Selecione o texto do título, vá a **Home**  >  **Styles,** e verifique se um estilo é aplicado ao título.
-  2. Consulte a tabela De Atualização **de Referências**  >   para atualizar a tabela de conteúdos.
+- O índice não contém o título que acabou de adicionar ao documento.
+  1. Selecione o texto do **título,** vá para Estilos de Casa e verifique  >  se está aplicado um estilo ao título.
+  2. Vá para  >  **Atualizar índice de** Referências para atualizar o índice.
 
-- A tabela de conteúdos exibe demasiado texto. 
-  1. Selecione o texto do parágrafo e, em seguida, vá para **Home**  >  **Styles**.
-  2. Selecione um estilo, como **o Normal,** que não está incluído na tabela de conteúdos.
+- O índice está a apresentar demasiado texto. 
+  1. Selecione o texto do parágrafo e, em seguida, vá **para**  >  **Estilos de Casa**.
+  2. Selecione um estilo, como **Normal,** que não está incluído no índice.

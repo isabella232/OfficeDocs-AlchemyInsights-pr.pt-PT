@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5119"
-ms.openlocfilehash: c32f3f10e2e17cf67e73ec8404be293eeefb68a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 75fd61e18503292bd5fa9e48c7cdba7692282925a419b3230d17448eab928ba0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934268"
 ---
 # <a name="aip-scanner-installation-and-configuration"></a>Scanner AIP: instalação e configuração
 
-**Para instalar o scanner AIP, siga as orientações recomendadas:**
+**Para instalar o scanner AIP, siga as diretrizes recomendadas:**
 
-1. Se estiver a atualizar e não realizar uma instalação limpa, certifique-se de que seguiu as orientações para [atualizar o scanner de Proteção de Informação Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide#upgrading-the-azure-information-protection-scanner) e para o cliente de rotulagem unificado, consulte a [atualização do scanner de Proteção de Informação Azure](https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide#upgrading-the-azure-information-protection-scanner).
-2. Verifique se cumpre todos os [requisitos de definição de firewalls e infraestruturas de rede](https://docs.microsoft.com/azure/information-protection/requirements#firewalls-and-network-infrastructure).
-3. Certifique-se de que as suas [políticas estão definidas](https://docs.microsoft.com/azure/information-protection/configure-policy) para a rotulagem automática ou tem um rótulo predefinido na política.
-4. Certifique-se de que o tipo de ficheiro relevante está configurado para etiqueta/proteção, conforme descrito nos [tipos de ficheiros suportados pelo cliente Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#supported-file-types-for-classification-and-protection). Além disso, se pretender alterar o comportamento predefinido, siga estas diretrizes: [Alterar o nível de proteção predefinido dos ficheiros](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#changing-the-default-protection-level-of-files).
+1. Se estiver a atualizar e não tiver uma instalação limpa, certifique-se de que seguiu as diretrizes para atualizar o [scanner Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide#upgrading-the-azure-information-protection-scanner) e o cliente de etiquetagem unificado, consulte atualizar o [scanner Azure Information Protection.](https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide#upgrading-the-azure-information-protection-scanner)
+2. Verifique se está em conformidade com todos os requisitos de [definições de infraestrutura de rede e Firewalls.](https://docs.microsoft.com/azure/information-protection/requirements#firewalls-and-network-infrastructure)
+3. Certifique-se de [que as suas políticas estão](https://docs.microsoft.com/azure/information-protection/configure-policy) definidas para etiquetagem automática ou que têm uma etiqueta predefinida na política.
+4. Certifique-se de que o tipo de ficheiro relevante está configurado para etiqueta/proteção conforme descrito em Tipos de ficheiro suportados pelo cliente [Azure Information Protection.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#supported-file-types-for-classification-and-protection) Além disso, se quiser alterar o comportamento predefinido, siga estas diretrizes: Alterar o nível de proteção [predefinido dos ficheiros.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#changing-the-default-protection-level-of-files)
 5. Verifique se a conta de utilizador configurada para executar o serviço de scanner tem permissões para aceder a todos os repositórios configurados.
-6. Se ainda tiver problemas, por favor exporte os registos do scanner e adicione-os ao seu bilhete de apoio.
+6. Se continuar a ter problemas, exporte os registos do scanner e adicione-os ao seu bilhete de suporte.
 
-**Exportar registos de scanners de proteção de informação Azure**
+**Exportar registos do Azure Information Protection Scanner**
 
-1. Navegue para %localappdata%\Microsoft\MSIP no contexto do utilizador que executa o serviço de scanner.
-2. Feche todos os conteúdos sob a pasta MSIP.
+1. Navegue até %localappdata%\Microsoft\MSIP no contexto do utilizador que executa o serviço de scanner.
+2. Zipar todos os conteúdos na pasta MSIP.
 3. Guarde os registos numa localização à sua escolha e anexe-os ao seu pedido de serviço.
-4. Também pode utilizar [Export-AIPLogs -OnBehalfOf](https://docs.microsoft.com/powershell/module/azureinformationprotection/export-aiplogs?view=azureipps).
+4. Também pode utilizar [Export-AIPLogs -OnBehalfOf.](https://docs.microsoft.com/powershell/module/azureinformationprotection/export-aiplogs?view=azureipps)
 
 **Para obter informações adicionais, consulte:**
-- [Implantação do scanner de Proteção de Informação Azure para classificar e proteger automaticamente ficheiros](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner)
-- [Especifique e utilize o parâmetro Token para Set-AIPAuthentication](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-powershell#specify-and-use-the-token-parameter-for-set-aipauthentication)
-- [Executar um ciclo de descoberta e ver relatórios para o scanner](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner#run-a-discovery-cycle-and-view-reports-for-the-scanner)
+- [Implementar o scanner do Azure Information Protection para classificar e proteger ficheiros automaticamente](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner)
+- [Especificar e utilizar o parâmetro Token para Set-AIPAuthentication](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-powershell#specify-and-use-the-token-parameter-for-set-aipauthentication)
+- [Executar um ciclo de deteção e ver relatórios para o scanner](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner#run-a-discovery-cycle-and-view-reports-for-the-scanner)
 - [Rever a documentação do Azure Information Protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
 - [Requisitos do Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
 - [Transferir cliente do Azure Information Protection](https://www.microsoft.com/download/details.aspx?id=53018)

@@ -1,5 +1,5 @@
 ---
-title: Permissões e consentimentos de resolução de problemas
+title: Remova permissões e consentimentos
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7782"
-ms.openlocfilehash: a1b2dd99acfce24de00e471dda259598b17b4ee0
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 20abe52d6daa6863ea6f24548d23ab963f63620187c5f67fa9616c0efd428b91
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901607"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092997"
 ---
-# <a name="troubleshoot-permissions-and-consents"></a>Permissões e consentimentos de resolução de problemas
+# <a name="troubleshoot-permissions-and-consents"></a>Remova permissões e consentimentos
 
-1. Leia este artigo para compreender o quadro de consentimento do [Azure Ative Directory](https://docs.microsoft.com/azure/active-directory/develop/consent-framework).
-1. [Permissões e consentimento no ponto final da plataforma de identidade da Microsoft](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) abrange os conceitos básicos deste modelo de autorização, incluindo âmbitos, permissões e consentimento.
-1. Saiba como gerir e avaliar o consentimento: [Gerir o consentimento das candidaturas e avaliar os pedidos de consentimento.](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent)
-1. [Compreender experiências de consentimento da aplicação Azure AD](https://docs.microsoft.com/azure/active-directory/develop/application-consent-experience): Saiba mais sobre a experiência do utilizador de consentimento da aplicação Azure Ative (Azure AD).
-1. Resolver [erros inesperados ao efetuar o consentimento de uma aplicação](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).
+1. Leia este artigo para compreender a [estrutura de Azure Active Directory autorização.](https://docs.microsoft.com/azure/active-directory/develop/consent-framework)
+1. [As permissões e a](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) autorização no plataforma de identidades da Microsoft abrangem os conceitos básicos deste modelo de autorização, incluindo âmbitos, permissões e consentimento.
+1. Saiba como gerir e avaliar a autorização: [Gerir o consentimento em aplicações e avaliar pedidos de consentimento.](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent)
+1. Compreender as experiências de consentimento [da aplicação Azure AD:](https://docs.microsoft.com/azure/active-directory/develop/application-consent-experience)Saiba mais sobre a experiência de utilizador Azure Active Directory utilizador de consentimento da aplicação do Azure AD.
+1. Remova erros [inesperados ao executar o consentimento de uma aplicação](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).

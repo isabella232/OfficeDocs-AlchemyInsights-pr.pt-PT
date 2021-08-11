@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003945"
 - "7003"
-ms.openlocfilehash: 582af6dd48460869998ff41c9e2cc4230fc82b4b
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: f7b88788ae74f967f112e67d3fc80b80d3d93fc2e4af9efa3a977d16d1d70350
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692188"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970666"
 ---
 # <a name="whats-new-in-windows-10-version-1903"></a>Novidades no Windows 10, versão 1903
 
-Aqui estão as novas funcionalidades e conteúdos atualizados para a versão 1903 do Windows 10, também conhecida como Atualização do Windows 10 May 2019. Esta atualização também contém todas as funcionalidades e correções incluídas em atualizações cumulativas anteriores para o Windows 10, versão 1809:
+Eis as funcionalidades e conteúdos novos e atualizados Windows 10 versão 1903, também conhecidas como Atualização de Maio de 2019 do Windows 10. Esta atualização também contém todas as funcionalidades e correções incluídas em atualizações acumuladas anteriores para Windows 10, versão 1809:
 
 1. [Implementação](https://go.microsoft.com/fwlink/?linkid=2114296)
 1. [Manutenção](https://go.microsoft.com/fwlink/?linkid=2114493)

@@ -1,5 +1,5 @@
 ---
-title: Partes web yammer no SharePoint
+title: Yammer Peças Web no SharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,35 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5475"
 - "9002494"
-ms.openlocfilehash: d8b4043bb2889429a18c477505e7eca662943051
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a252dab703e639c7c11fe6aead1db04aeecfe54bc6d52bcd4a28433aed4701d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664361"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970342"
 ---
-# <a name="yammer-web-parts-in-sharepoint"></a>Partes web yammer no SharePoint
+# <a name="yammer-web-parts-in-sharepoint"></a>Yammer Peças Web no SharePoint
 
-Yammer Conversations e Yammer Destaques peças web melhoram a colaboração em páginas modernas e clássicas do SharePoint. Para mais informações, consulte [Conversas Yammer](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations) e [Destaques yammer.](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights)    
+Yammer Conversações e conversações Yammer Realça as peças Web que melhoram a colaboração em páginas modernas e clássicas do SharePoint. Para mais informações, consulte [Conversações Yammer e](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations) [Realces da Yammer.](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights)    
 
-A parte web moderna da Yammer Conversations está a ser atualizada para a nova experiência Yammer e está disponível para inquilinos de Lançamento Direcionado. O lançamento da GA já começou. As novas funcionalidades incluem a capacidade de iniciar uma conversa com qualquer publicação (Perguntas, Sondagens, Louvor) e de marcar as melhores respostas diretamente do SharePoint. Para mais informações, consulte [os termos do cliente da New Yammer e as FAQ.](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq)
+A peça Web Yammer atualizada conversações está a ser atualizada para a nova experiência de Yammer e está disponível para inquilinos do Lançamento Diretado. A rollout de GA foi iniciada. As novas funcionalidades incluem a capacidade de iniciar uma conversação com qualquer mensagem (Perguntas, Votações, Elogiar) e marcar as melhores respostas diretamente a partir do SharePoint. Para mais informações, consulte New Yammer customer terms and FAQ (Novos [termos de cliente e FAQ).](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq)
 
- Para entender qual a parte web e configuração certa para si, consulte [Use uma parte web Yammer no SharePoint Online](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da).  
+ Para compreender qual a peça Web e a configuração mais certas para si, consulte Utilizar [uma Yammer Web no SharePoint Online.](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)  
 
-**Utilização de peças web com Servidor SharePoint**  
+**Utilizar peças Web com o SharePoint Server**  
 
-As peças web podem ser usadas em páginas modernas e clássicas dentro de ambientes no local.
+As peças Web podem ser utilizadas em páginas modernas e clássicas em ambientes no local.
 
-- Para obter mais informações sobre páginas modernas, consulte [um feed Yammer a uma página moderna no SharePoint Server 2019](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019). 
-- Para obter mais informações sobre páginas [clássicas, consulte um feed Yammer a uma página clássica nos Servidores SharePoint 2013, 2016 e 2019](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019).
+- Para mais informações sobre páginas modernas, consulte Adicionar um feed Yammer a uma [página moderna no SharePoint Server 2019.](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019) 
+- Para mais informações sobre páginas clássicas, consulte Adicionar um feed Yammer a uma página clássica no [SharePoint Servers 2013, 2016 e 2019.](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019)
 
-**Yammer Embed**  
+**Yammer Incorporar**  
 
-Utilize a ferramenta de configuração incorporada para testar a utilização do Embed. Uma futura atualização para a Embed permitirá a nova experiência Yammer. Para obter mais informações, consulte a [ferramenta de configuração yammer embed](https://aka.ms/YammerEmbedConfigureTool). Para melhor entender o componente Yammer Embed, consulte [o Feed Incorporado](https://aka.ms/YammerDevDocs).
+Utilize a ferramenta Configuração incorporada para testar a utilização do in incorporado. Uma futura atualização ao incorporar irá ativar a nova experiência Yammer atualização. Para mais informações, consulte a [Yammer de Configuração de Incorporação.](https://aka.ms/YammerEmbedConfigureTool) Para compreender melhor a Yammer componente Incorporar, consulte [Incorporar Feed](https://aka.ms/YammerDevDocs).
 
-**Questões e limitações conhecidas**
+**Problemas e limitações conhecidos**
 
-- Os IDs do grupo não estão disponíveis a partir de novos URLs Yammer, que mudaram. Volte ao modo clássico para obter IDs de grupo ou outros IDs de URLs.
-- Os domínios personalizados (vaidade) não são suportados.
-- Yammer Embed não está otimizado para celular. Use páginas modernas com a parte web yammer Conversations para a melhor experiência.
-- Os temas personalizados podem afetar a aparência e usabilidade da parte web yammer Conversations. Abra um caso de apoio para relatar problemas.
+- Os IDs de Grupo não estão disponíveis a partir Yammer URLs novos, que foram alterados. Mude novamente para o modo clássico para obter IDs de grupo ou outros IDs dos URLs.
+- Os domínios personalizados (personalizados) não são suportados.
+- Yammer Incorporar não está otimizado para dispositivos móveis. Utilize páginas modernas com a Yammer Web Conversações para ter uma melhor experiência.
+- Os temas personalizados podem afetar o aspeto e a capacidade de Yammer peça Web Conversações. Abra um caso de suporte para comunicar problemas.

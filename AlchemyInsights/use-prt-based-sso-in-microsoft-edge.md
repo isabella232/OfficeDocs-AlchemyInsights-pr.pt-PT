@@ -1,5 +1,5 @@
 ---
-title: Utilize SSO baseado em PRT no Microsoft Edge
+title: Utilizar o SSO baseado em PRT no Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005624"
 - "9657"
-ms.openlocfilehash: f74c80947f885214b8af48561b278c445069cdd0
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
+ms.openlocfilehash: 2980739f3a7c7200ceff5a0f2ed6e913eb06c9c1e60c8eb8b8f102f3f2760f01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51420951"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006973"
 ---
-# <a name="use-prt-based-sso-in-microsoft-edge"></a>Utilize SSO baseado em PRT no Microsoft Edge
+# <a name="use-prt-based-sso-in-microsoft-edge"></a>Utilizar o SSO baseado em PRT no Microsoft Edge
 
-Um [Token Primary Refresh (PRT)](https://go.microsoft.com/fwlink/?linkid=2133632) é uma chave de Diretório Ativo Azure utilizada para autenticação em dispositivos Windows 10, iOS e Android. O PRT permite sSO para todas as aplicações utilizadas nesses dispositivos.
+Um [Token de Atualização Principal (PRT)](https://go.microsoft.com/fwlink/?linkid=2133632) é uma chave Azure Active Directory utilizada para a autenticação em Windows 10, iOS e dispositivos Android. O PRT ativa o SSO para todas as aplicações utilizadas nesses dispositivos.
 
-No Microsoft Edge, o suporte para SSO baseado em PRT é nativo e não requer extensões adicionais. No Windows 10 RS3 ou acima, os utilizadores inscritos obterão SSO com o PRT para sites que suportam SSO baseado em PRT.
+No Microsoft Edge, o suporte para SSO baseado em PRT é nativo e não necessita de extensões adicionais. No Windows 10 RS3 e superior, os utilizadores com ou mais anos obterão o SSO com o PRT em web sites que suportem SSO baseado em PRT.

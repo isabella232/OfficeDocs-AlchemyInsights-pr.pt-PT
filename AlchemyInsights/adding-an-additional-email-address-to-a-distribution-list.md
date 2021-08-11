@@ -13,21 +13,21 @@ ms.custom:
 - "713"
 - "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 57adf32faba3399fbbf08c9cfed267a2fc75b05a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad46b9ca5df6b050f1d5cdaa897be528aafcb14c11568049aa512c4f65645392
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697424"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934988"
 ---
-# <a name="add-an-email-address-for-a-distribution-group"></a>Adicionar um endereço de e-mail para um grupo de distribuição
+# <a name="add-an-email-address-for-a-distribution-group"></a>Adicionar um endereço de e-mail a um grupo de distribuição
 
-Para adicionar endereços de e-mail para um grupo de distribuição existente, siga estes passos:
+Para adicionar endereços de e-mail a um grupo de distribuição existente, siga estes passos:
 
-1. No [centro de administração Exchange,](https://outlook.office365.com/ecp/)vá aos **Recipients** \> **Grupos destinatários**.
+1. No centro [de Exchange, vá](https://outlook.office365.com/ecp/)para Grupos **de Destinatários** \> .
 
 2. Selecione o grupo de distribuição que pretende modificar e, em seguida, clique em **Editar**.
 
-3. Nas propriedades do grupo, aceda ao separador **opções de email** para adicionar endereços de e-mail. 
+3. Nas propriedades do grupo, vá para o separador Opções de **e-mail** para adicionar endereços de e-mail. 
 
-Para mais informações, consulte [as opções de email.](https://technet.microsoft.com/library/bb124513.aspx#emailoptions)
+Para obter mais informações, consulte Opções [de e-mail.](https://technet.microsoft.com/library/bb124513.aspx#emailoptions)

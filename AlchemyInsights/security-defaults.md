@@ -1,5 +1,5 @@
 ---
-title: Incumprimentos de segurança
+title: Predefinições de segurança
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: d468335dbe2854bf31ef857866aac597807e0f7b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 28a42e09eb810daad4b507756d6997e262a3021baab1176efb9050d793c0a05e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809198"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942918"
 ---
-# <a name="security-defaults"></a>Incumprimentos de segurança
+# <a name="security-defaults"></a>Predefinições de segurança
 
-Para obter informações sobre os incumprimentos de segurança, consulte [o que são falhas de segurança?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+Para obter informações sobre as predefinições de segurança, consulte [O que são as predefinições de segurança?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-As falhas de segurança no Azure Ative Directory (Azure AD) facilitam a segurança e ajudam a proteger a sua organização. As falhas de segurança contêm definições de segurança pré-configuradas para ataques comuns.
+As predefinições de segurança Azure Active Directory (Azure AD) facilitam a segurança e a proteção da sua organização. As predefinições de segurança contêm definições de segurança pré-configuradas para ataques comuns.
 
-A Microsoft está a disponibilizar falhas de segurança a todos. O objetivo é garantir que todas as organizações tenham um nível básico de segurança, sem custos adicionais. Liga-se as falhas de segurança no portal Azure.
+A Microsoft está a disponibilizar as predefinições de segurança a todos. O objetivo é garantir que todas as organizações tenham um nível de segurança básico ativado sem custos adicionais. Ate as predefinições de segurança no portal do Azure.

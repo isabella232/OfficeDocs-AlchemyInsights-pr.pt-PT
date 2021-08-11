@@ -1,5 +1,5 @@
 ---
-title: Alquimia - Outlook crash troubleshooting steps
+title: Alchemy - Outlook passos de remoção de problemas de falha
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 01179dde29cd07256a5f6e0ece539c5c02c25dfd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69c606e0987b5025a5c1e7340159ec06afe4b8e084c61615778a90114f9b4ecb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718668"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933692"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Passos de resolução do problema relacionado com a falha do Outlook
 
-Se tiver problemas de falha no ambiente de trabalho do Outlook, comece por seguir os três passos abaixo, que estão todos listados em detalhe neste artigo: [Como resolver problemas que fazem com que o Outlook se despenhe ou pare de responder.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Se estiver Outlook problemas relacionados com a falha do ambiente de trabalho, comece por seguir os três passos abaixo, todos listados em detalhe neste artigo: Como remover problemas que causam falhas no Outlook ou param de [responder.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-Passo 1: Investigar possíveis problemas com suplementos.
+Passo 1: investigue possíveis problemas com os add-ins.
   
-Passo 2: Reparar Outlook e executar a [ferramenta Assistente de Suporte e Recuperação](https://aka.ms/SaRA-OutlookWontStart) para resolver os erros de arranque do Outlook na máquina afetada.
+Passo 2: repare os Outlook e execute [a Assistente de Recuperação e Suporte](https://aka.ms/SaRA-OutlookWontStart) de instalação para Outlook erros de arranque no máquina afetado.
   
-Passo 3: Criar um novo perfil Outlook ou executar a [ferramenta de perfil Outlook](https://aka.ms/SaRA-OutlookSetupProfile) na máquina afetada.
+Passo 3: crie um novo Outlook perfil de utilizador ou [execute a Outlook de perfil de utilizador](https://aka.ms/SaRA-OutlookSetupProfile) no máquina afetado.
   
-Se o problema tiver ocorrido após uma atualização e os passos acima não funcionarem, poderá ter de reverter para uma compilação anterior. Ver [Como reverter para uma versão anterior do Office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).
+Se o problema tiver ocorrido após uma atualização e os passos acima não funcionarem, poderá ter de reverter para uma compilação anterior. Consulte [Como reverter para uma versão anterior do Office 2016 Clique-e-Run.](https://support.microsoft.com/help/2770432)
   

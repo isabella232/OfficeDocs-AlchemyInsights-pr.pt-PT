@@ -1,5 +1,5 @@
 ---
-title: Leia os registos de auditoria para eventos apagados
+title: Ler os registos de auditoria de eventos eliminados
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 9739fb1eb8e4f5adf81cd699c851a51176f0429e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 8d656d5660b7c6e6d32d32a06c3dbf49c45e4ca04c4422128f1c4ea62413afa1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482269"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967344"
 ---
-# <a name="read-the-audit-logs-for-deleted-events"></a>Leia os registos de auditoria para eventos apagados
+# <a name="read-the-audit-logs-for-deleted-events"></a>Ler os registos de auditoria de eventos eliminados
 
-Eis como fazer isto:
+Eis como fazê-lo:
 
-1. Vá ao [Centro de Segurança & Compliance do Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Selecione **pesquisa**  >  [**de registo de auditoria de pesquisa**](https://go.microsoft.com/fwlink/?linkid=2103759).
+1. Vá para o Centro [de conformidade Office 365 de & de Conformidade.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. **Selecione**  >  [**Pesquisar registo de auditoria .**](https://go.microsoft.com/fwlink/?linkid=2103759)
     > [!NOTE]
-    > Se vir um aviso de que precisa de ligar a funcionalidade, ligue-a agora. Se a funcionalidade não estiver ligada, os resultados da pesquisa não serão capazes de extrair dados de datas anteriores.
-1. Selecione **Atividades** e, em seguida, encontre **atividades de Caixa de Correio de Troca**. Selecione as **mensagens eliminadas da pasta de itens eliminados** e mude as mensagens para opções de pasta de **itens eliminados.** Quando terminar, clique fora do painel para minimizar o painel **de Atividades.**
-1. Especifique o intervalo de datas e, em seguida, na caixa **Utilizadores,** selecione o nome de utilizador para o utilizador que pretende investigar. Pode selecionar mais do que um utilizador de cada vez.
-1. Selecione **Pesquisar**. As atividades aparecem nos **Resultados.**
-1. Para ver os detalhes, selecione uma atividade e, em seguida, selecione **Mais Informações**. Informações adicionais sobre o item eliminado, como a linha de assunto e a localização do item quando foi eliminado, são exibidas no campo **AffectedItems.**
+    > Se vir um aviso a dizer que precisa de ativar a funcionalidade, continue e ativa-a agora. Se a funcionalidade não estiver ativada, os resultados da pesquisa não poderão importar dados de datas anteriores.
+1. **Selecione Atividades** e, em **seguida, Exchange atividades da caixa de correio.** **Selecione as mensagens eliminadas da pasta Itens Eliminados** e as mensagens **movidas** para as opções de pasta Itens Eliminados. Quando terminar, clique fora do painel para minimizar **o painel** Atividades.
+1. Especifique o intervalo de  datas e, em seguida, na caixa Utilizadores, selecione o nome de utilizador do utilizador que pretende investigar. Pode selecionar mais do que um utilizador de cada vez.
+1. **Selecione Procurar**. As atividades são apresentadas em **Resultados.**
+1. Para ver os detalhes, selecione uma atividade e, em seguida, **selecione Mais Informações.** As informações adicionais sobre o item eliminado, como o assunto da linha e a localização do item quando foi eliminado, são **apresentadas** no campoItens Afetados.
     > [!NOTE]
-    > Não é possível restaurar itens eliminados utilizando a função de registo de auditoria. Para restaurar os itens eliminados, consulte [Recuperar itens eliminados ou e-mail na App Outlook Web](https://go.microsoft.com/fwlink/?linkid=2103759).
+    > Não pode restaurar itens eliminados com a funcionalidade de registo de auditoria. Para restaurar itens eliminados, consulte [Recuperar itens ou e-mails eliminados Outlook Web App](https://go.microsoft.com/fwlink/?linkid=2103759).
 
-Para saber mais, consulte [o registo de auditoria do Office 365 para resolver cenários comuns.](https://go.microsoft.com/fwlink/?linkid=2103944)
+Para saber mais, consulte [Procurar no registo Office 365 auditoria de pesquisa para remoção de cenários comuns.](https://go.microsoft.com/fwlink/?linkid=2103944)

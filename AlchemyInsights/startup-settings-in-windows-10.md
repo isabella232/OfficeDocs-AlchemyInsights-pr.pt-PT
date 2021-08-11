@@ -12,43 +12,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: 6dfae58a398db088ba00d9c2ea9788bab929ccc1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 526b92013f26675b5bf42077271ae7dc7003af31fa8f605d76aea92e0ccabfa1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828163"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909837"
 ---
 # <a name="startup-settings-in-windows-10"></a>Definições de arranque no Windows 10
 
-**Alterar quais aplicações são executadas automaticamente no arranque**
+**Alterar as aplicações executáveis automaticamente no arranque**
 
-1. Vá a [Definições > Apps > Startup](ms-settings:startupapps?activationSource=GetHelp).
+1. Vá para [o Definições > aplicações > Arranque.](ms-settings:startupapps?activationSource=GetHelp)
 
-2. Certifique-se de que qualquer aplicação que pretenda executar no arranque está **ligada**.
+2. Certifique-se de que qualquer aplicação que pretende executar no arranque está **ativo**.
 
-**Adicione uma app para executar automaticamente no arranque**
+**Adicionar uma aplicação para ser executada automaticamente no arranque**
 
 1. Clique ou toque **em Iniciar** e encontre a aplicação que pretende executar no arranque.
 
-2. Clique com o botão direito na aplicação, clique em **Mais** e, em seguida, clique em **Abrir a localização do ficheiro**. Isto abre o local onde o atalho para a aplicação é guardado. Se não houver opção para a localização do ficheiro Aberto, significa que a aplicação não pode ser executada no arranque.
+2. Clique com o botão direito do rato na aplicação, clique **em Mais e,** em seguida, clique **em Abrir localização do ficheiro**. Esta ação abre a localização onde o atalho da aplicação é guardado. Se não houver nenhuma opção para Abrir localização do ficheiro, significa que a aplicação não pode ser executada no arranque.
 
-3. Com a localização do ficheiro aberta, prima a **tecla** do logótipo do Windows + R , tipo **shell:startup,** em seguida, clique em **OK**. Isto abre a pasta Startup.
+3. Com a localização do ficheiro aberta, prima a tecla do logótipo **do Windows + R,** escreva **shell:startup** e, em seguida, clique em **OK.** Esta ação abre a pasta Arranque.
 
-4. Copie e cole o atalho para a aplicação desde a localização do ficheiro até à pasta Startup.
+4. Copie e copie o atalho para a aplicação a partir da localização do ficheiro para a pasta Arranque.
 
-**Opções avançadas de arranque (incluindo modo de segurança, definições UEFI e arranque de outro dispositivo)**
+**Opções de arranque avançadas (incluindo o Modo Cofre Desinserção, as definições UEFI e o arranque a partir de outro dispositivo)**
 
-1. Guarde o seu trabalho e feche quaisquer documentos abertos, uma vez que estes passos reiniciarão o seu PC.
+1. Guarde o seu trabalho e feche todos os documentos abertos, uma vez que estes passos irão reiniciar o seu PC.
 
-2. Ir para [Definições > Atualizar & recuperação > de segurança](ms-settings:recovery?activationSource=GetHelp).
+2. Vá para [Atualizar Definições > atualização & segurança > Recuperação.](ms-settings:recovery?activationSource=GetHelp)
 
-3. No **arranque avançado,** clique **em Reiniciar agora**. 
+3. Em **Arranque avançado, clique** em **Reiniciar agora**. 
 
-4. Depois do seu PC reiniciar para o ecrã de opção Escolha:
+4. Depois de o PC reiniciar para o ecrã Selecionar uma opção:
 
-    - Para arrancar a partir de um dispositivo como uma unidade USB, clique em **Utilizar um dispositivo**.
+    - Para ser iniciado a partir de um dispositivo como uma pen USB, clique **em Utilizar um dispositivo**.
 
-    - Para introduzir as definições UEFI (por vezes chamada configuração BIOS), clique em **Resolução de Problemas > Opções Avançadas > Definições de Firmware UEFI**. 
+    - Para introduzir as definições UEFI (por vezes denominadas configuração BIOS), clique em > Opções avançadas > **firmware UEFI Definições**. 
 
-    - Para introduzir o Modo de Segurança ou alterar as definições avançadas de arranque, clique em **Troubleshoot > Opções Avançadas > Configurações de Arranque**, clique em **"Reiniciar"** Pode ser-lhe pedido que introduza a sua [chave de recuperação BitLocker](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key). Depois de o seu PC recomeçar, clique na definição de arranque que pretende utilizar.
+    - Para entrar no modo Cofre de arranque ou alterar as definições de arranque avançadas, clique em Resolução de > Opções **avançadas >** de Arranque Definições e, em seguida, clique **em Reiniciar**. Poderá ser-lhe pedido que introduza a [sua chave de recuperação BitLocker.](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key) Após o PC reiniciar, clique na definição de arranque que pretende utilizar.

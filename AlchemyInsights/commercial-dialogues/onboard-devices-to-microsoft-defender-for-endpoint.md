@@ -1,5 +1,5 @@
 ---
-title: Dispositivos a bordo do Microsoft Defender para Endpoint
+title: Dispositivos de ido no Microsoft Defender para o Endpoint
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38d650936d61b78d1f54cd3f6101283d57c6949f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 39fd7a0e93fbf5d13c23f941c31293789c694929c529b70e9d2a9558dc3f2874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748427"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967488"
 ---
-# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Dispositivos a bordo do Microsoft Defender para Endpoint
+# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Dispositivos de ido no Microsoft Defender para o Endpoint
 
-O Microsoft Defender for Endpoint fornece uma experiência de operações de segurança centralizada para plataformas Windows e não-Windows. Ajuda-o a proteger a rede da sua organização e a utilizar o Microsoft Defender Security Center para rever alertas de vários sistemas operativos suportados:
+O Microsoft Defender para Endpoint fornece uma experiência de operações de segurança centralizada para Windows e plataformas não Windows internas. Ajuda-o a proteger a rede da sua organização e a utilizar o Centro de Segurança do Microsoft Defender para rever alertas de vários sistemas operativos suportados:
 
-- Para **máquinas windows 10,** consulte [ferramentas e métodos de embarque para dispositivos Windows 10](https://go.microsoft.com/fwlink/?linkid=2143460).
-- Para **servidores Windows**, consulte servidores de [bordo para o Microsoft Defender para o serviço Endpoint](https://go.microsoft.com/fwlink/?linkid=2143627).
-- No que **diz sobre pontos finais não Windows,** verifique se o seu sistema cumpre os requisitos para [o macOS](https://go.microsoft.com/fwlink/?linkid=2143461) ou [Linux](https://go.microsoft.com/fwlink/?linkid=2143462)e, em seguida, proceda ao [embarque](https://go.microsoft.com/fwlink/?linkid=2143628).
+- Para **Windows 10, consulte** Ferramentas [de adoção e métodos de adoção para Windows 10 dispositivos](https://go.microsoft.com/fwlink/?linkid=2143460).
+- Para **Windows, consulte** Servidores [de adoção para o serviço Microsoft Defender para Pontos Finais.](https://go.microsoft.com/fwlink/?linkid=2143627)
+- Para **pontos finais que Windows**, verifique se o seu sistema cumpre os requisitos para [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) ou [Linux](https://go.microsoft.com/fwlink/?linkid=2143462)e, em seguida, avance para a [igestão.](https://go.microsoft.com/fwlink/?linkid=2143628)

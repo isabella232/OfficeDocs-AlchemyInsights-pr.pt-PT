@@ -1,5 +1,5 @@
 ---
-title: Problema de Gateway de Aplicativo Proxy
+title: Problema com o Gateway do Proxy da Aplicação
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7804"
-ms.openlocfilehash: e706b0456199c2dbd3e5ba5e926ac974b7e12c36
-ms.sourcegitcommit: 07501553ea9adabdb50ac613687e1583d159e302
+ms.openlocfilehash: 8b3bbfb1db9be8cb7aa1f651499043b3433bd7b08e3ff271e810c591b6f74acf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49916902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951540"
 ---
-# <a name="app-proxy-gateway-issue"></a>Problema de Gateway de Aplicativo Proxy
+# <a name="app-proxy-gateway-issue"></a>Problema com o Gateway do Proxy da Aplicação
 
-Para resolver problemas comuns para o erro "Esta aplicação corporativa não pode ser acedida" numa aplicação de procuração de aplicação AD Azure, consulte [o erro "Não pode aceder a esta aplicação corporativa" quando utilizar uma aplicação Proxy de aplicação.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-sign-in-bad-gateway-timeout-error)
+Para refletir problemas comuns do erro "Não é possível aceder a esta aplicação empresarial" numa aplicação Proxy de Azure AD Application, consulte Erro "Não é possível aceder a esta Aplicação Empresarial" ao utilizar uma aplicação [Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-sign-in-bad-gateway-timeout-error)de Aplicação.

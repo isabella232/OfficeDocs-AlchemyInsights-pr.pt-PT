@@ -1,5 +1,5 @@
 ---
-title: Configuração de procuração de aplicativos
+title: Configuração do Proxy de Aplicações
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7800"
-ms.openlocfilehash: 0b782705afa8eab338687590baff90de4e17ccb9
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 835bfc59f77b31dc9a37c98db911505e2c7a758b37406dfc4da2d139afa61db5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885524"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951576"
 ---
-# <a name="app-proxy-configuration"></a>Configuração de procuração de aplicativos
+# <a name="app-proxy-configuration"></a>Configuração do Proxy de Aplicações
 
-1. Para entender como configurar uma aplicação Proxy de aplicação no Azure AD para expor as suas aplicações no local à nuvem, consulte [como configurar uma aplicação Proxy de aplicação.](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to)
-2. O único sinal de sso permite aos seus utilizadores aceder a uma aplicação sem autenticar várias vezes. Permite que a autenticação única ocorra na nuvem, contra o Azure Ative Directory, e permite que o serviço ou Conector personiem o utilizador para completar quaisquer desafios adicionais de autenticação da aplicação. Para saber mais, consulte [Como configurar um único sinal de inscrição para uma aplicação de Procuração de Aplicação.](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to)
-3. Use [este artigo](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) para resolver problemas comuns que as pessoas enfrentam ao criar uma nova aplicação de procuração de aplicações.
-4. Se tiver algum problema em configurar a autenticação de back-end para a sua aplicação, poderá necessitar de [configurações de delegação restritas de Kerberos para aplicação proxy](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) ou seguir orientações sobre [configurar a aplicação com o PingAccess](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) para resolver o seu problema.
+1. Para compreender como configurar uma aplicação Proxy de Aplicação no Azure AD para expor as suas aplicações no local à nuvem, consulte Como configurar uma aplicação [Proxy de Aplicação.](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to)
+2. O registo único (SSO) permite que os seus utilizadores acedam a uma aplicação sem autenticar múltiplas vezes. Permite que a autenticação única ocorra na nuvem, contra o Azure Active Directory e permite que o serviço ou Conector se fazer passar pelo utilizador para concluir quaisquer desafios adicionais de autenticação da aplicação. Para saber mais, consulte [Como configurar o registo único numa aplicação Proxy da Aplicação.](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to)
+3. Utilize [este artigo para](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) refletir problemas comuns com que as pessoas se detetam ao criar uma nova aplicação proxy de aplicação.
+4. Se estiver a ter problemas ao configurar a autenticação de back-end na sua aplicação, poderá ter de Resolver problemas de configurações de delegação restritas de [Kerberos](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) para o Application Proxy ou seguir as orientações sobre como configurar a aplicação com o [PingAccess](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) para resolver o seu problema.

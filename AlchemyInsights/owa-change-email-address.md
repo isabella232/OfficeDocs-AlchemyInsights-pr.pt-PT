@@ -1,5 +1,5 @@
 ---
-title: Alterar endereço de e-mail no Outlook na web
+title: Alterar endereço de e-mail Outlook na Web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000010"
 - "1995"
-ms.openlocfilehash: 7ce9cda279435beb74d43eaa433cf3c4ce358ff4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b13d7dafeabb87d027cdd3ae7659ccde79be2abfc328682885bfb0f95c1b442
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799323"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961386"
 ---
 # <a name="change-your-email-address"></a>Alterar o seu endereço de e-mail 
 
-Para alterar o seu endereço de e-mail, necessitará de privilégios de administrador.
+Para alterar o seu endereço de e-mail, precisa de privilégios de administrador.
   
-Siga as instruções na [Alteração do nome de utilizador e do endereço de e-mail no Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
+Siga as instruções no artigo [Alterar um nome de utilizador e endereço de e-mail no Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).

@@ -1,5 +1,5 @@
 ---
-title: Permissões do dispositivo
+title: Permissões de dispositivos
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8267"
-ms.openlocfilehash: a69f4d42381dfc73c24695b52922dc3e9f3e3be5
-ms.sourcegitcommit: 9400cd853b7a5a81f6f5a1ad9601fef37c18bcae
+ms.openlocfilehash: 86fdf7cf956f81904cd4df6cf2b4efef77c09d21d417228c5722f5afcbe5727f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50714174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913978"
 ---
-# <a name="device-permissions"></a>Permissões do dispositivo
+# <a name="device-permissions"></a>Permissões de dispositivos
 
-Para gerir um dispositivo Windows, tem de ser membro do grupo de administradores locais. Como parte do processo de adesão do Azure Ative Directory (Azure AD), a Azure AD atualiza a adesão deste grupo a um dispositivo. Pode personalizar a atualização de membros para satisfazer os requisitos do seu negócio. Uma atualização de adesão é, por exemplo, útil se pretender que o seu pessoal de helpdesk faça tarefas que exijam direitos de administrador num dispositivo.
+Para gerir um Windows, tem de ser um membro do grupo de administradores local. Como parte do processo de Azure Active Directory (Azure AD), o Azure AD atualiza a associação deste grupo num dispositivo. Pode personalizar a atualização de associação para satisfazer os seus requisitos empresariais. Uma atualização de associação é, por exemplo, útil se quiser permitir que os seus funcionários técnicos deem acesso a tarefas que requerem direitos de administrador num dispositivo.
 
-Para saber como funciona a atualização de membros dos administradores locais e como pode personalizá-la durante uma AD Join Azure, consulte [atribuir administradores locais a Dispositivos](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin). O conteúdo deste artigo não se aplica aos dispositivos híbridos Azure AD.
+Para saber como funciona a atualização da associação de administradores locais e como pode personalizá-la durante uma Associação do Azure AD, consulte Atribuir administradores locais [a Dispositivos.](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin) Os conteúdos deste artigo não se aplicam a dispositivos associados ao Azure AD híbrido.

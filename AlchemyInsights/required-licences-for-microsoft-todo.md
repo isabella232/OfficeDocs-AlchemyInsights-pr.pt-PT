@@ -1,5 +1,5 @@
 ---
-title: Licenças necessárias para Microsoft ToDo
+title: Licenças necessárias para o Microsoft ToDo
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,18 +14,18 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 981e2a639e886cffc453e1a1accff7f8a71a0959
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 232aa6ea3f4dae92b84436ef2441be095c858a3b65ca33e754d802f39edc2097
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828775"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972988"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>Licenças necessárias para Microsoft ToDo
+# <a name="required-licenses-for-microsoft-todo"></a>Licenças necessárias para o Microsoft ToDo
 
-[Licenças necessárias para Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Licenças necessárias para o Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-Um utilizador deve ter uma das seguintes licenças para utilizar o Microsoft ToDo:
+Um utilizador tem de ter uma das seguintes licenças para utilizar o Microsoft ToDo:
   
 - Empresas - Versão Essentials
 
@@ -33,31 +33,31 @@ Um utilizador deve ter uma das seguintes licenças para utilizar o Microsoft ToD
 
 - Microsoft 365 Firstline F1
 
-- Qualquer plano empresarial do Office 365
+- Qualquer Office 365 Enterprise plano
 
-- Negócio Produtivo Seguro
+- Secure Productive Business
 
-- Empresa Produtiva Segura E3
+- Secure Productive Enterprise E3
 
-- Empresa Produtiva Segura E5
+- Secure Productive Enterprise E5
 
-- Qualquer plano de educação do Office 365
+- Qualquer Office 365 Educação plano
 
 - Microsoft 365 A3
 
 - Microsoft 365 A5
 
-Além de uma licença de produto válida, uma das seguintes versões do Exchange Online é necessária para que o ToDo possa sincronizar os dados do utilizador:
+Para além de uma licença de produto válida, é necessária uma das seguintes versões do Exchange Online para que o ToDo consiga sincronização dos dados do utilizador:
   
-- Plano De Intercâmbio Online 1
+- Exchange Online Plano 1
 
-- Plano De Intercâmbio Online 2
+- Exchange Online Plano 2
 
-- Troca de Bens Essenciais
+- Exchange T essentials
 
-- Troca de Quiosque Online
+- Exchange Online Kiosk
 
-- Troca online POP
+- Acesso POP ao Exchange Online
 
 [Atribuir licenças a contas de utilizador com o Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

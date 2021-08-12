@@ -1,5 +1,5 @@
 ---
-title: Problemas de sinalização sem emenda sem emenda (SSO) baseados em problemas
+title: Remoção de problemas de SSO (SSO) baseados em ligações
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9372"
-ms.openlocfilehash: 7f8b9247176df7f561ba89f8d75cbdc74155fcd3
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+ms.openlocfilehash: 95883de91a78f4a2821e50102be153e08f0d5cfb569d9d86c71d87fe5e28e149
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50695047"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972871"
 ---
-# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Problemas de sinalização sem emenda sem emenda (SSO) baseados em problemas
+# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Remoção de problemas de SSO (SSO) baseados em ligações
 
-A maioria dos utilizadores é capaz de resolver o seu problema de sinal único sem emenda (SSO) baseado em Link utilizando os passos abaixo:
+A maioria dos utilizadores consegue resolver o seu problema de SSO (SSO) baseado em ligações, de acordo com os passos abaixo:
 
-**Saiba mais sobre o Linked SSO**: Compreenda o [sign-on ligado](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) - A opção Linked permite configurar o local do alvo quando um utilizador seleciona a aplicação no portal My Apps ou Office 365 da sua organização. Este artigo entra em mais detalhes sobre a opção ligada.
+Saiba mais sobre o **SSO** Ligado : Compreender o sinal de abertura ligado – a opção Ligado [permite-lhe](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) configurar a localização de destino quando um utilizador seleciona a aplicação no portal As Minhas Aplicações ou do Office 365 organização. Este artigo é mais detalhadamente sobre a opção ligada.
 
-**Configure Linked SSO**: [Configure link](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
+**Configurar o SSO Ligado:** [configurar ligação](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
 
-**Obter Ajuda**: [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) - Enviar pedidos de funcionalidades e questões técnicas sobre o sign-on único baseado em Link (SSO) no Azure Ative Directory & desenvolvimento.
+**Obter Ajuda**: [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) - Submeter pedidos de funcionalidades e perguntas técnicas sobre o SSO (SSO) baseado na ligação para o Azure Active Directory & desenvolvimento.

@@ -1,5 +1,5 @@
 ---
-title: Clicar duas vezes num ficheiro do Office não consegue abri-lo
+title: Fazer duplo clique num Office ficheiro não abre
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2200002"
 - "161"
-ms.openlocfilehash: b9c563f7dd099bf3bad9018f69e2096816dd7290
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 519051ac0ffc11d2b17c14959464c1123654bef38d6e10efd252b4ff3d8bbc1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814816"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965112"
 ---
-# <a name="double-clicking-an-office-file-fails-to-open-it"></a>Clicar duas vezes num ficheiro do Office não consegue abri-lo
+# <a name="double-clicking-an-office-file-fails-to-open-it"></a>Fazer duplo clique num Office ficheiro não abre
 
-Depois de clicar duas vezes num ficheiro do Office, pode ver o programa aberto, mas o ficheiro em si não abre. Ou pode ter o erro: "Houve um problema em enviar o comando para o programa." Há muitas causas para isso, mas as duas soluções mais comuns são:
+Após fazer duplo clique num Office ficheiro, poderá ver o programa aberto, mas o ficheiro em si não abrir. Também poderá obter o erro: "Ocorreu um problema ao enviar o comando para o programa". Existem muitas causas para este caso, mas as duas soluções mais comuns são:
 
-- A partir do Excel, certifique-se de que a opção DDE não está controlada. A opção pode ser encontrada criando um novo livro de trabalho e, em seguida, escolhendo **Opções de > de Arquivo > Advanced**. Na secção **Geral,** desmarque as **outras aplicações que utilizam a Dynamic Data Exchange (DDE)**.
+- A partir do Excel, certifique-se de que a opção DDE está des selecionado. A opção pode ser encontrada ao criar um novo livro e, em seguida, selecionado Opções de **> > Avançadas.** Na secção **Geral,** desloque a caixa de segurança Ignorar outras aplicações que **utilizam dados dinâmicos Exchange (DDE).**
 
-- Executar uma Reparação On-line para restaurar as definições predefinidos. Clique no botão Iniciar o Windows e procure "Painel de Controlo". Abra o **Painel de Controlo** e vá a Programas > Programas e **Funcionalidades**. Em seguida, clique com o botão direito **microsoft Office [versão]** e escolha **Change > Online Repair**.
+- Execute uma Reparação Online para restaurar as predefinições. Clique no Windows Iniciar e procure "Painel de Controlo". Abra o **Painel de Controlo** e vá para Programas > Programas e **Funcionalidades.** Em seguida, clique com o **botão direito Microsoft Office [Versão]** e **selecionar Alterar > Reparação Online.**
 
-Se nenhuma destas soluções funcionar, uma lista mais completa de soluções pode ser encontrada no artigo de suporte, [clicando duas vezes num ficheiro do Office não o abre](https://support.office.com/article/Double-clicking-an-Office-file-fails-to-open-it-1e9c0ad9-34c8-4440-a42e-d30186b29ed6).
+Se nenhuma destas soluções funcionar, pode encontrar uma lista mais completa de soluções no artigo de suporte, ao fazer duplo clique num ficheiro Office falha ao [abri-lo.](https://support.office.com/article/Double-clicking-an-Office-file-fails-to-open-it-1e9c0ad9-34c8-4440-a42e-d30186b29ed6)

@@ -1,5 +1,5 @@
 ---
-title: Desligue as previsões de texto
+title: Desarma as predições de texto
 ms.author: v-smandalika
 author: v-smandalika
 manager: v-aiyengar
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000059"
 - "6217"
-ms.openlocfilehash: 3ee4aecabb8fc534bc45d40a7546928eee679bc8
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: df62814d3fcd843faf6c6e1a227963a5c682cb1799498433ade15ab1b9e9a6fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447545"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920262"
 ---
-# <a name="turn-off-text-predictions"></a>Desligue as previsões de texto
+# <a name="turn-off-text-predictions"></a>Desarma as predições de texto
 
-1. Selecione **Definições > Ver todas as definições do Outlook > Enviar por email > Compor e responder**.
-2. De acordo com **as previsões do texto**, não **sesselresso Sugira palavras de frases como escrevo**.
+1. **Selecione Definições > Ver todas Outlook definições de > Correio > Compor e responder.**
+2. Em **Predições de texto**, desmarco **a seleção de Sugerir palavras de expressões ao escrever**.
 
-Para obter mais informações, consulte [Utilizar tecnologia inteligente no Outlook na web e Outlook.com](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70).
+Para obter mais informações, [consulte Utilizar tecnologia inteligente Outlook na Web e Outlook.com.](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70)

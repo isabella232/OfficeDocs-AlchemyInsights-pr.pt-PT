@@ -1,5 +1,5 @@
 ---
-title: Questões de desempenho-SharePoint ou OneDrive
+title: Problemas de desempenho no SharePoint ou OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -13,22 +13,22 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 28867b71df5353dcee5cc3361742f10357a0efe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 921aae7eba8487c5600f290fd671ef2675372e6af0478b913e38354856cbaa22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911853"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint ou OneDrive lentos, inacessíveis ou indisponíveis para vários utilizadores
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint ou OneDrive lento, inacessível ou indisponível para múltiplos utilizadores
 
-O SharePoint ou o OneDrive podem ser lentos, inacessíveis ou indisponíveis, ou podem apresentar o serviço indisponível ou 503 erros, por várias razões:
+O SharePoint OneDrive pode estar lento, inacessível ou indisponível ou apresentar erros de serviço indisponíveis ou 503, por diversas razões:
   
-- Se o seu site SharePoint ou OneDrive for lento ou atrasado para vários utilizadores, pode haver um problema de serviço temporário onde os utilizadores experimentam atrasos intermitentes ou erros de navegação ao aceder a sites SharePoint ou conteúdo OneDrive. Consulte o [painel de saúde do Serviço](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) para ver se a sua organização está com impacto.
+- Se o seu site do SharePoint ou do OneDrive estiver lento ou atrasado para vários utilizadores, poderá haver um problema de serviço temporário em que os utilizadores se detetam atrasos intermitentes ou erros de navegação ao aceder a sites do SharePoint ou OneDrive conteúdo. Consulte o [dashboard Estado de saúde do](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) serviço para ver se a sua organização é afetada.
   
-- Os utilizadores podem receber um *servidor 503 está a um* erro ocupado ao tentar navegar para sites SharePoint ou OneDrive. Este erro pode ser causado por estrangulamento dentro do serviço SharePoint. O SharePoint Online utiliza a limitação para manter o desempenho e a fiabilidade ideais do serviço do SharePoint Online. A limitação restringe o número de ações do utilizador ou chamadas em simultâneo (por script ou código) para evitar a utilização excessiva de recursos. Para obter mais informações sobre o estrangulamento, [evite ser estrangulado ou bloqueado no SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+- Os utilizadores poderão receber um erro de *503* servidores que estão ocupados ao tentarem navegar para o SharePoint ou para OneDrive sites. Este erro pode ser causado pela throttling no serviço SharePoint. O SharePoint Online utiliza a limitação para manter o desempenho e a fiabilidade ideais do serviço do SharePoint Online. A limitação restringe o número de ações do utilizador ou chamadas em simultâneo (por script ou código) para evitar a utilização excessiva de recursos. Para obter mais informações sobre a throttling, consulte Evitar ser retido [ou bloqueado no SharePoint Online.](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-- Se experimentar um desempenho lento com um site ou página do SharePoint **clássico** ou **moderno,** utilize a [ferramenta de Diagnóstico](https://aka.ms/perftool) de Página para analisar as páginas.
+- Se o desempenho for lento num site ou página do **SharePoint** clássico ou moderno, utilize **a** ferramenta Diagnóstico de [Página](https://aka.ms/perftool) para analisar as páginas.
   
-- Se ainda experimentar um desempenho lento geral, por favor reveja os recursos na parte inferior deste artigo: [Introdução à afinação](https://go.microsoft.com/fwlink/?linkid=2024334) de desempenho para o SharePoint Online
+- Se continuar a experienciar um desempenho lento geral, reveja os recursos na parte inferior deste artigo: Introdução à ofinação do [desempenho do SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
   

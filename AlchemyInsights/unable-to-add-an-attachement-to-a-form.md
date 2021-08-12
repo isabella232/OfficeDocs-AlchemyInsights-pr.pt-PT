@@ -1,5 +1,5 @@
 ---
-title: Incapaz de adicionar um anexo a uma forma virada externamente
+title: Não é possível adicionar um anexo a um formulário voltado para o exterior
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 50434b664d0fbec6788f7d5601f39123420489bd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: caa23df4aa0847a8c31fc015e8c18859132a5a2c1ff7fe6d3dd98357671c3435
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51797336"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920226"
 ---
-# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Incapaz de adicionar um anexo a uma forma virada externamente
+# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Não é possível adicionar um anexo a um formulário voltado para o exterior
 
-Se estiver a tentar adicionar um anexo a uma pesquisa externa do Microsoft Forms, essa funcionalidade ainda não está disponível. Para acompanhar o estado do pedido de funcionalidade, aceda a [esta entrada UserVoice](https://go.microsoft.com/fwlink/?linkid=2133069)e adicione o seu voto.
+Se estiver a tentar adicionar um anexo a um inquérito externo do Microsoft Forms, essa funcionalidade ainda não está disponível. Para controlar o estado desse pedido de funcionalidade, vá a [esta entrada do UserVoice e](https://go.microsoft.com/fwlink/?linkid=2133069)adicione o seu voto.

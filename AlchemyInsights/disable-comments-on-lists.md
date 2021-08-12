@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "7613"
-ms.openlocfilehash: 28a04424cdace0083ac012b7301595a7b9ca2687
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: e797c8ea75aa9a11358cec6ccac0f51f203f93aa5e6e0a0811ec50178c914b20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706768"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928770"
 ---
 # <a name="disable-comments-on-lists"></a>Desativar comentários em Listas
 
-Os administradores podem desativar a funcionalidade a nível da organização alterando o parâmetro **CommentsOnListItemsDisabledd no** **cmdlet Set-SPOTenant** PowerShell.
+Os administradores podem desativar a funcionalidade ao nível da organização ao alterar o parâmetro **CommentsOnListItemsDisabled** no cmdlet **Set-SPOTenant** PowerShell.
 
-Não é atualmente possível desativar comentários ao nível do site ou da lista. Esperamos ter esses controlos numa atualização posterior, provavelmente no primeiro trimestre de 2021.
+Atualmente, não é possível desativar o comentário ao nível do site ou da lista. Esperamos ter esses controlos numa atualização posterior, provavelmente no primeiro trimestre de 2021.

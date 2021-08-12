@@ -1,5 +1,5 @@
 ---
-title: Reportar anexos suspeitos
+title: Comunicar anexos suspeitos
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: c4219d67666b46634506617a96c0ab458836410a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 78b803e25a7ec39b8b5a9328e32e380b1a1c16b8859cc713935f38590b1bf3ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748245"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948930"
 ---
-# <a name="report-suspicious-attachments"></a>Reportar anexos suspeitos
+# <a name="report-suspicious-attachments"></a>Comunicar anexos suspeitos
 
-1. No voo de **submissão Nova,** selecione **Attachment** e, em seguida, carreie o ficheiro que pretende digitalizar.
+1. Na **panfleto Nova submissão,** selecione **Anexo** e, em seguida, carregar o ficheiro que gostaria de analisar.
     > [!NOTE]
-    > Há uma limitação de 3 MB neste momento. Se o ficheiro exceder 3 MB, considere submetê-lo usando um ID de e-mail.
-2. Se selecionar **Deve ter sido bloqueado,** marcará automaticamente o item como **Malware**.
-3. Selecione **Enviar por isso.**
+    > De momento, existe uma limitação de 3 MB. Se o ficheiro exceder 3 MB, considere submetê-lo utilizando um ID de e-mail.
+2. Se **selecionar Devia ter sido bloqueado**, este irá marcar automaticamente o item como Software **Malicivo**.
+3. **Selecione Submeter**.

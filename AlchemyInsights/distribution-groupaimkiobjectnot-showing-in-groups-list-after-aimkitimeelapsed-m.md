@@ -1,5 +1,5 @@
 ---
-title: Grupo de distribuição '{AimKIObject}' não mostrando na lista de grupos após minutos {AimKITimeElapsed}
+title: O Grupo de Distribuição '{AimKIObject}' não é apresentado na lista Grupos após {AimKITimeElapsed} minutos
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -9,16 +9,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
-ms.openlocfilehash: bd7e5d71dd2832e253df508fe8819c137c9411aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 10001493ee25a08d53aaf00f53e6008a35fdff3589f25a1d348547de08a6fd3a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815077"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948066"
 ---
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Grupo de distribuição "{AimKIObject}" não mostrando na lista de grupos após minutos {AimKITimeElapsed}
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>O Grupo de Distribuição "{AimKIObject}" não é apresentado na lista Grupos após {AimKITimeElapsed} minutos
 
-O seu grupo "{AimKIObject}" foi criado {AimKITimeElapsed} há minutos. Normalmente não demora mais de 60 minutos para o seu novo grupo de distribuição aparecer no centro de administração.
+O seu grupo "{AimKIObject}" foi criado há {AimKITimeElapsed} minutos. Normalmente, não demora mais do que 60 minutos para que o seu novo grupo de distribuição seja apresentado no Centro de administração.
   
-Poderá utilizar a funcionalidade Grupos > destinatários no [Centro de Administração de Câmbio](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) para gerir o seu grupo agora, ou utilizar a opção "Deixe-nos ligar-lhe" para falar com um engenheiro de suporte. 
+Poderá utilizar a funcionalidade Destinatários > Grupos no Centro de Administração do [Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) para gerir o seu grupo agora ou utilizar a opção "Deixe-nos ligar-lhe" para falar com um engenheiro de suporte. 
   

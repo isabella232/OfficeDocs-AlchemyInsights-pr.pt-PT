@@ -1,5 +1,5 @@
 ---
-title: Obter módulo de erro personalizado não reconhece este erro ao descarregar um traço de mensagem?
+title: O módulo de erro personalizado não reconhece este erro ao transferir um rastreio de mensagens?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001484"
 - "3520"
-ms.openlocfilehash: a1dc7bb93be0ca224b2c1e5fde98d4af393d2004
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d686e38e171e215055f6c5200f02bf52ad4ebc1c0fb502e86c9515a8658e0904
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815770"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914764"
 ---
-# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>Obter "módulo de erro personalizado não reconhece este erro" ao descarregar um traço de mensagem?
+# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>Está a obter "o módulo de erro personalizado não reconhece este erro" ao transferir um rastreio de mensagens?
 
-Estamos cientes do problema e estamos a trabalhar numa correção.  Entretanto, tente **limpar** a cache do seu navegador ou utilize o modo InPrivate para resolver este problema.
+Temos conhecimento do problema e estamos a trabalhar numa correção.  Entretanto, experimente limpar a **cache** do seu browser ou utilizar o modo InPrivate para resolver este problema.

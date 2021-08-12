@@ -1,5 +1,5 @@
 ---
-title: Saiba mais sobre a Prevenção de Perdas de Dados (DLP) no Microsoft Edge
+title: Saiba mais sobre a Prevenção de Perda de Dados (DLP) no Microsoft Edge
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001505"
 - "3562"
-ms.openlocfilehash: 818a1bbc0d6e386a69f38aeee12e5be805013d42
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9610093d3ca87d2ba1ed3544bd2911a2154bd7fafb616fd077b42d5cce6c49fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51837493"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963258"
 ---
-# <a name="learn-about-data-loss-prevention-dlp-in-microsoft-edge"></a>Saiba mais sobre a Prevenção de Perdas de Dados (DLP) no Microsoft Edge
+# <a name="learn-about-data-loss-prevention-dlp-in-microsoft-edge"></a>Saiba mais sobre a Prevenção de Perda de Dados (DLP) no Microsoft Edge
 
-O número de pessoas que trabalham remotamente tem vindo a aumentar. Consequentemente, mais trabalho e atividades pessoais são realizados em dispositivos móveis, dados mais sensíveis são partilhados fora do local de trabalho, e mais desses dados movem-se entre dispositivos pessoais e corporativos em várias redes públicas e privadas.
+O número de pessoas que trabalham remotamente tem aumentado. Consequentemente, mais atividades de trabalho e pessoais são executadas em dispositivos móveis, são partilhados dados mais confidenciais fora do local de trabalho e mais destes dados movem-se entre dispositivos pessoais e empresariais numa variedade de redes públicas e privadas.
 
-Os dados confidenciais das empresas incluem dados financeiros e informações pessoalmente identificáveis (PII), tais como números de cartões de crédito, números de segurança social e registos de saúde. Para cumprir as normas comerciais e os regulamentos do setor, as organizações devem proteger dados sensíveis e impedir a sua divulgação não autorizada. O DLP é um sistema de tecnologias que permite às organizações realizar esta tarefa.
+Os dados empresariais confidenciais incluem dados financeiros e informações de identificação pessoal (PII), como números de cartões de crédito, números de segurança social e registos de saúde. Para cumprir as normas empresariais e as normas do setor, as organizações têm de proteger dados confidenciais e impedir a sua divulgação não autorizada. O DLP é um sistema de tecnologias que permite às organizações realizarem esta tarefa.
 
-Para saber mais sobre duas diferentes soluções DLP suportadas de forma nativa pelo Microsoft Edge, consulte [o Microsoft Endpoint DLP](https://go.microsoft.com/fwlink/?linkid=2151765) e [o Windows Information Protection (WIP)](https://go.microsoft.com/fwlink/?linkid=2151766).
+Para saber mais sobre duas soluções DLP diferentes suportadas nativamente pelo Microsoft Edge, consulte Microsoft [Endpoint DLP](https://go.microsoft.com/fwlink/?linkid=2151765) e [Windows Information Protection (WIP).](https://go.microsoft.com/fwlink/?linkid=2151766)

@@ -1,5 +1,5 @@
 ---
-title: Implementar Sign-On única sem emenda
+title: Implementar o Single Sign-On
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
-ms.openlocfilehash: 5d0567d55232365d7e55ab6744484ba5d3e1eb2c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 070f6a6606e2ac3e6772050803d654d79bae642802c931f756d1c1ac3421f34d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815410"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914122"
 ---
-# <a name="enable-seamless-sso"></a>Ativar SSO sem emenda
+# <a name="enable-seamless-sso"></a>Ativar o SSO Sem Comam
 
-Azure Ative Directory (Azure AD) Seamless Single Sign-On (Seamless SSO) assina automaticamente nos utilizadores quando estão nos seus desktops corporativos que estão ligados à sua rede corporativa.
+O Azure Active Directory (Azure AD) Single Sign-On (SSO Simples) sem com fios (SSO Incorporado) dá automaticamente entrada aos utilizadores quando estes se encontrarem nos respetivos ambientes de trabalho empresariais ligados à sua rede empresarial.
   
-[Siga os passos deste artigo para permitir o SSO sem emenda](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
+[Siga os passos neste artigo para ativar o SSO Simples](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   
 

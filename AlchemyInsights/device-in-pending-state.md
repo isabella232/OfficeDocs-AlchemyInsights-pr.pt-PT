@@ -12,54 +12,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: f70b43a8b914b0d2dda9db61606b8ae24523f869
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679988"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914014"
 ---
 # <a name="device-in-pending-state"></a>Dispositivo em estado pendente
 
 **Pré-requisitos:**
 
-1. Se estiver a configurar os registos do dispositivo pela primeira vez, certifique-se de que reviu [a Introdução à gestão do dispositivo no Azure Ative Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) que o guiará sobre como obter dispositivos sob o controlo da Azure AD.
-2. Se estiver a registar os dispositivos no Azure AD diretamente e a inscrevê-los no Intune, terá de se certificar de que [tem configurado Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) e ter o [licenciamento](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) em primeiro lugar.
-3. Certifique-se de que está autorizado a realizar operações em Azure AD e no local AD. Apenas um administrador global em Azure AD pode gerir as definições para registos de dispositivos. Além disso, se estiver a configurar registos automáticos no seu Ative Directory no local, terá de ser administrador do Ative Directory e da AD FS (se aplicável).
+1. Se estiver a configurar registos de dispositivos pela primeira vez, certifique-se de que reviu a Introdução à gestão de dispositivos no [Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) que irá guiá-lo sobre como colocar os dispositivos sob controlo do Azure AD.
+2. Se estiver a registar dispositivos diretamente no Azure AD e a inscrever os [dispositivos](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) no Intune, terá de se certificar de que configurou o [Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) e de que o licenciamento está em vigor primeiro.
+3. Certifique-se de que está autorizado a efetuar operações no Azure AD e no AD no local. Apenas um administrador global no Azure AD pode gerir as definições dos registos de dispositivos. Além disso, se estiver a configurar o registo automático no seu Active Directory no local, terá de ser um administrador do Active Directory e do AD FS (se aplicável).
 
-O processo híbrido Azure AD aderir ao processo de registo requer que os dispositivos estejam na rede corporativa. Também funciona sobre a VPN, mas há algumas ressalvas nisso. Ouvimos os clientes precisarem de assistência para resolver problemas com o híbrido Azure AD aderir ao processo de registo em circunstâncias de trabalho remoto.
+O processo de registo de associação do Azure AD híbrido exige que os dispositivos se encontrarem na rede empresarial. Também funciona com VPN, mas existem algumas ressaltas para isso. Ouvimos os clientes que precisam de assistência para resolver o processo de registo híbrido do Azure AD em circunstâncias de trabalho remoto.
 
-**Ambiente de autenticação em nuvem (utilizando a sincronização de haxixe de palavra-passe AZure ou a autenticação de passagem)**
+**Ambiente de autenticação na nuvem (com sincronização de hashes de palavras-passe do Azure AD ou autenticação pass-through)**
 
-Este fluxo de registo também é conhecido como "Sync Join".
+Este fluxo de registo também é conhecido como "Associação de Sincronização".
 
-Aqui está uma descrição do que acontece durante o processo de registo:
+Eis uma discriminação do que acontece durante o processo de registo:
 
-1. O Windows 10 descobre o registo do Ponto de Ligação de Serviço (SCP) quando o utilizador inicia sessão no dispositivo.
+1. Windows 10 deteta o registo do Ponto de Ligação de Serviço (SCP) quando o utilizador iniciar sessão no dispositivo.
 
-    1. O dispositivo tenta primeiro obter informações do cliente da SCP do lado do cliente no registo [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Para mais informações, consulte [o documento.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)
-    1. Se falhar, o dispositivo comunica com o Ative Directory no local para obter informações do inquilino da SCP. Para verificar o SCP, consulte este [documento](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point).
-
-    > [!NOTE]
-    > Recomendamos que se habilita o SCP no Ative Directory e utilize apenas o SCP do lado do cliente para validação inicial.
-
-2. O Windows 10 tenta comunicar com o Azure AD no contexto do sistema para se autenticar contra o AD Azure.
-
-    Pode verificar se o dispositivo pode aceder aos recursos da Microsoft sob a conta do sistema utilizando o [script de conectividade de registo do dispositivo de teste](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0).
-
-3. O Windows 10 gera certificado auto-assinado e armazena-o sob o objeto do computador no Ative Directory. Isto requer uma linha de visão para o Controlador de Domínio.
-
-4. O objeto do dispositivo que tem certificado é sincronizado com Azure AD via Azure AD Connect. O ciclo de sincronização é a cada 30 minutos por defeito, mas depende da configuração do Azure AD Connect. Para mais informações, consulte este [documento.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)
-
-5. Nesta fase, você deve ser capaz de ver o dispositivo sujeito em estado "**Pendente**" sob a lâmina do dispositivo do Portal Azure.
-
-6. No próximo login do utilizador para o Windows 10, o registo será concluído.
+    1. O dispositivo tenta primeiro obter informações do inquilino do SCP do lado do cliente no registo [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Para obter mais informações, consulte [o documento](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
+    1. Se falhar, o dispositivo comunica com o Active Directory no local para obter informações do inquilino através do SCP. Para verificar o SCP, consulte este [documento](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point).
 
     > [!NOTE]
-    > Se estiver em VPN e o logoff/login terminar a conectividade do domínio, pode ativar o registo manualmente. Para fazer isto:
+    > Recomendamos a ativação do SCP no Active Directory e a utilização apenas do SCP do lado do cliente para validação inicial.
+
+2. Windows 10 a comunicar com o Azure AD no contexto do sistema para se autenticar contra o Azure AD.
+
+    Pode verificar se o dispositivo pode aceder aos recursos da Microsoft na conta do sistema ao utilizar o script de Conectividade [de Registo de Dispositivos de Teste.](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0)
+
+3. Windows 10 gera certificado autoassinado e armazena-o sob o objeto de computador no Active Directory no local. Isto requer que o Controlador de Domínios exija que o Controlador de Domínios o desloquem.
+
+4. O objeto de dispositivo com o certificado é sincronizado com o Azure AD através do Azure AD Ligação. Por predefinição, o ciclo de sincronização é a cada 30 minutos, mas depende da configuração do Azure AD Ligação. Para obter mais informações, consulte este [documento](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
+
+5. Nesta fase, deverá conseguir ver o dispositivo com o assunto no estado "**Pendente**" em Dispositivo com o dispositivo do Portal do Azure.
+
+6. Na próxima sessão de início de sessão Windows 10 utilizador, o registo será concluído.
+
+    > [!NOTE]
+    > Se estiver a usar VPN e o logótipo/início de sessão terminar a conectividade do domínio, pode ativar o registo manualmente. Para o fazer:
     >
-    > Emita um `dsregcmd /join` local local na solicitação de administração ou remotamente via PSExec para o seu PC.
+    > Emite `dsregcmd /join` um problema localmente num pedido de administração ou remotamente através do PSExec para o seu PC.
     >
     > Por exemplo: `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
-Para questões comuns com o registo do dispositivo Azure Ative Directory, consulte [O FAQ dos Dispositivos](https://docs.microsoft.com/azure/active-directory/devices/faq).
+Para problemas comuns com o Azure Active Directory de dispositivos, consulte as [FAQ dos Dispositivos.](https://docs.microsoft.com/azure/active-directory/devices/faq)

@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 937f5aef89073ecd1c3c7b48d69b482c748e844f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36f4445b7635d45d8fae1aec58d981fb830f430ca7a92189d8c038e04a86ef67
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912753"
 ---
 # <a name="increase-the-size-of-a-shared-mailbox"></a>Aumentar o tamanho de uma caixa de correio partilhada
 
-Pode aumentar o tamanho de uma caixa de correio partilhada do tamanho padrão de 50 GB para 100 GB, atribuindo à caixa de correio partilhada uma licença Exchange Online P2 (que está incluída nas licenças E3 e E5). Quando atribuir a licença P2 à caixa de correio partilhada em [utilizadores Ativos,](https://portal.office.com/adminportal/home)o tamanho será automaticamente aumentado dentro de 15 minutos.
+Pode aumentar o tamanho de uma caixa de correio partilhada do tamanho predefinido de 50 GB para 100 GB ao atribuir uma licença Exchange Online P2 à caixa de correio partilhada (que está incluída nas licenças E3 e E5). Ao atribuir a licença P2 à caixa [](https://portal.office.com/adminportal/home)de correio partilhada em Utilizadores ativos, o tamanho será automaticamente aumentado num prazo de 15 minutos.

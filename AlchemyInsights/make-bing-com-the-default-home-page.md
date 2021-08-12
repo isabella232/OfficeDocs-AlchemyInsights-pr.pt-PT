@@ -1,5 +1,5 @@
 ---
-title: Faça Bing.com a página inicial padrão
+title: Tornar Bing.com a home page predefinida
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9263"
-ms.openlocfilehash: 23229bc6d01a84684d7074e498058e9674221d36
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: afe8c68d1d5d0c9ad898d4ca90931b02449a90c4564f9fdc9abfaf6ce53aeba1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51405436"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912429"
 ---
-# <a name="make-bingcom-the-default-home-page"></a>Faça Bing.com a página inicial padrão
+# <a name="make-bingcom-the-default-home-page"></a>Tornar Bing.com a home page predefinida
 
-Para fazer bing a página inicial padrão no Microsoft Edge, Google Chrome e Internet Explorer, siga as instruções em [Make Bing.com a página inicial padrão](https://go.microsoft.com/fwlink/?linkid=2149816).
+Para tornar Bing home page predefinida no Microsoft Edge, Google Chrome e Internet Explorer, siga as instruções em Tornar [o Bing.com](https://go.microsoft.com/fwlink/?linkid=2149816)a home page predefinida .

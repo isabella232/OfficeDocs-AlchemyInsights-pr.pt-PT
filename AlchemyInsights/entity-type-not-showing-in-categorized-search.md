@@ -1,5 +1,5 @@
 ---
-title: Tipo de entidade não mostra resultados de pesquisa categorizados ou de relevância na Interface Unificada Dynamics 365
+title: Tipo de entidade que não é apresentado nos resultados de pesquisa categorizados ou de relevância na Interface Unificada do Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: f18d3128cd6fdbddc96789b2507f328448fc25c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b14eedf2ceb0d8a0927df42c5bdf9f2652507f8686c01d0b90b6479ee2e4f062
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709342"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946744"
 ---
-# <a name="entity-type-not-showing-in-search-results"></a>Tipo de entidade não aparece nos resultados da pesquisa
+# <a name="entity-type-not-showing-in-search-results"></a>Tipo de entidade não apresentado nos resultados da pesquisa
 
-Para que um tipo de entidade apareça na pesquisa categorizada ou na pesquisa de relevância na Interface Unificada Dynamics 365, deve ser adicionado primeiro ao módulo de aplicação.
+Para que um tipo de entidade apareça na pesquisa categorizada ou pesquisa de relevância na Interface Unificada do Dynamics 365, primeiro tem de ser adicionada ao módulo da aplicação.
 
-Nota: Ao procurar anexos em busca de relevância, a entidade de anexo deve ser adicionada ao módulo da aplicação, mesmo que o registo dos pais seja o que é mostrado nos resultados.
+Nota: ao procurar anexos na pesquisa de relevância, a entidade de anexo tem de ser adicionada ao módulo da aplicação, apesar de o registo principal ser o que é apresentado nos resultados.

@@ -1,5 +1,5 @@
 ---
-title: NDR com código de erro 554 5.2.2 caixa de correio cheia
+title: NDR com o código de erro 554 5.2.2 caixa de correio cheia
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: a98f84fca8ddf89f04d325865932d457e4934978
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: b4dea93ce34a836180d26b5e2672cbdb776c4c39c27a270731d52ceea5bd319f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403718"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912537"
 ---
-# <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR com código de erro 554 5.2.2 caixa de correio cheia
+# <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR com o código de erro 554 5.2.2 caixa de correio cheia
 
-Se estiver a receber o NDR com o código de erro "554 5.2.2 caixa de correio cheia", ao enviar e-mails para uma pasta pública via correio:  
+Se estiver a obter um NDR com o código de erro "554 5.2.2 caixa de correio cheia", ao enviar e-mails para uma pasta pública com correio ativado:  
 
-Utilize os passos [deste](https://aka.ms/554522) artigo para garantir que a quota de pasta pública ou de caixa de correio pública não tenha atingido.
+Utilize os passos neste [artigo para](https://aka.ms/554522) garantir que a quota da caixa de correio pública ou da pasta pública não foi alcançada.

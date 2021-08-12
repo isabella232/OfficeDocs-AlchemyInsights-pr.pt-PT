@@ -1,5 +1,5 @@
 ---
-title: Sobre briefing email
+title: Acerca do e-mail Briefing
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6179"
 - "9003284"
-ms.openlocfilehash: 04fcc9930de844d221033e976adb04ef483a27ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d1c7027eeba1d156ed2b7b68502504f9eb0b940519d43ac84df1c94435260101
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663713"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955869"
 ---
-# <a name="about-briefing-email"></a>Sobre briefing email
+# <a name="about-briefing-email"></a>Acerca do e-mail Briefing
 
-Para saber mais sobre Briefing, consulte [a visão geral do e-mail briefing](https://docs.microsoft.com/briefing/be-overview).  
+Para saber mais sobre o Briefing, consulte [Resumo do e-mail de Briefing.](https://docs.microsoft.com/briefing/be-overview)  
 
-Esta funcionalidade está neste momento a ser lançada, pelo que a sua organização poderá não receber o e-mail Briefing, mesmo que tenha o Briefing ativado. Além disso, note que os utilizadores não estão garantidos para receber um e-mail Briefing todos os dias. Os e-mails são enviados apenas quando o utilizador tem pelo menos uma sugestão accível para esse dia em particular. Para mais informações, consulte [perguntas frequentes para o e-mail Briefing](https://docs.microsoft.com/briefing/be-faqs).
+Esta funcionalidade está a ser atualmente atualizada, pelo que a sua organização poderá não receber o e-mail Briefing mesmo que tenha o Briefing ativado. Além disso, tenha em atenção que não é garantido que os utilizadores recebam um e-mail de Briefing todos os dias. Os e-mails são enviados apenas quando o utilizador tiver, pelo menos, uma sugestão ativa para esse dia específico. Para mais informações, consulte Perguntas [mais frequentes sobre o e-mail Briefing](https://docs.microsoft.com/briefing/be-faqs).

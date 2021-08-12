@@ -1,5 +1,5 @@
 ---
-title: Adicione uma palavra-passe ao seu documento
+title: Adicionar uma palavra-passe ao seu documento
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001454"
 - "3464"
-ms.openlocfilehash: 171c1716012240bd79f77148086adfee2d324667
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5f2923a164e67b9b3abf07b9c2327b650eeb14d872c4b4f037e0c82a209c5728
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822718"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936464"
 ---
-# <a name="add-a-password-to-a-word-document"></a>Adicione uma palavra-passe a um documento do Word
+# <a name="add-a-password-to-a-word-document"></a>Adicionar uma palavra-passe a um documento do Word
 
-1. Vá a **Informações de Arquivo**  >    >  **Proteger**  >  **O Documento Criptografe com palavra-passe.**
-2. Introduza a palavra-passe que pretende utilizar e, em seguida, escolha **OK**.
-3. Reintrodua a palavra-passe e, em seguida, escolha **OK**.
+1. Vá para Proteger **Documento com Palavra-passe** para Proteger As  >    >  **Informações**  >  **do** Ficheiro.
+2. Introduza a palavra-passe que pretende utilizar e, em seguida, **selecionar OK.**
+3. Introduza novamente a palavra-passe e, em seguida, **seleza OK.**

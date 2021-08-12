@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "3748"
-ms.openlocfilehash: ad27f3ef8973fb9defe97343a4eda46cf96a4100
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b07c01337694f7acdab594dd46fdf2ff0cfeb70bf6298fb66a7e6736f8a98e96
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822610"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936284"
 ---
 # <a name="add-change-or-remove-a-partner-relationship"></a>Adicionar, alterar ou remover uma relação de parceiro
 
-Como administrador, pode trabalhar com um parceiro para comprar, ativar e renovar subscrições da Microsoft 365. 
+Como administrador, pode trabalhar com um parceiro para comprar, ativar e renovar Microsoft 365 subscrições. 
 
-- Se procura editar a sua relação de parceiro existente, consulte [Add, change ou elimine um parceiro de aconselhamento de subscrição](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).
+- Se quiser editar a sua relação de parceiros existente, consulte Adicionar, alterar ou eliminar um parceiro de [aviso de subscrição](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).
 
-- Se procura encontrar um parceiro da Microsoft, consulte [encontre o seu parceiro Microsoft 365 ou revendedor](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).
+- Se estiver à procura de um parceiro da Microsoft, consulte Encontrar o [seu parceiro Microsoft 365 ou revenda.](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide)
 
-Se é um parceiro da Microsoft existente ou que procura tornar-se um, consulte o [Microsoft Partner Center](https://support.microsoft.com/help/4499930/partner-center-overview) para obter mais informações sobre benefícios ou como obter assistência do suporte do Microsoft [Partner](https://aka.ms/partnersupport).
+Se já for um parceiro da Microsoft ou quiser tornar-se um, consulte o Centro de Parceiros da [Microsoft](https://support.microsoft.com/help/4499930/partner-center-overview) para obter mais informações sobre benefícios ou como obter assistência do Suporte para Parceiros da [Microsoft.](https://aka.ms/partnersupport)

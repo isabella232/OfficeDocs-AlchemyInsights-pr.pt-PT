@@ -1,5 +1,5 @@
 ---
-title: Ignore redirecionar o e-mail para novo endereço
+title: Ignorar a redirecionação de e-mails para um novo endereço
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 89c848b1aad331c2ba4cbf2596da48020e7b9cc2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 036a6b5d9188bf40607d186bfb0b31b3182116abb597ab96cfad48f9b3026936
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747413"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966696"
 ---
-# <a name="skip-redirecting-email-to-new-address"></a>Ignore redirecionar o e-mail para novo endereço
+# <a name="skip-redirecting-email-to-new-address"></a>Ignorar a redirecionação de e-mails para um novo endereço
 
-Ignore o passo de redirecionar o e-mail para novo endereço se tiver registos DNS personalizados. Em seguida, pode adicionar os registos de que precisa mais tarde. Alguns serviços do Office 365 podem não estar disponíveis até que adicione manualmente os registos com o seu registo.
+Ignorar o passo de redirecionar e-mail para um novo endereço se tiver registos DNS personalizados. Em seguida, pode adicionar os registos de que precisa mais tarde. Alguns Office 365 serviços podem estar indisponíveis até adicionar manualmente os registos à sua registradora.
 
-Para não redirecionar o e-mail para novo endereço, escolha **Saltar este passo > Verificar**.
+Para ignorar o redirecionamento de e-mails para um novo endereço, **selecionar Ignorar este passo > Verificar**.

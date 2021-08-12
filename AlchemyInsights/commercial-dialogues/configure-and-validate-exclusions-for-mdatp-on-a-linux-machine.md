@@ -1,5 +1,5 @@
 ---
-title: Configure e valide exclusões para MDATP numa máquina Linux
+title: Configurar e validar exclusões para MDATP num máquina Linux
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4fad0a513f7c6d2f0337019488a4055c25e1650d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 96579b28923e392a0fa05c56833fed1b45eb118437ac7e8333c610ed69126f8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749252"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916426"
 ---
-# <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Configure e valide exclusões para MDATP numa máquina Linux
+# <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Configurar e validar exclusões para MDATP num máquina Linux
 
-Pode excluir certos ficheiros, pastas, processos e ficheiros abertos a processos a partir de digitalizações de MDATP. As exclusões ajudam a prevenir a deteção incorreta de software e ficheiros únicos ou personalizados para a sua organização. As exclusões também ajudam a mitigar os problemas de desempenho causados pelo MDATP.
+Pode excluir determinados ficheiros, pastas, processos e ficheiros abertos em processos de análises MDATP. As exclusões ajudam a impedir a deteção incorreta de software e ficheiros exclusivos ou personalizados para a sua organização. As exclusões também ajudam a mitigar problemas de desempenho causados por MDATP.
 
-Para saber mais, consulte [Configure e valide exclusões para MDATP para Linux](https://go.microsoft.com/fwlink/?linkid=2144517).
+Para saber mais, consulte [Configurar e validar exclusões para MDATP para Linux.](https://go.microsoft.com/fwlink/?linkid=2144517)
 
 > [!IMPORTANT]
-> As exclusões descritas neste artigo não se aplicam a outras capacidades de MDATP para o Linux, incluindo a deteção e resposta de pontos finais (EDR). Os ficheiros que exclui utilizando os métodos descritos neste artigo podem ainda desencadear alertas EDR e outras capacidades de deteção.
+> As exclusões descritas neste artigo não se aplicam a outras funcionalidades do MDATP para Linux, incluindo deteção e resposta de pontos finais (DRP). Os ficheiros que excluir ao utilizar os métodos descritos neste artigo ainda podem ativar alertas de DRP e outras funcionalidades de deteção.

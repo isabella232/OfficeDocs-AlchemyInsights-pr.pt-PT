@@ -1,5 +1,5 @@
 ---
-title: O que acontece com as mensagens de quarentena?
+title: O que acontece às mensagens em quarentena?
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: de7ea8011af792cd01963c44f8a60915747c3c11
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 222df14754501e54b9a551f705f95ee9cce853ef6479ac21dad4b01bdc5a96f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751015"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966588"
 ---
-# <a name="what-happens-to-quarantined-messages"></a>O que acontece com as mensagens de quarentena?
+# <a name="what-happens-to-quarantined-messages"></a>O que acontece às mensagens em quarentena?
 
-Se optar por não fazer nada, a mensagem será apagada automaticamente pelo Office 365 após a expiração. Note o seguinte:
+Se optar por não fazer nada, a mensagem será eliminada automaticamente Office 365 após expiração. Tenha em atenção o seguinte:
 
-1. Por padrão, as mensagens de spam, granel, malware e phishing são mantidas em quarentena durante 15 dias.
-2. Uma mensagem de quarentena que corresponda a uma regra de fluxo de correio é mantida em quarentena durante 7 dias (não é possível personalizá-la).
-3. Quando o Escritório 365 apagar uma mensagem de quarentena, não a podes recuperar.
-4. Se quiser, pode alterar o período de retenção para mensagens em quarentena utilizando o spam De retenção durante (dias) nas suas políticas de filtro de conteúdo.
+1. Por predefinição, as mensagens de spam, em massa, software maliceiro e phishing são guardadas na quarentena durante 15 dias.
+2. Uma mensagem em quarentena que corresponda a uma regra de fluxo de correio é mantida na quarentena durante 7 dias (não pode personalizar isto).
+3. Quando Office 365 uma mensagem da quarentena, não a pode recuperar.
+4. Se quiser, pode alterar o período de retenção das mensagens em quarentena ao utilizar a definição Reter spam durante (dias) nas suas políticas de filtro de conteúdo.

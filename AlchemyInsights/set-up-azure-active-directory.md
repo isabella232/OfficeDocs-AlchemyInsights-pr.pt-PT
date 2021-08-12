@@ -1,5 +1,5 @@
 ---
-title: Configurar o Diretório Ativo Azure
+title: Configurar o Azure Active Directory
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004192"
 - "7373"
-ms.openlocfilehash: 94078246562112709eee303fa13d4ac2aa651b12
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 92fadd9c98494af1a9ead97c414f3d417d37f57c77affdb9c9b3568dff4b889d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679649"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958200"
 ---
-# <a name="set-up-azure-active-directory"></a>Configurar o Diretório Ativo Azure
+# <a name="set-up-azure-active-directory"></a>Configurar o Azure Active Directory
 
-O [guia de configuração AZURE AD](https://go.microsoft.com/fwlink/?linkid=2134390) fornece informações para garantir que a sua organização tem uma forte base de segurança. Neste guia irá configurar as funcionalidades iniciais, como o controlo de acesso baseado em funções Azure (Azure RBAC) para administradores, Azure AD Connect para o seu diretório no local, e Azure AD Connect Health, para que possa monitorizar a saúde da sua identidade híbrida durante sincronizações automatizadas.
+O [guia de configuração do Azure AD fornece](https://go.microsoft.com/fwlink/?linkid=2134390) informações para garantir que a sua organização tem uma forte base de segurança. Neste guia irá configurar funcionalidades iniciais, como o controlo de acesso baseado em funções do Azure (Azure RBAC) para administradores, o Azure AD Ligação para o seu diretório no local e o Estado de Saúde do Azure AD Ligação, para que possa monitorizar o estado de saúde da sua identidade híbrida durante as sincronizações automáticas.
 
-Inclui também informações essenciais sobre a colocação de redestas de autosserviço de senha, acesso condicional e assinatura integrada de terceiros, incluindo proteção de identidade avançada opcional e automatização de fornecimento de utilizadores.
+Também inclui informações essenciais sobre ativar a reposição de palavras-passe self-service, o acesso condicional e o início de trabalho integrado de terceiros, incluindo a proteção de identidade avançada opcional e a automatização do aprovisionamento de utilizadores.

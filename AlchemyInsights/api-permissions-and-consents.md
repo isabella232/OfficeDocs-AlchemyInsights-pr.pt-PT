@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7756"
-ms.openlocfilehash: c99e5e2e8fb9bcc88e5221890ed9c28ed9e7d0c8
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: c45bab67d414c8f0f2ca1c5275084d4ecce538c5256154292302080ba5bd8175
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974990"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932108"
 ---
 # <a name="api-permissions-and-consent"></a>Permissões e consentimento da API
 
-As aplicações que se integram com a plataforma de identidade da Microsoft seguem um modelo de autorização que dá aos utilizadores e administradores o controlo sobre a forma como os dados podem ser acedidos. A implementação do modelo de autorização foi atualizada no ponto final da plataforma de identidade da Microsoft. Altera a forma como uma aplicação deve interagir com a plataforma de identidade da Microsoft. [Permissões e consentimento no ponto final da plataforma de identidade da Microsoft](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) abrange os conceitos básicos deste modelo de autorização, incluindo âmbitos, permissões e consentimento.
+As aplicações integradas com plataforma de identidades da Microsoft seguem um modelo de autorização que permite aos utilizadores e administradores controlar a forma como os dados podem ser acetidos. A implementação do modelo de autorização foi atualizada no ponto plataforma de identidades da Microsoft final. Altera a forma como uma aplicação tem de interagir com a plataforma de identidades da Microsoft. [As permissões e a](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) autorização no plataforma de identidades da Microsoft abrangem os conceitos básicos deste modelo de autorização, incluindo âmbitos, permissões e consentimento.
 
-O [quadro de consentimento do Azure Ative Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) facilita o desenvolvimento de aplicações de clientes multi-inquilinos e clientes nativos. Estas aplicações permitem a inscrição por conta de utilizador de um inquilino AZure AD que é diferente daquele em que a aplicação está registada. Podem também ter de aceder a APIs web, como a API do Microsoft Graph (para aceder a Azure AD, Intune e serviços na Microsoft 365) e a APIs de outros serviços da Microsoft, além das suas próprias APIs web.
+A Azure Active Directory estrutura de consentimento [do Azure Active Directory Azure AD](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) torna mais fácil desenvolver aplicações cliente multi-inquilino e nativas. Estas aplicações permitem o registo de contas de utilizador por parte de um inquilino do Azure AD diferente daquele em que a aplicação está registada. Também poderão ter de aceder às APIs Web, como a API do Microsoft Graph (para aceder ao Azure AD, Intune e serviços no Microsoft 365) e a outras APIs do serviços Microsoft, além das suas próprias APIs Web.
 

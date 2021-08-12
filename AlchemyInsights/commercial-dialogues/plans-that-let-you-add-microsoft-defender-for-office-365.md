@@ -1,5 +1,5 @@
 ---
-title: Planos que permitem adicionar Microsoft Defender para o Office 365
+title: Planos que lhe permite adicionar o Microsoft Defender para Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 48e6f55c35a1a0af04453c17bb8dfe9cce194b5c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 890f55e87048d62121aaa07db24a518faddfe89db9c7162c593ef240de83f1b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750240"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916138"
 ---
-# <a name="plans-that-let-you-add-microsoft-defender-for-office-365"></a>Planos que permitem adicionar Microsoft Defender para o Office 365
+# <a name="plans-that-let-you-add-microsoft-defender-for-office-365"></a>Planos que lhe permite adicionar o Microsoft Defender para Office 365
 
-Se tiver um dos seguintes planos, pode adicionar-lhe o Microsoft Defender para o Office 365:
+Se tiver um dos seguintes planos, pode adicionar o Microsoft Defender para Office 365 ao mesmo:
 
-- Bolsa De Troca Plano 1 ou 2
-- Troca de Quiosque Online
+- Exchange Online Plano 1 ou 2
+- Exchange Online Kiosk
 - Proteção do Exchange Online
-- Office 365 Business Essentials ou Business Premium
-- Escritório 365 Enterprise E1, E3 ou F1
-- Escritório 365 A1 ou A3
+- Office 365 Empresas - Essentials ou Office 365 Empresas - Valor Premium
+- Office 365 Enterprise E1, E3 ou F1
+- Office 365 A1 ou A3

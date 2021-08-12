@@ -1,5 +1,5 @@
 ---
-title: Configurar a Pesquisa do Microsoft
+title: Configurar o Microsoft Pesquisa
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9264"
-ms.openlocfilehash: 5bc1f27377e48d54d82ab36705fe92a5a16f3c48
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 6eca85ef9909f80086376e5abcc16ccdcd298ff09a5507161b222447d9f690c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51405476"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958164"
 ---
-# <a name="set-up-microsoft-search"></a>Configurar a Pesquisa do Microsoft
+# <a name="set-up-microsoft-search"></a>Configurar o Microsoft Pesquisa
 
-O Microsoft Search fornece uma interface fácil de usar para pesquisar e encontrar resultados na sua organização através dos serviços e aplicações da Microsoft 365 para ajudá-lo a completar o que está a trabalhar. Está incluído sem custos adicionais com a sua subscrição elegível microsoft 365.
+Microsoft Pesquisa fornece uma interface fácil para o utilizador procurar e encontrar resultados na sua organização em todos os Microsoft 365 serviços e aplicações para o ajudar a concluir aquilo em que está a trabalhar. Está incluída sem custos adicionais com a sua subscrição Microsoft 365 subscrição.
 
-Utilize o [guia de configuração](https://go.microsoft.com/fwlink/?linkid=2156919) do Microsoft Search para configurar se pretende pilotá-lo a um grupo de utilizadores ou lançá-lo para todos na sua organização. Irá atribuir administradores de pesquisa e editores de pesquisa e, em seguida, personalizará a experiência de pesquisa para os seus utilizadores com respostas e opções adicionais, como adicionar a extensão Bing ao Chrome ou configurar o Bing como o seu motor de busca padrão.
+Utilize o [Microsoft Pesquisa](https://go.microsoft.com/fwlink/?linkid=2156919) de configuração para configurar se pretende pilotá-lo para um grupo de utilizadores ou para o divulgar a todas as pessoas na sua organização. Irá atribuir Administradores de pesquisa e editores de Pesquisa e, em seguida, personalizar a experiência de pesquisa para os seus utilizadores com respostas e opções adicionais, como adicionar a extensão Bing ao Chrome ou definir o Bing como o motor de busca predefinido.

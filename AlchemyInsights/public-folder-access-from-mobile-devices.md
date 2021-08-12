@@ -1,5 +1,5 @@
 ---
-title: Acesso de pasta pública a partir de dispositivos móveis
+title: Acesso a pastas públicas a partir de dispositivos móveis
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -13,16 +13,16 @@ ms.custom:
 - "634"
 - "3500007"
 ms.assetid: 3a0915f6-9f4e-4049-82e2-804a498e70ee
-ms.openlocfilehash: 8be6ae5faec7bf2703dcd4582c60e5d98d7f87af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 31a18174c92716b1e94396fea9a772fc8f2d3e655142029247e6e99dae18b03a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768474"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911277"
 ---
-# <a name="public-folder-access-from-mobile-devices"></a>Acesso de pasta pública a partir de dispositivos móveis
+# <a name="public-folder-access-from-mobile-devices"></a>Acesso a pastas públicas a partir de dispositivos móveis
 
-O acesso a pastas públicas não funciona utilizando dispositivos móveis, por favor utilize o OWA (Outlook on the Web) ou o Outlook for Windows desktop ou Outlook para os clientes Mac acederem a pastas públicas.
+O acesso Windows pastas públicas não funciona com dispositivos móveis. Utilize o OWA (Outlook na Web) ou o Outlook para os clientes do Windows para ambiente de trabalho ou do Outlook para Mac acederem a pastas públicas.
 
-Se pretender ter funcionalidades semelhantes às pastas públicas e ter conteúdos acessíveis em dispositivos móveis, consulte [Os Grupos Microsoft 365](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) para obter uma melhor alternativa.
+Se quiser ter funcionalidades semelhantes às pastas públicas e ter conteúdos acessíveis em dispositivos móveis, consulte Saber mais Microsoft 365 [grupos](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) para uma melhor alternativa.
   

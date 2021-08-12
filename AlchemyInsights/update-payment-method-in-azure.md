@@ -1,5 +1,5 @@
 ---
-title: Atualizar detalhes do pagamento em Azure
+title: Atualizar detalhes de pagamento no Azure
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,23 +12,23 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6860"
-ms.openlocfilehash: 6a08916c67e0a14d6781be7c3c6874115a0df3b9
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 6f6898f4cb56e1b1027bab03a4ba9046edfb59864d4f3cfdf8057a18d737f6e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807919"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007261"
 ---
-# <a name="update-payment-details-in-azure"></a>Atualizar detalhes do pagamento em Azure
+# <a name="update-payment-details-in-azure"></a>Atualizar detalhes de pagamento no Azure
 
-Se o seu cartão de crédito for renovado e o número permanecer o mesmo, atualize os dados do cartão de crédito existentes, como a data de validade. Se o número do seu cartão de crédito mudar porque o cartão é perdido, roubado ou caducado, siga os passos no [Cartão de Crédito Adicionar um cartão de crédito como secção de método de pagamento.](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) Não precisas de atualizar o CVV.
+Se o seu cartão de crédito for renovado e o número permanecer igual, atualize os detalhes do cartão de crédito existentes como a data de expiração. Se o número do seu cartão de crédito for alterado porque o cartão foi perdido, roubado ou expirado, siga os passos na secção Adicionar um cartão de crédito como [método de](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) pagamento. Não precisa de atualizar o CVV.
 
-Tem de ser o Administrador de Conta a alterar ou atualizar o cartão de crédito. Siga estes passos para atualizar o método do cartão de crédito/pagamento.
+Tem de ser o Administrador de Conta para alterar ou atualizar o cartão de crédito. Siga estes passos para atualizar o método de cartão de crédito/pagamento.
 
-1. Inscreva-se no [portal Azure](https://portal.azure.com/) como Administrador de Conta.
-2. Pesquisa de **Gestão de Custos + Faturação.**
-3. Selecione a subscrição a que pretende adicionar o cartão de crédito.
-4. Selecione **métodos de pagamento** .
-5. Selecione o cartão de crédito que gostaria de editar. Um formulário de cartão de crédito aparecerá à direita
+1. Inscreva-se [no portal do Azure](https://portal.azure.com/) como Administrador de Conta.
+2. Procure **Gestão de Custos + Faturação**.
+3. Selecione a subscrição à que gostaria de adicionar o cartão de crédito.
+4. **Selecione Métodos de pagamento.**
+5. Selecione o cartão de crédito que gostaria de editar. Será apresentado um formulário de cartão de crédito à direita
 6. Atualize os detalhes do cartão de crédito.
-7. Seleccione **Guardar** .
+7. Seleccione **Guardar**.

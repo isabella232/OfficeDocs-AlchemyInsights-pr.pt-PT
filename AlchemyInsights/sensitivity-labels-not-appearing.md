@@ -1,5 +1,5 @@
 ---
-title: Etiquetas de sensibilidade que não aparecem
+title: As etiquetas de sensibilidade não são apresentadas
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 6a64e001be115c8e5553a0d8c97b8cb815922c69
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 824824257fee4aaaab1f2dd32597b4cdc858d035fabd357af90cf054dd35c9c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801195"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061443"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Etiquetas de sensibilidade que não aparecem
+# <a name="sensitivity-labels-not-appearing"></a>As etiquetas de sensibilidade não são apresentadas
 
-As etiquetas de sensibilidade permitem classificar e ajudar a proteger o seu conteúdo sensível. Podem ser criados no centro de conformidade Microsoft 365, no centro de segurança Microsoft 365 ou no Microsoft 365 security & Compliance Center, sob classificação > de sensibilidade. Para saber mais sobre esta funcionalidade, consulte [a visão geral dos rótulos de sensibilidade.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+As etiquetas de sensibilidade permitem-lhe classificar e ajudar a proteger os seus conteúdos confidenciais. Podem ser criadas no Centro de Conformidade do Centro de Conformidade do Microsoft 365, no Microsoft 365 ou no Centro de Conformidade do Microsoft 365 & em Etiquetas de > de Segurança do >. Para saber mais sobre esta funcionalidade, consulte [o artigo Visão geral das etiquetas de sensibilidade.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-Se configurar as suas etiquetas de sensibilidade, mas não estiverem presentes nas aplicações da Microsoft 365, verifique o seguinte:
+Se tiver configurado as etiquetas de sensibilidade, mas estas não estiverem a ser apresentadas nas aplicações Microsoft 365, verifique o seguinte:
 
-- Confirme que a etiqueta de sensibilidade foi publicada para os [utilizadores](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) e grupos que deseja.
+- Confirme que a etiqueta de sensibilidade [foi publicada](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) para os utilizadores e grupos que pretende.
 
-- Confirme que o utilizador está a utilizar uma aplicação que suporta etiquetas de sensibilidade - veja [etiquetas de sensibilidade no seu documento](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
+- Confirme que o utilizador está a utilizar uma aplicação que suporta etiquetas de confidencialidade – consulte [etiquetas de confidencialidade no seu documento.](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable)
 
-- Se estiver [a migrar etiquetas de Proteção de Informação Azure,](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)esteja atento às considerações [aqui](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)enumeradas.
+- Se estiver a [migrar etiquetas do Azure Information Protection,](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)tenha em atenção as considerações aqui [enumeradas.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)
 
-- Suporte à prevenção de perdas de dados (DLP): Atualmente, apenas os rótulos de retenção podem ser usados como condição nas políticas de DLP.  O suporte para rótulos de sensibilidade numa política de DLP ainda não está disponível, mas estamos a trabalhar nisso.
+- Suporte para a prevenção de perda de dados (DLP): Atualmente, apenas as etiquetas de retenção podem ser utilizadas como uma condição nas políticas DLP.  O suporte para etiquetas de sensibilidade numa política DLP ainda não está disponível, mas estamos a trabalhar para o resolver.
 
-- Quando a encriptação é ativada num rótulo de sensibilidade, pode escolher qualquer um dos dois:
+- Quando a encriptação estiver ativada numa etiqueta de sensibilidade, pode escolher:
     - Atribuir permissões agora
-    - Deixe que os utilizadores atribuam permissões
+    - Permitir que os utilizadores atribuim permissões
 
 
-Para obter mais informações sobre possíveis questões, consulte [questões conhecidas com etiquetas de sensibilidade](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
+Para obter mais informações sobre possíveis problemas, [consulte Problemas conhecidos com etiquetas de confidencialidade.](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)

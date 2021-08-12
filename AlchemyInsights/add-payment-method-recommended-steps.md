@@ -1,5 +1,5 @@
 ---
-title: Adicionar método de pagamento - etapas recomendadas
+title: Adicionar método de pagamento – passos recomendados
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004284"
 - "7649"
-ms.openlocfilehash: 51045d4b35833ed72097d75ff1720a9d2604d196
-ms.sourcegitcommit: 728800af2fe596756bcd2280f85451926a3e987c
+ms.openlocfilehash: 7595b5676e3253600536d226774d20e5c5750d7c88f3b76d82d82c320fb295a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722012"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935780"
 ---
-# <a name="add-payment-method---recommended-steps"></a>Adicionar método de pagamento - etapas recomendadas
+# <a name="add-payment-method---recommended-steps"></a>Adicionar método de pagamento – passos recomendados
 
-Deve ter os privilégios de um administrador de conta e do proprietário da subscrição para cancelar uma subscrição no portal Azure. 
+Tem de ter os privilégios de administrador de conta e de proprietário da subscrição para cancelar uma subscrição no portal do Azure. 
 
-Para cancelar uma subscrição no portal Azure, clique na [subscrição de Cancel Azure](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) e que o redirecione para a página **de subscrição** no portal Azure para selecionar e cancelar a subscrição. 
+Para cancelar uma subscrição no portal do Azure, clique em Cancelar subscrição do [Azure](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) e isso irá redirecioná-lo para a página de **subscrição** no portal do Azure para selecionar e cancelar a subscrição. 
 
-**O que acontece depois de cancelar a assinatura?** 
+**O que acontece depois de cancelar a subscrição?** 
 
-Após o cancelamento da subscrição, a faturação é interrompida imediatamente. No entanto, pode levar até 10 minutos para o estado de cancelamento ser exibido no portal Azure. A Microsoft enviará a fatura final na fatura do próximo mês para qualquer consumo parcial ou compra. Os serviços em execução na subscrição são desativados após o cancelamento da subscrição. Isto significa que as máquinas virtuais são deslocadas, os endereços IP temporários são libertados e o armazenamento **torna-se apenas para leitura**. 
+Após o cancelamento da subscrição, a faturação será interrompida imediatamente. No entanto, pode demorar até 10 minutos para que o estado do cancelamento seja apresentado no portal do Azure. A Microsoft enviará a fatura final na fatura do mês seguinte para qualquer consumo parcial ou compra. Os serviços em execução na subscrição serão desativados após o cancelamento da subscrição. Isto significa que os máquinas virtuais são atribuídos, os endereços IP temporários são libertados e o armazenamento **torna-se só de leitura.** 
 
-Depois de a subscrição ser cancelada, a Microsoft aguarda 30-90 dias antes de eliminar permanentemente os dados no caso de precisar de aceder aos mesmos ou mudar de ideias. A Microsoft não cobra por reter os dados. Para mais informações, consulte [o Microsoft Trust Center - Como gerimos os seus dados.](https://www.microsoft.com/trust-center/privacy/data-management#leave)
+Após a subscrição ser cancelada, a Microsoft aguarda 30 a 90 dias antes de eliminar permanentemente os dados, caso precise de aceder aos dados ou se mudar de ideias. A Microsoft não cobra pela retenção dos dados. Para obter mais informações, consulte [Centro de Confiança da Microsoft – como gerimos os seus dados.](https://www.microsoft.com/trust-center/privacy/data-management#leave)
 
 
 

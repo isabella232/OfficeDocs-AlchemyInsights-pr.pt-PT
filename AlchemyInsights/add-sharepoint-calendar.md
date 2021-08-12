@@ -1,5 +1,5 @@
 ---
-title: Adicionar um calendário sharePoint
+title: Adicionar um Calendário do SharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 6ef515bb8be7d085beb614543bc53c9e224425fc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0694d68be73eb7b3cf46b933a3fd263800b82f7657823703b2a6bf175eca6409
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822358"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935168"
 ---
-# <a name="add-a-sharepoint-calendar"></a>Adicionar um calendário sharePoint
+# <a name="add-a-sharepoint-calendar"></a>Adicionar um Calendário do SharePoint
 
-Os Calendários SharePoint são tipos clássicos de listas que por vezes são confundidos com os calendários do Grupo Microsoft 365.
+Os Calendários do SharePoint são tipos de lista clássicos que por vezes são confundidos com Microsoft 365 de Grupo.
  
-Para criar um Calendário SharePoint, siga estes passos:
+Para criar um Calendário do SharePoint, siga estes passos:
  
-1.  Selecione o ícone de engrenagem **Definições** e, em seguida, **selecione Adicionar uma Aplicação**.
-2.  Na caixa de pesquisa de **aplicativos,** digite **Calendário** e prima para entrar.
-3.  Selecione a aplicação intitulada **Calendário** e, em seguida, insira um nome para o seu calendário.
+1.  Selecione o **Definições de engrenagem** e, em seguida, selecione Adicionar uma **Aplicação.**
+2.  Na caixa **de pesquisa Encontrar uma** aplicação, escreva Calendário **e** prima Enter.
+3.  Selecione a aplicação **intitulada Calendário** e, em seguida, introduza um nome para o seu calendário.
 
-Para obter mais informações sobre os Grupos Microsoft 365, consulte [Saiba mais sobre os Grupos Microsoft 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Para obter mais informações sobre Microsoft 365 Grupos, consulte [Saber mais sobre Microsoft 365 Grupos](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 

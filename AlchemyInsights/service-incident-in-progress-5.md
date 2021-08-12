@@ -19,18 +19,18 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: d2f3d1f75c61100b3b3892d286db7af91a618ba2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ea17addde1b98b6f8b33909e126078266992a55e7eb6932443fc8f9d213c04a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751398"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061371"
 ---
 # <a name="service-incident-in-progress"></a>Incidente de Serviço em curso
 
-Você pode ser afetado por um incidente de serviço ou aconselhamento que está atualmente a ser investigado. Pode verificar o estado mais recente indo à página [de Saúde](https://admin.microsoft.com/adminportal/home#/servicehealth) do Serviço.
+Poderá ser afetado por um aviso ou incidente de serviço que está a ser investigado atualmente. Pode consultar o estado mais recente ao consultar a página [Estado de Serviço.](https://admin.microsoft.com/adminportal/home#/servicehealth)
   
-Para sua conveniência, pode encontrar um resumo deste incidente abaixo:
+Para sua conveniência, encontrará um resumo deste incidente abaixo:
   
 > **Número do incidente:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     

@@ -1,5 +1,5 @@
 ---
-title: Alquimia - Recrie o seu perfil Outlook
+title: Alchemy - Recriar o seu Outlook perfil
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,15 +14,15 @@ ms.custom:
 - "65"
 - "1800001"
 ms.assetid: 70982aa9-2bd2-4ad9-bc53-d27a02a67709
-ms.openlocfilehash: 3c6fb8639291c210452c7391d249d44a110d77f5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e44ef91a29261be5040b9adbd2ebc7197c5dc3ed61a96be6deda1723bb836580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718380"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933548"
 ---
-# <a name="create-an-outlook-profile"></a>Criar um perfil outlook
+# <a name="create-an-outlook-profile"></a>Criar um Perfil Outlook Empresas
 
-Para criar ou recriar o seu perfil Outlook, pode executar a [ferramenta de perfil Outlook](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) na máquina afetada.
+Para criar ou re-criar o seu Outlook perfil de utilizador, [pode executar a Outlook de perfil de utilizador](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) no máquina afetado.
 
-A ferramenta realizará várias verificações e, quando estiver pronto, criará um perfil Outlook com o seu endereço de e-mail.
+A ferramenta irá efetuar várias verificações e, quando estiver pronto, criará um perfil de contacto Outlook com o seu endereço de e-mail.

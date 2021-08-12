@@ -1,5 +1,5 @@
 ---
-title: 'Definições de teclado no Windows 10 '
+title: 'Definições de teclado Windows 10 '
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: be7203521aa2acf2fcf667c26a2d996eca5f846d14cc6957c0fde6b82d887aa8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832978"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925608"
 ---
-# <a name="keyboard-settings-in-windows-10"></a>Definições de teclado no Windows 10
+# <a name="keyboard-settings-in-windows-10"></a>Definições de teclado Windows 10
 
 **Definições de tipo**
 
-Para alterar as definições do Windows relacionadas com a verificação ortográfica, correção automática, sugestões e outros aspetos do seu hardware e teclado de toque, vá a **Definições > Dispositivos > dactificagem**. 
+Para alterar Windows relacionadas com a verificação ortografia, correção automática, sugestões e outros aspetos do seu hardware e teclado tátil, vá a **Dispositivos Definições >**> Escrever . 
 
 **Definições de idioma e teclado**
 
-Para alterar as definições relacionadas com o teclado ou método de entrada a utilizar para um idioma Windows, aceda a **Definições > Tempo & idioma > idioma**. Selecione os idiomas na lista **de línguas preferenciais** e clique em **Opções** para adicionar/remover teclados ou métodos de entrada (IMEs).
+Para alterar as definições relacionadas com que teclado ou método de entrada utilizar para um idioma do Windows, vá para Idioma Definições > em & idioma **> Idioma**. Selecione idiomas na lista **Idiomas Preferenciais** e clique em Opções para adicionar/remover teclados ou métodos de entrada (IMEs). 

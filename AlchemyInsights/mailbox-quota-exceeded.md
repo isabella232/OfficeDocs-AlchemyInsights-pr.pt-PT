@@ -1,5 +1,5 @@
 ---
-title: Quota da caixa de correio excedida
+title: Quota da Caixa de Correio Excedida
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 711d70def6281d67118c1fe5a1729174f4a6ff74
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9cd70f3be9ec2925e3796a74582ca8adc3d5142e657be38b95e694e43db670c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795599"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925536"
 ---
-# <a name="mailbox-quota-exceeded"></a>Quota da caixa de correio excedida
+# <a name="mailbox-quota-exceeded"></a>Quota da Caixa de Correio Excedida
 
-Excedeu a sua quota de caixa de correio para a sua conta. Existem vários passos que pode tomar para reduzir o tamanho da sua caixa de entrada para um melhor desempenho.
+Excedeu a quota da sua caixa de correio para a sua conta. Existem vários passos que pode tomar para reduzir o tamanho da sua caixa de entrada para um melhor desempenho.
 
-1. Elimine os itens de caixa de entrada mais antigos. Pode fazê-lo rapidamente na aplicação, definindo um movimento de swipe personalizado: **Definições > Opções de Swipe**. Com este conjunto, pode passar facilmente pela sua caixa de entrada para o limpar.
+1. Eliminar itens de caixa de entrada mais antigos. Pode fazê-lo rapidamente na aplicação definindo um movimento Deslize personalizado: **Definições > Opções de Deslize**. Com este conjunto, pode facilmente passar pela sua caixa de entrada para o limpar.
 
-2. Esvazie as pastas de spam. Entre diretamente nas pastas de spam e pressione **spam vazio**.
+2. Esvazie as suas pastas de spam. Vá diretamente para as suas pastas de spam e prima **spam vazio**.
 
-3. No Android, pode esvaziar as pastas do lixo com um clique. Vá diretamente para a pasta do lixo e pressione **o lixo vazio**. 
+3. No Android, pode esvaziar as pastas do lixo com um clique. Vá diretamente para a sua pasta de lixo e prima **esvaziar lixo**. 
 
-4. Guarde os seus anexos para o OneDrive para que não sejam armazenados na sua caixa de correio. Consulte [os limites de armazenamento em Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) para obter mais informações. 
+4. Guarde os anexos OneDrive para que não sejam armazenados na sua caixa de correio. Consulte [Armazenamento limites no Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) para obter mais informações. 
 
-Se for um utilizador microsoft 365, também pode solicitar um aumento da caixa de correio do seu administrador de TI.
+Se for um utilizador Microsoft 365, também pode pedir um aumento da caixa de correio ao seu administrador de TI.

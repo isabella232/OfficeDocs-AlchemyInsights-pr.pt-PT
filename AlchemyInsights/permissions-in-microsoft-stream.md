@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001696"
 - "3773"
-ms.openlocfilehash: 9cd3b2e5c8d1bd336029e14051ebfe0eb069827d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a3b9fc034087db3e0c3910ae13a1af8c2e8f153e272f5f90d8b2efcc6afb8dbe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829027"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944286"
 ---
 # <a name="permissions-in-microsoft-stream"></a>Permissões no Microsoft Stream
 
-Por predefinição, quando faz o upload de um vídeo, as permissões são definidas para que o vídeo seja visível para toda a empresa. Se quiser especificar permissões para utilizadores/grupos específicos, pode personalizar as permissões de vídeo.
+Por predefinição, quando carrega um vídeo, as permissões estão definidas para que o vídeo esteja visível para toda a empresa. Se quiser especificar permissões para utilizadores/grupos específicos, pode personalizar as permissões de vídeo.
 
 - [Permissões e privacidade no Microsoft Stream](https://docs.microsoft.com/stream/portal-permissions)
 

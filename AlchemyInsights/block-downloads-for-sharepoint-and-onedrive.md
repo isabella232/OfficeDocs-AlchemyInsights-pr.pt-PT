@@ -1,5 +1,5 @@
 ---
-title: Downloads de blocos para SharePoint e OneDrive
+title: Bloquear transferências para o SharePoint e OneDrive
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004146"
 - "7241"
-ms.openlocfilehash: aa6440f36c832d2cd5576ee0adf13ba14518485c
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: 87f0b48f5c3ef68af5053414b893adc66ad35d28e163154db8c3f2b3a52cf4a7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447426"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969108"
 ---
-# <a name="block-downloads-for-sharepoint-and-onedrive"></a>Downloads de blocos para SharePoint e OneDrive
+# <a name="block-downloads-for-sharepoint-and-onedrive"></a>Bloquear transferências para o SharePoint e OneDrive
 
-Existem várias formas de bloquear downloads do SharePoint e do OneDrive. Consulte os artigos abaixo para mais informações.
+Existem várias formas de bloquear transferências do SharePoint e OneDrive. Consulte os artigos abaixo para obter mais informações.
 
-- [Bloquear transferências para ficheiros apenas para visualização no SharePoint e no OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
+- [Bloquear transferências para ficheiros apenas de visualização no SharePoint e OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
 - [Controlar o acesso de dispositivos não geridos](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
-- [Controle o acesso aos dados do SharePoint e do OneDrive com base na localização da rede](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [Controlar o acesso ao SharePoint e à OneDrive dados com base na localização de rede](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)

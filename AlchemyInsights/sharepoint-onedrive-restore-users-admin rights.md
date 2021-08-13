@@ -1,5 +1,5 @@
 ---
-title: Resolução de problemas Acesso negado mensagens ao OneDrive para sites empresariais
+title: Remoção de problemas de mensagens negadas ao Access a OneDrive para Empresas sites
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 9001cf0b7d9f1f05a2ecedca2c3137dd1b8a1c38
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc4a2bd7dcc74f5f05e8b709e4bc3eac6ed445d6e2ea9ede698abbc8667723ce
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670627"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957804"
 ---
-# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Resolução de problemas Acesso negado mensagens ao OneDrive para sites empresariais
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Remoção de problemas de mensagens negadas ao Access a OneDrive para Empresas sites
 
-Este problema ocorre mais frequentemente quando um utilizador é eliminado e recriado com o mesmo nome principal do utilizador (UPN). A nova conta é criada utilizando um valor puid diferente (Passport Unique ID). Quando o utilizador tenta aceder a uma coleção de sites ou ao seu OneDrive, o utilizador tem um PUID incorreto. Um segundo cenário envolve a sincronização do diretório com uma unidade organizacional ative directy (OU). Se os utilizadores já se inscreveram no SharePoint, e depois forem transferidos para um OU diferente e resincamados com o SharePoint, poderão experimentar este problema.
+Este problema ocorre com mais frequência quando um utilizador é eliminado e recriado com o mesmo nome principal de utilizador (UPN). A nova conta é criada utilizando um valor PUID (Passaporte Exclusivo ID) diferente. Quando o utilizador tenta aceder a uma coleção de site ou à sua OneDrive, o utilizador tem um PUID incorreto. Um segundo cenário envolve a sincronização de diretórios com uma unidade organizacional do Active Directory (OU). Se os utilizadores já têm a sua primeira ação e, em seguida, foram movidos para um OU diferente e voltarem a silhá-lo com o SharePoint, poderão detetá-lo.
 
-1. Para resolver este problema, deverá restaurar a UPN original com os passos do artigo, [Restaurar um utilizador na Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
-2. Se não conseguir restaurar o utilizador original, deve remover o utilizador antigo do site OneDrive utilizando estes passos, [Remova um utilizador da lista de informações do utilizador](). 
-3. Depois de feito, pode verificar se o utilizador tem direitos de administração para o site OneDrive, seguindo os passos para adicionar os [de administrador para o OneDrive de um utilizador](https://docs.microsoft.com/sharepoint/manage-user-profiles)
+1. Para resolver este problema, deve restaurar o UPN original com os passos no artigo [Restaurar um utilizador no Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+2. Se não conseguir restaurar o utilizador original, deve remover o utilizador antigo do site OneDrive através destes passos, Remover um utilizador da lista de [informações de utilizador](). 
+3. Quando terminar, pode verificar se o utilizador tem direitos de administrador no site da OneDrive ao seguir os passos para Adicionar administradores para a conta de [um utilizador OneDrive](https://docs.microsoft.com/sharepoint/manage-user-profiles)
 
-Para obter mais informações sobre os níveis de permissão, consulte o artigo, [compreender os níveis de permissão no SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Para obter mais informações sobre níveis de permissão, consulte o artigo Compreender [os níveis de permissão no SharePoint.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)

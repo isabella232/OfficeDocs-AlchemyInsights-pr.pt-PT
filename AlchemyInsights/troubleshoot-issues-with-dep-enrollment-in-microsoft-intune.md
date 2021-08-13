@@ -1,5 +1,5 @@
 ---
-title: Problemas de resolução de problemas com inscrição de DEP no Microsoft Intune
+title: Realização de problemas com a inscrição de DEP Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.assetid: 5d32afde-47ab-4b1e-a669-662e5dbdc213
 ms.custom:
 - "783"
 - "6200002"
-ms.openlocfilehash: 27abeafba5588ca74569ba6bebc5d940b767ea3f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e77295f0395919a723dcec1a313ca03154ae59b1bea22bf791f3a0f923cab60d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824518"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008269"
 ---
-# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>Problemas de resolução de problemas com inscrição de DEP no Microsoft Intune
+# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>Realização de problemas com a inscrição de DEP Microsoft Intune
 
 Reveja os recursos listados abaixo para resolver o seu problema agora.
   
-1. Se o dispositivo DEP não conseguir inscrever-se e o MFA (Autenticação Multi-Factor) estiver ativado, desative o MFA. Atualmente, o MFA não é apoiado para a inscrição de DEP
+1. Se o dispositivo DEP não conseguir inscrever e a MFA (Multi-Factor Authentication) estiver ativada, desativar a MFA. Atualmente, a MFA não é suportada para a inscrição de DEP
 
-2. Utilize [o Portal de Resolução de Problemas Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) para diagnosticar e resolver falhas comuns de inscrição. [Reveja este documento](https://docs.microsoft.com/intune/help-desk-operators) para mais detalhes.
+2. Utilize o Portal de Resolução de Problemas do [Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) para diagnosticar e resolver falhas de inscrição comuns. [Reveja este](https://docs.microsoft.com/intune/help-desk-operators) documento para obter mais detalhes.
 
-3. Reveja estes documentos para obter uma lista de erros comuns que impeçam a inscrição e as resoluções para cada um: [Guia de resolução de problemas](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) e [doc de resolução de problemas](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
+3. Reveja estes documentos para ver uma lista de erros comuns que impedem a inscrição e a resolução de cada [um:](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) Guia de Resolução de Problemas e Resolução [de Problemas do documento](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
 
-4. [Saiba mais sobre o programa de inscrição de dispositivos.](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios)
+4. [Saiba mais sobre o programa de inscrição de dispositivos](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).

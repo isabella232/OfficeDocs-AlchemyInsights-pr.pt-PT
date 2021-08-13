@@ -1,5 +1,5 @@
 ---
-title: Ativar e atribuir licenças de aplicações de software como um serviço
+title: Ativar e atribuir licenças de aplicações software como serviço
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: c31de2fd6e34ffb4d510bc3bb33525e58c1c6557
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: af767f4c2ab03ab4d0757b572085ff77d9a2901ddcde61523c7f314b11726f25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823222"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938048"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Ativar e atribuir licenças de aplicações de software como um serviço 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Ativar e atribuir licenças de aplicações software como serviço 
 
-## <a name="to-activate-apps"></a>Para ativar aplicativos
+## <a name="to-activate-apps"></a>Para ativar aplicações
 
-1. No centro de administração, vá à página **de Faturação**  >  **[dos Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** e, em seguida, escolha o separador **Apps.**
+1. No centro de administração, vá à página Faturação dos seus  >  **[produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** e, em seguida, selecionar o **separador Aplicações.**
 
-2. Encontre e selecione a aplicação que pretende gerir.
+2. Localmente e selecione a aplicação que pretende gerir.
 
-3. Sob **Licenças,** selecione **a conta de configuração.**  
+3. Em **Licenças,** **selecione Configurar conta**.  
 
-## <a name="to-assign-app-licenses"></a>Para atribuir licenças de aplicativos
+## <a name="to-assign-app-licenses"></a>Para atribuir licenças de aplicações
 
-1. No centro de administração, vá à página **de Faturação**  >  **[dos Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** e, em seguida, escolha o separador **Apps.**
+1. No centro de administração, vá à página Faturação dos seus  >  **[produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** e, em seguida, selecionar o **separador Aplicações.**
 
-2. Encontre e selecione a aplicação que pretende gerir.  
+2. Localmente e selecione a aplicação que pretende gerir.  
 
-3. Em **Definições & ações**, selecione o link para **Gerir no portal do editor**.
+3. Em **Definições & , selecione** a ligação para Gerir no portal **do Publisher**.

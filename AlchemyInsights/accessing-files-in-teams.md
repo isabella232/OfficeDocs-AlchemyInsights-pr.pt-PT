@@ -1,5 +1,5 @@
 ---
-title: Aceder a ficheiros em Equipas
+title: Aceder a ficheiros no Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2675"
 - "9000710"
-ms.openlocfilehash: c6766c318f0058e66950dbd0ca2953b149579a5c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1c2e787bb6be02faea59adbe8b5236897789637696db0e9c48a5d13e9b9a92c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823366"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938598"
 ---
-# <a name="accessing-files-in-microsoft-teams"></a>Aceder a ficheiros em Equipas microsoft
+# <a name="accessing-files-in-microsoft-teams"></a>Aceder a ficheiros no Microsoft Teams
 
-Se os utilizadores tiverem dificuldade em aceder a um ficheiro em Microsoft Teams, primeiro determinem se o ficheiro está ligado a um chat privado ou a uma conversa de canal. Os canais de equipa são lugares onde todos na equipa podem ter conversas abertamente. As conversas privadas só são visíveis para as pessoas no chat (e os ficheiros que partilha num chat são armazenados no OneDrive for Business).
+Se os utilizadores têm dificuldades em aceder a um ficheiro no Microsoft Teams, primeiro determine se o ficheiro está anexado a uma conversa privada ou a uma conversa de canal. Os canais de equipa são locais onde todas as pessoas na equipa podem ter conversas abertas. As conversas privadas só são visíveis para as pessoas na conversa (e os ficheiros que partilhar numa conversa são armazenados no OneDrive para Empresas).
 
-Quando os utilizadores partilham ficheiros em conversas privadas, o ficheiro é armazenado no OneDrive para Negócios do utilizador de partilha. Se um utilizador foi adicionado a um chat privado existente, não poderá aceder aos ficheiros a menos que o proprietário original restaurá o ficheiro.    
+Quando os utilizadores partilham ficheiros em chats privados, o ficheiro é armazenado na pasta do utilizador de OneDrive para Empresas. Se um utilizador tiver sido adicionado a uma conversa privada existente, não poderá aceder aos ficheiros, a menos que o proprietário original o partilhe o ficheiro.    
 
 **Para conversas de canal:**
 
-- [A partilha de ficheiros no Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams) baseia-se nas definições configuradas no SharePoint ou no OneDrive. 
-- [Reveja colaborar em ficheiros com](https://support.office.com/article/Collaborate-on-files-with-your-Team-9b200289-dbac-4823-85bd-628a5c7bb0ae) a sua Equipa para saber mais sobre como as equipas permitem que a sua organização partilhe e colabore em ficheiros. 
-- Se os novos membros da equipa experimentarem um atraso no acesso aos ficheiros, por favor, aguarde pelo menos **4 horas** antes de abrir um bilhete de apoio para permitir a replicação. 
+- [A partilha de ficheiros Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams) é baseada nas definições configuradas no SharePoint ou OneDrive. 
+- [Reveja Colaborar em ficheiros](https://support.office.com/article/Collaborate-on-files-with-your-Team-9b200289-dbac-4823-85bd-628a5c7bb0ae) com a sua Equipa para saber mais sobre Teams a sua organização pode partilhar e colaborar em ficheiros. 
+- Se os novos membros de equipa detetarem um atraso no acesso a ficheiros, aguarde pelo menos **4** horas antes de abrir um bilhete de suporte para permitir a replicação ser concluída. 
 
-Se os utilizadores puderem aceder previamente aos ficheiros através do separador Ficheiros num canal de equipa e obter um erro "estes ficheiros já não estão disponíveis", verifique se o site do SharePoint ou a biblioteca de documentos foi renomeado. Renomear sites sharePoint e bibliotecas de documentos para equipas ainda não está suportado. Para resolver este problema, abra o site da equipa utilizado para esta equipa e rebatize a biblioteca de volta a "Documentos Partilhados".
+Se anteriormente os utilizadores conseguiam aceder a ficheiros através do separador Ficheiros num canal de equipa e obteva um erro "estes ficheiros já não estão disponíveis", verifique se o nome do site ou da biblioteca de documentos do SharePoint foi renomeado. A renomeação de sites e bibliotecas de documentos do SharePoint Teams bibliotecas de documentos ainda não é suportada. Para resolver este problema, abra o site de equipa utilizado para esta equipa e volte a dar um nome à biblioteca para "Documentos Partilhados".

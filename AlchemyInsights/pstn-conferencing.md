@@ -1,5 +1,5 @@
 ---
-title: Conferência PSTN
+title: Conferências STN
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.custom:
 - "9000698"
 - "2645"
 - "2593"
-ms.openlocfilehash: e1461582b8aa88116c600559855d32e6115cdf03
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 028e4623b7db7c0ee7a8eaab2e8971587d8cf0318c7c918ba6621f0d57b116be
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828923"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943638"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>PSTN chamando com Skype para negócios online
+# <a name="pstn-calling-with-skype-for-business-online"></a>Chamadas STN com Skype para Empresas Online
 
-Para fazer chamadas PSTN no Microsoft 365, precisa de um [Microsoft 365 Call Plan](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) ou uma ligação com a sua infraestrutura de telefonia PSTN no local. Para mais informações, consulte os seguintes recursos: 
+Para fazer chamadas STN no Microsoft 365, [](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) precisa de uma Microsoft 365 de Chamadas ou de uma ligação com a sua infraestrutura de telefonia STN no local. Para mais informações, consulte os seguintes recursos: 
 
-- [Disponibilidade de país e região para audioconferência e planos de chamada de equipas da Microsoft](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
-- [Audio Conferencing questões comuns](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
-- [Adicione fundos e gere créditos de comunicações](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [Os chamadores pstn não podem se juntar a um Skype para chamada de conferência de marcação de negócios](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [Disponibilidade do país e região para Conferências de Áudio e Microsoft Teams de Chamadas](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
+- [Perguntas comuns sobre Conferências de Áudio](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [Adicionar fundos e gerir Créditos de Comunicações](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
+- [Os chamadores STN não podem participar numa Skype para Empresas de conferência por telefone](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

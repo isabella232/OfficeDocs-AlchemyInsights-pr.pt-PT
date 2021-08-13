@@ -1,5 +1,5 @@
 ---
-title: Cadeia de agente de utilizador Microsoft Edge (Desktop)
+title: Microsoft Edge cadeia de user agent (Desktop)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003862"
 - "6914"
-ms.openlocfilehash: b4106dde1e09e0ce07b4b9adc2b2984cc5609c3b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 9311f17298fff3fee3282fe05bd1ddcd02780a80097e86b29d56ffd575a9a571
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679337"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976012"
 ---
-# <a name="microsoft-edge-user-agent-string-desktop"></a>Cadeia de agente de utilizador Microsoft Edge (Desktop)
+# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge cadeia de user agent (Desktop)
 
-As cordas do agente do utilizador (UA) podem ser usadas para detetar que versão de um navegador específico está a ser usada num determinado sistema operativo. Tal como outros navegadores, o Microsoft Edge inclui estas informações no cabeçalho HTTP "User-Agent" sempre que faz um pedido a um site. A informação da versão do navegador também pode ser acedida através do JavaScript consultando o valor de "navigator.userAgent".
+As cadeias de agente de utilizador (UA) podem ser utilizadas para detetar que versão de um browser específico está a ser utilizada num determinado sistema operativo. Tal como outros browsers, o Microsoft Edge inclui estas informações no cabeçalho "User-Agent" HTTP sempre que efetuar um pedido a um site. Também é possível aceder às informações da versão do browser através do JavaScript ao consultar o valor de "navegador.userAgent".
 
-Recomendamos que os desenvolvedores da web utilizem a deteção de funcionalidades sempre que possível para melhorar a manutenção do código, reduzir a fragilidade do código e eliminar o risco de quebra de código em caso de futuras atualizações de cadeias UA.
+Recomendamos aos programadores Web que utilizem a deteção de funcionalidades sempre que possível para melhorar a manutenção do código, reduzir a fragilidade do código e eliminar o risco de quebra de código em caso de futuras atualizações da cadeia dos UA.
 
-Para obter mais informações, consulte [a cadeia de aplicação do utilizador Microsoft Edge (Desktop)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string).
+Para obter mais informações, consulte [Microsoft Edge Cadeia de User Agent (Ambiente de Trabalho)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string).

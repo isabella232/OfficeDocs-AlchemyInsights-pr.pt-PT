@@ -1,5 +1,5 @@
 ---
-title: Restaurar um site OneDrive eliminado
+title: Restaurar um site de OneDrive eliminado
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3174"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: ee48271ac3325881c2c2d8623be98c6d4cf3d09f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b5043c1b3aadf4e2554f3a469e5e1a53d7d038602300447599ff1c13cf31271
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728046"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991294"
 ---
-# <a name="restore-a-deleted-onedrive-site"></a>Restaurar um site OneDrive eliminado
+# <a name="restore-a-deleted-onedrive-site"></a>Restaurar um site de OneDrive eliminado
 
-Quando eliminar um utilizador no centro de administração Microsoft 365 (ou quando um utilizador for removido através da sincronização do Ative Directory), o OneDrive do utilizador será mantido durante o número de dias especificados no centro de administração OneDrive. (Para obter informações, consulte [Definir a retenção de ficheiros predefinida para utilizadores oneDrive eliminados](https://docs.microsoft.com/onedrive/set-retention).)
+Quando elimina um utilizador no centro de administração do Microsoft 365 (ou quando um utilizador é removido através da sincronização do Active Directory), o OneDrive do utilizador será mantido durante o número de dias especificado no centro de administração do OneDrive. (Para mais informações, consulte [Definir a retenção de ficheiros predefinida para utilizadores OneDrive.)](https://docs.microsoft.com/onedrive/set-retention)
 
-* [Restaurar um Site OneDrive eliminado](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+* [Restaurar uma página OneDrive Site](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-Se muitos dos seus ficheiros OneDrive forem eliminados, substituídos, corrompidos ou infetados por malware, pode restaurar todo o seu OneDrive para uma hora anterior.
+Se muitos dos seus ficheiros OneDrive ficheiros foram eliminados, sobrepostos, danificados ou infetados por software malictado, pode restaurar a sua OneDrive para uma data anterior.
 
-* [Restaurar o seu OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [Restaurar os seus OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)

@@ -1,5 +1,5 @@
 ---
-title: Visão geral dos conectores microsoft Graph
+title: Overview of Microsoft Graph connectors
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "6444"
 - "9003287"
-ms.openlocfilehash: 74a82751b7f97b0e195fb0c40ec44c3478af94dd
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 67350ead0eb47c17110f2e8481bec2ec470b0d64c0b9a353bfbeeebb0a04d83a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194229"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924552"
 ---
-# <a name="overview-of-microsoft-graph-connectors"></a>Visão geral dos conectores microsoft Graph
+# <a name="overview-of-microsoft-graph-connectors"></a>Overview of Microsoft Graph connectors
 
-Para planear os Conectores de Gráficos da Microsoft consulte a  [visão geral dos conectores](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Para planear o Microsoft Graph Connectors, consulte [a Visão Geral dos Conectores.](https://docs.microsoft.com/microsoftsearch/connectors-overview)
 
-- Consulte [conectores por Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) ou  [Conectores por Parceiros](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners).
-- [Gerencie o seu conector para o Microsoft Search](https://docs.microsoft.com/microsoftsearch/manage-connector).
+- Consulte [Connectors by Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) ou [Connectors by Partners (Conexões por Parceiros).](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [Faça a gestão do conector para o Microsoft Pesquisa](https://docs.microsoft.com/microsoftsearch/manage-connector).
 
-Para planear a pesquisa no Microsoft, consulte a  [visão geral do Microsoft Search](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
+Para planear Microsoft Pesquisa, consulte a [Visão Geral do Microsoft Pesquisa.](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)

@@ -1,5 +1,5 @@
 ---
-title: Limite de sincronização de perspetivas de 3.99 GB
+title: Outlook de sincronização de 3,99 GB
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1773"
 - "9000169"
-ms.openlocfilehash: 07a87b1f672108ed1dd8ff76cc7e571b0138314f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dc8dd130a727551181b05657d35c2872214a7b159ef42f0e52d8464fc38967b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702086"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924600"
 ---
-# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>A barra de estado de sincronização do Outlook mantém-se em 3,99 GB
+# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Outlook estado da sincronização permanece nos 3,99 GB
 
-Tente reduzir o tamanho do conteúdo da pasta ou crie um filtro de sincronização para grandes pastas a cerca de 4 GB.
+Experimente reduzir o tamanho dos conteúdos da pasta ou crie um filtro de sincronização para pastas grandes com ou perto de 4 GB.
 
-Ver O progresso da barra de estado nunca mostra mais de 3,99 GB restantes no Sync inicial [de grandes pastas para obter mais informações](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial).
+Consulte O progresso da barra de estado nunca mostra mais de 3,99 GB restantes na Sincronização inicial de pastas grandes [para obter mais informações.](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial)

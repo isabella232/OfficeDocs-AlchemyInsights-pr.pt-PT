@@ -1,5 +1,5 @@
 ---
-title: Mudar caixa de correio partilhada Enviar como comportamento
+title: Alterar o comportamento da caixa de correio partilhada Enviar Como
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: cf99799582029193805d36bd577228b3ea7ccc33
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0b747bfbb52fdada5a3dc8f008014f3527af5505e09f70cbff3e33ad01a4248e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817984"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950163"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a>Mudar caixa de correio partilhada Enviar como comportamento
+# <a name="changing-shared-mailbox-send-as-behavior"></a>Alterar o comportamento da caixa de correio partilhada Enviar Como
 
 Por predefinição, as mensagens enviadas a partir de uma caixa de correio partilhada não são guardadas na pasta Itens Enviados da mesma. Em vez disso, as mensagens são guardadas na pasta Itens Enviados da pessoa que enviou a mensagem.
   
-Se quiser que todos os membros vejam o e-mail Enviado, no centro de administração microsoft 365, edite os detalhes da caixa de correio partilhada e escolha **os itens enviados** \> **Editar**.
+Se quiser que todos os membros vejam os e-mails enviados, no centro de administração do Microsoft 365 edite os detalhes da caixa de correio partilhada e selecionar Editar **itens** \> **enviados.**
   
-Para ler mais, consulte [as definições da caixa de correio partilhada Configure](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#allow-everyone-to-see-the-sent-email-the-replies).
+Para ler mais, consulte [Configurar definições da caixa de correio partilhada.](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#allow-everyone-to-see-the-sent-email-the-replies)
   

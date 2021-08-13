@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8619"
-ms.openlocfilehash: 601649f6e5212ca03df5fcc32cd1d02c133e9170
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 3cdde086e535d2397b4d1a8a66903121a5217015ca055fb9f8d025b0842f044b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50482042"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960846"
 ---
 # <a name="password-synchronization"></a>Password synchronization
 
-**A sincronização de hash de palavra-passe não funciona de todo**
+**A Sincronização de Hashs de Palavras-passe não funciona de todo**
 
-Algumas questões comuns que os clientes encontram quando a Sincronização de Password Hash não funciona são:
+Alguns problemas comuns que os clientes encontram quando a Sincronização de Hash de Palavras-passe não funciona são:
 
-- A conta ative directory utilizada pelo Azure AD Connect para comunicar com o Ative Directory no local não é concedida Alterações de **Diretório de Replica** e **Alterações de Diretório de Replicatos,** que são necessárias para sincronização de palavras-passe - É necessário corrigi-lo concedendo estas permissões à conta ative Directory.
-- A sincronização de hash de palavra-passe é desativada depois de um administrador ter alterado o método de Sign-In do Utilizador da Sincronização de **Passwords** para outra opção, como **a Federação com AD FS** no assistente Ad Connect Azure - Pode corrigi-lo, reativando a função de **sincronização de hash de palavra-passe** no assistente Ad Connect Azure.
-- Problema de conectividade com o Ative Directory no local. Por exemplo, alguns controladores de domínio não estão [acessíveis](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-ports) pelo Azure AD Connect, ou as portas necessárias são bloqueadas pelo Firewall - É necessário corrigi-lo garantindo que a conectividade entre o servidor AZURE AD Connect e o Ative Directory funciona corretamente.
-- O servidor AD Connect Azure está atualmente em modo de fase, o que resultará na falta de acesso do servidor às hashes da palavra-passe - Para resolver o problema, siga os passos descritos na secção [Sincronização de palavras-passe de resolução de problemas com sincronização Azure AD Connect - Não há palavras-passe sincronizadas](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+- A conta do Active Directory utilizada pelo Azure AD Ligação para comunicar com o Active Directory no local não tem permissão para **Replicar** Alterações ao Diretório e **Replicar** Alterações ao Diretório Todas as permissões, que são necessárias para a sincronização de palavras-passe – tem de corrigir este problema ao conceder estas permissões à conta do Active Directory.
+- A sincronização de hashes de palavras-passe é desativada após um administrador alterar o método User Sign-In (Sincronização de Palavras-passe) para outra opção, como Federação com **O AD FS** no assistente do Azure AD Ligação – pode corrigir este problema ao reativar a funcionalidade de sincronização de hashes de palavras-passe no assistente de sincronização de hashes do Azure AD Ligação.  
+- Problema de conectividade com o Active Directory no local. Por exemplo, alguns controladores de domínio não são acessíveis pelo Azure AD Ligação ou as portas necessárias são bloqueadas pela Firewall - Tem de corrigir este problema assegurando que a conectividade entre o servidor do Azure AD Ligação e o Active Directory no local funciona corretamente. [](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-ports)
+- O servidor de Ligação do Azure AD está atualmente em modo de teste, o que fará com que o servidor não consiga encontrar hashes de palavras-passe - Para resolução de problemas, siga os passos descritos na secção Resolução de problemas de sincronização de palavras-passe com o [Azure AD Ligação sincronizado – não são sincronizadas](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)palavras-passe.
 
-**A sincronização de hash de palavra-passe não funciona para alguns dos meus utilizadores**
+**A Sincronização de Hashs de Palavras-passe não funciona para alguns dos meus utilizadores**
 
-1. Se notou que o hash da palavra-passe não está a sincronizar um utilizador, utilize a tarefa **de resolução de problemas** no Azure AD Connect para investigar e resolver o problema. Executar as seguintes tarefas:
+1. Caso tenha reparado que o hash de palavra-passe não está a ser a ser syncing para um utilizador, utilize a tarefa de resolução de problemas no Azure AD Ligação para investigar e resolver o problema.  Efetue as seguintes tarefas:
 
-    a. [Executar a tarefa de resolução de problemas no assistente](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-objectsync)
+    a. [Executar a tarefa de remoção de problemas no assistente](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-objectsync)
 
-    b. [Use o cmdlet de resolução de problemas para investigar o problema de sincronização de haxixe de palavra-passe para uma utilização específica](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
+    b. [Utilize o cmdlet de remoção de problemas para investigar o problema de síntese de hash da palavra-passe para uma utilização específica](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
 
-2. O objeto de utilizador ative directy no local está ativado para **o Utilizador deve alterar a palavra-passe na próxima** opção de início de sposição. Quando esta opção estiver ativada, o utilizador é atribuído a uma senha temporária e será solicitado a alterar a palavra-passe no próximo início de sessão. O Azure AD Connect não sincroniza palavras-passe temporárias para o Azure AD.
+2. O objeto do Utilizador do Active Directory no local está ativado para o Utilizador tem de alterar a **palavra-passe na próxima opção de início de** sessão. Quando esta opção está ativada, é atribuída ao utilizador uma palavra-passe temporária e ser-lhe-á pedido para alterar a palavra-passe no início de sessão seguinte. O Azure AD Ligação não sincroniza palavras-passe temporárias com o Azure AD.
 
-Para resolver a questão acima, execute qualquer uma das seguintes tarefas:
+Para resolver o problema acima, efetue uma das seguintes tarefas:
 
-- Peça ao utilizador para iniciar sôms na aplicação no local (por exemplo, Windows Desktop) e altere a palavra-passe. A nova palavra-passe será sincronizada com a Azure AD.
-- Tenha um administrador a atualizar a palavra-passe do utilizador sem permitir a opção O Utilizador deve alterar a **palavra-passe no próximo início de sê-lo** e partilhar a nova palavra-passe com o utilizador.
+- Peça ao utilizador para entrar na aplicação no local (por exemplo, no Windows ambiente de trabalho) e alterar a palavra-passe. A nova palavra-passe será sincronizada com o Azure AD.
+- Pedir a um administrador para atualizar a palavra-passe do utilizador sem ativar a opção O utilizador tem de alterar a palavra-passe no início de sessão seguinte e partilhar a nova palavra-passe com o utilizador.
 
-3. O objeto de utilizador ative directory no local não está **corretamente configurado** para sincronização de objetos ou sincronização de palavras-passe. Para resolver este problema, siga os passos descritos na [sincronização de hash de palavra-passe de resolução de problemas com a sincronização Azure AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+3. O objeto do Utilizador do Active  Directory no local não está configurado corretamente para sincronização de objetos ou sincronização de palavras-passe. Para remoção deste problema, siga os passos descritos na remoção de problemas de sincronização de hashes de palavras-passe com o [Azure AD Ligação sincronização.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
 
 
 

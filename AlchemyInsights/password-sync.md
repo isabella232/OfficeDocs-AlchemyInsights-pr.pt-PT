@@ -1,5 +1,5 @@
 ---
-title: Como verificar o estado de sincronização de palavras-passe
+title: Como Verificar o Estado da Sincronização de Palavras-passe
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 66920e7bcc6880892cf1b3c3f34e7298dd6491cc79b5fd8ea6540ee10339f33e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960882"
 ---
-# <a name="enable-password-sync"></a>Ativar o Sincronização de Palavras-Passe
+# <a name="enable-password-sync"></a>Ativar a Sincronização de Palavras-passe
 
-1.  Escolha **o Estado de DirSync** na página inicial do centro de administração microsoft 365. 
+1.  **Selecionar Estado do DirSync** na centro de administração do Microsoft 365 inicial. 
     
-     *Alternadamente, pode **Users** ir aos \> **utilizadores Ativos**, e na página de utilizadores Ativos, escolha **mais** \> **sincronização de Diretório.*** 
+     *Em alternativa, pode aceder  a Utilizadores Ativos e, na página Utilizadores ativos, \> selecionar Mais  \> **sincronização de diretórios.*** 
     
-2. No painel de sincronização do Diretório, escolha **Ir para a gestão da DirSync.** 
+2. No painel Sincronização de Diretórios, selecionar **Ir para a gestão do DirSync.** 
     
-3. Agora vai ver o seu estado e fazer alterações:
+3. Agora verá o seu estado e fazer alterações:
     
-    **Sincronização de palavra-passe ativada:** (Verdadeiro ou Falso). Especifica se tem sincronização de senha ativada entre o local e o seu inquilino. 
+    **Sincronização de palavras-passe ativada:** (Verdadeiro ou Falso). Especifica se tem a sincronização de palavras-passe ativada entre o seu inquilino no local e no local. 
     
-    **Última sincronização de palavra-passe:** (A última sincronização da palavra-passe foi a última vez que funcionou). Isto apresentará um aviso e uma ligação a uma ferramenta de resolução de problemas se a última sincronização tiver sido há mais de três dias. 
+    **Última Sincronização de Palavras-passe:** (Hora da última ação de sincronização de palavras-passe). Esta ação irá apresentar um aviso e uma ligação para uma ferramenta de remoção de problemas se a última sincronização tiver sido há mais de três dias. 
     
 

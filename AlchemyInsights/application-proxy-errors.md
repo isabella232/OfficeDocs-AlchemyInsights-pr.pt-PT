@@ -1,5 +1,5 @@
 ---
-title: Erros de resolução de problemas relacionados com o Application Proxy
+title: Remoção de erros relacionados com o Application Proxy
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "9686"
-ms.openlocfilehash: fe0bae35942af9925e8a5f90f966e204d7f84fd2
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: 2aa9d325be0d507c72dd615a05529e99711cff968264c474820625f8fcc65bdc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51038165"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969838"
 ---
-# <a name="troubleshoot-errors-related-to-application-proxy"></a>Erros de resolução de problemas relacionados com o Application Proxy
+# <a name="troubleshoot-errors-related-to-application-proxy"></a>Remoção de erros relacionados com o Application Proxy
 
-- Para conhecer os erros mais comuns que vêm da configuração e configuração de Kerberos, e sugestões de resolução, consulte [problemas de procuração de aplicação de resolução de problemas e mensagens de erro](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-troubleshoot#kerberos-errors).
-- Para erros de Proxy 404 da App, consulte [a página da App não é exibida corretamente para aplicação Proxy de aplicação | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-appearance-broken-problem).
-- No Azure Ative Directory (Azure AD), configurar um grande número de aplicações no local pode rapidamente tornar-se incontrolável e introduz riscos desnecessários para erros de configuração se muitas delas exigirem as mesmas definições. Com [o Azure AD Application Proxy,](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy)pode resolver este problema utilizando a publicação de aplicações wildcard para publicar e gerir muitas aplicações ao mesmo tempo. Para mais informações, consulte [as aplicações Wildcard no Azure AD Application Proxy | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-wildcard).
+- Para saber mais sobre os erros mais comuns que vêm da configuração e configuração Kerberos e sugestões de resolução, consulte Resolução de problemas de [Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-troubleshoot#kerberos-errors)da Aplicação e mensagens de erro.
+- Para erros do Proxy 404 da Aplicação, consulte A página Aplicação não é apresentada corretamente na aplicação [Proxy da aplicação | Documentos da Microsoft](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-appearance-broken-problem).
+- No Azure Active Directory Azure AD), a configuração de um grande número de aplicações no local pode tornar-se rapidamente inmanejável e apresenta riscos desnecessários para erros de configuração se muitas delas precisarem das mesmas definições. Com o Proxy de Aplicações do [Azure AD,](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy)pode resolver este problema ao utilizar a publicação de aplicações com um postal para publicar e gerir várias aplicações ao mesmo tempo. Para obter mais informações, consulte [aplicações com o modelo Proxy de Aplicações do Azure AD | Documentos da Microsoft](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-wildcard).

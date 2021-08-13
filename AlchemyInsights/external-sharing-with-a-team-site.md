@@ -1,5 +1,5 @@
 ---
-title: Partilha externa com um site de equipa
+title: Partilha Externa com um Site de Equipa
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 0f5d72493c219ebc007d33d48246e0fd009c6644
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fac10d862611cab95933576fde59bdaf1eb58e572d6781b087c48d2c332e205d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977704"
 ---
-# <a name="external-sharing-with-a-team-site"></a>Partilha externa com um site de equipa
+# <a name="external-sharing-with-a-team-site"></a>Partilha Externa com um Site de Equipa
 
-Para ligar a partilha externa de utilizadores para Sites de Equipas, siga estes passos: 
+Para ativar a partilha de utilizadores externos nos Sites de Equipa, siga estes passos: 
   
-1. No novo centro de administração sharePoint, clique em **Ative Sites**.
+1. No novo centro de administração do SharePoint, clique em **Sites Ativos.**
   
-2. Selecione um site que tenha um modelo **de Site de Equipa.** 
+2. Selecione um site que tenha um modelo **de Site de** Equipa. 
   
-3. Selecione o botão **Partilhar** a partir do menu superior. 
+3. Selecione **o** botão Partilhar no menu superior. 
   
- **Nota:** Por padrão, quando um Site de Equipa Moderna for criado, a opção de partilha Externa será definida para utilizadores externos novos e existentes. 
+ **Nota:** por predefinição, quando é criado um Site de Equipa Moderno, a opção Partilha externa estará definida para Utilizadores externos novos e existentes. 
   
- **Nota:** Se tiver mais de um site selecionado, o botão **Partilhar** aparecerá desativado. Selecione apenas um site. 
+ **Nota:** Se tiver mais do que um site selecionado, o **botão Partilhar aparecerá** desativado. Selecionar apenas um site. 
   
 

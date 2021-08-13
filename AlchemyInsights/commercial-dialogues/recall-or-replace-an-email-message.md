@@ -1,5 +1,5 @@
 ---
-title: Relembrou substituir mensagem de e-mail
+title: Ressarte ou substitua mensagem de e-mail
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 46e491c51cdceaf8b46e97fbec2754f94d7ee66e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b1a5ca296c62956ef0a8a95ed8ea9c967d268bcedb9cd5122b39a9678ba1f152
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750084"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967200"
 ---
-# <a name="recall-or-replace-email-message"></a>Relembrou substituir mensagem de e-mail
+# <a name="recall-or-replace-email-message"></a>Ressarte ou substitua mensagem de e-mail
 
-Só pode recordar ou substituir mensagens enviadas para endereços na sua organização. As mensagens enviadas para um endereço Gmail, por exemplo, não podem ser recolhidas.
+Só pode ressartar ou substituir mensagens que são enviadas para endereços na sua organização. Por exemplo, não é possível ressaltar mensagens enviadas para um endereço do Gmail.
 
-1. No painel de pastas à esquerda da janela Outlook, escolha a pasta **Itens Enviados.**
-2. Abra a mensagem que quer recordar. Tem de clicar duas vezes para abrir a mensagem. Selecionar a mensagem de modo a aparecer no painel de leitura não lhe permite recordar a mensagem.
-3. A partir do separador **Mensagem,** selecione **Actions**  >  **Recall This Message**.
-4. Clique **em Eliminar cópias não lidas desta mensagem** ou **elimine cópias não lidas e substitua-as por uma nova mensagem** e, em seguida, clique em **OK**.
-5. Se estiver a enviar uma mensagem de substituição, compõe a mensagem e, em seguida, clique em **Enviar**.
-6. O sucesso ou falha de uma chamada de mensagem depende das definições dos destinatários no Outlook. Para obter medidas para verificar a recolha, [consulte este artigo](https://support.office.com/article/recall-or-replace-an-email-message-that-you-sent-35027f88-d655-4554-b4f8-6c0729a723a0#tocheck).
+1. No painel de pastas à esquerda da janela de Outlook, selecionar a **pasta Itens** Enviados.
+2. Abra a mensagem que pretende ressartar. Tem de fazer duplo clique para abrir a mensagem. Selecionar a mensagem para que seja exibida no painel de leitura não lhe permitirá ressartar a mensagem.
+3. No separador **Mensagem,** selecione **Ações**  >  **Ressartar Esta Mensagem**.
+4. Clique **em Eliminar cópias não lidas** desta mensagem ou Eliminar as cópias não lidas e substituí-as por uma nova mensagem **e,** em seguida, clique em **OK.**
+5. Se estiver a enviar uma mensagem de substituição, componha a mensagem e, em seguida, clique em **Enviar**.
+6. O sucesso ou a falha do ressarcesso de uma mensagem depende das definições dos destinatários Outlook. Para ver os passos para verificar o ressarto, [consulte este artigo.](https://support.office.com/article/recall-or-replace-an-email-message-that-you-sent-35027f88-d655-4554-b4f8-6c0729a723a0#tocheck)

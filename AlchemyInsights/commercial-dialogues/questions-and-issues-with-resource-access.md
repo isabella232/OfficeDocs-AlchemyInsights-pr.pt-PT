@@ -1,5 +1,5 @@
 ---
-title: Perguntas e problemas com acesso a Recursos
+title: Perguntas e problemas com o acesso de Recursos
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: d5278cfcf607c0722e02c2ca3cf421e0d492a9b7
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: db3140f94c6ab543133c29500552e529b0dc17b6d083cb729c5cf5857ffdbacf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750221"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967308"
 ---
-# <a name="questions-and-issues-with-resource-access"></a>Perguntas e problemas com acesso a Recursos
+# <a name="questions-and-issues-with-resource-access"></a>Perguntas e problemas com o acesso de Recursos
 
-Para obter informações sobre os tipos de perfis Os suportes do Intune para permitir o acesso dos utilizadores a infraestruturas e recursos corporativos, consulte:
+Para obter informações sobre os tipos de perfil que o Intune suporta para permitir o acesso dos utilizadores à infraestrutura e recursos empresariais, consulte:
 
-- [Adicione e utilize Wi-Fi configurações nos seus dispositivos no Microsoft Intune](https://docs.microsoft.com/mem/intune/configuration/wi-fi-settings-configure)
-- [Adicione definições de e-mail a dispositivos que utilizem o Intune](https://docs.microsoft.com/mem/intune/configuration/email-settings-configure)
-- [Utilize certificados para autenticação no Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/certificates-configure)
-- [Criar perfis VPN para ligar aos servidores VPN no Intune](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-configure)
+- [Adicionar e utilizar Wi-Fi definições de utilização nos seus dispositivos no Microsoft Intune](https://docs.microsoft.com/mem/intune/configuration/wi-fi-settings-configure)
+- [Adicionar definições de e-mail a dispositivos com o Intune](https://docs.microsoft.com/mem/intune/configuration/email-settings-configure)
+- [Utilizar certificados para a autenticação no Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/certificates-configure)
+- [Criar perfis VPN para ligar a servidores VPN no Intune](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-configure)
 
 [Saiba mais...](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)

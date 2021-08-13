@@ -1,5 +1,5 @@
 ---
-title: Adicione um grupo a um site do SharePoint
+title: Adicionar um grupo a um site do SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,39 +12,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 07850bc8c496df180d2e3c85dfbfc999231f6a54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e8dee2986c98b0ebf5eae6222a652fc999287b6efa3fe5a9099134c44dddf670
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697352"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936968"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a>Adicione um grupo a um site do SharePoint
+# <a name="add-a-group-to-a-sharepoint-site"></a>Adicionar um grupo a um site do SharePoint
 
-Alguns sites de equipas do SharePoint (incluindo os criados em Microsoft Teams) são geridos pelos proprietários do grupo Microsoft 365. Os sites e conteúdos do SharePoint também podem ser partilhados com os grupos Microsoft 365 e com os grupos SharePoint. Um grupo SharePoint é uma coleção de utilizadores que todos têm o mesmo conjunto de permissões para sites e conteúdos. Para sites clássicos, recomendamos que use grupos para atribuir convenientemente o mesmo nível de permissão a muitas pessoas ao mesmo tempo, em vez de atribuir permissões de cada vez.
+Alguns sites de equipa do SharePoint (incluindo os criados no Microsoft Teams) são geridos por Microsoft 365 de grupos. Os sites e conteúdos do SharePoint também podem ser partilhados Microsoft 365 grupos do SharePoint e com grupos do SharePoint. Um grupo SharePoint é uma coleção de utilizadores que têm o mesmo conjunto de permissões para sites e conteúdos. Para os sites clássicos, recomendamos que utilize grupos para atribuir convenientemente o mesmo nível de permissões a muitas pessoas em vez de atribuir permissões uma pessoa de cada vez.
   
-Gerir os membros do grupo Microsoft 365:
+Gerir Microsoft 365 membros do grupo:
   
-1. Aceda à [página Grupos no centro de administração Microsoft 365](https://portal.office.com/adminportal/home#/groups).
+1. Vá para [a página Grupos na página centro de administração do Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
-2. Selecione um grupo para ver os seus proprietários e membros. Para adicionar ou remover pessoas, clique no link **Editar** na linha **Proprietários** ou **Membros.** 
+2. Selecione um grupo para ver os proprietários e membros. Para adicionar ou remover pessoas, clique na **ligação Editar** na **linha Proprietários** **ou** Membros. 
     
-Partilhe um site de comunicação com um grupo Microsoft 365:
+Partilhar um site de comunicação com um Microsoft 365 de comunicações:
   
-1. Vá ao site num browser e clique em **Partilhar o site** no canto superior direito. 
+1. Vá para o site num browser e clique em **Partilhar site** no canto superior direito. 
     
-2. Introduza o nome de grupo e, em seguida, selecione o nível de permissão (Ler, Editar ou Controlar completamente).
+2. Introduza o nome do grupo e, em seguida, selecione o nível de permissão (Leitura, Edição ou Controlo Total).
     
-Crie um grupo SharePoint para usar com um site clássico:
+Crie um grupo do SharePoint para utilizar com um site clássico:
   
-1. Vá ao site num browser e clique no ícone Definições no canto superior direito.
+1. Vá para o site num browser e clique no Definições de Navegação no canto superior direito.
     
-2. Clique **nas definições do Site**e, em seguida, em **Utilizadores e Permissões,** clique nas **permissões do Site**.
+2. Clique **em Definições do site e,** em **seguida, em Utilizadores e Permissões,** clique **em Permissões do site**.
     
-3. No separador Permissões, clique em **Criar Grupo**.
+3. No separador Permissões, clique em **Criar Grupo.**
     
-[Ligue um site clássico da equipa a um novo grupo Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Ligação um site de equipa clássico para um novo Microsoft 365 grupo](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[Saiba mais sobre trabalhar com os grupos SharePoint](https://go.microsoft.com/fwlink/?linkid=874658)
+[Saiba mais sobre como trabalhar com grupos do SharePoint](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

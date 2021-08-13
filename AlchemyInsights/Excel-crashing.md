@@ -1,5 +1,5 @@
 ---
-title: Excel a desmoronar-se?
+title: Excel falha?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,30 +11,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 9322ebfcb2fd05359c55068ce847e934e389519b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51804824"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918478"
 ---
-# <a name="frequent-excel-crashes"></a>Frequentes acidentes excel?
+# <a name="frequent-excel-crashes"></a>Falhas Excel frequentes?
 
-Acidentes frequentes no Excel podem ser causados por um suplemento defeituoso. Pode desativar um add-in do Excel seguindo estas instruções:
+As falhas frequentes Excel podem ser causadas por um add-in com falhas. Pode desativar um Excel de produto ao seguir estas instruções:
   
-1. Escolha  \> **opções** \> **de ficheiros, Add-Ins**.
+1.  \> **Selecionar Opções de** \> **Ficheiro, Adicionar.**
 
-2. Na caixa **Manage,** escolha **Add-ins COM** e, em seguida, clique em **Go**.
+2. Na caixa **Gerir,** selecionar **Adiciones COM** e, em seguida, clique em **Ir.**
 
-3. Na caixa disponível Add-Ins, limpe a caixa de verificação ao lado do add-in que pretende desativar e, em seguida, clique em **OK**.
+3. Na caixa Add-Ins, desmarque a caixa de verificação junto ao adicionar que pretende desativar e, em seguida, clique em **OK.**
 
 > [!NOTE]
-> Se o Excel se despenhar durante o lançamento, por favor, lance-o em modo Safe premindo e segurando o Ctrl enquanto inicia o programa.
+> Se Excel falha durante o início, inicie-a no modo Cofre ao premir sem premir a tecla Ctrl enquanto inicia o programa.
   
-Se ainda tiver problemas, consulte os seguintes artigos:
+Se continuar a ter problemas, consulte os seguintes artigos:
   
-- [Tenho um erro de "parar de trabalhar" quando insui as candidaturas do Office 2016 ou 2013 no meu PC](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [É-me detetável um erro "deixou de funcionar" Office 2016 ou 2013 no meu PC](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
 
-- [Como resolver problemas de colisão e não responder a problemas com o Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
+- [Como lidar com falhas e não responder a problemas com Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 
-- [Excel não responde, enforca, congela ou para de trabalhar](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
+- [Excel responde, bloqueia ou deixa de funcionar](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)

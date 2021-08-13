@@ -1,5 +1,5 @@
 ---
-title: Como fechar a sua conta desktop Analytics
+title: Como fechar a sua conta de Análise de Ambiente de Trabalho
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 4fab35e44ab7c08611da89e7e4d798e463356ab1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6b90247c239282ace5feac6b4d5cd903b7492f9257e1e88b32f0716d0cd1c03f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825778"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913257"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>Como fechar a sua conta desktop Analytics
+# <a name="how-to-close-your-desktop-analytics-account"></a>Como fechar a sua conta de Análise de Ambiente de Trabalho
 
-Se configurar o Desktop Analytics no seu ambiente e decidir que precisa removê-lo, utilize o processo no seguinte link:
+Se configurar a Análise de Ambiente de Trabalho no seu ambiente e, em seguida, decidir que tem de removê-la, utilize o processo na seguinte ligação:
 
 [Como fechar a sua conta](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-O primeiro passo é contactar o Microsoft Support. Abra um caso de suporte para fechar a sua conta desktop Analytics. Não continue com passos adicionais até receber a confirmação de que a Microsoft fechou a sua conta.
+O primeiro passo é contactar o Suporte da Microsoft. Abra um caso de suporte para fechar a sua conta de Análise de Ambiente de Trabalho. Não continue com passos adicionais até receber a confirmação de que a Microsoft fechou a sua conta.

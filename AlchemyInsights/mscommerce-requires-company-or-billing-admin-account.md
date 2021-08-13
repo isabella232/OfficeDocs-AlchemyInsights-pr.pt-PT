@@ -1,5 +1,5 @@
 ---
-title: Ligue-se ao módulo MSCommerce
+title: Ligação para o módulo MSCommerce
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3529"
-ms.openlocfilehash: 8e6819f6d6ff37baab4bdd49cb5a87c32490f841
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 357604f1d4cda3ac8ef6b8b4dbf8780b96dcee59409a6c2edad4a84d6adda62a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974680"
 ---
-# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce requer uma conta de Administrador de Empresa ou Faturação
+# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>A MSCommerce necessita de uma conta de Administrador de Faturação ou de Empresa
 
-O módulo MSCommerce requer uma conta com privilégios da Empresa ou do Administrador de Faturação. Se estiver a receber o seguinte erro, terá de voltar a ligar-se a uma conta diferente.
+O módulo MSCommerce necessita de uma conta com privilégios de Administrador de Faturação ou empresa. Se estiver a receber a seguinte mensagem de erro, terá de voltar a ligar a uma conta diferente.
 
-*ErrorMessage - O servidor remoto devolveu um erro: (403) Proibido. ErrorDetails - Em C:\Ficheiros de programa\WindowsPowerShell\Módulos\MSCommerce\1.2\MSCommerce.psm1:216 char:5*<br>
-*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError -ErrorContext $_ -CustomErrorMessage "Falhou em voltar a tentar ...*<br>
+*ErrorMessage – O servidor remoto devolveu um erro: (403) Proibido. ErrorDetails - At C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char:5*<br>
+*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError -ErrorContext $_ -CustomErrorMessage "Falha ao retribuir...*<br>
 \+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoriaInfo : Não Específico: (:) [Write-Error], WriteErrorException*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ Totalmente QualificadoErrorId : Microsoft.PowerShell.Commands.WriteErrorException,HandleError*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+InformaçõesDa Categoria: Não Especificado: (:) [Write-Error], WriteErrorException*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+FullyQualifiedErrorId: Microsoft.PowerShell.Commands.WriteErrorException,HandleError*
 
-Se a sua conta não tiver privilégios de Empresa ou Administrador de Faturação, contacte o seu Administrador de TI.
+Se a sua conta não tiver privilégios de Administrador de Empresa ou De Faturação, contacte o seu Administrador de TI.

@@ -1,5 +1,5 @@
 ---
-title: Desaparecido - duplicado
+title: Em falta - duplicado
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3414"
 - "9001433"
-ms.openlocfilehash: b17dd499accdbcc05fd50ffeaf275317148b255e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4a42eff05c07645eb4b691134ffa410fedcbbfabe904a74a9827fc4e1934d7a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51793223"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975158"
 ---
-# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a>Resolução de problemas em falta e duplicação de itens de calendário
+# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a>Remoção de itens de calendário em falta e duplicados
 
-Para obter informações sobre como resolver problemas com nomeações em falta e duplicação quando utilizar o Microsoft Outlook e o Microsoft Exchange Server, consulte [Como resolver consultas em falta e duplicar nomeações no Outlook](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).
+Para obter informações sobre como resolver problemas com compromissos em falta e duplicados quando utiliza o Microsoft Outlook e o Microsoft Exchange Server, consulte Como resolver problemas de compromissos em falta e duplicados no [Outlook.](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook)

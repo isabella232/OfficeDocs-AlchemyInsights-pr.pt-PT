@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: f7c7c91a25a18e21c1858aba0e54a42f27bc0f58
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bfb47bb53bbbe50258ad3f7022cd4f31b9f014a5d32c8a1b09da5e775abfcdc0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832285"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940002"
 ---
 # <a name="trouble-with-the-apple-watch"></a>Problemas com o Apple Watch
 
-Se tiver problemas em utilizar o Outlook no Apple Watch, aqui ficam alguns passos de resolução de problemas: 
+Se estiver a ter problemas com Outlook no Apple Watch, eis alguns passos de remoção de problemas: 
 
-1. Vá à aplicação Watch no iPhone.
+1. Vá para a aplicação Ver em iPhone.
 
-2. Percorra a aplicação Outlook.
+2. Desloco-se até à aplicação Outlook Aplicação.
 
-3. Alterne "Show App on Apple Watch" para **OFF** para desinstalar.
+3. Para desinstalar, desinstale "Mostrar Aplicação no Apple Watch" para DESINSTALAR. 
 
-4. Alterne "Show App on Apple Watch" para **ON** para reinstalar no Watch.
+4. Para voltar a instalar no Watch, altere "Mostrar Aplicação no Apple Watch" para **ATIVO.**
 
-5. Lance a aplicação Outlook no Apple Watch e aguarde que os dados se sincronizem para o mais recente. 
+5. Inceda a Outlook de atualizações no Apple Watch e aguarde até que os dados sejam sincronizados mais recentes. 
 
-Se o seu problema não for resolvido, a equipa de apoio ficaria feliz em ajudar. Vá a **Definições > ajude & o suporte > de contacto .** 
+Se o seu problema não for resolvido, a equipa de Suporte teria todo o gosto em ajudar. Vá para **a Definições > a & Feedback > Contactar o Suporte.** 

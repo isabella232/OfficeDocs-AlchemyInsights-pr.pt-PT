@@ -1,5 +1,5 @@
 ---
-title: Lista de eventos de tarefas e calendários na UI moderna
+title: Lista de Eventos de Tarefas e Eventos do Calendário na IU Moderna
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "2627"
-ms.openlocfilehash: d8b6382c1d9f05e981842bce95f0e5b61d2b7434
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f229837492d9ed8ca6f28e1dc4bc01f5ebec30438a868c1c9c25640e4003ccc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795471"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941343"
 ---
-# <a name="task-and-calendar-event-list-in-modern-ui"></a>Lista de eventos de tarefas e calendários na UI moderna
+# <a name="task-and-calendar-event-list-in-modern-ui"></a>Lista de Eventos de Tarefas e Eventos do Calendário na IU Moderna
 
-Pode ver um erro na exibição de "Title" como `< ID >_.000` nas listas TASK e EVENT ao tentar torná-los em Vista Moderna.
+Poderá ver um erro na apresentação de "Título" como nas listas de TAREFAs e EVENTOS ao tentar `< ID >_.000` compô-los na Vista Moderna.
 
-Certos tipos de listas e bibliotecas ainda não foram construídas para aparecer numa interface de utilizador moderna, como uma lista de Tarefas ou Eventos.
+Alguns tipos de listas e bibliotecas ainda não foram criados para aparecer numa interface de utilizador moderna, como uma lista de Tarefas ou uma lista de Eventos.
 
-Um dos itens prioritários para nós é apoiar as listas DE TAREFA e EVENTO como parte do UX moderno. No entanto, não dispomos de um ETA para este apoio, por isso, por favor, continuem a utilizar a experiência clássica para estas listas.
+Um dos itens de prioridade para nós é suportar listas de TAREFAs e EVENTOS como parte do UX moderno. No entanto, não temos um ETA para este suporte, pelo que deve continuar a utilizar a experiência clássica destas listas.
 
-Para mais informações, visite [Maximize a utilização de listas e bibliotecas modernas.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+Para obter mais informações, [visite Maximizar a utilização de listas e bibliotecas modernas.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)

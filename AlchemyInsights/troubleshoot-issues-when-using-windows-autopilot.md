@@ -1,5 +1,5 @@
 ---
-title: Problemas de resolução de problemas ao utilizar o Windows AutoPilot
+title: Remoção de problemas ao utilizar o Windows AutoPilot
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "2490"
-ms.openlocfilehash: b86230d1073f2423a6abf694d5330dd72fec7912
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: 8fb28280952522ede040441c20434e34c19695aba00889e2978ed98ef1544819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949756"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008341"
 ---
-# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Problemas de resolução de problemas ao utilizar o Windows AutoPilot
+# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Remoção de problemas ao utilizar o Windows AutoPilot
 
-Se tiver problemas com o AutoPilot, consulte as páginas [de Resolução de Problemas](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) do Autopilot e [Questões Conhecidas.](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues)
+Se estiver a ter problemas com o AutoPilot, consulte as páginas Remoção de Problemas [Autopilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) e Problemas [Conhecidos.](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues)
 
-Se tiver algum problema com o Windows AutoPilot a parar durante uma fase de Página de Estado de Inscrição (ESP), por favor, reveja o seguinte documento para obter pistas sobre como resolver o seu problema. [Compreender e resolver problemas na Página do Estado de Inscrição](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
+Se estiver a ter um problema com a paragem do Windows AutoPilot durante uma fase da Página de Estado de Inscrição (ESP), consulte o documento seguinte para ver sugestões sobre como resolver o problema. [Compreender e remover problemas na Página de Estado da Inscrição](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
 
-Se procura experimentar o Autopilot com dispositivos Hololens 2, certifique-se de que revê a documentação "[Windows Autopilot for HoloLens 2".](https://docs.microsoft.com/hololens/hololens2-autopilot) Isto irá ajudá-lo a compreender os pré-requisitos e os passos recomendados para a inscrição de Hololens 2 usando o Autopilot  
+Se quiser experimentar o Autopilot com o Hololens 2 dispositivos, certifique-se de que revê a documentação "[Windows Autopilot para HoloLens 2.](https://docs.microsoft.com/hololens/hololens2-autopilot) Isto irá ajudá-lo a compreender os pré-requisitos e os passos recomendados para a inscrição do Hololens 2 através do Autopilot  
 
-Para obter mais informações sobre a configuração do Windows Autopilot, consulte [os dispositivos Do Windows no Intune utilizando o Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)
+Para obter mais informações sobre como Windows Autopilot, consulte Inscrever Windows dispositivos no Intune utilizando [o Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)

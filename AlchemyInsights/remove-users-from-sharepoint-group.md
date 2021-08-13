@@ -1,5 +1,5 @@
 ---
-title: Remover os utilizadores de um grupo SharePoint
+title: Remover utilizadores de um grupo do SharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3198"
-ms.openlocfilehash: 7a66c8440ba7eb1bb0794efd94ad4e707b9d2298
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b34042a48baa26a7e2a4b6a29ff864f2eed823893d76fb8837704769b0ce5166
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094575"
 ---
-# <a name="remove-users-from-a-sharepoint-group"></a>Remover os utilizadores de um grupo SharePoint
+# <a name="remove-users-from-a-sharepoint-group"></a>Remover utilizadores de um grupo do SharePoint
 
-Um grupo SharePoint é uma coleção de utilizadores que todos têm o mesmo conjunto de permissões para sites e conteúdos. Em vez de atribuir permissões a uma pessoa de cada vez, pode usar grupos para atribuir convenientemente o mesmo nível de permissão a muitas pessoas ao mesmo tempo.
+Um grupo SharePoint é uma coleção de utilizadores que têm o mesmo conjunto de permissões para sites e conteúdos. Em vez de atribuir permissões a uma pessoa de cada vez, pode utilizar grupos para atribuir convenientemente o mesmo nível de permissões a várias pessoas ao mesmo tempo.
 
-- [Remover os utilizadores de um grupo](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
-- [Adicione ou remova membros dos Grupos Microsoft 365 utilizando o centro de administração](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+- [Remover utilizadores de um grupo](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
+- [Adicionar ou remover membros de grupos Microsoft 365 com o centro de administração](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)

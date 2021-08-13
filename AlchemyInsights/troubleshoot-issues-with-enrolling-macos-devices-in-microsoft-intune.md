@@ -1,5 +1,5 @@
 ---
-title: Problemas de resolução de problemas com a inscrição de dispositivos macOS no Microsoft Intune
+title: Remova problemas com a inscrição de dispositivos macOS no Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,22 @@ ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.custom:
 - "781"
 - "6200002"
-ms.openlocfilehash: 72aa0e84bc50f91281d59f0eb405bf2970cad2f0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f89ecc2cffde920feda46090658b938101e0d6027492949dd03612c2b0811555
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823438"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939204"
 ---
-# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Problemas de resolução de problemas com a inscrição de dispositivos macOS no Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Remova problemas com a inscrição de dispositivos macOS no Microsoft Intune
 
 Reveja os recursos listados abaixo para resolver o seu problema agora.
   
-1. Utilize [o Portal de Resolução de Problemas Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) para diagnosticar e resolver falhas comuns de inscrição. [Reveja este documento](https://docs.microsoft.com/intune/help-desk-operators) para mais detalhes.
+1. Utilize o Portal de Resolução de Problemas do [Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) para diagnosticar e resolver falhas de inscrição comuns. [Reveja este](https://docs.microsoft.com/intune/help-desk-operators) documento para obter mais detalhes.
 
-2. [Reveja este documento](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) para obter uma lista de erros comuns que impeçam a inscrição e as resoluções para cada um.
+2. [Reveja este](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) documento para ver uma lista de erros comuns que impedem a inscrição e as resoluções de cada um.
 
 3. [Saiba como inscrever dispositivos macOS no Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).
 
-[Consulte o guia do utilizador final para inscrever dispositivo macOS no Microsoft Intune](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[Consulte o guia do utilizador final para inscrever um dispositivo macOS no Microsoft Intune](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   

@@ -1,5 +1,5 @@
 ---
-title: 'Correio de voz de resolução de problemas '
+title: 'Remoção de problemas de voicemail '
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: a2d26da512838ae112c352fe21366074b69fa224
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: e639d74cd8dbbb03ffb5b253451c99c8fe639f024a46e173845a0f4d322e43ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679100"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972394"
 ---
-# <a name="troubleshooting-voicemail"></a>Resolução de problemas Correio de Voz
+# <a name="troubleshooting-voicemail"></a>Remoção de Problemas do Voicemail
 
-Certifique-se de que a funcionalidade Busy on Busy é intencional.
+Certifique-se de que a funcionalidade Ocupado em Ocupado é intencional.
 
 Se esta funcionalidade não for necessária neste utilizador:
 
-1. Vá ao [Centro de Administração de Equipas.](https://admin.teams.microsoft.com/policies/calling)
-1. No caminho de ferro esquerdo, as políticas de chamada de **voz**  >    >  **gerem as políticas** sobre a política de **chamada.**
-1. Selecione **Gerir utilizadores**.
-1. Procure o utilizador e altere a Política de Chamada para uma que tenha **ocupado em busy quando estiver disponível numa chamada** para **Desligar**.
+1. Vá para [Teams Centro de administração.](https://admin.teams.microsoft.com/policies/calling)
+1. Nas setas à esquerda, navegue pelas políticas **de Chamadas** de Voz  >    >  **Gerir Políticas** na **Política de Chamadas**.
+1. **Selecione Gerir Utilizadores**.
+1. Procure um utilizador e altere a Política de Chamadas para uma que tenha Ocupado em Ocupado está disponível quando estiver **numa chamada para** **Des ligado.**
 1. Clique em **Aplicar**.
 > [!NOTE]
-> As alterações às políticas podem demorar até 24 horas a replicar-se.
+> As alterações às políticas podem demorar até 24 horas a replicar.
 
-Para obter mais informações sobre esta funcionalidade, consulte: [Busy on Busy está disponível durante uma chamada](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call).
+Para obter mais informações sobre esta funcionalidade, consulte: [Ocupado em Ocupado está disponível durante uma chamada](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call).

@@ -1,5 +1,5 @@
 ---
-title: Falha a App Do Projeto Web na coleção do site SharePoint
+title: Project A Web App está em falta na coleção de sites do SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1777"
 - "9000207"
-ms.openlocfilehash: 5b699130b7896c12b757f10356072281b49766ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82487c13bfc763387d3f433f31e4dc895d6ce3c04f6d8b6426e999a8b5f4b79f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801591"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973096"
 ---
-# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Falha a App Do Projeto Web da coleção do site SharePoint
+# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project A Aplicação Web está em falta na coleção de sites do SharePoint
 
-A Project Web App pode estar ausente da coleção do site SharePoint pelos seguintes motivos:
+Project A Web App pode estar em falta na coleção de sites do SharePoint pelos seguintes motivos:
 
-1. As organizações têm apenas uma licença (s) Do Project Online Essentials. Os administradores terão de adicionar uma licença Project Online Professional e/ou Premium. O site sairá só de leitura nessa altura. Para mais informações, consulte [Compare Project Management Solutions.](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
-2. O arrendatário encontrou um problema de provisionamento no qual o fornecimento do Project Web App Site foi adiado. Se passaram mais de 24 horas e ainda está a passar pelo problema, por favor, registe um bilhete de apoio. Sabemos que 24 horas podem parecer muito tempo. Em muitos casos, já estamos a trabalhar numa solução. Por favor, dê-nos pelo menos 24 horas para completar uma solução.
+1. As organizações têm apenas Project Online – Versão Essentials licença(s) de empresa(s). Os administradores terão de adicionar uma Project Online Professional e/ou Premium licença. O site ficará como só de leitura nessa altura. Para mais informações, consulte [Comparar Soluções Project Gestão.](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
+2. O inquilino deparou-se com um problema de aprovisionamento em que o Project Web App de aprovisionamento foi adiado. Se já tiver passado mais de 24 horas e ainda estiver com o problema, recrute um bilhete de suporte. Compreendemos que 24 horas pode parecer muito tempo. Em muitos casos, estamos a trabalhar numa solução. Dê-nos, pelo menos, 24 horas para concluir a solução.

@@ -1,5 +1,5 @@
 ---
-title: Arquivo de bugs Intune Insider
+title: Arquivamento de erros do Intune Insider
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 574a83a97a58d44f2bef66c9caaa16479b085269fc2f9dbf729a23ca8d37bba6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667637"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925932"
 ---
-# <a name="intune-insider-bug-filing"></a>Arquivo de bugs Intune Insider
+# <a name="intune-insider-bug-filing"></a>Arquivamento de erros do Intune Insider
 
-Obrigado pelo seu interesse no programa Intune Insiders. Se já está a bordo para o programa Intune Insiders, e precisa de apresentar um pedido de apoio, então:
+Obrigado pelo seu interesse no programa Intune Insiders. Se já tiver um pedido de suporte para o programa Intune Insiders e precisar de arquivar um pedido de suporte, então:
 
-1. Descreva o seu problema no campo acima.
-2. Crie um novo pedido de serviço utilizando as opções abaixo.
+1. Descreva o problema no campo acima.
+2. Crie um novo pedido de serviço através das opções abaixo.
 
-Um engenheiro de suporte Intune entrará em contacto consigo.
+Um engenheiro de suporte do Intune irá contactá-lo.
 
-Se não está no programa Intune Insiders, obrigado pelo seu interesse. Não estamos a recrutar novos participantes.
+Se não estiver no programa Intune Insiders, obrigado pelo seu interesse. Atualmente, não estamos a recrutar novos participantes.

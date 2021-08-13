@@ -1,5 +1,5 @@
 ---
-title: 2419-incapaz de permitir a auditoria
+title: 2419-unable-to-enable-auditing
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,26 +12,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 2419
 ms.assetid: ''
-ms.openlocfilehash: 81fd8e33feb2f2b10b04cc7cdc746a8603aa366b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0566a8d002b1bd9e38f3184824193394e49d56494d347338f96cfcdfdb758f4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767610"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007801"
 ---
-# <a name="unable-to-enable-unified-auditing"></a>Incapaz de permitir auditorias unificadas
+# <a name="unable-to-enable-unified-auditing"></a>Não é possível ativar a auditoria unificada
 
-Quando tentar ativar uma auditoria unificada para a sua organização, poderá receber um erro semelhante ao seguinte:
+Ao tentar ativar a auditoria unificada para a sua organização, poderá receber um erro semelhante ao seguinte:
 
 ```
 Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 500 Exception message: {"Message":"The command you tried to run isn't currently allowed in your organization. To run this command, you first need to run the command: Enable-OrganizationCustomization."
 ```
 
-Para resolver esta questão, siga estes passos:
+Para resolver este problema, siga estes passos:
 
-1. [Ligue-se a Exchange Online Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
+1. [Ligação a Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
 
-2. Executar o seguinte cmdlet:
+2. Execute o seguinte cmdlet:
 
    ```
    Enable-OrganizationCustomization
@@ -39,7 +39,7 @@ Para resolver esta questão, siga estes passos:
 
 3. Aguarde 60 minutos para que a definição anterior entre em vigor.
 
-4. Executar o seguinte comando em Exchange Online PowerShell:
+4. Execute o seguinte comando no Exchange Online PowerShell:
 
    ```
    Set-AdminAuditLogConfig -UnifiedAuditLogIngestionEnabled $true
@@ -47,6 +47,6 @@ Para resolver esta questão, siga estes passos:
 
 Para obter informações adicionais, consulte os seguintes artigos:
 
-- [Conecte-se a Exchange Online PowerShell usando a autenticação de vários fatores](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
+- [Ligação a Exchange Online PowerShell através da autenticação multifatores](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
 
--  [Ligue a pesquisa de registo de auditoria ou desligada](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)
+-  [Ate ou deslige a pesquisa de registo de auditoria](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)

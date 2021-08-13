@@ -1,5 +1,5 @@
 ---
-title: Ativação do Gabinete utilizando licenciamento baseado em dispositivos
+title: Ativar Office através de licenciamento baseado em dispositivos
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: f59e817192ee38bdafb5ad0de64ed12f0a4f0392
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b9552e8a1f28138bf72fbc97b9cdb1ab7545b5021acbfe417602d49d351de4c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937328"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>Ativação do Gabinete utilizando licenciamento baseado em dispositivos
+# <a name="activating-office-using-device-based-licensing"></a>Ativar Office através de licenciamento baseado em dispositivos
 
-O licenciamento baseado em dispositivos para aplicações microsoft 365 para empresas está disponível como uma licença apenas para alguns clientes comerciais e alguns clientes de educação. Para obter informações detalhadas, consulte: [Licenciamento baseado em dispositivos para aplicações microsoft 365 para empresa](https://docs.microsoft.com/deployoffice/device-based-licensing)
+O licenciamento baseado em dispositivos para Microsoft 365 Apps para Grandes Empresas está disponível como uma licença apenas para alguns clientes comerciais e para alguns clientes educativos. Para obter informações detalhadas, [consulte: Licenciamento baseado em dispositivos para Microsoft 365 Apps para Grandes Empresas](https://docs.microsoft.com/deployoffice/device-based-licensing)
 
-Para ativar as aplicações do Microsoft 365 para empresas utilizando o licenciamento baseado em dispositivos, consulte:
+Para ativar Microsoft 365 Apps para Grandes Empresas através do licenciamento baseado em dispositivos, consulte:
 
-- [Requisitos para a utilização de licenças baseadas em dispositivos para aplicações microsoft 365 para empresa](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Medidas para configurar licenciamento baseado em dispositivos para aplicações microsoft 365 para empresa](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Requisitos para a utilização do licenciamento baseado em dispositivos para Microsoft 365 Apps para Grandes Empresas](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Passos para configurar o licenciamento baseado no dispositivo para Microsoft 365 Apps para Grandes Empresas](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
-Para obter orientações sobre resolução de problemas, consulte [o licenciamento baseado em dispositivos troubleshoot para aplicações microsoft 365 para empresa](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+Para saber mais sobre a orientação da remoção de problemas, consulte Remoção de licenciamento [baseado em dispositivos para Microsoft 365 Apps para Grandes Empresas](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
 > [!NOTE]
-> Se as aplicações da Microsoft 365 já estiverem instaladas e ativadas com licença de subscrição baseada no utilizador ou ativação partilhada de computador, terá de redefinir o estado de licença no dispositivo antes de passar para o licenciamento baseado no dispositivo. Para redefinir o estado de ativação, consulte [redefinir as aplicações da Microsoft 365 para o estado de ativação da empresa](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
+> Se o Microsoft 365 Apps já estiver instalado e ativado com o licenciamento de subscrição baseado no utilizador ou a ativação do computador partilhado, terá de repor o estado da licença no dispositivo antes que este seja transitado para o licenciamento baseado em dispositivos. Para repor o estado de ativação, consulte [Repor Microsoft 365 Apps para Grandes Empresas estado de ativação](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)

@@ -1,5 +1,5 @@
 ---
-title: Planos de piso
+title: Plantas dos Pisos
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003034"
 - "5789"
-ms.openlocfilehash: 265db958b856bf06ac9344662070370e2be0a92c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 330d778f54567ada5a2408a4e6ca1984f4380e37948e98e9ccda7c3f1c8cb30d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836398"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992887"
 ---
-# <a name="floor-plans"></a>Planos de piso
+# <a name="floor-plans"></a>Plantas dos Pisos
 
-Para obter informações sobre os planos do piso **de pesquisa da Microsoft,**  reveja os seguintes artigos de suporte:
-- [Melhores práticas para planos de piso de pesquisa do Microsoft Search](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
-- [Gerir planos de piso](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
-- Para obter informações sobre como criar uma planta de piso em  **Visio,** [reveja Criar uma planta de piso](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)
+Para obter informações sobre **Microsoft Pesquisa** pisos, reveja os seguintes artigos de suporte:
+- [Melhores práticas para plantas Microsoft Pesquisa pisos](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
+- [Gerir plantas de pisos](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
+- Para obter informações sobre como criar uma planta de pisos **no Visio**, reveja Criar uma planta [de pisos](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)

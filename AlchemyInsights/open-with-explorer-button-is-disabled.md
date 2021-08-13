@@ -1,5 +1,5 @@
 ---
-title: Abrir com o botão Explorer está desativado
+title: O botão Abrir com o Explorador está desativado
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 4bfb877c52bab26eb3e43c95901857ef731d0bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff4d8a16cbb92aa36f165f9a6525ccba7dedff49ccc1805097206dbab43ce40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694683"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944610"
 ---
-# <a name="the-open-with-explorer-button-is-disabled"></a>O botão Open with Explorer está desativado
+# <a name="the-open-with-explorer-button-is-disabled"></a>O botão Abrir com o Explorador está desativado
 
-- Navegue pela localização SharePoint ou OneDrive no Internet Explorer 10 ou no Internet Explorer 11. O botão não é compatível com outros navegadores web.
+- Navegue até à localização do SharePoint OneDrive do Internet Explorer 10 ou Internet Explorer 11. O botão não é compatível com outros browsers.
     
 > [!NOTE]
-> Abrir uma biblioteca no File Explorer é útil se precisar copiar ou mover vários ficheiros e pastas uma vez, mas se quiser trabalhar regularmente na biblioteca, recomendamos que o sincronize. Para obter mais ajuda e para resolver outros problemas que se abrem no File Explorer, consulte [Open in Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Para obter informações sobre a configuração da sincronização, consulte [os ficheiros Sync SharePoint com o novo cliente de sincronização OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Abrir uma biblioteca no Explorador de Ficheiros é útil se precisar de copiar ou mover múltiplos ficheiros e pastas uma vez, mas se quiser trabalhar regularmente na biblioteca, recomendamos que a mesma seja silenciada. Para mais ajuda e remoção de outros problemas que o abram no Explorador de Ficheiros, consulte [Abrir no Explorador.](https://go.microsoft.com/fwlink/?linkid=871665) Para mais informações sobre como configurar a sincronização, consulte [Sincronização](https://go.microsoft.com/fwlink/?linkid=871666)de ficheiros do SharePoint com o novo Sincronização do OneDrive cliente . 
   
 

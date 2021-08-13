@@ -1,5 +1,5 @@
 ---
-title: Fixar impressora Bluetooth
+title: Corrigir Bluetooth impressora
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "3483"
 - "9001214"
-ms.openlocfilehash: 26df4eca68b4e14bde56fc5015239ec0810beb0a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5f2ebf9b54814e47063a7b096ceb83db526f268b28f95bc251e31ac717fc6620
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812907"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928452"
 ---
-# <a name="fix-bluetooth-printer-connection-issues"></a>Corrigir problemas de ligação à impressora Bluetooth
+# <a name="fix-bluetooth-printer-connection-issues"></a>Corrigir problemas Bluetooth ligação da impressora
 
-Experimente estes passos de resolução de problemas para que a sua impressora Bluetooth volte a funcionar:
+Experimente estes passos de remoção de problemas para pôr a Bluetooth impressora a funcionar novamente:
 
 
-1. Verifique se o Bluetooth está ligado:
-    1. Selecione   >  **Dispositivos de início**  >    >  **Bluetooth & outros dispositivos**.
-    2. Ligue o **alternador** Bluetooth .
-2. Executar a resolução de problemas Bluetooth. <br>
-    Selecione **Iniciar**, digite **as definições de resolução de problemas** e, em seguida, selecione a opção **De resolução de problemas.** Selecione **Bluetooth** do menu e **execute o resolução de problemas**.
+1. Certifique-se de que a Bluetooth está adada:
+    1. **Selecione**  >  **Iniciar Definições**  >    >  **Dispositivos Bluetooth & outros dispositivos**.
+    2. Altere o Bluetooth de alternar **Para.**
+2. Execute a Bluetooth de problemas. <br>
+    **Selecione** Iniciar , **escreva as definições de remoção de problemas** e, em seguida, selecione a opção **Remoção de problemas de** definições. **Selecione Bluetooth** no menu e **Executar a remoção de problemas**.
 
-Se isso não funcionar, tente remover e reinstalar a sua impressora Bluetooth:
+Se isso não funcionar, tente remover e reinstalá-la na Bluetooth impressora:
 
-1. Remova a impressora em Definições:
-    1. Selecione **Iniciar**  >    >  **Definições Dispositivos**  >  **Impressoras & scanners**.
-    2. Em **Impressoras & scanners,** selecione a impressora que está a resolver problemas. **Selecione Remover o dispositivo**. Siga as instruções para remover completamente a impressora.
-2. Remova qualquer software do fabricante de impressoras de terceiros:
-    1. Selecione   >  **Iniciar Configurações**  >  **Apps**.
-    2. No **âmbito de Apps & funcionalidades**, desloque-se para encontrar qualquer software instalado no fabricante da sua impressora (como HP, Canon ou Epson).
+1. Remova a impressora na Definições:
+    1. **Selecione**  >  **Iniciar Definições**  >    >  **Dispositivos Impressoras & scanners**.
+    2. Em **Impressoras & scanners**, selecione a impressora que está a reflecionar. **Selecione Remover dispositivo**. Siga as instruções para remover completamente a impressora.
+2. Remova qualquer software de fabricante de impressora de terceiros:
+    1. **Selecione**  >  **Iniciar Definições**  >  **Aplicações**.
+    2. Em **Aplicações &,** desloque-se para encontrar qualquer software instalado no fabricante da sua impressora (como HP, Canon ou Epson).
 3. Desligue e reinicie a sua impressora.
    1. Desligue a impressora e o cabo de alimentação. Aguarde 30 segundos. 
    2. Ligue novamente a impressora à tomada e volte a ligar a impressora.
-4. Reinstalar a sua impressora em Definições:
-    1. Selecione **Iniciar**  >    >  **Definições Dispositivos**  >  **Impressoras & scanners**.
-    2. Selecione a **impressora adicionar ou ligar** o scanner na parte superior do ecrã e siga as instruções para reinstalar a sua impressora.
+4. Reinstale a impressora no Definições:
+    1. **Selecione**  >  **Iniciar Definições**  >    >  **Dispositivos Impressoras & scanners**.
+    2. **Selecione a ligação Adicionar impressora** ou scanner na parte superior do ecrã e siga as instruções para reinstalar a impressora.

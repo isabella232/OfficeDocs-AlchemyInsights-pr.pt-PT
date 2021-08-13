@@ -1,5 +1,5 @@
 ---
-title: Resolução de problemas do mover
+title: Mover remoção de problemas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "8000"
-ms.openlocfilehash: 97a08f74c85d48746c04bcaf31c1265384941487
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 073d6508109d02938e684870c79a5b41d7a621fb10d5b131f0d9103901fce460
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51793043"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986200"
 ---
-# <a name="mover-troubleshooting"></a>Resolução de problemas do mover
+# <a name="mover-troubleshooting"></a>Mover Remoção de Problemas
 
-Para obter informações sobre a resolução de problemas da Mover, visite o seguinte:
+Para obter mais informações sobre a remoção de problemas do Mover, visite o seguinte:
 
-- [Resolução de problemas pós-migração](https://docs.microsoft.com/sharepointmigration/mover-post-migration-troubleshooting)  
-- [Resolução de problemas erros de migração do Mover](https://docs.microsoft.com/sharepointmigration/mover-error-faq)  
-- [Códigos de estado de transferência](https://docs.microsoft.com/sharepointmigration/mover-transfer-status-codes)
-- [Conta FAQ](https://docs.microsoft.com/sharepointmigration/mover-account-faq)
+- [Remoção de problemas após a migração](https://docs.microsoft.com/sharepointmigration/mover-post-migration-troubleshooting)  
+- [Remoção de erros de migração do Mover](https://docs.microsoft.com/sharepointmigration/mover-error-faq)  
+- [Códigos de estado da transferência de movimentação](https://docs.microsoft.com/sharepointmigration/mover-transfer-status-codes)
+- [FAQ da Conta](https://docs.microsoft.com/sharepointmigration/mover-account-faq)

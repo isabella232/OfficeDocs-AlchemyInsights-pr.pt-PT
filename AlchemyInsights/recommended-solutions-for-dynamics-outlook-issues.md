@@ -1,5 +1,5 @@
 ---
-title: Soluções Recomendadas para Dinâmica 365 Problemas de Armazenamento
+title: Soluções Recomendadas para Problemas de Armazenamento Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -14,31 +14,31 @@ ms.custom:
 - "1451"
 - "1452"
 - "6200008"
-ms.openlocfilehash: 5a1c95907a7e9a3287fa9be467d4eb45602c7abe
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 6b164968b32727e320ba7a6a40b0de22ad88681881464d42e6eb553d714506d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708829"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062451"
 ---
-# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Soluções recomendadas para problemas de armazenamento Dynamics 365
+# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Soluções recomendadas para problemas de armazenamento do Dynamics 365
 
-* [App: Nenhum resultado de pesquisa devolvido em Relação à procura](https://support.microsoft.com/help/4489111)
+* [Aplicação: Não são devolvidos resultados de pesquisa em Relação à pesquisa](https://support.microsoft.com/help/4489111)
 
-* [App: Erro aparece ao abrir app para perspetivas](https://go.microsoft.com/fwlink/p/?linkid=2007021)
+* [Aplicação: Aparece um erro ao abrir a aplicação para Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007021)
 
-* [App: Email ou nomeação mostra como "Track Pending"](https://go.microsoft.com/fwlink/p/?linkid=2007022)
+* [Aplicação: O e-mail ou compromisso é mostrado como "Controlar Pendente"](https://go.microsoft.com/fwlink/p/?linkid=2007022)
 
-* [App: Página em branco aparece ao abrir app para Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007128)
+* [Aplicação: Aparece uma página em branco ao abrir a aplicação para Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007128)
 
-* [Cliente Completo: Não é possível ligar D365 para a versão Outlook 8.x a uma versão 9.x D365 instância](https://go.microsoft.com/fwlink/p/?linkid=2007023)
+* [Cliente Completo: não é possível ligar a D365 Outlook 8.x a uma instância da versão 9.x D365](https://go.microsoft.com/fwlink/p/?linkid=2007023)
 
-* [Cliente completo: "À espera que uma página seja recuperada de um servidor CRM..." mensagem aparece](https://go.microsoft.com/fwlink/p/?linkid=2007129)
+* [Cliente Completo: "A aguardar que uma página seja recuperada a partir de um servidor CRM..." é exibida a mensagem](https://go.microsoft.com/fwlink/p/?linkid=2007129)
 
-* [Cliente completo: Diagnosticar D365 para problemas com o Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007024)
+* [Cliente Completo: Diagnosticar a D365 para problemas Outlook problemas](https://go.microsoft.com/fwlink/p/?linkid=2007024)
 
-* [App: Resolução de problemas da App D365 para o Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
+* [Aplicação: Remoção de Problemas da Aplicação D365 para Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
 
-* [App: Como implementar](https://docs.microsoft.com/dynamics365/outlook-app/deploy-dynamics-365-app-for-outlook)
+* [Aplicação: Como implementar](https://docs.microsoft.com/dynamics365/outlook-app/deploy-dynamics-365-app-for-outlook)
 
-* [App: Guia do Utilizador](https://go.microsoft.com/fwlink/p/?linkid=857091)
+* [Aplicação: Guia do utilizador](https://go.microsoft.com/fwlink/p/?linkid=857091)

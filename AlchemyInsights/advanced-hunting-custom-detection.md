@@ -1,5 +1,5 @@
 ---
-title: Deteções personalizadas avançadas do 9001220
+title: 9001220 pesquisa avançada de deteções personalizadas
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,18 +14,18 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: ea478cfbbbe96065608990770e0453d8f2613981
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 8520cf14a937dbf83a5ebb8be86111dcd183fd4cfc59248fa0ec3a1e2685714f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543012"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952296"
 ---
 # <a name="advanced-hunting-custom-detections"></a>Deteções Avançadas de Personalização de Procura
 
 Pode saber como criar e gerir regras de deteção personalizadas com base em consultas de procura avançadas. Com as deteções personalizadas, pode monitorizar e responder proativamente a vários eventos e estados do sistema, incluindo atividades suspeitas de falha de sistema e dispositivos configurados incorretamente. Pode fazê-lo com regras de deteção personalizáveis que acionam automaticamente alertas e ações de resposta
   
-Se estiver a utilizar o Microsoft Defender ATP, consulte os seguintes tópicos para obter detalhes: 
+Se estiver a utilizar o Microsoft Defender ATP, consulte os seguintes tópicos para obter mais detalhes: 
 - [Visão geral de deteções personalizadas](/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
 - [Criar regras de deteção personalizadas](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
 - [Ver e gerir regras de deteção personalizadas](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)

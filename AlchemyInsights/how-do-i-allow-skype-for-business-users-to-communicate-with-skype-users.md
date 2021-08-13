@@ -1,5 +1,5 @@
 ---
-title: Como posso permitir que o Skype para os utilizadores empresariais se comuniquem com os utilizadores do Skype
+title: Como posso permitir que Skype para Empresas comuniquem com Skype utilizadores
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000726"
 - "2649"
-ms.openlocfilehash: e43ecf3af5311c6361b058918a4260c2cf8ef1be
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7f7eea73c49fec268c2bf2a44d0001cc4603fcd6331e5de0626862389f7cc04d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811323"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927732"
 ---
-# <a name="let-skype-for-business-users-add-skype-contacts"></a>Deixe o Skype para utilizadores empresariais adicionar contactos Skype
+# <a name="let-skype-for-business-users-add-skype-contacts"></a>Permitir que Skype para Empresas utilizadores adicionem Skype contactos
 
-Com o Skype for Business, os seus utilizadores podem pesquisar e IM com todos os que usam o Skype, a app gratuita! Este artigo explica o que precisa de fazer para que possam adicionar contactos skype.
+Com Skype para Empresas, os seus utilizadores podem procurar e pedir uma MIs a todas as pessoas que Skype, a aplicação gratuita! Este artigo explica o que precisa de fazer para que possam adicionar contactos Skype contactos.
 
-[Deixe o Skype para utilizadores empresariais adicionar contactos Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
+[Permitir que Skype para Empresas utilizadores adicionem Skype contactos](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)

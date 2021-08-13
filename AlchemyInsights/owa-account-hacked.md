@@ -1,5 +1,5 @@
 ---
-title: Perspetivas na conta web pirateada
+title: Outlook na Web conta de cliente acedeu de forma ideobilibilida
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: b411f48ef56f32f22babbe16f13865a2d6f7cc17
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 177612e13423f8692cd8fea599861671afe7b1b7b40e7b198f5bef536d51c75c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671347"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961530"
 ---
-# <a name="outlook-on-the-web-account-hacked"></a>Perspetivas na conta web pirateada
+# <a name="outlook-on-the-web-account-hacked"></a>Outlook na Web conta de cliente acedeu de forma ideobilibilida
 
-Se a sua conta tiver sido pirateada, siga as instruções de [Como proteger e restaurar a função de e-mail para uma conta e caixa de correio do Microsoft 365 comprometidas.](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)
+Se alguém acedeu à sua conta de modo idediático, siga as instruções no artigo Como proteger e restaurar a função de [e-mail para](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)uma conta comprometida suspeita Microsoft 365 conta e caixa de correio .
 
-Para saber mais sobre os passos adicionais que pode tomar para evitar que a sua conta seja comprometida, consulte [responder a uma conta de e-mail comprometida na Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account).
+Para saber mais sobre passos adicionais que pode tomar para impedir que a sua conta seja comprometida, consulte o artigo Responder a uma Conta de E-mail Comprometida [no Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account).

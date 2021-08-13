@@ -1,5 +1,5 @@
 ---
-title: Adicione contactos para acelerar a marcação
+title: Adicionar contactos à marcação rápida
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6658"
 - "9003570"
-ms.openlocfilehash: aed240e9d7cdfdf4263093472cc9b66c95a837e6
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: d40b9f116efb1d4e929f2d5a90625751cf647c5a153eef74fe49ae09f1202263
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365031"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954564"
 ---
-# <a name="add-contacts-to-speed-dial"></a>Adicione contactos para acelerar a marcação
+# <a name="add-contacts-to-speed-dial"></a>Adicionar contactos à marcação rápida
 
-1. Em  **Chamadas,** aceda a  **Contactos**.
-2. Se vir um cartão para a pessoa que pretende adicionar para marcação rápida, selecione  **Mais opções**  (três pontos) no seu cartão e selecione  **Adicionar ao marcador de velocidade**.
+1. Em  **Chamadas**, vá para  **Contactos**.
+2. Se vir um cartão para a pessoa que pretende  adicionar à marcação rápida, selecione Mais opções (remares) no cartão e selecione Adicionar à marcação **rápida**.
 
-Se não vir a pessoa, selecione Adicione o  **mostrador**  de velocidade no topo direito do ecrã, comece a digitar o seu nome, selecione a pessoa e, em seguida, selecione  **Adicionar**.
+Se não vir a pessoa,  selecione Adicionar marcação rápida no canto superior direito do ecrã, comece a escrever o nome da pessoa, selecione a pessoa e, em seguida, selecione **Adicionar**.

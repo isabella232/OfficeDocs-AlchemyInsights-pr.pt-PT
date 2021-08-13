@@ -1,5 +1,5 @@
 ---
-title: Adicione outro administrador da empresa - passos recomendados
+title: Adicionar outro administrador da empresa – passos recomendados
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7425"
-ms.openlocfilehash: d5811b18e16a4b98cf507a79f212768c009b96b2
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 820bdb44e8efa6d14c6b5646cde432865a43e456a07219527218eecd1beb0819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755490"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954702"
 ---
-# <a name="add-another-enterprise-administrator---recommended-steps"></a>Adicione outro administrador da empresa - passos recomendados
+# <a name="add-another-enterprise-administrator---recommended-steps"></a>Adicionar outro administrador da empresa – passos recomendados
 
-Com base na descrição do seu problema, encontrámos uma solução para si. A maioria dos clientes conseguiu resolver o seu problema por conta própria depois de seguir a nossa documentação.
+Com base na descrição do seu problema, encontrámos uma solução para si. A maioria dos clientes conseguiu resolver o seu problema sozinhos após seguir a nossa documentação.
 
-Pode ter vários administradores empresariais numa inscrição empresarial.
+Pode ter múltiplos administradores de empresa numa inscrição empresarial.
 
 **Para adicionar outro administrador da empresa:**
 
-1. Inscreva-se no [portal Azure Enterprise](https://ea.azure.com/).
-1. Navegue para **gerir o** detalhe  >  **da inscrição.**
-1. Clique **+ Adicione o administrador** no topo direito.
-1. Para acesso apenas à leitura, desajuste a opção Read-Only para **Sim** e, em seguida, selecione **Adicionar**.
+1. Inscreva-se [no portal do Azure Enterprise.](https://ea.azure.com/)
+1. Navegue até Gerir **Detalhes**  >  **da Inscrição.**
+1. Clique **em + Adicionar Administrador** no canto superior direito.
+1. Para acesso só de leitura, defina a Read-Only de Leitura **para** Sim e, em seguida, selecione **Adicionar**.
 
-Certifique-se de que tem o endereço de e-mail do utilizador e o método de autenticação preferido, como uma conta de trabalho, escola ou Microsoft. Se não for o administrador da empresa, contacte um administrador da empresa para solicitar que o adicionem a uma inscrição. Os novos administradores só são adicionados pelos administradores existentes. Depois de ser adicionado a uma inscrição, recebe um e-mail de ativação.
+Certifique-se de que tem o endereço de e-mail do utilizador e o método de autenticação preferencial, como uma conta escolar, escolar ou de trabalho. Se não for o administrador da empresa, contacte um administrador da empresa para pedir que o adicione a uma inscrição. Os novos administradores só são adicionados por administradores existentes. Após ser adicionado a uma inscrição, receberá um e-mail de ativação.
 
 **Para adicionar um administrador de departamento:**
 
-Depois de um administrador da Azure EA criar um departamento, o administrador da Azure Enterprise pode adicionar administradores de departamento e associar cada um a um departamento. Pode ter vários administradores de departamentos para cada inscrição na empresa.
+Após um administrador do Azure EA criar um departamento, o administrador do Azure Enterprise pode adicionar administradores de departamento e associar cada um a um departamento. Pode ter múltiplos administradores de departamento para cada inscrição empresarial.
 
-1. Inscreva-se no [portal Azure Enterprise](https://ea.azure.com/).
-1. Navegue para **gerir**  >  o separador **Departamento** e, em seguida, selecione o departamento.
+1. Inscreva-se [no portal do Azure Enterprise.](https://ea.azure.com/)
+1. Navegue para o **separador Gerir**  >  **Departamento e,** em seguida, selecione o departamento.
 1. **Selecione + Adicionar Administrador** e adicione as informações necessárias.
-1. Para acesso apenas à leitura, desajuste a opção Read-Only para **Sim** e, em seguida, selecione **Adicionar**.
+1. Para acesso só de leitura, defina a Read-Only de Leitura **para** Sim e, em seguida, selecione **Adicionar**.
 
 **Para atualizar/remover um administrador:**
 
-1. Passe sobre o administrador EA para ser removido e clique no ícone **X** azul.
-1. Confirme se o administrador pretendido está selecionado e clique em **Sim**.
+1. Pairo com o rato sobre o Administrador do EA a ser removido e clique no ícone **azul X.**
+1. Confirme que o administrador pretendido está selecionado e clique **em Sim.**
 
 **Documentos recomendados**
 
-- [Compreenda as funções administrativas do Acordo Empresarial Azure em Azure](https://docs.microsoft.com/azure/billing/billing-understand-ea-roles)
-- [Administração do portal Azure EA](https://docs.microsoft.com/azure/billing/billing-ea-portal-administration)
+- [Compreender o Contrato Enterprise do Azure e as funções administrativas no Azure](https://docs.microsoft.com/azure/billing/billing-understand-ea-roles)
+- [Administração do portal do Azure EA](https://docs.microsoft.com/azure/billing/billing-ea-portal-administration)

@@ -1,5 +1,5 @@
 ---
-title: Como procuro um e-mail?
+title: Como posso procurar um e-mail?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3054"
 - "9001093"
-ms.openlocfilehash: 070a264f6af068e09a4d1143b95dabcaf4aeae04
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 40bb32851d4b09f2d06e0aaabe84f980ec40d763415dde4f90b5120c242e4bb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811107"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927120"
 ---
-# <a name="how-do-i-search-for-an-email"></a>Como procuro um e-mail?
+# <a name="how-do-i-search-for-an-email"></a>Como posso procurar um e-mail?
 
-Pode pesquisar um e-mail procurando o contacto que lhe enviou o e-mail, ou procurando uma palavra-chave contida no e-mail.
+Pode procurar um e-mail ao procurar o contacto que lhe enviou o e-mail ou ao procurar uma palavra-chave contida no e-mail.
 
-Toque na lupa na barra de navegação inferior. Em seguida, digite o seu pedido de pesquisa na caixa na parte superior do seu ecrã. 
+Toque na lupa na barra de navegação inferior. Em seguida, escreva o seu pedido de pesquisa na caixa na parte superior do ecrã. 
 
-**Dica:** Pode bater duas vezes na lupa para trazer o foco para a caixa de pesquisa. Os seus resultados aparecerão à medida que digitar o seu pedido. 
+**Sugestão:** Pode fazer duplo toque na lupa para levar o foco para a caixa de pesquisa. Os resultados serão apresentados à medida que escreve o seu pedido. 

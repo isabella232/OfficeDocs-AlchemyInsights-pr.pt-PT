@@ -1,5 +1,5 @@
 ---
-title: Como posso restaurar uma equipa ou canal apagado
+title: Como posso restaurar uma equipa ou canal eliminado
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: e1f858cc6d42db4c165bd406ca71fdfa6ad77199
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d82a1f0ac2007e2c7472fc486754a7b144a8927d17ab0e6ffe0fed6fd2ddf4e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811179"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927264"
 ---
-# <a name="how-to-restore-a-deleted-team-or-channel"></a>Como restaurar uma equipa ou canal apagado
+# <a name="how-to-restore-a-deleted-team-or-channel"></a>Como restaurar uma equipa ou canal eliminado
 
-Os canais eliminados dentro de uma equipa podem ser restaurados até 21 dias após a apagar o canal.
+Os canais eliminados numa equipa podem ser restaurados até 21 dias após a eliminação do canal.
 
-Para recuperar um canal apagado, o dono da equipa pode fazer o seguinte:
+Para recuperar um canal eliminado, o proprietário da equipa pode fazer o seguinte:
 
-1. Abra as definições da equipa selecionando os 3 pontos à direita do nome da equipa.
-2. **Selecione Gerir** os canais de equipa  >    >  **Eliminados** e, em seguida, selecione **Restaurar** à direita.
+1. Abra as definições da equipa ao selecionar os 3 pontos à direita do nome da equipa.
+2. **Selecione Gerir**  >  **Canais de equipa**  >  **Eliminados e,** em seguida, **selecione** Restaurar à direita.
 
-Para obter mais informações sobre a restauração de uma Equipa, consulte [o Archive ou elimine uma equipa em Microsoft Teams - Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
+Para obter mais informações sobre como restaurar uma Equipa, consulte Arquivar ou eliminar [uma equipa no Microsoft Teams - Microsoft Teams | Documentos da Microsoft](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).

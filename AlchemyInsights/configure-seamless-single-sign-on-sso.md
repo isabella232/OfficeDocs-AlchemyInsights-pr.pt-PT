@@ -1,5 +1,5 @@
 ---
-title: Configurar o sign-on único sem emenda (SSO)
+title: Configurar o Sinal de Ações Simples Sem Comâneo (SSO)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,46 +14,46 @@ ms.custom:
 - "9004357"
 - "9384"
 - "9863"
-ms.openlocfilehash: bd3873c2db1b8d548f81d531a8bf5747130fe761
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 62f667cccd0761e081b3f651709fadfec12500e76fd8e30b8649a28e99001e4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402278"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966048"
 ---
-# <a name="configure-seamless-single-sign-on-sso"></a>Configurar o sign-on único sem emenda (SSO)
+# <a name="configure-seamless-single-sign-on-sso"></a>Configurar o Sinal de Ações Simples Sem Comâneo (SSO)
 
-**Configure aplicações**
+**Configurar Aplicações**
 
-1. Deve obter os valores do vendedor de aplicações. Pode introduzir manualmente os valores ou carregar um ficheiro de metadados para extrair o valor dos campos.
-2. Muitas aplicações já foram pré-configuradas para trabalhar com a Azure AD. Estas aplicações estão listadas na galeria de aplicações que pode navegar quando adiciona uma aplicação ao seu inquilino AZure AD. A [série quickstart](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) acompanha-o através do processo.
-3. Para criar uma aplicação não-galeria, pode clicar em + Criar o seu próprio botão **De aplicação** e dar um nome à sua Aplicação.
-    - Por predefinição, irá **selecionar Integrar qualquer outra aplicação que não encontre na galeria,** que é a opção correta para aplicações não-galeria.
-    - Assim que atingir **a Create** depois de colocar o nome para a aplicação, criará uma nova Aplicação Empresarial não-galeria.
-    - Em seguida, poderá navegar para **o Single Sign-on em** **Gestão** dessa aplicação e poderá ver diferentes técnicas para implementá-la no seu ambiente.
+1. Deverá obter os valores a partir do fornecedor da aplicação. Pode introduzir os valores manualmente ou carregar um ficheiro de metadados para extrair o valor dos campos.
+2. Muitas aplicações já foram pré-configuradas para funcionarem com o Azure AD. Estas aplicações estão listadas na galeria de aplicações que pode procurar quando adiciona uma aplicação ao seu inquilino do Azure AD. A [série de guias de guia](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) guia-o pelo processo.
+3. Para criar uma aplicação que não seja de galeria, pode clicar em **+ Criar** o seu próprio botão de Aplicação e dar um nome à sua Aplicação.
+    - Por predefinição, a aplicação Irá selecionar Integrar qualquer outra aplicação que não encontrar na galeria, que é a opção correta para Aplicações que não são da galeria. 
+    - Depois de chegar **a Criar** depois de colocar o nome da aplicação, será criado uma nova Aplicação Empresarial Sem Galeria.
+    - Em seguida, poderá navegar  para o  Registo Único em Gerir essa aplicação e poderá ver diferentes técnicas para a implementar no seu ambiente.
 
-**Configure sSO sem emenda para uma aplicação específica**
+**Configurar o SSO Sem Complicações para uma aplicação específica**
 
-Para as aplicações na galeria encontrará instruções detalhadas, passo a passo. Para aceder aos passos pode navegar numa lista de todos os tutoriais de configuração de aplicações nos [tutoriais de configuração de aplicações SaaS](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list).
+Para as aplicações na galeria, encontrará instruções detalhadas e passo a passo. Para aceder aos passos, pode procurar uma lista de todos os tutoriais de configuração de aplicações nos tutoriais de configuração de aplicações [SaaS.](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list)
 
 **Configurar SSO baseado em SAML**
 
-1. [Quickstart: Configurar um único sign-on (SSO) baseado em SAML para uma aplicação no seu inquilino Azure Ative Directory (Azure AD).](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)
-2. Para saber mais sobre a opção baseada em SAML para um único sign-on, consulte [Understand SAML single sign-on](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-saml-single-sign-on).
-3. Para saber mais sobre os pedidos e respostas de autenticação SAML 2.0 que o Azure Ative Directory (Azure AD) suporta para Sign-On Individuais (SSO), consulte [o protocolo SAML de Sign-On Único](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol).
-4. Para aprender a criar e configurar um sign-on único baseado em SAML (SSO) para a sua aplicação no Azure Ative Directory (AD) utilizando a API do Gráfico da Microsoft, consulte um [único sinal baseado em SAML para a sua aplicação utilizando a API do Gráfico microsoft](https://docs.microsoft.com/graph/application-saml-sso-configure-api).
-5. Para saber como a Azure AD utiliza o protocolo SAML, consulte [como a plataforma de identidade da Microsoft utiliza o protocolo SAML](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference).
+1. Guia de Utilização Rápida: configurar o registo único (SSO) baseado em SAML para uma aplicação no seu inquilino [do Azure Active Directory (Azure AD).](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)
+2. Para saber mais sobre a opção baseada em SAML para o primeiro sinal, consulte Compreender o sinal de assinatura único baseado [em SAML.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-saml-single-sign-on)
+3. Para saber mais sobre os pedidos de autenticação SAML 2.0 e respostas que o Azure Active Directory (Azure AD) suporta para o Sign-On Único (SSO), consulte Protocolo [SAML Sign-On.](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)
+4. Para saber como criar e configurar um SSO (single sign-on) baseado em SAML para a sua aplicação no Azure Active Directory (Azure AD) através da API do Microsoft Graph, consulte Configurar o registo único baseado em SAML para a sua aplicação através da API do [Microsoft Graph.](https://docs.microsoft.com/graph/application-saml-sso-configure-api)
+5. Para saber como o Azure AD utiliza o protocolo SAML, consulte Como o [plataforma de identidades da Microsoft utiliza o protocolo SAML.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference)
 
-**Configure tokens e reclamações**
+**Configurar Tokens e Reivindicações**
 
-1. [Como: personalizar reclamações emitidas no token SAML para aplicações empresariais](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization).
-2. Para aprender a configurar reclamações usando o PowerShell, consulte [Como: Personalizar reclamações emitidas em fichas para uma aplicação específica num inquilino (Preview)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping).
-3. Para aprender a configurar reclamações opcionais, consulte [Como: Fornecer reclamações opcionais à sua aplicação.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
-4. Para aprender a utilizar atributos de extensão de esquema de diretório para enviar dados do utilizador a aplicações em alegações simbólicas, consulte [utilizar atributos de extensão de esquema de diretório em sinistros](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions).
-5. Para aprender a configurar vidas simbólicas, consulte [as vidas de símbolos configurantes na plataforma de identidade da Microsoft (pré-visualização)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
-6. [Configure políticas de vida simbólicas (pré-visualização)](https://docs.microsoft.com/azure/active-directory/develop/configure-token-lifetimes) - Neste artigo, passamos por um cenário político comum que pode ajudá-lo a impor novas regras para a vida útil simbólica. No exemplo, aprende-se a criar uma política que exige que os utilizadores autentem mais frequentemente na sua aplicação web.
+1. [Como: personalizar as reclamações emitidas no token SAML para aplicações empresariais.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization)
+2. Para saber como configurar afirmações com o PowerShell, consulte Como: Personalizar as reclamações emitidas em tokens para uma aplicação específica num inquilino [(Pré-visualização).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping)
+3. Para saber como configurar reivindicações opcionais, consulte Como: Fornecer [reivindicações opcionais à sua aplicação.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
+4. Para saber como utilizar atributos da extensão de esquema de diretório para enviar dados de utilizador para aplicações em afirmações de tokens, consulte Utilizar atributos da extensão de esquema de diretório nas [afirmações](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions).
+5. Para saber como configurar permissões de tokens, consulte o artigo Duração de [token configurável no plataforma de identidades da Microsoft (pré-visualização)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
+6. Configurar políticas de duração de [tokens (pré-visualização)](https://docs.microsoft.com/azure/active-directory/develop/configure-token-lifetimes) - Neste artigo, iremos debater um cenário de política comum que pode ajudá-lo a impor novas regras para a duração dos tokens. No exemplo, vai aprender a criar uma política que exija que os utilizadores autentiquem mais frequentemente na sua aplicação Web.
 
-**Configuração SSO resolução de problemas**
+**Remoção de Configuração do SSO**
 
-- Para perguntas frequentes sobre O Diretório Ativo sem emenda sem emenda Sign-On (Seamless SSO), consulte [O Diretório Ativo Sem Emenda Sem Emenda Sign-On: Perguntas frequentes.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq)
-- Para obter informações sobre problemas comuns relativos ao Azure Ative Directory (Azure AD) Seamless Single Sign-On (Seamless SSO), consulte O Sinal Único Sem Emenda sem emenda do Diretório Sem Emenda da [Resolução de Problemas](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso).
+- Para as perguntas mais frequentes sobre Azure Active Directory Simples totalmente Sign-On (SSO Totalmente Simples), consulte Azure Active Directory Desintroduzição Única Totalmente Simples: perguntas mais [frequentes](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq).
+- Para obter informações sobre problemas comuns relacionados com o Azure Active Directory (Azure AD) Single Sign-On (SSO Sem Com problemas), consulte Resolver problemas Azure Active Directory o Sinal de Utilização Única Sem Com [problemas.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso)

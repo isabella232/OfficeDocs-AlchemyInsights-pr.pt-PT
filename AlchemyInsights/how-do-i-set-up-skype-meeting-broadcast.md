@@ -1,5 +1,5 @@
 ---
-title: Como posso configurar a Transmissão de Reunião skype
+title: Como posso configurar a Transmissão Reunião do Skype Difusão
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1d59207826ac284d9c95248003126b8d5a319fa9b4fa49e1c6a451558989b8cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811035"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927084"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Não pode começar ou juntar-se a uma transmissão de reunião do Skype?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Não consegue iniciar ou participar numa Transmissão Reunião do Skype Desem direto?
 
-Se tiver problemas em iniciar ou aderir a uma Transmissão de Encontros skype como membro da equipa de eventos (produtor de reuniões), certifique-se de verificar duas vezes a sua configuração. A transmissão da reunião do Skype requer alguns passos de configuração manual. Siga os passos deste artigo para garantir que a sua rede e o portal Skype para Business Online estão configurados corretamente e que o utilizador afetado não está bloqueado por uma licença conflituosa:
+Se estiver a ter problemas em iniciar ou participar numa Transmissão Reunião do Skype evento como Membro da Equipa do Evento (Produtor da reunião), certifique-se de que verifica duas vezes a sua configuração. Reunião do Skype A difusão requer alguns passos de configuração manual. Siga os passos neste artigo para se certificar de que a sua rede e o portal Skype para Empresas Online estão configurados corretamente e que o utilizador afetado não está bloqueado por uma licença em conflito:
 
-[Crie a sua rede para a transmissão de reuniões skype](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+[Configurar a sua rede para a Transmissão Reunião do Skype Rede](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)

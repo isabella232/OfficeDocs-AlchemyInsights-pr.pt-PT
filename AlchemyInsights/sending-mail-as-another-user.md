@@ -1,5 +1,5 @@
 ---
-title: Envio de correio como outro utilizador
+title: Enviar e-mails como outro utilizador
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6439"
 - "3500009"
-ms.openlocfilehash: c52e63c3d8a26a6aa26be0d06e3d19e74c1d2c91
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 936c3bc5ad9c76e805b4b8d966853100c2a3f467046a490017813b011ef9b600
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830629"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942774"
 ---
-# <a name="sending-mail-as-another-user"></a>Envio de correio como outro utilizador
+# <a name="sending-mail-as-another-user"></a>Enviar e-mails como outro utilizador
 
-Antes *do Utilizador1* poder enviar e-mail como *Utilizador2,* *o User1* terá de receber permissões na caixa de correio do *Utilizador2.* Para aprender a fazê-lo, consulte (Dê permissões de caixa de correio a outro https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user utilizador)[ ].
+Para *que o Utilizador1* consiga enviar e-mails como *Utilizador2,* o *Utilizador1* terá de ter permissões na caixa de correio do *Utilizador2.* Para saber como fazê-lo, consulte (Dar permissões de caixa de correio a outro utilizador)[ https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user ].
 
-Após a concessão de permissões (isto pode demorar cerca de 30 minutos a produzir efeitos) - *O Utilizador1* poderá enviar como *Utilizador2* seguindo os passos descritos no Create ou responder a uma mensagem de correio eletrónico em nome de outra pessoa.
+Após a permissão ser dada (esta ação pode demorar cerca de 30 minutos a entrar em vigor) - O *Utilizador1* poderá enviar como *Utilizador2* ao seguir os passos descritos em Criar ou responder a uma mensagem de e-mail em nome de outra pessoa.

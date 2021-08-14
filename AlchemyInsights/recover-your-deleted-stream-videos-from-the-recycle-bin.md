@@ -1,5 +1,5 @@
 ---
-title: Recupere os seus vídeos de stream apagados do caixote do lixo
+title: Recuperar os seus vídeos do Stream eliminados a partir da reciclagem
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "8282"
-ms.openlocfilehash: 173df399f90ed2bae9b4b91d0f731bee7984c9ab
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 48e3aa2ac47b031f8380c6a03b43eb22419ba89eb149b98a0b63b71f3713ca0c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294258"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959442"
 ---
-# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>Recupere os seus vídeos de stream apagados do caixote do lixo
+# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>Recuperar os seus vídeos do Stream eliminados a partir da reciclagem
 
-Quando os vídeos são apagados no Microsoft Stream, entram num contentor de reciclagem de 30 dias.
+Quando os vídeos são eliminados no Microsoft Stream, são removidos para uma reciclagem de 30 dias.
 
-O caixote do reciclagem de vídeo permite-lhe restaurar os vídeos se foram acidentalmente apagados ou apagar permanentemente vídeos já no caixote do lixo antes do limite de 30 dias.
+A reciclagem de vídeos permite-lhe restaurar vídeos, caso estes tenham sido eliminados acidentalmente ou se eliminar permanentemente vídeos que já se encontrarem na reciclagem antes do limite de 30 dias.
 
 Para mais informações, consulte:
 
-- [Recupere os seus vídeos apagados do caixote do lixo](https://docs.microsoft.com/stream/portal-my-recycle-bin)
-- [Caixa de reciclagem de vídeo para administrador de stream](https://docs.microsoft.com/stream/admin-recycle-bin)
+- [Recuperar os seus vídeos eliminados da reciclagem](https://docs.microsoft.com/stream/portal-my-recycle-bin)
+- [Reciclagem de vídeo do administrador do Stream](https://docs.microsoft.com/stream/admin-recycle-bin)

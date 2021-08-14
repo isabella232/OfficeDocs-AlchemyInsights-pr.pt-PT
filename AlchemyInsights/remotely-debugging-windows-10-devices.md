@@ -1,5 +1,5 @@
 ---
-title: Começa com dispositivos remotamente depurando o Windows 10
+title: Começar com a depuração remota de Windows 10 dispositivos
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "6980"
 - "10188"
 - "9005827"
-ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 829f8edc6c1d9887f157f503071aa7cab2f334ed34d66765042a42a4d7d97113
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398575"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959406"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Começa com dispositivos remotamente depurando o Windows 10
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Começar com a depuração remota de Windows 10 dispositivos
 
-Para desorgaçar remotamente conteúdos ao vivo num dispositivo Windows 10 a partir de um computador Windows ou macOS:
+Para depurar remotamente conteúdos em tempo real num Windows 10 dispositivo a partir de um Windows computador macOS:
 
-1. Crie o seu dispositivo Windows 10 para depurar remotamente e, em seguida, conecte-o a partir da sua máquina de desenvolvimento.
-2. Inspecione e depure conteúdos ao vivo no seu dispositivo Windows 10 a partir da sua máquina de desenvolvimento.
-3. O conteúdo do screencast do seu dispositivo Windows 10 para uma instância DevTools na sua máquina de desenvolvimento.
+1. Configurar o seu Windows 10 para depuração remota e, em seguida, ligue-se ao mesmo a partir do seu computador de desenvolvimento.
+2. Inspecione e depurar conteúdos em direto no seu Windows 10 dispositivo de desenvolvimento a partir do seu máquina de desenvolvimento.
+3. Screencast content from your Windows 10 device to a DevTools instance on your development machine.
 
-Para saber mais, consulte [Get Start com dispositivos de depuragem remoto do Windows 10 utilizando o Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).
+Para saber mais, consulte o [Introdução com a Depuração Remota Windows 10 dispositivos utilizando Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).

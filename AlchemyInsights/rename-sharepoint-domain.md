@@ -1,5 +1,5 @@
 ---
-title: Rename your SharePoint domain
+title: Dar um novo nome ao seu domínio do SharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11680"
 - "5300028"
-ms.openlocfilehash: fc80a6ac234f2998e0620ac79e43a3d46aeee9c9
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: bdd0fa5e1b556ffa7975f75b03350acb76d6bb631b9796fc7a92a12ff50c92a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52993607"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991687"
 ---
-# <a name="rename-your-sharepoint-domain"></a>Rename your SharePoint domain
+# <a name="rename-your-sharepoint-domain"></a>Dar um novo nome ao seu domínio do SharePoint
 
-Atualmente, existe uma Pré-visualização Privada para a capacidade de dar outro nome ao SharePoint utilizador.
+Atualmente, existe uma Pré-visualização Privada para a capacidade de dar outro nome ao seu domínio do SharePoint.
 
 Para obter mais informações sobre o processo e limitações de nome, visite [https://aka.ms/SPOTenantRename](https://aka.ms/SPOTenantRename) .
 

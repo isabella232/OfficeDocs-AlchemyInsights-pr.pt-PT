@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: 036c171f3c71e60c8c07000b4d0c6ede36bd435c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5f7a08f4f4b75612c6d11920d0e7d5cc48f106c695a73d2cf5461af8fa881634
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51801679"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973790"
 ---
-# <a name="teams-policies"></a>Políticas de equipas
+# <a name="teams-policies"></a>Teams políticas
 
-As definições do Microsoft Teams são controladas por políticas. Para fazer uma alteração, tem de configurar a política adequada e, em seguida, aplicá-la aos utilizadores. A forma mais rápida de o fazer para todos os seus utilizadores é modificar a política padrão chamada Global. 
+Microsoft Teams definições são controladas por políticas. Para fazer uma alteração, tem de configurar a política adequada e, em seguida, aplicá-la aos utilizadores. A forma mais rápida de o fazer para todos os seus utilizadores é modificar a política predefinida denominada Global. 
 
-**NOTA** As mudanças de política demoram **_pelo menos 4 a 48 horas a produzir efeitos_**. Se criar uma política personalizada, terá de esperar pelo menos 4 horas antes de poder escoar alterações adicionais. Em seguida, pode aplicar essa política aos utilizadores. Isto significa que as políticas personalizadas podem demorar até 48 horas a produzir efeitos. As políticas globais são definidas como padrão para todos os utilizadores, e as alterações à política global podem levar até 24 horas para entrar em vigor. Se criou uma política personalizada, aplicou-a aos utilizadores, e ainda não entrou em vigor após 48 horas, ou modificou a política global e esperou pelo menos 24 horas, por favor abra um caso de apoio.
+**NOTA** As alterações de **_políticas levam a ter efeito, pelo menos, 4 até 48 horas._** Se criar uma política personalizada, tem de esperar, pelo menos, 4 horas antes de poder fazer alterações adicionais à mesmo. Em seguida, pode aplicar essa política aos utilizadores. Isto significa que as políticas personalizadas podem demorar até 48 horas a ser em vigor. As políticas globais são definidas como predefinição para todos os utilizadores e as alterações à política Global podem demorar até 24 horas a tomarem efeito. Se tiver criado uma política personalizada, aplicada aos utilizadores e esta ainda não tiver sido aplicada após 48 horas ou tiver modificado a Política global e esperado pelo menos 24 horas, abra um caso de suporte.
 
-As políticas das equipas dividem-se nas seguintes áreas:
+Teams políticas estão divididas nas seguintes áreas:
 
-- [As políticas das equipas](https://docs.microsoft.com/MicrosoftTeams/teams-policies) controlam a descoberta de equipas privadas em busca e criação de canais privados.  
-- [As políticas de reunião](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) controlam o que os utilizadores podem fazer com as reuniões das Equipas, incluindo controlar o lobby. Para ajuda com questões de lobby, como configurar equipas para admitir todos, consulte [as definições do lobby do Control e os níveis de participação](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
-- [As políticas de mensagens controlam](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) o que os utilizadores podem fazer com conversas e mensagens, incluindo ligar ou desligar o chat, apagar conversas, solicitar recibos de leitura, usar giphys e autocolantes, e muito mais.
-- [As políticas de configuração de aplicações](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) controlam quais as aplicações disponíveis para os utilizadores, incluindo aplicações personalizadas e de terceiros, e a ordem em que aparecem.  
-- As [políticas de retenção de](https://docs.microsoft.com/microsoftteams/retention-policies) dados para equipas encontram-se no Microsoft 365 security and Compliance Center.
-- As equipas abordam as políticas do livro através de [uma pesquisa de diretórios.](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search)
+- [Teams controlam a](https://docs.microsoft.com/MicrosoftTeams/teams-policies) descoberta de equipas privadas para pesquisa e criação de canais privados.  
+- [As políticas de](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) reunião controlam o que os utilizadores podem Teams reuniões, incluindo controlar a sala de espera. Para ajuda com problemas da sala de espera, como configurar salas Teams que admitam todas as pessoas, consulte Controlar as definições e níveis de participação da sala [de espera.](https://docs.microsoft.com/alchemyinsights/bypass-lobby)
+- [As políticas de](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) mensagens controlam o que os utilizadores podem fazer com o chat e com as mensagens, incluindo ativar ou desligá-la, eliminar conversas, pedir recibos de leitura, utilizar giphys e autocolantes e muito mais.
+- [As políticas de configuração de](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) aplicações controlam que aplicações estão disponíveis para os utilizadores, incluindo aplicações personalizadas e de terceiros, bem como a ordem em que são apresentadas.  
+- As [políticas de retenção de](https://docs.microsoft.com/microsoftteams/retention-policies) dados Teams podem ser encontradas no Microsoft 365 de Conformidade e Segurança.
+- Teams livro de endereços são definidas através [da pesquisa de diretório no âmbito](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).

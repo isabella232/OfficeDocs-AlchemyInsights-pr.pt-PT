@@ -1,5 +1,5 @@
 ---
-title: Remova o seu domínio GoDaddy da Microsoft 365
+title: Remover o seu domínio da GoDaddy do Microsoft 365
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -12,14 +12,14 @@ ms.assetid: 1b858223-22ec-4c9d-9cda-5f4418060c5e
 ms.custom:
 - "27"
 - "11"
-ms.openlocfilehash: 91bb74e9bcc53217e698afd523f0affd71157ebf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e315638fdf51d12044e6d47b9bbad72e2a4ff343d7da549da63496f6c8b065f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701510"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991635"
 ---
-# <a name="remove-your-godaddy-domain-from-microsoft-365"></a>Remova o seu domínio GoDaddy da Microsoft 365
+# <a name="remove-your-godaddy-domain-from-microsoft-365"></a>Remover o seu domínio da GoDaddy do Microsoft 365
 
-Não podemos remover o seu domínio GoDaddy da Microsoft 365 para si. Ligue para o serviço de [apoio ao cliente goDaddy](https://aka.ms/contact-godaddy) para obter ajuda.
+Não é possível remover o seu domínio da GoDaddy da Microsoft 365 por si. Para mais ajuda, ligue para o atendimento ao cliente da [GoDaddy.](https://aka.ms/contact-godaddy)
   

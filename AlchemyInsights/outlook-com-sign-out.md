@@ -1,5 +1,5 @@
 ---
-title: Assine fora da Outlook.com
+title: Sign out of Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,22 +14,22 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 2f13415cd8d9bdb0f4ede297655dae75ca4501f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67fb641ec34934116ed716ce824119476e64fe9e1c4d96e78a4d022f799763e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802284"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983392"
 ---
-# <a name="how-to-sign-out-of-outlookcom"></a>Como assinar fora de Outlook.com
+# <a name="how-to-sign-out-of-outlookcom"></a>Como sair do Outlook.com
 
 1. Selecione o seu nome ou imagem no canto superior direito.
 
-    Se não vir a sua imagem no topo do ecrã, verifique se o bloqueio de anúncios está ligado. Por vezes, estes bloqueadores impedem que a imagem seja apresentada.
+    Se não vir a sua imagem na parte superior do ecrã, verifique se o bloqueio de anúncios está ação. Por vezes, estes bloqueadores impedem que a imagem seja apresentada.
 
-2. **Selecione Iniciar s-se**.
+2. Selecione **Terminar sessão**.
 
-    Para parar de iniciar sessão automaticamente, desmarque a caixa para **manter-me inscrito na** página onde introduz a sua senha.
+    Para parar de inscrever-se  automaticamente, desloque a caixa Manter a minha assinatura na página onde introduzir a sua palavra-passe.
 
-Para saber mais, veja [como entrar ou sair de Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Para saber mais, consulte [Como entrar ou sair do Outlook.com.](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)
   

@@ -1,5 +1,5 @@
 ---
-title: Não vejo respostas automáticas.
+title: Não vejo as Respostas Automáticas
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: 239c4db4d3a0b4010d14c2fac63018e8ad817c93
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5f0e1b52e5a31d7bfd64ef40f9d8806358a6cad218b6a474b0d0e38aa051ac72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748784"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949470"
 ---
-# <a name="i-dont-see-automatic-replies"></a>Não vejo respostas automáticas.
+# <a name="i-dont-see-automatic-replies"></a>Não vejo as Respostas Automáticas
 
-Se não vir Respostas Automáticas após a seleção **de Ficheiros,** provavelmente está a utilizar uma conta Gmail, Yahoo ou outra conta POP ou IMAP que não suporta a funcionalidade respostas automáticas do Outlook. Pode configurar uma regra que responderá às mensagens recebidas, mas apenas se deixar o Outlook em execução.
+Se não vir a opção Respostas Automáticas após selecionar **Ficheiro,** provavelmente está a utilizar uma conta do Gmail, Yahoo ou outra conta POP ou IMAP que não suporta a funcionalidade Respostas Automáticas do Outlook. Pode configurar uma regra que irá responder às mensagens recebidas, mas apenas se deixar Outlook em execução.

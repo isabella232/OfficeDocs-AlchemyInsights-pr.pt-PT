@@ -1,5 +1,5 @@
 ---
-title: Criação do Projeto
+title: Configurar o Project
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.custom:
 - "33"
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
-description: Não alvo mais de 500 palavras para um artigo.
-ms.openlocfilehash: 4d3ca7c415227b8f299e4ae280c7e35c24a5e7db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+description: Não aumente o número de 500 palavras num artigo.
+ms.openlocfilehash: 1dc306a480cdc920b9f756090f972a844b434a3ba475e40a1fbb08c89f625c51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798783"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958020"
 ---
-# <a name="setting-up-project"></a>Criação do Projeto
+# <a name="setting-up-project"></a>Configurar o Project
 
- Para configurar o Microsoft Project, siga os passos [deste artigo](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx).
+ Para configurar Microsoft Project, siga os passos [neste artigo.](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)
 
-**Aviso para os utilizadores de Mac:** O produto Project não está disponível para o MacOS neste momento. 
+**Aviso para utilizadores de Mac:** Neste Project produto não está disponível para MacOS. 
   
-Se estiver a escassear erros durante a configuração, [instale o Projeto utilizando o Assistente de Suporte e Recuperação](https://aka.ms/SaRA-ProjectSetupScenario).
+Caso se detete com erros durante a configuração, [instale o Project utilizando a Assistente de Recuperação e Suporte](https://aka.ms/SaRA-ProjectSetupScenario).

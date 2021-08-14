@@ -1,5 +1,5 @@
 ---
-title: Identifique a identificação do seu inquilino
+title: Identificar o seu ID de inquilino
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002889"
 - "5517"
-ms.openlocfilehash: b64e3ea72265e99f843ef47b37a29c85738009aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3e78afcc696403b64fa875c768cc5a64af4284a424b778e79e0921e190a01e22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834058"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945276"
 ---
-# <a name="identify-your-tenant-id"></a>Identifique a identificação do seu inquilino
+# <a name="identify-your-tenant-id"></a>Identificar o seu ID de inquilino
 
-Encontre o seu ID de organização Microsoft 365 (ID do inquilino) no centro Azure Admin.
+Encontre o Microsoft 365 ID da organização (ID do inquilino) no Centro de Administração do Azure.
 
-1. A partir da [página Propriedades,](https://aka.ms/AzurePropertiesPage)aceda à caixa de identificação do **Diretório.**
+1. Na página [Propriedades,](https://aka.ms/AzurePropertiesPage)vá para a **caixa ID do Diretório.**
 
-2. Copie a identificação conforme necessário.
+2. Copie o ID conforme necessário.
 
-Para mais informações, consulte [encontre o seu ID de organização Microsoft 365.](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id)
+Para mais informações, consulte Encontrar [o seu ID Microsoft 365 organização.](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id)

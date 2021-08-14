@@ -1,5 +1,5 @@
 ---
-title: Criptografe automaticamente certas mensagens de correio e-mail do escritório 365
+title: Encriptar automaticamente determinadas mensagens de e-mail do Office 365
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5ddaaed361f6ec934cfffb00cc62a9df2d1a04e8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 74f9733196004fd7a78eeb290c948a9f35ac2a31b3c5b00bf82e44081aac8637
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749460"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988846"
 ---
-# <a name="automatically-encrypt-certain-email-messages-from-office-365"></a>Criptografe automaticamente certas mensagens de correio e-mail do escritório 365
+# <a name="automatically-encrypt-certain-email-messages-from-office-365"></a>Encriptar automaticamente determinadas mensagens de e-mail do Office 365
 
-1. A partir do [centro de administração Exchange,](https://outlook.office365.com/ecp/)escolha **o fluxo de correio > regras**. 
-2. Clique no ícone **Novo (+)** e, em seguida, clique **em Aplicar A encriptação de mensagens 365 e proteção de direitos para mensagens**.
-3. Em **Nome**, introduza um nome para a regra, como *encriptar todas as mensagens*.
-4. Em **Aplicar esta regra se,** escolher **[Aplicar a todas as mensagens]**. 
-5. Ao lado do campo **Fazer o seguinte,** clique **em Selecionar um**. 
-6. No menu drop-down **do modelo RMS,** selecione **Encrypt** e, em seguida, clique **em OK**. (Se não vir esta opção, significa que o seu plano não inclui encriptação automática. Mas pode adicioná-lo!)
-7. Verifique a Auditoria esta regra com caixa **de verificação de nível de severidade** e, em seguida, selecione o nível pretendido. Se a sua empresa tiver obrigações contratuais para enviar todos os e-mails encriptados, recomendo definir o nível para **High**.
-8. Em **Escolha um modelo para esta regra,** clique em **Enforce**. 
-9. Escolha qualquer seleção opcional (a partir de uma lista de seleções opcionais que pode fazer neste momento, muitas das quais podem ficar com a definição padrão para a simplicidade).
+1. No centro [de Exchange , selecionar](https://outlook.office365.com/ecp/)regras de fluxo de **> correio**. 
+2. Clique no **ícone Novo (+)** e, em seguida, clique em **Aplicar Encriptação de Mensagens do Office 365 proteção de direitos e direitos a mensagens**.
+3. Em **Nome**, introduza um nome para a regra, como *Encriptar todas as mensagens.*
+4. Em **Aplicar esta regra se**, **selecionar [Aplicar a todas as mensagens]**. 
+5. Junto ao campo **Faça o seguinte,** clique em **Selecionar um**. 
+6. No menu **superior do modelo RMS,** selecione Encriptar **e,** em seguida, clique **em OK.** (Se não vir esta opção, significa que o seu plano não inclui encriptação automática. Mas pode adicioná-lo!)
+7. Selecione a **caixa de verificação Auditar esta regra com nível de** gravidade e, em seguida, selecione o nível pretendido. Se a sua empresa tiver obrigações contratuais para enviar todos os e-mails encriptados, recomendamos que desmarca o nível para **Alto.**
+8. Em **Escolher um modelo para esta regra**, clique em **Impor**. 
+9. Escolha qualquer seleção opcional (a partir de uma lista de seleções opcionais que pode fazer nesta fase, muitas das quais podem ser deixadas com a predefinição para simplificação).
 10. Clique em **Guardar**.
 
 > [!IMPORTANT]
 > Pode sempre voltar e editar esta regra mais tarde.
 
-Para obter mais informações sobre a criação de regras para encriptação, consulte [Regras de fluxo de correio para encriptar mensagens de correio eletrónico no Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
+Para obter mais informações sobre como criar regras para encriptação, consulte Definir regras de fluxo de correio para encriptar mensagens de [e-mail Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
 

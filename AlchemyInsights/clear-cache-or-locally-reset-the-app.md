@@ -1,5 +1,5 @@
 ---
-title: Limpe a cache ou reponha localmente a aplicação
+title: Limpar a cache ou repor localmente a aplicação
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001099"
 - "3060"
-ms.openlocfilehash: 922f43e90b0479762ccfc20d4130a6a8883f8c41
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 61280bc444f696e05813c79aa92f47145c2580381e77d0b26fe6fdca527647a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817759"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930586"
 ---
-# <a name="clear-the-cache-or-locally-reset-the-app"></a>Limpe a cache ou reponha localmente a aplicação
+# <a name="clear-the-cache-or-locally-reset-the-app"></a>Limpar a cache ou repor localmente a aplicação
 
-Se estiver a ver dados incompletos ou incorretos, por favor feche e reabra a aplicação.  Se isso não resolver o problema, repõe a conta no dispositivo: 
+Se estiver a ver dados incompletos ou incorretos, feche e volte a abrir a aplicação.  Se isso não resolver o problema, repor a conta no dispositivo: 
 
-**Abra as nossas definições de > de aplicações > Selecione a conta de e-mail > Conta Reset**
+**Abrir a nossa aplicação > Definições > Selecione a conta de e-> Repor Conta**

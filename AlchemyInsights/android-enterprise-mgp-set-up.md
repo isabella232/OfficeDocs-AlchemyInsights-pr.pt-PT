@@ -1,5 +1,5 @@
 ---
-title: 'Erro de inscrição no Android Enterprise: deteção de configuração de MGP'
+title: 'Erro de inscrição no Android Enterprise: deteção de configuração MGP'
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "8340"
-ms.openlocfilehash: 6ac90611bbe626e7f11b817965fd2d3c7fbf98c1
-ms.sourcegitcommit: c202c0df2d141e63f4f7eb13a56efbfc2f57348f
+ms.openlocfilehash: 9493d4cede39b4fb5aa41638c0f709b9025b2468ade322be6991bdad17e97d5d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50508564"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932864"
 ---
-# <a name="android-enterprise-enrollment-error-mgp-set-up-detection"></a>Erro de inscrição no Android Enterprise: deteção de configuração de MGP
+# <a name="android-enterprise-enrollment-error-mgp-set-up-detection"></a>Erro de inscrição no Android Enterprise: deteção de configuração MGP
 
-Detetámos que o Google Play gerido não está configurado ou desligado para a sua conta. Isto pode causar falhas na inscrição de dispositivos em cenários Android Enterprise onde é necessária uma ligação gerida do Google Play.
+Detetamos que o Google Play Gerido não está configurado ou desligado para a sua conta. Isto pode causar a falha na inscrição de dispositivos em cenários do Android Enterprise onde é necessária uma ligação de Google Play Gerida.
 
-Pode verificar o estado gerido da Ligação do Google Play na consola MEM sob **a Administração de Inquilinos > Estado do Inquilino > estado do Conector** e rever a seguinte documentação para saber como ligar a sua conta Intune à sua conta Do Google Gerida: **[Ligue a sua conta Intune à sua conta gerida no Google Play.](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)**
+Pode verificar o estado da Ligação de Reprodução Da Google Gerida na consola MEM em Administração de Inquilinos estado do inquilino > Estado do inquilino **> Connector** e rever a seguinte documentação para saber como ligar a sua conta do Intune à sua conta Do Google Gerida: Ligação a sua conta do **[Intune](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)** à sua conta gerida do Google Play.

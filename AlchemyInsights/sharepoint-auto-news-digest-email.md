@@ -1,5 +1,5 @@
 ---
-title: SharePoint Auto Digest Email
+title: E-mail de Digerção Automática do SharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: f6d682947f1184c4576fca9d972da8c4cd48ae2d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6f724b73c292ca85d694eee715d435556d9cdfc9af3c9b99ddea1e094f3d16a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831205"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942180"
 ---
-# <a name="sharepoint-auto-digest-email"></a>SharePoint Auto Digest Email
+# <a name="sharepoint-auto-digest-email"></a>E-mail de Digerção Automática do SharePoint
 
-O SharePoint Auto-News Digest envia e-mails automatizados aos utilizadores da sua empresa sobre as últimas publicações de notícias que ainda não leram que são relevantes para eles.
+O Auto-News Digest do SharePoint envia um e-mail automatizado aos utilizadores na sua empresa sobre as notícias mais recentes que ainda não leram que são relevantes para as mesmas.
 
-Para mais informações visite [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
+Para obter mais informações, visite [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
-- ID do Roteiro microsoft  [365: 64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- Timing: Clientes de lançamento direcionados em  **meados de julho (anteriormente junho**  e completos para todos os clientes até  **meados de agosto (anteriormente início de agosto)**.
-- Roll-out: Roll-out do nível do utilizador
-- Tipo de controlo: Controlo do utilizador, controlo de administração **via PowerShell (em breve)
+- Microsoft 365 ID de Viagem: [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
+- Temporização: Clientes de lançamento directado em meados de julho **(anteriormente** junho e concluídos para todos os clientes até **meados de agosto (anteriormente no início de agosto).**
+- Roll-out: Roll-out ao nível do utilizador
+- Tipo de Controlo: Controlo de utilizador, **Controlo de administrador através do PowerShell (brevemente)

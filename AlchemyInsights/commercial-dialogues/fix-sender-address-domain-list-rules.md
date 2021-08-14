@@ -1,5 +1,5 @@
 ---
-title: Corrigir regras de lista de endereços/domínios de remetente
+title: Corrigir regras de Lista de Domínios/Endereço do Remetente
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a57016ce0b5e8ed741889a50e3858c68578c6713
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930036"
 ---
-# <a name="fix-sender-addressdomain-list-rules"></a>Corrigir regras de lista de endereços/domínios de remetente
+# <a name="fix-sender-addressdomain-list-rules"></a>Corrigir regras de Lista de Domínios/Endereço do Remetente
 
-Uma política anti-correio publicitário não-correio eletrónico no seu inquilino afetou esta mensagem. O remetente da mensagem foi encontrado numa lista de Permitir ou Bloquear. Para rever a política, faça o seguinte:
+Esta mensagem foi afetada por uma política antisspam no seu inquilino. O remetente da mensagem foi encontrado numa lista por Permitir ou Bloquear. Para rever a política, faça o seguinte:
 
-1. Vá ao [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143), e depois vá para a Política de **Gestão** de Ameaças  >    >  [Antisspam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. No **separador Standard,** se as **definições standard** estiverem ativadas, verifique as **listas De Permitir** e **Bloquear**.
-3. No separador **'Personalizado',** se as **definições personalizadas** estiverem ativadas, reveja as políticas selecionando a **política de Edição** e verificando as **listas de Permitir** e **bloquear**.
+1. Vá para o Centro [Office 365 de Conformidade &](https://go.microsoft.com/fwlink/p/?linkid=2077143)de Conformidade e, em seguida, vá para Política de Gestão de ameaças  >    >  [Antisspam](https://go.microsoft.com/fwlink/?linkid=2101518).
+2. No **separador Padrão,** se as **Definições padrão estiverem** ativadas, verifique as **listas De permitir e** **Bloquear listas.**
+3. No **separador Personalizar,** se as Definições **personalizadas** estiverem ativadas, reveja as políticas ao selecionar **Editar** política e verificar as **listas** Permitir **listas e Bloquear.**
 
-Para obter mais informações sobre as políticas de filtragem de spam, consulte [configurar as suas políticas de filtro de spam](https://go.microsoft.com/fwlink/?linkid=2101431).
+Para obter mais informações sobre como configurar políticas de filtro de spam, consulte [Configurar as suas políticas de filtro de spam.](https://go.microsoft.com/fwlink/?linkid=2101431)

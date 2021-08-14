@@ -1,5 +1,5 @@
 ---
-title: Inscrição em Empresas Android - Visão geral
+title: Inscrição Enterprise no Android - Visão Geral
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2496"
-ms.openlocfilehash: 23ce3850639f29324118f3d1e98d17e8b3d88c65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9561496aa8c28fe729b048561241ec39612fb42a66626eb5c83c73fdbe61d904
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932900"
 ---
-# <a name="android-enterprise-enrollment---overview"></a>Inscrição em Empresas Android - Visão geral
+# <a name="android-enterprise-enrollment---overview"></a>Inscrição Enterprise no Android - Visão Geral
 
-Para utilizar a inscrição no Android Enterprise na sua organização tem primeiro de [ligar a sua conta Intune à sua conta Gerida no Google Play.](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise) 
+Para utilizar a inscrição do Android Enterprise na sua organização, primeiro tem de Ligação a sua conta [do Intune à sua conta gerida do Google Play.](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise) 
 
-Depois de se ligar com sucesso, pode escolher os passos adequados para o tipo de inscrição Android que pretende que os seus utilizadores sigam:
+Após estabelecer a ligação com êxito, pode selecionar os passos adequados para o tipo de inscrição no Android que pretende que os seus utilizadores sigam:
 
-- [Configurar a inscrição de dispositivos de perfil de trabalho android Enterprise](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
-- [Configurar a inscrição intune de dispositivos dedicados Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
-- [Configurar a inscrição intune de dispositivos android enterprise totalmente geridos](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
+- [Configurar a inscrição de dispositivos de perfil de trabalho do Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
+- [Configurar a inscrição do Intune em dispositivos Dedicados do Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
+- [Configurar a inscrição do Intune dos dispositivos Android Enterprise totalmente geridos](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
 
-Para um fluxo de trabalho de configuração e inscrição de dispositivos Android Enterprise juntamente com uma revisão de FAQ, consulte [Configurar e resolver problemas dispositivos android enterprise devices no Microsoft Intune](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune).
+Para um fluxo de trabalho de configuração e inscrição de dispositivos Android Enterprise juntamente com uma revisão das FAQ, consulte Configurar e resolver problemas de [dispositivos Empresariais Android no Microsoft Intune](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune).
 
-Para obter informações sobre a inscrição de dispositivos de resolução de problemas em geral e alguns erros de inscrição do Android, consulte [a inscrição do dispositivo Troubleshoot no Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+Para obter mais informações sobre a remoção de problemas da inscrição de dispositivos em geral e alguns erros de inscrição no Android, consulte Remova problemas de inscrição de dispositivos [Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
 
-Se estiver interessado no código QR de inscrição para dispositivos COSU, consulte [este blog](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184).
+Se estiver interessado na inscrição de código QR para dispositivos COSU, consulte [este blogue.](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184)
 
-Também pode utilizar o [conteúdo que descreve a lâmina de resolução de problemas Intune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) para ajudar a identificar os problemas de inscrição que os seus utilizadores estão a passar.
+Também pode utilizar os conteúdos que descrevem a remoção de Problemas do [Intune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) para ajudar a identificar os problemas de inscrição que os seus utilizadores estão a ter.

@@ -1,5 +1,5 @@
 ---
-title: Regra DLP para número de cartão de crédito que não funciona
+title: Regra DLP para o Número de Cartão de Crédito que não funciona
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,12 +13,12 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: d5dd6354e7a1bcbb7f2fb917952ddbee5077e88d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd4f200233d5571fc7b01576038e7b3951a07716a7d5948005418d2896291ee5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679452"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005101"
 ---
 # <a name="dlp-issues-with-credit-card-numbers"></a>Problemas de DLP com números de cartão de crédito
 
@@ -26,35 +26,35 @@ ms.locfileid: "47679452"
 
 **Problemas de DLP com números de cartão de crédito**
 
-Está a ter problemas com **a Prevenção de Perdas de Dados (DLP)** que não está a funcionar para conteúdos que contenham um **Número de Cartão de Crédito** quando utilizar um tipo de informação sensível DLP em O365? Em caso afirmativo, certifique-se de que o seu conteúdo contém as informações necessárias para desencadear a política DLP quando esta for avaliada. Por exemplo, para uma **política de cartão** de crédito configurada com um nível de confiança de 85%, são avaliadas as seguintes e devem ser detetadas para que a regra desencadeie:
+Está **a** ter problemas com a Prevenção de Perda de Dados **(DLP)** que não funciona em conteúdos que contenham um Número de Cartão de Crédito ao utilizar um tipo de informação confidencial DLP no O365? Se for o caso, certifique-se de que o seu conteúdo contém as informações necessárias para ativar a política DLP quando for avaliada. Por exemplo, para uma política de Cartão de Crédito configurada com um nível de confiança de 85%, são avaliados o seguinte e tem de ser detetado para que **a** regra acione:
   
-- **[Formato:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 dígitos que podem ser formatados ou não equipados (ddddddddddddddddddddd) e devem passar no teste luhn.
+- **[Formato:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 dígitos que podem ser formatados ou não formatados (ddddddddd) e que têm de passar no teste de Luhn.
 
-- **[Padrão:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Um padrão muito complexo e robusto que deteta cartões de todas as grandes marcas em todo o mundo, incluindo Visa, MasterCard, Discover Card, JCB, American Express, cartões oferta e cartões de jantar.
+- **[Padrão:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Padrão muito complexo e robusto que deteta cartões de todas as principais marcas em todo o mundo, incluindo o Visa, MasterCard, Discover Card, JCB, American Express, cartões de oferta e cartões de diner.
 
-- **[Checkum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Sim, o cheque luhn
+- **[Somar Verificação:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Sim, a somar de verificação Luhn
 
-- **[Definição:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** Uma política de DLP está 85% confiante de que é detetado este tipo de informação sensível se, dentro de uma proximidade de 300 caracteres:
+- **[Definição:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** Uma política DLP tem 85% de confiança de que detetou este tipo de informações confidenciais se, dentro de uma proximidade de 300 carateres:
 
-  - A função Func_credit_card encontra conteúdo que corresponda ao padrão.
+  - A Func_credit_card encontra conteúdo que corresponde ao padrão.
 
-  - Um dos seguintes é verdade:
+  - Uma das seguintes coisas é verdadeira:
 
-  - Uma palavra-chave de Keyword_cc_verification é encontrada.
+  - Foi encontrada uma palavra-chave Keyword_cc_verification a partir do mesmo.
 
-  - Uma palavra-chave de Keyword_cc_name é encontrada
+  - Foi encontrada uma palavra-Keyword_cc_name-chave
 
-  - A função Func_expiration_date encontra uma data no formato de data certa.
+  - A Func_expiration_date encontra uma data no formato de data certo.
 
-  - A parte de verificação passa
+  - A somar de verificação é ultrapassada
 
-    Por exemplo, a seguinte amostra desencadearia uma Política de Números de Cartão de Crédito DLP:
+    Por exemplo, a seguinte amostra aciona uma Política de Número de Cartão de Crédito DLP:
 
-  - Visto: 4485 3647 3952 7352
+  - Visa: 4485 3647 3952 7352
   
   - Expira: 2/2009
 
-Para obter mais informações sobre o que é necessário para que um **Número de Cartão** de Crédito seja detetado para o seu conteúdo, consulte a seguinte secção neste artigo: [O que os Tipos de Informação Sensível procuram por Cartão de Crédito#](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
+Para obter mais informações sobre o que é necessário para **que** um Número de Cartão de Crédito seja detetado para o seu conteúdo, consulte a seguinte secção neste artigo: O que os Tipos de Informações Confidenciais procuram Cartão de [Crédito#](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
   
-Utilizando um tipo de informação sensível incorporado diferente, consulte o seguinte artigo para obter informações sobre o que é necessário para outros tipos: [O que os Tipos de Informação Sensível procuram](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Utilizando um tipo de informações confidenciais incorporado diferente, consulte o seguinte artigo para obter informações sobre o que é necessário para outros tipos: O que procuram os Tipos de Informação [Confidenciais](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

@@ -1,5 +1,5 @@
 ---
-title: Limpe os dados corporativos de aplicações geridas pela Intune
+title: Eliminar dados empresariais de aplicações geridas pelo Intune
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_o365
 ms.custom:
 - "6700006"
 - "7243"
-ms.openlocfilehash: ca62ad165bbb629323727928916720c6a2eab291
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 59c1309f60e03eda587c7a1f7bb5849f69b12a13d4365bcd6ca4e862d0e53e2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088742"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997757"
 ---
-# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Limpe os dados corporativos de aplicações geridas pela Intune
+# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Eliminar dados empresariais de aplicações geridas pelo Intune
 
-A Intune apoia a remoção de dados corporativos da Política de Proteção de Aplicações (APP) geridas. 
+O Intune suporta a remoção de dados empresariais das aplicações geridas da Política de Proteção de Aplicações (APP). 
 
-Para saber mais sobre a limpeza, eliminação ou remoção de dados corporativos destas aplicações, consulte [Como eliminar apenas dados corporativos de aplicações geridas pelo Intune.](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
+Para saber mais sobre como limpar, eliminar ou remover dados empresariais destas aplicações, consulte Como limpar apenas dados empresariais de aplicações geridas pelo [Intune.](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)

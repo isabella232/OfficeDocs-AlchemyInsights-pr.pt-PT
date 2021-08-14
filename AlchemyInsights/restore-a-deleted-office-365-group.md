@@ -1,5 +1,5 @@
 ---
-title: Restaurar um grupo Microsoft 365 eliminado
+title: Restaurar um grupo de Microsoft 365 eliminado
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,27 +14,27 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: b72b7c93ce9fe1b90d1608811b0eeabc8aec1363
-ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
+ms.openlocfilehash: 6262ca04335c355fb4de41a9e1d854b666f47e10321a843717d6eb951c46cafd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "51645142"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959037"
 ---
-# <a name="restore-a-deleted-microsoft-365-group"></a>Restaurar um grupo Microsoft 365 eliminado
+# <a name="restore-a-deleted-microsoft-365-group"></a>Restaurar um grupo de Microsoft 365 eliminado
 
-Pode restaurar um grupo Microsoft 365 ou Microsoft Teams eliminados no prazo de 30 dias a partir da eliminação.
+Pode restaurar um grupo de Microsoft 365 eliminado ou Microsoft Teams dentro de 30 dias a partir da eliminação.
 
-1. Vá ao [centro de administração microsoft 365](https://aka.ms/RestoreDeletedGroup) para iniciar sessão numa lista de vocês são os grupos e equipas eliminados.
+1. Aceda à [centro de administração do Microsoft 365](https://aka.ms/RestoreDeletedGroup) para iniciar sessão numa lista de equipas e grupos eliminados.
 
-    **Nota:** Faça login usando a conta que é atribuída ao administrador do inquilino ou à função de administrador de grupos.
+    **Nota:** Indique sessão com a conta atribuída ao administrador inquilino ou à função de administrador de grupos.
 
-1. Selecione o grupo/equipas do Microsoft 365 eliminados para ser restaurado e clique em **restaurar o grupo**.
+1. Selecione o grupo Microsoft 365/Teams pretende ser restaurado e clique em **Restaurar grupo**.
 
-    Se o grupo não puder ser restaurado por causa de um endereço SMTP conflituoso, use o seguinte comando para encontrar o objeto que está a causar conflito e remover o endereço SMTP:
+    Se não for possível restaurar o grupo devido a um endereço SMTP em conflito, utilize o seguinte comando para encontrar o objeto que está a causar o conflito e remova o endereço SMTP:
 
     `Get-Recipient -Filter "EmailAddresses -eq '<conflictingsmtpaddress>'"`
 
-    **Nota:** Em alguns casos, pode levar até 24 horas para o grupo e todos os seus dados serem restaurados.
+    **Nota:** Em alguns casos, pode demorar até 24 horas para que o grupo e todos os seus dados sejam restaurados.
 
-    Para obter mais informações ou para aprender a restaurar grupos usando o PowerShell, consulte [Restaurar um grupo Microsoft 365 eliminado](https://go.microsoft.com/fwlink/?linkid=867802).
+    Para mais informações ou para saber como restaurar grupos com o PowerShell, consulte Restaurar um [grupo de Microsoft 365 eliminado.](https://go.microsoft.com/fwlink/?linkid=867802)

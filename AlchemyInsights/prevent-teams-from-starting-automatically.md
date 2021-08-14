@@ -1,5 +1,5 @@
 ---
-title: Impedir que as equipas comecem automaticamente
+title: Impedir Teams iniciação automática
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6662"
 - "9003571"
-ms.openlocfilehash: cc5951a271173d1f6849df0d9d2b67df8b776bdc
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 0e35a182fb8ffbb48e5c3bff72881c2cd14d778f83c759efc99c372900de6991
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365207"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923809"
 ---
-# <a name="prevent-teams-from-starting-automatically"></a>Impedir que as equipas comecem automaticamente
+# <a name="prevent-teams-from-starting-automatically"></a>Impedir Teams iniciação automática
 
-Por predefinição, as equipas abrem-se automaticamente quando inicia o seu dispositivo.
+Por predefinição, o Teams abre automaticamente quando inicia o seu dispositivo.
 
-Para alterar esta definição, selecione a imagem do perfil das equipas e, em seguida, selecione **Definições**  >   **Geral**. No âmbito  **da Aplicação**, desapromia  **a aplicação de arranque automático**.
+Para alterar esta definição, selecione a sua Teams de perfil e, em seguida, **selecione Definições**  >   **Geral.** Em  **Aplicação**, des marque  **a aplicação Início automático**.
 
-Para obter mais informações, consulte [as definições de Alteração em Equipas.](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7)
+Para obter mais informações, [consulte Alterar definições no Teams](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7).

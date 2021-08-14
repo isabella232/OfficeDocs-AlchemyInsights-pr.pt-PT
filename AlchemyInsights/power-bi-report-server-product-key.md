@@ -1,5 +1,5 @@
 ---
-title: Chave de produto do servidor do relatório de energia BI
+title: Power BI Report Server Chave de Produto
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: 5dbb7121638f56587e3e8fb065fce74da4005c94
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bdc5b186e8de2c2b7c4f84ebd852520ac28274eb3f1baf0dba568cdb6d10e579
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973276"
 ---
-# <a name="power-bi-report-server-product-key"></a>Chave de produto do Servidor de Relatório de Bi de Potência
+# <a name="power-bi-report-server-product-key"></a>Power BI Report Server chave de produto
 
-Se adquiriu Power BI Premium, dentro do separador **definições Premium** do portal de administração Power BI tem acesso à tecla de produto Power BI Report Server. Isto só está disponível para a Global Admins ou utilizadores que atribuíram a função de administrador de serviço power BI.
+Se tiver comprado o Power BI Premium, no separador **definições Premium** do portal de administração do Power BI admin, tem acesso à sua Power BI Report Server de produto. Isto só está disponível para Administradores Globais ou utilizadores com a função Power BI de serviço.
 
-Selecionar a **tecla Power BI Report Server** exibe uma caixa de diálogo contendo a sua chave de produto. Pode copiá-lo e usá-lo com a instalação.
+A **seleção Power BI Report Server Tecla de Atalho** apresenta uma caixa de diálogo com a sua chave de produto. Pode copiá-lo e usá-lo com a instalação.
 
-Se tiver um acordo SQL Server Enterprise SA, pode obter a chave do produto no Centro de [Serviço de Licenciamento de Volume.](https://www.microsoft.com/Licensing/servicecenter/)
+Se tiver um contrato do SQL Server Enterprise SA, pode obter a sua chave de produto a partir do Centro de Serviços de [Licenciamento em Volume.](https://www.microsoft.com/Licensing/servicecenter/)
 
-Para mais informações: https://docs.microsoft.com/power-bi/report-server/install-report-server
+Para obter mais informações: https://docs.microsoft.com/power-bi/report-server/install-report-server

@@ -1,5 +1,5 @@
 ---
-title: O proprietário não pode criar sub-pasta usando o Outlook
+title: O proprietário não pode criar subpa pasta utilizando Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 60190727e75c120ad3915da8b563b7f6b1a3238b46bb6e14cbf956365e1a84e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836146"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063135"
 ---
-# <a name="owner-cannot-create-sub-folder-using-outlook"></a>O proprietário não pode criar sub-pasta usando o Outlook
+# <a name="owner-cannot-create-sub-folder-using-outlook"></a>O proprietário não pode criar subpa pasta utilizando Outlook
 
-**Há um problema contínuo com os proprietários de pastas públicas que criam sub-dobradores usando o Outlook. A questão será resolvida em breve.**
+**Existe um problema contínuo em que os proprietários de pastas públicas criam subpatas com o Outlook. O problema será corrigido em breve.**
 
-Entretanto, utilize uma das seguintes soluções alternativas:
+Entretanto, utilize uma das seguintes sões:
 
-1. Use outlook para MAC para criar a sub-dobradeira, uma vez que o problema impacta apenas o Outlook para janelas de ambiente de trabalho (todas as versões)
-2. Ter a administração criar a subpasta usando EXO Shell ou EAC
-3. Altere a Caixa postal/Correio de Correio por defeitoPublicFoldermailbox no utilizador para outra caixa de correio que a caixa de correio de conteúdo para a pasta que causa problema  
+1. Utilize Outlook para MAC para criar a subpase como o problema afeta apenas Outlook para janelas de ambiente de trabalho (todas as versões)
+2. Fazer com que o administrador crie a subpasso através da Shell EXO ou do EAC
+3. Alterar a caixa defaultPublicFolderMailbox/EffectivePublicFolderMailbox do utilizador para outra caixa de correio que não a Caixa de Correio de Conteúdo da pasta que está a causar o problema  
     - *Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*
-4. Espere por uma hora, reinicie o cliente outlook
+4. Aguarde por uma hora, reinicie o cliente do outlook

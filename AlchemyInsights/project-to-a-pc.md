@@ -1,5 +1,5 @@
 ---
-title: Projeto para um PC
+title: Project a um PC
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001520"
 - "5610"
-ms.openlocfilehash: 27775e3521cdad926f26e8d34738e8c7129fb8d9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 39ed7aac83b5b2e37a94901b80c80e892044dd6a076e55a0fb327d2dce7bd16e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943941"
 ---
-# <a name="project-to-a-pc"></a>Projeto para um PC
+# <a name="project-to-a-pc"></a>Project a um PC
 
-No seu dispositivo de destino (projetando para), procure "Definições de projeção" para abrir a página de Definições de **Projecting para este PC**. Então certifique-se de que:
-- "Alguns dispositivos Windows e Android podem projetar para este PC quando você diz que está OK" menu suspenso está definido para **Always Off**.
-- "Pedir para projetar este menu drop-down" é definido para **cada vez que é necessária uma ligação**.
-- "Require PIN for pairing" menu suspenso está definido para **Nunca**.
+No seu dispositivo de destino (a projetar para), procure por "Projetos Definições" para abrir a página de Definições de Projetar **para este PC**. Em seguida, certifique-se de que:
+- O menu Windows dispositivos Android e "Alguns dispositivos Android podem projetar para este PC quando diz que não há problema", está definido como **Sempre Desligado.**
+- O menu superior "Pedir para projetar para este PC" está definido para Sempre que **é necessária uma ligação**.
+- O menu de listagem "Exigir PIN para emparelhar" está definido para **Nunca.**
 
-No seu dispositivo de destino, lance **a aplicação Connect** indo para **Iniciar** e procure por "Connect".
+No seu dispositivo de destino, **inic Ligação** aplicação ao ir **para** Iniciar e procure por "Ligação".
 
-Em seguida, no seu dispositivo de origem que está a tentar projetar a partir de:
+Em seguida, no seu dispositivo de origem a partir do onde está a tentar projetar:
 
-1. Prima **a tecla do Windows + A** para abrir o Action Center.
-2. Clique **em Ligar**.
-3. Clique no dispositivo para o que pretende projetar o ecrã.
+1. Prima **a Windows +A para abrir** o Centro de Ação.
+2. Clique **Ligação**.
+3. Clique no dispositivo em que pretende projetar o ecrã.
 
-![Projeto para um PC](media/project-to-a-pc.png)
+![Project a um PC](media/project-to-a-pc.png)
 
-Após os passos acima, o seu dispositivo de destino deve exibir o ecrã do dispositivo de origem como se fosse um monitor secundário.
+Após os passos acima, o seu dispositivo de destino deverá apresentar o ecrã do dispositivo de origem como se fosse um monitor secundário.

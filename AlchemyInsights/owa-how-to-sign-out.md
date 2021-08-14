@@ -1,5 +1,5 @@
 ---
-title: Como assinar fora do Outlook na web
+title: Como sair do Outlook na Web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 8a6d925d3df47756fcabeb90ebcac73855d675ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9341cdededd28da9b224d292149cfc648d13939f28e11104cecdec14eef7c5da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802140"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063171"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Como assinar fora do Outlook na web
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Como sair do Outlook na Web
 
-Para assinar o Outlook na web, selecione o seu nome ou imagem no canto superior direito e selecione **Iniciar**.
+Para sair do Outlook na Web, selecione o seu nome ou imagem no canto superior direito e **selecione Sign out (Sair).**
 
-Para parar de iniciar sessão automática na sua conta de trabalho ou escola:
+Para parar de entrar automaticamente na sua conta escolar ou pessoal:
 
-1. Selecione o seu nome ou imagem e **selecione Iniciar s-se**.
-1. Vá a [Outlook.office.com](https://outlook.office.com/) e selecione **Use outra conta**.
-1. Faça sê-lo com o endereço de e-mail que pretende utilizar.
+1. Selecione o seu nome ou imagem e **selecione Sign out (Sair).**
+1. Vá para [Outlook.office.com](https://outlook.office.com/) e **selecione Utilizar outra conta**.
+1. Inscreva-se com o endereço de e-mail que pretende utilizar.
 
-Para saber mais, veja [como iniciar sins in ou out do Outlook na web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+Para saber mais, consulte [Como entrar ou sair da](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)Outlook na Web.

@@ -1,5 +1,5 @@
 ---
-title: Aplicações migratórias
+title: Migrar aplicações
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7839"
-ms.openlocfilehash: 0664ec09a9633165ff0a7d4b33320b14abf7c4e7
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: c45c8c64427fd0122ef8c91f800b830f421fd9d78e7108962d4053700a3da519
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984643"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975328"
 ---
-# <a name="migrating-applications"></a>Aplicações migratórias
+# <a name="migrating-applications"></a>Migrar aplicações
 
-[Recursos para aplicações migratórias para o Azure Ative Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migration-resources) - Recursos para ajudá-lo a migrar o acesso e autenticação de aplicações para o Azure Ative Directory (Azure AD).
+[Recursos para migrar](https://docs.microsoft.com/azure/active-directory/manage-apps/migration-resources) aplicações para o Azure Active Directory - Recursos para o ajudar a migrar o acesso e a autenticação de aplicações para o Azure Active Directory (Azure AD).
 
-[A autenticação de aplicações de Ative Directory Federation Services para Azure Ative Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migrate-adfs-apps-to-azure) - Developer focou orientação para aplicações migratórias dos Serviços da Federação de Diretório Ativo para o Diretório Ativo.
+Mover a [autenticação](https://docs.microsoft.com/azure/active-directory/manage-apps/migrate-adfs-apps-to-azure) de aplicações dos Serviços de Federação do Active Directory para o Azure Active Directory - Orientação focada no programador para migrar aplicações dos Serviços de Federação do Active Directory para Azure Active Directory.

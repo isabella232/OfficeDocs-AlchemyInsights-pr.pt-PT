@@ -1,5 +1,5 @@
 ---
-title: Resolução de problemas Sem Emenda Problemas de inscrição do utilizador (SSO)
+title: Remoção de problemas de acesso único sem problemas de acesso ao utilizador (SSO)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7811"
-ms.openlocfilehash: 6b892cc9803c6b0ead40b8fdda2cf881614f976f
-ms.sourcegitcommit: 0acb849a211b3ae6378ae47c9574a73994981db6
+ms.openlocfilehash: ae31461b300fc262ea10233c628493e33371f18136d00e05755971c08d2ba3d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "50828702"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009439"
 ---
-# <a name="troubleshoot-seamless-single-sign-on-sso-user-sign-in-issues"></a>Resolução de problemas Sem Emenda Problemas de inscrição do utilizador (SSO)
+# <a name="troubleshoot-seamless-single-sign-on-sso-user-sign-in-issues"></a>Remoção de problemas de acesso único sem problemas de acesso ao utilizador (SSO)
 
-Para resolver problemas de inscrição do utilizador sem emenda (SSO), utilize os seguintes recursos recomendados:
+Para resolver problemas de acesso único (SSO) sem complicações, utilize os seguintes recursos recomendados:
 
-- [Pedido de consentimento inesperado ao iniciar sessão de candidatura](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt) 
-- [Erro inesperado ao efetuar o consentimento de uma aplicação](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error) 
-- [Problemas de resolução de problemas inscrevem-se numa aplicação da Azure AD My Apps](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel) 
-- [Uma página de aplicação mostra uma mensagem de erro após o utilizador assinar em](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
-- [Problemas de sessão numa aplicação da Microsoft](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft) 
-- [Problemas de inscrição em aplicações configuradas com base em SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)
+- [Pedido de autorização inesperado ao entrar numa aplicação](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt) 
+- [Erro inesperado ao executar o consentimento de uma aplicação](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error) 
+- [Resolver problemas ao entrar numa aplicação a partir do Azure AD My Apps](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel) 
+- [Uma página de aplicação apresenta uma mensagem de erro depois de o utilizador ter inícios](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
+- [Problemas ao entrar numa aplicação Microsoft](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft) 
+- [Problemas ao entrar em aplicações configuradas com base em SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)
 
-Para fazer pedidos de funcionalidades ou fazer perguntas técnicas sobre o SSO sem emenda, consulte [o Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html).
+Para fazer pedidos de funcionalidades ou fazer perguntas técnicas sobre o SSO Simples, consulte o artigo [Perguntas e Respostas&Microsoft.](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
 

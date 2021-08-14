@@ -1,5 +1,5 @@
 ---
-title: Informações sobre os contactos das Equipas
+title: Informações sobre Teams contactos
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: 49f813e7ae4942c11033260d5abd62827a92da1b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: a2efa52c3fcd90b255d5f1ccbb07c31f9c138e7a31dbe92f318418fb1643601d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037856"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868357"
 ---
-# <a name="information-about-teams-contacts"></a>Informações sobre os contactos das Equipas
+# <a name="information-about-teams-contacts"></a>Informações sobre Teams contactos
 
-Se os contactos não estiverem a sincronizar para um ou vários utilizadores, faça o seguinte:
-- Certifique-se de que a caixa de correio do utilizador está hospedada online (não no local). Para obter mais informações, consulte [Como as Equipas de Intercâmbio e Microsoft interagem.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact)
-- Certifique-se de que o número de telefone do contacto é adicionado aos dados de contacto.
+Teams utiliza estes contactos:
 
-As equipas utilizam estes contactos:
+- Contactos no Active Directory da sua organização
+- Contactos adicionados à pasta predefinida Outlook utilizador
 
-- Contactos no Ative Directory da sua organização
-- Contactos adicionados à pasta padrão do Utilizador Outlook
+Se os contactos não estiverem completos ou não sincronizados para um ou vários utilizadores, faça o seguinte:
 
-Os utilizadores de equipas podem comunicar com qualquer pessoa no Ative Directory da sua organização e podem adicionar qualquer pessoa no Ative Directory da sua organização como contacto e às suas listas de contactos indo ao **Chat > Contactos > Contactos.**
-
-Os utilizadores de equipas também podem adicionar uma pessoa que não está no Ative Directory da sua organização como um contacto indo para **Chamadas > Contactos**.
+- Certifique-se de que a Exchange de correio do utilizador está aloada online (não no local). Para obter mais informações, [consulte Como Exchange e Microsoft Teams interagem.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact)
+- Certifique-se de que o número de telefone do contacto é adicionado às informações de contacto.
+- Procure o e-mail do contacto na Barra **de** pesquisa. Contactos que pode obter sincronização com a Lista de contactos.
 
 

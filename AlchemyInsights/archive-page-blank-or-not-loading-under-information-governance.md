@@ -1,5 +1,5 @@
 ---
-title: Página de arquivo em branco ou não carregamento sob a Governação da Informação
+title: Arquivar página em branco ou não carregar em Governação de Informações
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "8262"
-ms.openlocfilehash: eae42c31b7faf024e16ec5eb132abe30bd228b7a
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: d484d7a0cb5d4556a08639513071a9211875479a223e1da3228c7074fadcf4c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243598"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997361"
 ---
-# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Página de arquivo em branco ou não carregamento sob a Governação da Informação
+# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Arquivar página em branco ou não carregar em Governação de Informações
 
-Se a página **Archive** no Âmbito da Governação da Informação no centro de Segurança e Conformidade estiver em branco ou não estiver carregada, utilize a opção **Archive** no novo Centro de Conformidade M365.
+Se a página Arquivo **em** Governação de Informações no Centro de  Segurança e Conformidade estiver em branco ou não carregar, utilize a opção Arquivo no novo Centro de Conformidade do M365.
 
 1. Ir para [https://compliance.microsoft.com](https://compliance.microsoft.com/)
 1. Selecione Governação da Informação.
-1. Em seguida, clique na opção **Archive.**
+1. Em seguida, **clique na opção** Arquivo.
 
 Ou siga este URL: [https://compliance.microsoft.com/informationgovernance?viewid=archive](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive)

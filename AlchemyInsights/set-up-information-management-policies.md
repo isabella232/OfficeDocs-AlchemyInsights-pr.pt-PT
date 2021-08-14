@@ -1,5 +1,5 @@
 ---
-title: Configurar políticas de gestão da informação
+title: Configurar políticas de gestão de informações
 ms.author: pebaum
 author: bentoncity
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
-ms.openlocfilehash: 862dc76f71828ac727efcfe10656c218754ce25a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0e3de5591c064f7e121c206180b34ee34e985f872a5ee6209889ecad6eaa32c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801015"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921666"
 ---
-# <a name="set-up-information-management-policies"></a>Configurar políticas de gestão da informação
+# <a name="set-up-information-management-policies"></a>Configurar políticas de gestão de informações
 
-1. Se o site SharePoint tiver subsites, navegue para o site de nível superior.
+1. Se o site do SharePoint tiver subsites, navegue até ao site de nível superior.
     
-2. Clique em **Definições**e, em seguida, clique em **Definições de Site**. Se o site for um site ligado ao grupo Microsoft 365, clique em **Definições,** clique em **Conteúdo do Site**e, em seguida, clique em **Definições do Site**.
+2. Clique **Definições e,** em seguida, clique **em Site Definições**. Se o site for um site ligado Microsoft 365 grupo, clique em Definições **,** clique em **Conteúdos** do Site e, em seguida, clique **em Site Definições**.
     
-3. Na **Administração da Recolha do Site,** clique **nas funcionalidades de recolha do Site.**
+3. Em Administração **de Coleções de Site**, clique em **Funcionalidades da coleção de site**.
     
-4. Em **Gestão de Registos no Local,** clique em **Ativar**.
+4. Em **Gestão de Registos No Local,** clique em **Ativar**.
     
-Para obter mais informações, consulte [Introdução às políticas de gestão da informação](https://go.microsoft.com/fwlink/?linkid=404239) e [Criar e aplicar políticas de gestão da informação.](https://go.microsoft.com/fwlink/?linkid=2003916)
+Para obter mais informações, consulte Introdução [às políticas de gestão de informações](https://go.microsoft.com/fwlink/?linkid=404239) e Criar e aplicar políticas de [gestão de informações.](https://go.microsoft.com/fwlink/?linkid=2003916)
   
 

@@ -1,5 +1,5 @@
 ---
-title: O cliente das equipas está preso no Loading
+title: Teams cliente está parado ao carregar
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000701"
 - "8019"
-ms.openlocfilehash: d8e9e57967fd1b4952f6d03dbc0070eec39910d6
-ms.sourcegitcommit: 9b8f2ca19fb81b2729ecf5ff7586f4e7d607ba9a
+ms.openlocfilehash: e9a62890210d8f1867d864b021bef194384ef494b35ece4c1962e4f33ac53272
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50093078"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981700"
 ---
-# <a name="teams-client-is-stuck-on-loading"></a>O cliente das equipas está preso no Loading
+# <a name="teams-client-is-stuck-on-loading"></a>Teams cliente está parado ao carregar
 
-A Microsoft está ciente de um bug numa recente criação de uma aplicação de desktop teams que impede os utilizadores de iniciar sessão. Os utilizadores com impacto vêem uma mensagem de Loading Microsoft Teams que aparece.
+A Microsoft tem conhecimento de um erro que o impede de Teams aplicação para ambiente de trabalho recente que impede os utilizadores de instrução. Os utilizadores afetados veem uma mensagem Microsoft Teams carregamento que é exibida.
 
-A solução mais simples por enquanto é usar a aplicação web Teams em <https://teams.microsoft.com/> .
+Por enquanto, a solução mais simples é utilizar a aplicação Web Teams em <https://teams.microsoft.com/> .
 
-Para obter mais informações e estado atual, consulte o posto do Painel de Saúde do Serviço em <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>
+Para obter mais informações e o estado atual, consulte a publicação do Dashboard do Estado de Estado de Serviço em <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>

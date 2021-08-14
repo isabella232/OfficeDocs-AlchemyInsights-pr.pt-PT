@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Como Obter Apoio
+title: Outlook.com Como obter suporte
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "1326"
 - "8000080"
-ms.openlocfilehash: fe8a3956dbeff811935e976a8d75274f5e736482
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 1d42e026814499c28396913906346b70c6b7299176dea67e0cd420df73a0cda4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452131"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096059"
 ---
-# <a name="how-to-get-support-in-outlookcom"></a>Como obter apoio em Outlook.com
+# <a name="how-to-get-support-in-outlookcom"></a>Como obter suporte em Outlook.com
 
-Desculpe, Outlook.com não oferece suporte telefónico, mas temos equipas dedicadas que podem ajudá-lo.
-Insira a sua pergunta ou descreva o seu problema na caixa **de ajuda** acima e, em seguida, selecione **Obter ajuda**.
+Lamentamos, Outlook.com não oferece suporte telefónico, mas temos equipas dedicadas que o podem ajudar.
+Introduza a sua pergunta ou descreva o seu problema na **caixa Ajuda** acima e, em seguida, selecione **Obter ajuda.**
 
 [Obter ajuda com Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 

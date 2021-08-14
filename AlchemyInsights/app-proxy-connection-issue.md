@@ -1,5 +1,5 @@
 ---
-title: Problema de conexão de procuração de aplicativo
+title: Problema de Ligação do Proxy da Aplicação
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7801"
-ms.openlocfilehash: b4f5d96cf92b37ecc31a11c0f33db2e3db8510cc
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: bbe71ac33b3ffc9d7414369432ce096520a3f7f1d8a0e34a256df2db7765d583
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885413"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951612"
 ---
-# <a name="app-proxy-connection-issue"></a>Problema de conexão de procuração de aplicativo
+# <a name="app-proxy-connection-issue"></a>Problema de Ligação do Proxy da Aplicação
 
-1. Se estiver a utilizar o serviço Application Proxy para acesso remoto a uma aplicação web no local, mas está com dificuldades em ligar-se à aplicação, utilize [este artigo](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) para o ajudar a resolver problemas com os conectores de aplicação Proxy (Azure AD) do Azure Ative.
-2. Para ajudar a resolver problemas comuns quando não é detetado um conector para uma aplicação Proxy de aplicação integrada com o Azure Ative Directory, siga os passos no artigo [Nenhum grupo de conector de trabalho encontrado para uma aplicação de Procuração de Aplicação](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector) para resolver problemas.
+1. Se estiver a utilizar o serviço Proxy de Aplicação para acesso remoto a uma aplicação [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) Web no local, mas estiver a ter problemas em ligar à aplicação, utilize este artigo para o ajudar a refletir problemas com conexões Proxy da Aplicação Azure Active Directory (Azure AD).
+2. Para ajudar na resolução de problemas comuns com que se deteta quando uma conexão não é detetada para uma aplicação Application Proxy integrada com o Azure Active Directory, siga os passos no artigo Nenhum grupo de conectores de trabalho encontrado para uma aplicação [Application Proxy](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector) para resolver problemas.

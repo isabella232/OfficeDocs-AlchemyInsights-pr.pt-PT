@@ -1,5 +1,5 @@
 ---
-title: Certificado da Federação ADFS expirando
+title: Certificado de Federação do AD FS a expirar
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: 3ba6e6a6f93225bc843dfd1a028d31223f01280c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 48d4ccbbc0ed3dc54cbcd17ae7b9040bfd9ecc426897c06b653bf40bc7d5e9b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821962"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952980"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>Certificado da Federação ADFS expirando
+# <a name="adfs-federation-certificate-expiring"></a>Certificado de Federação do AD FS a expirar
 
-Para resolver esta questão, siga estes passos:
+Para resolver este problema, siga estes passos:
   
-1. Instale o Módulo de Diretório Ativo Microsoft Azure para o Windows PowerShell no computador (se o módulo ainda não estiver instalado). Para isso, vá a [Manage AD azure usando o Windows PowerShell](https://aka.ms/aadposh).
+1. Instale o Microsoft Azure Active Directory de Dados para Windows PowerShell no computador (se o módulo ainda não estiver instalado). Para o fazer, vá [a Gerir o Azure AD através do Windows PowerShell](https://aka.ms/aadposh).
 
-2. Siga os passos na secção "Cenário 1: O certificado de assinatura de fichas AD FS expirou" da secção ["Houve um problema de acesso ao site" de AD FS quando um utilizador federado assina a Microsoft 365, Azure ou Intune.](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)
+2. Siga os passos na secção "Cenário 1: o certificado de assinatura de tokens do AD FS expirou" do erro "Ocorreu um problema ao aceder ao site" do AD FS quando um utilizador federado tem sessão de [Microsoft 365, Azure ou Intune.](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)
 
-3. Siga os passos em [Update ou repare as definições de um domínio federado na Microsoft, Azure ou Intune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
+3. Siga os passos em Atualizar ou reparar as definições de um domínio [federado na Microsoft, no Azure ou no Intune.](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365)
 
-    Para saber mais sobre a renovação dos certificados da Federação, consulte [os certificados da federação Renovar para o Microsoft 365 e o Azure Ative Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+    Para saber mais sobre como renovar os certificados de Federação, consulte Renovar os [certificados de federação Microsoft 365 e Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).

@@ -1,5 +1,5 @@
 ---
-title: Altere a sua imagem de perfil no Outlook na web
+title: Alterar a sua imagem de perfil no Outlook na Web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,20 +10,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 07e53a48a6846adc9f73eb5905ff6e6ee9744f53
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: b57d5fc7085d38c2f844a56e6d06ea6dcae3026360a8288cb73baed5d1280a05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451987"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095337"
 ---
-# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Altere a sua imagem de perfil no Outlook na web
+# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Alterar a sua imagem de perfil no Outlook na Web
 
-1. No topo da página, selecione o seu nome ou imagem de perfil.
-1. No painel **de conta My,** selecione a sua imagem de perfil.
-1. No **dialog de fotografia Change,** selecione **Enviar uma nova fotografia**.
-1. Escolha uma foto para carregar e selecione **Aplicar**.
+1. Na parte superior da página, selecione o seu nome ou imagem de perfil.
+1. No painel **A minha conta,** selecione a sua imagem de perfil.
+1. Na caixa **de diálogo Alterar a** sua fotografia, **selecione Carregar uma nova fotografia**.
+1. Escolha uma fotografia para carregar e selecione **Aplicar**.
 
-*Nota:* A sua nova fotografia aparecerá da próxima vez que iniciar sessão no Microsoft 365.
+*Nota:* A sua nova fotografia será apresentada da próxima vez que entrar no Microsoft 365.
 
-Para obter mais informações, consulte [Alterar as informações da sua foto e conta no Outlook na web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Para obter mais informações, [consulte Alterar as informações da sua fotografia e conta Outlook na Web.](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)

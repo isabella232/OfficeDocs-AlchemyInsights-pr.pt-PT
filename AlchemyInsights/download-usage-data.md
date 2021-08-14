@@ -1,5 +1,5 @@
 ---
-title: Baixar dados de utilização
+title: Transferir dados de utilização
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "7604"
-ms.openlocfilehash: 86ea8c21aa92685ef008693376f4e5fe6c768011
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: d883bdfd0d59d91eba4770f23e18e49449299e22e75dc78ef63eaf5001c03419
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885361"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004273"
 ---
-# <a name="download-usage-data"></a>Baixar dados de utilização
+# <a name="download-usage-data"></a>Transferir dados de utilização
 
-Selecionou uma subscrição associada a um acordo de empresa da Azure.
+Selecionou uma subscrição associada a um contrato enterprise do Azure.
 
-Para ver e descarregar dados de utilização como cliente da Enterprise Azure (EA), execute os seguintes passos:
+Para ver e transferir dados de utilização como um cliente do Enterprise Azure (EA), efetue os seguintes passos:
 
 > [!NOTE]
-> Deve ser administrador da empresa, proprietário de conta ou administrador de departamento, com a política de encargos de vista ativada. 
+> Tem de ser um administrador da empresa, um proprietário da conta ou um administrador de departamento, com a política de encargos da vista ativada. 
 
-1. Inscreva-se no portal Azure e procure por **Gestão de Custos + Faturação.**
-2. Selecione um perfil de faturação e clique em **Usage + charges**.
-3. No ecrã que aparece, escolha o mês para o qual necessita do relatório e clique em **Baixar**.
+1. Inscreva-se no portal do Azure e procure **Gestão de Custos + Faturação.**
+2. Selecione um perfil de faturação e **clique em Utilização + taxas**.
+3. No ecrã que é exibido, escolha o mês para o qual precisa do relatório e clique em **Transferir**.
 
-Se for necessária uma cópia da fatura, contacte o seu Parceiro de Licenciamento da Microsoft (parceiro ou consultor de software). Eles vão elevar uma Ferramenta Call-Logging (CLT) para o Centro Regional de Operações (ROC) através de Explore.ms.
+Se for necessária uma cópia da fatura, contacte o seu Parceiro de Licenciamento da Microsoft (parceiro ou um consultor de software). Irá elevar uma Ferramenta de Call-Logging (CLT) ao Centro de Operações Regionais (ROC) através Explore.ms.
 
-**Atualização - nov 2020**
+**Atualização - 2020 de novembro**
 
-Para clientes comerciais diretos selecionados da EA, lançámos uma funcionalidade (pré-visualização privada) para a funcionalidade **Desuso fatura** no Portal Azure. Para descarregar a fatura como parte da funcionalidade de **pré-visualização privada,** execute os passos abaixo:
+Para os Clientes Comerciais EA Direct selecionados,  lançámos uma funcionalidade (pré-visualização privada) para a funcionalidade Transferir Fatura no Portal do Azure. Para transferir a fatura como parte da funcionalidade de **pré-visualização** privada, execute os passos abaixo:
 
-1. Inscreva-se no portal Azure utilizando o URL: https://portal.azure.com/?EaInvoice=true 
-2. Pesquisa sobre **Gestão de Custos + Faturação**. 
-3. Clique **em Utilização + custos**. 
-4. No ecrã que aparece, escolha o mês para o qual necessita do relatório e clique em **Baixar**.
+1. Inscreva-se no portal do Azure com o URL: https://portal.azure.com/?EaInvoice=true 
+2. Procure **Gestão de Custos + Faturação**. 
+3. Clique **em Utilização + taxas**. 
+4. No ecrã que é exibido, escolha o mês para o qual precisa do relatório e clique em **Transferir**.

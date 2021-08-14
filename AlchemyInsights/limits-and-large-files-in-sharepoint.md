@@ -1,5 +1,5 @@
 ---
-title: Limites e grandes ficheiros no SharePoint
+title: Limites e ficheiros grandes no SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c78095a5d5aac4015e4826c78136db3b7ffda95872024a0058a7e8f8b2ccef4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709189"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986713"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Ficheiros que não podem ser enviados para o SharePoint Online
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Ficheiros que não podem ser carregados para o SharePoint Online
 
-Se um ficheiro não fizer o upload para o SharePoint Online, certifique-se de que:
+Se um ficheiro não carregar para o SharePoint Online, certifique-se de que:
   
-- Tem menos de 15 GB de tamanho.
+- Tem um tamanho inferior a 15 GB.
     
-- Todo o caminho, incluindo o nome do ficheiro, é inferior a 400 caracteres.
+- O caminho completo, incluindo o nome de ficheiro, tem menos de 400 carateres.
     
-- O nome do ficheiro não contém os caracteres" \* \< \> ? / \ | e não está na lista de [nomes inválidos.](https://go.microsoft.com/fwlink/?linkid=866430)
+- O nome do ficheiro não contém os carateres " \* : \< \> ? / \ | e não está na lista de nomes [inválidos](https://go.microsoft.com/fwlink/?linkid=866430).
     
-Se estiver a tentar fazer o upload do ficheiro utilizando a aplicação de ambiente de trabalho OneDrive, consulte [restrições e limitações quando sincroniza ficheiros e pastas](https://go.microsoft.com/fwlink/p/?LinkID=717734) ou [corrigir problemas de sincronização do OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).
+Se estiver a tentar carregar o ficheiro através da aplicação OneDrive de ambiente de trabalho, consulte Restrições e limitações quando [sincroniza ficheiros](https://go.microsoft.com/fwlink/p/?LinkID=717734) e pastas ou Corrigir Sincronização do OneDrive [problemas](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

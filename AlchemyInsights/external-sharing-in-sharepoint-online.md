@@ -13,34 +13,34 @@ ms.custom:
 - "9000191"
 - "1749"
 - "2389"
-ms.openlocfilehash: b75daec0cf526be7b5073d0e90421ab207560f17
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f06aa99b264d7f7a2c00a757bdaed20a4d0e2953f6f9293f4987ae448fb17bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708514"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977812"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Partilha externa no SharePoint Online
 
-Se a sua organização realizar trabalhos que envolvam a partilha de documentos ou a colaboração direta com fornecedores, clientes ou clientes, então pode utilizar as [funcionalidades de partilha externa do SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) para partilhar conteúdo com pessoas fora da sua organização.
+Se o trabalho da sua organização envolver a partilha de documentos ou a colaboração direta com fornecedores, clientes ou clientes, pode utilizar as funcionalidades de partilha externa do [SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) para partilhar conteúdos com pessoas externas à sua organização.
 
-Para mais informações sobre partilha externa, visite os links abaixo:
+Para obter mais informações sobre a partilha externa, visite as ligações abaixo:
 
 - [Ativar ou desativar a partilha externa do SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
-- [Ligue a partilha externa para um site](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
-- [Definições de partilha predefinidos por tipo de site](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
-- [Use o Sharepoint Online como uma solução de extranet business-to-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
-- [Partilhar ficheiros ou pasta SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
-- [Pare de partilhar ficheiros ou pastas OneDrive ou SharePoint ou altere permissões](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
-- [Acesso a hóspedes em Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
-- [Referência de definições de partilha de hóspedes do Microsoft (Azure Ative Directory, Microsoft 365 e SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
+- [Ate ou deslige a partilha externa num site](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Predefinições de partilha por tipo de site](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
+- [Utilizar o SharePoint Online como uma solução extranet empresa-empresa (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Partilhar ficheiros ou pasta do SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Parar de partilhar OneDrive ficheiros ou pastas do SharePoint ou alterar as permissões](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [Acesso de convidado no Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
+- [Referência Definições Partilha de Convidados da Microsoft (Azure Active Directory, Microsoft 365 e SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
 
-Receber um erro com um utilizador externo?Consulte os links abaixo:
+Está a receber um erro com um utilizador externo? Consulte as ligações abaixo:
 
-- ["Acesso Negado", "Precisa de permissão para aceder a este site", ou "Utilizador não encontrado no diretório" erros no SharePoint Online e no OneDrive para Negócios](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["As políticas da sua organização não permitem que partilhe com estes utilizadores" erro ao partilhar um item ou site no SharePoint Online ou No OneDrive para Negócios](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [As opções de partilha são acinzentados ao partilhar do SharePoint Online ou do OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Mensagem de erro quando um utilizador externo aceita um convite Do SharePoint Online utilizando outra conta](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
-- [Erros de partilha de OSE no SharePoint e no OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [Erros "Acesso Negado", "Precisa de permissão para aceder a este site" ou erros "Utilizador não encontrado no diretório" no SharePoint Online e no OneDrive para Empresas](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [Erro "As políticas da sua organização não lhe permitem partilhar com estes utilizadores" ao partilhar um item ou site no SharePoint Online ou no OneDrive para Empresas](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [As opções de partilha estão a cinzento ao partilhar a partir do SharePoint Online ou OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Mensagem de erro quando um utilizador externo aceita um convite do SharePoint Online através de outra conta](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Erros de partilha de SOE no SharePoint e na OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 

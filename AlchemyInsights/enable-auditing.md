@@ -1,5 +1,5 @@
 ---
-title: Ativar e pesquisar registo de auditoria
+title: Ativar e procurar no Registo de auditoria
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,38 +13,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a28e1f5bb8b5e1bff2f26c0d9e9c9c42e8324583
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd451a8f08f50b7b4bff7b08ec5b54b57adc1f000eb8224112d84a4fb20e4359
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806590"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003655"
 ---
-# <a name="enable-and-search-the-audit-log"></a>Ativar e pesquisar o registo de Auditoria
+# <a name="enable-and-search-the-audit-log"></a>Ativar e procurar no Registo de auditoria
 
 **Microsoft 365**
 
-Para pesquisar o registo de auditoria da Microsoft 365, siga [estes passos](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Para procurar no registo Microsoft 365 de auditoria, siga [estes passos.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
 
 **Exchange**
 
-- As atividades de administração de intercâmbio são auditadas por defeito.
+- Exchange atividades de administrador são auditadas por predefinição.
 
-- A auditoria da caixa de correio é ativada por padrão na Microsoft 365. Para mais informações, consulte [este artigo.](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)
+- A auditoria de caixa de correio está ativada por predefinição no Microsoft 365. Para obter mais informações, consulte [este artigo.](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)
 
-- As caixas de correio do Grupo Microsoft 365 e as caixas de correio de pastas públicas no Exchange Online não suportam o registo de auditoria.
+- Microsoft 365 As caixas de correio de grupo e as caixas de correio da pasta pública Exchange Online não suportam o registo de auditoria.
 
 **SharePoint e OneDrive**
 
-- Não é necessária nenhuma configuração adicional para permitir a auditoria para SharePoint e OneDrive.
+- Não é necessária nenhuma configuração adicional para ativar a auditoria para o SharePoint e para OneDrive.
 
-- Suporte SharePoint e OneDrive auditando os seguintes tipos de atividades:
+- O SharePoint OneDrive o suporte para auditoria dos seguintes tipos de atividades:
 
-    - Atividades de arquivo, pasta e página
-    - Atividades de pedido de partilha e acesso
-    - Atividades de administração do site
+    - Atividades de ficheiros, pastas e páginas
+    - Atividades de partilha e pedido de acesso
+    - Atividades de administração de site
     - Atividades de sincronização de ficheiros
 
-- Para obter informações sobre atividades auditadas noutros serviços, consulte [a tabela deste artigo.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities)
+- Para obter informações sobre atividades auditadas noutros serviços, [consulte a tabela neste artigo.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities)
 
-- Aqui, uma lista de perguntas frequentes [frequentemente feitas perguntas](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) sobre a pesquisa do registo de auditoria.
+- Eis uma lista das perguntas mais frequentes sobre [como](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) procurar no registo de auditoria.

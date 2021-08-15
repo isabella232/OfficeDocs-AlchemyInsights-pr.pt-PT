@@ -1,5 +1,5 @@
 ---
-title: Aviso de subscrição expirado em aplicações microsoft 365
+title: Aviso de Subscrição Expirada nas aplicações Microsoft 365 Subscrição
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 466f164e5010476ff67d2b2bdbb1e802351795cb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c5070fe203d98a0953d7a353bfaf4d28d906ba8c8fb074bbed1e28916478cecd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823582"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956814"
 ---
-# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Aviso de "Subscrição Expirada" em aplicações da Microsoft 365
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Aviso "Subscrição Expirada" em aplicações Microsoft 365 subscrição
 
 - Consulte a página [Estado de Funcionamento do Serviço](https://docs.microsoft.com/office365/enterprise/view-service-health) para saber se existem problemas conhecidos com o serviço.
 

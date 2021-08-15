@@ -1,5 +1,5 @@
 ---
-title: Problemas de acesso ao portal ATP do Microsoft Defender
+title: Problemas ao aceder ao portal atp do Microsoft Defender
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6029"
 - "9001222"
-ms.openlocfilehash: a00096dd85e7b1ff87ea10dd8c69c8c27c02c07a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: e0ba1d1650d6656f79b74f975a8cc6429fe6d4f1b42edea1a6a02b574d2af057
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "50713982"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013579"
 ---
-# <a name="issues-accessing-the-microsoft-defender-atp-portal"></a>Problemas de acesso ao portal ATP do Microsoft Defender
+# <a name="issues-accessing-the-microsoft-defender-atp-portal"></a>Problemas ao aceder ao portal atp do Microsoft Defender
 
-Se receber uma mensagem "A sua subscrição expirou", a subscrição do serviço online expirou. Uma subscrição ATP do Microsoft Defender, tal como outras subscrições de serviços online, tem uma data de validade.
+Se receber uma mensagem "A sua subscrição expirou", significa que a sua subscrição de serviço online expirou. Uma subscrição do Microsoft Defender ATP, como outras subscrições de serviços online, tem uma data de expiração.
 
-A mensagem "A sua subscrição expirou" apresenta a opção de descarregar o pacote de off-boarding do dispositivo se optar por não renovar a sua licença.
+A mensagem "A sua subscrição expirou" apresenta uma opção para transferir o pacote de transferência do dispositivo se optar por não renovar a sua licença.

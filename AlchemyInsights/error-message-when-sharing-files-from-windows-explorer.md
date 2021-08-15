@@ -1,5 +1,5 @@
 ---
-title: Mensagem de erro ao partilhar ficheiros do Windows Explorer
+title: Mensagem de erro ao partilhar ficheiros do Windows Explorador
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,20 +12,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 56e25b064f0a81da2c8440156d46da150d3c0436
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 516f72930765cfc5a48ad4f9182b1e90f342d8866ecb03767772f47676911d2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783850"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030103"
 ---
-# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Mensagem de erro ao partilhar ficheiros do Windows Explorer
+# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Mensagem de erro ao partilhar ficheiros do Windows Explorador
 
-Ao tentar partilhar do Windows Explorer, poderá receber a seguinte mensagem de erro:
+Ao tentar partilhar a partir do Windows Explorador, poderá receber a seguinte mensagem de erro:
   
-"Desculpe, não conseguimos chegar ao servidor agora. Por favor, tente de novo mais tarde"
+"Lamentamos, mas não é possível aceder ao servidor neste momento. Tente novamente mais tarde"
   
-Para resolver a mensagem de **Tools** erro, a partir do Internet Explorer aceda a \> **Opções de Internet ferramentas** \> clique no separador **Advanced** e, em seguida, limpe a caixa de verificação intitulada **Não guarde páginas encriptadas para o disco**.
+Para resolver uma mensagem de erro, a partir do Internet Explorer, vá para Ferramentas Opções da Internet clique no separador  \> Avançadas e, em seguida,  \>  **desloque** a caixa de verificação intitulada Não guardar páginas encriptadas no disco .
   
- **Nota:** Pode ser necessário reiniciar o seu navegador para que a definição entre em vigor. Para obter informações adicionais, consulte a [mensagem de erro "Não é possível chegar ao servidor neste momento" ao partilhar ficheiros](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Nota:** poderá ter de reiniciar o seu browser para que a definição entre em vigor. Para obter informações adicionais, consulte [Mensagem de erro "Não é possível contactar o servidor neste momento" ao partilhar ficheiros](https://go.microsoft.com/fwlink/?linkid=2022914).
   

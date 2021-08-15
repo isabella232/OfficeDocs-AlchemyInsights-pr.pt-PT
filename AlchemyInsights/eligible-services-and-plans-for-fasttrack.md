@@ -1,5 +1,5 @@
 ---
-title: Serviços e planos elegíveis para fastTrack
+title: Serviços e planos elegíveis para o FastTrack
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6938"
-ms.openlocfilehash: bb91628ac9df19cbaf17f53c3c5db13b9b592ffb
-ms.sourcegitcommit: 3e16fd8b7704bd44e07be90816a350bad21bcb1d
+ms.openlocfilehash: f8450e443cd89e4b8c17d888b4c15e4c81c0b20009368a59adf0cd38f110c1f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194632"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030247"
 ---
-# <a name="eligible-services-and-plans-for-fasttrack"></a>Serviços e planos elegíveis para fastTrack
+# <a name="eligible-services-and-plans-for-fasttrack"></a>Serviços e planos elegíveis para o FastTrack
 
-Com o FastTrack Center Benefit para o Office 365, trabalha remotamente com especialistas fastTrack - sem custos adicionais - para ter o ambiente do Office 365 pronto a ser utilizado. Os FastTrack Specialists podem ajudá-lo assim que comprar pelo menos 150 licenças.
+Com o Benefício FastTrack Center para Office 365, trabalha remotamente com Especialistas FastTrack sem custos adicionais para preparar a utilização do seu Office 365 ambiente. Os Especialistas do FastTrack podem ajudá-lo quando comprar, pelo menos, 150 licenças.
 
-Para obter ajuda através do portal FastTrack, inscreva-se no [Portal FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) e siga os passos para completar o Formulário Pedido de Assistência com o formulário **Microsoft 365.**
+Para obter ajuda através do portal FastTrack, inscreva-se no [Portal FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) e siga os passos para concluir o pedido de Assistência **Microsoft 365** formulário.
 
 > [!NOTE]
-> Se tiver problemas de inscrição ou precisar de assistência adicional, envie um e-mail para [ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
+> Se estiver com problemas a entrar ou precisar de assistência adicional, envie um e-mail para [o ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
 
-Existem uma variedade de planos elegíveis para diferentes indústrias, desde empresas a instituições de ensino.
+Existem vários planos elegíveis do FastTrack para diferentes setores, desde empresas a instituições de ensino.
 
-Para saber mais, consulte [os planos elegíveis da Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2125459).
+Para saber mais, consulte Planos [elegíveis Microsoft 365 .](https://go.microsoft.com/fwlink/?linkid=2125459)
 
-Há uma variedade de serviços elegíveis, desde o Exchange Online até ao Microsoft Teams, Microsoft 365 e Windows 10.
+Existe uma grande variedade de serviços elegíveis, desde serviços Exchange Online a Microsoft Teams, Microsoft 365 e Windows 10.
 
-Para obter uma lista completa dos serviços elegíveis, consulte [os serviços elegíveis.](https://go.microsoft.com/fwlink/?linkid=2125636)
+Para uma lista completa dos serviços elegíveis, consulte Serviços [elegíveis.](https://go.microsoft.com/fwlink/?linkid=2125636)

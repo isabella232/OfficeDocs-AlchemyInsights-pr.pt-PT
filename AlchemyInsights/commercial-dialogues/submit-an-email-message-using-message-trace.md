@@ -1,5 +1,5 @@
 ---
-title: Envie uma mensagem de e-mail usando o traço de mensagem
+title: Submeter uma mensagem de e-mail através do rastreio de mensagens
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a3d7edf0be0e7ddaf749399327868d7fdea9f980
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: deaa54004554f65a1af9addab86c84bcee8c044a57448d577299c452ce5cf1a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747387"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978856"
 ---
-# <a name="submit-an-email-message-using-message-trace"></a>Envie uma mensagem de e-mail usando o traço de mensagem
+# <a name="submit-an-email-message-using-message-trace"></a>Submeter uma mensagem de e-mail através do rastreio de mensagens
 
-1. Vá ao [Centro de Conformidade & de Segurança do Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143)e, em seguida, vá para o rastreio de mensagem de fluxo de **correio**  >  [](https://go.microsoft.com/fwlink/?linkid=2101048).
-2. Selecione **+ Inicie um rastreio**.
-3. Caminhe pelas opções apresentadas. Selecione os destinatários e os remetentes e, em seguida, ajuste o intervalo de data conforme apropriado. Pode deixar as definições predefinidos para as opções restantes.
-4. Selecione **Pesquisar**. Uma lista de mensagens de e-mail será exibida com base nos seus critérios de pesquisa. Clique duas vezes na mensagem que pretende submeter e, em seguida, selecione **Enviar mensagem**.
-5. Para saber mais, consulte [os vestígios de mensagem no Centro de Conformidade & de Segurança](https://go.microsoft.com/fwlink/?linkid=2101557).
+1. Vá para o Centro de Conformidade Office 365 de & de Conformidade [e,](https://go.microsoft.com/fwlink/p/?linkid=2077143)em seguida, vá para Rastreio **de Mensagens de fluxo** de  >  [correio.](https://go.microsoft.com/fwlink/?linkid=2101048)
+2. **Selecione + Iniciar um rastreio**.
+3. Ande pelas opções apresentadas. Selecione os destinatários e re destinatários e, em seguida, ajuste o intervalo de datas conforme adequado. Pode deixar as predefinições para as opções restantes.
+4. **Selecione Procurar**. Será apresentada uma lista de mensagens de e-mail com base nos seus critérios de pesquisa. Faça duplo clique na mensagem que pretende submeter e, em seguida, selecione **Submeter mensagem**.
+5. Para saber mais, consulte [Rastreio de mensagens no Centro de Conformidade & Segurança.](https://go.microsoft.com/fwlink/?linkid=2101557)

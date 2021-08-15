@@ -1,5 +1,5 @@
 ---
-title: Baixar ou impedir o download de ficheiros a partir de OneDrive ou SharePoint
+title: Transferir ou Impedir a Transferência de ficheiros do OneDrive ou do SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,20 +14,20 @@ ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
 ms.custom:
 - "9000213"
 - "1788"
-ms.openlocfilehash: 3666d3caa81ff321b1f4e9f641dcf22caae3e37e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b5e7b9b73d6824d54eeb2576a3edda8be12af1e8e38f710c2ab4077482dff9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800439"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022993"
 ---
-# <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>Baixar ou impedir o download de ficheiros a partir de OneDrive ou SharePoint
+# <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>Transferir ou Impedir a Transferência de ficheiros do OneDrive ou do SharePoint
 
-Pode descarregar ficheiros e pastas a partir do OneDrive ou do SharePoint Online para o seu computador com apenas alguns cliques. Para obter mais informações sobre o download de ficheiros, velocidades e limitações de downloads, visite os links abaixo.
+Pode transferir ficheiros e pastas do OneDrive ou do SharePoint Online para o seu computador com apenas alguns cliques. Para obter mais informações sobre como transferir ficheiros, velocidades e limitar transferências, visite as ligações abaixo.
 
-- [Descarregue ficheiros e pastas a partir de OneDrive ou SharePoint](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
-- [Download de Ficheiros de Blocos com acesso condicional AD Azure](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
-- [Procure eventos de "ficheiros descarregados" em registos de auditoria](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide#file-and-page-activities) para identificar quem descarregou ficheiros
-- [Maximizar a velocidade de upload e download](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
-- [Corrigir problemas de sincronização oneDrive](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
-- [Baixar OneDrive para Negócios](https://onedrive.live.com/about/download/)
+- [Transferir ficheiros e pastas do OneDrive ou do SharePoint](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
+- [Bloqueie a transferência do ficheiro com o acesso condicional ao Azure Active Directory](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Procurar eventos "Ficheiro transferido" em Registos de auditoria](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide#file-and-page-activities) para identificar quem transferiu ficheiros
+- [Maximizar a velocidade de transferência e carregamento](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
+- [Corrigir problemas OneDrive sincronização](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
+- [Transferir OneDrive para Empresas](https://onedrive.live.com/about/download/)

@@ -1,5 +1,5 @@
 ---
-title: Arquivo aberto apenas leitura
+title: Ficheiro aberto em só de leitura
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,43 +13,43 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fb75f7ac5b8c7023f0258a567becdc5d023476b5e905d8f2cc17479faea76af1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813195"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029815"
 ---
-# <a name="file-open-read-only"></a>Arquivo aberto apenas leitura
+# <a name="file-open-read-only"></a>Ficheiro aberto em só de leitura
 
-Pode descobrir que quando estiver a abrir ficheiros, eles abrem-se apenas para ler. Em alguns casos, isto é para uma segurança acrescida, como quando está a abrir ficheiros a partir da internet, e outras vezes, pode ser devido a uma configuração que pode ser alterada. Aqui estão alguns cenários em que um ficheiro abre apenas a leitura e alguns passos que pode tomar para mudar isso.
+Poderá descobrir que, ao abrir ficheiros, estes são abertos em só de leitura. Em alguns casos, isto deve-se a uma maior segurança, como quando está a abrir ficheiros da Internet e noutros casos pode ser devido a uma definição que pode ser alterada. Eis alguns cenários em que um ficheiro é aberto em só de leitura e alguns passos que pode tomar para o alterar.
   
- **O meu antivírus está a fazê-los abrir apenas a leitura.**
+ **O meu antivírus está a fazer com que abram o só de leitura**
   
-Alguns programas antivírus podem protegê-lo de ficheiros potencialmente inseguros abrindo-os apenas de leitura. Poderá ser necessário consultar o seu fornecedor antivírus para aprender a ajustar estas definições. O BitDefender, por exemplo, tem conteúdo na adição de exclusões de aplicações aqui: [Como adicionar exclusões de aplicações ou processos no Centro de Controlo de Bitdefender](https://aka.ms/AA6098i).
+Alguns programas antivírus podem protegê-lo de ficheiros potencialmente não seguros ao abri-los em só de leitura. Poderá ter de consultar o seu fornecedor de antivírus para saber como ajustar estas definições. O BitDefender, por exemplo, tem conteúdos sobre como adicionar exclusões de aplicações aqui: How to add [application or process exclusions in Bitdefender Control Center](https://aka.ms/AA6098i).
   
- **As propriedades do ficheiro estão definidas apenas para ler?**
+ **As propriedades do ficheiro estão definidas para só de leitura?**
   
-Pode verificar as propriedades do ficheiro clicando corretamente no ficheiro e escolhendo propriedades. Se o atributo Read-only for verificado, pode desacompi-lo e clicar em OK.
+Pode verificar as propriedades do ficheiro ao clicar com o botão direito do rato no ficheiro e seletar Propriedades. Se o atributo Só de Leitura estiver selado, pode des verificação e clicar em OK.
   
  **O conteúdo está na vista protegida**
   
-Ficheiros da Internet e de outros locais potencialmente inseguros podem conter vírus, worms ou outros tipos de malware que podem prejudicar o seu computador. Este também é geralmente o caso com anexos de e-mail ou ficheiros que você descarregou. Para ajudar a proteger o seu computador, os ficheiros destes locais potencialmente inseguros são abertos em Protected View. Ao utilizar a ProtectEd View, pode ler um ficheiro e ver o seu conteúdo, reduzindo os riscos. Para obter mais informações sobre a vista protegida e como alterar as definições, consulte este artigo: [O que é a Vista Protegida?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Os ficheiros da Internet e de outras localizações potencialmente inseguras podem conter vírus, worms ou outros tipos de malware que podem prejudicar o seu computador. Normalmente, também se trata dos anexos de e-mail ou ficheiros que transferiu. Para ajudar a proteger o seu computador, os ficheiros destas localizações potencialmente inseguras são abertos na Vista Protegida. Ao utilizar a Vista Protegida, pode ler um ficheiro e ver os seus conteúdos, ao mesmo tempo que reduz os riscos. Para obter mais informações sobre a Vista Protegida e como alterar as definições, consulte este artigo: [O que é a Vista Protegida?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **O OneDrive está cheio?**
+ **A OneDrive está cheia?**
   
-Se o ficheiro estiver armazenado no OneDrive e o seu espaço de armazenamento OneDrive estiver cheio, não poderá guardar o documento até estar sob o seu espaço atribuído. Pode verificar o seu espaço gratuito no OneDrive clicando no ícone OneDrive no centro de notificação e escolhendo o armazenamento de Manage, ou pode [https://onedrive.live.com](https://onedrive.live.com) ir, iniciar sôm e observar a quantidade de espaço usado na parte inferior esquerda do ecrã.
+Se o ficheiro estiver armazenado no OneDrive a sua OneDrive de armazenamento estiver cheia, não poderá guardar o documento até ter espaço suficiente. Pode verificar o seu espaço livre no OneDrive clicando no ícone do OneDrive no centro de notificações e selendo Gerir armazenamento ou pode ir para , sign in e anotar a quantidade de espaço utilizado no canto inferior esquerdo do [https://onedrive.live.com](https://onedrive.live.com) ecrã.
   
- **O Escritório está ativado?**
+ **O Office está ativado?**
   
-Se o Office não estiver ativado ou se a sua subscrição tiver expirado, poderá estar no modo de funcionalidade reduzida apenas de leitura. Para obter informações sobre como ativar o Escritório, consulte: [Erros de produto não licenciados e erros de ativação no Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Se Office não estiver ativado ou se a sua subscrição tiver expirado, pode estar no Modo de Funcionalidade Reduzida, que só de leitura está ativado. Para obter informações sobre como Ativar Office, consulte: Erros [Produto](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)Não Office .
   
- **Se tudo o resto falhar...**
+ **Se nada falhar...**
   
-- Tente reiniciar o computador
+- Experimente reiniciar o computador
     
 - Instalar atualizações do Office
     
-- Realizar uma reparação online do Office
+- Efetuar uma reparação online de Office
     
 

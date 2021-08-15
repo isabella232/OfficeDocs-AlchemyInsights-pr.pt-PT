@@ -1,5 +1,5 @@
 ---
-title: Como adicionar ou remover um delegado no Outlook na Web (OWA)
+title: Como adicionar ou remover um Delegado no Outlook na Web (OWA)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7335"
-ms.openlocfilehash: fc8e3ed77867db5242927c466e680325e471dd7a
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: d28b857a95a9959ed3b6b8954878f9c60a367db6d53e67e6729b174c5ce7b364
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573587"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993436"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Como adicionar ou remover um delegado no Outlook na Web (OWA)
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Como adicionar ou remover um Delegado no Outlook na Web (OWA)
 
-Para atribuir um acesso de editor ou delegado ao seu calendário:
+Para atribuir acesso de Editor ou Delegado ao seu calendário:
 
-1. In Outlook na web, selecione o ícone Calendário na parte inferior da página.
-2. No topo da página, **selecione Partilhar > Calendário**.
-3. Na página **'Partilhar e permissões',** digite o nome ou endereço de e-mail da pessoa com quem pretende partilhar o seu calendário. Embora possa partilhar o seu calendário com mais de uma pessoa, só pode adicionar uma pessoa de cada vez do Outlook na web.
-4. Depois de ter adicionado a pessoa que pretende gerir o seu calendário, selecione a lista de drop-down ao lado do seu nome e escolha o nível de acesso que pretende que tenha.
+1. No Outlook na Web, selecione o ícone Calendário na parte inferior da página.
+2. Na parte superior da página, **selecione Partilhar > Calendário**.
+3. Na página **Partilha e permissões,** escreva o nome ou endereço de e-mail da pessoa com quem pretende partilhar o seu calendário. Embora possa partilhar o seu calendário com mais do que uma pessoa, só pode adicionar uma pessoa de cada vez a partir Outlook na Web.
+4. Depois de adicionar a pessoa que pretende que faça a gestão do seu calendário, selecione a lista de listas versáis junto ao respetivo nome e selecione o nível de acesso que pretende que tenha.
 
-    - Selecione **Pode editar** para dar-lhes permissão para escoar alterações no seu calendário.
-    - Selecione **Delegado** para dar-lhes a mesma permissão que um editor, além de que receberão pedidos de reunião e respostas em seu nome.
+    - **Selecione Pode editar** para lhes dar permissão para fazer alterações ao seu calendário.
+    - **Selecione Delegado** para lhe dar a mesma permissão que um editor e este irá receber pedidos de reunião e respostas em seu nome.
     > [!NOTE]
-    > Quando um delegado responde a um convite de reunião em seu nome, não verá a resposta no convite na sua caixa de entrada ao usar o Outlook na web. As reuniões que forem aceites ou aceites provisoriamente aparecerão no seu calendário e mostrarão que o seu delegado as aceitou.
-    - As opções **Podem ver quando estou ocupado,** posso ver **títulos e locais**, e **pode ver todos os detalhes** que permitem que outros vejam o seu calendário mas não façam alterações no mesmo. O acesso a pessoas de fora da sua organização está limitado a estas opções.
+    > Quando um delegado responder a um convite de reunião em seu nome, não verá a resposta no convite na sua caixa de entrada ao utilizar Outlook na Web. As reuniões aceites ou aceites em tentativa serão apresentadas no seu calendário e mostrarão que o seu delegado as aceitou.
+    - As opções Pode ver quando estou **ocupado,** Pode ver **títulos** e localizações e Pode ver todos os detalhes permitem que outras pessoas visualizarem o seu calendário, mas não que façam alterações ao mesmo.  O acesso a pessoas fora da sua organização está limitado a estas opções.
 
-5. Depois de terminar de adicionar a pessoa com quem pretende partilhar o seu calendário e ter escolhido qual a permissão que pretende dar-lhe, **selecione Partilhar**. Se decidir não partilhar o seu calendário agora, selecione **Remover**.
+5. Após terminar de adicionar a pessoa com quem pretende partilhar o seu calendário e ter escolhido a permissão que lhe pretende dar, selecione **Partilhar**. Se optar por não partilhar o seu calendário neste momento, selecione **Remover**.
 
-A pessoa com quem partilhou o seu calendário receberá uma mensagem de e-mail a dizer-lhes sobre o assunto. Quando selecionarem o botão **Aceitar** no convite, ele adicionará o seu calendário à sua lista de calendários.
+A pessoa com quem partilhou o seu calendário irá receber uma mensagem de e-mail a dizer-lhe sobre isso. Ao selecionarem **o** botão Aceitar no convite, o seu calendário será adicionado à respetivo lista de calendários.
 
 > [!NOTE]
-> Os itens de calendário marcados **Private** estão protegidos. A maioria das pessoas com quem partilha o seu calendário vê apenas o tempo dos itens marcados **como Privado**, não o assunto, localização ou outros detalhes. A exceção a isso é se selecionar a caixa de verificação **de eventos privados.**
+> Os itens de calendário **marcados como Privados** estão protegidos. A maioria das pessoas com quem partilha o seu calendário vê apenas a hora dos itens marcados Privados **e** não vê o assunto, a localização ou outros detalhes. A exceção a esta regra é se selecionar a caixa de verificação Permitir que **o delegado veja eventos privados.**
 
-Para remover um delegado no Outlook na Web (OWA):
+Para remover um Delegado no Outlook na Web (OWA):
 
-1. In Outlook na web, selecione o ícone Calendário na parte inferior da página.
-2. No topo da página, **selecione Partilhar** e escolha o calendário que pretende deixar de partilhar.
-3. **Selecione Remover** ao lado da pessoa com quem pretende parar de partilhar o seu calendário.
+1. No Outlook na Web, selecione o ícone Calendário na parte inferior da página.
+2. Na parte superior da página, **selecione Partilhar** e selecione o calendário que pretende deixar de partilhar.
+3. **Selecione** Remover junto à pessoa com quem pretende parar de partilhar o seu calendário.

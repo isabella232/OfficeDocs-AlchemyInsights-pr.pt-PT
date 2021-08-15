@@ -14,16 +14,16 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: b9e333fb229f0a8c1717e11829232dca80b591d3
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 9247277180a7245ab4b5635ec9e93f57f189e3ac8c5d71f39505616ff4cf0603
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299948"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026557"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migrar para o SharePoint Online através do Gestor de Migração
 
-Localizado no moderno Centro de Administração do SharePoint, o Gestor de Migração guia-o através da configuração dos seus clientes e da criação das suas tarefas. Pode especificar as definições globais ou de nível de tarefa, ver o progresso da tarefa e baixar relatórios de resumo agregados e de nível de tarefa.
+Localizado no moderno Centro de Administração do SharePoint, o Gestor de Migração guia-o através da configuração dos seus clientes e da criação das suas tarefas. Pode especificar definições globais ou ao nível da tarefa, ver o progresso de todas as tarefas e transferir relatórios agregados ao nível da tarefa e resumo.
 
 * [Começar com o Gestor de Migração](https://docs.microsoft.com/sharepointmigration/mm-get-started)
 * [Configurar clientes do Gestor de Migração](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)

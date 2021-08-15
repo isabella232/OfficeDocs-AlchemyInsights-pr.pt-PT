@@ -1,5 +1,5 @@
 ---
-title: Visão geral da Prevenção da Perda de Dados (DLP)
+title: Visão geral da Prevenção de Perda de Dados (DLP)
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: f4f4757e652b276d44b266eef73f5b5161615281
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc372aef88ebdca81bb217283dce0806888d4b4795f88e4b28bd36cc2c6f1c5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731322"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005569"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>Visão geral da Prevenção da Perda de Dados (DLP)
+# <a name="data-loss-prevention-dlp-overview"></a>Visão geral da Prevenção de Perda de Dados (DLP)
 
 Com uma política DLP, pode:
 
-- Identifique informações sensíveis em vários locais, tais como Exchange Online, SharePoint Online e OneDrive for Business.
+- Identifique informações confidenciais em muitas localizações, como Exchange Online, SharePoint Online e OneDrive para Empresas.
 
 
-Por exemplo, pode identificar qualquer documento que contenha um número de cartão de crédito armazenado em qualquer site do OneDrive para Negócios, ou pode monitorizar apenas os sites OneDrive de pessoas específicas.
+Por exemplo, pode identificar qualquer documento que contenha um número de cartão de crédito que está armazenado num site do OneDrive para Empresas ou pode monitorizar apenas os sites OneDrive de pessoas específicas.
 
-- Evitar a partilha acidental de informações sensíveis.
+- Impeça a partilha acidental de informações confidenciais.
 
 
-Para mais informações, por favor leia as seguintes [informações.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
+Para obter mais informações, consulte o seguinte [artigo.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
 

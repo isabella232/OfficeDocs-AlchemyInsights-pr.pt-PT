@@ -1,5 +1,5 @@
 ---
-title: Configuração do serviço de Provisão
+title: Configurar o serviço de Aprovisionamento
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004687"
 - "8468"
-ms.openlocfilehash: fd272f8d554d73c87b832443815c25ebb2acc3eb
-ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
+ms.openlocfilehash: 271ab7ad34c0f85f6f5a9d8d3dc2d901fe6fe8f978a2cc98eed986f594036f17
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50484050"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033289"
 ---
-# <a name="configuring-the-provision-service"></a>Configuração do serviço de Provisão
+# <a name="configuring-the-provision-service"></a>Configurar o serviço de Aprovisionamento
 
-Para o fornecimento automatizado de utilizadores para funcionar, o Azure AD requer credenciais válidas que lhe permitem ligar-se à API dos Serviços Web workday. Além disso, o botão de Ligação de Teste no Dia de Trabalho para a aplicação de provisionamento do utilizador AD também valida se for capaz de se ligar ao Agente de Provisionamento AD AD Ad associado ao Domínio AD.
+Para que o aprovisionamento automático de utilizadores funcione, o Azure AD requer credenciais válidas que lhe permitam ligar à API dos Serviços Web Workday. Além disso, o botão Testar Ligação na aplicação Workday to AD User Provisioning também valida se conseguir ligar ao Azure AD Ligação provisioning Agent associado ao Domínio AD.
 
-Se o portal Azure estiver a devolver um erro ao guardar as credenciais, siga os passos recomendados abaixo:
+Se o portal do Azure devolver um erro ao guardar as credenciais, siga os passos recomendados abaixo:
 
-1. Confirme que configura a conta do Utilizador do Sistema de Integração workday, conforme indicado na secção tutorial [Configure o utilizador do sistema de integração no Workday](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial).
-2. Confirme que o Serviço de Agente de Provisionamento AD AD AZure está a funcionar no seu servidor Windows no local utilizando a Consola de Gestão de Serviços. Também pode verificar o estado do agente no portal Azure clicando no botão Ver agentes no local.
-3. Certifique-se de que está a introduzir o valor para o campo "Nome de Utilizador workday" utilizando o formato username@workday-nome de inquilino. Se faltar o nome do inquilino do dia de trabalho, a autenticação do workday falha.
-4. Se estiver a configurar a integração com o inquilino de implementação workday, observe as horas de inatividade programadas do seu inquilino workday. O workday tem programado tempo de inatividade para os seus inquilinos de implementação durante os fins de semana (geralmente de sexta-feira à noite para sábado de manhã) e falhas de conectividade durante esta janela de tempo de inatividade é uma questão conhecida que resolve automaticamente assim que os inquilinos de implementação estão novamente on-line.
-5. Em casos raros, poderá também ver este erro se a palavra-passe do Utilizador do Sistema de Integração for alterada devido à atualização do arrendatário ou se a conta estiver em estado fechado ou caducado. Verifique o estado do utilizador do Sistema de Integração com o seu administrador workday.
+1. Confirme que configurou a conta de Utilizador do Utilizador do Sistema de Integração de Dia de Trabalho conforme apresentado na secção tutorial Configurar o utilizador do sistema de integração [no Dia de Trabalho.](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)
+2. Confirme que o Serviço do Azure AD Ligação Agente de Aprovisionamento está a funcionar no seu servidor de Windows no local através da Consola de Gestão de Serviços. Também pode verificar o estado do agente no portal do Azure ao clicar no botão Ver agentes no local.
+3. Certifique-se de que está a introduzir o valor do campo "Nome de Utilizador do Dia de Trabalho" utilizando o formato username@workday-nome-de-inquilino. Se o nome do inquilino-dia de trabalho estiver em falta, a autenticação dia de trabalho falha.
+4. Se estiver a configurar a integração com o inquilino de implementação Dia de Trabalho, tenha em atenção as horas de inatividade agendadas do seu inquilino Dia de Trabalho. O dia de trabalho tem um tempo de desatualização agendado para os inquilinos de implementação ao longo dos fins de semana (normalmente da sexta-feira à noite até sábado de manhã) e as falhas de conectividade durante esta janela de tempo de inatividade são um problema conhecido que resolve automaticamente assim que os inquilinos de implementação ficarem novamente online.
+5. Em casos raros, também poderá ver este erro se a palavra-passe do Utilizador do Sistema de Integração tiver sido alterada devido à atualização do inquilino ou se a conta estiver bloqueada ou tiver expirado. Verifique o estado do utilizador do Sistema de Integração com o seu administrador de Dia de Trabalho.
 
-Para obter mais informações sobre a configuração do dia de trabalho para o provisionamento automatizado, consulte [Tutorial: Configure Workday para o provisionamento automático do utilizador](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial).
+Para obter mais detalhes sobre como configurar o dia de trabalho para o aprovisionamento automatizado, consulte [Tutorial: Configurar](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)Dia de Trabalho para o aprovisionamento automático de utilizadores.

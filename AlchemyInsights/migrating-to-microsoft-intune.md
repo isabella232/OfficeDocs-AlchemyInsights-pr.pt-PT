@@ -1,5 +1,5 @@
 ---
-title: Migrar para a Microsoft Intune
+title: Migrar para o Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001216"
 - "3188"
-ms.openlocfilehash: 17b565a6034e2687a1733fa53d988a83df2e3b95
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 33135ddab5d75df2de59cab058a439c6fc80af760a4b48260b2c67cda8c1af99
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026485"
 ---
-# <a name="migrating-to-microsoft-intune"></a>Migrar para a Microsoft Intune
+# <a name="migrating-to-microsoft-intune"></a>Migrar para o Microsoft Intune
 
-Se está a tentar migrar para Intune, reveja o [Guia de Migração Intune.](https://docs.microsoft.com/intune/fundamentals/migration-guide)
+Se estiver a tentar migrar para o Intune, reveja o Guia de [Migração do Intune.](https://docs.microsoft.com/intune/fundamentals/migration-guide)
 
-Para orientações mais específicas sobre a migração do Gestor de Configuração do Centro de Sistema (e SCCM Hybrid) para Intune, reencaminho a nossa [Documentação híbrida de migração.](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa) 
+Para uma orientação mais específica sobre a migração do System Center Configuration Manager (e SCCM Híbrido) para o Intune, reivebre a nossa Documentação de Migração [Híbrida.](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa) 

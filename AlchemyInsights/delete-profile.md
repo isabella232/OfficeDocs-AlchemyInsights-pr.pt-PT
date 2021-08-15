@@ -1,5 +1,5 @@
 ---
-title: 1800001 Excluir perfil
+title: 1800001 Eliminar perfil
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,30 +14,30 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: a00b419a8feaebe7d0f5f0bd1a1e1d9bd9da76d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680110"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005533"
 ---
 # <a name="delete-a-profile"></a>Eliminar um perfil
 
 Para eliminar um perfil, utilize os seguintes passos.
   
-1. No Outlook, **File** selecione \> **Definições de Conta de Ficheiros** \> **Gerir Perfis**.
+1. No Outlook, selecione **Conta** \> **de Ficheiro Definições** Gerir \> **Perfis**.
 
-2. Selecione **Mostrar Perfis**.
+2. **Selecione Mostrar Perfis**.
 
-3. No diálogo **Mail,** selecione o perfil que pretende eliminar e, em seguida, clique em **Remover**.
+3. Na caixa **de diálogo** Correio, selecione o perfil que pretende eliminar e, em seguida, clique em **Remover**.
 
     > [!NOTE]
-    > O Outlook pode avisá-lo que a eliminação do seu perfil removerá dados offline. Não perderá nenhuma informação armazenada nos seus Ficheiros de Dados do Outlook (.pst) ou qualquer informação armazenada nas suas contas online, por exemplo Outlook.com, Exchange ou Microsoft 365.
+    > Outlook avisá-lo de que a eliminação do seu perfil irá remover dados offline. Não irá perder nenhuma informação armazenada nos seus Ficheiros de Dados do Outlook (.pst) ou quaisquer informações armazenadas nas suas contas online, por exemplo, Outlook.com, Exchange ou Microsoft 365 contas.
   
-Para **o Outlook for Mac** profile management, consulte Gerir perfis ou [identidades no Outlook for Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) ou utilizar os seguintes passos.
+Para **Outlook para gestão** de perfis do Mac, consulte Gerir perfis ou [identidades](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) no Outlook para Mac ou utilize os seguintes passos.
   
-1. A partir do Finder, abra a pasta **Aplicações.**
+1. No Localizador, abra a pasta **Aplicações**.
 
-2. Ctrl+clique ou clique com o botão direito **Microsoft Outlook**e, em seguida, selecione Mostrar Conteúdo **de Pacotes**.
+2. Clique com a tecla Ctrl ou clique com o botão direito do rato em **Microsoft Outlook** e, em seguida, selecione **Mostrar o conteúdo do pacote**.
 
-3. Selecione **o Suporte** Partilhado de Conteúdos \> **Shared Support**e, em seguida, lance o Outlook **Profile Manager**.
+3. **Selecione Suporte** \> **Partilhado de Conteúdos e,** em seguida, inicie **o Outlook de Perfis.**

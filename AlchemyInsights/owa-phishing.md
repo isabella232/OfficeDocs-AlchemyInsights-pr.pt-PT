@@ -1,5 +1,5 @@
 ---
-title: Lidar com phishing em Outlook.com
+title: Trabalhar com phishing em Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000289"
-ms.openlocfilehash: b84527f58cfd5101c5a63510cc46bb115ab862cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c0b797e22a95a5ea532cd6497dd647adf608e52d09bdaf2a13124ecdfe15d5bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666233"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982672"
 ---
-# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Como lidar com um e-mail de phishing no Outlook na web
+# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Como lidar com um e-mail de phishing no Outlook na Web
 
-Um esquema de phishing é um e-mail que parece legítimo mas é na verdade uma tentativa de roubar as suas informações pessoais ou dinheiro. Os burlões também podem usar uma técnica chamada falsificação para fazer parecer que recebeu um e-mail de si mesmo.
+Um esquema de phishing é um e-mail que aparenta ser legítimo, mas que na realidade é uma tentativa de roubar as suas informações pessoais ou dinheiro. Os spoofing também podem utilizar uma técnica chamada spoofing para fazer com que pareça que recebeu um e-mail de si mesmo.
 
-Se receber um e-mail que se pareça com um esquema de phishing, pode denunciá-lo selecionando a mensagem e, em seguida, selecionando **Junk**  >  **Phishing**.
+Se receber um e-mail que pareça um esquema de phishing, pode reportá-lo ao selecionar a mensagem e, em seguida, selecionar   >  **E-mail** de Lixo .
 
-*Nota:* Quando se marca uma mensagem como phishing, só reporta o remetente.Não impede que o remetente te envie mensagens no futuro. Para bloquear o remetente, é necessário adicionar o remetente à lista de remetentes bloqueados. Para obter mais informações, consulte [os remetentes do Bloco ou desbloqueie os remetentes no Outlook na web](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
+*Nota:* Quando marca uma mensagem como phishing, apenas denuncia o remetente. Não bloqueia o remetente de lhe enviar mensagens no futuro. Para bloquear o remetente, tem de adicionar o remetente à sua lista de remetentes bloqueados. Para obter mais informações, consulte [Bloquear recetores ou desbloquear remeteres Outlook na Web](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
 
-Saiba mais sobre como [identificar mensagens suspeitas no Outlook na web](https://support.office.com/article/3d44102b-6ce3-4f7c-a359-b623bec82206).
+Saiba mais sobre como [identificar mensagens suspeitas no Outlook na Web](https://support.office.com/article/3d44102b-6ce3-4f7c-a359-b623bec82206).

@@ -1,5 +1,5 @@
 ---
-title: Migrar pastas públicas para grupos Microsoft 365
+title: Migrar pastas públicas para os Microsoft 365 Grupos
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "10859"
 - "3500007"
-ms.openlocfilehash: a82d36cf91e2d28274c89bf7ebd39185666a09cb
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
-ms.translationtype: MT
+ms.openlocfilehash: f80432a0c0616ae922f63bf8bd4eb57e7c4187b05f82b58b21106a7f0c7863a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51595660"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026593"
 ---
-# <a name="migrate-public-folders-to-microsoft-365-groups"></a>Migrar pastas públicas para grupos Microsoft 365
+# <a name="migrate-public-folders-to-microsoft-365-groups"></a>Migrar pastas públicas para os Microsoft 365 Grupos
 
-As pastas públicas podem ser migradas para os Grupos Microsoft 365. Para obter etapas detalhadas, consulte [Migrar as suas pastas públicas para os Grupos Microsoft 365](https://aka.ms/PFToM365Group).
+As pastas públicas podem ser migradas para Microsoft 365 Grupos. Para obter os passos [detalhados, consulte Migrar as suas pastas públicas para Microsoft 365 Grupos](https://aka.ms/PFToM365Group).

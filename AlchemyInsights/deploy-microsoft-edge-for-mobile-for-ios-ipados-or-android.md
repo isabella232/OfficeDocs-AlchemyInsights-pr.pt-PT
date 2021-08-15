@@ -1,5 +1,5 @@
 ---
-title: Implementar Microsoft Edge para Mobile para iOS/iPadOS ou Android
+title: Implementar o Microsoft Edge para Dispositivos Móveis para iOS/iPadOS ou Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 98ab637b6ca0f2b3cfa98ae897d6ed1d9f36c3cd
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679940"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005461"
 ---
-# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Implementar Microsoft Edge para Mobile para iOS/iPadOS ou Android
+# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Implementar o Microsoft Edge para Dispositivos Móveis para iOS/iPadOS ou Android
 
-O cenário guiado resumido abaixo irá ajudá-lo a atribuir o Microsoft Edge aos utilizadores de dispositivos iOS, iPadOS e Android. Depois de completar estes passos, as políticas do Microsoft Intune permitirão as seguintes funcionalidades do Microsoft Edge para negócios:
+O cenário guiado resumido abaixo irá ajudá-lo a Microsoft Edge a utilizadores de dispositivos iOS, iPadOS e Android. Após concluir estes passos, as seguintes Microsoft Intune irão ativar as seguintes funcionalidades do Microsoft Edge para empresas:
 
-- Dupla identidade
-- Integração com a política de proteção de aplicações microsoft Intune
-- Integração com a Azure Ative Directory Application Proxy
-- Favoritos geridos e atalhos de página inicial
+- Identidade dupla
+- Integração com a Microsoft Intune de proteção de aplicações
+- Integração com Azure Active Directory Application Proxy
+- Favoritos geridos e atalhos da home page
 
 > [!NOTE]
-> Se bloqueou os utilizadores da inscrição de dispositivos móveis, este cenário guiado não funcionará e os utilizadores terão de instalar o Microsoft Edge por si próprios.
+> Se bloqueou a inscrição de utilizadores de dispositivos móveis, este cenário guiado não irá funcionar e os utilizadores terão de instalar o Microsoft Edge deles próprios.
 
-Para implementar o Microsoft Edge para Mobile para iOS/iPadOS ou Android, consulte:
+Para implementar o Microsoft Edge para Dispositivos Móveis para iOS/iPadOS ou Android, consulte:
 
 1. [Pré-requisitos](https://go.microsoft.com/fwlink/?linkid=2133027)
 2. [Introdução](https://go.microsoft.com/fwlink/?linkid=2133520)
-3. [Básico](https://go.microsoft.com/fwlink/?linkid=2133421)
+3. [Noções Básicas](https://go.microsoft.com/fwlink/?linkid=2133421)
 4. [Configuração](https://go.microsoft.com/fwlink/?linkid=2133521)
-5. [Atribuições](https://go.microsoft.com/fwlink/?linkid=2132869)
+5. [Tarefas](https://go.microsoft.com/fwlink/?linkid=2132869)
 6. [Revisão e criação](https://go.microsoft.com/fwlink/?linkid=2133522)

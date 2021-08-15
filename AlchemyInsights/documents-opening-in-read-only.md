@@ -15,12 +15,12 @@ ms.custom:
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: 43858e9cecb904799aebad0d6e545d586c6e6b00
-ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
-ms.translationtype: HT
+ms.openlocfilehash: f286aff794325b82679e59cd152189dc65b23e4d3c06b0b3da65851cd767bbaa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49528993"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030369"
 ---
 # <a name="documents-opening-in-read-only"></a>Documentos a abrir em modo só de leitura
 
@@ -31,7 +31,7 @@ Poderá detetar que os ficheiros que abre são só de leitura. Em alguns casos, 
 Se o cliente considerar que as causas indicadas, como um mecanismo de melhoria da segurança ou uma definição inalterada, não constituem um dos cenários predefinidos descritos em [Os ficheiros do SharePoint são abertos em modo só de leitura](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out), seguem-se algumas soluções comuns para documentos que são abertos em modo só de leitura.
 
 - Reinicie o computador.
-- Instale as atualizações do Office.
+- Instale Office atualizações.
 - Verifique o antivírus no computador.
 - Certifique-se de que o site está na zona de Sites Fidedignos do Internet Explorer.
 - Efetue uma reparação do Office.

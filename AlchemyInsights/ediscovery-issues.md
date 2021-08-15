@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: fe980d8ba54b710deca3bce9d8eca422d6c74da7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2a949afa39da637e32c6a254b7343df0eac402b3579e511d3b41e13b2b00bf7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710962"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030436"
 ---
-# <a name="ediscovery-issues"></a>eDiscovery questões
+# <a name="ediscovery-issues"></a>Problemas com a Deteção de Problemas de Deteção de E-então
 
-À procura de opções eDiscovery? Com a navegação remodelada no Centro de Conformidade & de Segurança, as suas opções de eDiscovery podem já ter mudado.  Pode encontrar as opções eDiscovery nos seguintes locais no Centro de Conformidade & de Segurança com base no que está a tentar fazer:
+Está à procura de opções de Deteção de Email? Com a navegação rees concebida no Centro de Conformidade & Segurança, é possível que as suas opções de Deteção de Dados Online já tenham sido movidas.  Pode encontrar as opções de Deteção de Dados Eletrodados nas seguintes localizações no Centro de Conformidade & Segurança com base no que está a tentar fazer:
 
-- Use a Pesquisa de Conteúdo para pesquisar conteúdo na sua organização em emails, documentos, Skype para conversas de negócios e, em seguida, exportar os dados - Vá a **pesquisa > Desendo**
+- Utilizar a Pesquisa de Conteúdos para procurar conteúdos no e-mail, documentos, conversações Skype para Empresas e, em seguida, exportar os dados: ir para **Pesquisar > conteúdo**
 
-- Crie um caso eDiscovery para pesquisar conteúdos e colocar localizações de conteúdo em espera - Vá a **eDiscovery > eDiscovery**
+- Criar um caso de Deteção de E-> para procurar conteúdos e colocar localizações de conteúdo em espera – Ir para a Deteção de > **Deteção de E->**
 
-- Utilize a nova solução avançada de eDiscovery para identificar e comunicar com os guardiões, preservar dados de custódia relevantes para o caso, recolher dados e adicioná-lo a um conjunto de análises, e reduzir o volume de dados aplicando análises para abater dados desnecessários e focar-se no que mais relevante para o caso - Vá para o **eDiscovery > Advanced eDiscovery**
+- Utilize a nova solução do Advanced eDiscovery ponto a ponto para identificar e comunicar com os empilhadores, preservar os dados pioneiros relevantes para o caso, recolher dados e adicioná-los a um conjunto de revisões e reduzir o volume de dados ao aplicar análises para evitar dados desnecessários e concentrar-se nas mais relevantes para o caso - Vá para o grupo de Deteção de **Dados > Advanced eDiscovery**
 
-Para obter mais informações, consulte:
+Para mais informações, consulte:
 
-- [Pesquisa de conteúdos](https://docs.microsoft.com/microsoft-365/compliance/content-search)
+- [Pesquisa de Conteúdos](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [casos de eDiscovery no Centro de Conformidade & de Segurança](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+- [Casos de Deteção de Dados & Segurança](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [Solução avançada de eDiscovery na Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)
+- [Advanced eDiscovery solução no Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)

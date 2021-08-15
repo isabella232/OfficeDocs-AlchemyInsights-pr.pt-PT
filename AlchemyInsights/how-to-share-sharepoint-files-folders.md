@@ -1,5 +1,5 @@
 ---
-title: Como partilhar ficheiros ou pastas SharePoint ou OneDrive
+title: Como partilhar ficheiros ou pastas do SharePoint OneDrive ou ficheiros
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: 9fcd43022d048c3d0b652f20308dc6b0b3f6a2f4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d4917d91e1567afeacb77f78735d39d14c9286e4318026e1f4daf1fb1c11fde4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51803303"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001771"
 ---
-# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>Como partilhar ficheiros ou pastas SharePoint ou OneDrive
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>Como partilhar ficheiros ou pastas do SharePoint OneDrive ou ficheiros
 
-Os ficheiros que armazena num site do SharePoint estão normalmente disponíveis para todos os que possuem permissões para o site, mas pode querer partilhar ficheiros ou pastas específicos com pessoas que de outra forma não têm acesso ao site. Quando partilha ficheiros e pastas, pode decidir se permite que as pessoas editem ou apenas as vejam. Para mais informações, consulte:
+Normalmente, os ficheiros que armazena num site do SharePoint estão disponíveis para todas as pessoas com permissões para o site, mas poderá querer partilhar ficheiros ou pastas específicas com pessoas que de outra forma não têm acesso ao site. Quando partilha ficheiros e pastas, pode decidir se quer permitir que as pessoas editem ou apenas visualizarem os ficheiros. Para mais informações, consulte:
 
-[Partilhar ficheiros ou pastas SharePoint](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+[Partilhar ficheiros ou pastas do SharePoint](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
 
-[Partilhar ficheiros e pastas OneDrive](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
+[Partilhar OneDrive pastas e ficheiros](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)

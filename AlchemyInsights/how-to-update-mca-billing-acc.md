@@ -1,5 +1,5 @@
 ---
-title: Atualização de endereço vendido e bill-to associado ao seu MCA - passos recomendados
+title: Atualizar o endereço vendido e faturado a associado à sua MCA – passos recomendados
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: 8cdd2c64a95e88eb2fb4624c6e2696f77b75e198
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679985"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001519"
 ---
-# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Atualização de endereço vendido e bill-to associado ao seu MCA - passos recomendados
+# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Atualizar o endereço vendido e faturado a associado à sua MCA – passos recomendados
 
-Pode atualizar o endereço vendido e fatura-to associado ao seu Microsoft Customer Agreement (MCA). 
+Pode atualizar o endereço vendido e faturado associado ao seu Contrato de Cliente da Microsoft (MCA). 
 
 > [!NOTE]
-> Apenas um administrador do utilizador pode esoumir as informações do perfil do utilizador do Azure Ative. Se não lhe for atribuída a função de administrador do utilizador, contacte o administrador do utilizador. Para obter mais informações sobre a alteração do perfil de um utilizador, consulte [Adicionar ou atualizar as informações de perfil de um utilizador utilizando o Azure Ative Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
+> Apenas um administrador de utilizador pode fazer alterações ao perfil Azure Active Directory informações de perfil de utilizador. Se não lhe for atribuída a função de administrador de utilizador, contacte o seu administrador de utilizador. Para obter mais informações sobre como alterar o perfil de um utilizador, consulte Adicionar ou atualizar as informações de perfil de [um utilizador utilizando Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
 
-**Endereço vendido** - O endereço vendido para ser vendido é o endereço e as informações de contacto da organização ou do indivíduo, que é responsável por uma conta de faturação. Está exposto em todas as faturas geradas para a conta de faturação.
+**Endereço vendido** a – o endereço vendido a é o endereço e as informações de contacto da organização ou do indivíduo, que é responsável por uma conta de faturação. É apresentado em todas as faturas geradas para a conta de faturação.
 
-**Endereço bill-to** - O endereço de conta-a-lei é o endereço e as informações de contacto da organização ou do indivíduo, que é responsável pelas faturas geradas por uma conta de faturação. Para uma conta de faturação de um MCA, há um endereço de faturação para cada perfil de faturação e é exibido na fatura gerada para o perfil de faturação.
+**Endereço para faturação** - o endereço para faturação é o endereço e as informações de contacto da organização ou do indivíduo, que é responsável pelas faturas geradas para uma conta de faturação. Para uma conta de faturação de um MCA, existe um endereço para faturação para cada perfil de faturação e é apresentado na fatura gerada para o perfil de faturação.
 
-**Para atualizar uma conta de faturação mcA vendida para endereçar:**
+**Para atualizar o endereço vendido de uma conta de faturação MCA:**
 
-1. Inscreva-se no portal Azure usando o endereço de e-mail, que tem um proprietário ou um papel de contribuinte na conta de faturação de um MCA.
-1. Pesquisa de **Faturação de Gestão**  +  **de Custos.**
-1. Clique **em Atualização de Propriedades** vendida  >  **a**.
-1. Introduza o novo endereço e clique em **Guardar**.
+1. Inscreva-se no portal do Azure com o endereço de e-mail, que tem uma função de proprietário ou contribuidor na conta de faturação de um MCA.
+1. Procure **Faturação da**  +  **Gestão de Custos.**
+1. Clique **em**  >  **Atualização de Propriedades vendido a**.
+1. Introduza o novo endereço e clique **em Guardar.**
 
-Algumas contas requerem verificação adicional antes de o seu endereço vendido poder ser atualizado. Se a sua conta necessitar de aprovação manual, pedir-lhe-á que contacte o suporte do Azure.
+Algumas contas necessitam de verificação adicional antes de o endereço vendido poder ser atualizado. Se a sua conta exigir aprovação manual, ser-lhe-à pedido que contacte o suporte do Azure.
 
-**Para atualizar um endereço de conta de faturação mcA:** 
+**Para atualizar o endereço de uma conta de faturação MCA:** 
 
-1. Inscreva-se no portal Azure utilizando o endereço de e-mail, que tem um proprietário ou um papel de contribuinte numa conta de faturação ou um perfil de faturação para um MCA.
-1. Pesquisa de **Faturação de Gestão**  +  **de Custos.**
-1. Clique **em perfis de Faturação** e selecione um perfil de faturação para atualizar o endereço de faturação.
-1. Clique no endereço 'Atualização **de**  >  **Propriedades'.**
-1. Introduza o novo endereço e, em seguida, clique em **Guardar**.
+1. Inicia a sua conta no portal do Azure com o endereço de e-mail, que tem uma função de proprietário ou contribuidor numa conta de faturação ou num perfil de faturação de um MCA.
+1. Procure **Faturação da**  +  **Gestão de Custos.**
+1. Clique em **Perfis de faturação** e selecione um perfil de faturação para atualizar o endereço de faturação.
+1. Clique em **Atualizar**  >  **endereço de Atualização de Propriedades.**
+1. Introduza o novo endereço e, em seguida, clique **em Guardar.**
 
 **Documentos recomendados**
 
-[Alterar informações de contacto para uma conta de faturação da Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
+[Alterar informações de contacto de uma conta de faturação do Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
 [Atualizar definições de conta de faturação](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
-[Compreenda as funções administrativas do Microsoft Customer Agreement no Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+[Compreender as funções administrativas do Contrato de Cliente da Microsoft no Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)

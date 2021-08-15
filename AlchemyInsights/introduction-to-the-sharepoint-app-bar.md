@@ -1,5 +1,5 @@
 ---
-title: Introdução à Barra de Aplicações SharePoint
+title: Introdução à Barra de Aplicações do SharePoint
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004628"
 - "8343"
-ms.openlocfilehash: 660bbd53820a5c70709af85bbaa82446c7bf1cd3
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 673d8189eb5121b55468985822c487562f74d05f5dfdbbf892b2ac8ab40d3e84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427486"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001447"
 ---
-# <a name="introduction-to-the-sharepoint-app-bar"></a>Introdução à Barra de Aplicações SharePoint
+# <a name="introduction-to-the-sharepoint-app-bar"></a>Introdução à Barra de Aplicações do SharePoint
 
-A barra de aplicações foi concebida para melhorar a experiência de encontrar a forma global de encontrar a experiência, exibindo dinamicamente conteúdos personalizados. A barra de aplicações será **on por padrão** e pode ser temporariamente desativada **(Set-SPOSteporarilyDisableAppBar $true**) usando a versão mais recente do PowerShell. A barra de aplicações pode ser desativada até ao final de outubro, altura em que será automaticamente reativada.
+A barra da aplicação foi concebida para melhorar a forma global de encontrar experiência e apresentar conteúdo personalizado de forma dinâmica. A barra da  aplicação estará Ativada por predefinição e pode ser desativada temporariamente **(Set-SPOTemporarilyAppBar $true)** com a versão mais recente do PowerShell. A barra da aplicação pode ser desativada até ao final de outubro, altura em que será reativada automaticamente.
 
 Para mais informações, consulte:
 
-- [Introdução à barra de aplicações SharePoint](https://docs.microsoft.com/SharePoint/sharepoint-app-bar)
-- [Crie um site de casa para a sua organização](https://docs.microsoft.com/sharepoint/home-site)
-- [Utilize a barra de aplicações SharePoint](https://support.microsoft.com/office/use-the-sharepoint-app-bar-b2ab82d5-9af7-445e-ad24-236c5a86b5f8)
+- [Introdução à barra de aplicações do SharePoint](https://docs.microsoft.com/SharePoint/sharepoint-app-bar)
+- [Configurar um site de casa para a sua organização](https://docs.microsoft.com/sharepoint/home-site)
+- [Utilizar a barra de aplicações do SharePoint](https://support.microsoft.com/office/use-the-sharepoint-app-bar-b2ab82d5-9af7-445e-ad24-236c5a86b5f8)

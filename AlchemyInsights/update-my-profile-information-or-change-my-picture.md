@@ -1,5 +1,5 @@
 ---
-title: Atualizar a informação do meu perfil ou alterar a minha imagem
+title: Atualizar as informações do meu perfil ou alterar a minha imagem
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: a6e9494889035320fd658f9c6a04e37d2f569d50
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c6155eb09a4051b145cd1002c7be3a811e6e1224d88daf48dccbb4e059475081
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038195"
 ---
-# <a name="update-my-profile-information-or-change-my-picture"></a>Atualizar a informação do meu perfil ou alterar a minha imagem
+# <a name="update-my-profile-information-or-change-my-picture"></a>Atualizar as informações do meu perfil ou alterar a minha imagem
 
-Atualmente, não é possível editar e atualizar as informações do seu perfil diretamente do Outlook para iOS, mas é possível editar esta informação em outros lugares. 
+Atualmente, não é possível editar e atualizar as suas informações de perfil diretamente a partir do Outlook para iOS, mas é possível editar estas informações noutro local. 
 
-Pode fazer atualizações ao seu perfil em Outlook for Windows ou Outlook na Web (OWA). 
+Pode fazer atualizações ao seu perfil no Outlook para Windows ou Outlook na Web (OWA). 
 
-**Perspetivas para o Windows:** 
+**Outlook para Windows:** 
 
-- **Arquivo**  >  Conta de **Escritório**  >  **Informações do**  >  utilizador **Sobre mim** (leva-o ao perfil do Microsoft 365 online) > **Perfil de Atualização** ou clique no ícone da câmara para alterar a sua foto  
+- **Ficheiro**  >  **Office Conta**  >  **Informações do utilizador**  >  **Sobre mim** (leva-o Microsoft 365 perfil online) >  Atualizar Perfil ou clique no ícone da câmara para alterar a sua fotografia  
   
-**Perspetivas na Web (OWA):** 
+**Outlook na Web (OWA):** 
 
-- **Imagem de perfil**  >  **O meu perfil**  >  **Atualizar o perfil**
+- **Imagem de perfil**  >  **O meu perfil**  >  **Atualizar perfil**

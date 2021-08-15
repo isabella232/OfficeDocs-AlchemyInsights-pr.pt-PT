@@ -1,5 +1,5 @@
 ---
-title: UPN sincronizado
+title: Sincronização de UPN desativada
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 2b1ba772459091ce1a796884997fe2516d0407eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc163fae4d348d7c7cf117bd457f999b42f96bec7c1eb9aa1435e346131d06de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782162"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038123"
 ---
-# <a name="upn-sync-disabled"></a>UPN sincronizado
+# <a name="upn-sync-disabled"></a>Sincronização de UPN desativada
 
-Se começou a sincronizar a Azure AD antes de 30 de março de 2016, execute o seguinte cmdlet Azure AD PowerShell para ativar o soft match da UPN apenas para a sua organização:
+Se tiver começado a ser a mesma e o Azure AD antes de 30 de março de 2016, execute o seguinte cmdlet do PowerShell do Azure AD para ativar apenas a correspondência suave de UPN para a sua organização:
   
  **Set-MsolDirSyncFeature -Feature EnableSoftMatchOnUpn -Enable $True**
   
-UPN soft match é automaticamente ligado para organizações que começaram a sincronizar a Azure AD em ou depois de 30 de março de 2016.
+A correspondência de atualizações upn é aativada automaticamente para as organizações que iniciaram a ascrianação com o Azure AD a partir de 30 de março de 2016.
   
-Para saber mais sobre como permitir uma partida suave na UPN e outras funcionalidades de sincronização, consulte [as funcionalidades do serviço de sincronização Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
+Para saber mais sobre como ativar a funcionalidade de sincronização de upn e outras funcionalidades de sincronização, consulte O Azure AD Ligação funcionalidades do serviço [de sincronização.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
   
 

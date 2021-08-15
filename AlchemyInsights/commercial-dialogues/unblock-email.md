@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: 7b765dfd503906f5bba0f2b824442e13a3252493
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 17f447a12013f5ace0e85b38d95937abcf9cc7d60afbeef8dddd1c3315eb3467
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747179"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994732"
 ---
 # <a name="unblock-email"></a>Desbloquear e-mail
 
-Se a conta de e-mail de um utilizador estiver bloqueada para o envio de spam, eis como fazê-lo funcionar novamente:
+Se a conta de e-mail de um utilizador estiver bloqueada para envio de spam, eis como o fazer novamente:
 
-1. Repor *imediatamente* a palavra-passe da conta afetada . Não envie a nova senha ao utilizador por e-mail. Isto impede qualquer pessoa de aceder ao mesmo para enviar spam.
-2. Vá ao Centro de Conformidade & de Segurança e veja se a conta está na [lista de Utilizadores Restritos.](https://protection.office.com/#/restrictedusers)
-3. Escolha o ícone **'Procurar'** e introduza o nome de utilizador do utilizador restrito. Por exemplo, se o endereço de e-mail do utilizador for *rob@contoso.com*, basta introduzir **o rob**.
-4. Se a conta estiver lá, **selecione Desbloqueie**. Siga os passos no painel de voo e, em seguida, selecione **Sim** para confirmar.  
+1. Repor imediatamente a palavra-passe da conta *afetada.* Não envie a nova palavra-passe ao utilizador por e-mail. Isto impede que alguém aceda ao mesmo para enviar spam.
+2. Vá para o Centro & de Conformidade e veja se a conta está na lista [utilizadores restritos.](https://protection.office.com/#/restrictedusers)
+3. **Selecionar o** ícone Procurar e introduzir o nome de utilizador do utilizador restrito. Por exemplo, se o endereço de e-mail do utilizador *for rob@contoso.com*, introduza **tialo.**
+4. Se a conta estiver lá, selecione **Desbloquear**. Siga os passos no painel de panfleto e, em seguida, **selecione Sim** para confirmar.  
     > [!NOTE]
-    > Uma vez desbloqueado, a conta deve poder começar a enviar mensagens em 3-4 horas.
+    > Uma vez desbloqueado, a conta deverá conseguir começar a enviar mensagens dentro de 3 a 4 horas.

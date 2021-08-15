@@ -1,5 +1,5 @@
 ---
-title: problemas de partilha-com-outlook-cliente-gestor
+title: problems-sharing-with-outlook-customer-manager
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 8281adacb2164ee88a73ee5b5e3afcc2a4ed317e96e8f37eba0d068c2792bfdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709261"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960126"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Partilha de problemas com o Gestor de Clientes do Outlook
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Problemas a partilhar com Outlook Gestor de Clientes
 
-Se estiver a ter problemas de partilha com o Outlook Customer Manager, recomendamos que tente primeiro limpar a cache do seu navegador. Por exemplo, no Internet Explorer:
+Se estiver a ter problemas de partilha com Outlook Gestor de Clientes recomendamos que primeiro tente limpar a cache do seu browser. Por exemplo, no Internet Explorer seria:
 
-1. Ir para **Definições**  >  **Gerais** > Configurações em Caches e bases de **dados de histórico de navegação**  >  .
-2. Elimine os ficheiros de cache para o site "outlookapps.com".
+1. Vá para o **Definições**  >  **Geral** > Definições em  >  **Caches** e bases de dados do histórico de navegação .
+2. Elimine ficheiros de cache do site "outlookapps.com".
 3. Reinicie o Outlook.
 
-Para obter mais informações sobre a partilha, consulte [informações de partilha no Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).
+Para obter mais informações sobre a partilha, [consulte Partilhar informações no Gestor Outlook Clientes.](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)

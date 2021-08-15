@@ -1,5 +1,5 @@
 ---
-title: Aprenda a língua para criar consultas avançadas de caça
+title: Aprenda o idioma para criar consultas avançadas de procura
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 68d6ffecc8540622795107ec00fe659f210ce3f1
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 40199ff5e880fa179a0ccd43e70e19c6c0347d56e7f2cbaca1b739dae2aede3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748680"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016783"
 ---
-# <a name="learn-the-language-for-creating-advanced-hunting-queries"></a>Aprenda a língua para criar consultas avançadas de caça
+# <a name="learn-the-language-for-creating-advanced-hunting-queries"></a>Aprenda o idioma para criar consultas avançadas de procura
 
-A caça avançada baseia-se na [língua de consulta de Kusto.](https://go.microsoft.com/fwlink/?linkid=2144620) Você pode usar a sintaxe de Kusto e os operadores para construir consultas que localizam informações no [esquema](https://go.microsoft.com/fwlink/?linkid=2144621) especificamente estruturadas para a caça avançada.
+A procura avançada baseia-se [na linguagem de consulta Kusto.](https://go.microsoft.com/fwlink/?linkid=2144620) Pode utilizar a sintaxe e os operadores Kusto para [](https://go.microsoft.com/fwlink/?linkid=2144621) construir consultas que localizem informações no esquema especificamente estruturadas para procura avançada.
 
-Para saber mais, consulte [Saiba a linguagem de consulta de caça avançada.](https://go.microsoft.com/fwlink/?linkid=2144518)
+Para saber mais, consulte [Saber o idioma avançado de consultas de procura.](https://go.microsoft.com/fwlink/?linkid=2144518)

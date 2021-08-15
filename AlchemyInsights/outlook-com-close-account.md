@@ -1,5 +1,5 @@
 ---
-title: Feche a sua conta de Outlook.com
+title: Fechar a sua Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,20 +14,20 @@ ms.custom:
 - "206"
 - "8000005"
 ms.assetid: ef3475a8-e898-44d8-ae1d-82cdbf4454e8
-ms.openlocfilehash: c38a1d4dab108fee74262aa908fc237b29f1c03b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 30919543e0e1c80c1bc97fc808bef2bb3029e2380fcd5f66f2995aedc4e4282f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024865"
 ---
-# <a name="close-your-outlookcom-account"></a>Feche a sua conta de Outlook.com
+# <a name="close-your-outlookcom-account"></a>Fechar a sua Outlook.com
 
-1. Vá ao Fechar a sua página [de conta.](https://go.microsoft.com/fwlink/p/?linkid=845493)
-2. Siga as instruções na página para se certificar de que a sua conta está pronta para ser fechada e selecione **Seguinte**.
-3. Leia a lista e verifique as caixas para reconhecer que leu cada item.
-4. Na lista de pontos de entrega de **razão,** escolha a razão pela qual está a fechar a conta.
-5. Selecione **Mark conta para o encerramento**.
+1. Vá para a [página Fechar a sua](https://go.microsoft.com/fwlink/p/?linkid=845493) conta.
+2. Siga as instruções na página para se certificar de que a sua conta está pronta para ser fechada e selecione **Seguinte.**
+3. Leia a lista e marque as caixas para confirmar que leu cada item.
+4. Na lista **do botão Selecionar** um motivo, selecione o motivo pelo qual está a fechar a conta.
+5. **Selecione Marcar conta para fecho**.
 
-Para saber mais, consulte [a sua conta de Outlook.com.](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy)
+Para saber mais, consulte [Fechar a sua Outlook.com.](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy)
   

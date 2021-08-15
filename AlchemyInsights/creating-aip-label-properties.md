@@ -1,5 +1,5 @@
 ---
-title: Criação de políticas de etiquetas AIP
+title: Criar políticas de etiquetas AIP
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,31 +10,31 @@ localization_priority: Normal
 ms.custom:
 - "4539"
 - "9002266"
-ms.openlocfilehash: bef170d8e38dcc91094b95604aeb1968d5c57fca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d24696b63663c69b22c783072141af62ecf124dba7b49bca827381f39f88640e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732186"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031993"
 ---
-# <a name="creating-aip-label-policies"></a>Criação de políticas de etiquetas AIP
+# <a name="creating-aip-label-policies"></a>Criar políticas de etiquetas AIP
 
-As etiquetas Azure Information Protection (AIP) podem ser utilizadas com toda a gama de dados que uma organização normalmente cria e armazena, desde a classificação mais baixa dos dados pessoais, até à classificação mais elevada de dados altamente confidenciais. As Políticas de Proteção da Informação Azure aplicam-se ao cliente clássico da Azure Information Protection (AIP) e não ao [cliente de rotulagem unificada da AIP.](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) Pode configurar vários elementos numa política AIP, incluindo opções como:
+As etiquetas do Azure Information Protection (AIP) podem ser utilizadas com o intervalo de dados completo que uma organização normalmente cria e armazena, desde a classificação mais baixa de dados pessoais, até à classificação mais elevada de dados altamente confidenciais. As Políticas do Azure Information Protection aplicam-se ao cliente clássico do Azure Information Protection(AIP) e não ao cliente [de Etiquetagem Unificada AIP.](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) Pode configurar múltiplos elementos numa política AIP, incluindo opções como:
 
-- Opção para a qual o rótulo permitirá aos administradores ou utilizador classificar e proteger documentos e e-mails (opcional)
-- Opção de impor classificação quando os utilizadores guardam documentos e enviam e-mail
-- Opção de rotular automaticamente uma mensagem de e-mail, com base nos seus anexos.
-- Opção de controlar se a barra de proteção de informação é apresentada em aplicações do Office
+- Opção para a qual etiqueta permitirá aos administradores ou utilizadores classificar e proteger (opcional) documentos e e-mails
+- Opção para impor a classificação quando os utilizadores guardam documentos e enviam e-mails
+- Opção para etiquetar automaticamente uma mensagem de e-mail com base nos respetivos anexos.
+- Opção para controlar se a barra de Proteção de Informações é apresentada nas aplicações Office dados
 
-Para opções adicionais e informações sobre as políticas de proteção da informação do Azure, consulte: [Visão geral da política de proteção de informação Azure](https://docs.microsoft.com/azure/information-protection/overview-policy).  
+Para obter opções e informações adicionais sobre as políticas do Azure Information Protection, consulte: Visão geral da política do [Azure Information Protection.](https://docs.microsoft.com/azure/information-protection/overview-policy)  
 
-Para outros recursos úteis no que diz respeito às políticas AIP, consulte:
+Para outros recursos úteis sobre as políticas AIP, consulte:
 
-- [Tutorial: Configurar as definições da política de proteção da informação do Azure e criar um novo rótulo](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
-- [Configurar a política de proteção da informação do Azure](https://docs.microsoft.com/azure/information-protection/configure-policy)  
-- [Criar e configurar rótulos de sensibilidade e suas políticas](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
-- [Guias para cenários comuns que utilizam a Proteção de Informação do Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
-- [Rever documentação de proteção de informação do Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
-- [Requisitos para a proteção da informação do Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
-- [Tutorial de início rápido para proteção de informação do Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
-- [Baixar cliente da Azure Information Protection](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Tutorial: Configurar as definições da política do Azure Information Protection e criar uma nova etiqueta](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
+- [Configurar a política do Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy)  
+- [Criar e configurar etiquetas de sensibilidade e as suas políticas](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
+- [Manuais de instruções para cenários comuns que envolvem o Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Rever a documentação do Azure Information Protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
+- [Requisitos do Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
+- [Tutorial de início rápido para o Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
+- [Transferir cliente do Azure Information Protection](https://www.microsoft.com/download/details.aspx?id=53018)

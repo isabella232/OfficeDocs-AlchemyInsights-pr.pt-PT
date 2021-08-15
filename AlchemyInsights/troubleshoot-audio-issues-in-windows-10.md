@@ -1,5 +1,5 @@
 ---
-title: Problemas de áudio no Windows 10
+title: Resolução de problemas de áudio no Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,55 +12,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 81a7f77bd6565c52ec9d752934a872e59cc11e89b90a646d17c3549d72e8a69f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833302"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039437"
 ---
-# <a name="troubleshooting-audio-issues-in-windows-10"></a>Problemas de resolução de problemas de áudio no Windows 10
+# <a name="troubleshooting-audio-issues-in-windows-10"></a>Resolução de problemas de áudio no Windows 10
 
-**Executar o resolução de problemas de áudio**
+**Executar a resolução de problemas de áudio**
 
-1.  Abra as [definições de resolução de problemas](ms-settings:troubleshoot).
+1.  Abra [as definições de Remoção de Problemas.](ms-settings:troubleshoot)
 
-2.  Selecione **Reproduzir áudio**  >  **Executar o resolução de problemas**.
+2.  **Selecione**  >  **Reprodução de Áudio Execute a resolução de problemas**.
 
-**Desafine o dispositivo predefinido**
+**Definir o dispositivo predefinido**
 
-Se estiver a ligar-se a um dispositivo de áudio utilizando USB ou HDMI, poderá ter de definir esse dispositivo como padrão:
+Se estiver a estabelecer ligação a um dispositivo de áudio através de USB ou HDMI, poderá ter de definir esse dispositivo como predefinido:
 
-1. Abra **o Start**  >  **Sound** e, em seguida, selecione sons do sistema De **som** ou **de alteração** da lista de resultados.
+1. Abra **Iniciar Som**  >  **e,** em seguida, selecione **Som** ou **Alterar sons do** sistema na lista de resultados.
 
-2.  No **separador Reprodução,** selecione um dispositivo, selecione **'Padrão'** e, em seguida, selecione **OK**.
+2.  No separador **Reproduzir, selecione** um dispositivo, selecione **Predefinição** e, em seguida, selecione **OK.**
 
-**Verifique os cabos, volume, altifalantes e auscultadores**
+**Verificar cabos, volume, altifalantes e auscultadores com microfone**
 
-1. Verifique se os cabos de altifalantes e auscultadores estão ligados à tomada correta.
+1. Verifique se há cabos soltos nas ligações do altifalante e dos auscultadores e certifique-se de que estão ligadas à tomada correta.
 
-2. Verifique os níveis de potência e volume e tente aumentar todos os controlos de volume.
+2. Verifique os níveis de volume e energia e experimente aumentar todos os controlos de volume.
 
-3. Alguns altifalantes e aplicações têm os seus próprios controlos de volume; talvez tenha que verificar todos para ter certeza de que estão nos níveis certos.
+3. Alguns altifalantes e aplicações têm controlos de volume próprios; poderá ter de verificá-los todos para se certificar de que estão nos níveis certos.
 
-4. Tente ligar utilizando uma porta USB diferente.
+4. Experimente ligar utilizando uma porta USB diferente.
 
 **Nota:** Lembre-se de que os altifalantes podem não funcionar quando os auscultadores estiverem ligados.
 
-**Verifique o gestor do dispositivo**
+**Verificar o Gestor de Dispositivos**
 
-Para se certificar de que os condutores estão atualizados:
+Para se certificar de que os controldores estão sempre actualizados:
 
-1. Selecione **Iniciar**, digite **o Gestor de Dispositivos** e, em seguida, selecione o Gestor de **Dispositivos** na lista de resultados.
+1. **Selecione Iniciar**, escreva **Gestor de Dispositivos** e, em seguida, **selecione** Gestor de Dispositivos na lista de resultados.
 
-2. Em **Controladores de Som, vídeo e jogo**, selecione a sua placa de som, abra-a, selecione o **separador Condutor** e selecione 'Atualizar Driver' ( **'Atualizar' (')**
+2. Em **Controladores de som, vídeo** e jogos , selecione  a placa de som, abra-a, selecione o separador Controlador e selecione **Atualizar Controlador**.
 
-**Nota:** Se o Windows não encontrar um novo controlador, procure um no site do fabricante do dispositivo e siga as suas instruções.
+**Nota:** Windows não encontrar um novo controlador, procure um no site do fabricante do dispositivo e siga as instruções.
 
 **Reinstalar o controlador**
 
-Se não conseguir atualizar através do Device Manager ou encontrar um novo controlador no site do fabricante, experimente estes passos:
+Se não conseguir atualizar através do Gestor de Dispositivos ou encontrar um novo controlador no site do fabricante, experimente estes passos:
 
-1. No Gestor de Dispositivos, clique à direita (ou prima e retenha) o controlador de áudio e selecione **Desinstalar**. Reinicie o seu dispositivo e o Windows tentará reinstalar o controlador.
+1. No Gestor de Dispositivos, clique com o botão direito do rato (ou prima sem premir) no controlador de áudio e **selecione Desinstalar**. Reinicie o seu dispositivo Windows tentará reinstalar o controlador.
 
-2. Se a reinstalação do controlador não funcionar, tente utilizar o controlador de áudio genérico que vem com o Windows. No Gestor de Dispositivos, clique com o botão direito (ou prima e retenha) o seu controlador de áudio > **atualizar o software do controlador**  >  **Navegue no meu computador para obter software** do condutor  >  **Deixe-me escolher a partir de uma lista de controladores de dispositivos no meu computador**, selecione Dispositivo de Áudio de Alta **Definição,** selecione **Seguinte**, e siga as instruções para o instalar.
+2. Se a reinstalação do controlador não funcionar, experimente utilizar o controlador de áudio genérico do Windows. No Gestor de Dispositivos, clique com o botão direito do rato (ou prima sem premir) no controlador de áudio > Atualizar **software** do controlador Procure software do controlador no meu computador Permita-me escolher a partir de uma lista de controldores de dispositivos no meu computador , selecione Dispositivo de Áudio de Alta Definição , selecione Seguinte e siga as instruções para  >    >  **instalá-lo.**  

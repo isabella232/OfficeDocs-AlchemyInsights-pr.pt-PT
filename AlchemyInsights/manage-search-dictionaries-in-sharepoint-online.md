@@ -12,16 +12,16 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 5fcb235bb0a72a3c3c0c6909fdb835127885d73f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff6764bd770bbb74e857c6264cddceecee9c96c888bb983292398522f5e90a5c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777910"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976624"
 ---
 # <a name="manage-search-dictionaries"></a>Gerir dicionários de pesquisa
 
-Os dicionários de pesquisa no SharePoint online são geridos na SharePoint Online Term Store, que está localizada no novo centro de administração sharePoint. Para obter mais informações sobre como adicionar ou editar dicionários de pesquisa, consulte [Gerir dicionários de pesquisa](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
+Os dicionários de pesquisa no SharePoint Online são geridos no SharePoint Online Term Store que se encontra no novo centro de administração do SharePoint. Para obter mais informações sobre como adicionar ou editar dicionários de pesquisa, consulte [Gerir dicionários de pesquisa.](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)
   
-Se não estiver a ver um conjunto de termos de dicionário de pesquisa aparecer na loja de termos, por favor, aguarde 24 horas. Se o dicionário ainda não aparecer após 24 horas, por favor, faça o registo de um bilhete de apoio.
+Se não estiver a ver um conjunto de termos do dicionário de pesquisa apresentado no loja de termos, aguarde 24 horas. Se o dicionário continuar a não ser apresentado após 24 horas, retoque um bilhete de suporte.
   

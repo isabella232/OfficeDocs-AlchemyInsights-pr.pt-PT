@@ -1,5 +1,5 @@
 ---
-title: Resolução de problemas Único sinal para dispositivos de ad AD Azure
+title: Remoção de Um Só-sinal nos Dispositivos Associados ao Azure AD
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003246"
 - "9327"
-ms.openlocfilehash: d11c24719eb2db9e9fd87c158c80cec5cb75b946
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 872333e13bb51b3a22431154627ad561f6db88c681c9eeee523fdd09e58c0371
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037329"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039257"
 ---
-# <a name="troubleshoot-single-sign-on-for-azure-ad-joined-devices"></a>Resolução de problemas Único sinal para dispositivos de ad AD Azure
+# <a name="troubleshoot-single-sign-on-for-azure-ad-joined-devices"></a>Remoção de Um Só-sinal nos Dispositivos Associados ao Azure AD
 
-Se tiver um ambiente de Ative Directory (AD) no local e quiser juntar os seus computadores ligados ao domínio AD ao Azure AD, pode fazê-lo fazendo a ad AD híbrida. [Como: Planeie a sua implementação híbrida Azure Ative Directory](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) fornece-lhe os passos relacionados para implementar um AD híbrido Azure no seu ambiente.
+Se tiver um ambiente do Active Directory (AD) no local e pretender associar os seus computadores associados ao domínio do Azure AD ao Azure AD, pode fazê-lo através da associação híbrida do Azure AD. [Como: Planear](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) a sua implementação Azure Active Directory associação híbrida fornece-lhe os passos relacionados para implementar uma associação híbrida do Azure AD no seu ambiente.
 
-Para obter mais informações, consulte [dispositivos de ad Configure Azure Ad para Single-Sign No uso do Windows Hello for Business](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base).
+Para obter mais informações, consulte [Configurar dispositivos associados ao Azure AD para dispositivos associados ao Azure AD Single-Sign No Windows Hello para Empresas.](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base)
 
-**Problemas primários de Token (PRT)**
+**Problemas principais do Token de Atualização (PRT)**
 
-Um Token De Atualização Primária (PRT) é um artefacto chave da autenticação AD do Azure no Windows 10, Windows Server 2016 e versões posteriores, iOS e dispositivos Android. Trata-se de um JSON Web Token (JWT) especialmente emitido para os corretores de token da primeira parte da Microsoft para permitir um único sign-on (SSO) em todas as aplicações utilizadas nesses dispositivos. Para obter mais informações sobre como um PRT é emitido, usado e protegido em dispositivos Windows 10, veja [o que é um Token de Atualização Primária?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token)
+Um Token de Atualização Principal (PRT) é um artefacto chave da autenticação do Azure AD em Windows 10, Windows Server 2016 e versões posteriores, iOS e dispositivos Android. É um JSON Web Token (JWT) emitido especialmente para interrompidos por tokens de primeiras partes da Microsoft para ativar o início de sessão único (SSO) nas aplicações utilizadas nesses dispositivos. Para obter detalhes sobre como um PRT é emitido, utilizado e protegido em dispositivos Windows 10, consulte O que é um Token de [Atualização Principal?.](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token)
 
-**WamDefaultSet: SIM e AzureADPrt: SIM**
+**WamDefaultSet: YES e AzureADPrt: YES**
 
-Estes campos indicam se o utilizador autenticou com sucesso a Azure AD ao iniciar sessão no dispositivo. Se os valores forem **NÃO,** pode ser devido a:
+Estes campos indicam se o utilizador exigiu com êxito a autenticação no Azure AD ao entrar no dispositivo. Se os valores são **NÃO,** pode ser devido a:
 
-- Chave de armazenamento estragada no TPM associado ao dispositivo no momento do registo (verifique o KeySignTest enquanto está em execução elevado)
-- ID de login alternativo
-- HTTP Proxy não encontrado
+- Chave de armazenamento incorreta na TPM associada ao dispositivo após o registo (verifique a chave TesteTesteDa Chave enquanto está a ser executada)
+- ID de Início de Sessão Alternativo
+- Proxy HTTP não encontrado
 
-Para resolver os problemas utilizando o comando dsregcmd, consulte o [estado SSO](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-device-dsregcmd#sso-state).
+Para remoção de problemas de dispositivos com o comando dsregcmd, consulte [Estado do SSO.](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-device-dsregcmd#sso-state)

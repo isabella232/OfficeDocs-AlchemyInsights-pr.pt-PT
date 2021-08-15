@@ -1,5 +1,5 @@
 ---
-title: Gerir bing maps para a sua organização
+title: Gerir Mapas Bing para a sua organização
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9161"
-ms.openlocfilehash: c90afb1ea6664e8ef402981e70fe7c2bc8f07108
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c1050208403f708db8ad557f70d7b23d5ea0f44ae9f2da76b37ead2b9b90436e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751041"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976696"
 ---
-# <a name="manage-bing-maps-for-your-organization"></a>Gerir bing maps para a sua organização
+# <a name="manage-bing-maps-for-your-organization"></a>Gerir Mapas Bing para a sua organização
 
-Depois de ligar o Bing Maps em **conteúdo incorporado** no centro de administração da Plataforma De Energia, os utilizadores verão um cliente no Bing Maps quando visualizarem contactos, leads ou contas.
+Depois de ativor o  Mapas Bing em Conteúdo incorporado no centro de administração da Plataforma Power, os utilizadores irão ver um cliente no Mapas Bing quando visualizarem contactos, clientes cliente ou contas.
 
-Para saber mais, consulte [Manage Bing Maps para a sua organização.](https://go.microsoft.com/fwlink/?linkid=2152757)
+Para saber mais, consulte [Gerir Mapas Bing para a sua organização.](https://go.microsoft.com/fwlink/?linkid=2152757)

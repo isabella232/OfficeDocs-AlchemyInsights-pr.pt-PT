@@ -1,5 +1,5 @@
 ---
-title: Importar favoritos de um navegador que não seja o Internet Explorer, Google Chrome ou Mozilla Firefox
+title: Importar favoritos de um browser que não seja o Internet Explorer, o Google Chrome ou o Mozilla Firefox
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9450"
 - "9005491"
-ms.openlocfilehash: 48e6d5ac22278544587d167f8bdd9957079f85d8
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
-ms.translationtype: MT
+ms.openlocfilehash: 1a40e87d293e8f48650f3a6b8933c36cadd45b2290e3a074a499c964a274d59b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51492145"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014947"
 ---
-# <a name="import-favorites-from-a-browser-other-than-internet-explorer-google-chrome-or-mozilla-firefox"></a>Importar favoritos de um navegador que não seja o Internet Explorer, Google Chrome ou Mozilla Firefox
+# <a name="import-favorites-from-a-browser-other-than-internet-explorer-google-chrome-or-mozilla-firefox"></a>Importar favoritos de um browser que não seja o Internet Explorer, o Google Chrome ou o Mozilla Firefox
 
-1. No navegador a partir do qual pretende importar os seus favoritos, guarde os favoritos num ficheiro HTML.
+1. No browser a partir do qual pretende importar os seus favoritos, guarde os favoritos num ficheiro HTML.
 
-1. Abra o Microsoft Edge e, em seguida, **selecione Definições e muito mais ...**  >  **Configurações**  >  **Importar dados do navegador.**
+1. Abra o Microsoft Edge e, em seguida, **selecione Definições e muito mais...**  >  **Definições**  >  **Importar dados do browser.**
 
-1. A partir **do menu Import from** menu, selecione **Favorites ou bookmarks HTML file**  >  **Choose**, e, em seguida, selecione o ficheiro HTML com os seus favoritos.
+1. No menu **Importar de,** selecione Favoritos ou marcadores Ficheiro **HTML** Selecione ficheiro e, em seguida, selecione o ficheiro  >  HTML com os seus favoritos.
 
-1. No **All done!** caixa de diálogo, selecione **Feito**.
+1. Em **Tudo feito!** , selecione **Feito**.
 
-Os favoritos importados devem estar numa pasta, por exemplo, importadas ou outras favoritas, no bar Favoritos. Pode mantê-los onde estão ou movê-los para uma pasta diferente.
+Os favoritos importados devem estar numa pasta, por exemplo, Importado ou Outros favoritos, na barra de Favoritos. Pode mantê-las onde estão ou movê-las para uma pasta diferente.

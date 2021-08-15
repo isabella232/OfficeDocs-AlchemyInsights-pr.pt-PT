@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500001"
 - "430"
-ms.openlocfilehash: 171354cb182a0692fd42a0b9a4245dfd2b1bf561
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a4c0b38762df505f9c59b1fd2a4ce380530b4598c4f8635f7c30c7fe277f56a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827479"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990934"
 ---
 # <a name="update-my-credit-card-information"></a>Atualizar as minhas informações de cartão de crédito
 
-Pode adicionar/remover um método de pagamento do **centro de administração Microsoft 365**. Se o seu método de pagamento não estiver associado a nenhuma subscrição, pode eliminá-lo de imediato. Se estiver associado a uma subscrição, consulte os [métodos de pagamento gerir](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Pode Adicionar/Remover um método de pagamento **da** centro de administração do Microsoft 365 . Se o seu método de pagamento não estiver associado a nenhuma subscrição, pode eliminá-lo de imediato. Se estiver associada a uma subscrição, consulte Gerir [métodos de pagamento.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 1. Aceda a **Faturação > Faturas e pagamentos > [Métodos de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
 

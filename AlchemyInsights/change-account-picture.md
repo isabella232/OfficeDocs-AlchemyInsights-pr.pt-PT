@@ -1,5 +1,5 @@
 ---
-title: Alterar imagem de conta
+title: Alterar imagem da conta
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: 3642697d27a7e20c8c131f513a3ef80c9223b4d2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 728a96a1ebfa3e064128a29d30971736ea2f6236ecf1c9152b0a542efdc032e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819271"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018773"
 ---
-# <a name="change-account-picture"></a>Alterar imagem de conta
+# <a name="change-account-picture"></a>Alterar imagem da conta
 
-Se utilizar um nome de utilizador e uma palavra-passe para iniciar scontabilidade no Windows 10, está a utilizar uma conta local. **Para alterar a imagem da sua conta local:**
+Se utilizar um nome de utilizador e uma palavra-passe para entrar no Windows 10, está a utilizar uma conta local. **Para alterar a imagem da sua conta local:**
 
-1. Ir para **iniciar**  >  **definições**  >  **contas**  >  **A sua informação**.
-2. In **Create your picture,** clique **em Procurar por um**. Ou, se o seu dispositivo tiver uma câmara, clique em **Camera** e tire uma selfie. 
-    **Nota:** O Windows lembra-se das últimas três fotografias que utilizou. Clique na imagem na página de informações para mudar para aquela.
+1. Vá para **Iniciar**  >  **Definições**  >  **Contas**  >  **As suas informações**.
+2. Em **Criar a sua** imagem, clique em Procurar **uma**. Em vez disso, se o seu dispositivo tiver uma câmara, clique **em Câmara** e tire uma selfie. 
+    **Nota:** Windows me lembrou das três últimas imagens que tenha utilizado. Clique na imagem na página As suas informações para mudar para essa imagem.
 
-Se utilizar um endereço de e-mail e uma palavra-passe para iniciar scontabilidade, está a utilizar uma conta Microsoft. Para alterar a sua imagem de conta Microsoft:
+Se utilizar um endereço de e-mail e palavra-passe para entrar, está a utilizar uma conta Microsoft. Para alterar a imagem da sua conta Microsoft:
 
-1. Inscreva-se na **página de informações** da Sua conta Microsoft.
-2. Clique **em Adicionar imagem** ou alterar a **imagem** e, em seguida, siga as instruções.
+1. Inscreva-se **na página As suas informações** com a sua conta Microsoft.
+2. Clique **em Adicionar imagem** ou Alterar imagem **e,** em seguida, siga as instruções.
 
-[Obtenha mais ajuda na configuração e gestão da sua conta Microsoft.](https://support.microsoft.com/products/microsoft-account?category=manage-account)
+[Obter mais ajuda para configurar e gerir a sua conta Microsoft](https://support.microsoft.com/products/microsoft-account?category=manage-account).

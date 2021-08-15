@@ -1,5 +1,5 @@
 ---
-title: Adicionar ou atualizar IVA/ID fiscal - Legacy WD + MCA CL _ Passos recomendados
+title: Adicionar ou atualizar o ID de IVA/Imposto - Passos legados do WD + MCA CL _ Recomendações
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7291"
-ms.openlocfilehash: ba97ec48492b1777a12bf2b27a68d411690eab76
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 172453664d2e950634c46977b8c543a054afbf6dfbed1356b7b13416ecf80b22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953700"
 ---
-# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>Adicionar ou atualizar ID IVA/Imposto - Legacy WD + MCA CL - Etapas recomendadas
+# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>Adicionar ou atualizar O ID de IVA/Imposto - WD Legado + MCA CL - Passos recomendados
 
-O ID do Imposto é utilizado para o cálculo da isenção de impostos e aparece na sua fatura.
+O ID de Imposto é utilizado para cálculo de isenção de impostos e aparece na sua fatura.
 
-1. Aceda à página [De Gestão de Custos + Faturação.](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) 
-2. Clique em **Propriedades** do lado esquerdo. 
-3. Clique **em Gerir IDs de imposto** a partir do painel de **identificação fiscal** e, em seguida, insira o seu novo ID fiscal.
-4. Clique **em Atualização**. 
+1. Vá para a página [Gestão de Custos + Faturação.](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) 
+2. Clique **em** Propriedades a partir do lado esquerdo. 
+3. Clique **em Gerir IDs Fiscais** a partir **do painel IDs** Fiscais e, em seguida, introduza o seu novo ID Fiscal.
+4. Clique em **Atualizar**. 
 
-Se não vir o painel **de identificação fiscal,** isso significa que os IDs de impostos ainda não são cobrados para a sua região, ou atualizar IDs de impostos no portal não é suportado para a sua conta.
+Se não vir o painel IDs Fiscais, isso significa que os **IDs** Fiscais ainda não são cobrados na sua região ou que a atualização de IDs Fiscais no portal não é suportada para a sua conta.
 
 **Documentos recomendados**
 
-[Países/regiões e moedas apoiados](https://azure.microsoft.com/pricing/faq/)
+[Países/regiões e moedas suportados](https://azure.microsoft.com/pricing/faq/)
 

@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: f5494dec1960daea144fb2e2ddd0413689e03ab3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 03a866ac063d6136a5069b22216a9f3bf43a1202f9020f16ac5edb7cf89ce9ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723329"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962106"
 ---
-# <a name="skype-icon-missing"></a>Ícone skype faltando
+# <a name="skype-icon-missing"></a>Skype ícone em falta
 
-Removemos temporariamente o ícone Skype do Outlook.com como parte de uma atualização de design e atualização de funcionalidades que estamos entusiasmados por ser lançados. Agradecemos a sua paciência enquanto preparamos uma nova e melhorada experiência para si.
+Removemos temporariamente o ícone Skype do Outlook.com como parte de uma atualização de funcionalidades e de atualizações de funcionalidades. Agradecemos a sua paciência enquanto preparamos uma experiência nova e melhorada para si.
 
-Você ainda pode usar o Skype através do seu navegador [em web.skype.com](https://web.skype.com/).
+Ainda pode utilizar o Skype seu browser na [web.skype.com](https://web.skype.com/).

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teams - Guest Access
+title: Microsoft Teams - Acesso de Convidados
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: ee38dcb5f40ea16cea1b84b9b16e86b0f52f2d89
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 2c78fec14d43c5cbf6aebbc889d606eb2f6c4c64af85997f523d06872c911a0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452239"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012319"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft Teams - Guest Access
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams - Acesso de Convidados
 
-Se precisar de ajuda para comunicar com utilizadores fora da sua Organização em Equipas, tem de decidir se utiliza o Acesso ao [Hóspede ou o Acesso Externo (Federação)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)ou se pode utilizar ambos.
+Se precisar de ajuda para comunicar com utilizadores fora da sua Organização no Teams, tem de decidir se deve utilizar o Acesso de Convidado ou o Acesso Externo [(Federação)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)ou pode utilizar ambos.
 
-Certifique-se de [rever as diferenças](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) para entender as funcionalidades disponíveis para cada um.  Por exemplo, o acesso externo (federação) permite comunicações 1:1, como Chat e Presença.  No entanto, os utilizadores federados não podem participar na colaboração das Equipas.  Se quiser que um utilizador externo participe e participe em Teams Channel Conversations ou Share Files, terá de ligar o Acesso ao Hóspede.
+Certifique-se de [que revê as diferenças](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) para compreender as funcionalidades disponíveis para cada um.  Por exemplo, o Acesso externo (federação) permite comunicações 1:1, como o Chat e a Presença.  No entanto, os utilizadores federados não podem Teams colaboração.  Se quiser que um utilizador externo participe e participe em conversações no Teams de Canal ou Partilhar Ficheiros, terá de ativar o Acesso de Convidados.
 
-**Opção 1: Ligue o acesso ao hóspede** No Centro de Administração de Equipas, vá a [Org Wide Settings > Acesso ao Hóspede](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) e ligue "Permitir o acesso dos hóspedes em equipas".  Para um inquilino com todas as outras definições padrão, isto deve ser tudo o que você precisa fazer.  Para personalizar a configuração do Acesso ao Hóspede, certifique-se de que segue todos os passos na [Lista de Verificação de Acesso](https://docs.microsoft.com/microsoftteams/guest-access-checklist)ao Hóspede. Uma vez terminado completamente, terá de [esperar até 24 horas para](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) que as definições produzam efeitos.
+**Opção 1: a opção Acesso de Convidado** No Centro de Teams de Administração, [](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) aceda a Acesso de Definições > de Convidados da Definições > ativou "Permitir Acesso de Convidado no Teams".  Para um inquilino com todas as outras predefinições, isto deve ser tudo o que precisa de fazer.  Para personalizar a sua configuração de Acesso de Convidado, certifique-se de que segue todos os passos na Lista de Verificação [de Acesso de Convidado.](https://docs.microsoft.com/microsoftteams/guest-access-checklist) Uma vez terminado, terá de aguardar até [24](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) horas para que as definições entrem em vigor.
 
-Se está confiante de que completou todos os passos na Lista de Verificação, e já se passaram mais de 24 horas, vá em frente e tente [adicionar um Convidado à sua equipa.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
+Se tiver a certeza de que concluiu todos os passos na Lista de Verificação e já passaram mais de 24 horas, experimente adicionar um Convidado à [sua Equipa.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
 
-Para obter mais informações, incluindo vídeos de como fazer, consulte [o acesso do Hóspede em Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
+Para obter mais informações, incluindo vídeos de formação, consulte [Acesso de convidado no Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
 
-**Opção 2: Ligar o acesso externo (Federação)** Se também quiser ligar o Acesso Externo (Federação), no centro de Administração de Equipas vai ao Centro de Administração de Equipas para o [Org-wide Definições > Acesso Externo](https://admin.teams.microsoft.com/company-wide-settings/external-communications) e liga "Os utilizadores podem comunicar com o Skype para utilizadores de empresas e equipas", e depois seguir todos os passos em [Deixar os utilizadores das suas Equipas conversar e comunicar com os utilizadores de outra organização.](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)
+**Opção 2: a opção Acesso Externo (Federação)** Se também quiser ativo o Acesso Externo (Federação), no Centro de administração do Teams aceda a Acesso Externo [do Definições >](https://admin.teams.microsoft.com/company-wide-settings/external-communications) ao nível da organização, ativo "Os utilizadores podem comunicar com utilizadores do Skype para Empresas e Teams" e, em seguida, siga todos os passos em Permitir que os seus utilizadores do [Teams conversem](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)e comuniquem com utilizadores de outra organização.

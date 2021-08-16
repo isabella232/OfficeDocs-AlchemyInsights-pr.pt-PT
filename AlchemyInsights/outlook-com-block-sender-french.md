@@ -1,5 +1,5 @@
 ---
-title: Outlook.com remetente de blocos - FRANCÊS
+title: Outlook.com bloquear remetente - FRANCÊS
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.custom:
 - "1156"
 - "1157"
 - "8000076"
-ms.openlocfilehash: c3a8cb3bb8ab550d9270135d2abf89fe32210ea1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 860854242574a0d8235d09c4b409b1f3e5e8dc7dc80c5e392f5fdc3521e3431c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753522"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011239"
 ---
 # <a name="bloquer-ou-dbloquer-expditeurs-dans-outlookcom"></a>Bloquer ou débloquer expéditeurs dans Outlook.com
 
-Si vous recevez du courrier indésirable, vous pouvez bloquer les adresses de messagerie et des domaines que vous ne voulez pas recevoir des messages. Ajouter une adresse de messagerie ou un domaine à votre liste des expéditeurs bloqués pour déplacer ces mensagens directement vers votre dossier courrier indésirable.
+Si vous recevez du courrier indésirable, vous pouvez bloquer les adresses de messagerie et des domaines que vous ne voulez pas recevoir des messages. Ajouter une adresse de messagerie ou un domaine à votre liste des expéditeurs bloqués pour déplacer ces messages directement vers votre verificação courrier indésirable.
 
 1. Accédez à **Paramètres**  >  **Afficher tous les paramètres d'Outlook**  >  **Courrier indésirable**.
 1. Sous **Domaines et expéditeurs bloqués** sélectionnez **Ajouter**.

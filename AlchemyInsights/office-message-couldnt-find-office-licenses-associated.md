@@ -1,5 +1,5 @@
 ---
-title: Mensagem de apps microsoft 365 - Não consegui encontrar licenças do Office associadas
+title: Microsoft 365 mensagem de aplicações – Não foi Office licenças associadas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 16cc9d8d2ede108ea8301f9971f84ac7b6bafaabab8e26edefe15acf66783339
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836218"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064959"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Mensagem de apps microsoft 365 - Não consegui encontrar licenças do Office associadas
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 mensagem de aplicações – Não foi Office licenças associadas
 
 Para corrigir este erro, experimente o seguinte:
 
@@ -39,10 +39,10 @@ Se o problema persistir, experimente o seguinte:
 
 - Reponha o estado de ativação do Office. Consulte [Reset Microsoft 365 Apps for enterprise activation state](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) (Repor as Aplicações do Microsoft 365 para empresas).
 
-- Verifique a sua firewall, software antivírus e configurações de procuração para confirmar que não estão a bloquear o acesso das aplicações da Microsoft 365 à Internet. 
+- Verifique a sua firewall, software antivírus e definições de proxy para confirmar que não estão a bloquear Microsoft 365 acesso de aplicações à Internet. 
 
 Para soluções adicionais de resolução de problemas, consulte:
 
 [Erros de Produto Não Licenciado e de ativação no Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[Gamas de endereços Microsoft 365 URLs e IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[Microsoft 365 Intervalos de URLs e endereços IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

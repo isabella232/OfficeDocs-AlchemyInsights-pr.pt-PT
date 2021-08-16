@@ -1,5 +1,5 @@
 ---
-title: Ligar e desligar o filtro de cores
+title: Ação e desligação do filtro de cor
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,50 +12,50 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005665"
 - "9926"
-ms.openlocfilehash: bebf23f5a592c621e163de97d6c439eb7c3b14e1
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
-ms.translationtype: MT
+ms.openlocfilehash: 69edaed056670a3d67cc0aba982b9d2528dbae936b209022733205efcf421062
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51405157"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020599"
 ---
-# <a name="turn-on-and-off-color-filter"></a>Ligar e desligar o filtro de cores
+# <a name="turn-on-and-off-color-filter"></a>Ação e desligação do filtro de cor
 
-Os filtros de cor alteram a paleta de cores no ecrã e podem ajudá-lo a distinguir entre coisas que diferem apenas pela cor.
+Os filtros de cor alteram a paleta de cores no ecrã e podem ajudá-lo a distinguir entre as coisas que diferem apenas pela cor.
 
-**Torne as fotos e cores mais fáceis de ver aplicando um filtro de cor no seu ecrã**
+**Tornar as fotografias e as cores mais fáceis de ver ao aplicar um filtro de cor ao ecrã**
 
-- Ligue e desligue os filtros de cores do teclado premindo a tecla do logótipo do Windows + Ctrl + C. 
+- Ativar e desligá-los a partir do teclado ao premir a tecla do Windows do logótipo + Ctrl + C. 
 
 OU
 
-- Vá a **Definições**  >  **Facilidade de Acesso**  >  **Filtros** de Cor , e, em seguida, selecione vários filtros de cores para ver melhor os elementos do ecrã, ou selecione um filtro de colorblindness para tornar as cores mais distintas.  (O filtro predefinido é grayscale, o que faz com que tudo no ecrã apareça a preto e branco.)
+- Aceda **Definições** Filtros de Cor de Facilidade de Acesso e, em seguida, selecione vários filtros de cor para ver melhor os elementos do ecrã ou selecione um filtro de daltinidade para tornar as cores mais  >    >  distintas.  (O filtro predefinido é Tons de Cinzento, que faz com que tudo no ecrã apareça a preto e branco.)
 
-**Tornar o texto e as aplicações mais fáceis de ver usando cores mais distintas**  
+**Tornar o texto e as aplicações mais fáceis de ver utilizando cores mais distintas**  
 
-Selecione o botão **Iniciar** > **Definições**  >  **Facilidade de acesso** Alto  >  **contraste**. Ligue o alto contraste e experimente vários temas para encontrar o que funciona melhor para si.
+**Selecione o** botão Iniciar > **Definições** Facilidade  >  **de Acesso** Alto  >  **contraste**. Ate a opção alto contraste e experimente vários temas para encontrar o que melhor se adeúde a si.
 
-## <a name="my-screen-is-unexpectedly-black-and-white"></a>O meu ecrã é inesperadamente preto e branco
+## <a name="my-screen-is-unexpectedly-black-and-white"></a>O meu ecrã fica inesperadamente a preto e branco
 
-Algumas funcionalidades do Windows podem alterar as cores de várias coisas no seu ecrã para variações de preto e branco.
+Algumas Windows funcionalidades podem alterar as cores de vários elementos no ecrã para variações de preto e branco.
 
-Se tudo o que vê no Windows for preto e branco, verifique as definições de Facilidade de Acesso:
+Se tudo o que vê Windows preto e branco, verifique as suas definições de Facilidade de Acesso:
 
-Se vir uma tela preta com texto branco e algumas cores brilhantes:  
+Se vir um ecrã preto com texto branco e algumas cores vivas:  
 
-1. Ir para **Definições**  >  **Facilidade de Acesso**.  
-1. Selecione **High Contrast**, e certifique-se de que **o contraste alto** está definido para **Desligar**.
+1. Aceda **à Definições** Facilidade de  >  **Acesso.**  
+1. **Selecione Alto Contraste e** certifique-se de que a opção **Atalho de alto contraste** está desligada. 
 
-Se vir uma tela branca com texto preto:  
+Se vir um ecrã branco com texto preto:  
 
-1. Ir para **Definições**  >  **Facilidade de Acesso**.  
-1. Selecione **filtros de cores** e se **os filtros de cores ligados** **e** a escala **de cinza** estiver definido, coloque os filtros **de** **cores desligados** .
+1. Aceda **à Definições** Facilidade de  >  **Acesso.**  
+1. Selecione **Filtros de Cores** e se  a  opção Acionar **filtros** de cor estiver definida como Ativos e Tons de Cinzento estiver selecionada, defina A opção Acionar filtros de cor para **Desligá-los.** 
 
-Se o seu ecrã preto e branco estiver limitado a itens específicos, como a barra de tarefas do Windows ou o fundo de algumas aplicações, verifique as definições de Personalização:
+Se o ecrã a preto e branco estiver limitado a itens específicos, como a barra de tarefas do Windows ou o fundo de algumas aplicações, verifique as suas definições de Personalização:
 
-1. Ir para **Definições**  >  **Cores de Personalização**  >  .
+1. Vá para **a Definições** Cores  >  **de**  >  **Personalização.**
 
-1. Em **Escolha a sua cor,** verifique as definições. Se estiver definido para **Light,** isto pode definir itens como a barra de tarefas e os fundos da aplicação para branco. Escuro define estes para preto.  
+1. Em **Escolha a cor**, verifique as definições. Se estiver definido como Claro, **isto** pode definir itens como a barra de tarefas e fundos de aplicações para branco. Escuro Define estas como pretas.  
 
-    Se **escolher a sua cor** está definida para **Personalizado,** verifique o modo padrão do Windows e as definições do modo de aplicação predefinido. A definição padrão do modo Windows determina o aparecimento do Menu Iniciar, barra de tarefas e do Action Center, enquanto a definição padrão do modo de aplicação impacta o File Explorer e a aplicação Definições.
+    Se **a opção Escolher a cor estiver** definida como Personalizado, verifique as predefinições do modo de Windows da aplicação e do modo de aplicação predefinido.  A predefinição do modo Windows determina o aspeto do Menu Iniciar, da barra de tarefas e do Centro de Ação, enquanto a definição do modo de aplicação predefinido afeta o Explorador de Ficheiros e a Definições Ficheiros.
 

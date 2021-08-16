@@ -1,5 +1,5 @@
 ---
-title: Problema de ativação - Conta não permite edição no Mac
+title: Problema de ativação – a conta não permite a edição no Mac
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: 69ccee6d9a412370577becb9c563d32ea0bb4038
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a3dd2e149c89b2bc6d080462bb2618eb8343c1ad4d110d1155c76bc41462efbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795995"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046835"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Corrigir as aplicações microsoft 365 "A sua conta não permite a edição numa mensagem Mac"
+# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Corrigir a Microsoft 365 aplicações "A sua conta não permite a edição num Mac"
 
 Se receber esta mensagem, experimente o seguinte:
 

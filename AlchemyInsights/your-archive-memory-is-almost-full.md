@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100006"
 - "7960"
-ms.openlocfilehash: 5c7081f8991716a8ac72f462c6c7ef88e800ab9c
-ms.sourcegitcommit: 6f1af4aed507d4c074c36d77666cf00100efe168
+ms.openlocfilehash: 085d9b211d5a8e9a0e1eb12af14d87a4e59c844a3afa012095dfd60db316ad14
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974660"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046763"
 ---
 # <a name="your-archive-mailbox-is-almost-full"></a>A sua caixa de correio de arquivo está quase cheia
 
-Se o utilizador receber o aviso; **A sua caixa de correio de arquivo está quase cheia,** ou precisa de aumentar o tamanho da sua caixa de correio de arquivo, aqui ficam algumas dicas:
+Se o utilizador receber o aviso; **A sua caixa de correio de arquivo** está quase cheia ou tem de aumentar o tamanho da respetiva caixa de correio de arquivo. Eis algumas sugestões:
 
-1. Se o utilizador for designado um Plano Online de Troca 1, atualize para a licença **Exchange Online Plan 2** para aumentar o tamanho de 50 GB para 100GB.
-1. Se o utilizador já tiver sido atribuído a um dos seguintes: **Exchange Online Plan 2** ou um Exchange Online Plan 1 com um add-on de arquivamento online de intercâmbio, utilize os passos abaixo para permitir o arquivamento de auto-expansão:.
+1. Se lhe for atribuída uma licença do Exchange Online 1, atualize para uma licença do **Exchange Online Plano 2** para aumentar o tamanho de 50 GB para 100 GB.
+1. Se o utilizador já tiver atribuído uma das seguintes funcionalidades: Exchange Online Plano **2** ou um plano Exchange Online (Plano 1) com um adicionar Arquivo de Exchange Online, utilize os passos abaixo para ativar o arquivo de Expansão Automática:
  
-    1. [Ligue-se a Exchange Online Powershell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true).
-    2. Executar o seguinte comando para o utilizador:  `Enable-Mailbox <user mailbox> -AutoExpandingArchive`
-    1. Executar o seguinte comando para confirmar que está ativado para o utilizador:  `Get-Mailbox <user mailbox> | FL AutoExpandingArchiveEnabled`
+    1. [Ligação a Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true).
+    2. Execute o seguinte comando para o utilizador:  `Enable-Mailbox <user mailbox> -AutoExpandingArchive`
+    1. Execute o seguinte comando para confirmar que está ativado para o utilizador:  `Get-Mailbox <user mailbox> | FL AutoExpandingArchiveEnabled`
 
-Para mais informações consulte:
+Para obter mais informações, consulte:
 
-- [ Ativar o arquivamento ilimitado - Ajuda de administração - Microsoft 365 Compliance | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving?view=o365-worldwide&preserve-view=true)
+- [Ativar o arquivo ilimitado – Ajuda para Administradores – Microsoft 365 em conformidade | Documentos da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving?view=o365-worldwide&preserve-view=true)
 
-- [Trocar limites online - Descrições de Serviços | Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#storage-limits-across-standalone-plans)
+- [Exchange Online - Descrições de Serviço | Documentos da Microsoft](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#storage-limits-across-standalone-plans)
 
-- [Upgrade para um plano de negócios diferente | Microsoft Docs](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan?view=o365-worldwide&preserve-view=true)
+- [Atualizar para um plano de negócios | Documentos da Microsoft](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan?view=o365-worldwide&preserve-view=true)
 

@@ -1,5 +1,5 @@
 ---
-title: 976-como-para-permitir litígios-hold
+title: 976-how-to-enable-litigation-hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,17 +14,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 47d5a0866a6e92da2a3abb377a5e93918b5a1c9d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbc3460dde8030238d56d054af7e4ee13d655d7d54f65c3275a73e899dd6f813
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780574"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067527"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Coloque uma caixa de correio em porão legal
+# <a name="place-a-mailbox-on-legal-hold"></a>Colocar uma caixa de correio em espera legal
 
-- Para colocar uma caixa de correio no porão de Litígios ou no Local, é necessária uma licença Exchange Online Plan 2 do Exchange [Online Plan 2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Se uma caixa de correio tiver uma licença do Plano 1, pode atribuir uma licença de complemento de arquivo online exchange [online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)separada.
+- Para colocar uma caixa de correio em Espera de Litigação ou In-Place, é necessária uma licença do Exchange Online Plano 2 Exchange Online plano [2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Se for atribuída uma licença do Plano 1 a uma caixa de correio, pode atribuir uma licença do Arquivo de Exchange Online uma licença do [Arquivo de Exchange Online do add-on.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)
 
-- Para ativar o Litígio para um único utilizador, [siga estes passos](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold). Quando o Hold de Litígios está ativado, todos os conteúdos na caixa de correio são preservados.
+- Para ativar a Retenção de Litigação para um único [utilizador, siga estes passos.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold) Quando a Retenção de Litigação estiver ativada, todos os conteúdos na caixa de correio são preservados.
 
-- Para preservar conteúdos em todas as caixas de correio da sua organização ou para criar outros tipos de retenção, utilize uma política de retenção ou etiquetas. Note que para políticas de retenção em toda a organização, os novos utilizadores são automaticamente atribuídos à política. Para obter mais informações, consulte [Saiba mais sobre políticas de retenção e etiquetas de retenção.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations) 
+- Para preservar conteúdos em todas as caixas de correio na sua organização ou para criar outros tipos de retenção, utilize uma política ou etiquetas de retenção. Tenha em atenção que, para as políticas de retenção para toda a organização, são automaticamente atribuídos novos utilizadores à política. Para mais informações, consulte Saber [mais sobre políticas de retenção e etiquetas de retenção.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations) 

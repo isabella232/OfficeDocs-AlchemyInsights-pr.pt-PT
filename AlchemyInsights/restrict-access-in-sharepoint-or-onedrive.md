@@ -1,5 +1,5 @@
 ---
-title: Restringir o acesso no SharePoint ou no OneDrive
+title: Restringir o acesso no SharePoint ou OneDrive
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: d8be1eb5bdcd0b5b08ddad32a45b6282c788c26a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7b68df2ae24b09fe9b01bd67c31a89e37f284a512bc1ecb097ef52fae5ae7d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075051"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Restringir o acesso no SharePoint ou no OneDrive
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Restringir o acesso no SharePoint ou OneDrive
 
-No SharePoint e no OneDrive, restringe o acesso a itens como ficheiros, pastas e listas, concedendo acesso apenas a grupos ou indivíduos a que pretende ter acesso. Por padrão, as permissões no SharePoint são herdadas do alto da hierarquia. Assim, um ficheiro herda as suas permissões da pasta, que herda as suas permissões da biblioteca, que herda as suas permissões do site.
+No SharePoint e no OneDrive, pode restringir o acesso a itens como ficheiros, pastas e listas ao conceder acesso apenas a grupos ou pessoas a quem pretende conceder acesso. Por predefinição, as permissões no SharePoint são herdadas de um valor superior na hierarquia. Assim, um ficheiro herda as permissões da pasta, que herda as permissões da biblioteca, o que herda as permissões do site.
   
-Você pode compartilhar a um nível mais alto (como por exemplo, compartilhando um site inteiro) e, em seguida, quebrar a herança se você não quiser compartilhar todos os itens no site. No entanto, não recomendamos isto porque torna a manutenção das permissões mais complexa e confusa no futuro. Eis o que pode fazer em vez disso:
+Pode partilhar num nível mais elevado (por exemplo, ao partilhar um site inteiro) e, em seguida, interromper a herança se não quiser partilhar todos os itens no site. No entanto, não o recomendamos, uma vez que torna a manutenção das permissões mais complexa e confusa no futuro. Em alternativa, eis o que pode fazer:
   
-- Se, por exemplo, quiser partilhar todo o conteúdo de uma pasta, exceto um ficheiro, mova esse ficheiro para um novo local que não seja partilhado.
+- Por exemplo, se quiser partilhar todos os conteúdos de uma pasta exceto um ficheiro, mova esse ficheiro para uma nova localização que não seja partilhada.
     
-- Se tiver duas sub-dobras numa pasta e quiser partilhar uma sub-dobradura com os grupos A e B e permitir apenas o acesso do grupo A à segunda sub-dobra, partilhe a pasta dos pais com o grupo A e adicione o grupo B à primeira sub-dobra.
+- Se tiver duas subpastas numa pasta e quiser partilhar uma subpasta com os grupos A e B e permitir apenas o acesso A à segunda subpasta, partilhe a pasta principal com o grupo A e adicione o grupo B à primeira subpasta.
     
-[Pare de partilhar um ficheiro ou pasta ](https://go.microsoft.com/fwlink/?linkid=2008861)
+[Parar de partilhar um ficheiro ou pasta ](https://go.microsoft.com/fwlink/?linkid=2008861)
   
 

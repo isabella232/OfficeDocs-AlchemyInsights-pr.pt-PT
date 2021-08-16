@@ -1,5 +1,5 @@
 ---
-title: Instale o pacote de aplicações Microsoft 365 ou uma aplicação individual do Office
+title: Instale o Microsoft 365 ou um pacote de aplicações aplicação do Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003892"
 - "6946"
-ms.openlocfilehash: f8098b094a38ed1bffc1fd1e914d8e4ae07c310f
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 796c73262e44e8f3e74f951f9409a9c6996367edeef53572f8caf6bbb56adf47
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680393"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067419"
 ---
-# <a name="install-the-microsoft-365-app-bundle-or-an-individual-office-app"></a>Instale o pacote de aplicações Microsoft 365 ou uma aplicação individual do Office
+# <a name="install-the-microsoft-365-app-bundle-or-an-individual-office-app"></a>Instale o Microsoft 365 ou um pacote de aplicações aplicação do Office
 
-O pacote de aplicações microsoft 365 inclui Word, Excel e PowerPoint. O pacote está disponível para o iPhone e estará disponível para o iPad no futuro. As aplicações individuais estão disponíveis para o iPhone, bem como para iPad.
+O Microsoft 365 aplicação inclui o Word, Excel e PowerPoint. O pacote está disponível para o iPhone e estará disponível para os iPad no futuro. Estão disponíveis aplicações individuais para o iPhone e para a iPad.
 
-1. [Instale o pacote de aplicações](https://go.microsoft.com/fwlink/?linkid=2136762)
-1. [Instalar palavra](https://go.microsoft.com/fwlink/?linkid=2136974)
+1. [Instalar o pacote de aplicações](https://go.microsoft.com/fwlink/?linkid=2136762)
+1. [Instalar o Word](https://go.microsoft.com/fwlink/?linkid=2136974)
 1. [Instalar Excel](https://go.microsoft.com/fwlink/?linkid=2136975)
 1. [Instalar PowerPoint](https://go.microsoft.com/fwlink/?linkid=2136882)
-1. [Instalar Uma Nota](https://go.microsoft.com/fwlink/?linkid=2136883)
+1. [Instalar OneNote](https://go.microsoft.com/fwlink/?linkid=2136883)
 
-Para saber mais, consulte [instalar e configurar o Office num iPhone ou iPad](https://go.microsoft.com/fwlink/?linkid=2135560).
+Para saber mais, consulte [Instalar e configurar um Office numa iPhone ou iPad](https://go.microsoft.com/fwlink/?linkid=2135560).

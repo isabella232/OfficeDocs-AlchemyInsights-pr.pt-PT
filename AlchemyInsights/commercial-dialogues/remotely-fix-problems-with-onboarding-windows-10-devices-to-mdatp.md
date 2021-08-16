@@ -1,5 +1,5 @@
 ---
-title: Corrige remotamente problemas com o acesso a dispositivos do Windows 10 para o Microsoft Defender Advanced Threat Protection
+title: Corrigir remotamente problemas com a ativação Windows 10 dispositivos para a Proteção Avançada Contra Ameaças do Microsoft Defender
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5473d090f6d4680f9a62f34f943ac6cea53b2079
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 44969436c99b182cb4202fa60e2deb7d6ea3f460e48ee4649de1cfb646970f34
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750039"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034045"
 ---
-# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>Corrige remotamente problemas com o acesso a dispositivos do Windows 10 para o Microsoft Defender Advanced Threat Protection
+# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>Corrigir remotamente problemas com a ativação Windows 10 dispositivos para a Proteção Avançada Contra Ameaças do Microsoft Defender
 
 Se conseguir aceder ao computador remoto, siga estes passos:
 
-1. Descarregue a ferramenta de diagnóstico [de Análise de Conectividade do Cliente.](https://go.microsoft.com/fwlink/?linkid=2143466)
-2. Extrair e executar MDATPAnalyzer.cmd.
-3. Localize o registo de diagnóstico na pasta MDATPClientAnalyzerResult, que é a mesma pasta onde a ferramenta Analyzer foi descarregada.
-4. Para encontrar problemas com configurações de conectividade ou procuração na Internet, reveja o ficheiro de registo MDATPClientAnalyzer.txt.
+1. Transfira [a ferramenta de diagnóstico do Client Connectivity Analyzer.](https://go.microsoft.com/fwlink/?linkid=2143466)
+2. Extraia e execute o MDATPAnalyzer.cmd.
+3. Localize o registo de diagnóstico na pasta MDATPClientAnalyzerResult, que é a mesma pasta onde a ferramenta Analyzer foi transferida.
+4. Para encontrar problemas com as definições de conectividade ou proxy da Internet, reveja o registo MDATPClientAnalyzer.txt.
 
-Para saber mais, consulte [problemas com máquinas de embarque.](https://go.microsoft.com/fwlink/?linkid=2143634)
+Para saber mais, consulte [Problemas com máquinas de adoção.](https://go.microsoft.com/fwlink/?linkid=2143634)

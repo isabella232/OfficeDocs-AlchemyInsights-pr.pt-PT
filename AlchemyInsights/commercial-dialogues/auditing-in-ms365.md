@@ -1,5 +1,5 @@
 ---
-title: Auditoria na Microsoft 365
+title: Auditoria no Microsoft 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: c07981bfae40d74deb1a2f143ce51da69b51a69f
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a5acd322186f8f4b7734f8541877a642a553288e10b3c122e4f276b9bb611308
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482360"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988984"
 ---
-# <a name="auditing-in-microsoft-365"></a>Auditoria na Microsoft 365
+# <a name="auditing-in-microsoft-365"></a>Auditoria no Microsoft 365
 
-Eis algumas coisas que deve saber sobre a auditoria na Microsoft 365:
+Eis alguns aspeto que deve saber sobre a auditoria Microsoft 365:
 
-1. As atividades de administração de intercâmbio são auditadas por defeito.
-1. Estamos no processo de ligar a caixa de correio de auditoria por padrão para todos os utilizadores. Para ler mais sobre isto, clique [aqui.](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Exchange-Mailbox-Auditing-will-be-enabled-by-default/ba-p/215171) Até lá, se desejar instruções para o ativar manualmente para uma pessoa ou para toda uma organização, escolha a seguinte o botão de auditoria turn on mailbox.
-1. As caixas de correio do Microsoft 365 Groups e as caixas de correio publicais não suportam o registo de auditoria.
-1. Para o SharePoint/OneDrive, não é necessária nenhuma configuração adicional para a auditoria ativada. Para saber que atividades são auditadas, consulte:
-    1. [Atividades de arquivo](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#file-and-page-activities)
-    1. [Atividades de pasta](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+1. Exchange atividades de administrador são auditadas por predefinição.
+1. Estamos a trabalhar para a ativo a auditoria de caixas de correio por predefinição para todos os utilizadores. Para ler mais sobre isto, clique [aqui](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Exchange-Mailbox-Auditing-will-be-enabled-by-default/ba-p/215171). Por enquanto, se quiser instruções para a ativar manualmente para uma pessoa ou para uma organização inteira, selecionar o botão Ativar auditoria de caixa de correio abaixo.
+1. Microsoft 365 As caixas de correio de Grupos e as caixas de correio da Pasta Pública não suportam o registo de auditoria.
+1. Para o SharePoint/OneDrive, não é necessária nenhuma configuração adicional para ativar a auditoria. Para saber que atividades são auditadas, consulte:
+    1. [Atividades de ficheiros](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#file-and-page-activities)
+    1. [Atividades de pastas](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
     1. [Atividades de partilha e acesso.](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-1. Para obter uma lista de todas as atividades auditadas por serviço, consulte [as atividades auditadas.](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities)
+1. Para ver uma lista de todas as atividades auditadas por serviço, consulte [Atividades auditadas.](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities)

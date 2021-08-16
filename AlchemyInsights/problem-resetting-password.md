@@ -1,5 +1,5 @@
 ---
-title: Palavra-passe de reposição de problemas
+title: Problema ao repor palavra-passe
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,65 +13,65 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "9360"
-ms.openlocfilehash: aa1eba1efef6a4c28aa6b9229071304093395922
-ms.sourcegitcommit: 9a00005546c2fe473e3cea2b06e38c27eada88c4
+ms.openlocfilehash: 535b5273d367e24ac45b3f60dbc7b6a2da6a3d9affa5a67499989d19a1904768
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696274"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039977"
 ---
-# <a name="problems-resetting-password"></a>Problemas na redefinição da palavra-passe
+# <a name="problems-resetting-password"></a>Problemas ao repor palavra-passe
 
-Seguem-se alguns dos problemas que poderá enfrentar ao redefinir a palavra-passe e as possíveis soluções:
+Seguem-se alguns dos problemas que poderá ter ao repor a palavra-passe e as possíveis soluções:
 
-**Estou tendo um problema com a palavra-passe não abrangida nas outras categorias**
+**Estou a ter um problema com a reposição da palavra-passe não abrangida nas outras categorias**
 
-- Certifique-se de que está autorizado a redefinir palavras-passe. Apenas administradores globais, de palavra-passe e de utilizadores podem redefinir as palavras-passe do utilizador. Os administradores globais também podem redefinir as palavras-passe de outros administradores privilegiados.
+- Certifique-se de que está autorizado a repor palavras-passe. Apenas os administradores globais, de palavra-passe e de utilizador podem repor palavras-passe de utilizador. Os administradores globais também podem repor as palavras-passe de outros administradores privilegiados.
 - Certifique-se de que compreende os requisitos de licenciamento:
-    - Deve ter pelo menos uma licença atribuída na sua organização
-        - Utilizadores da Cloud - Qualquer Office 365 (O365) pagou SKU, ou Azure AD Basic
-        - Utilizadores em nuvem e/ou no local - Azure AD Premium P1 ou P2, Mobilidade Empresarial + Segurança (EMS) ou Empresa Produtiva Segura (SPE)
-        - Para ler mais sobre os requisitos de licenciamento consulte o artigo [Requisitos de licenciamento para a palavra-passe de autosserviço AZure AD repostos](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing?WT.mc_id=Portal-Microsoft_Azure_Support).
+    - Tem de ter pelo menos uma licença atribuída na sua organização
+        - Apenas utilizadores na nuvem – Office 365 SKU pago (O365) ou Azure AD Basic
+        - Utilizadores da nuvem e/ou no local: Azure AD Premium P1 ou P2, Enterprise Mobility + Security (EMS) ou Secure Productive Enterprise (SPE)
+        - Para ler mais sobre os requisitos de licenciamento, consulte o artigo Requisitos de licenciamento para a reposição de [palavra-passe do Azure AD.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Estou com problemas em testar a política de reset da palavra-passe que estabeleci**
+**Estou a ter problemas em testar a política de reposição de palavras-passe que definai**
 
-- As políticas recentemente aplicadas podem demorar vários minutos a replicar-se em todos os centros de dados e pontos finais. A distância física do centro de dados também afetará a rapidez com que as mudanças são aplicadas.
-- Teste com um utilizador final, não um administrador, e piloto com um pequeno conjunto de utilizadores. As políticas configuradas no portal Azure aplicam-se apenas aos utilizadores finais e não aos administradores. A Microsoft aplica uma forte política de reset de senha de dois prazos para qualquer função de administrador do Azure (Exemplo: Administrador Global, Administrador de Ajuda, Administrador de Password, etc.)
+- As políticas aplicadas recentemente podem demorar vários minutos a replicar em todos os centros de dados e pontos finais. A distância física do centro de dados também afetará a velocidade com que as alterações são aplicadas.
+- Teste com um utilizador final, não com um administrador e piloto com um pequeno conjunto de utilizadores. As políticas configuradas no portal do Azure aplicam-se APENAS aos utilizadores finais e não aos administradores. A Microsoft impõe uma política de reposição de palavra-passe predefinida predefinida para qualquer função de administrador do Azure (Exemplo: Administrador Global, Administrador de Sistema de Ajuda, Administrador de Palavras-passe, etc.)
     - Saiba mais sobre [políticas para administradores.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)
 
-**Quero implementar o reset da palavra-passe, mas não quero que os meus utilizadores registem informações adicionais de segurança.**
+**Quero implementar a reposição de palavra-passe, mas não quero que os meus utilizadores registem informações de segurança adicionais**
 
-Preencha os dados para os seus utilizadores para que não tenham de o fazer! - Como administrador, pode definir propriedades de telefone e e-mail para os seus utilizadores antes de lançar a palavra-passe para a sua organização. Pode fazê-lo utilizando uma Ligação API, PowerShell ou AZure AD. Mais informações aqui:
-- [Implementar a palavra-passe reiniciada sem exigir que os utilizadores se registem](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)
-- [Que dados são usados por reset de senha](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+Preenchidos dados para os seus utilizadores, para que não tenham de o fazer! - Enquanto administrador, pode definir as propriedades de telefone e e-mail para os seus utilizadores antes de reiniciar a palavra-passe na sua organização. Pode fazê-lo com uma API, PowerShell ou Azure AD Ligação. Mais informações aqui:
+- [Implementar a reposição de palavra-passe sem que os utilizadores se registe](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)
+- [Que dados são utilizados pela reposição de palavra-passe](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**O botão de reset da palavra-passe está acinzentado**
+**O botão de reposição da palavra-passe está a cinzento**
 
-Não está autorizado a redefinir as palavras-passe deste utilizador. Apenas administradores globais, de palavra-passe e de utilizadores podem redefinir as palavras-passe do utilizador. Os administradores globais também podem redefinir as palavras-passe de outros administradores privilegiados.
+Não está autorizado a repor as palavras-passe deste utilizador. Apenas os administradores globais, de palavra-passe e de utilizador podem repor palavras-passe de utilizador. Os administradores globais também podem repor as palavras-passe de outros administradores privilegiados.
 
-**Não vejo a lâmina de reset da palavra-passe.**
+**Não vejo a chave de reposição de palavra-passe**
 
-Não está autorizado a redefinir palavras-passe. Apenas administradores globais, de palavra-passe e de utilizadores podem redefinir as palavras-passe do utilizador. Os administradores globais também podem redefinir as palavras-passe de outros administradores privilegiados.
+Não está autorizado a repor palavras-passe. Apenas os administradores globais, de palavra-passe e de utilizador podem repor palavras-passe de utilizador. Os administradores globais também podem repor as palavras-passe de outros administradores privilegiados.
 
-**Não vejo a lâmina de integração no local no reset da palavra-passe**
+**Não vejo o blade de integração no local na reposição de palavra-passe**
 
-- A lâmina de integração no local só aparece em ambientes híbridos - o que significa que está a usar a gravação de passwords para manipular as palavras-passe do utilizador no local.
-- Não se vê esta lâmina se:
-    - Não está a usar o writeback da palavra-passe
-    - Há um problema com a sua instalação/conectividade de writeback de palavra-passe
-    - Há um problema com a sua instalação/conectividade do Azure AD Connect
-    - Para obter mais etapas de resolução de problemas para problemas com a gravação de password, consulte a secção [Descreva a palavra-passe de resolução de problemas](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+- A guia de integração no local só é mostrada em ambientes híbridos, o que significa que está a utilizar o writeback por palavra-passe para manipular palavras-passe de utilizadores no local.
+- Não verá esta patada se:
+    - Não está a utilizar o writeback da palavra-passe
+    - Existe um problema com a sua instalação/conectividade de escrita de palavra-passe
+    - Existe um problema com a sua instalação/conectividade do Azure AD Ligação
+    - Para mais passos de remoção de problemas relacionados com a escrita de palavras-passe, consulte a secção Remoção de problemas de escrita [de palavra-passe](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Não sei como redefinir a senha de um utilizador.**
+**Não sei como repor a palavra-passe de um utilizador**
 
-1. Inscreva-se no portal Azure como um administrador apropriado.
-1. Aceda à lâmina dos Utilizadores e grupos, selecione **Todos os Utilizadores**.
-1. Selecione um utilizador da lista.
-1. Para o utilizador selecionado, selecione **'Visão geral'** e, em seguida, na barra de comando, clique em **Redefinir a palavra-passe**.
+1. Inscreva-se no portal do Azure como administrador adequado.
+1. Vá para a ponta Utilizadores e grupos, selecione **Todos os Utilizadores.**
+1. Selecione um utilizador a partir da lista.
+1. Para o utilizador selecionado, **selecione Visão Geral e,** em seguida, na barra de comando, clique em **Repor palavra-passe**.
 1. Siga as instruções no ecrã.
-    - Apenas resets realizados através da gravação de senha de suporte do portal Azure.
+    - Apenas as reposição efetuadas através do portal do Azure suportam o writeback da palavra-passe.
 
-**Repus a palavra-passe de um utilizador no local a partir do portal de administração do Office 365 ou da aplicação móvel do Office 365, mas o utilizador ainda não consegue iniciar sposição.**
+**Repor a palavra-passe de um utilizador no local a partir do portal Administração do Office 365 ou da Office 365 para dispositivos móveis, mas o utilizador continua a não conseguir entrar**
 
-A writeback de palavra-passe não é suportada neste portal. Repor novamente a palavra-passe do utilizador no portal Azure - portal.azure.com
+A Escrita de Palavra-passe não é suportada neste portal. Repor a palavra-passe do utilizador novamente no portal do Azure – portal.azure.com
 

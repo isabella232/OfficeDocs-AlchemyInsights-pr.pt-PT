@@ -1,5 +1,5 @@
 ---
-title: Imprimir resultados a partir de Formulários microsoft
+title: Imprimir resultados do Microsoft Forms
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2545"
 - "9000672"
-ms.openlocfilehash: 310306c30fb9f888b80b87a9539ef904e0ad63f3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f9b4c1946ec8c6ff998a932bea5d31eb59cf146cb94f81c3676ccf25eebf9e33
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800621"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039941"
 ---
-# <a name="print-results-in-a-summary-of-responses"></a>Imprimir resulta num resumo das respostas
+# <a name="print-results-in-a-summary-of-responses"></a>Imprimir resultados num resumo das respostas
 
-Pode [imprimir os resultados do Microsoft Forms](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) como um resumo das respostas ou para um indivíduo. 
+Pode [imprimir resultados do Microsoft Forms](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) como um resumo das respostas ou para um indivíduo. 
 
-Não é possível imprimir formulários sem respostas, mas pode solicitar ou votar nesta funcionalidade visitando o [site Do Utilizador dos Formulários](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box)da Microsoft.
+Não é possível imprimir formulários sem respostas, mas pode pedir ou votar nesta funcionalidade ao visitar o site do [UserVoice](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box)do Microsoft Forms.

@@ -1,5 +1,5 @@
 ---
-title: Como comprar um novo dispositivo Windows 10
+title: Como comprar um novo Windows 10 dispositivo
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "10101"
 - "9005711"
-ms.openlocfilehash: 6cf8b1c9c6aaa54ceef06d1f1b4d1fb71f914e8c
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
-ms.translationtype: MT
+ms.openlocfilehash: 07072563ce97d5ab5849284c3e8017a5d356a4c3f70b7df38e94d2e9a33e056e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51491837"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029311"
 ---
-# <a name="how-to-buy-a-new-windows-10-device"></a>Como comprar um novo dispositivo Windows 10
+# <a name="how-to-buy-a-new-windows-10-device"></a>Como comprar um novo Windows 10 dispositivo
 
-Se está interessado em comprar um novo dispositivo com o Windows 10, veja [se quer obter o Windows 10?](https://www.microsoft.com/windows/get-windows-10) Ao responder a algumas perguntas, verá recomendações para o melhor Surface, portátil, desktop ou computador tudo-em-um para atender às suas necessidades.
+Se estiver interessado em comprar um novo dispositivo a executar o Windows 10, consulte Pretende [obter Windows 10?](https://www.microsoft.com/windows/get-windows-10). Ao responder a algumas perguntas, verá recomendações para o melhor Surface, portátil, computador de secretária ou um computador todo-em-um para se adaptar às suas necessidades.

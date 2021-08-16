@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: e85f2dc0dfe3e4c2b5229c407249ddb87da1f47c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: a8783a85f0539e070665a7ef30f1ebc87cb3644d7508ec9b561ad17200c97505
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747250"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045107"
 ---
 # <a name="view-or-modify-a-journal-rule"></a>Ver ou modificar uma regra de diário
 
 Faça o seguinte:
 
-1. No [Centro de Administração Exchange,](https://go.microsoft.com/fwlink/p/?linkid=2059104)aceda às regras do periódico de **gestão de conformidade**  >  .
-2. Na vista da lista, verá todas as regras do diário na sua organização.
-3. Clique duas vezes na regra que pretende ver ou modificar.
-4. Na **regra do diário,** modifique as definições desejada.
+1. No centro de Exchange , [vá para](https://go.microsoft.com/fwlink/p/?linkid=2059104)regras do diário de **gestão**  >  **de conformidade**.
+2. Na vista de lista, verá todas as regras do diário na sua organização.
+3. Faça duplo clique na regra que pretende ver ou modificar.
+4. Na **regra de diário**, modifique as definições que pretende.

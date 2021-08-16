@@ -1,5 +1,5 @@
 ---
-title: Questão de compra de autosserviço
+title: Pergunta sobre compra self-service
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3189"
-ms.openlocfilehash: 6294456c9e6c61e52da5e02a8f2e2ccee9fa1323
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 75a9d02793498715a0f75528ef01fb59d5015f72ea11949267f2a7d36ff19550
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835642"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074331"
 ---
-# <a name="self-service-purchase"></a>Compra de self-service
+# <a name="self-service-purchase"></a>Compra self-service
 
-**Que capacidades tem um administrador para compras de self-service?**
+**Que funcionalidades têm um administrador para compras self-service?**
 
-Os administradores podem ver todas as compras de self-service efetuadas na sua organização no centro de administração Microsoft 365. Podem ver o produto, nome do comprador, subscrições compradas, data de validade, histórico de encomendas, preço de compra e utilizadores designados para cada compra de self-service.  Se necessário para a sua organização, os administradores poderão desligar a compra de self-service numa base de produto através do PowerShell.  Os administradores têm as mesmas políticas de gestão de dados e acessos sobre produtos comprados através da compra de self-service ou centralmente.
+Os administradores podem ver todas as compras self-service feitas na organização no centro de administração do Microsoft 365. Podem ver o produto, o nome do comprador, as subscrições compradas, a data de validade, o histórico de encomendas, o preço de compra e os utilizadores atribuídos para cada compra self-service.  Se for necessário para a organização, os administradores poderão destivar a compra self-service por produto através do PowerShell.  Os administradores têm as mesmas políticas de gestão de dados e acesso sobre produtos comprados através da compra self-service ou centralmente.
 
-[Compras de autosserviço FAQ](https://aka.ms/self-service-purchase-faq)
+[FAQ sobre compras independentes](https://aka.ms/self-service-purchase-faq)
 

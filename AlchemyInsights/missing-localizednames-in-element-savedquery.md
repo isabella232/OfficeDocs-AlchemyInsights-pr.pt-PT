@@ -1,5 +1,5 @@
 ---
-title: Faltando 'Nomes Localizados' em elemento 'savedquery'
+title: Em falta os "Nomes Localizados" na 'consulta guardada' do elemento
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1739"
 - "9000187"
-ms.openlocfilehash: 4b25596ab68cf1723df4fa6a593cef5341c8ff16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 122904b1eb2d1c20fd26bb6a388aa50ced766cec9649fce15c0fae7f6b322832
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667133"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065619"
 ---
-# <a name="missing-localizednames-in-element-savedquery"></a>Faltando 'Nomes Localizados' em elemento 'savedquery'
+# <a name="missing-localizednames-in-element-savedquery"></a>Em falta os "Nomes Localizados" na 'consulta guardada' do elemento
 
-Para obter ajuda com os 'Nomes Localizados Localizados' em falta, consulte ["O elemento 'savedquery' tem conteúdo incompleto. Lista de elementos possíveis esperados: erro 'LocalizadoNames'" ocorre ao importar uma solução Dynamics 365](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).
+Para ajuda com os "LocalizedNames" em falta, consulte "O elemento ['guardado' tem conteúdos incompletos. Lista de elementos possíveis esperados: O erro "Nomes Localizados"](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element)ocorre ao importar uma solução do Dynamics 365.
 
-Procure personagens especiais no nome de vista que possam causar o problema. Remova quaisquer caracteres especiais no nome de visualização e exporte novamente a solução.
+Procure carateres especiais no nome da vista que possam causar o problema. Remova quaisquer carateres especiais no nome da vista e exporte a solução novamente.

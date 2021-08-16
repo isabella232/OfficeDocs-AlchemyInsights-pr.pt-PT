@@ -1,5 +1,5 @@
 ---
-title: Criar uma lista de pontos finais para o Microsoft Edge
+title: Criar uma lista de pontos finais de Permitir para Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003932"
 - "6987"
-ms.openlocfilehash: d29364e683893e21d5d0a47ecdcc619f102e5bb3
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: cabea25a316a22c9eb3b63daf74c6ac213d24f35be5319276cff641b1d9a27b9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49679007"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032101"
 ---
-# <a name="create-an-allow-list-of-endpoints-for-microsoft-edge"></a>Criar uma lista de pontos finais para o Microsoft Edge
+# <a name="create-an-allow-list-of-endpoints-for-microsoft-edge"></a>Criar uma lista de pontos finais de Permitir para Microsoft Edge
 
-Para ter a gama completa das funcionalidades do Microsoft Edge à sua disposição, deve tê-la ligada à Internet. Além disso, para permitir que o navegador comunique através de firewalls e outros mecanismos de segurança na Internet, deve adicionar um conjunto de URLs de domínio à sua [lista de pontos finais](https://go.microsoft.com/fwlink/?linkid=2135054).
+Para ter a matriz completa Microsoft Edge funcionalidades do Microsoft Edge à sua disposição, tem de a ter ligada à Internet. Além disso, para permitir que o browser comunique através de firewalls e outros mecanismos de segurança na Internet, tem de adicionar um conjunto de URLs de domínio à lista de pontos [finais](https://go.microsoft.com/fwlink/?linkid=2135054)de Permitir.

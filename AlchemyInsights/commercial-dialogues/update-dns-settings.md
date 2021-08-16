@@ -1,5 +1,5 @@
 ---
-title: Atualizar as definições de DNS
+title: Atualizar definições de DNS
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 37355c1b6658f21d35d03aacf292bbdc174a2359
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7dd2fbbd23beedda47bd724d84d717a3751f51f9607274d9b124f14463cf4b50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747224"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045179"
 ---
-# <a name="update-dns-settings"></a>Atualizar as definições de DNS
+# <a name="update-dns-settings"></a>Atualizar definições de DNS
 
-A atualização das definições de DNS envolve copiar e colar os valores que o Office 365 lhe dá no seu registo de domínio ou fornecedor de hospedagem DNS. Para isso, execute os seguintes passos:
+Atualizar as definições de DNS envolve copiar e colar os valores que o Office 365 permite-lhe entrar na sua registrora de domínios ou fornecedor de domínios DNS. Para o fazer, execute os seguintes passos:
 
-1. Copie e cole os valores apresentados na página **de definições de DNS** de atualização no seu fornecedor de hospedagem DNS.
+1. Copie e copie os valores apresentados na página **Atualizar definições de DNS** no seu fornecedor de anfitrião DNS.
 2. Clique **em Verificar**.
 3. Clique em **Concluir**.

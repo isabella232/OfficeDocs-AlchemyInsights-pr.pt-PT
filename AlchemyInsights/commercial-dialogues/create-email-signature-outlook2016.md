@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: f7e91169f06c5c0242cb7aaa0e1a0c266b5b30dc
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 54f813eed229661e49058b46f2cc73c5900b506a4e72f6b4a6818603f18dbd29
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483851"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045251"
 ---
 # <a name="create-an-email-signature-in-outlook-2016"></a>Criar uma assinatura de e-mail no Outlook 2016
 
-No Outlook, a sua assinatura de e-mail pode incluir texto, imagens, o seu cartão de visita eletrónico, um logotipo ou até mesmo uma imagem da sua assinatura manuscrita.
+No Outlook, a sua assinatura de e-mail pode incluir texto, imagens, o seu cartão de visita eletrónico, um logótipo ou até mesmo uma imagem da sua assinatura escrita à mão.
 
 1. No Outlook, abra uma nova mensagem de e-mail.
-2. No separador **Mensagem,** escolha   >  **Assinaturas de Assinaturas**.
-3. Em **Seleção de assinatura para editar,** escolha **Novo** e, em seguida, digite um nome para a assinatura.
-4. Na **assinatura Editar,** componha a sua assinatura.
+2. No **separador Mensagem,** selecionar   >  **Assinaturas da Assinatura**.
+3. Em **Selecionar assinatura a editar**, **selecione Novo** e, em seguida, escreva um nome para a assinatura.
+4. Em **Editar assinatura**, componha a sua assinatura.

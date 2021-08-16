@@ -1,5 +1,5 @@
 ---
-title: As equipas atualizam a orientação
+title: Teams orientações de atualização
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "6653"
 - "9003563"
-ms.openlocfilehash: 74972a7d54ea349cd997509a59a9320256a7eee7
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 98c93b3b674412025e0ff0fa6a609665cf720c75d17e0d278c3abe123d5ec01c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365229"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998702"
 ---
-# <a name="teams-is-using-more-computer-resources-than-expected"></a>As equipas estão a usar mais recursos informáticos do que o esperado
+# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams utilizar mais recursos do que o esperado no computador
 
-Grande desempenho e experiência do utilizador são as principais preocupações da Microsoft. O tempo de lançamento das equipas tem vindo a melhorar e vamos continuar a melhorar as equipas, incluindo o consumo global de recursos.  
+O melhor desempenho e a experiência de utilizador são as principais preocupações da Microsoft. Teams o tempo de lançamento tem vindo a melhorar e continuaremos a melhorar Teams, incluindo o consumo de recursos geral.  
 
-Para obter informações sobre equipas e utilização de recursos, consulte [como as Equipas da Microsoft utilizam a memória](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf)  e as equipas são  [lentas durante as reuniões de vídeo em computadores portáteis atracados a monitores 4K/HDR](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).
+Para obter informações sobre Teams e a utilização de recursos, consulte Como o [Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) utiliza a memória e o Teams está lento durante reuniões de vídeo em portáteis dock com monitores [de 4K/HDR.](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k)

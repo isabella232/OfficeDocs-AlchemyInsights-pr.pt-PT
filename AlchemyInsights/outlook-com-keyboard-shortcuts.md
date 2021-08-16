@@ -1,5 +1,5 @@
 ---
-title: Atalhos Outlook.com de teclado 8000087
+title: 8000087 Outlook.com Atalhos de Teclado
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,18 +10,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000087
-ms.openlocfilehash: b40efccdb0c38c3b24919c36983d71814a4be7c4
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 875363cc21eb62ecd77c460991e3fe9773e4ec85268eb813da3dbd13bb6bb079
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708469"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041453"
 ---
-# <a name="keyboard-shortcuts-in-outlookcom"></a>Atalhos de teclado em Outlook.com
+# <a name="keyboard-shortcuts-in-outlookcom"></a>Atalhos de teclado Outlook.com
 
-Na Outlook.com pode utilizar os mesmos atalhos de teclado que o serviço de e-mail com o qual está habituado a trabalhar, como o Gmail, Yahoo Mail ou Outlook.com.
+No Outlook.com, pode utilizar os mesmos atalhos de teclado do serviço de e-mail com que está habituado a trabalhar, como o Gmail, Yahoo Mail ou Outlook.com.
 
-Ir para [definições de acessibilidade](https://go.microsoft.com/fwlink/?linkid=2080840)  
- > **Ver todas as definições**  >  do Outlook **General**  >  **Acessibilidade**) e escolha quais atalhos de teclado que gostaria de usar.
+Aceda [às Definições de acessibilidade](https://go.microsoft.com/fwlink/?linkid=2080840) **Definições** 
+ > **Ver todas Outlook definições**  >  **Geral**  >  **Acessibilidade**) e escolha os atalhos de teclado que gostaria de utilizar.
 
-Para ver a lista completa dos atalhos de teclado, consulte [Outlook.com atalhos de teclado](https://support.microsoft.com/topic/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd).
+Para ver a lista completa de atalhos de teclado, consulte [o Outlook de](https://support.microsoft.com/topic/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd)teclado .

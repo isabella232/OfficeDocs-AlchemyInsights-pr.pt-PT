@@ -1,5 +1,5 @@
 ---
-title: Envio adiado Outlook.com
+title: Envio diferido em Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: deb5394cc0b88f061ae908c40e127d9aa087d077
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 028768348fd81b4fecc622b94b140107b58e04110127166cab8e92ce3ab33b36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752082"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041417"
 ---
-# <a name="delay-or-schedule-sending-email-messages"></a>Atraso ou agendamento envio de mensagens de correio e-mail
+# <a name="delay-or-schedule-sending-email-messages"></a>Atrasar ou agendar o envio de mensagens de e-mail
 
-Desculpe, mas não pode adiar ou agendar o envio de mensagens de correio e-mail numa aplicação móvel ou navegador web. Para isso, utilize [o Outlook for Windows ou Outlook for Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
+Lamentamos, mas não pode adiar ou agendar o envio de mensagens de e-mail numa aplicação móvel ou browser. Para fazê-lo, [utilize Outlook para Windows ou Outlook para Mac.](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook)
 
-**Desfazer enviar**
+**Undo send**
 
-Pode alterar as definições Outlook.com para atrasar o envio de uma mensagem por um máximo de 10 segundos. Pode cancelar o envio da mensagem durante este período. Para ligar esta função, abra as definições [de envio de desfazer.](https://outlook.live.com/mail/options/mail/messageContent/undoSend)
+Pode alterar as definições Outlook.com para atrasar o envio de uma mensagem durante até 10 segundos. Pode cancelar o envio da mensagem durante este período. Para ativar esta funcionalidade, abra as [suas definições Desfazer](https://outlook.live.com/mail/options/mail/messageContent/undoSend) envio.
 
-Saiba mais sobre [a recolha de e-mails em Outlook.com.](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy)
+Saiba mais sobre [como recordar e-mails no Outlook.com.](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy)

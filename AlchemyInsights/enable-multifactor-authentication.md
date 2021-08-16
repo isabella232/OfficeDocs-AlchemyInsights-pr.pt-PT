@@ -1,5 +1,5 @@
 ---
-title: Ativar a autenticação multifactor
+title: Ativar a Autenticação Multifator
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4de9a1baf12fad1de21af9c5739c1538e5ee7e176757fa8ce7586aa3a7f2b71f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678047"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002923"
 ---
-# <a name="enable-multi-factor-authentication"></a>Ativar a autenticação de vários fatores
+# <a name="enable-multi-factor-authentication"></a>Ativar a autenticação multifatores
 
-Para ativar a autenticação de vários fatores no centro de administração Microsoft 365:
+Para ativar a autenticação multifatores no centro de administração do Microsoft 365:
 
-1. Aceda à página **de** \> **utilizadores Ative.**
+1. Vá para a página **Utilizadores** \> **Ativos.**
     
-2. No topo da página, selecione **a autenticação multi-factor**. 
+2. Na parte superior da página, selecione **Autenticação Multifator**. 
     
-3. Encontre o utilizador ou utilizadores que pretende ativar para a autenticação de vários fatores. Para ver todos os utilizadores, poderá ter de alterar o filtro **de estado Multi-Factor Auth** na parte superior.
+3. Encontre o utilizador ou os utilizadores que pretende ativar para a autenticação multifatores. Para ver todos os utilizadores, poderá ter de alterar o filtro de estado **Multi-Factor Auth** na parte superior.
     
-4. Selecione a caixa de verificação ao lado dos utilizadores que pretende ativar.
+4. Selecione a caixa de verificação junto aos utilizadores que pretende ativar.
     
-5.  No painel de informações do utilizador certo, em **passos rápidos,** selecione **Enable**. 
+5.  No painel de informações de utilizador à direita, em passos **rápidos, selecione** Ativar .  
     
-6. Na caixa de diálogo que se abre, selecione **ative o auth multi-factor**. 
+6. Na caixa de diálogo que é aberta, selecione **Ativar Multi-Factor Auth**. 
     
 

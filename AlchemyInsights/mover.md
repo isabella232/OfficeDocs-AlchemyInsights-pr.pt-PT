@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: e1c1ca19944c55b055f807107d61b0d077743b68
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7bdf9b4fb0249084e081e57542c4a7365c1e84b8e5947c1e5aa90c3118f3930f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825310"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992050"
 ---
 # <a name="mover"></a>Mover
 
-Para obter informações sobre a Mover, consulte os seguintes artigos:
+Para obter mais informações sobre o Mover, consulte os seguintes artigos:
 
-- [Planeie a sua migração com o Mover](https://docs.microsoft.com/sharepointmigration/mover-plan-migration)
-- [Gerir conectores](https://docs.microsoft.com/sharepointmigration/mover-manage-connectors)
-- [Executando a migração do Mover](https://docs.microsoft.com/sharepointmigration/mover-running-migration)
+- [Planear a Migração com o Mover](https://docs.microsoft.com/sharepointmigration/mover-plan-migration)
+- [Gerir Conectores](https://docs.microsoft.com/sharepointmigration/mover-manage-connectors)
+- [Executar a migração Mover](https://docs.microsoft.com/sharepointmigration/mover-running-migration)

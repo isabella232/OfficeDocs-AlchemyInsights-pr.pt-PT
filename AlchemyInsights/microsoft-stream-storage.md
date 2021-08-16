@@ -1,5 +1,5 @@
 ---
-title: Armazenamento de fluxo de Microsoft
+title: Microsoft Stream Armazenamento
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001510"
 - "3570"
-ms.openlocfilehash: 8ee4c331cf706574df5a52ed66c72b775e2eed1d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9e09537aa8976f05b62236cf427976fc7b433fcf9d3156a5b81009c6b60a0db1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833950"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066159"
 ---
-# <a name="microsoft-stream-storage"></a>Armazenamento de fluxo de Microsoft
+# <a name="microsoft-stream-storage"></a>Microsoft Stream Armazenamento
 
-Os inquilinos do Microsoft Stream recebem uma atribuição fixa de 500 GB de armazenamento e um adicional de 0,5 GB de armazenamento por utilizador licenciado.
-Para mais detalhes sobre o armazenamento, consulte:
+Os inquilinos do Microsoft Stream recebem uma atribuição fixa de 500 GB de armazenamento e mais 0,5 GB de armazenamento por utilizador licenciado.
+Para obter mais detalhes sobre o armazenamento, consulte:
 
-- [Visão geral do armazenamento do Microsoft Stream](https://docs.microsoft.com/stream/license-overview#storage)
+- [O Microsoft Stream Armazenamento Geral](https://docs.microsoft.com/stream/license-overview#storage)
 - [Adicionar armazenamento ao Microsoft Stream](https://docs.microsoft.com/stream/storage-add-on)
 - [Quotas e limitações no Microsoft Stream](https://docs.microsoft.com/stream/quotas-and-limitations)

@@ -1,5 +1,5 @@
 ---
-title: Aplicativos móveis Microsoft Stream
+title: Aplicações móveis do Microsoft Stream
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -14,16 +14,16 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9001509"
 - "8646"
-ms.openlocfilehash: 0c6846d4c0f6e85ee245985a2b849f982030e470
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 0e3b29e16991b4792186a52e9b093c6031450405210ec139d9ff7edcc706284e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50482026"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066195"
 ---
-# <a name="microsoft-stream-mobile-apps"></a>Aplicativos móveis Microsoft Stream
+# <a name="microsoft-stream-mobile-apps"></a>Aplicações móveis do Microsoft Stream
 
-O Microsoft Stream está disponível através de aplicações móveis iOS e Android em telemóveis e tablets para permitir ver vídeos em movimento.
+O Microsoft Stream está disponível através de aplicações móveis iOS e Android em telemóveis e tablets para lhe permitir ver vídeos em qualquer lugar.
 
-- [Aplicativos móveis Microsoft Stream](https://docs.microsoft.com/stream/mobile-apps-overview)
-- [Obtenha aplicativos móveis Microsoft Stream](https://docs.microsoft.com/stream/mobile-get-apps)
+- [Aplicações móveis do Microsoft Stream](https://docs.microsoft.com/stream/mobile-apps-overview)
+- [Obter aplicações móveis do Microsoft Stream](https://docs.microsoft.com/stream/mobile-get-apps)

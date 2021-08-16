@@ -1,5 +1,5 @@
 ---
-title: Descarregue ficheiros e pastas a partir de OneDrive ou SharePoint
+title: Transferir ficheiros e pastas do OneDrive ou do SharePoint
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: f2f4d458d30960d387fed158d718a963e72d4f3e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: MT
+ms.openlocfilehash: a08539f4fb9824b6ab020416cbade061e06c24ea3414078981e39c2c10f4beee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750834"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017395"
 ---
-# <a name="download-files-and-folders-from-onedrive-or-sharepoint"></a>Descarregue ficheiros e pastas a partir de OneDrive ou SharePoint
+# <a name="download-files-and-folders-from-onedrive-or-sharepoint"></a>Transferir ficheiros e pastas do OneDrive ou do SharePoint
 
-Pode descarregar ficheiros e pastas do Microsoft OneDrive, ou do SharePoint no Microsoft 365 ou SharePoint Server 2019, para o seu computador com apenas alguns cliques. Para obter mais informações, consulte [descarregar ficheiros e pastas do OneDrive ou do SharePoint](https://support.microsoft.com/office/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05).
+Pode transferir ficheiros e pastas do Microsoft OneDrive ou do SharePoint no Microsoft 365 ou SharePoint Server 2019 para o seu computador com apenas alguns cliques. Para obter mais informações, [consulte Transferir ficheiros e pastas do OneDrive ou do SharePoint.](https://support.microsoft.com/office/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)

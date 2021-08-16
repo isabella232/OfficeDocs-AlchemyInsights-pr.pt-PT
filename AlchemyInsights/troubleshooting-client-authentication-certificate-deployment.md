@@ -1,5 +1,5 @@
 ---
-title: Resolução de problemas de autenticação do cliente implantação de certificados de autenticação de clientes
+title: Remoção da implementação do certificado de Autenticação de Cliente
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "1546"
 - "9000076"
-ms.openlocfilehash: cecbd091447e63f2d5012ceaf96e050c92a171e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78520b416a72a3c93a3d2e7726948d59f83e681d4f09078c2a3cefac7bf1db3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658997"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020815"
 ---
-# <a name="troubleshooting-client-authentication-certificate-deployment"></a>Resolução de problemas de autenticação do cliente implantação de certificados de autenticação de clientes
+# <a name="troubleshooting-client-authentication-certificate-deployment"></a>Remoção da implementação do certificado de Autenticação de Cliente
 
-Os perfis de certificados de cliente Intune NDES/SCEP e PKCS/PFX são comumente utilizados em conjunto com outros tipos de perfis, tais como Wifi, VPN e e-mail para permitir que os utilizadores autentem a autenticação aos recursos corporativos. Quando esses tipos de perfis estão ligados a um perfil de certificado de cliente dependem da implementação bem sucedida desse perfil.
+Os perfis de certificados de Cliente Intune NDES/SCEP e PKCS/PFX Client são geralmente utilizados em conjunto com outros tipos de perfis, como Wifi, VPN e e-mail, para permitir que os utilizadores autentiquem os recursos da empresa. Quando esses tipos de perfil estão ligados a um perfil de certificado de cliente dependem da implementação bem-sucedida nesse perfil.
 
-A configuração inicial da infraestrutura e a configuração associada do perfil do Certificado de Cliente requerem frequentemente uma resolução de problemas. Para um guia passo a passo para a configuração bem sucedida do conector NDES e orientação de resolução de problemas para isolar problemas com a implantação de certificados, consulte: 
+A configuração inicial da infraestrutura e a configuração associada do perfil do Certificado de Cliente exigem muitas vezes remoção de problemas. Para um guia passo a passo sobre a configuração com êxito do conector NDES e orientação para reação de problemas para isolar problemas com a implementação de certificados, consulte: 
 
-- [Configure a infraestrutura para apoiar o SCEP com a Intune](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
-- [Visão geral para resolução de perfis de certificado SCEP com o Microsoft Intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
+- [Configurar infraestrutura para suportar SCEP com o Intune](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
+- [Overview for troubleshooting SCEP certificate profiles with Microsoft Intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
 
-Utilize os scripts de powershell referenciados para ajudar a verificar a sua configuração. Para obter mais informações, consulte os scripts de [verificação do conector do Certificado Intune](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority).
+Utilize os scripts do PowerShell referenciados para ajudar a verificar a sua configuração. Para mais informações, consulte [Scripts de verificação do conector](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority)de Certificado do Intune.
 
   
-**Outras questões comuns**
+**Outros problemas comuns**
 
-**Quando tento instalar o conector de certificado Intune no servidor de conector NDES, recebo a mensagem: "A palavra-passe no pedido de certificado não pode ser verificada. Pode já ter sido usado. Obtenha uma nova senha para submeter com este pedido."**  
+**Quando tento instalar o conector de certificado do Intune no servidor de conector NDES, é-me enviada a mensagem "Não é possível verificar a palavra-passe no pedido de certificado. Já pode ter sido utilizado. Obtenha uma nova palavra-passe para submeter com este pedido."**  
 
-Esta mensagem significa que é necessário executar a instalação do conector do certificado como Administrador.
+Esta mensagem significa que tem de executar a instalação do conector de certificado como administrador.
 
-Em alguns ambientes, os servidores onde o Certificado Intune funciona devem utilizar um servidor proxy para se ligar ao Intune, pelo que o Conector de Certificado deve utilizar um representante. Em algumas circunstâncias, o Conector NDES ignora as configurações configuradas por procuração, e pode ser necessário configurar as definições de procuração enquanto funciona no contexto de segurança do Sistema Local. 
+Em alguns ambientes, os servidores onde o Certificado do Intune é executado têm de utilizar um servidor proxy para ligar ao Intune, pelo que o Conector de Certificados tem de utilizar um proxy. Em algumas circunstâncias, o Conector NDES ignora as definições de proxy configuradas e poderá ser necessário configurar as definições de proxy durante a execução no contexto de segurança do LocalSystem. 
  
-A solução é executar o Internet Explorer como SYSTEM e configurar um proxy no IE. Após um reinício do Serviço de Conector Intune, o Conector NDES liga-se ao Intune.
+A solução é executar o Internet Explorer como SISTEMA e configurar um proxy no IE. Após reiniciar o Serviço do Conector do Intune, o NDES Connector liga-se ao Intune.
 
-**Os dispositivos de utilizador deixaram de receber certificados SCEP da NDES.**
+**Os dispositivos de utilizador já não recebem certificados SCEP de NDES.**
 
-É possível que o certificado de autenticação do Cliente emitido para o servidor NDES, e especificado durante a instalação do conector NDES, tenha expirado ou esteja em falta. Para resolver: 
+É possível que o certificado de Autenticação de Cliente emitido para o servidor NDES e especificado durante a instalação do conector NDES tenha expirado ou estiver em falta. Para resolver: 
  
 1. Desinstale o conector NDES.  
-2. Utilize estes dados para solicitar um novo certificado de autenticação do cliente ou autenticação do servidor: 
+2. Utilize estes detalhes para pedir um novo certificado de autenticação de cliente ou de autenticação do servidor: 
  
     - Nome do assunto: CN=fqdn externo  
-    - Nome alternativo do assunto (ambos são necessários): DNS=fqdn externo, DNS=fqdn interno 
+    - Nome alternativo do assunto (ambos são obrigatórios): DNS=fqdn externo, DNS=fqdn interno 
  
-3. Volte a instalar o conector NDES com o novo certificado.
+3. Reinstale o conector NDES com o novo certificado.

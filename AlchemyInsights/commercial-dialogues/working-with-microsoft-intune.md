@@ -1,5 +1,5 @@
 ---
-title: Trabalhar na Microsoft Intune
+title: Trabalhar no Microsoft Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 2ea412617caa77d50813941dafce84a972a2cfe2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09401ceb0bcdcfe280f2e7e293caffc8a4189561bf26b713c98f015991134e21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751034"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069904"
 ---
-# <a name="working-in-microsoft-intune"></a>Trabalhar na Microsoft Intune
+# <a name="working-in-microsoft-intune"></a>Trabalhar no Microsoft Intune
 
-Aqui estão alguns fundamentos intune:
+Eis algumas noções básicas do Intune:
 
-- [O que é Intune?](https://docs.microsoft.com/mem/intune/fundamentals/what-is-intune)
-- [Como se inscrever para o julgamento de Intune?](https://docs.microsoft.com/mem/intune/fundamentals/free-trial-sign-up)
-- [Criação de Intune pela primeira vez](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
-- [O que é a inscrição do dispositivo em Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)
-- [Utilize o portal de resolução de problemas para ajudar os utilizadores na sua empresa](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
+- [O que é o Intune?](https://docs.microsoft.com/mem/intune/fundamentals/what-is-intune)
+- [Como se pode inscrever na versão de avaliação do Intune?](https://docs.microsoft.com/mem/intune/fundamentals/free-trial-sign-up)
+- [Configurar o Intune pela primeira vez](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
+- [O que é a inscrição de dispositivos no Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)
+- [Utilizar o portal de remoção de problemas para ajudar os utilizadores da sua empresa](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
 
-[Leia mais sobre a Microsoft Intune...](https://docs.microsoft.com/mem/intune/)
+[Leia mais sobre Microsoft Intune...](https://docs.microsoft.com/mem/intune/)

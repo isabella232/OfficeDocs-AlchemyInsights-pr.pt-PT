@@ -1,5 +1,5 @@
 ---
-title: Criar uma proteção anti-correio publicitário não-correio ("Correio
+title: Configurar uma proteção antisspam
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 8bc5c98dc9f60ae23b52b36d2087cafbb9fd6491
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401846"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058517"
 ---
-# <a name="set-up-an-anti-spam-protection"></a>Criar uma proteção anti-correio publicitário não-correio ("Correio
+# <a name="set-up-an-anti-spam-protection"></a>Configurar uma proteção antisspam
 
-Eis como fazer isto:
+Eis como fazê-lo:
 
-1. Vá ao [Centro de Segurança & Compliance do Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Navegue para a Política **de Gestão de Ameaças** e clique em  >   **[Antisspam](https://go.microsoft.com/fwlink/p/?linkid=2077143)**.
-1. No separador **Personalizado,** ligue as definições **personalizadas.**
-1. Expandir a **política de filtro de spam predefinido,** clique na política de **edição** e, em seguida, especifique as seguintes definições:
-    1. Na secção de ações de **spam e granéis,** fixar o limiar para um valor de 5 ou 6.
+1. Vá para o Centro [de conformidade Office 365 de & de Conformidade.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Navegue para a Política **de**  >  **Gestão de Ameaças** e clique **[em Antisspam](https://go.microsoft.com/fwlink/p/?linkid=2077143)**.
+1. No separador **Personalizar,** ate as **Definições** personalizadas.
+1. Expanda a **Política do filtro de spam predefinida**, clique em **Editar política** e, em seguida, especifique as seguintes definições:
+    1. Na secção **Ações de spam e em** volume, defina o limiar para um valor de 5 ou 6.
 1. Clique em **Guardar**.
 
-Para saber mais sobre as suas opções de política anti-correio publicitário não-correio publicitário não-correio eletrónico, consulte [as políticas anti-correio publicitário não-correio](https://go.microsoft.com/fwlink/?linkid=2092051)eletrónico.
+Para saber mais sobre as opções da sua política antisspam, consulte [Configurar as políticas antisspam.](https://go.microsoft.com/fwlink/?linkid=2092051)

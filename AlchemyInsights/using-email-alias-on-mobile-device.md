@@ -1,5 +1,5 @@
 ---
-title: 725 Usando pseudónimo de e-mail no dispositivo móvel
+title: 725 Utilizar alias de e-mail num dispositivo móvel
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "725"
 - "1"
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: 7eea3de92019afb801b1b843ef562b42ea85c7dd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8aa55a0f4f054a3e36a2c04b455d5fab3507e8dd12c0d59f9c05e1e21374468
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749092"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998363"
 ---
-# <a name="email-aliases-on-mobile-devices"></a>Pseudónimos de e-mail em dispositivos móveis
+# <a name="email-aliases-on-mobile-devices"></a>Aliases de e-mail em dispositivos móveis
 
-Um pseudónimo de e-mail é apenas mais um endereço de e-mail configurado numa caixa de correio, pelo que as mensagens enviadas para o pseudónimo de um utilizador serão entregues na sua caixa de correio e serão legíveis no seu dispositivo móvel. Não é necessária nenhuma configuração adicional.
+Um alias de e-mail é apenas outro endereço de e-mail configurado numa caixa de correio, pelo que as mensagens enviadas para o alias de um utilizador serão entregues na caixa de correio do utilizador e serão lidas no respetivo dispositivo móvel. Não é necessária qualquer configuração adicional.
 
-Mas, um utilizador não pode responder a mensagens ou enviar novas mensagens usando um pseudónimo como endereço From. Todas as mensagens de saída serão do seu principal endereço de e-mail.
+No entanto, um utilizador não pode responder a mensagens ou enviar novas mensagens utilizando um alias como endereço De. Todas as mensagens a enviar serão enviadas a partir do seu endereço de e-mail principal.

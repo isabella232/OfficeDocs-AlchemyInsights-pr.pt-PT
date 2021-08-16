@@ -1,5 +1,5 @@
 ---
-title: O que fazer quando uma conta é pirateada
+title: O que fazer quando uma conta é hackeada
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 9c6bab9545136cf6bf26ae41c3776d6f7892a81f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: fc20d37f01873caa42fd6820eb366ab5bf4a2fdb303fb82842435d84da067f26
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402448"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069933"
 ---
-# <a name="what-to-do-when-an-account-is-hacked"></a>O que fazer quando uma conta é pirateada
+# <a name="what-to-do-when-an-account-is-hacked"></a>O que fazer quando uma conta é hackeada
 
-Se acha que uma conta de utilizador foi pirateada, faça o seguinte:
+Se pensa que alguém acedeu a uma conta de utilizador de forma i acesso idediático, faça o seguinte:
 
-1. [Repor imediatamente a palavra-passe do utilizador](https://go.microsoft.com/fwlink/?linkid=2103704) . Não envie a nova senha por e-mail para o utilizador.
-1. [Remova quaisquer endereços de encaminhamento suspeitos definidos](https://go.microsoft.com/fwlink/?linkid=2103705) na caixa de correio.
-1. [Remova as regras de reencaminhamento definidas](https://go.microsoft.com/fwlink/?linkid=2103706) na caixa de correio.
-1. Se o utilizador estiver impedido de enviar e-mails, confirme que a sua conta não foi comprometida e, em seguida, remova-a da [página Utilizadores Restritos](https://go.microsoft.com/fwlink/?linkid=2103706).
-1. Remova a conta de utilizador de quaisquer [grupos de funções administrativas](https://go.microsoft.com/fwlink/?linkid=2092294).
+1. [Repor a palavra-passe do utilizador](https://go.microsoft.com/fwlink/?linkid=2103704) *imediatamente.* Não envie a nova palavra-passe por e-mail para o utilizador.
+1. [Remova quaisquer endereços de re encaminhamento](https://go.microsoft.com/fwlink/?linkid=2103705) suspeitos definidos na caixa de correio.
+1. [Remova as regras de re encaminhamento](https://go.microsoft.com/fwlink/?linkid=2103706) definidas na caixa de correio.
+1. Se o utilizador estiver bloqueado para enviar e-mails, confirme que a conta não foi comprometida e, em seguida, remova-a da página Utilizadores [Restritos.](https://go.microsoft.com/fwlink/?linkid=2103706)
+1. Remova a conta de utilizador de [qualquer grupo de funções administrativas](https://go.microsoft.com/fwlink/?linkid=2092294).

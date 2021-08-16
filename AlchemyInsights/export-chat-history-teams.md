@@ -1,5 +1,5 @@
 ---
-title: História do Chat de Exportação em Equipas
+title: Exportar o Histórico de Conversas Teams
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom:
 - "9003839"
 - "6887"
-ms.openlocfilehash: afce8ac024a03d51473cfdad0131be0556915cdb
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: dfa1d13f863a913e2c6de6111a2946b0a95ad8038b7b4ab15091ca3e1271e7a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922159"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100485"
 ---
-# <a name="export-chat-history-in-teams"></a>História do Chat de Exportação em Equipas
+# <a name="export-chat-history-in-teams"></a>Exportar o Histórico de Conversas Teams
 
-- Exportar, fazer backup, imprimir e arquivar o histórico de conversas não está atualmente disponível para os utilizadores diretamente das Equipas da Microsoft. Por favor, vote nesta capacidade no [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20).
-- Como administrador ou gestor de eDiscovery, pode criar uma [Pesquisa de Conteúdo](https://docs.microsoft.com/microsoft-365/compliance/content-search?view=o365-worldwide)  no centro de conformidade microsoft 365 para procurar e, em seguida, exportar conversas instantâneas de mensagens na sua organização. Para mais informações, consulte [os resultados da Pesquisa de Conteúdos de Exportação.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide)
+- Neste momento, a exportação, cópia de fundo, impressão e arquivo do histórico de conversações não está disponível para os utilizadores diretamente a partir Microsoft Teams. Vote nesta capacidade no [UserVoice.](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20)
+- Como administrador ou gestor da Deteção de [](https://docs.microsoft.com/microsoft-365/compliance/content-search?view=o365-worldwide) Conteúdos, pode criar uma Pesquisa de Conteúdos no Centro de Conformidade do Microsoft 365 para procurar e, em seguida, exportar conversações de mensagens instantâneas na sua organização. Para obter mais informações, consulte [Exportar resultados da Pesquisa de Conteúdos.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide)

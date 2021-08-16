@@ -1,5 +1,5 @@
 ---
-title: Criar serviços online
+title: Configurar serviços online
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 94651ca9efff3c6b7ab1ba858e092247195679f9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 55ee011c16fe9bd7a35cde1a73dd610d988f227c316f379adab0483973ab903d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747484"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070407"
 ---
-# <a name="set-up-online-services"></a>Criar serviços online
+# <a name="set-up-online-services"></a>Configurar serviços online
 
-Para configurar serviços online, execute os seguintes passos:
+Para configurar serviços online, efetue os seguintes passos:
 
-1. No **Add os registos da sua** página do site: a. Clique **em Seguinte**, se não tiver um site. Em seguida, aterra na página **de definições de DNS de atualização.**
-    b. Encontre o registo no seu fornecedor de hospedagem DNS, se tiver um website. Em seguida, copie e cole-o na página.
-2. Clique em **seguida** para ir à página **de definições DE DNS de atualização.**
+1. Na página **Adicionar os registos do seu Web site:** a. Clique **em** Seguinte, se não tiver um site. Em seguida, é-lhe pedido que **atualize as definições de DNS.**
+    b. Localmente o registo no seu fornecedor de anfitriões DNS, se tiver um site. Em seguida, copie e copie-o na página.
+2. Clique **em Seguinte** para ir para a página **Atualizar definições de DNS.**

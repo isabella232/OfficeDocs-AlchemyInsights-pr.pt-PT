@@ -1,5 +1,5 @@
 ---
-title: Apagar uma gravação de reunião em Equipas
+title: Eliminar uma gravação da reunião no Teams
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -8,26 +8,26 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: c8e6c1bc9a64cca6bf84c13e71387629326f62f4
-ms.sourcegitcommit: dd4054a97ac9c317cb559994846a9695543ddc2c
+ms.openlocfilehash: b58ca3d72eb7e937fbc33beb87a5f47e4b6280ca845224f973189e689c33c03c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447466"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031561"
 ---
-# <a name="delete-a-meeting-recording-in-teams"></a>Apagar uma gravação de reunião em Equipas
+# <a name="delete-a-meeting-recording-in-teams"></a>Eliminar uma gravação da reunião no Teams
 
-Os proprietários de gravações (ou a pessoa que iniciou a gravação, ou quaisquer proprietários adicionais nomeados por essa pessoa) são as únicas pessoas que podem apagar gravações.  
+Os proprietários da gravação (a pessoa que iniciou a gravação ou quaisquer proprietários adicionais nomeados por essa pessoa) são a única pessoa que pode eliminar gravações.  
 
-Para aprender sobre a eliminação de uma gravação de reunião no OneDrive (para reuniões não-canais),  [vá aqui](https://support.microsoft.com/office/21fe345a-e488-4fa7-932b-f053c1bebe8a).  
+Para saber mais sobre como eliminar uma gravação da reunião no OneDrive (para reuniões que não sejam de canal), [vá aqui.](https://support.microsoft.com/office/21fe345a-e488-4fa7-932b-f053c1bebe8a)  
 
-Para aprender sobre a eliminação de uma gravação de reunião no SharePoint (para reuniões de canais),  [vá aqui](https://support.microsoft.com/office/71f3c90a-0d24-4d80-8b66-f88234b79a52).  
+Para saber mais sobre como eliminar uma gravação da reunião no SharePoint (para reuniões de canal), [vá aqui.](https://support.microsoft.com/office/71f3c90a-0d24-4d80-8b66-f88234b79a52)  
 
 **Importante:**
 
-- No 1º trimestre de 2021, **as equipas que reúnem as gravações deixarão de ser guardadas para o  [Microsoft Stream](https://stream.microsoft.com/)**. Seguindo em frente, todas as gravações de reunião serão guardadas para OneDrive e SharePoint. Algumas organizações já estão a optar por fazer esta mudança. Para estes utilizadores, a migração para  [OneDrive e SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change)  começará em outubro de 2020.
+- No T1 de 2021, Teams gravações de reuniões deixarão de **ser guardadas no [Microsoft Stream.](https://stream.microsoft.com/)** Depois disso, todas as gravações da reunião serão guardadas nas OneDrive e no SharePoint. Algumas organizações já estão a optar por fazer esta alteração. Para esses utilizadores, a migração para [o OneDrive e o SharePoint começará](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change) em outubro de 2020.
 
 **Se a sua organização ainda utilizar o Stream,** siga estas instruções:
 
-- Em Teams, vá à gravação na história do chat e clique em Mais opções ****** > Open no Microsoft Stream.
-- No portal Microsoft Stream, clique em ******* > Delete.
+- No Teams, vá para a gravação no histórico de conversas e clique em Mais opções ******* em > Abrir no Microsoft Stream.
+- No portal do Microsoft Stream, clique em ******* para > Eliminar.

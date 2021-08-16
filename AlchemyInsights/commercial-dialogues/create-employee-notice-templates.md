@@ -1,5 +1,5 @@
 ---
-title: Crie modelos de aviso de funcionário
+title: Criar modelos de aviso para funcionários
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ae3efbab6b8d7778911107ba6d724f3555078c55
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c4259668c500987b16a7a4f31e3be37c42b23d45efec35b522c95213680299f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750989"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070659"
 ---
-# <a name="create-employee-notice-templates"></a>Crie modelos de aviso de funcionário
+# <a name="create-employee-notice-templates"></a>Criar modelos de aviso para funcionários
 
-Este passo é opcional. Pode criar modelos de aviso personalizados para enviar notificações de e-mail aos colaboradores como opção de remediação para jogos de política.
+Este passo é opcional. Pode criar modelos de aviso personalizados para enviar notificações de e-mail a funcionários como uma opção de remediação para correspondências de políticas.
 
-Se quiser ter a opção de responder a um alerta de política enviando um aviso de lembrete ao empregado associado, terá de criar pelo menos um modelo de aviso na sua organização.
+Se quiser ter a opção de responder a um alerta de política enviando um aviso de lembrete para o funcionário associado, terá de criar pelo menos um modelo de aviso na sua organização.
 
-Para saber como, consulte [Criar modelos de aviso de funcionários](https://go.microsoft.com/fwlink/?linkid=2129080).
+Para saber como, consulte Criar [modelos de aviso para funcionários.](https://go.microsoft.com/fwlink/?linkid=2129080)

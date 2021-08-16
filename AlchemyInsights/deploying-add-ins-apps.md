@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 3aacc3c6675f4102a5b34a435c862215dbfd0479b75549d608ed3c91021ed3d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233545"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031417"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Implementar os add-ins para Microsoft 365 Apps
 
@@ -27,7 +27,7 @@ A Implementação Centralizada é a forma recomendada de implementar Office para
 **Nota:** Para instalar os seus Office como um utilizador individual, consulte [Ver,](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d)gerir e instalar os seus Office programas . Além disso, certifique-se de que a aquisição individual Office da Store está ativada. Para obter detalhes, consulte Impedir transferências de [add-in ao desligá-la da Office Store](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)em todos os clientes (exceto Outlook).
 
 1. Certifique-se de que o seu ambiente cumpre os requisitos para a implementação de add-ins através da Implementação Centralizada. Para obter detalhes, consulte [Requisitos.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements)
-2. Vá para **Definições**  >  **Aplicações Integradas** Obter aplicações no Microsoft 365 de administração para implementar  >   os add-ins. 
+2. Vá para **Definições**  >  **Aplicações**  >  **Integradas** Obter aplicações na centro de administração do Microsoft 365 para implementar os add-ins. 
 
 Notas: 
 
@@ -46,6 +46,6 @@ Para mais informações, consulte:
 [Implementar os add-ins no centro de administração](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins) 
  [Gerir os add-ins no centro de administração](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center) 
  [Utilizar os cmdlets do PowerShell de Implementação Centralizada para gerir os add-ins](https://docs.microsoft.com/microsoft-365/enterprise/use-the-centralized-deployment-powershell-cmdlets-to-manage-add-ins) 
- [Publicar Office com](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) a Implementação Centralizada através do Microsoft 365 de administração 
- [Remoção de problemas: o utilizador não está a ver os seus add-ins](https://docs.microsoft.com/office365/troubleshoot/access-management/user-not-seeing-add-ins) 
+ [Publicar Office com a](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) Implementação Centralizada através 
+ da Centro de administração do Microsoft 365 [Remoção de problemas: o utilizador não está a ver os seus add-ins](https://docs.microsoft.com/office365/troubleshoot/access-management/user-not-seeing-add-ins) 
  [Remova erros de utilizadores com Office com os Add-ins](https://docs.microsoft.com/office/dev/add-ins/testing/testing-and-troubleshooting)

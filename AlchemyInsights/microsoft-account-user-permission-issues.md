@@ -1,5 +1,5 @@
 ---
-title: Problema de resolução de problemas - Utilizador não encontrado no diretório
+title: Remoção de problemas – o utilizador não foi encontrado no diretório
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,31 +9,31 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 512494a69ab274af00962cb9777a3479b4200fd7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 79429f8e9523ad6b08cd2cd2b19dd221bac797d00de142cbb18826b86fb5ae4e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725418"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098181"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Problema de resolução de problemas - Utilizador não encontrado no diretório
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Remoção de problemas – o utilizador não foi encontrado no diretório
 
-Se os utilizadores estiverem a receber uma mensagem de erro "o utilizador não pode ser encontrado" no diretório, tente novamente onde o Tipo de Problemas está no diretório do Utilizador.
+Se os utilizadores estiverem a receber uma mensagem de erro "Não é possível encontrar o utilizador" no diretório, tente novamente onde o Tipo de Problema é Utilizador e não no diretório.
 
-Os seguintes passos podem ser concluídos para resolver problemas.
+Os passos seguintes podem ser concluídos para detetar o problema.
 
-- Certifique-se de que a conta que aceitou o convite por e-mail é a mesma que está a ser usada para iniciar scontabilidade mais tarde. Certifique-se de que o utilizador está a usar a mesma conta para aceitar o convite e assinar no site. 
+- Certifique-se de que a conta que aceitou o convite por e-mail é a mesma conta que está a ser utilizada para entrar mais tarde. Certifique-se de que o utilizador está a utilizar a mesma conta para aceitar o convite e para entrar no site. 
 
-Para obter mais informações, consulte [Como gerir os pseudónimos da sua conta Microsoft </a> para gerir o login da Microsoft 365](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+Para mais informações, consulte Como gerir aliases da sua conta Microsoft para gerir o início [ </a> Microsoft 365 início de sessão.](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases) 
 
-- Navegue por cada site(s) em que o utilizador esteja a receber o erro. 
+- Navegue até cada site(s) em que o utilizador está a receber o erro. 
 
-Adicione "/_layouts/15/people.aspx/membershipgroupid=0" (dentro das cotações duplas) até ao final do URL do site. 
+Adicione "/_layouts/15/people.aspx/membershipgroupid=0" (entre aspas) ao final do URL do site. 
 
 Exemplo: https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
-- Selecione o utilizador da lista.
+- Selecione o utilizador a partir da lista.
 
-- Clique **em Remover Permissões** do Utilizador da Fita. 
--  Adicione de volta o Utilizador e reenvimente o convite ao utilizador.
+- Clique **em Remover Permissões de** Utilizador do Fita. 
+-  Adicione novamente o Utilizador e Reenviar o convite ao utilizador.
 

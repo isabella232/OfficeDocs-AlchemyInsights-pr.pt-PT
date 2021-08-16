@@ -1,5 +1,5 @@
 ---
-title: Medidas para resolver o erro de ativação do escritório 0x80070005
+title: Passos para resolver o erro de ativação do Office 0x80070005
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "914"
 - "2000021"
 ms.assetid: d291c13a-723e-4425-8e49-baa465ec2505
-ms.openlocfilehash: 70f349cf09bb0204f958735724633904b01672b7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 086c2db7775baabeb5c66eda9e767362fef20f98237021a0b348d8e5d50392b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750858"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021427"
 ---
-# <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Medidas para resolver o erro de ativação do escritório 0x80070005
+# <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Passos para resolver o erro de ativação do Office 0x80070005
 
-Se o erro 0x80070005 tiver começado após a atualização do Windows, pode corrigir o problema atualizando o registo.
+Se o 0x80070005 de erro iniciado após atualizar o Windows, pode corrigir o problema ao atualizar o registo.
   
-Descarregue e instale o [Assistente de Suporte e Recuperação](https://aka.ms/SARA-OfficeActivation-Alchemy) e execute o **Resolução de Problemas de Ativação**.
+Transfira e [instale a Assistente de Recuperação e Suporte](https://aka.ms/SARA-OfficeActivation-Alchemy) e execute a **Remoção de Problemas de Ativação.**
   
-Para obter ajuda adicional, consulte: [Código de erro do Office 0x80070005 ao ativar o Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)
+Para obter ajuda adicional, consulte: [Código Office de erro 0x80070005 ao ativar Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)
   

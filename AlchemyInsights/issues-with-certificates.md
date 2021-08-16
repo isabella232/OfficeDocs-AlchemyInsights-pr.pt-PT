@@ -1,5 +1,5 @@
 ---
-title: Emissões com certificados
+title: Problemas com certificados
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "7749"
 - "9004340"
-ms.openlocfilehash: 168103463ee7c2d599b89ca883b410223486f59a
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 4b4a09dc5910087f1dcef4a1c01063f890ff67fc44b1db9b6cdf1391a05530c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974726"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027907"
 ---
-# <a name="issues-with-certificates"></a>Emissões com certificados
+# <a name="issues-with-certificates"></a>Problemas com certificados
 
-Para obter orientações sobre questões relacionadas com a resolução de problemas relacionadas com certificados, consulte os seguintes artigos:
+Para orientar a remoção de problemas relacionados com certificados, consulte os seguintes artigos:
 
-- [Inicie com a autenticação baseada em certificados no Azure Ative Directory](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started)  - Passos para configurar e utilizar a autenticação baseada em certificados para utilizadores de inquilinos nos planos do Office 365 Enterprise, Business, Education e US Government.
+- Começar com a autenticação baseada em certificados no [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started) - Passos para configurar e utilizar a autenticação baseada em certificados para os utilizadores de inquilinos nos planos do Office 365 Enterprise, Empresas, Educação e dos EUA.
 
-- [Resolução de problemas Azure AD Certificate-Based Problemas de autenticação](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  - Informações para ajudá-lo a resolver problemas de autenticação baseados em certificados.
+- [Remoção de problemas de autenticação do Azure AD Certificate-Based](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  - Informações para o ajudar a refletir problemas de autenticação baseados em certificados.
 
-- [Gerir certificados para um único sign-on federado no Azure Ative Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on)  - Questões comuns e informações relacionadas com certificados que o Azure Ative Directory (Azure AD) cria para estabelecer um único sign-on federado (SSO) para o seu software como aplicações de serviço (SaaS).
+- Gerir certificados para o registo único [federado](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on) do Azure Active Directory - Perguntas comuns e informações relacionadas com certificados que o Azure Active Directory (Azure AD) cria para estabelecer o SSO (Federated Single Sign-On) para o seu software como aplicações de serviço (SaaS).
 
-- [Opções avançadas de assinatura de certificado no token SAML para apps de galeria em Azure Ative Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)  - Saiba mais sobre as três opções de assinatura de certificados da Azure AD.
+- Opções avançadas de assinatura de certificados no [token SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options) para aplicações da galeria no Azure Active Directory - Saiba mais sobre as três opções de assinatura de certificados do Azure AD.

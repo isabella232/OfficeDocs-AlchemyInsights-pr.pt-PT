@@ -1,5 +1,5 @@
 ---
-title: Alterar o tipo de conta entre a conta microsoft e a conta local
+title: Alterar o tipo de conta entre a conta Microsoft e a conta local
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3450"
 - "9001449"
-ms.openlocfilehash: 488615dfb6bc1316c1d76d50e37737034b569113
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8a26f93f89d6aba5ed889cdfb862bfdc7ae520faffbdc7efc6778a38c8ba12af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818443"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968604"
 ---
-# <a name="change-the-account-type-that-you-sign-in-with"></a>Altere o tipo de conta com o que iniciará
+# <a name="change-the-account-type-that-you-sign-in-with"></a>Alterar o tipo de conta em que está a entrar
 
-Eis como alterar o tipo de conta que utiliza para iniciar scontabilidade no Windows 10:
+Eis como alterar o tipo de conta que utiliza para entrar no Windows 10:
 
-1. Selecione   >  **Iniciar**  >  **Definições Contas**  >  **A sua informação**.
-2. Se estiver a utilizar uma conta local que não esteja ligada a um endereço de e-mail mas que pretenda utilizar uma conta Microsoft, selecione **Iniciar sôs com uma conta microsoft** em vez disso.
-3. Se estiver a utilizar uma conta Microsoft que esteja ligada a um endereço de e-mail mas que pretenda utilizar uma conta local, selecione **Iniciar sôs com uma conta local.**
-4. Se necessário, introduza a sua palavra-passe e, em seguida, selecione **Seguinte**.
-5. Reinicie o seu dispositivo. Da próxima vez que assinar, a conta para a que trocou será mostrada.
+1. **Selecione**  >  **Iniciar Definições**  >  **Contas** As  >  **suas informações**.
+2. Se estiver a utilizar uma conta local que não esteja associada a um endereço de e-mail mas que pretende utilizar uma conta Microsoft, selecione Em alternativa, Inscreva-se com **uma conta Microsoft**.
+3. Se estiver a utilizar uma conta Microsoft que está associada a um endereço de e-mail mas que pretende utilizar uma conta local, selecione Em alternativa, Inscreva-se com uma **conta local**.
+4. Se for necessário, introduza a sua palavra-passe e, em seguida, **selecione Seguinte.**
+5. Reinicie o dispositivo. Da próxima vez que entrar, será apresentada a conta para a onde mudou.

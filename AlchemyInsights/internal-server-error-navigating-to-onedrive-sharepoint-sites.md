@@ -1,5 +1,5 @@
 ---
-title: Questões de desempenho-SharePoint ou OneDrive
+title: Problemas de desempenho no SharePoint ou OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 99d99b22c7ec5e3bde6a89dc2da8e08c2162bf65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00516d08384cd29de46c7f49bcd673f285d56a8c349fc2adefa5ea2173abd7b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677181"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028447"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Erro do servidor interno ao navegar para sites Sharepoint ou OneDrive
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Erro de servidor interno ao navegar para o SharePoint ou para OneDrive sites
 
-Os utilizadores podem receber um erro de servidor interno de 500 ao tentarem navegar para sites SharePoint ou OneDrive. 
+Os utilizadores poderão receber um erro de servidor interno de 500 ao tentarem navegar para o SharePoint ou para OneDrive sites. 
 
-Por favor, tente limpar a cache do navegador antes de navegar para o site.
+Tente limpar a cache do browser antes de navegar para o site.
 
 
-1. No navegador Microsoft Edge, aceda a Definições mais...>
+1. No browser Microsoft Edge, vá para Mais... > Definições
 
-2. Em dados de navegação claros, **selecione Escolha o que limpar**
+2. Em Limpar dados de navegação, selecione **Escolher o que limpar**
 
-3. Selecione os Cookies e guarde a caixa de verificação de dados do site e selecione **Clear**.
+3. Selecione a caixa de verificação Cookies e dados do Web site guardados e **selecione Limpar**.
 
-Nota: Estes passos podem diferir quando se utilizam outros navegadores como o Firefox ou o Chrome.
+Nota: estes passos poderão ser diferentes ao utilizar outros browsers como o Firefox ou o Chrome.
 
-Se isto não resolver o problema, pode verificar se existe manutenção ativa no seu inquilino navegando para o [Centro de Mensagens](https://portal.office.com/adminportal/home#/MessageCenter).
+Se isto não resolver o problema, pode verificar se existe uma manutenção ativa no seu inquilino ao navegar para o [Centro de mensagens.](https://portal.office.com/adminportal/home#/MessageCenter)
 
-Por fim, certifique-se de que visita a página [de Saúde](https://portal.office.com/adminportal/home#/servicehealth) do Serviço para verificar quaisquer avisos/incidentes que possam ocorrer.
+Por fim, certifique-se de [que visita](https://portal.office.com/adminportal/home#/servicehealth) a página Estado de Funcionamento do Serviço para verificar se estão a ocorrer avisos/incidentes.
 

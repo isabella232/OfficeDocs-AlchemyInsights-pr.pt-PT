@@ -1,5 +1,5 @@
 ---
-title: Atributo de erroValueMustBeUnique
+title: Error AttributeValueMustBeUnique
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
-ms.openlocfilehash: 35eb88624a5535e136ac1d01faf8e905bf00eb45
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 37d6764d19d9cfbb0899a5ab85a4b1530896568adc364122075b7d6f2a32970a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813771"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002131"
 ---
-# <a name="error-attributevaluemustbeunique"></a>Erro: AtributoValueMustBeUnique
+# <a name="error-attributevaluemustbeunique"></a>Erro: AttributeValueMustBeUnique
 
-A razão mais comum para o erro AttributeValueMustBeUnique é dois objetos com diferentes SourceAnchor (imuttableId) têm o mesmo valor para os atributos ProxyAddresses e/ou UserPrincipalName. Para corrigir o erro Do ValorValueMustBeUnique:
+O motivo mais comum para o erro AttributeValueMustBeUnique é que dois objetos com SourceAnchor (immutableId) diferentes têm o mesmo valor para os atributos ProxyAddresses e/ou UserPrincipalName. Para corrigir o erro AttributeValueMustBeUnique:
   
-1. Identifique os proxyAddresses duplicados, userPrincipalName ou outro valor de atributo que está a causar o erro. Identifique também quais dois (ou mais) objetos estão envolvidos no conflito. O relatório gerado pela Azure AD Connect Health para sincronização pode ajudá-lo a identificar os dois objetos.
+1. Identifique os proxyAddresses duplicados, userPrincipalName ou outro valor de atributo que está a causar o erro. Identifique também que dois (ou mais) objetos estão envolvidos no conflito. O relatório gerado pelo Azure AD Ligação Estado de Saúde para sincronização pode ajudá-lo a identificar os dois objetos.
     
-2. Identifique qual o objeto que deve continuar a ter o valor duplicado e qual o objeto que não deve.
+2. Identifique que objeto deverá continuar a ter o valor duplicado e qual o objeto que não deve ter.
     
-3. Retire o valor duplicado do objeto que NÃO deve ter esse valor. Note que deve fazer a alteração no diretório de onde o objeto é obtido. Em alguns casos, poderá ser necessário eliminar um dos objetos em conflito.
+3. Remova o valor duplicado do objeto que NÃO deve ter esse valor. Tenha em atenção que deve fazer a alteração no diretório de origem do objeto. Em alguns casos, poderá ter de eliminar um dos objetos em conflito.
     
-4. Se escoda a alteração no AD das instalações, deixe o Azure AD Ligar sincronizar a alteração para que o erro seja corrigido.
+4. Se fez a alteração no AD no local, deixe que o Azure AD Ligação sincroniza a alteração para que o erro seja corrigido.
     
 

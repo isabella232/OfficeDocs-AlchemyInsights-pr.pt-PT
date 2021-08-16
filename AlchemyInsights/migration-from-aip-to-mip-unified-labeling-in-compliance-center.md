@@ -1,5 +1,5 @@
 ---
-title: Migração da AIP para mOP/Rotulagem Unificada no Centro de Conformidade
+title: Migração de AIP para MIP/Etiquetagem Unificada no Centro de Conformidade
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 378c3f58f77db8b23682432c942cd4f9c3a392651ca6564528a635724ad66a25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825382"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000367"
 ---
-# <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migração da AIP para mOP/Rotulagem Unificada no Centro de Conformidade
+# <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migração de AIP para MIP/Etiquetagem Unificada no Centro de Conformidade
 
-Para migrar das etiquetas AIP para a Rotulagem Unificada no centro de Segurança e Conformidade, faça o seguinte:
+Para migrar de etiquetas AIP para Etiquetas Unificadas no Centro de Conformidade e Segurança, faça o seguinte:
 
-**Ativar a proteção a partir do portal Azure**
+**Ativar proteção a partir do portal do Azure**
 
-1. Se ainda não o fez, abra uma nova janela do navegador e [inscreva-se no portal Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). Navegue para a lâmina **de proteção de informação Azure.** Por exemplo, no menu do hub, clique em **Todos os serviços** e comece a escrever **Informações** na caixa filtro. Selecione **Azure Information Protection**. Se ainda não acedeu à lâmina de Proteção de Informação Azure, consulte os [passos adicionais](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) de uma vez para adicionar esta lâmina ao portal. Para abrir a lâmina de proteção de informação Azure, deve ter um [plano Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) ou um plano Office 365 que inclua a Gestão de Direitos. Se tiver uma destas subscrições, mas vir uma mensagem de que não é possível encontrar uma subscrição válida, [contacte o Microsoft Support](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) ou utilize os seus canais de suporte padrão.
+1. Caso ainda não o tenha feito, abra uma nova janela do browser e [inscreva-se no portal do Azure.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) Navegue até ao blade **do Azure Information Protection.** Por exemplo, no menu central, clique em Todos **os serviços** e comece a escrever **Informações** na caixa Filtro. **Selecione Azure Information Protection.** Se ainda não acedeu ao blade do Azure Information [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) Protection, consulte os passos adicionais únicos para adicionar esta porta ao portal. Para abrir o blade do Azure Information Protection, tem de ter um plano [do Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) ou um plano de Office 365 que inclua a Gestão de Direitos. Se tiver uma destas subscrições, mas vir uma mensagem a dizer que não é possível encontrar uma subscrição válida, [contacte](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) o Suporte da Microsoft ou utilize os seus canais de suporte padrão.
 
-2. Localize as opções do menu **Gerir** e selecione **ativação de proteção**. Clique **em Ativar** e, em seguida, confirme a sua ação. Quando a ativação estiver concluída, a barra de informação mostra **a ativação terminada com sucesso**.
+2. Localize **as opções do** menu Gerir e selecione **Ativação da proteção.** Clique em **Ativar** e, em seguida, confirme a sua ação. Quando a ativação estiver concluída, a barra de informações apresenta **Ativação concluída com êxito.**
 
-**Migrar etiquetas de proteção de informação do Azure para o Office 365 Security & Compliance Center**
+**Migrar as etiquetas do Azure Information Protection para Office 365 Centro & Conformidade e Segurança**
 
-1. Certifique-se de que está a iniciar sessão como um utilizador com permissão de Administrador Global.
+1. Certifique-se de que tem sessão de utilizador com permissão de Administrador Global.
 
-2. Navegue para a lâmina **de proteção de informação Azure.**
+2. Navegue até ao blade **do Azure Information Protection.**
 
-3. A partir da opção menu **Gerir,** selecione **a rotulagem unificada.**
+3. A partir da **opção** de menu Gerir, selecione **Etiqueta unificada**.
 
-4. Na **Proteção de Informações Azure - Lâmina de rotulagem unificada,** clique em **Ativar** e siga as instruções on-line.
+4. Na folha **de etiquetagem do Azure Information Protection - Unified,** clique em **Ativar** e siga as instruções online.
 
-**Nota:** Verifique se tem as permissões adequadas antes de ativar a migração do Centro de Conformidade & de Segurança. Consulte estes artigos para mais informações:
+**Nota:** verifique se tem as permissões adequadas antes de ativar a Migração do Centro & conformidade. Consulte estes artigos para mais informações:
 
-1. [Precisa de ser um administrador global para configurar a Azure Information Protection, ou posso delegar a outros administradores?](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
+1. [Tem de ser um administrador global para configurar o Azure Information Protection ou posso delegar para outros administradores?](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
 
-2. [Informações importantes sobre funções administrativas após migração para o Centro de Conformidade & de Segurança.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#important-information-about-administrative-roles)
+2. [Informações importantes sobre funções administrativas depois de migrar para o Centro de & conformidade.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#important-information-about-administrative-roles)
 
-Para obter mais informações sobre a migração da AIP para a rotulagem unificada para o Centro de Segurança e Conformidade, consulte [as etiquetas Migrate](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels).
+Para obter mais informações sobre a migração de Etiquetas Unificada para o Centro de Conformidade e Segurança, consulte [Migrar etiquetas.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)

@@ -1,5 +1,5 @@
 ---
-title: Gestão de Dispositivos Móveis na Microsoft 365
+title: Gestão de Dispositivos Móveis Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1790"
 - "9000214"
-ms.openlocfilehash: 4255f656ea2eadaf3ad44826e4a04f21718c50a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8319f0783acae6ed93bc5e1e5eecd5ed43008bd3cfd433a15e912e175a522f9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667060"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097893"
 ---
-# <a name="mobile-device-management-in-microsoft-365"></a>Gestão de Dispositivos Móveis na Microsoft 365
+# <a name="mobile-device-management-in-microsoft-365"></a>Gestão de Dispositivos Móveis Microsoft 365
 
-Para obter mais informações, consulte: 
+Para mais informações, consulte: 
 
-- [Escolha entre Segurança Básica da Mobilidade e Intune](https://docs.microsoft.com/office365/securitycompliance/choose-between-mdm-and-intune)
+- [Escolher entre Segurança de Mobilidade Básica e Intune](https://docs.microsoft.com/office365/securitycompliance/choose-between-mdm-and-intune)
 
-- [Criar Mobilidade Básica e Segurança](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
+- [Configurar Mobilidade e Segurança Básicas](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 
-- [Guia de migração intune](https://docs.microsoft.com/intune/migration-guide)
+- [Guia de migração do Intune](https://docs.microsoft.com/intune/migration-guide)

@@ -1,5 +1,5 @@
 ---
-title: Notificação AAD Connect
+title: Notificação AAD Ligação
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003245"
 - "9326"
-ms.openlocfilehash: 832c9dd587cb023b5b1d87e905acb123df34237f
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: b8713700ee4fc8863a269c99b92954e1df45e1e647c491fb9b439ab83c49f2ff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037240"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097317"
 ---
-# <a name="notification-aad-connect"></a>Notificação AAD Connect
+# <a name="notification-aad-connect"></a>Notificação AAD Ligação
 
-- Certifique-se de que está autorizado a realizar a operação. Os Administradores Globais têm acesso por defeito. Além disso, pode utilizar [o Controlo de Acesso Baseado em Função](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) para delegar a permissão de registo ao Contribuinte.
-- Certifique-se de que os pontos finais necessários estão ativados e não bloqueados devido à firewall. Para mais [informações, consulte os requisitos.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install)
-- O registo pode falhar devido à comunicação de saída ser submetida a inspeção SSL pela camada de rede.
-- Certifique-se de que verificou as definições de notificação do Azure AD Connect Health e reveja a sua definição. Para entender como configurar as definições de notificação para notificações Azure AD Connect Health, consulte este [guia](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations).
-- Para saber mais sobre o relatório de sincronização do AAD Connect Health e como descarregá-lo, consulte [o relatório de sincronização do nível de objeto](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
+- Certifique-se de que está autorizado a efetuar a operação. Os Administradores Globais têm acesso por predefinição. Além disso, pode utilizar o Controlo de [Acesso Baseado em Funções](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) para delegar permissões de registo ao Contribuinte.
+- Certifique-se de que os pontos finais obrigatórios estão ativados e não bloqueados devido à firewall. Para obter detalhes, consulte [os requisitos.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install)
+- O registo pode falhar devido à comunicação de saída ser sujeita à inspeção SSL pela camada de rede.
+- Certifique-se de que verificou as definições de notificação do Azure AD para Ligação estado de trabalho e reveja a sua definição. Para compreender como configurar as definições de notificação para as notificações de Estado Ligação AD do Azure, consulte este [guia.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations)
+- Para saber mais sobre o relatório de sincronização do Ligação Estado de Trabalho do AAD e sobre como transferi-lo, consulte Relatório de [sincronização ao nível do objeto.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync)
 
-Para resolver problemas, os alertas de saúde da AAD Connect seguem [o guia de resolução de problemas para alertas de frescura de dados AAD Connect Health](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) e para perguntas comumente colocadas, consulte [questões de instalação comuns da AAD Connect Health](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq).
+Para remoção de alertas de saúde do AAD Ligação siga o guia de remoção de problemas do [AAD Ligação Alertas](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) sobre a recente estado de vida dos dados e para perguntas mais frequentes, consulte Perguntas mais frequentes sobre a instalação do [AAD Ligação](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq)Estado de Trabalho.

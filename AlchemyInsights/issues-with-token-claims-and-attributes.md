@@ -1,5 +1,5 @@
 ---
-title: Problemas com reclamações e atributos token
+title: Problemas com Atributos e Afirmações de Token
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004347"
 - "7761"
-ms.openlocfilehash: 4c12f768ab4bf4547f48abc19736743fa555c477
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: 0c9827ee312d6b236c86f5a2973fa61fdc78c49b8565dd4ceb41f9a3a48140bc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035969"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012895"
 ---
-# <a name="issues-with-token-claims-and-attributes"></a>Problemas com reclamações e atributos token
+# <a name="issues-with-token-claims-and-attributes"></a>Problemas com Atributos e Afirmações de Token
 
-**Atualizar, configurar ou remover reclamações simbólicas**
+**Atualizar, configurar ou remover reivindicações de tokens**
 
-1. Ao utilizar o Azure Ative Directory (Azure AD), pode [personalizar o tipo de reclamação para a reivindicação de funções](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) no token de resposta que recebe depois de autorizar uma aplicação.
-2. Os desenvolvedores de aplicações podem usar reclamações opcionais nas suas aplicações AZure AD para especificar quais as alegações que pretendem em fichas enviadas para a sua aplicação. Para obter mais informações, consulte [Fornecer reclamações opcionais à sua aplicação.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
-3. [Configure pedidos de pedidos de candidaturas com a Azure Ative Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-group-claims).
-4. Se utilizar o 'Sign-on' único sem emenda na sua aplicação, consulte [as reclamações personalizadas emitidas no token SAML para aplicações empresariais](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization).
+1. Ao utilizar Azure Active Directory (Azure AD), [](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) pode personalizar o tipo de reclamação para a reclamação de função no token de resposta que recebe após autorizar uma aplicação.
+2. Os programadores de aplicações podem utilizar afirmações opcionais nas suas aplicações do Azure AD para especificar as afirmações que pretendem nos tokens enviados para a respetivo aplicação. Para obter mais informações, consulte [Fornecer reivindicações opcionais à sua aplicação.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
+3. [Configure as reclamações de grupos para aplicações com o Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-group-claims).
+4. Se estiver a utilizar o Sinal de Utilização Única Sem Complicações na sua aplicação, consulte Personalizar as reclamações emitidas no [token do SAML para aplicações empresariais.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization)
 
-**Mapeamento de atributos de reclamações**
+**Mapeamento de Atributos da Claims**
 
-1. Para configurar a política de mapeamento de reclamações utilizando o PowerShell, consulte [Personalizar reclamações emitidas em fichas para uma aplicação específica num inquilino (Preview)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping).
-2. Os atributos de extensão de esquema de diretório fornecem uma forma de armazenar dados adicionais no Azure Ative Directory em objetos de utilizador e outros objetos de diretório, tais como grupos, detalhes do inquilino, diretores de serviço. Apenas os atributos de extensão em objetos do utilizador podem ser usados para emitir reclamações para aplicações. [A utilização de atributos de extensão de esquema de diretório em sinistros](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions) descreve como utilizar atributos de extensão de esquema de diretório para enviar dados do utilizador para aplicações em alegações simbólicas.
+1. Para configurar a política de mapeamento de reivindicações através do PowerShell, consulte o artigo Personalizar reclamações emitentes em tokens para uma aplicação específica num inquilino [(Pré-visualização).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping)
+2. Os atributos da extensão de esquema de diretório fornecem uma forma de armazenar dados adicionais no Azure Active Directory em objetos de utilizador e outros objetos de diretório, como grupos, detalhes de inquilino e principais de serviço. Apenas os atributos de extensão em objetos de utilizador podem ser utilizados para emissar reclamações de aplicações. [Utilizar atributos](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions) da extensão de esquema de diretório nas afirmações descreve como utilizar atributos da extensão de esquema de diretório para enviar dados de utilizador para aplicações em afirmações de tokens.
 
-Para obter mais informações sobre sinistros simbólicos, consulte:
+Para obter mais informações sobre as reclamações de tokens, consulte:
 
-- [Reclamações em fichas de acesso](https://docs.microsoft.com/azure/active-directory/develop/access-tokens#claims-in-access-tokens)
-- [Reclamações num id_token](https://docs.microsoft.com/azure/active-directory/develop/id-tokens#claims-in-an-id_token)
-- [Reclamações](https://docs.microsoft.com/azure/active-directory-b2c/tokens-overview#claims) que pode esperar em fichas de ID e fichas de acesso emitidas pela Azure AD B2C
-- [Referência de reclamações de ficha SAML](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens)
+- [Reclamações em tokens de acesso](https://docs.microsoft.com/azure/active-directory/develop/access-tokens#claims-in-access-tokens)
+- [Reclamações numa id_token](https://docs.microsoft.com/azure/active-directory/develop/id-tokens#claims-in-an-id_token)
+- [Afirmações](https://docs.microsoft.com/azure/active-directory-b2c/tokens-overview#claims) que pode esperar em tokens ID e tokens de acesso emitidos pelo Azure AD B2C
+- [Referência de afirmações de tokens SAML](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens)

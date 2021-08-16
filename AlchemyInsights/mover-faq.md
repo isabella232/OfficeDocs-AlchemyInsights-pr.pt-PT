@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "7999"
-ms.openlocfilehash: f4c32561640dc04a26740f8a2220399d85a197c3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 18fc8c88122cff3ac9130b89b0d9f7951322763598a063c4c6b2ff737289599e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51793079"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097425"
 ---
 # <a name="mover-faq"></a>Mover FAQ
 
-Para obter informações sobre o Mover, visite [o Mover Migration FAQ](https://docs.microsoft.com/sharepointmigration/mover-migration-faq)
+Para obter mais informações sobre o Mover, visite [as FAQs do Mover Migração](https://docs.microsoft.com/sharepointmigration/mover-migration-faq)

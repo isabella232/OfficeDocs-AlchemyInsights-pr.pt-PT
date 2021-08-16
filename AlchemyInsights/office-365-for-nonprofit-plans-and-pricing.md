@@ -16,16 +16,16 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: b92c129127dd3410eff54ea53481fe23b094076a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 91911353be373c305d1d042883618cb1b78aa27f196eb35a21d031113b61c4fb
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58295643"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54502547"
 ---
 # <a name="microsoft-365-for-nonprofit-plans-and-pricing"></a>Microsoft 365 para planos e preços para Organizações sem Fins Lucrados
 
-As organizações sem fins lucrativas qualificadas podem Microsoft 365 Organizações sem Fins Lucrativas como donativo ou atualizar para funcionalidades avançadas com um desconto significativo. Para se qualificar para um Microsoft 365 organizações sem [](https://go.microsoft.com/fwlink/p/?LinkID=330253) fins lucrativa, tem de ter um estado de caridade reconhecido no seu país e assinar uma política não discriminatória da Microsoft. A Microsoft reserva-se o direito de verificar a elegibilidade em qualquer altura e de suspender o serviço para organizações não elegíveis.
+As organizações sem fins lucrativas qualificadas podem Microsoft 365 Organizações sem Fins Lucrativas como donativo ou atualizar para funcionalidades avançadas com um desconto significativo. Para se qualificar para um Microsoft 365 organizações sem fins [](https://go.microsoft.com/fwlink/p/?LinkID=330253) lucrativa, tem de ter um estado de caridade reconhecido no seu país e assinar uma política não discriminatória da Microsoft. A Microsoft reserva-se o direito de verificar a elegibilidade em qualquer altura e de suspender o serviço para organizações não elegíveis.
   
 Para obter mais informações, consulte [as FAQ.](https://products.office.com/nonprofit/office-365-nonprofit)
   

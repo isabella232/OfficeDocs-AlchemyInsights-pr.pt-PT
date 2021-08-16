@@ -1,5 +1,5 @@
 ---
-title: Permitir a auditoria da caixa de correio
+title: Ativar a auditoria de caixas de correio
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: c04f27edc1e22e0e4269758827d5468767967be8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 176fdc57c6453cafe6ca773d845f8f59ea782089e3e33ad70909ed495aa1a8c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814203"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003031"
 ---
-# <a name="enable-mailbox-auditing"></a>Permitir a auditoria da caixa de correio
+# <a name="enable-mailbox-auditing"></a>Ativar a auditoria de caixas de correio
 
-Para ativar a auditoria da Caixa de Correio para um único utilizador ou para uma organização inteira, os seguintes cmdlets devem ser executados a partir de Remote Power Shell:
+Para ativar a Auditoria de Caixas de Correio para um único utilizador ou para uma organização inteira, os cmdlets seguintes têm de ser executados a partir do Power Shell Remoto:
   
  **Utilizador Único**
   
-Set-Mailbox -Identidade "Jane Dow" - AuditEnabled $true
+Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true
   
  **Organização**
   
-Get-Mailbox -ResultadoSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true
+Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true
   
 [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)
   

@@ -1,5 +1,5 @@
 ---
-title: Ligue-se ao módulo MSCommerce
+title: Ligação para o módulo MSCommerce
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: e77c6a329ac99a4cea4f143dcb3c661b6a518e35
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: df427f1d0fbda46f17a62ad2122b8773b546f0a00ec91ba312c609e4a670870f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817039"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032923"
 ---
-# <a name="connect-to-the-mscommerce-module"></a>Ligue-se ao módulo MSCommerce
+# <a name="connect-to-the-mscommerce-module"></a>Ligação para o módulo MSCommerce
 
-Tem de estar ligado ao módulo MSCommerce antes de poder visualizar ou definir a política AllowSelfServicePurchase.  
+Tem de estar ligado ao módulo MSCommerce antes de poder ver ou definir a política AllowSelfServicePurchase.  
 
-Para ligar ao módulo MSCommerce, na introdução powerShell (PS C: \) , insira o seguinte comando:
+Para ligar ao módulo MSCommerce, na lista de comandos do PowerShell (PS C: \) , introduza o seguinte comando:
 
 `Connect-MSCommerce`
 
-Isto abrirá um diálogo de inscrição. Introduza o seu nome de utilizador e senha para iniciar sôm.
+Será aberta uma caixa de diálogo de lote. Introduza o seu nome de utilizador e palavra-passe para entrar.
 
-**NOTA:** &nbsp; &nbsp; A conta utilizada para entrar deve ser uma Empresa ou Administrador de Faturação.
+**NOTA:** &nbsp; &nbsp; A conta utilizada para entrar tem de ser uma Empresa ou Administrador de Faturação.

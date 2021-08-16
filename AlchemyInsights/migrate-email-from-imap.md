@@ -5,18 +5,19 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: 6d5a3ad2c3f8d3e1f294ddc641716e62fc0ada78
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e7bd898017c808daa07e26fd5489250966dfc68a33a69738da2b694b9af2fb74
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713873"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992518"
 ---
 # <a name="when-you-get-a-not-an-accepted-domain-error"></a>Quando recebe a mensagem de erro "Não é um domínio aceite"
 
@@ -24,5 +25,5 @@ Ao tentar adicionar um endereço de e-mail a um utilizador ou grupo, ou durante 
   
 Na maioria dos casos, este erro ocorre porque o nome de domínio *(como contoso.com)* não está totalmente configurado para a sua organização.
   
-Verifique se o domínio está totalmente configurado ao seguir as instruções em [Adicionar um domínio ao Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
+Verifique se o domínio está totalmente configurado ao seguir as instruções em [Adicionar um domínio ao Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
   

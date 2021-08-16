@@ -1,5 +1,5 @@
 ---
-title: Descarregue e instale ou reinstale o Office 365 ou o Office 2016 num PC ou Mac
+title: Transferir e instalar ou reinstalar Office 365 ou Office 2016 num PC ou Mac
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8d7abd5a-5004-4d16-aad9-8083df213ea3
-ms.openlocfilehash: 8306854ee90b0f804c83b27b58d870386673d5fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: afc82137854e6fb6cdd4cdefbc0c0f4000435a1b34891ddf2a029dcff2ceffa8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712231"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004669"
 ---
-# <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a>Descarregue e instale ou reinstale o Office 365 ou o Office 2016 num PC ou Mac
+# <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a>Transferir e instalar ou reinstalar Office 365 ou Office 2016 num PC ou Mac
 
-Para descarregar e instalar produtos do Office incluídos na sua subscrição, vá ao [My Software](https://portal.office.com/OLS/MySoftware.aspx) \> **Office** e clique em **Instalar**. 
+Para transferir e instalar Office incluídos na sua subscrição, vá a O Meu [Software](https://portal.office.com/OLS/MySoftware.aspx) \> **Office** e clique em **Instalar**. 
   
-Para obter instruções detalhadas, consulte [descarregar e instalar ou reinstalar o Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).
+Para obter instruções detalhadas, [consulte Transferir e instalar ou reinstalar o Office 365.](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch)
   
-Se precisar de instalar o Office offline, consulte [o instalador offline do Office 2016](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business).
+Se precisar de instalar o Office offline, consulte Utilizar o [instalador offline do Office 2016.](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business)
   
 

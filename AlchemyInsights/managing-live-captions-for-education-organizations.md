@@ -1,5 +1,5 @@
 ---
-title: Gerir legendas ao vivo para organizações de educação
+title: Gerir legendas em direto para organizações de Educação
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 0779f486e1b1d5099bd97bea4ca2ff187fd44c985060507b33cb00a1c6c1d4c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812774"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066709"
 ---
-# <a name="managing-live-captions-for-education-organizations"></a>Gerir legendas ao vivo para organizações de educação
+# <a name="managing-live-captions-for-education-organizations"></a>Gerir legendas em direto para organizações de Educação
 
-Recomendamos que os administradores das organizações de Educação considerem a utilização de pacotes políticos para a segurança dos alunos e educadores e educadores. Para obter mais informações, consulte:  
+Recomendamos aos administradores das organizações da Educação que considerem a utilização de pacotes de políticas para a segurança dos estudantes e educadores e educadores. Para obter mais informações, consulte:  
 
-- [Pacotes de política em Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
+- [Pacotes de políticas Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
     
-- [Políticas que devem ser atribuídas para a segurança dos estudantes.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
+- [Políticas que devem ser atribuídas para segurança dos estudantes.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
 
 - [Políticas que devem ser atribuídas aos educadores.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators)
 
-Se quiser gerir apenas a capacidade de ativar legendas ao vivo, consulte [Ativar as legendas ao vivo](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Para obter mais informações, consulte [Gerir as políticas de reunião em Equipas.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
+Se quiser gerir apenas a capacidade de ativar legendas em direto, consulte [Ativar legendas em direto.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions) Para mais informações, consulte [Gerir políticas de reunião no Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).

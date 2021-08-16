@@ -1,5 +1,5 @@
 ---
-title: Descarregar e instalar o Office
+title: Transferir e instalar Office
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c040c5d7-ff1c-4a29-91e7-a6ad7c3b410b
-ms.openlocfilehash: 5950c130b82e435eacaf9fb096faae8482b50c15
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f6306811fad43af92e195467703b6cc1416ca7d6d6e6fcde56901e895f8c8239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814744"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004835"
 ---
-# <a name="download-and-install-office"></a>Descarregar e instalar o Office
+# <a name="download-and-install-office"></a>Transferir e instalar Office
 
-A subscrição **do Business Essentials** não inclui as aplicações microsoft 365. Para obter o Office, terá de fazer upgrade para a subscrição **Business** ou **Business Premium.** Confira aqui as subscrições disponíveis com o Office: [Microsoft 365 para negócios](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+A **sua subscrição do** Business Essentials não inclui as Microsoft 365 Empresas. Para obter ajuda Office, terá de atualizar para  a subscrição empresas **ou Premium** Empresas. Consulte as subscrições disponíveis com o Office: Microsoft 365 [para empresas](https://products.office.com/compare-all-microsoft-office-products?tab=2)
   
 

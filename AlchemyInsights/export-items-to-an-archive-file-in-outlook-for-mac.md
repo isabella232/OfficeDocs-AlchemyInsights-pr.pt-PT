@@ -1,5 +1,5 @@
 ---
-title: Artigos de exportação para um arquivo no Outlook for Mac
+title: Exportar itens para um ficheiro de arquivo no Outlook para Mac
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/01/2020
@@ -11,36 +11,36 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 8e363cafbf913cb26b130b9a73d9e9c1bf8bfea5
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583708"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100413"
 ---
-# <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Artigos de exportação para um arquivo no Outlook for Mac
+# <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Exportar itens para um ficheiro de arquivo no Outlook para Mac
 
-Para reduzir o tamanho da sua caixa de entrada, arquivar manualmente mensagens de correio eletrónico, contactos e outros itens para um Outlook for Mac Data File (.olm). Pode guardar um ficheiro .olm em qualquer local do seu Mac ou numa máquina diferente para guardar.
+Para reduzir o tamanho da sua caixa de entrada, arquive manualmente mensagens de e-mail, contactos e outros itens num ficheiro de dados do Outlook para Mac (.olm). Pode guardar um ficheiro .olm em qualquer localização no seu Mac ou num computador diferente para a segurança.
 
-1. No separador **Ferramentas,** clique em **Exportação.**
+1. No separador **Ferramentas,** clique em **Exportar.**
 
 > [!NOTE]
-> Não vê o botão **exportação?** Certifique-se de que tem a versão mais recente do Outlook. No menu **'Ajuda outlook',** clique em **Verificar atualizações**. Se todas as atualizações do Outlook forem aplicadas e ainda não vir o botão **Exportação,** procure **exportação** no menu **Do Ficheiro** Outlook.
+> Não vê o botão **Exportar?** Certifique-se de que tem a versão mais recente Outlook. No **menu** ajuda Outlook, clique em **Procurar Atualizações.** Se todas Outlook atualizações de ficheiros estiverem aplicadas  e ainda  não vir o botão Exportar, procure Exportar no menu Outlook **Ficheiro.**
 
-2. Na caixa **Export to Archive File (.olm),** verifique os itens que pretende exportar e clique em **Continuar**.
+2. Na caixa **Exportar para Ficheiro de Arquivo (.olm),** marque os itens que pretende exportar e clique em **Continuar.**
 
-3. Na caixa **Guardar Como,** em **Favoritos,** escolha a pasta **Downloads** e clique em **Guardar**.
+3. Na caixa **Guardar Como,** em **Favoritos,** escolha a **pasta Transferências** e clique em **Guardar.**
 
-4. Uma vez que os seus dados foram exportados e recebe uma notificação, clique em **Terminar**.
+4. Assim que os seus dados são exportados e receber uma notificação, clique em **Concluir.**
 
-Para obter informações sobre como aceder aos dados que guardou num Outlook for Mac Data File (.olm), consulte [mensagens de email, contactos e outros itens do Outlook 2016 para Mac](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS).
+Para obter informações sobre como aceder aos dados que guardou num Ficheiro de Dados do Outlook para Mac (.olm), consulte Importar mensagens de e-mail, [contactos](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)e outros itens para o Outlook 2016 para Mac .
 
-**Quero exportar para o iCloud ou para outro tipo de arquivo**
+**Quero exportar para o iCloud ou para outro tipo de ficheiro de arquivo**
 
-A única opção de exportação disponível neste momento é o ficheiro de arquivo .olm. Para solicitar opções de exportação adicionais, visite a [Caixa de Sugestões outlook](https://outlook.uservoice.com/) para deixar o seu feedback. A equipa do Outlook monitoriza ativamente este fórum.
+Neste momento, a única opção de exportação disponível é o ficheiro de arquivo .olm. Para pedir opções de exportação adicionais, visite [o Outlook Caixa de Sugestões](https://outlook.uservoice.com/) para deixar o seu feedback. A Outlook equipa monitoriza ativamente este fórum.
 
 **Consulte também**
 
-- [Importe um ficheiro .pst no Outlook 2016 para Mac do Outlook for Windows](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
+- [Importar um ficheiro .pst para o Outlook 2016 para Mac a partir Outlook para Windows](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
 
-- [Utilize a Máquina do Tempo para arquivar ou fazer o back up automaticamente em itens do Outlook 2016 para Mac](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
+- [Utilizar o Time Machine para arquivar ou fazer uma back-up de itens automaticamente no Outlook 2016 para Mac](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)

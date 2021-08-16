@@ -1,5 +1,5 @@
 ---
-title: Verifique o estado de um pedido de encomenda de serviço para a Surface ou Xbox
+title: Verificar o estado de um pedido de pedido de assistência para o Surface ou Xbox
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9752"
 - "9005678"
-ms.openlocfilehash: 27ba522e299f552df582cd41e964a3e97f455cc8
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 0f9f5e9af09f5c4de431ecd990e6d193df6224149d72c48946425824ad60dd23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037614"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021535"
 ---
-# <a name="check-the-status-of-a-service-order-request-for-surface-or-xbox"></a>Verifique o estado de um pedido de encomenda de serviço para a Surface ou Xbox
+# <a name="check-the-status-of-a-service-order-request-for-surface-or-xbox"></a>Verificar o estado de um pedido de pedido de assistência para o Surface ou Xbox
 
-Se pretender ver os dados da sua encomenda de serviço (isto é, pedidos de reparação), siga estes passos:
+Se quiser ver os detalhes do pedido de serviço (por exemplo, pedidos de reparação), siga estes passos:
 
-1. Vá aos Serviços de Dispositivos.
+1. Vá para Serviços de Dispositivos.
 
-1. Selecione **Mostrar detalhes** para ver o histórico completo e as últimas atualizações.
+1. **Selecione Mostrar** detalhes para ver o histórico completo e as atualizações mais recentes.
 

@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: 96b0b38522707d0abd3ee9e9b64652061f0c7791
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6b34f74d662fab02f7ac8dad27b2d02c7ebb9db44efb614d6005741d4cebdb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672787"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064683"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a>Adicione as suas outras contas de e-mail a Outlook.com
+# <a name="add-your-other-email-accounts-to-outlookcom"></a>Adicionar outras contas de e-mail Outlook.com
 
-Quando adiciona outras contas de e-mail a Outlook.com, pode utilizar Outlook.com para enviar e ler mensagens de correio e-mail dessas contas sem sair Outlook.com. Cada conta que adicionar a Outlook.com é chamada de conta conectada.
+Quando adiciona outras contas de e-mail ao Outlook.com, pode utilizar o Outlook.com para enviar e ler mensagens de e-mail dessas contas sem sair Outlook.com. Cada conta que adiciona a Outlook.com denomina-se conta ligada.
 
-Nota: A sincronização da sua conta ligada à sua conta Outlook.com é apenas de ida. O e-mail enviado a partir da sua conta conectada utilizando Outlook.com não aparecerá na sua conta ligada Itens enviados.
+Nota: A ação de ser Outlook a partir da sua conta ligada à Outlook.com é apenas de uma forma. Os e-mails enviados a partir da sua conta ligada Outlook.com não aparecerão nos Itens Enviados da sua conta ligada.
 
-Para adicionar uma conta conectada:
+Para adicionar uma conta ligada:
 
-1. Abra as [definições de Email sync](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Em **contas conectadas**, selecione **Gmail** ou **Outras contas de e-mail**.
-3. Na página 'Ligar a conta', insira um nome de exibição (os destinatários do nome verão quando receberem uma mensagem de e-mail de si) e o endereço de e-mail completo e a palavra-passe da conta de e-mail que pretende ligar à sua conta Outlook.com.
+1. Abra as [definições de Sincronização de E-mail.](https://go.microsoft.com/fwlink/?linkid=875264)
+2. Em Contas **ligadas**, selecione **Gmail ou** **Outras contas de e-mail**.
+3. Na página Ligação sua conta, introduza um nome a apresentar (o nome que os destinatários irão ver quando receberem uma mensagem de e-mail sua) e o endereço de e-mail completo e palavra-passe da conta de e-mail que pretende ligar à sua conta Outlook.com.
 
-Pode enviar e-mail a partir de qualquer conta que tenha ligado à sua conta Outlook.com. Ao compor um e-mail, selecione **De** e escolha qual o endereço de e-mail que pretende utilizar ou [atualize o seu padrão A partir do endereço](https://go.microsoft.com/fwlink/?linkid=875264).
+Pode enviar e-mails a partir de qualquer conta que tenha ligado à sua conta Outlook.com. Ao compor um e-mail, selecione **De** e selecione o endereço de e-mail que pretende utilizar ou atualize o seu endereço [De predefinido](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Para mais informações, leia [Adicione as suas outras contas de e-mail a Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Para obter mais informações, [leia Adicionar outras contas de e-mail Outlook.com.](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Se quiser criar um novo endereço de e-mail que utilize a mesma conta Outlook.com, leia [Adicionar ou remover um pseudónimo de e-mail.](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)
+Se quiser criar um novo endereço de e-mail que utilize a mesma conta Outlook.com, leia Adicionar ou remover um [alias de e-mail](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).

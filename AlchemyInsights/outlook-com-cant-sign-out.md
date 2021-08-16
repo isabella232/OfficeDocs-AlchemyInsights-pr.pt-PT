@@ -1,5 +1,5 @@
 ---
-title: Outlook.com não pode assinar.
+title: Outlook.com não consegue sair
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1a319509369e4832fa27ca4b35155c33a03d5245
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78d3a570eedac8cb341d66b63d53048a7ba57a502bff63dfaa2148e087390289
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984652"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Incapaz de assinar fora de Outlook.com
+# <a name="unable-to-sign-out-of-outlookcom"></a>Não é possível escrever a Outlook.com
 
-Para iniciar a saída de Outlook.com, selecione o seu nome ou imagem no canto superior direito do ecrã e, em seguida, **selecione Iniciar**.
+Para sair de Outlook.com, selecione o seu nome ou imagem no canto superior direito do ecrã e, em seguida, **selecione Sign out (Sair).**
 
-Se não vir a sua imagem no topo do ecrã, verifique se o bloqueio de anúncios está ligado. Por vezes, estes bloqueadores impedem que a imagem seja apresentada.
+Se não vir a sua imagem na parte superior do ecrã, verifique se o bloqueio de anúncios está ação. Por vezes, estes bloqueadores impedem que a imagem seja apresentada.
 
-Se ainda não conseguir assinar fora de Outlook.com, clique em fechar todas as janelas do  [https://login.live.com/logout.srf](https://login.live.com/logout.srf) navegador.
+Se ainda não conseguir sair do Outlook.com, clique em e, em [https://login.live.com/logout.srf](https://login.live.com/logout.srf) seguida, feche todas as janelas do browser.

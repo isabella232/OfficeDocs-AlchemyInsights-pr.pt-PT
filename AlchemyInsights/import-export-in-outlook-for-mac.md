@@ -1,5 +1,5 @@
 ---
-title: importação-exportação-in-outlook-for-mac
+title: import-export-in-outlook-for-mac
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,27 +14,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: fcba3e4b8979bd75e97ac67282c7b7893d4d7abc
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: e947c6cd5d27bdb690117b18dd100f3de64b0bcd5d5bdab7cb1eeca355ef4489
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708109"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987442"
 ---
-# <a name="importexport-in-outlook-for-mac"></a>Importação/Exportação em Outlook for Mac 
+# <a name="importexport-in-outlook-for-mac"></a>Importar/Exportar no Outlook para Mac 
 
-Exportação:
-1. No separador **Ferramentas,** escolha **Exportação.**
-2. Na **caixa Save as,** em **Favoritos,** escolha a pasta **Downloads** e selecione **Save**.
-3. Quando vir a notificação de que a exportação está completa, **selecione Acabamento**.
+Exportar:
+1. No separador **Ferramentas,** selecionar **Exportar.**
+2. Na caixa **Guardar como,** em **Favoritos, selecione** a **pasta Transferências** e selecione **Guardar.**
+3. Quando vir a notificação de que a exportação está concluída, **selecione Concluir**.
 
-Importação:
-1. No separador **Ferramentas,** escolha **Importar.**
-2. Selecione **Outlook for Windows archive file (.pst)**  >  **Continue**.
-3. Localize o ficheiro .pst no seu Mac e, em seguida, escolha **Importar**.
-4. Quando o processo de importação estiver concluído, escolha **Acabamento.**
-5. Os itens importados aparecem no painel de navegação sob **o meu computador.**
+Importar:
+1. No separador **Ferramentas,** selecionar **Importar.**
+2. **Selecione Outlook para Windows ficheiro de arquivo (.pst)**  >  **Continue**.
+3. Localize o ficheiro .pst no seu Mac e, em seguida, selecionar **Importar.**
+4. Quando o processo de importação estiver concluído, **selecionar Concluir.**
+5. Os itens importados são apresentados no painel de navegação **em No Meu Computador**.
 
-Para um conjunto completo de instruções de importação e exportação de Outlook for Mac consulte [e-mail, contactos e calendário do Outlook de Importação e Exportação.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac) 
+Para obter o conjunto completo de instruções importar e exportar para o Outlook Para Mac, consulte Importar e [exportar e-Outlook e-mail, contactos e calendário.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac) 
 
-Para receber suporte na aplicação para problemas com o Outlook para o Mac, abra o Outlook e selecione **Suporte ao** Contacto de Ajuda  >  . Digite a sua pergunta e um membro da equipa de suporte do Outlook for Mac entrará em contacto consigo. [Suporte de contato no Outlook for Mac](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)
+Para receber suporte na aplicação para problemas Outlook para Mac, abra o Outlook e selecione Ajuda  >  **Contactar o Suporte.** Escreva a sua pergunta e um membro da equipa Outlook suporte para Mac entrará em contacto consigo. [Contactar o suporte no Outlook para Mac](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)

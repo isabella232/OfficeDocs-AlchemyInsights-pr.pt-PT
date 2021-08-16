@@ -1,5 +1,5 @@
 ---
-title: Outlook.com mudar o aspeto da sua caixa de correio
+title: Outlook.com, altere o asste da sua caixa de correio
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ms.openlocfilehash: d1331ca38fd1276bc062ee45801abf6f6944a287
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3522345eb8c0ed840a821fe4c3098464cf2e0ceedfaee558a703be643758ee7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802572"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096489"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Mude a aparência da sua caixa de correio Outlook.com
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Alterar o asque da sua caixa Outlook de correio do Outlook.com
 
-Pode alterar a aparência da lista de mensagens e ler o painel em Outlook.com.
+Pode alterar o aspeto da lista de mensagens e do painel de leitura no Outlook.com.
 
-- Para alterar o layout da janela da mensagem, abra as opções [do painel de leitura.](https://outlook.live.com/mail/options/mail/layout/readingPane)
-- Para alterar a forma como o seu e-mail é classificado, no topo da lista de mensagens, selecione **Filter**  >  **Sort by** e escolha como pretende classificar o seu e-mail.
-- Para agrupar as suas mensagens por conversa, abra as opções [de organização message.](https://outlook.live.com/mail/options/mail/layout/conversations)
-- Para ligar ou desligar a caixa de entrada focada, abra as opções [de Layout.](https://outlook.live.com/mail/options/mail/layout/focused)
+- Para alterar o esquema da janela de mensagem, abra as [opções do painel](https://outlook.live.com/mail/options/mail/layout/readingPane) de leitura.
+- Para alterar a forma como os seus e-mails são ordenados, na parte superior da lista de mensagens, selecione Filtrar Ordenar por e selecione como pretende ordenar os seus  >   e-mails.
+- Para agrupar as suas mensagens por conversação, abra as [opções da Organização](https://outlook.live.com/mail/options/mail/layout/conversations) de mensagens.
+- Para abri-la ou desligá-la, abra [as opções](https://outlook.live.com/mail/options/mail/layout/focused) de Esquema.

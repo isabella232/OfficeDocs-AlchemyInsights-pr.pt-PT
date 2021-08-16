@@ -1,5 +1,5 @@
 ---
-title: ferramenta de exportação eDiscovery
+title: Ferramenta de exportação da Deteção de Tempo
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,37 +15,37 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f7b7e1ae4f1f686fa510403d398c4ff750dbadb9065b8d63701a927eeac52d9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814599"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101313"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Não pode instalar ou executar a ferramenta de exportação eDiscovery?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Não consegue instalar ou executar a Ferramenta de Exportação da Deteção de Segurança?
 
-Se não conseguir instalar ou executar a Ferramenta de Exportação de eDiscovery para descarregar os resultados da pesquisa, verifique as seguintes coisas:
+Se não conseguir instalar ou executar a Ferramenta de Exportação da Deteção de Dados Estadutivos para transferir os resultados da pesquisa, verifique o seguinte:
   
-- O computador que está a usar cumpre estes requisitos:
+- O computador que está a utilizar cumpre estes pré-requisitos:
 
-  - Versões de 32 ou 64 bits do Windows 7 e versões posteriores
+  - Versões de 32 bits ou de 64 bits do Windows 7 e versões posteriores
 
   - Microsoft .NET Framework 4.7
 
-  - Um navegador suportado:
+  - Um browser suportado:
 
   - Microsoft Edge
 
     Ou
 
-  - Versões 10 e posteriores do Internet Explorer
+  - Internet Explorer 10 e versões posteriores
 
-    Outros navegadores, como o Google Chrome e Mozilla Firefox, não são suportados.
+    Outros browsers, como o Google Chrome e o Mozilla Firefox, não são suportados.
 
-- A sua organização pode ligar-se ao ponto final em Azure, que é **\* .blob.core.windows.net** (o wildcard representa um identificador único para o seu trabalho de exportação).
+- A sua organização pode ligar ao ponto final no Azure, que é **\* .blob.core.windows.net** (o postal representa um identificador exclusivo para a sua tarefa de exportação).
 
-- Foi-lhe atribuída a função de Exportação no Microsoft 365 Security &amp; Compliance Center. Por padrão, esta função é atribuída apenas ao grupo de funções eDiscovery Manager. Ver [Atribuir permissões eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+- A função de Exportação é-lhe atribuída no Centro de Conformidade Microsoft 365 &amp; de Conformidade de Segurança. Por predefinição, esta função só está atribuída ao grupo de funções do Gestor da Deteção de Correio Online. Consulte [Atribuir permissões de Deteção de Email.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
-Para obter mais informações, consulte [os resultados da Pesquisa de Conteúdos de Exportação.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
+Para obter mais informações, consulte [Exportar resultados da Pesquisa de Conteúdos.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 
-Se estiver a exportar mais de 100mil caixas de correio, terá de utilizar o seguinte Powershell para descarregar os resultados [da Exportação: Exportar resultados de mais de 100mil caixas de correio.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)
+Se estiver a exportar mais de 100 mil caixas de correio, terá de utilizar o seguinte PowerShell para transferir os resultados de Exportar: Exportar resultados de mais de  [100K](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)caixas de correio.

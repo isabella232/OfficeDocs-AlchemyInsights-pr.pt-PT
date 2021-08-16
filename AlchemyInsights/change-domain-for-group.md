@@ -1,5 +1,5 @@
 ---
-title: Alterar o domínio para o grupo Microsoft 365
+title: Alterar o domínio do Microsoft 365 grupo
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,15 +14,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: aefd66e86b12985456bda8fd99365adec2f1ad2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b32d921288d6d1f39a4b98fb0050624fc96529ddb1e6f9f385687187c729ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819127"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071055"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>Altere o domínio para o Microsoft 365 Group
+# <a name="change-the-domain-for-microsoft-365-group"></a>Alterar o domínio do Microsoft 365 Group
 
-Se pretender alterar o domínio de um Grupo Microsoft 365 durante a criação, siga os passos em [Escolha o domínio a utilizar ao criar grupos Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
+Se quiser alterar o domínio de um Grupo de Microsoft 365 durante a criação, siga os passos em Selecionar o domínio a utilizar ao criar [Microsoft 365 Grupos](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
   
-Depois de o Microsoft 365 Group já estar criado, não existe atualmente forma de alterar o domínio. A única maneira é criar um novo Microsoft 365 Group e eliminar o antigo, se necessário (endereços de e-mail adicionais podem ser adicionados através do [Exchange Admin Center](https://outlook.office365.com/ecp.aspx)).
+Após o Microsoft 365 Grupo de Domínios já estar criado, não existe atualmente nenhuma forma de alterar o domínio. A única forma é criar um novo grupo Microsoft 365 e eliminar o antigo, se necessário (podem ser adicionados endereços de e-mail adicionais através Exchange Centro de [Administração](https://outlook.office365.com/ecp.aspx)).

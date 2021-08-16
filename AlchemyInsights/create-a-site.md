@@ -8,23 +8,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9f8e385b-dd2c-4d4e-b5f0-e28a24db4d83
-ms.openlocfilehash: ecbaf5a52a0867893c470f759a030bafea376e34
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a2aeb4e943311143be7d9c1477c81d9652067a02c739dc258e4187deb79cade7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747418"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032317"
 ---
 # <a name="create-a-site"></a>Criar um site
 
-- Vá à [página 'Sites' no centro de administração Microsoft 365](https://portal.office.com/adminportal/home#/SitesList)e, em seguida, selecione **Adicionar um site**. 
+- Vá para a página [Sites na página centro de administração do Microsoft 365 e, em](https://portal.office.com/adminportal/home#/SitesList)seguida, selecione Adicionar um **site**. 
     
-- No novo centro de administração do SharePoint, na página 'Sites', clique em **Criar**. 
+- No novo centro de administração do SharePoint, na página Sites, clique em **Criar**. 
     
-**Nota:** Não é possível criar um novo site que tenha o mesmo URL com um site existente. 
+**Nota:** Não pode criar um novo site com o mesmo URL de um site existente. 
   
-Para obter mais informações sobre a criação de um site, consulte [Criar um site.](https://go.microsoft.com/fwlink/?linkid=866295)
+Para mais informações sobre como criar um site, consulte [Criar um site.](https://go.microsoft.com/fwlink/?linkid=866295)
   
-Para obter informações sobre como permitir que os utilizadores criem os seus próprios sites, consulte [a criação do site Manage no SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=866296)
+Para mais informações sobre permitir que os utilizadores criem os seus próprios sites, consulte Gerir a [criação de sites no SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=866296)
   
 

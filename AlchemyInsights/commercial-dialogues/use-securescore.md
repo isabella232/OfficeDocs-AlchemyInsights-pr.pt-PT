@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: e6065c9ec681e377f8f8a51232d1b411bc91845e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0367cf3f76a9668e71dec52645a5b3aed44ccec93c0c39bccfa883212009633b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747198"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033793"
 ---
 # <a name="use-securescore"></a>Use SecureScore
 
-Secure Score é uma ferramenta de análise de segurança que recomenda o que pode fazer para reduzir ainda mais o risco. O Secure Score olha para as definições e atividades do Office 365 e compara-as a uma linha de base estabelecida pela Microsoft. Terá uma pontuação baseada no quão alinhado está com as melhores práticas de segurança.
+A Pontuação Segura é uma ferramenta de análise de segurança que recomenda o que pode fazer para reduzir ainda mais os riscos. A Pontuação de Segurança procura Office 365 definições e atividades dos seus clientes e compara-as com uma linha base estabelecida pela Microsoft. Obterá uma classificação com base na forma como está alinhado com as melhores práticas de segurança.
 
-Quer experimentar o Secure Score? Quando se inscrever no Escritório 365 como administrador global, vá para [SecureScore.com.](https://securescore.office.com/)
+Quer experimentar o Resultado Seguro? Quando tem a sua ação Office 365 como administrador global, vá para o [SecureScore.com.](https://securescore.office.com/)

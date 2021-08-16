@@ -1,5 +1,5 @@
 ---
-title: Usando a consola de administração Intune
+title: Utilizar a consola do administrador do Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 73fd2b032ebad1990e5ee68e460d0a07305d984a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7cffda69019dc720ae8e49b59636bd13277abf1d57c89831a077f4d66b4586a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747257"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033757"
 ---
-# <a name="using-intune-admin-console"></a>Usando a consola de administração Intune
+# <a name="using-intune-admin-console"></a>Utilizar a consola do administrador do Intune
 
-Aqui estão algumas tarefas comuns na consola de administração Intune:
+Eis algumas tarefas comuns na consola do administrador do Intune:
 
-- [Configurar Intune](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
-- [Tutorial: Passagem pela Microsoft Intune no portal Azure](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-intune-portal)
-- [Utilize o portal de resolução de problemas para ajudar os utilizadores na sua empresa](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
-- [Utilize o Microsoft Intune Data Warehouse para melhorar e personalizar relatórios](https://docs.microsoft.com/mem/intune/developer/reports-nav-create-intune-reports)
+- [Configurar o Intune](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
+- [Tutorial: As Explicações Microsoft Intune no portal do Azure](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-intune-portal)
+- [Utilizar o portal de remoção de problemas para ajudar os utilizadores da sua empresa](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
+- [Utilizar o Armazém Microsoft Intune Dados para melhorar e personalizar relatórios](https://docs.microsoft.com/mem/intune/developer/reports-nav-create-intune-reports)

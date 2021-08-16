@@ -1,5 +1,5 @@
 ---
-title: Configurações ediscovery
+title: Definições de deteção de e-contração
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 0c8f764fec63c7ad1ad690a9f9aef59d3652033c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bdf3707880d9b30ff6452a769bc0d2725be877373136a994a108e92d56d7b577
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710998"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101241"
 ---
-# <a name="ediscovery-settings"></a>Configurações ediscovery
+# <a name="ediscovery-settings"></a>Definições de deteção de e-contração
 
-Pesquisas de eDiscovery/Conteúdo permitem pesquisar, manter e exportar conteúdos de caixas de correio online, SharePoint Online e OneDrive para sites de negócios, Skype para conversas de negócios, Microsoft Teams e Microsoft 365 Groups.
+A Deteção de Eletrónicos/Pesquisas de Conteúdos permite-lhe procurar, manter em espera e exportar conteúdo de caixas de correio de Exchange Online, sites do SharePoint Online e OneDrive para Empresas, conversações Skype para Empresas, Microsoft Teams e Microsoft 365 Grupos.
 
-- Se estiver à procura das opções de menu eDiscovery ou content Search, consulte [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Saiba mais sobre as permissões necessárias para a realização de pesquisas eDiscovery de [Permissões necessárias para pesquisas eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
-- Se a sua pesquisa não estiver a devolver os resultados esperados, consulte [Search não retornando os resultados esperados](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Se estiver à procura das opções do menu Deteção de Conteúdo ou Deteção de Conteúdo, consulte Problemas [de Deteção de E-então.](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)
+- Saiba mais sobre as permissões necessárias para efetuar pesquisas de Deteção de Dados Online a partir de Permissões necessárias para pesquisas de Deteção [de Dados Online.](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)
+- Se a sua pesquisa não estiver a devolver os resultados esperados, consulte a [pesquisa não devolve os resultados esperados.](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)
 
-Para mais informações sobre a ediscovery, consulte [Ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+Para obter mais informações sobre a deteção de dados pessoais, consulte [Deteção de Dados Online.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)

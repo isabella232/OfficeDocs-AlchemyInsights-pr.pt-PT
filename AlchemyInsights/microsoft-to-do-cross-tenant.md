@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: 638449cbe86b284673f60f62ca13d4cb38de3819
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 075811418fc697bffdc9d9bfa2d8c4527b1cc7f91bf5892447d099f1c5ee6140
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48815949"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012175"
 ---
-# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft Para fazer partilha de inquilinos cruzadas
+# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft To Do partilha entre inquilinos
 
-O Microsoft To Do suporta a partilha de listas entre contas pessoais e de trabalho. Isto permite que os utilizadores na sua organização
+Microsoft To Do suporta a partilha de listas entre contas pessoais e de trabalho. Isto permite aos utilizadores da sua organização
 
-juntar, ver, modificar e adicionar dados a listas detidas por contas pessoais da Microsoft.
+associar, ver, modificar e adicionar dados a listas pertencentes a contas Microsoft pessoais.
 
-Está disponível uma nova definição de administração para os administradores desativarem esta funcionalidade, desressondo a opção.
+Está disponível uma nova definição de administrador para os administradores desativar esta funcionalidade ao desativar a opção.
 
-O administrador pode encontrar esta definição no portal de administração em **Definições**  >  **Org**  >  **Serviços**  >  **Microsoft To Do** .  
+O administrador pode encontrar esta definição no portal de administração em Definições da Definições  >    >  **Serviços**  >  **Microsoft To Do**.  
 
-[Por que não posso me juntar a uma lista partilhada?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)
+[Por que motivo não consigo aderir a uma lista partilhada?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)

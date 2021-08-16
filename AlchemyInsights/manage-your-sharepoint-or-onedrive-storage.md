@@ -1,5 +1,5 @@
 ---
-title: Gerencie o seu armazenamento SharePoint ou OneDrive
+title: Gerir o seu armazenamento do SharePoint OneDrive dados
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: d1f34740e93a666d72b691d0d16ca2a40a28c5a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9653f61da65f6aeb77ba33cb7eaf7f508ec7da8d38c3b32c2c30ea519d31ada6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077805"
 ---
-# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Gerencie o seu armazenamento SharePoint ou OneDrive
+# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Gerir o seu armazenamento do SharePoint OneDrive dados
 
  **SharePoint Online**
   
-Para a maioria das organizações, o armazenamento sharePoint é gerido automaticamente para que não seja necessário definir limites por recolha do site. Para verificar quanto armazenamento do SharePoint tem:
+Para a maioria das organizações, o armazenamento do SharePoint é gerido automaticamente, pelo que não precisa de definir limites por coleção de site. Para verificar a área de armazenamento do SharePoint que tem:
   
-- No novo centro de administração do SharePoint, no canto superior direito da página dos sites, procure o seu armazenamento disponível e total.
+- No novo centro de administração do SharePoint, no canto superior direito da página de sites, procure o seu armazenamento total e disponível.
     
-Para obter informações sobre como o seu limite é calculado, consulte [Os Limites Online do SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=856113). Para comprar armazenamento extra, consulte [alterar o espaço de armazenamento para a sua subscrição.](https://go.microsoft.com/fwlink/?linkid=866428)
+Para mais informações sobre como o seu limite é calculado, consulte Limites [do SharePoint Online.](https://go.microsoft.com/fwlink/p/?LinkID=856113) Para comprar armazenamento adicional, consulte [Alterar o espaço de armazenamento da sua subscrição.](https://go.microsoft.com/fwlink/?linkid=866428)
   
  **OneDrive**
   
-Para alterar o armazenamento predefinido para utilizadores OneDrive novos e existentes:
+Para alterar o armazenamento predefinido para utilizadores novos e OneDrive utilizadores:
   
-- Aceda à [página de Armazenamento do centro de administração OneDrive](https://admin.onedrive.com/?v=StorageSettings)e introduza um novo valor em GB.
+- Vá para a [Armazenamento página de OneDrive de](https://admin.onedrive.com/?v=StorageSettings)administração do OneDrive e introduza uma nova quantidade em GB.
     
-Para verificar quanto armazenamento está a utilizar no seu próprio OneDrive, consulte [Gerir o seu OneDrive para armazenamento de negócios.](https://go.microsoft.com/fwlink/?linkid=866429) Para obter informações sobre o armazenamento que acompanha cada plano, consulte a [descrição do serviço OneDrive for Business](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Para verificar a quanto armazenamento está a utilizar no seu próprio OneDrive, consulte Gerir o [armazenamento OneDrive para Empresas armazenamento](https://go.microsoft.com/fwlink/?linkid=866429). Para mais informações sobre o armazenamento de cada plano, consulte a OneDrive para Empresas [do serviço.](https://go.microsoft.com/fwlink/p/?LinkID=826071)
   
 

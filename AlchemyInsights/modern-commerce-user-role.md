@@ -1,5 +1,5 @@
 ---
-title: Papel de utilizador do comércio moderno
+title: Função Utilizador de Comércio Moderno
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 54a2315af50bd6c5df189e7b92f5af1a3cff9304
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 07f93f4d9ffc300d19e38e771a512f0bd1db9cda10d1648e789917d85a1a39df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833626"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012031"
 ---
-# <a name="modern-commerce-user-role"></a>Papel de utilizador do comércio moderno
+# <a name="modern-commerce-user-role"></a>Função Utilizador de Comércio Moderno
 
-A função de Utilizador do Comércio Moderno dá a certos utilizadores permissão para aceder ao centro de administração microsoft 365 e ver as entradas de navegação esquerda para **Home**, **Billing** e **Support**. O conteúdo disponível nestas áreas é controlado por funções específicas do comércio atribuídas aos utilizadores para gerir produtos que compraram para si ou para a sua organização. Isto pode incluir tarefas como pagar contas ou acesso a contas de faturação e perfis de faturação.
+A função Utilizador de Comércio Moderno concede a determinados utilizadores permissão para centro de administração do Microsoft 365 navegação e ver as entradas de navegação à esquerda para **Casa,** Faturação e **Suporte.** Os conteúdos disponíveis nestas áreas são controlados por funções específicas do comércio atribuídas aos utilizadores para gerirem produtos que compraram para eles próprios ou para a sua organização. Isto pode incluir tarefas como pagar faturas ou acesso a contas de faturação e perfis de faturação.
 
-Os utilizadores com a função de Utilizador de Comércio Moderno normalmente têm permissões administrativas em outros sistemas de compra da Microsoft, mas não têm privilégios de administrador global ou administrador de faturação.
+Normalmente, os utilizadores com a função Utilizador de Comércio Moderno têm permissões administrativas noutros sistemas de compra da Microsoft, mas não têm privilégios de Administrador global ou Administrador de faturação.
 
-Para saber mais sobre esta e outras funções [administrativas, consulte as permissões de função de Administrador no Diretório Ativo Azure](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).
+Para saber mais sobre esta e outras funções administrativas, consulte [Permissões de função de administrador no Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).

@@ -1,5 +1,5 @@
 ---
-title: Pesquisa de conteúdo Sem Resultados
+title: Sem Resultados da Pesquisa de Conteúdos
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 0267286ca5967ee891e65343d49adf776f0322a6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b53534dd0666fa64e692910aa6800abab30169a97fbe567c815ce6b948381a63
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816859"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058013"
 ---
-# <a name="no-results-from-content-searchexports"></a>Sem resultados de Pesquisa/Exportações de Conteúdos
+# <a name="no-results-from-content-searchexports"></a>Nenhum resultado da Pesquisa/Exportações de Conteúdo
 
-Problemas com a Pesquisa/Exportações de Conteúdo que não devolvam quaisquer dados podem dever-se a um certo Filtro de Segurança de Conformidade que foi configurado por um Administrador específico e não os comunicando a todos os Administradores.
+Os problemas com a Pesquisa/Exportações de Conteúdos não devolvem quaisquer dados podem ser devido a determinado Filtro de Segurança de Conformidade que foi configurado por um Administrador específico e não ao communicá-lo a todos os Administradores.
 
-Para resolver isto, verifique se existem filtros de segurança de conformidade que possam estar a causar isto:
-1. Ligue-se ao Centro de Segurança e Conformidade Powershell
-2. Executar os seguintes comandos:
+Para resolver esta situação, verifique se existem Filtros de Segurança de Conformidade que possam estar a causar este problema:
+1. Ligação ao PowerShell do Centro de Conformidade e Segurança
+2. Execute os seguintes comandos:
 <br>$org = "yourdomain.com"
 <br>Get-ComplianceSecurityFilter -Organização $org

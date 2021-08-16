@@ -1,5 +1,5 @@
 ---
-title: Questões e resoluções comuns do OneDrive
+title: OneDrive problemas e resoluções comuns
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,20 +12,20 @@ ms.collection: Admin_O365
 ms.custom:
 - "9000293"
 - "1901"
-ms.openlocfilehash: e6b8aad52d492d9db9de9abb9be182fe12d0bd62
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 028df27091397c0aba894683e3f6dd5b3e0fbc0b0170c7cc96d4da423dfd3119
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673003"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984832"
 ---
-# <a name="onedrive-common-issues-and-resolutions"></a>Questões e resoluções comuns do OneDrive
+# <a name="onedrive-common-issues-and-resolutions"></a>OneDrive problemas e resoluções comuns
 
-Aqui estão alguns tópicos frequentemente solicitados sobre questões oneDrive:
+Eis alguns tópicos pedidos frequentemente sobre OneDrive problemas:
 
-- **Configuração OneDrive Sync**: [Sync your OneDrive for Business files](https://go.microsoft.com/fwlink/?linkid=533375) ou sync [SharePoint files](https://go.microsoft.com/fwlink/?linkid=871666) with the OneDrive sync client for Windows.  Usando um Mac? Também é [possível sincronizar ficheiros com o OneDrive.](https://support.office.com/article/Sync-files-with-the-OneDrive-sync-client-on-Mac-OS-X-d11b9f29-00bb-4172-be39-997da46f913f)
+- **Configuração OneDrive Sincronização: sincroniza** [os OneDrive para Empresas](https://go.microsoft.com/fwlink/?linkid=533375) ficheiros do SharePoint ou [sincroniza](https://go.microsoft.com/fwlink/?linkid=871666) ficheiros do SharePoint com o cliente Sincronização do OneDrive para Windows.  Está a utilizar um Mac? Também pode [sincronização de ficheiros OneDrive](https://support.office.com/article/Sync-files-with-the-OneDrive-sync-client-on-Mac-OS-X-d11b9f29-00bb-4172-be39-997da46f913f) com os ficheiros.
 
-- **Resolução de problemas OneDrive Sync**: Se o OneDrive não sincronizar ficheiros da forma que espera, pode resolver problemas de [sincronização do OneDrive](https://go.microsoft.com/fwlink/?linkid=866431) para o Windows. Usando um Mac? Também pode [resolver problemas de sincronização.](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756)
-- **OneDrive Limits**: Conheça as [restrições e limitações](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) aplicáveis aos nomes de ficheiros e tipos de ficheiros ao sincronizar com o OneDrive.
-- **OneDrive Storage**: Veja como [alterar o espaço de armazenamento OneDrive de um utilizador específico](https://docs.microsoft.com/onedrive/change-user-storage) ou gerir o seu [OneDrive para armazenamento de negócios](https://support.office.com/article/Manage-your-OneDrive-for-Business-storage-31519161-059C-4764-B6F8-F5CD29F7FE68).
-- **Registos de auditoria**: Veja como pode [utilizar a pesquisa](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log) de registo de auditoria para verificar a atividade dos ficheiros, pastas, utilizadores ou permissões. 
+- **Remova OneDrive Sincronização:** se o OneDrive não sincroniza [ficheiros](https://go.microsoft.com/fwlink/?linkid=866431) da forma esperada, pode Sincronização do OneDrive problemas relacionados com Windows. Está a utilizar um Mac? Também pode [remova problemas de sincronização](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756) para os problemas.
+- **OneDrive Limitações:** saiba mais sobre as restrições e limitações que se aplicam a nomes de ficheiro [e](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) tipos de ficheiro ao ser OneDrive.
+- **OneDrive Armazenamento**: Veja como alterar [o](https://docs.microsoft.com/onedrive/change-user-storage) espaço de armazenamento OneDrive armazenamento de um utilizador específico ou gerir o [armazenamento OneDrive para Empresas utilizador.](https://support.office.com/article/Manage-your-OneDrive-for-Business-storage-31519161-059C-4764-B6F8-F5CD29F7FE68)
+- **Registos de** Auditoria: veja [](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log) como pode utilizar a pesquisa de registos de auditoria para verificar a atividade dos ficheiros, pastas, utilizadores ou permissões. 

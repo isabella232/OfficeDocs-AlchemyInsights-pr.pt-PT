@@ -1,5 +1,5 @@
 ---
-title: Encontre o endereço IP no registo de auditoria
+title: Encontrar o endereço IP no registo de auditoria
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 7a01aa3cc0d875e6534435f3e8f90a24f2832dc3
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 5b58803719df700290f495cb2d2d6742f072420a2a1d393534ca165bb5a14fbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483711"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017143"
 ---
-# <a name="find-the-ip-address-in-audit-log"></a>Encontre o endereço IP no registo de auditoria
+# <a name="find-the-ip-address-in-audit-log"></a>Encontrar o endereço IP no registo de auditoria
 
-1. O endereço IP que corresponde a uma atividade realizada por um utilizador ou administrador é mostrado nos registos de auditoria. A informação do cliente também está registada. Aqui está como identificar o endereço IP:
+1. O endereço IP que corresponde a uma atividade efetuada por um utilizador ou administrador é apresentado nos registos de auditoria. As informações do cliente também são com sessão marcada. Eis como identificar o endereço IP:
 
-1. Vá ao [Centro de Segurança & Compliance do Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Selecione **pesquisa**  >  **[de registo de auditoria de pesquisa](https://go.microsoft.com/fwlink/?linkid=2103759)**.
+1. Vá para o Centro [de conformidade Office 365 de & de Conformidade.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. **Selecione**  >  **[Pesquisar registo de auditoria .](https://go.microsoft.com/fwlink/?linkid=2103759)**
     > [!NOTE]
-    > Se vir um aviso de que precisa de ligar a auditoria, vá em frente e ligue-o agora. Se esta funcionalidade não estiver ativada, os resultados da pesquisa não serão capazes de extrair dados de datas anteriores.
-1. Se estiver interessado numa atividade específica, selecione-a na lista **de Atividades;** caso contrário, por padrão, todas as atividades serão devolvidas para o utilizador selecionado. Note que certas atividades podem não estar disponíveis para seleção a partir do menu **Atividades;** no entanto, esses itens de auditoria serão devolvidos se **os resultados do Show para todas as atividades** forem selecionados (definição predefinida).
-1. Especifique o intervalo de datas e, no campo **Utilizadores,** selecione o nome de utilizador para o utilizador que pretende investigar.
-1. Selecione **Pesquisar**. As atividades aparecem nos **Resultados.** Pode ver o endereço IP de cada atividade.
-1. Para ver detalhes, selecione uma atividade e, em seguida, selecione **Mais Informações**.
+    > Se vir um aviso a dizer que precisa de a ligar a auditoria, continue e a ligue-o agora. Se esta funcionalidade não estiver ativada, os resultados da pesquisa não poderão importar dados de datas anteriores.
+1. Se estiver interessado numa atividade específica, selecione-a na **lista** Atividades; Caso contrário, por predefinição, todas as atividades serão devolvidas ao utilizador selecionado. Tenha em atenção que determinadas atividades podem não estar disponíveis para seleção **a partir do** menu Atividades; no entanto, esses itens de auditoria serão devolvidos se a **opção Mostrar resultados de todas as atividades estiver selecionada** (predefinição).
+1. Especifique o intervalo  de datas e, no campo Utilizadores, selecione o nome de utilizador do utilizador que pretende investigar.
+1. **Selecione Procurar**. As atividades são apresentadas em **Resultados.** Pode ver o endereço IP de cada atividade.
+1. Para ver detalhes, selecione uma atividade e, em seguida, **selecione Mais Informações.**
 
-Para saber mais, consulte o [registo de auditoria do Office 365 para resolver cenários comuns.](https://go.microsoft.com/fwlink/?linkid=2103944)
+Para saber mais, consulte Procurar no [registo Office 365 de auditoria de pesquisa para remoção de cenários comuns.](https://go.microsoft.com/fwlink/?linkid=2103944)

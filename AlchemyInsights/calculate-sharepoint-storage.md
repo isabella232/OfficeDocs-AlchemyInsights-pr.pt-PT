@@ -1,5 +1,5 @@
 ---
-title: Calcular armazenamento sharePoint
+title: Calcular o armazenamento do SharePoint
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000355"
 - "10010"
-ms.openlocfilehash: aaabcc52b4811c1eea9cd3f0c65e2bf81644354b
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
+ms.openlocfilehash: 7feac3177052b8647ff571f875f6978e84b046e06283bc8ac5ba48cc148f14a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51420927"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046439"
 ---
-# <a name="calculate-sharepoint-storage"></a>Calcular armazenamento sharePoint
+# <a name="calculate-sharepoint-storage"></a>Calcular o armazenamento do SharePoint
 
-**Fórmula de armazenamento:** 1 TB mais 10 GB por licença de [plano elegível](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space) adquirido mais qualquer suplemento **[de armazenamento de arquivo extra do Office 365](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)** comprado.
+**Armazenamento fórmula:** 1 TB mais 10 GB [](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space) por licença do plano elegível comprado e qualquer Office 365 Ficheiro **[Adicional Armazenamento](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)** no add-on comprado.
 
-Para obter mais informações, [os limites de armazenamento do SharePoint por plano.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
+Para obter mais informações, consulte Limites [de armazenamento do SharePoint por plano.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)

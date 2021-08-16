@@ -1,5 +1,5 @@
 ---
-title: Junte reuniões de equipas
+title: Participar em Teams reuniões
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: caa0cb4aa9a76cf1e18eafb73273c2fe5cc6a6df
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1ebd54843fb99e144580dc26ce382039b5a6b0c3d85d1be45b2b49a0e92f5d46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824014"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054309"
 ---
-# <a name="join-a-meeting-in-teams"></a>Junte-se a um encontro em Equipas
+# <a name="join-a-meeting-in-teams"></a>Participar numa reunião no Teams
 
-Para se juntar a uma reunião de equipas, primeiro definir políticas de reunião e, em seguida, direcionar os utilizadores para se juntarem aos seus dispositivos preferidos:
+Para participar numa reunião Teams, primeiro defina as políticas de reunião e, em seguida, direcionar os utilizadores para aderirem a partir dos seus dispositivos preferenciais:
 
-- Definir políticas de reunião que controlem quem poderá participar da reunião como [participantes ou convidados.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests) 
+- Defina políticas de reunião que controlem quem poderá participar na reunião como [participantes ou convidados.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests) 
 
-- Utilize [cmdlets PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) da Microsoft Teams para escoar alterações de política.    
+- Utilize Microsoft Teams [cmdlets do PowerShell para fazer](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) alterações de política.    
 
-**Nota:** Pode levar até 24 horas para que as mudanças de política entrem em vigor.
+**Nota:** Pode demorar até 24 horas para que as alterações de política entrem em vigor.

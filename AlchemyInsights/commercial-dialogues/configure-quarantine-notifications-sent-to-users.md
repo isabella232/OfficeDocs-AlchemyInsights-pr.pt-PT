@@ -1,5 +1,5 @@
 ---
-title: Configure notificações de quarentena enviadas aos utilizadores
+title: Configurar notificações de quarentena enviadas aos utilizadores
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 3e3e350f74b19420155c29cb282f065e7db6d4d7
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fa38d893a8bd543e87c0239f1a88d9c1caa33153ced6e33ef31c309be8989e95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747933"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035197"
 ---
-# <a name="configure-quarantine-notifications-sent-to-users"></a>Configure notificações de quarentena enviadas aos utilizadores
+# <a name="configure-quarantine-notifications-sent-to-users"></a>Configurar notificações de quarentena enviadas aos utilizadores
 
-Para enviar notificações aos seus utilizadores sobre o que está em quarentena:
+Para enviar notificações aos seus utilizadores sobre o que está na quarentena:
 
-1. No centro de administração, navegue para centros **de**  >    >  **administração** Exchange Protection  >  **spam filter**.
-2. Selecione a política de filtro de spam para a qual pretende ligar as notificações.
-3. No painel direito, escolha o link **de notificações de spam Configure End** user.
-4. Na próxima caixa de diálogo, escolha **Ativar as notificações de spam do utilizador final**. Opte por ativar notificações de spam para esta política.
-5. Em **Enviar notificações de spam de utilizador final de cada (dias)**, especifique com que frequência enviar notificações de spam do utilizador. O padrão é de 3 dias. Pode especificar entre 1 e 15 dias. Se especificar 7 dias, por exemplo, a notificação incluirá uma lista de todas as mensagens destinadas a esse utilizador nos últimos 7 dias que foram enviadas para a quarentena de spam.
-6. Em **Notificação, o idioma** escolha o idioma para escrever notificações de spam do utilizador para esta política.
+1. No centro de administração, navegue até aos **centros** de administração com o Exchange  >    >  **de**  >  **spam Proteção.**
+2. Selecione a política de filtro de spam para a qual pretende ativar as notificações.
+3. No painel direito, selecionar a ligação **Configurar notificações** de spam do Utilizador final.
+4. Na caixa de diálogo seguinte, selecionar **Ativar as notificações de spam do utilizador final**. Opte por ativar as notificações de spam para esta política.
+5. Em **Enviar notificações de spam** ao utilizador final a cada (dias), especifique a frequência com que envia notificações de spam ao utilizador. A predefinição é 3 dias. Pode especificar entre 1 e 15 dias. Se especificar 7 dias, por exemplo, a notificação incluirá uma lista de todas as mensagens destinadas a esse utilizador nos últimos 7 dias, que em vez disso foram enviadas para a quarentena de spam.
+6. No **idioma de notificação,** selecionar o idioma no qual vai escrever as notificações de spam do utilizador para esta política.
 7. Selecione **Guardar**.

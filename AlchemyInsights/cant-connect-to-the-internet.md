@@ -1,5 +1,5 @@
 ---
-title: Não se pode ligar à Internet
+title: Não é possível ligar à Internet
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 6d865aa08a5703ec5906d7f263532184fc50ed7e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1547d69cf990d6f0872e23162408860ed25aa805eb99f818eb079d0f7e04ce35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819451"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035675"
 ---
 # <a name="fix-network-connection"></a>Corrigir ligação de rede
 
-Para resolver problemas de ligação à rede, tente primeiro executar o resolução de problemas da Rede. 
+Para resolver problemas de ligação de rede, experimente primeiro executar a Resolução de problemas de rede. 
 
-1. [Abra as definições de resolução de problemas](ms-settings:troubleshoot).
+1. [Abra as definições de Remoção de Problemas.](ms-settings:troubleshoot)
 
-2. Em **Conexões à Internet**, selecione Executar o **resolução de problemas**.
+2. Em **Ligações à Internet**, **selecione Executar a remoção de problemas**.
 
-Se estiver a utilizar uma ligação Wi-Fi, certifique-se de que Wi-Fi está ligado para o seu dispositivo (incluindo qualquer interruptor de Wi-Fi físico) e que o modo avião não está ligado.
+Se estiver a utilizar uma ligação Wi-Fi, certifique-se de que o Wi-Fi está ativo para o seu dispositivo (incluindo qualquer interruptor físico Wi-Fi) e que o modo de avião não está ativo.
 
-Se estiver a utilizar uma ligação Ethernet, certifique-se de que o cabo está ligado de forma segura ao pc e ao seu router ou modem.
+Se estiver a utilizar uma ligação Ethernet, certifique-se de que o cabo está ligado de forma segura ao PC e ao router ou modem.
 
-Se isso não funcionar, tente reiniciar o seu PC, modem e router (se tiver um):
+Se isso não funcionar, tente reiniciar o SEU PC, modem e router (se tiver um):
 
-1. Desligue a alimentação do modem e do router. Se o modem tiver uma bateria de reserva, terá de remover a bateria para desligar completamente a energia.
+1. Desligue a luz do seu modem e router. Se o modem tiver uma cópia de segurança da bateria, terá de remover a bateria para desligar completamente a bateria.
 
-2. Espere cerca de 30 segundos. Se retirar a bateria do modem, volte a colocá-la.
+2. Aguarde cerca de 30 segundos. Se tiver removido a bateria do modem, volte a colocá-la.
 
-3. Ligue o cabo de alimentação ao modem e ao router.
+3. Ligue o cabo de alimentação para o modem e router.
 
-4. Enquanto espera que o modem e o router liguem completamente, reinicie o seu PC: **Iniciar o** arranque  >  **da potência**  >  **reinicialização**.
+4. Enquanto espera que o modem e o router se ligarem totalmente, reinicie o PC: **Iniciar**  >  **o Power**  >  **Reiniciar**.
 
-**Resolução avançada de problemas**
+**Remoção de problemas avançada**
 
-Para obter etapas mais avançadas de resolução de problemas, consulte [corrigir problemas de ligação Wi-Fi no Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
+Para passos de remoção de problemas mais avançados, consulte [Corrigir Wi-Fi problemas de ligação no Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
 
-Se não se sentir à vontade para utilizar os passos mais técnicos de resolução de problemas, [contacte-nos](https://support.microsoft.com/contactus).
+Se não estiver à vontade a utilizar os passos de remoção de problemas mais técnicos, [contacte-nos.](https://support.microsoft.com/contactus)

@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "2683"
 - "6200002"
-ms.openlocfilehash: c40742d6bfb7d0431b788c15517b50d34dd199a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a4855d71152a158b94a19c36159b1ea9b055f626c680c43c875de1f258329c96
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825670"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029383"
 ---
 # <a name="how-to-enroll-devices"></a>Como inscrever dispositivos
 
-Seguem-se os fundamentos da inscrição:
+Seguem-se as Noções básicas de inscrição:
 
-- Para saber mais sobre a inscrição do Intune, veja [o que é a inscrição do dispositivo no Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)
+- Para saber mais sobre a inscrição do Intune, consulte O que é [a inscrição de dispositivos no Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).
 
-- Para obter informações mais detalhadas sobre a inscrição em plataformas específicas, guias e tutoriais, consulte [os dispositivos de inscrição no portal Microsoft Intune.](https://docs.microsoft.com/mem/intune/enrollment/)
+- Para obter informações mais detalhadas sobre a inscrição em plataformas específicas, guias de instruções e tutoriais, consulte Inscrever dispositivos [Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/) portal.
 
-**Problemas de inscrição de dispositivos de resolução de problemas**
+**Remoção de problemas de inscrição de dispositivos**
 
-- [Inscrição de dispositivos de resolução de problemas no Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+- [Remova a inscrição de dispositivos no Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-- [Resolução de problemas de inscrição de dispositivos iOS/iPadOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
+- [Remova problemas de inscrição de dispositivos iOS/iPadOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-- [Resolução de problemas problemas de inscrição de dispositivos Windows](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
+- [Resolver problemas Windows de inscrição de dispositivos](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
 
-- [Resolução de problemas Da inscrição automática do Windows 10](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [Remoção Windows 10 inscrição automática](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
 
-- [Resolução de problemas problemas com dispositivo Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
+- [Remoção de problemas de dispositivos Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
 
 

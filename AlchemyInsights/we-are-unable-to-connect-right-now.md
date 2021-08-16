@@ -1,5 +1,5 @@
 ---
-title: Problema de Ativação - Não podemos nos conectar agora
+title: Problema de Ativação – de momento não é possível ligar
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 2dd3c97bb85254215b13ee8a1222941c0492b204
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5dad4b43efac2468b57351a4d6c96379ed505071ca144ec0aa518e975633bb18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51806453"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998171"
 ---
-# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Correção da mensagem das aplicações Microsoft 365 "Não conseguimos ligar-nos agora"
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Corrigir a mensagem Microsoft 365 aplicações "Não é possível ligar neste momento"
 
 Se receber esta mensagem, experimente o seguinte:
 
-1. Verifique as definições de firewall, antivírus e proxy para confirmar que não estão a bloquear o acesso à Internet às aplicações da Microsoft 365. Consulte [os intervalos de endereços Microsoft URLs e IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Verifique a sua firewall, software antivírus e definições de proxy para confirmar que não estão a bloquear o acesso à Internet a Microsoft 365 aplicações. Consulte [Intervalos de URLs e endereços IP da Microsoft.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-2. Ir para **start**  >  **run** e, em seguida, escrever **serviços.msc**. Certifique-se de que todos os seguintes serviços estão em funcionamento:
-    - Configuração automática de dispositivos ligados à rede
+2. Vá para **Iniciar**  >  **Executar e,** em seguida, **escreva services.msc**. Certifique-se de que os seguintes serviços estão todos em execução:
+    - Configuração Automática de Dispositivos Ligados à Rede
     - Serviço de Lista de Rede
-    - Consciência de localização da rede
-    - Registo de eventos do Windows
+    - Sensibilização sobre a Localização da Rede
+    - Windows Registo de Eventos
 
-Se um destes serviços não estiver a funcionar, tente iniciá-lo. Se tiver algum problema em iniciar o serviço, executar o seguinte comando abrindo um pedido de comando com permissões elevadas:
+Se um destes serviços não estiver em execução, tente iniciá-lo. Se tiver problemas ao iniciar o serviço, execute o seguinte comando ao abrir uma linha de comandos com permissões elevadas:
 
 **sfc /scannow**
 
-Depois de terminar este comando, reinicie o computador.
+Quando este comando terminar, reinicie o computador.
 
-Para obter informações detalhadas, consulte ["Desculpe, não podemos ligar-nos à sua conta. Tente novamente mais tarde" erro quando ativar o Office a partir do Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Para obter informações detalhadas, [consulte "Lamentamos, mas não é possível ligar à sua conta. Erro tente novamente mais tarde", ao ativar Office a partir Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

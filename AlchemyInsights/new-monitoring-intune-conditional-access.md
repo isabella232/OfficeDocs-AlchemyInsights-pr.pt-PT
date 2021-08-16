@@ -1,5 +1,5 @@
 ---
-title: Monitor Intune Acesso Condicional
+title: Monitorizar o Acesso Condicional do Intune
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,31 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004636"
 - "8386"
-ms.openlocfilehash: e2803a49aaf087ac55b1fd62056e2b0af3fcd919
-ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
+ms.openlocfilehash: 7f30202ff0a5b9475393cf26c0506bd6bec24f3d378052f24ebf7f327cf84689
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427926"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025513"
 ---
-# <a name="monitor-intune-conditional-access"></a>Monitor Intune Acesso Condicional
+# <a name="monitor-intune-conditional-access"></a>Monitorizar o Acesso Condicional do Intune
 
-Os utilizadores direcionados com acesso condicional receberão um e-mail de notificação se não cumprirem os requisitos de acesso da sua organização. Para resolver, recomendamos uma ou mais das seguintes soluções:
+Os utilizadores aosdos terão acesso condicional receberão um e-mail de notificação se não cumprirem os requisitos de acesso da sua organização. Para resolver o problema, recomendamos que utilize uma ou mais das seguintes soluções:
 
-1. Caso se presuma que o dispositivo esteja matriculado, aconselhe o utilizador a recorrer à aplicação Portal da Empresa e verificar se aparece no Portal da Empresa. Se não o fizer, o utilizador deve inscrever o dispositivo.
-1. No portal Azure aceda à conformidade do Dispositivo **Intune**  >  . 
-1. Para ver o relatório de conformidade do dispositivo para verificar se o dispositivo do utilizador está marcado como conforme, no **Monitor**, clique na **conformidade do Dispositivo**.
-1. No portal Azure aceda à conformidade do Dispositivo **Intune**  >  . Em **Gestão,** clique em **Políticas**. Na lista de políticas de conformidade, verifique se um perfil é atribuído ao dispositivo do seu utilizador. Se não for atribuído nenhum perfil, o Intune não poderá confirmar o estado de conformidade do dispositivo.
-1. Editar a atribuição de acesso condicional do utilizador.
-1. No portal Azure, navegue para Políticas de Acesso Condicionado **Intune**  >    >  , selecione uma política da lista e clique em **Utilizadores e grupos**.
-1. Para direcionar uma determinada política a alguém, adicione-a à **lista Incluindo.** Para garantir que uma pessoa é omitida da apólice, adicione-a à **lista de exclusão**.
+1. Se o dispositivo estiver predisposta a ser inscrito, receba o utilizador para ir para a aplicação Portal da Empresa e verifique se aparece na Portal da Empresa. Se isso não acontecer, o utilizador terá de inscrever o dispositivo.
+1. No portal do Azure, vá para **Conformidade do dispositivo Intune.**  >   
+1. Para ver o relatório de conformidade do dispositivo para verificar se o dispositivo do utilizador está marcado como conforme, em **Monitorização**, clique em Conformidade **do dispositivo**.
+1. No portal do Azure, vá para **Conformidade do dispositivo Intune.**  >   Em **Gerir, clique** em **Políticas**. Na lista de políticas de conformidade, verifique se está atribuído um perfil ao dispositivo do utilizador. Se não for atribuído nenhum perfil, o Intune não conseguirá confirmar o estado de conformidade do dispositivo.
+1. Edite a atribuição de acesso condicional do utilizador.
+1. No portal do Azure, navegue até Políticas de Acesso Condicional do **Intune,** selecione uma política a partir da lista e clique em Utilizadores  >    >   **e grupos**.
+1. Para atingir uma determinada política a alguém, adicione-a à **lista Incluir.** Para se certificar de que uma pessoa é omitida da política, adicione-a à **lista Excluir.**
 
-**Links úteis:**
+**Ligações úteis:**
 
 - [Visão geral da conformidade do dispositivo](https://docs.microsoft.com/intune/device-compliance-get-started)
-- [Resolução de problemas CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
-- [Política de resolução de problemas](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
-- [Monitorização da conformidade do dispositivo Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Remoção de Problemas da AC](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Política de remoção de problemas](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Monitorizar a conformidade do dispositivo Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
 > [!NOTE]
-> Estes passos só são úteis para resolver problemas na resolução do recurso Azure Ative Directory Conditional Access. Também é possível colocar em quarentena um dispositivo que bloqueia o seu acesso por e-mail com a política de Troca. Mais informações sobre a gestão do dispositivo Exchange podem ser [**encontradas aqui.**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))
+> Estes passos só são úteis na remoção da Azure Active Directory funcionalidade Acesso Condicional. Também é possível bloquear um dispositivo ao bloquear o seu acesso de e-mail com uma Exchange restrita. Pode encontrar mais informações Exchange gestão de dispositivos [**aqui.**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))

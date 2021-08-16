@@ -1,5 +1,5 @@
 ---
-title: Configurar SharePoint
+title: Configurar o SharePoint
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "7407"
-ms.openlocfilehash: 66b29abcbce3d5cc538969d480ec9a89ae3c6095
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: eed91d538589a3eda49d19ae60cf772b7c20cbfc12c2b47aec0bb313ebd73e00
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583997"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023461"
 ---
-# <a name="set-up-sharepoint"></a>Configurar SharePoint
+# <a name="set-up-sharepoint"></a>Configurar o SharePoint
 
-O [guia de configuração do SharePoint](https://go.microsoft.com/fwlink/?linkid=2071425) ajuda-o a configurar o armazenamento e gestão de conteúdos do seu Documento SharePoint, a criar sites, configurar a partilha externa, migrar dados e configurar definições avançadas e impulsionar o envolvimento e comunicação do utilizador dentro da sua organização.
+O guia de configuração do [SharePoint](https://go.microsoft.com/fwlink/?linkid=2071425) ajuda-o a configurar o armazenamento de documentos do SharePoint e a gestão de conteúdos, a criar sites, a configurar a partilha externa, a migrar dados e a configurar definições avançadas, e a orientar a interação e comunicação entre os utilizadores na sua organização.
 
-Seguirá os passos para configurar as suas políticas de permissão de partilha de conteúdos, escolherá as suas ferramentas de sincronização de migração, bem como ativará as definições de segurança para o seu ambiente SharePoint.
+Irá seguir os passos para configurar as suas políticas de permissão de partilha de conteúdos, selecionar as ferramentas de sincronização da migração e ativar as definições de segurança para o seu ambiente do SharePoint.

@@ -1,5 +1,5 @@
 ---
-title: Problemas de formatação de fonte no Excel 2016
+title: Problemas de formatação de Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,14 +14,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 1831845768969e5fbb181276b2b66830c7d71599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77387602fda7067b469a93289dc071d0c9ba52eff67c5fb04f4426e4034eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744196"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068211"
 ---
-# <a name="font-formatting-problems-in-excel"></a>Problemas de formatação de fontes no Excel
+# <a name="font-formatting-problems-in-excel"></a>Problemas de formatação de Excel
 
-No Excel 2016, a formatação de fontes pode não aparecer corretamente numa célula. Isto pode acontecer se uma célula contiver mais de um tipo de formatação de fonte. Por exemplo, se alguns caracteres forem arrojados e outros não forem arrojados, pode não ver o formato arrojado aparecer. Ou se tiver diferentes personagens coloridos na mesma célula, pode não ver as cores a aparecer corretamente. A nossa equipa de engenharia está ciente deste problema e está neste momento a trabalhar numa correção. Entretanto, tente usar um tipo de letra diferente. Ou tente evitar o uso de vários tipos de formatação dentro da mesma célula até que este problema seja corrigido.
+Nos Excel 2016, a formatação do tipo de letra pode não ser apresentada corretamente numa célula. Isto pode acontecer se uma célula contiver mais do que um tipo de formatação do tipo de letra. Por exemplo, se alguns carateres estiverem a negrito e outros não estiverem a negrito, poderá não ver o formato a negrito a aparecer. Se tiver carateres de cor diferentes na mesma célula, poderá não ver as cores a aparecerem corretamente. A nossa equipa de engenheiros tem conhecimento deste problema e está atualmente a trabalhar numa correção. Entretanto, experimente utilizar um tipo de letra diferente. Em vez disso, tente evitar utilizar vários tipos de formatação na mesma célula até este problema ser corrigido.
   

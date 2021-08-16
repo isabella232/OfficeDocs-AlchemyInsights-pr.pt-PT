@@ -1,5 +1,5 @@
 ---
-title: Sobre os administradores de Yammer
+title: Acerca Yammer administradores
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003221"
 - "9714"
-ms.openlocfilehash: fd8534d44c44f2ea8e6b0de8c361109915566868
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: a5d71f509b7006264b15549c7e8450d4ed7025b7dea3cfd80fe6f0fdf50b0b9c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51038121"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989710"
 ---
-# <a name="about-yammer-admins"></a>Sobre os administradores de Yammer
+# <a name="about-yammer-admins"></a>Acerca Yammer administradores
 
 **Administradores de rede**
 
-Os administradores globais são automaticamente promovidos ao papel de Administrador Verificado numa rede Yammer. Nos seguintes casos, esta promoção pode não ocorrer corretamente:
+Os administradores globais são automaticamente promovidos para a função Administrador Verificado numa Yammer rede. Nos seguintes casos, esta promoção pode não ocorrer corretamente:
 
-- Existem várias redes Yammer, e o administrador está a ser assinado na errada. [A consolidação da rede](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) é necessária para chegar a uma rede Yammer.
-- O Azure PIM está a ser usado. O utilizador não pode ser promovido a administrador global tempo suficiente para que a promoção ocorra. Uma futura atualização para a Yammer pode resolver este problema, mas o melhor é promover os utilizadores para administração global manualmente.
-- Existe um problema de sincronização com a rede Yammer. Neste caso, será necessário um pedido de apoio para uma investigação mais aprofundada.
+- Existem Yammer rede de rede e o administrador está a ter a sua conta na rede errada. [A consolidação de](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) rede é necessária para obter uma Yammer rede.
+- O Azure PIM está a ser utilizado. O utilizador não pode ser promovido a administrador global por tempo suficiente para que a promoção ocorra. Uma atualização futura ao Yammer pode resolver este problema, mas é melhor promover os utilizadores a administradores globais manualmente.
+- Existe um problema de sincronização com a Yammer Rede. Neste caso, será necessário um pedido de suporte para investigar mais.
 
-Para obter mais informações sobre os papéis de administrador da Yammer, consulte [administração Manage Yammer](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins).
+Para obter mais informações Yammer de administrador, consulte [Gerir Yammer administradores.](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins)
 
-**Administradores de grupo**
+**Administradores de grupos**
 
-Os administradores do grupo para grupos conectados microsoft 365 estão sincronizados com a adesão do grupo a Azure AD. Para os grandes grupos, esta sincronização pode demorar um período prolongado.
+Os administradores de grupos Microsoft 365 grupos ligados são sincronizados com a associação a grupos do Azure AD. Para grupos grandes, esta sincronização pode demorar um longo período de tempo.

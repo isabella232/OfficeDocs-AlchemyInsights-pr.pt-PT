@@ -1,5 +1,5 @@
 ---
-title: O que é um centro?
+title: O que é um site central?
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c74df953-2ddc-4375-aea0-9f410881bb2e
-ms.openlocfilehash: f6bcd7acd0562860414b72b9199a8c4a24d9bcf8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5d2523832f91c98c452ef1c21586888da236082ff551b3b1a349757b48f6e99d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767466"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989818"
 ---
-# <a name="whats-a-hub-site"></a>O que é um centro?
+# <a name="whats-a-hub-site"></a>O que é um site central?
 
-Um site de hub ajuda-o a organizar sites e a dar-lhes uma navegação e branding comuns. Os administradores globais ou sharePoint serão capazes de criar sites de hub e especificar quais os utilizadores que podem associar os seus sites ao site do hub. Para obter mais informações, consulte [os sites do sharePoint hub](https://go.microsoft.com/fwlink/?linkid=869388).
+Um site central ajuda-o a organizar sites e a dar-lhes uma navegação e uma imagem corporante comuns. Os administradores globais ou do SharePoint poderão criar sites centrais e especificar que utilizadores podem associar os respetivos sites ao site central. Para mais informações, consulte Sites [centrais do SharePoint.](https://go.microsoft.com/fwlink/?linkid=869388)
   

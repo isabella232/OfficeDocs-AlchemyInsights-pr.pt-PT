@@ -1,5 +1,5 @@
 ---
-title: Guia de configuração de trabalho remoto
+title: Guia de configuração do trabalho remoto
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573710"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024001"
 ---
-# <a name="remote-work-setup-guide"></a>Guia de configuração de trabalho remoto
+# <a name="remote-work-setup-guide"></a>Guia de configuração do trabalho remoto
 
-Cada vez mais trabalho está a ser feito remotamente. O seu org precisa de estar equipado para gerir a procura acrescida de trabalho remoto.
+Está a ser feito cada vez mais trabalho remotamente. A sua empresa tem de estar preparada para gerir o aumento da procura de trabalho remoto.
 
-Utilize o [guia de configuração de trabalho remoto](https://go.microsoft.com/fwlink/?linkid=2142062) para permitir funcionalidades de segurança essenciais e rever recomendações de segurança adicionais. Você receberá orientação para reduzir a pressão na sua infraestrutura VPN e configurar opcionalmente o acesso remoto para desktops e apps. Em seguida, irá rever as suas opções para implementar as equipas da Microsoft e as aplicações do Office.
+Utilize o Guia [de configuração de trabalho remoto para ativar](https://go.microsoft.com/fwlink/?linkid=2142062) funcionalidades de segurança essenciais e rever recomendações de segurança adicionais. Irá obter orientações para reduzir o esforço na sua infraestrutura de VPN e, opcionalmente, configurar o acesso remoto para ambientes de trabalho e aplicações. Em seguida, irá rever as opções para implementar aplicações Microsoft Teams e Office.

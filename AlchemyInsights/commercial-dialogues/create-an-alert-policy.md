@@ -1,5 +1,5 @@
 ---
-title: Criar uma política de alerta
+title: Criar uma política de alertas
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 0c2473b8682ba12d3d15e24dc0f2485a7ab8789f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 78fd77c27a3ec62b16325cdb3be469e45514f8cf0b5de4f4264f080b23627eef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403610"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988342"
 ---
-# <a name="create-an-alert-policy"></a>Criar uma política de alerta
+# <a name="create-an-alert-policy"></a>Criar uma política de alertas
 
-Eis como fazer isto:
+Eis como fazê-lo:
 
-1. Vá ao [Centro de Segurança & Compliance do Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Selecione   >  [as políticas de alerta de alerta](https://go.microsoft.com/fwlink/?linkid=2103208)de alerta .
-1. Selecione **+ Nova política de alerta**. Aparece um voo.
-1. Desa estade os campos **Nome,** **Descrição,** **Severidade** e **Categoria** conforme adequado às suas necessidades. Selecione **Seguinte**.
-1. Selecione uma atividade do menu **Activity is** drop-down.
+1. Vá para o Centro [de conformidade Office 365 de & de Conformidade.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. **Selecione Políticas de**  >  [Alertas .](https://go.microsoft.com/fwlink/?linkid=2103208)
+1. **Selecione + Nova política de alertas**. É exibida uma panfleto.
+1. Defina **os campos** Nome, Descrição, **Gravidade** **e** Categoria conforme adequado às suas necessidades.  Selecione **Seguinte**.
+1. Selecione uma **atividade a partir do** menu superior Atividade.
 > [!NOTE]
->  Só pode escolher uma atividade, mas pode adicionar condições para refinar o que a apólice deteta.
-6. Selecione as frequências de desencadeamento de alerta que satisfaçam as suas necessidades e, em seguida, selecione **Next**.
-7. Decida se pretende notificar as pessoas quando este alerta é desencadeado, selecionando **Enviar notificações por e-mail** e escolher destinatários de **e-mail apropriados**. Selecione **Seguinte**.
-8. Quando terminar, reveja as definições. Pode ligar a apólice imediatamente selecionando **Sim, ligue-a imediatamente** e, em seguida, selecione **Acabamento**.
+>  Só pode selecionar uma atividade, mas pode adicionar condições para refinar o que a política deteta.
+6. Selecione o alerta que aciona frequências que cumprem as suas necessidades e, em seguida, **selecione Seguinte.**
+7. Decida se quer notificar as pessoas quando este alerta é acionado ao selecionar Enviar **notificações** por e-mail e escolher os destinatários de **e-mail adequados.** Selecione **Seguinte**.
+8. Quando terminar, reveja as definições. Pode ativar a política imediatamente ao selecionar **Sim,** ativar imediatamente a mesma e, em seguida, selecionar **Concluir**.
 
-Para saber mais, consulte as definições de política de alerta
+Para saber mais, consulte Definições da política de alerta
 

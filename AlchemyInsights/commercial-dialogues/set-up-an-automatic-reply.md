@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: fe32f93f17151be777749a256a934f475c224048
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09f618c305cf566c03cbad8ca6ef2ebbf42e48be6c97374199654005698053df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747673"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994948"
 ---
 # <a name="set-up-an-automatic-reply"></a>Configurar uma resposta automática
 
-Use respostas automáticas sempre que quiser deixar que as pessoas que lhe enviam e-mail saibam que não responderá imediatamente às suas mensagens. Depois de as respostas automáticas serem ligadas, serão enviadas uma vez para cada remetente.
+Utilize as respostas automáticas sempre que pretender que as pessoas que lhe enviam mensagens de e-mail saibam que não irá responder imediatamente às respetivas mensagens. Quando as respostas automáticas estiverem ativas, serão enviadas uma vez a cada remetente.
 
-1. Inscreva-se na Outlook.com.
-2. Na barra de navegação, escolha **Definições**  >  **Definir respostas automáticas**. Se não for mostrado **o conjunto de respostas automáticas,** escolha **Opções De Definições**  >    >  **Respostas automáticas**.
-3. Altere as definições para as suas respostas automáticas aqui, incluindo apenas ter respostas automáticas por um período de tempo específico, enviar uma resposta uma vez a todos os membros da sua organização, ou enviar uma resposta apenas para membros fora da sua organização.
+1. Inscreva-se em Outlook.com.
+2. Na barra de controlo de margem, **sele Definições**  >  **Definir respostas automáticas**. Se **a opção Definir respostas automáticas** não for apresentada, **sele Definições**  >  **Opções** Respostas  >  **automáticas**.
+3. Altere as definições das suas respostas automáticas aqui, incluindo apenas ter respostas automáticas para um período de tempo específico, enviar uma resposta uma vez para todos os membros da sua organização ou enviar uma resposta apenas a membros fora da sua organização.

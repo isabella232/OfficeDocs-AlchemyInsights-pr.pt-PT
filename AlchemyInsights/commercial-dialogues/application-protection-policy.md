@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: b76754a696608939403498dcd996c04ff5338b68
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d07a9500b9f17e05b4982f1219f8b94cb8c8be4b5484d334108c9131b42b5659
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749564"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995382"
 ---
 # <a name="application-protection-policy-requirements"></a>Requisitos da política de proteção de aplicações
 
 Requisitos da política de proteção de aplicações:
 
-- O utilizador tem uma licença Intune ou EMS.
-- O utilizador pertence a um grupo visado pelas políticas de proteção de aplicações.
-- Apenas um utilizador corporativo é assinado em aplicações protegidas num dispositivo.
-- [A aplicação implementou o Intune SDK. Para obter uma lista de aplicações que suportam o SDK, consulte as aplicações protegidas do Microsoft Intune.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
+- O utilizador tem uma licença do Intune ou EMS.
+- O utilizador pertence a um grupo dirigido por políticas de proteção de aplicações.
+- Apenas um utilizador empresarial tem acesso a aplicações protegidas num dispositivo.
+- [A aplicação implementou o SDK do Intune. Para ver uma lista de aplicações que suportam o SDK, consulte o Microsoft Intune aplicações protegidas.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
 [Saiba mais...](https://docs.microsoft.com/mem/intune/apps/app-protection-policy)

@@ -1,5 +1,5 @@
 ---
-title: Configure políticas de conformidade da comunicação
+title: Configurar políticas de Conformidade de Comunicação
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ae07f437ef50756862eb2f622cb107ccb003c9c9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 931e32353641e7d03a6f077206ac65a4c4c75b52a423b53817aa67db863bb20c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747959"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968136"
 ---
-# <a name="configure-communication-compliance-policies"></a>Configure políticas de conformidade da comunicação
+# <a name="configure-communication-compliance-policies"></a>Configurar políticas de Conformidade de Comunicação
 
-Após o lançamento do cumprimento da comunicação na Microsoft 365 Compliance em fevereiro de 2020, a Supervisão no Office 365 está a ser reformada. As políticas de supervisão deixarão de estar disponíveis para a criação e as políticas acabarão por ser eliminadas, após um longo período de acesso apenas à leitura.
+Após o lançamento da conformidade de comunicação no Microsoft 365 de fevereiro de 2020, a Supervisão no Office 365 vai ser retirada. As políticas de supervisão deixarão de estar disponíveis para criação e as políticas serão eventualmente removidas, após um longo período de acesso só de leitura.
 
 > [!IMPORTANT]
-> Se utilizar a Supervisão, esteja ciente de que:
+> Se utilizar a supervisão, tenha em atenção que:
 >
 > 1. A partir de 15 de junho de 2020, os inquilinos não terão a capacidade de criar novas políticas de supervisão.
-> 2. A partir de 31 de agosto de 2020, as políticas existentes deixarão de captar novas mensagens.
+> 2. A partir de 31 de agosto de 2020, as políticas existentes deixarão de capturar novas mensagens.
 > 3. A partir de 26 de outubro de 2020, as políticas existentes serão eliminadas.
 
-Encorajamos ativamente os clientes que estão atualmente a explorar ou a usar a Supervisão no Office 365 a utilizarem a nova [solução de conformidade de comunicação na Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2128593) para abordar os seus requisitos de monitorização de comunicações ou requisitos regulamentares com um conjunto muito mais rico de capacidades inteligentes.
+Encorajamos ativamente os clientes que atualmente exploram ou utilizam a Supervisão no Office 365 para utilizarem a nova solução de conformidade de comunicação no [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2128593) para abordar os seus requisitos de regulamentação ou monitorização de comunicações com um conjunto muito mais rico de capacidades inteligentes.

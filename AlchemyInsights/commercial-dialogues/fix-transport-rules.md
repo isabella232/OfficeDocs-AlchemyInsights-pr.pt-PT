@@ -1,5 +1,5 @@
 ---
-title: Fixar regras de transporte
+title: Corrigir regras de transporte
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 635009ed4b78d2b05b0eef1f3298765b10f86ede
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d89283dec427ba3d4f55fc1f180efc13da16ae15c3d5a6c0c06a696faa6df7f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750578"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034765"
 ---
-# <a name="fix-transport-rules"></a>Fixar regras de transporte
+# <a name="fix-transport-rules"></a>Corrigir regras de transporte
 
-Uma regra de fluxo de correio personalizado afetou esta mensagem. Para rever a regra exata, faça o seguinte:
+Esta mensagem foi afetada por uma regra de fluxo de correio personalizada. Para rever a regra exata, faça o seguinte:
 
-1. Nos resultados da submissão, em **informações adicionais,** note o **GUID** ou o **Nome De Política**.
-2. Launch Exchange Management Shell. Para mais informações, consulte [Abrir a Shell de Gestão de Câmbios.](https://go.microsoft.com/fwlink/?linkid=2101432)
-3. Executar este comando (utilizando o GUID a partir da sua submissão):  **Get-TransportRule -identidade "GUID" | fl * Descrição***
+1. Nos resultados da submissão, em **Informações adicionais**, tenha em atenção o **GUID** ou o **Nome da Política.**
+2. Inceda Exchange Shell de Gestão. Para obter mais informações, consulte [Abrir a Shell Exchange Gestão de Dados](https://go.microsoft.com/fwlink/?linkid=2101432).
+3. Execute este comando (utilizando o GUID da sua submissão):  **Get-TransportRule -identity "GUID" | fl * Descrição***
 4. Reveja a descrição para ver as condições configuradas que afetaram a mensagem.
 
-Para saber mais, consulte [a Get-TransportRule.](https://go.microsoft.com/fwlink/?linkid=2101523)
+Para saber mais, consulte [Get-TransportRule](https://go.microsoft.com/fwlink/?linkid=2101523).

@@ -1,5 +1,5 @@
 ---
-title: Comprar Azure Ative Directory Premium P2
+title: Comprar Azure Active Directory Premium P2
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003942"
 - "6997"
-ms.openlocfilehash: 4c369183ea769b688d0b766d156b1f73e3318b17
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ffff2b8d526c12390915cba7a1e5a6d39f82586be53b7848646bd8ab8f17a426
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706888"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996677"
 ---
-# <a name="buy-azure-active-directory-premium-p2"></a>Comprar Azure Ative Directory Premium P2
+# <a name="buy-azure-active-directory-premium-p2"></a>Comprar Azure Active Directory Premium P2
 
-Para tentar ou comprar o Azure Ative Directory Premium P2, siga estes passos:
+Para experimentar ou comprar Azure Active Directory Premium P2, siga estes passos:
 
-1. Vá a **Serviços de** Compra de  >    >  [**Faturação Segurança e identidade**](https://go.microsoft.com/fwlink/?linkid=2131946), e, em seguida, clique em **Azure Ative Directory Premium P2**.
-Se tiver selecionado o teste gratuito, complete o processo seguindo as instruções na página; caso contrário, proceder ao passo 2.
-1. Na página seguinte, insira o número de licenças de utilizador e o período de pagamento e, em seguida, clique **em Check-out agora**.
-1. Na página **Checkout,** reveja a informação de preços e, em seguida, clique em **Seguinte**.
-1. Na página seguinte, insira as informações de pagamento e endereço e, em seguida, efetue o seu pedido.
-1. Introduza o seu número de telefone e, em seguida, clique **em Enviar sms** ou **ligue-me**.
-1. Introduza o código de verificação que lhe enviámos e, em seguida, complete o processo seguindo as instruções na página.
+1. Vá para **Faturação:**  >  **Segurança e identidade** dos serviços de compra  >  [**e,**](https://go.microsoft.com/fwlink/?linkid=2131946)em seguida, clique em **Azure Active Directory Premium P2**.
+Se selecionou a avaliação gratuita, conclua o processo seguindo as instruções na página; caso contrário, avance para o passo 2.
+1. Na página seguinte, introduza o número de licenças de utilizador e o período de pagamento e, em seguida, clique **em Finalmente.**
+1. Na página **Final da Compra,** reveja as informações de preços e, em seguida, clique em **Seguinte.**
+1. Na página seguinte, introduza as suas informações de pagamento e endereço e, em seguida, exija a sua encomenda.
+1. Introduza o seu número de telefone e, em seguida, clique **em Enviar-me SMS** **ou Ligar-me.**
+1. Introduza o código de verificação que lhe enviámos e, em seguida, conclua o processo seguindo as instruções na página.

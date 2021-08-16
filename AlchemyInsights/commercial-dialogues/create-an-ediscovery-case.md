@@ -1,5 +1,5 @@
 ---
-title: Criar um caso eDiscovery
+title: Criar um caso de Deteção de EmailDiscovery
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 61e466d9ec203a66a7ce2e89bd1462f5a483c784
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: aa505491f205eafd032fb3eef95f5d7d6f5226c61b73462312573789745258fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483891"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988378"
 ---
-# <a name="create-an-ediscovery-case"></a>Criar um caso eDiscovery
+# <a name="create-an-ediscovery-case"></a>Criar um caso de Deteção de EmailDiscovery
 
-Eiscovery case:
+Eis como criar um caso de Deteção de Problemas de E-6:
 
-1. Vá ao [Centro de Conformidade & de Segurança](https://go.microsoft.com/fwlink/p/?linkid=2077143) e selecione **eDiscovery**  >  **eDiscovery**.
-1. Na página eDiscovery, clique em **Criar um caso**.
-1. Introduza um nome de caso e descrição e, em seguida, clique em **Guardar**.
+1. Vá para o Centro de Conformidade & Segurança e [selecione](https://go.microsoft.com/fwlink/p/?linkid=2077143) Deteção de Dados Online da Deteção de  >  **Dados Online.**
+1. Na página Deteção de Problemas, clique em **Criar um caso**.
+1. Introduza um Nome e uma Descrição para o caso e, em seguida, clique **em Guardar.**
     > [!TIP]
-    >Para gerir permissões para o caso, clique no espaço em branco ao lado do nome da caixa (não clique em Abrir).
-1. Para gerir as definições de Hold, Search e Export para este caso, clique em **Abrir**.
+    >Para gerir as permissões do caso, clique no espaço em branco junto ao nome do caso (não clique em Abrir).
+1. Para gerir as definições de Reter, Procurar e Exportar para este caso, clique em **Abrir**.
 
-Para obter informações detalhadas sobre como os casos de eDiscovery funcionam com conteúdo, consulte [os casos eDiscovery](https://go.microsoft.com/fwlink/?linkid=2101589).
+Para obter informações detalhadas sobre como os casos de Deteção de Dados Pessoais funcionam com o conteúdo, consulte [Casos de Deteção de Dados Online.](https://go.microsoft.com/fwlink/?linkid=2101589)

@@ -1,5 +1,5 @@
 ---
-title: Interface API do Microsoft Graph REST
+title: Interface Graph REST API do Microsoft Graph
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 3c9bf956624775c394534ab150d39193e5e10144
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: d8ef9f22e495feba26ecc1d3e21b996b199cbe16c6d3fdbf8e2e50893fe15942
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088743"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027205"
 ---
-# <a name="microsoft-graph-rest-api-interface"></a>Interface API do Microsoft Graph REST
+# <a name="microsoft-graph-rest-api-interface"></a>Interface Graph REST API do Microsoft Graph
 
-Os conjuntos de API gráficos no ponto final v1.0 estão em estado de disponibilidade geral (GA) e passaram por um rigoroso processo de revisão e feedback com os clientes para satisfazer necessidades práticas de produção.
+Os conjuntos de API da Graph no ponto final v1.0 encontram-se no estado de disponibilidade geral (AG) e passaram por um processo rigoroso de revisão e feedback com os clientes para satisfazer necessidades de produção e práticas.
 
-- Para obter mais informações sobre a referência API v1.0 do Gráfico do Gráfico, consulte [a referência API do Microsoft Graph REST v1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0). 
-- Para obter mais informações sobre a versão beta da API do Gráfico, consulte [a referência beta do Microsoft Graph beta](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta).
+- Para obter mais informações sobre Graph API v1.0, consulte Microsoft [Graph REST API v1.0 reference](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0). 
+- Para obter mais informações sobre Graph API beta, consulte [Microsoft Graph referência do ponto final beta.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta)
 
-Para obter mais informações sobre o Microsoft Graph, consulte [a documentação do Microsoft Graph](https://docs.microsoft.com/graph/).
+Para obter mais informações sobre o Microsoft Graph, consulte [a documentação do Microsoft Graph Microsoft.](https://docs.microsoft.com/graph/)
 
 

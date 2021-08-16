@@ -1,5 +1,5 @@
 ---
-title: Comprar ou Testar o Microsoft Viva
+title: Comprar ou Versão de Microsoft Viva
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8335"
-ms.openlocfilehash: 0150279cf03a5e4bb25c7a950cbc107abc65cd94
-ms.sourcegitcommit: 45e32fe7fdba358925df0d26daaead2675e2408f
+ms.openlocfilehash: 3052727ce6462984ab56e1d84096fd18a4fb71a0a9242668768793e2d0416ab5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50294291"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996533"
 ---
-# <a name="buy-or-trial-microsoft-viva"></a>Comprar ou Testar o Microsoft Viva
+# <a name="buy-or-trial-microsoft-viva"></a>Comprar ou Versão de Microsoft Viva
 
-Os tópicos do Microsoft Viva estão disponíveis para Comprar ou Testar [aqui.](https://aka.ms/BuyVivaTopics)
+Tópicos Microsoft Viva disponível para Comprar ou Versão de [Avaliação aqui.](https://aka.ms/BuyVivaTopics)
 
-A sua organização será obrigada a utilizar uma das seguintes subscrições:
+A sua organização terá de utilizar uma das seguintes subscrições:
 
-Microsoft 365 F1, F3, E3, A3, E5, A5, Office 365 F3, E1, A1, E3, A3, E5, A5, Microsoft 365 Business Basic, Business Standard, Business Premium ou SharePoint K, Plan 1 ou Plan 2 para ser elegível para o Microsoft Viva Topics.
+Microsoft 365 F1, F3, E3, A3, E5, A5, Office 365 F3, E1, A1, E3, A3, E5, A5, Microsoft 365 Empresas Basic, Empresas Standard, Empresas Premium ou SharePoint K, Plano 1 ou Plano 2 para ser elegível para o Tópicos Microsoft Viva.

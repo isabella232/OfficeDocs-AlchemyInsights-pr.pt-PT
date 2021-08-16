@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f129da8731877aa00fd9b1dcf20905d353a4895303390ce7ff5642a8ff3ccbc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819523"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996641"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook não pode ligar-se a pastas públicas
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook não é possível ligar a pastas públicas
 
 Se o acesso a pastas públicas não estiver a funcionar para alguns utilizadores, experimente o seguinte:
 
-Ligue-se ao EXO PowerShell e configuure o parâmetro DefaultPublicFolderMailbox na conta de utilizador do problema para corresponder ao parâmetro numa conta de utilizador de trabalho.
+Ligação exO PowerShell e configure o parâmetro DefaultPublicFolderMailbox na conta do utilizador do problema para corresponder ao parâmetro numa conta de utilizador que funciona.
 
 Exemplo:
 
-| de Get-Mailbox WorkingUser ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox
+Get-Mailbox TrabalharUser | ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox
 
 Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous command>
 
-Espere pelo menos uma hora para a mudança fazer efeito.
+Aguarde pelo menos uma hora para que a alteração entre em vigor.
 
-Se o problema se mantiver, por favor siga [este procedimento](https://aka.ms/pfcte) para resolver problemas de acesso a pastas públicas usando o Outlook.
+Se o problema permanecer, siga este [procedimento para](https://aka.ms/pfcte) remoção de problemas de acesso a pastas públicas utilizando Outlook.
  
-**Para controlar quais os utilizadores que podem aceder a pastas públicas utilizando o Outlook:**
+**Para controlar quais os utilizadores que podem aceder a pastas públicas através Outlook:**
 
 1.  Utilize Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true ou $false  
       
-    $true: Permitir aos utilizadores aceder a pastas públicas no Outlook  
+    $true: Permitir que os utilizadores acedam às pastas públicas no Outlook  
       
-    $false: Impedir o acesso do utilizador a pastas públicas no Outlook. This is the default value.  
+    $false: Impedir o acesso de utilizadores a pastas públicas no Outlook. Este é o valor predefinido.  
         
-2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
+2.  Set-OrganizationConfig -PublicFolderShowClientControlar $true   
       
-**Nota** Este procedimento só pode controlar as ligações com o desktop do Outlook para os clientes Windows. Um utilizador pode continuar a aceder a pastas públicas utilizando OWA ou Outlook for Mac.
+**Nota** Este procedimento pode controlar as ligações apenas com o Outlook ambiente de trabalho para Windows clientes. Um utilizador pode continuar a aceder a pastas públicas através do OWA ou do Outlook para Mac.
  
-Para obter mais informações, consulte [o Anúncio de Suporte para Ligações Controladas a Pastas Públicas no Outlook](https://aka.ms/controlpf).
+Para mais informações, consulte Anunciar o Suporte de Ligações Controladas para Pastas Públicas [no Outlook.](https://aka.ms/controlpf)

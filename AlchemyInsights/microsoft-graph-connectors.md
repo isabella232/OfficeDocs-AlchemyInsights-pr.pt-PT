@@ -1,5 +1,5 @@
 ---
-title: Conectores de gráficos da Microsoft
+title: Microsoft Graph Conectores
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5910"
 - "9003123"
-ms.openlocfilehash: c2abbc23236ce4a4c232a5e96b36d9322c0e255d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 923ee836685f838aa128fd62c32b35b169f11517e16f010621e96a88a3b00afd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724914"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027313"
 ---
-# <a name="microsoft-graph-connectors"></a>Conectores de gráficos da Microsoft
+# <a name="microsoft-graph-connectors"></a>Microsoft Graph Conectores
 
-Com os conectores Microsoft Graph, a sua organização pode indexar dados de terceiros para aparecer nos resultados da Microsoft Search.
+Com os Graph Microsoft, a sua organização pode indexar dados de terceiros para aparecerem nos Microsoft Pesquisa resultados.
 
-- [Conectores por Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [Conectores pelos nossos Parceiros](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [Conectores da Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
+- [Conectores dos nossos Parceiros](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
 
-Para obter mais informações, consulte  [a visão geral dos conectores do Microsoft Graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Para mais informações, consulte [Overview of Microsoft Graph connectors](https://docs.microsoft.com/microsoftsearch/connectors-overview).

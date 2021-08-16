@@ -1,5 +1,5 @@
 ---
-title: Reencaminhamento de chamadas, grupos de chamadas e anel simultâneo em Equipas
+title: Re encaminhamento de chamadas, grupos de chamadas e toque simultâneo Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004159"
 - "7251"
-ms.openlocfilehash: e9ce11063f47bc8208714186a572846544f3abd0
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: 23578487c3e5a988f888172b7a15309217c261284f662a4e07f21ba3a4971004
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447526"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996425"
 ---
-# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Reencaminhamento de chamadas, grupos de chamadas e anel simultâneo em Equipas
+# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Re encaminhamento de chamadas, grupos de chamadas e toque simultâneo Teams
 
-Configurar reencaminhamento de chamadas
+Configurar o re encaminhamento de chamadas
 
-1. Nas Equipas o Cliente clique na sua imagem de perfil no topo das Equipas e, em seguida, selecione **Definições > Chamadas**.
-2. De acordo com **as regras de atendimento de chamada,** escolha **encaminhar as minhas chamadas** e, em seguida, selecione para onde quer que as suas chamadas reencaminhadas para ir: correio de voz, outra pessoa ou um grupo de chamadas.
+1. No Cliente Teams na sua imagem de perfil na parte superior da Teams, em seguida, **selecione Definições > Chamadas**.
+2. Em **Regras de atendedor** de chamadas , selecione Retornar as minhas chamadas e, em seguida, selecione o local para onde pretende encaminhar as chamadas: voicemail, outra pessoa ou grupo de chamadas. 
 
-Configurar reencaminhamento de chamada para um grupo de chamadas
+Configurar o receção de chamadas para um grupo de chamadas
 
-1. De acordo com **as regras de atendimento de chamada,** selecione **Encaminhar as minhas chamadas**.
-2. No menu **'A' a seguir,** selecione **'Call group'.**
-3. Under **Add people**, adicione as pessoas que deseja no seu grupo de chamadas. Pode somar até 25 pessoas. Qualquer um que adicionar receberá uma notificação.
+1. Em Regras **de resposta a chamadas, selecione** Re **encaminhar as minhas chamadas**.
+2. No menu **Retornar para,** selecione **Grupo de chamadas**.
+3. Em **Adicionar pessoas,** adicione as pessoas que pretende no grupo de chamadas. Pode adicionar até 25 pessoas. Qualquer pessoa que adicionar receberá uma notificação.

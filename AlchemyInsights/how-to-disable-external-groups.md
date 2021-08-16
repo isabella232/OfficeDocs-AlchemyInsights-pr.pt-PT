@@ -1,5 +1,5 @@
 ---
-title: Como desativar grupos externos
+title: Como desativar Grupos Externos
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,24 +12,24 @@ ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: f7a1bbda3a54d2662bdfe21cda961c32456edb82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c513da49dc953b4ae76bb06854e33232ec40e11151f11ade33c3080092aa598
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704139"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015631"
 ---
-# <a name="how-to-disable-external-groups"></a>Como desativar grupos externos
+# <a name="how-to-disable-external-groups"></a>Como desativar Grupos Externos
 
-A mensagem externa da Yammer aplica regras de transporte de câmbio (ETRs), um conjunto de controlos pró-ativos para impedir que a informação da empresa seja partilhada. Para restringir os utilizadores à criação de grupos externos, é necessário configurar uma regra de transporte de intercâmbio (ETR) e, em seguida, configurar a Yammer para usar a regra do Transporte de Intercâmbio para bloquear mensagens externas.
+Yammer mensagens externas aplicam-se Exchange de Transporte (ETR), um conjunto de controlos proativos para impedir a partilha de informações da empresa. Para impedir que os utilizadores criem grupos externos, tem de configurar uma regra de transporte do Exchange (ETR) e, em seguida, configurar o Yammer para utilizar a regra de Transporte do Exchange para bloquear mensagens externas.
   
-Uma vez criada uma regra no Centro de Administração Exchange Online, siga estes passos para definir ETR para aplicar em Yammer:
+Assim que tiver criado uma regra no Exchange Online de administração, siga estes passos para definir o ETR para ser aplicado no Yammer:
   
-- Inicie sessão no Yammer como administrador verificado, e no **centro de administração Yammer,** vá para C **Conteúdo e \> Definições de Segurança.**
+- Indique sessão no Yammer como um administrador verificado e, no centro de administração do **Yammer,** aceda a Conteúdo C e Segurança **\> Definições.**
 
-- Em **Mensagens Externas,** **selecione Impor as suas Regras de Transporte de Intercâmbio Online (ETRs) em Yammer.**
+- Em **Mensagens Externas, selecione** Impor as Exchange Online Exchange de Transporte **(ETRs) no Yammer.**
 
 - Selecione **Guardar**.
 
-Para obter mais informações, consulte [Mensagens externas desativada numa rede Yammer](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
+Para obter mais informações, [consulte Desativar mensagens externas numa Yammer Rede](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
   

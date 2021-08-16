@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: 81906f5260c032bb15dd12dfce5945a8972fb5eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2bdd9aa9fb892e021ce0d5d950d235322838a24a0090ec34e1fe040cb1473113
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829135"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985444"
 ---
 # <a name="microsoft-365-groups-showing-sensitivity-label"></a>Os Grupos do Microsoft 365 estão a mostrar etiquetas de confidencialidade
 
 Pode estar a ver o seguinte problema com o Grupo do Microsoft 365:
 
-- Incapaz de criar um Microsoft 365 Group da OWA, com o erro "O campo de classificação não pode estar vazio.".
+- Não é possível criar um Microsoft 365 grupo a partir do OWA, com o erro "O campo de classificação não pode estar vazio".
 
 - Está a ver etiquetas de confidencialidade para grupos do Microsoft 365 embora não tenha ativado a funcionalidade.
 

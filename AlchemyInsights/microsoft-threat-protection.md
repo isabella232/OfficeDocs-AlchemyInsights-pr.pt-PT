@@ -10,19 +10,19 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 0d54a9c17f52b2e8a99f181822c0989fe1af72e7
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: f2025f66adfe5ed4ed5093fb5768bc4826cfdeeeddb17a6276c56f633eea77c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801490"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026809"
 ---
 # <a name="microsoft-365-defender"></a>Microsoft 365 Defender
 
-- [Visão geral do MTP](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
+- [Visão Geral de MTP](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
 - [Pré-requisitos](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
 - [Requisitos de licença](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
-- [Como Ativar MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
-- [Resolução de problemas da MTP](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
+- [Como Ativar A MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
+- [Remoção de Problemas MTP](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-Como verificar o licenciamento: Você precisa ser designado quer o papel de administrador de Faturação ou global leitor em Azure AD para ver a sua licença. Vá ao [centro de administração](https://admin.microsoft.com/) e navegue até as Licenças **de Faturação**  >  **Licenses** para ver as licenças existentes.
+Como verificar o licenciamento: tem de lhe ser atribuída a função de Administrador de faturação ou de Leitor global no Azure AD para ver a sua licença. Vá para o [centro de administração e navegue](https://admin.microsoft.com/) até Licenças de **Faturação**  >  **para** ver as suas licenças existentes.

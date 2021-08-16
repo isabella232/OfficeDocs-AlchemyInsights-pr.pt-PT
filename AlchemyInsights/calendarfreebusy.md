@@ -1,5 +1,5 @@
 ---
-title: 400 Calendário - FreeBusy
+title: 400 – Calendário – FreeBusy
 ms.author: chrisda
 author: chrisda
 ms.audience: Admin
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: 3faffd09202bc45b4ba8ad59831882d2e7c8c133
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6cb3096bda8bb0b208b1182cac469fe7d08f4f35277bd09138f770d4aeaa106
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684061"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072099"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Questões que vêem o calendário livre/informação ocupada
+# <a name="issues-seeing-calendar-freebusy-information"></a>Problemas ao ver informações de livre/ocupado do calendário
 
-Se não conseguir ver informações gratuitas/ocupadas de calendário noutros calendários do Outlook, ou se outras pessoas não puderem ver informações gratuitas/ocupadas no seu calendário, utilize o Assistente de Suporte e Recuperação do [Microsoft para o Microsoft 365](https://diagnostics.office.com/).
+Se não conseguir ver informações de livre/ocupado noutros calendários do Outlook ou se outras pessoas não conseguirem ver informações de livre/ocupado no seu calendário, utilize o [Microsoft Assistente de Recuperação e Suporte para Microsoft 365.](https://diagnostics.office.com/)

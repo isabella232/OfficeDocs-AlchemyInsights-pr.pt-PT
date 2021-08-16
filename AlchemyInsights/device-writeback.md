@@ -1,5 +1,5 @@
 ---
-title: Writeback do dispositivo
+title: Writeback do Dispositivo
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: f1a8dba19d220e1154549507801c813f56fe5cdd
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 78af4dc8cfe38586dcec8d01b72170b56d98fa27860489bf2ca9544f32210c37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256858"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101961"
 ---
-# <a name="device-writeback"></a>Writeback do dispositivo
+# <a name="device-writeback"></a>Writeback do Dispositivo
 
-O Writeback do dispositivo é utilizado nos seguintes cenários:
+A Writeback do Dispositivo é utilizada nos seguintes cenários:
 
-- Ativar [o Windows Hello for Business utilizando a implementação híbrida do certificado trust](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
-- Ativar o Acesso Condicional com base em dispositivos a aplicações protegidas ADFS (2012 R2 ou superior) (confianças de partes)
+- [Ativar o Windows Hello para Empresas com a implementação de confiança de certificados híbrida](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- Ativar o Acesso Condicional com base em dispositivos para aplicações protegidas pelo ADFS (2012 R2 ou superior) (fidededemias de terceiros)
 
     > [!NOTE]
-    > É necessária uma subscrição do Azure AD Premium para a gravação do dispositivo.
+    > É necessária uma subscrição de Azure AD Premium para a escrita de dispositivos.
 
-Isto fornece segurança adicional e garantia de que o acesso a aplicações é concedido apenas a dispositivos fidedignos. Para obter mais informações sobre o Acesso Condicional, consulte [o Risco de Gestão com Acesso Condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) e [Configuração de Acesso Condicional utilizando o Registo do Dispositivo de Diretório Ativo Azure](https://docs.microsoft.com/azure/active-directory/devices/overview).
+Isto fornece segurança e garantia adicional de que o acesso a aplicações é concedido apenas a dispositivos de confiança. Para obter mais informações sobre [](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) o Acesso Condicional, consulte Gerir Risco com Acesso Condicional e Configurar o Acesso Condicional no Local [através Azure Active Directory Registo de Dispositivos.](https://docs.microsoft.com/azure/active-directory/devices/overview)
 
-Para obter mais informações sobre a redução do dispositivo ativante para dispositivos, consulte [ativar a writeback do dispositivo](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback).
+Para obter mais informações sobre Ativar a Escrita de Dispositivos para Dispositivos, consulte [Ativar o Writeback do Dispositivo.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback)

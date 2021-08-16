@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: bb6aa5a3cd8976cb590b4da18bc35b3ee782eca60ed1a48083cca8e7ef17e51e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539799"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034369"
 ---
 # <a name="learn-about-microsoft-defender-for-office-365"></a>Saiba mais sobre o Microsoft Defender para Office 365
 
@@ -30,7 +30,7 @@ O Microsoft Defender para Office 365 é um serviço de filtragem de e-mail basea
 
 **Como posso ativar o Microsoft Defender para Office 365?**
 
-Cofre Os anexos, Cofre e anti-phishing fazem parte da funcionalidade Microsoft Defender Office 365 funcionalidades. O Enterprise E5, o Education A5 e Microsoft 365 Empresas incluem o Microsoft Defender incorporado para Office 365 funcionalidades. Todos os outros planos requerem um adicionar ao Microsoft Defender para uma subscrição Office 365 empresas. Tem de atribuir as licenças adequadas aos seus utilizadores para que sejam protegidas pelo Microsoft Defender Office 365. Tem de ter permissões de administrador global ou administrador de segurança para aceder a esta funcionalidade. Para saber mais sobre como aplicar licenças em volume aos seus utilizadores finais, consulte Atribuir licenças a utilizadores no [Office 365 para empresas.](https://go.microsoft.com/fwlink/?linkid=2093435)
+Cofre Os anexos, Cofre e anti-phishing fazem parte da funcionalidade Microsoft Defender Office 365 funcionalidades. O Enterprise E5, Educação A5 e Microsoft 365 Empresas incluem o Microsoft Defender incorporado para Office 365 funcionalidades. Todos os outros planos requerem um adicionar ao Microsoft Defender para uma subscrição Office 365 empresas. Tem de atribuir as licenças adequadas aos seus utilizadores para que sejam protegidas pelo Microsoft Defender Office 365. Tem de ter permissões de administrador global ou administrador de segurança para aceder a esta funcionalidade. Para saber mais sobre como aplicar licenças em volume aos seus utilizadores finais, consulte Atribuir licenças a utilizadores no [Office 365 para empresas.](https://go.microsoft.com/fwlink/?linkid=2093435)
 
 **Como posso gerir o Microsoft Defender para empresas Office 365 ou saber mais sobre o mesmo?**
 

@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5eec054a8459453be9f3b9de79596030a34049a5ce75fbce31240d8e413d5b9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058517"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874586"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Configurar uma proteção antisspam
 
-Eis como fazê-lo:
+1. No portal Microsoft 365 Defender, em , vá para E-mail & políticas de <https://security.microsoft.com/>  \> **colaboração & Regras** \>  \> **contra ameaças Antisspam,** na **secção** Políticas.
 
-1. Vá para o Centro [de conformidade Office 365 de & de Conformidade.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Navegue para a Política **de**  >  **Gestão de Ameaças** e clique **[em Antisspam](https://go.microsoft.com/fwlink/p/?linkid=2077143)**.
-1. No separador **Personalizar,** ate as **Definições** personalizadas.
-1. Expanda a **Política do filtro de spam predefinida**, clique em **Editar política** e, em seguida, especifique as seguintes definições:
-    1. Na secção **Ações de spam e em** volume, defina o limiar para um valor de 5 ou 6.
-1. Clique em **Guardar**.
+   Para ir diretamente para a **página Políticas antisspam,** utilize <https://security.microsoft.com/antispam> .
 
-Para saber mais sobre as opções da sua política antisspam, consulte [Configurar as políticas antisspam.](https://go.microsoft.com/fwlink/?linkid=2092051)
+2. Na página **Políticas antisspam,** eis um dos seguintes passos:
+   - Para adicionar uma nova política, **selecione +** \> **Criar Entrada**. Será iniciado um assistente que o ajudará a definir as suas definições de política.
+   - Para editar uma política existente, selecione a política ao clicar no nome  da política **(** Tipo é Personalizar política **antisspam** ou Nome é Política de receção Antisspam **(Predefinição)**). Na lista de listas de detalhes que é exibida, selecione **Editar** na secção que contém as definições que pretende configurar.
+
+3. Após rever as suas definições,  selecione Submeter (novo) ou **Guardar** (editar).
+
+Para obter mais informações, [consulte Configurar políticas antisspam na EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

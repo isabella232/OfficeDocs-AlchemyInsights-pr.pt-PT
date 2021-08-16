@@ -1,5 +1,5 @@
 ---
-title: Encontre aplicações em falta
+title: Encontrar aplicações em falta
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004327"
 - "7828"
-ms.openlocfilehash: 5ebcc89448885df105c49f64af8a9f9598e16544
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 32e51d1b7eddf8ebc2ec8545e52396bac48f7c3ddc0ecfc7e85aea50ed5c452a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974966"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068931"
 ---
-# <a name="find-missing-applications"></a>Encontre aplicações em falta
+# <a name="find-missing-applications"></a>Encontrar aplicações em falta
 
-- [Quickstart: Veja a lista de aplicações que estão a usar o seu inquilino Azure Ative (Azure AD) para gestão de identidade](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) mostra-lhe como visualizar as aplicações, também conhecidas como apps, que já estão configuradas para usar o seu inquilino Azure AD como seu Fornecedor de Identidade (IdP).
-- Para procurar uma determinada aplicação, aceda ao menu **'Tipo de Aplicação',** selecione **Todas as aplicações** e escolha **Aplicar**.
-  - Insira o nome da aplicação que pretende encontrar. Se o pedido foi adicionado ao seu inquilino Azure AD, aparece nos resultados da pesquisa. Também pode introduzir as primeiras letras de um nome de aplicação.
-- [Resolver problemas comuns adicionando ou removendo uma aplicação para Azure Ative Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) ajuda-o a entender os problemas comuns que as pessoas enfrentam ao ver aplicações no Azure Ative Directory.
+- Guia de Utilização Rápida: Ver a lista de aplicações que estão a utilizar o seu inquilino do [Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) para gestão de identidades mostra-lhe como ver as aplicações, também conhecidas como aplicações, que já estão configuradas para utilizar o seu inquilino do Azure AD como fornecedor de Identidade (IdP).
+- Para procurar uma determinada aplicação, vá para o menu Tipo **de Aplicação,** selecione **Todas as aplicações** e selecione **Aplicar**.
+  - Introduza o nome da aplicação que pretende encontrar. Se a aplicação tiver sido adicionada ao seu inquilino do Azure AD, esta será exibida nos resultados da pesquisa. Também pode introduzir as primeiras letras do nome de uma aplicação.
+- [Resolver problemas comuns ao](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) adicionar ou remover uma aplicação ao Azure Active Directory ajuda-o a compreender os problemas comuns que as pessoas enfrentam ao ver aplicações no Azure Active Directory.

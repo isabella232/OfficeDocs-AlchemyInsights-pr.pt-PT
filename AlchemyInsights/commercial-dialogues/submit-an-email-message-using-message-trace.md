@@ -12,17 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: deaa54004554f65a1af9addab86c84bcee8c044a57448d577299c452ce5cf1a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978856"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874550"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>Submeter uma mensagem de e-mail através do rastreio de mensagens
 
-1. Vá para o Centro de Conformidade Office 365 de & de Conformidade [e,](https://go.microsoft.com/fwlink/p/?linkid=2077143)em seguida, vá para Rastreio **de Mensagens de fluxo** de  >  [correio.](https://go.microsoft.com/fwlink/?linkid=2101048)
+1. Vá para o centro Exchange administração (EAC) no Rastreio <https://admin.exchange.microsoft.com> \> **de mensagens de fluxo** de \> **correio**.
+
+   Para ir diretamente para a página **Rastreio de** mensagens, utilize <https://admin.exchange.microsoft.com/#/messagetrace> .
+
 2. **Selecione + Iniciar um rastreio**.
 3. Ande pelas opções apresentadas. Selecione os destinatários e re destinatários e, em seguida, ajuste o intervalo de datas conforme adequado. Pode deixar as predefinições para as opções restantes.
 4. **Selecione Procurar**. Será apresentada uma lista de mensagens de e-mail com base nos seus critérios de pesquisa. Faça duplo clique na mensagem que pretende submeter e, em seguida, selecione **Submeter mensagem**.
-5. Para saber mais, consulte [Rastreio de mensagens no Centro de Conformidade & Segurança.](https://go.microsoft.com/fwlink/?linkid=2101557)
+
+Para saber mais, consulte [Rastreio de mensagens no EAC moderno.](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/message-trace-modern-eac)

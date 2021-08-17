@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 95f1c3481dbe02f0569522a38783b16c1d5f45cf47847d456dbed9ccda52c3c2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 90399a54ad9d77bb94f8c067f255274e4d2591823095b391f53ddf7514d338a6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53931208"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890769"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Quer cancelar a Microsoft 365 subscrição?
 
@@ -28,9 +28,9 @@ Lamentamos que esteja de volta. Eis os passos para cancelar a sua subscrição:
 
 1. No centro de administração, vá à página Faturação dos seus produtos e, em  >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** seguida, selecione o **separador** Produtos.
 2. Encontre a subscrição que pretende cancelar. Selecione os três pontos (mais ações) e, em **seguida, selecione Cancelar subscrição**.
-3. No painel **Cancelar subscrição,** escolha um motivo pelo qual está a cancelar. Opcionalmente, forneça feedback.
+3. No painel **Cancelar subscrição,** escolha uma razão pela qual está a cancelar. Opcionalmente, forneça feedback.
 4. Seleccione **Guardar**.
 
-Para saber mais sobre como cancelar uma subscrição ou opções, consulte [Cancelar a sua subscrição.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Para saber mais sobre como cancelar uma subscrição ou opções, consulte [Cancelar a sua subscrição.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
-Se quiser continuar a utilizar a sua subscrição durante a sua versão de avaliação, pode destivar a faturação periódida da subscrição. Para saber como, consulte [Renovar o Microsoft 365 para empresas.](/microsoft-365/commerce/subscriptions/renew-your-subscription)
+Se quiser continuar a utilizar a sua subscrição durante a sua versão de avaliação, pode destivar a faturação periódida da subscrição. Para saber como, consulte [Renovar o Microsoft 365 para empresas.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)

@@ -1,5 +1,5 @@
 ---
-title: '2571 Nova funcionalidade: Obtenha feedback sobre julgamentos de spam'
+title: '2571 Nova funcionalidade: Obter feedback sobre decisões de spam'
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2571
 ms.assetid: ''
-ms.openlocfilehash: 9a5611b24c9f04066a6266cf896046326d402247
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 026d11b146538e678ada2860195e43908d4558daaeed70af607e34ec427d0501
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812331"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056681"
 ---
-# <a name="get-feedback-about-spam-judgments"></a>Obtenha feedback sobre julgamentos de spam
+# <a name="get-feedback-about-spam-judgments"></a>Obter feedback sobre decisões de spam
 
-**Nota** Pode aceder ao centro de segurança Microsoft 365 em [https://security.microsoft.com](https://security.microsoft.com) .
+**Nota** Pode aceder ao centro de segurança do Microsoft 365 em [https://security.microsoft.com](https://security.microsoft.com).
 
-Como administrador, pode facilmente reportar mensagens de correio de e-mail suspeitas, URLs e conteúdo à Microsoft no [Submissions Explorer](https://security.microsoft.com/reportsubmission). Pode até usá-lo para ajudar a entender por que uma mensagem legítima foi sinalizada incorretamente. Para mais informações, consulte este [anúncio.](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)
+Enquanto administrador, pode denunciar facilmente mensagens de e-mail suspeitas, URLs e conteúdos à Microsoft no Explorador de [Submissões.](https://security.microsoft.com/reportsubmission) Pode até usá-la para compreender por que motivo uma mensagem legítima foi sinalizada incorretamente. Para obter mais informações, consulte este [anúncio.](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)
 
-Para torná-lo mais fácil, pode permitir que os seus utilizadores reportem diretamente à Microsoft através do [add-in report message](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Para facilitar o processo, pode permitir que os seus utilizadores comutam diretamente à Microsoft através do adicionar [Mensagem de Relatório.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)

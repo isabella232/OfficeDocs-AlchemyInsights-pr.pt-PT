@@ -1,5 +1,5 @@
 ---
-title: Copiar ficheiros para SharePoint
+title: Copiar ficheiros para o SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "7542"
 - "5300013"
-ms.openlocfilehash: c50467983dc399432c37016367cdde19d2391c62
-ms.sourcegitcommit: a4d95e7612c05a1f90cc6c68c64aee769df89c4f
+ms.openlocfilehash: c2acb9732ec9182f4cf9bc3647a8eea1f68bc265356d0a062d9c9e86aedf66a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/05/2020
-ms.locfileid: "49584123"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080865"
 ---
-# <a name="copy-files-to-sharepoint"></a>Copiar ficheiros para SharePoint
+# <a name="copy-files-to-sharepoint"></a>Copiar ficheiros para o SharePoint
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FOeS?autoplay=false]
 
-Pode copiar ficheiros do navegador web para diferentes localizações dentro do SharePoint.
+Pode copiar ficheiros do browser para localizações diferentes no SharePoint.
 
-Para mais informações, consulte [Move ou Copy](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)
+Para obter mais informações, consulte Mover [ou Copiar](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)

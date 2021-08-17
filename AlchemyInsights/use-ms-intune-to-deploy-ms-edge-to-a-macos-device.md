@@ -1,5 +1,5 @@
 ---
-title: Utilize o Microsoft Intune para implementar o Microsoft Edge num dispositivo macOS
+title: Utilizar Microsoft Intune para implementar o Microsoft Edge num dispositivo macOS
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003874"
 - "6927"
-ms.openlocfilehash: 4f367df110168260b0607e7747853767437adc37
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 5a1ddaf841111f4be79ee0e2235c54ced4b0d49efad0110cc609441db5b20800
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49584045"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104391"
 ---
-# <a name="use-microsoft-intune-to-deploy-microsoft-edge-to-a-macos-device"></a>Utilize o Microsoft Intune para implementar o Microsoft Edge num dispositivo macOS
+# <a name="use-microsoft-intune-to-deploy-microsoft-edge-to-a-macos-device"></a>Utilizar Microsoft Intune para implementar o Microsoft Edge num dispositivo macOS
 
-Para implementar, configurar, monitorizar e proteger uma aplicação num dispositivo macOS, tem de adicionar a aplicação ao Microsoft Intune. A aplicação deve ser de um tipo suportado pelo Intune, e as opções de gestão disponíveis no Intune dependerão do tipo da app. A utilização do Intune também significa que não terá de utilizar a ferramenta de embrulho de aplicações para macOS.
+Para implementar, configurar, monitorizar e proteger uma aplicação num dispositivo macOS, tem de adicionar a aplicação ao Microsoft Intune. A aplicação tem de ser de um tipo suportado pelo Intune e as opções de gestão disponíveis no Intune dependem do tipo da aplicação. Utilizar o Intune também significa que não terá de utilizar a ferramenta de wrapping da aplicação macOS.
 
-Intune suporta o Microsoft Edge. Para saber mais, consulte [adicionar o Microsoft Edge a dispositivos macOS utilizando o Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2134949).
+O Intune suporta Microsoft Edge. Para saber mais, consulte [Adicionar um Microsoft Edge a dispositivos macOS através do Microsoft Intune.](https://go.microsoft.com/fwlink/?linkid=2134949)

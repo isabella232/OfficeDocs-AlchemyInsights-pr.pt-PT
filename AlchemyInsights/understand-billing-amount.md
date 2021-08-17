@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919650"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304344"
 ---
 # <a name="understand-billing-amount"></a>Compreender o montante da faturação
 
@@ -26,9 +26,9 @@ ms.locfileid: "53919650"
 - Para ajudar a rever e compreender a sua fatura, consulte: Tutorial: Rever a sua Fatura [do Azure individual](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Compreender os termos na sua fatura: Explicação [dos termos da fatura do Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Compreender os termos sobre os encargos de Utilização do Azure: [Termos de utilização explicados](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Para obter um PDF da sua fatura e uma cópia do seu ficheiro de utilização diária detalhado (no .CSV): obter dados de fatura [e de utilização](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Para obter um PDF da sua fatura e uma cópia do seu ficheiro de utilização diária detalhado (no .CSV): Obter dados de fatura [e de utilização](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Nota:** se cancelar a sua subscrição/recurso a meio do ciclo de faturação, poderá continuar a ver uma cobrança que poderá ser cobrada em qualquer utilização no mês anterior. Por exemplo, se o seu ciclo de faturação for do 26.º de cada mês até ao dia 25 do mês seguinte & suspendeu a subscrição no dia 23, ou seja, 28 dias após o ciclo de faturação de junho, poderá ver uma cobrança pelos 28 dias de utilização. Se vir algum custo por parte do cancelamento de uma subscrição, certifique-se de que não tem outros planos de suporte que estão a causar a cobrança. Se tiver, pode cancelar o plano.
+**Nota:** Se cancelar a sua subscrição/recurso a meio do ciclo de faturação, poderá continuar a ver uma cobrança que poderá ser cobrada em qualquer utilização no mês anterior. Por exemplo, se o seu ciclo de faturação for do 26.º de cada mês até ao dia 25 do mês seguinte & suspendeu a subscrição no dia 23, ou seja, 28 dias após o ciclo de faturação de junho, poderá ver uma cobrança pelos 28 dias de utilização. Se vir uma cobrança por parte do cancelamento de uma subscrição, certifique-se de que não tem outros planos de suporte que estão a causar a cobrança. Se tiver, pode cancelar o plano.
 
 **Contrato de Cliente da Microsoft (MCA):**
 
@@ -37,7 +37,7 @@ ms.locfileid: "53919650"
 - Para ajudar a rever e compreender a sua fatura, consulte: [Tutorial: Rever](https://docs.microsoft.com/azure/cost-management-billing/understand/review-customer-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support) a sua fatura do Contrato de Cliente da Microsoft
 - Compreender os termos na sua fatura: Termos da [Fatura do Contrato de Cliente da Microsoft explicados](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Compreender os termos sobre os encargos de Utilização do Azure: Termos de Utilização do Contrato [de Cliente da Microsoft explicados](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Se tiver um Contrato de Cliente [da Microsoft,](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)pode transferir a utilização no portal do [Azure.](https://portal.azure.com/)
+- Se tiver um Contrato de [Cliente da Microsoft,](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)pode transferir a utilização no portal do [Azure.](https://portal.azure.com/)
 
 **Contrato de Parceiro da Microsoft (MPA):**
 
@@ -47,14 +47,14 @@ ms.locfileid: "53919650"
 **Contrato Enterprise (EA)**
 
 - Para ajudar a rever e compreender a sua fatura, consulte: Compreender a [sua fatura do Azure Contrato Enterprise fatura](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Se for um cliente do Azure com um cliente Contrato Enterprise (cliente EA), não pode transferir as faturas da sua organização. As faturas são enviadas para quem estiver configurado para receber faturas para a inscrição. Pode transferir a utilização no [portal do Azure.](https://portal.azure.com/)
+- Se for um cliente do Azure com uma conta Contrato Enterprise (cliente EA), não pode transferir as faturas da sua organização. As faturas são enviadas para quem estiver configurado para receber faturas para a inscrição. Pode transferir a utilização no [portal do Azure.](https://portal.azure.com/)
 
 Rever fatura de utilização a mais do serviço:
 
 - Inscreva-se **no portal Enterprise.** Selecione **Relatórios**
 - No canto superior direito do separador, mude a vista de **M** para **C** e corresponda ao período na fatura
 - O montante **de Utilização** Total deverá corresponder ao Montante Total **Prolongado** na sua fatura de utilização a mais
-- Vá para **Transferir Utilização do >** Transferência de Relatório Avançado para obter mais informações sobre os seus encargos Nota: este relatório não inclui impostos, taxas de reservas ou taxas do mercado 
+- Ir para **Transferir Utilização >** Transferência de Relatório Avançado para obter mais informações sobre os seus encargos Nota: este relatório não inclui impostos, encargos para reservas ou custos do mercado 
 
 **Azure Marketplace**
 
@@ -62,12 +62,14 @@ Rever fatura de utilização a mais do serviço:
 
 Rever fatura do Marketplace:
 
-Compare o total do Azure Marketplace em Relatórios > Resumo de Utilização no portal Enterprise com a sua fatura do marketplace. A fatura do marketplace é apenas para compras e utilização do Azure Marketplace. Os montantes no Resumo de Utilização não incluem impostos.
+Compare o total do seu Azure Marketplace em Relatórios > Resumo de Utilização no portal Enterprise com a sua fatura do marketplace. A fatura do marketplace é apenas para compras e utilização do Azure Marketplace. Os montantes no Resumo de Utilização não incluem impostos.
 
 - Inscreva-se **no portal Enterprise.** Selecione **Relatórios**
 - No canto superior direito do separador, mude a vista de **M** para **C** e corresponda ao período na fatura
 - O total **do Azure Marketplace** deve corresponder à **Venda Total** na sua fatura do marketplace
-- Vá para **Transferir Utilização para** obter mais informações sobre as suas taxas baseadas na utilização. Em **Custos do Marketplace**, **selecione** Transferir Nota: este relatório não inclui impostos nem mostra compras únicas
+- Vá para **Transferir Utilização para** obter mais informações sobre as suas taxas baseadas na utilização. Em Custos **do Marketplace**, selecione **Transferir** 
+
+**Nota:** este relatório não inclui impostos nem mostra compras únicas
 
 **Fornecedor de Soluções em Nuvem (CSP)**
 

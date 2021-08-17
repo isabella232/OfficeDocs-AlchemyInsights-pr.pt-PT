@@ -1,5 +1,5 @@
 ---
-title: Atrase a receção de atualizações para apps da Microsoft 365 para empresa
+title: Atraso na receção de atualizações Microsoft 365 Apps para Grandes Empresas
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003964"
 - "7020"
-ms.openlocfilehash: 249b28c5917121b7a3665cc2ed1ca5fb8da32bd3
-ms.sourcegitcommit: 91fb078f07e258eb19bf82cbdad4095e62bf77a1
+ms.openlocfilehash: 543abbe20a3aa24476e6a616b29a9be6e952dc116b267b965597006d9413e02c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102870"
 ---
-# <a name="delay-receiving-updates-to-microsoft-365-apps-for-enterprise"></a>Atrase a receção de atualizações para apps da Microsoft 365 para empresa
+# <a name="delay-receiving-updates-to-microsoft-365-apps-for-enterprise"></a>Atraso na receção de atualizações Microsoft 365 Apps para Grandes Empresas
 
-Se tiver uma empresa específica que tenha de atrasar a receção de atualizações de funcionalidades do Canal Semi-Annual, pode configurar aplicações para não receber estas atualizações de funcionalidades, mas ainda assim receber as atualizações de segurança mais atuais.
+Se tiver uma necessidade empresarial específica de adiar a receção de atualizações de funcionalidades a partir da Via de Atualizações Semi-Annual, pode configurar Aplicações para não receber estas atualizações de funcionalidades, mas continuar a receber as atualizações de segurança mais recentes.
 
-Para saber mais, consulte [Delay recebendo atualizações de funcionalidades do Semi-Annual Channel para aplicações microsoft 365 para empresas](https://go.microsoft.com/fwlink/?linkid=2109533).
+Para saber mais, consulte Atrasar [a receção de atualizações de funcionalidades Semi-Annual Channel para Microsoft 365 Apps para Grandes Empresas](https://go.microsoft.com/fwlink/?linkid=2109533).

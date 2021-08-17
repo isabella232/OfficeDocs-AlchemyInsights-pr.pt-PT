@@ -1,5 +1,5 @@
 ---
-title: Utilização do Kit de Ferramentas de Preparação do Office
+title: Utilizar o Toolkit Office de Preparação de Tempo
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000176
-ms.openlocfilehash: c38424553f089f80df6d88c3dcca6cb504aa3ffb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa6677c9d811b863462ae720e722735fd544ef568e6e10a95cff35e54948735e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794886"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072927"
 ---
-# <a name="using-the-office-readiness-toolkit"></a>Utilização do Kit de Ferramentas de Preparação do Office
+# <a name="using-the-office-readiness-toolkit"></a>Utilizar o Toolkit Office de Preparação de Tempo
 
-Para obter informações sobre a utilização do Kit de Ferramentas de Preparação do Office, consulte [o Kit de Ferramentas de Preparação para avaliar a compatibilidade da aplicação para aplicações da Microsoft 365](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).
+Para obter informações sobre como utilizar o [Toolkit Office Readiness,](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps)consulte Utilizar o Toolkit de Preparação para avaliar a compatibilidade da aplicação Microsoft 365 Apps .
 
-Se tiver feedback ou dúvidas sobre o Kit de Ferramentas de Preparação, por favor envie-nos um e-mail ReadyForOffice@microsoft.com.
+Se tiver feedback ou perguntas sobre o Toolkit de Preparação, envie-nos um e-mail ReadyForOffice@microsoft.com.

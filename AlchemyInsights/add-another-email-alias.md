@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 3009984f0582453cd9d37ee8240efcf71f93383c0cee7b7a26a629a963ba0091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b50f9c8d64a77865f03357fd3442c8d367b6e96
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53936356"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314079"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Criar ou adicionar um alias de e-mail para um utilizador
 
@@ -31,7 +31,7 @@ Precisa de criar um alias de e-mail para um utilizador ou adicionar mais um ende
     
 4. Na caixa **Alias, escreva um** novo e-mail e, em seguida, selecionar **Adicionar.** Se tiver comprado a sua subscrição na GoDaddy ou noutro parceiro, para definir o novo alias como o principal, tem de aceder à consola de gestão de parceiros/GoDaddy. 
     
-    **IMPORTANTE:** se for recebida a mensagem de erro " Não é possível encontrar um parâmetro que corresponde ao nome do parâmetro **'EmailAddresses'"** significa que a Microsoft está a demorar um pouco mais a terminar a configuração do seu inquilino ou do seu domínio personalizado, se tiver adicionado um recentemente. O processo de configuração pode demorar até quatro horas para ser concluído. Aguarde um pouco para que o processo de configuração seja concluído e, em seguida, tente novamente. Se o problema persistir, contacte o Suporte e este fará uma sincronização completa automaticamente.
+    **Importante:** se for recebida a mensagem de erro " Não é possível encontrar um parâmetro que corresponde ao nome do parâmetro **'EmailAddresses'"** significa que a Microsoft está a demorar um pouco mais a terminar a configuração do seu inquilino ou do seu domínio personalizado, se tiver adicionado um recentemente. O processo de configuração pode demorar até quatro horas para ser concluído. Aguarde um pouco para que o processo de configuração seja concluído e, em seguida, tente novamente. Se o problema persistir, contacte o Suporte e este fará uma sincronização completa automaticamente.
     
     Normalmente, demora cerca de 30 minutos para que o novo alias entre em vigor.
     

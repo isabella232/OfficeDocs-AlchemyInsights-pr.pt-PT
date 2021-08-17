@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "9890"
-ms.openlocfilehash: a3815d6fcabcfe81b079657c68adb89d7be244ca128af3473c6b22c1a4f7c833
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9e08d6c2a4553e395b5206816f29471118bb3b286e669c0b2d07a740e2a3c749
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54104081"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894562"
 ---
 # <a name="azure-active-directory-join"></a>Azure Active Directory aderir
 
-1. Se estiver a configurar registos de dispositivos pela primeira vez, certifique-se de que reviu a Introdução à gestão de dispositivos no [Azure Active Directory](/azure/active-directory/devices/overview) que irá guiá-lo sobre como colocar os Dispositivos sob controlo para o Azure AD. 
-1. Se estiver a registar dispositivos diretamente no Azure AD e a inscrever os [dispositivos](/mem/intune/fundamentals/licenses-assign) no Intune, terá de se certificar de que configurou o [Intune](/mem/intune/enrollment/device-enrollment) e de que o licenciamento está em vigor primeiro.
+1. Se estiver a configurar registos de dispositivos pela primeira vez, certifique-se de que reviu a Introdução à gestão de dispositivos no [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/overview) que irá guiá-lo sobre como colocar os Dispositivos sob controlo para o Azure AD. 
+1. Se estiver a registar dispositivos diretamente no Azure AD e a inscrever os [dispositivos](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign) no Intune, terá de se certificar de que configurou o [Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment) e de que o licenciamento está em vigor primeiro.
 1. Certifique-se de que está autorizado a efetuar operações no Azure AD. Apenas um administrador global no Azure AD pode gerir as definições dos registos de dispositivos.
-1. Para implementar a associação do Azure AD, consulte [Planear a associação do Azure AD.](/azure/active-directory/devices/azureadjoin-plan)
+1. Para implementar a associação do Azure AD, consulte [Planear a associação do Azure AD.](https://docs.microsoft.com/azure/active-directory/devices/azureadjoin-plan)
 
-Para obter mais detalhes sobre Windows 10 Pro como resolver problemas comuns com a associação do Azure AD, consulte as FAQ de Associação do [Azure Ad](/azure/active-directory/devices/faq) e para dispositivo pro Windows 10, consulte Não é possível associar um computador com o [Azure AD -](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)É necessário atualizar para – Comunidade Microsoft .
+Para obter mais detalhes sobre como resolver problemas comuns com a associação do Azure AD, consulte as FAQ da [Azure Ad Join](https://docs.microsoft.com/azure/active-directory/devices/faq) e para um dispositivo Windows 10 pro, consulte Não é possível aderir Windows 10 Pro um computador com o [Azure AD -](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)É necessário atualizar para – Comunidade Microsoft .

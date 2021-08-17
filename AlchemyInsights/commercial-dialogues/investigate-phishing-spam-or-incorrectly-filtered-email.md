@@ -12,17 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948966"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894406"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Investigar phishing, spam ou e-mails filtrados incorretamente
 
 Utilize o Explorador de Submissões para enviar a mensagem à Microsoft. Receberá feedback imediato sobre a filtragem de mensagens e a razão pela qual o problema ocorreu. Eis um resumo dos passos:
 
-1. Vá para o Centro [de Conformidade Office 365 segurança & , selecione](https://go.microsoft.com/fwlink/p/?linkid=2077143)Submissões de Gestão de ameaças e, em seguida,   >   **selecione +Nova submissão**.
-2. Especifique os detalhes **na panfleto da** submissão Nova.
-3. Informe os seus utilizadores de que devem denunciar e-mails suspeitos à Microsoft e que o [add-in](https://go.microsoft.com/fwlink/?linkid=2092385) Mensagem de Relatório é a ferramenta que devem utilizar para este fim.
+1. No portal de Microsoft 365 Defender em , vá <https://security.microsoft.com> a Enviar **e& submissões** \> **de colaboração**.
+
+   Para ir diretamente para **a página Submissões,** utilize <https://security.microsoft.com/reportsubmission> .
+
+2. Na página **Submissões, verifique**  se o separador Submetido para análise está selecionado e, em seguida, clique **em + Submeter para a Microsoft para análise.**
+
+3. Será apresentada uma panfleto com a opção de submeter um e-mail, um URL ou um ficheiro. Para obter mais informações, consulte Utilizar Submissão de Administrador para submeter suspeitas de [spam, phish, URLs e ficheiros à Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
+
+4. Informe os seus utilizadores de que devem denunciar mensagens suspeitas nas respetivos Caixas de Entrada através do add-in Mensagem de Relatório ou do [add-in Report Phishing.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0f1b451c69667db3a581e84b84864458e179b2c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889325"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314287"
 ---
 # <a name="activate-your-subscription"></a>Ativar a sua subscrição
 
@@ -40,5 +40,5 @@ Para mais informações, consulte [Reactivate your subscription](https://docs.mi
 
 **Ativar uma nova subscrição com uma chave de produto**
 
-- Para ativar uma nova subscrição Microsoft 365 com a sua chave de produto, consulte Onde introduzir a sua [chave Office produto](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Para ativar uma nova subscrição Microsoft 365 com a sua chave de produto, consulte Onde introduzir a [sua chave Office produto](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 - Introduza a sua chave de produto do Microsoft 365 e siga as mensagens para ativar a sua subscrição. Se estiver com problemas com a ativação, consulte esta [lista de erros de chaves de produto mais frequentes e respetivas soluções](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

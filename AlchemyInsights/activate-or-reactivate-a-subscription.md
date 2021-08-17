@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 94275b950e2f09730aa42d9b8fc0ae39e39be1bd9c8ca4cad5b20926b263fca2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889393"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314323"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Ativar ou reativar uma subscrição
 
@@ -27,7 +27,7 @@ ms.locfileid: "57889393"
 
 - Para dar aos utilizadores acesso a um serviço, atribua-lhes uma licença. Para saber como, consulte [Atribuir licenças a utilizadores.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 - Se já tiver uma licença atribuída, pode encontrar aplicações que pode transferir a partir da [página A Minha Conta.](https://portal.office.com/account/#installs) Esta página fornece uma lista de aplicações que estão disponíveis para transferência com base nas licenças atribuídas.
-- Se já transferiu as aplicações Office, poderá ter de inscrever-se nas aplicações com a sua conta escolar ou pessoal. Pode fazê-lo em qualquer aplicação Office (Word, Excel, etc.) ao clicar em Ficheiro  >  **Office Conta** (junto à parte inferior). Em **Informações do Utilizador,** selecione **Mudar de Conta**. Para obter mais informações, consulte [Instalar Office aplicações](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Se já transferiu as aplicações Office, poderá ter de inscrever-se nas aplicações com a sua conta escolar ou pessoal. Pode fazê-lo em qualquer aplicação Office (Word, Excel, etc.) ao clicar em Conta   >  **Office** (junto à parte inferior). Em **Informações do Utilizador,** selecione **Mudar de Conta**. Para obter mais informações, consulte [Instalar Office aplicações](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Reativar uma subscrição**
 
@@ -36,8 +36,9 @@ Se a sua subscrição expirar, tiver sido desativada pela Microsoft ou a tiver c
 1. No centro de administração, vá para a página **Faturação**  >  [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.
 2. No **separador** Produtos, locale a subscrição que pretende reativar.
 3. Selecione os três pontos (mais ações) e, em **seguida, selecione Reativar esta subscrição**.
-    > [!IMPORTANT]
-    > Se não vir a ação **Reativar** esta subscrição como uma ação disponível, [ligue](https://go.microsoft.com/fwlink/p/?linkid=518322) para o Suporte para reativar a sua subscrição.
+
+    **Importante:** Se não vir a reativação desta **subscrição** como uma ação disponível, [ligue](https://go.microsoft.com/fwlink/p/?linkid=518322) para o Suporte para reativar a sua subscrição.
+
 4. No painel **Reativar esta subscrição, selecione** um método de pagamento existente ou selecione **Adicionar método de pagamento**.
 5. **Selecione Reativar**.
 
@@ -45,5 +46,5 @@ Para mais informações, consulte [Reactivate your subscription](https://docs.mi
 
 **Ativar uma nova subscrição com uma chave de produto**
 
-1. Para ativar uma nova subscrição Microsoft 365 com a sua chave de produto, consulte Onde introduzir a [sua chave Office produto .](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+1. Para ativar uma nova subscrição Microsoft 365 com a sua chave de produto, consulte Onde introduzir a [sua chave Office produto](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 2. Introduza a sua chave de produto do Microsoft 365 e siga as mensagens para ativar a sua subscrição. Se tiver problemas com a ativação, consulte esta lista de erros e soluções de [chave de produto comuns.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

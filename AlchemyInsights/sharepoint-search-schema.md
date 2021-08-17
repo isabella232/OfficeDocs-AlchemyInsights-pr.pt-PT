@@ -8,30 +8,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: f2d8d3e07fe32d21af484e4c59e0f5ac6fe8081c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8eb0e93ea5bbf2154213274041b28a3c908090dae724b8f8e55fa2fb05f16d86
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770562"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085095"
 ---
 # <a name="manage-search-schema-in-sharepoint-online"></a>Gerir esquema de pesquisa no SharePoint Online
 
-O esquema de pesquisa controla o que os utilizadores podem pesquisar, como os utilizadores podem pesquisar e como pode apresentar os resultados nos seus sites de pesquisa. 
+O esquema de pesquisa controla o que os utilizadores podem procurar, como os utilizadores podem pesquisá-lo e como pode apresentar os resultados nos seus sites de pesquisa. 
 
-Consulte [gerir o esquema de pesquisa no SharePoint Online](https://docs.microsoft.com/sharepoint/manage-search-schema) para aprender a: 
-- Mude o esquema de pesquisa.
+Consulte [Gerir o Esquema de Pesquisa no SharePoint Online](https://docs.microsoft.com/sharepoint/manage-search-schema) para saber como: 
+- Altere o esquema de pesquisa.
 - Criar propriedades geridas.
-- Mapa rastejado de propriedades rastejadas para propriedades geridas.
+- Mapear propriedades de mapas pescados para propriedades geridas.
 
-Note o seguinte no que diz respeito à gestão do seu Esquema de Pesquisa:
+Tenha em atenção o seguinte no que diz respeito à gestão do seu Esquema de Pesquisa:
 
-- Se receber um aviso indicando que **a aplicação é interrompida** ao fazer uma alteração de esquema, esta é apenas temporária, uma vez que existe manutenção de serviço. 
+- Se receber um aviso  a indicar que a aplicação está em pausa ao fazer uma alteração de esquema, isto é apenas temporário, uma vez que existe manutenção do serviço a ocorrer. 
 
-    Se já passaram mais de 24 horas e ainda experimenta o aviso, por favor registe um caso de apoio.
-- Quando altera propriedades geridas ou adiciona novas, as alterações só têm efeito depois de o conteúdo ter sido re-rastejado. No SharePoint Online, o rastreio acontece automaticamente com base no horário definido de rastreio.
-- Para se certificar de que as suas alterações estão rastreadas, pode solicitar especificamente [uma re-indexação da lista ou biblioteca](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
+    Se já tiver passado mais de 24 horas e continuar a ver o aviso, retoma um caso de suporte.
+- Quando altera propriedades geridas ou adiciona novas propriedades, as alterações só são efetuadas após o conteúdo ter sido procurado de novo. No SharePoint Online, a crawling ocorre automaticamente com base na agenda de crawl definida.
+- Para se certificar de que as suas alterações são indexadas, pode solicitar especificamente [uma nova indexação da lista ou biblioteca](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
 
-Para uma visão geral completa do Esquema de Pesquisa, consulte [a introdução do esquema de pesquisa](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
+Para uma visão geral completa do Esquema de Pesquisa, consulte [Introdução ao Esquema de Pesquisa](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
 
 

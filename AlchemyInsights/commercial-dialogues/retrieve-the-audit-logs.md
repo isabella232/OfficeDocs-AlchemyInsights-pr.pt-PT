@@ -1,5 +1,5 @@
 ---
-title: Recuperar os registos de auditoria
+title: Obter os registos de auditoria
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 877f22a48e9ff1f4bac34cb0ea4f37407b4b109d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482108"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893602"
 ---
-# <a name="retrieve-the-audit-logs"></a>Recuperar os registos de auditoria
+# <a name="retrieve-the-audit-logs"></a>Obter os registos de auditoria
 
-Quando abrir o registo de auditoria pela primeira vez, estará vazio. Tens de fazer uma busca para ver o que há lá. Eis como fazer uma pesquisa geral para todas as atividades:
+Quando abrir o registo de auditoria pela primeira vez, este estará vazio. Tem de fazer uma pesquisa para ver o que aí está. Eis como fazer uma pesquisa geral para todas as atividades:
 
-1. Aceda à [página de pesquisa de registo de auditoria](https://protection.office.com/#/unifiedauditlog) (ou navegue para centros **de**  >  **administração Segurança & Compliance center** Search &  >  **investigação** Pesquisa de registo  >  **de auditoria).**
-1. Na caixa **Atividades,** aceite o padrão, **Mostre os resultados para todas as atividades.**
-1. Especifique o intervalo de datas e na caixa **Utilizadores** aceite o padrão para devolver resultados para todos os utilizadores, ou escolha o nome de utilizador para o utilizador que pretende investigar.
-1. Clique **em Pesquisar**. As atividades aparecem nos **Resultados.**
-1. Para ver detalhes, clique numa atividade e, em seguida, escolha **Mais Informações.** Verá mais informações como Cliente, Utilizador que realizou ação, etc.
+1. Eis uma das seguintes ações:
+   - Na Centro de Conformidade do Microsoft 365 em <https://compliance.microsoft.com> , vá para Auditoria **de** \> **Soluções**. Em vez disso, para ir diretamente para **a página** Auditoria, utilize <https://compliance.microsoft.com/auditlogsearch> .
+   - No portal Microsoft 365 Defender de Equipa em <https://security.microsoft.com> , vá para **Auditoria**. Em vez disso, para ir diretamente para **a página** Auditoria, utilize <https://security.microsoft.com/auditlogsearch> .
+
+2. No **separador** Procurar da **página** Auditoria, configure as seguintes definições:
+   - **Intervalo de data e hora:** selecione o intervalo de data/hora nas **caixas** Início **e** Fim.
+   - **Atividades:** a opção Verificar **a opção Mostrar resultados para todas as atividades está** selecionada.
+   - **Utilizadores:** aceite o valor predefinido em branco para devolver resultados de todos os utilizadores ou introduza um ou mais utilizadores.
+
+3. Quando terminar, clique em **Procurar**. As atividades são apresentadas na nova página **Pesquisa de** auditoria.
+
+4. Selecione uma atividade nos resultados para abrir a panfleto de detalhes. Verá mais informações, como Cliente, Utilizador que efetuou ações, etc.
+
+Para saber mais, consulte Procurar [no registo de auditoria para investigar problemas de suporte comuns.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

@@ -14,27 +14,27 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 5f9c9ae86f0f80a209444bb161e763a2fbceddeb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a5adca5950e2db34b88c77f1b635c3f273eff4e45eea7312ed2100b8d6f7f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835354"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050237"
 ---
 # <a name="solutions-for-error-30068-39"></a>Soluções para o erro 30068-39
 
-Experimente estas soluções para corrigir o erro [30068-39:](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)
+Experimente estas soluções para corrigir [o erro 30068-39:](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)
   
-- Reinicie o computador e tente [instalar o Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Reinicie o computador e [tente instalar o Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Verifique se o serviço **Microsoft Click-to-Run** [está desativado](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) e se está desativado, altere o estado para **Manual** ou **Automático**.
+- Verifique se o serviço **Microsoft Clique-e-Utilize** [](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) está desativado e se está desativado, altere o estado para **Manual** ou **Automático.**
 
 - Transfira e instale o [Assistente de Recuperação e Suporte](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Quando abrir, a partir de **produtos do Desinstalar Office** selecione a versão desejada para desinstalar e selecione **Next**.
+1. Ao abrir, em **Desinstalar** produtos Office selecione a versão que pretende desinstalar e **selecione Seguinte.**
 
 2. Progrida pelos ecrãs que vão aparecendo e reinicie o seu computador quando lhe for pedido.
 
-    Após o reinício, o Assistente de Suporte e Recuperação reabriu automaticamente para concluir o processo de desinstalação.
+    Após reiniciar, a Assistente de Recuperação e Suporte abre automaticamente para concluir o processo de desinstalação.
 
-3. Siga as indicações restantes e [volte a instalar o Office](https://portal.office.com/OLS/MySoftware.aspx) ou feche o assistente.
+3. Siga as restantes instruções e [reinstale o Office](https://portal.office.com/OLS/MySoftware.aspx) ou feche o assistente.

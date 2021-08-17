@@ -1,5 +1,5 @@
 ---
-title: Inscreva-se no Microsoft Edge manualmente
+title: Inscreva-se Microsoft Edge manualmente
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/03/2020
@@ -15,18 +15,18 @@ ms.custom:
 - "6893"
 - "8332"
 - "9004625"
-ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: f9aa27a585d805360e1fadecfd0db3b11d15a3594ed5bd5dc6c68cec37a4d6a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398668"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050777"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a>Inscreva-se no Microsoft Edge manualmente
+# <a name="sign-in-to-microsoft-edge-manually"></a>Inscreva-se Microsoft Edge manualmente
 
-Se um utilizador não for automaticamente inscrito durante uma experiência de primeira execução, o utilizador pode iniciar sômus manualmente através das definições do navegador ou do voo de identidade. Para gerir a inscrição, utilize as seguintes políticas:
+Se um utilizador não tiver a sua conta de início de trabalho automaticamente durante uma experiência de primeira utilização, o utilizador pode fazê-lo manualmente através das definições do browser ou da panfleto de identidade. Para gerir o sinal de que está a trabalhar, utilize as seguintes políticas:
 
 1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) - Para garantir que um utilizador tem sempre um perfil de trabalho no Microsoft Edge.
-2. [Restringir o SigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) - Para restringir o acesso a um conjunto de contas fidedignas.
-3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) - Para desativar o s-in ou para forçar os utilizadores a iniciar sação.
+2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) – para restringir o lote de um conjunto de contas fidedignas.
+3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) - Para desativar o acesso de utilizador ou forçar os utilizadores a entrar.
 

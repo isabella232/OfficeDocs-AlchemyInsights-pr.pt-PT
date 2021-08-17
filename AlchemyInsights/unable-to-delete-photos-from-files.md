@@ -1,5 +1,5 @@
 ---
-title: 8000031 Incapaz de apagar fotos dos Ficheiros
+title: 8000031 não é possível eliminar fotografias de Ficheiros
 ms.author: daeite
 author: daeite
 manager: dansimp
@@ -15,20 +15,20 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: e07d4542c57fc57a9c7bf1a594ab4df104c88854
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 2735d7117969ceab23476f58cdcc3210ee912950799cc1082e151bff6bf692d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653371"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104967"
 ---
-# <a name="unable-to-delete-photos-from-files"></a>Não é possível apagar fotos dos Ficheiros
+# <a name="unable-to-delete-photos-from-files"></a>Não é possível eliminar fotografias de Ficheiros
 
-Para eliminar as fotos dos Ficheiros em Outlook.com:
+Para eliminar as fotografias em Ficheiros Outlook.com:
   
-1. Vá à pasta **'Inbox'** ou **'Envio's Items** e elimine a mensagem de e-mail a que estão anexados.
+1. Vá para a **sua pasta Caixa de** Entrada ou **Itens** Enviados e elimine a mensagem de e-mail a que estão anexados.
 
-2. Remova os artigos dos seus **artigos eliminados**.
+2. Remova os itens dos seus **itens eliminados.**
 
-Para obter mais informações, leia [Como eliminar ficheiros ou fotos em Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
+Para obter mais informações, [leia Como eliminar ficheiros ou fotografias Outlook.com.](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx)
   

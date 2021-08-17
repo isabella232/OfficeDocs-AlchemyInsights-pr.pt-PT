@@ -1,5 +1,5 @@
 ---
-title: Código de erro 550 5.7.705 Acesso negado, inquilino excedeu limiar
+title: Código de erro 550 5.7.705 - Acesso negado, o inquilino excedeu o limiar
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -13,17 +13,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: d3c1eddf22b61c14e8bb82de5f2e16e84786657c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f35aaccb0bc80ddcb46e37533ee36c35b8cf520421786a809b28cfa70e16391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784030"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044207"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Acesso negado, inquilino excedeu limiar
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 - Acesso negado, o inquilino excedeu o limiar
 
-Esta mensagem ocorre quando muita spam ou correio a granel foi enviado pela sua organização e colocamos um bloqueio no correio de saída.
-As causas comuns são comprometidas nos servidores do local ou contas de administração comprometidas que foram usadas para criar conectores. Qualquer condição pode permitir que o spam passe pela sua organização.
+Esta mensagem ocorre quando a sua organização envia demasiado spam ou correio em massa e colocamos um bloqueio nos e-mails enviados.
+As causas comuns são servidores no local comprometidos ou contas de administração comprometidos que foram utilizadas para criar conectores. Qualquer uma das condições pode permitir que o spam seja passado pela sua organização.
 
-Para remover este bloco, é necessário compreender e explicar a causa a um agente de suporte, bem como corrigir o problema subjacente.
-Clique **em contactar-nos** abaixo assim que estiver pronto.
+Para remover este bloqueio, tem de compreender e explicar o motivo a um agente de suporte, bem como corrigir o problema subjacel.
+Clique **em Contacte-nos** abaixo quando estiver pronto.

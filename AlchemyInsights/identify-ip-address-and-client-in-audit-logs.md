@@ -13,18 +13,18 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: fcad71bcc5ea6036bc8fa25a9be38caabc4d0889ee01ea86e23065333d5fce0a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 080b3df3934781ebf0d0cd5243787bf6975fc5f123b5b1593c0b6d9ada4eae5d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54014911"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887511"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identificar o endereço IP e o cliente nos registos de auditoria
 
 O endereço IP que corresponde a uma atividade por um Microsoft 365 ou administrador é apresentado nos Registos de Auditoria. As informações do cliente também são com sessão marcada. Eis os passos para identificar essas informações
 
-1. In iniciar sessão no [Centro Microsoft 365 conformidade.](https://protection.office.com/)
+1. In iniciar sessão no [Centro Microsoft 365 de Conformidade.](https://protection.office.com/)
 
 2. Aceda à página **Pesquisa de registo** de auditoria  >  **de** pesquisa.
 
@@ -36,4 +36,4 @@ O endereço IP que corresponde a uma atividade por um Microsoft 365 ou administr
 
 Nos resultados, pode ver o endereço IP para essa atividade no painel de resultados. Selecione o registo de  auditoria para ver informações detalhadas na lista de folheto Detalhes (por exemplo, Cliente, Utilizador que efetuou ação, etc.).
 
-Para obter mais informações, consulte [Encontrar o endereço IP do computador utilizado para aceder a uma conta comprometida.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)
+Para obter mais informações, consulte [Encontrar o endereço IP do computador utilizado para aceder a uma conta comprometida.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)

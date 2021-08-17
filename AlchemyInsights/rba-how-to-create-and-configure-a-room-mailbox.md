@@ -1,5 +1,5 @@
 ---
-title: 'RBA - Como criar e configurar uma caixa de correio de quarto '
+title: 'RBA - Como criar e configurar uma caixa de correio de sala '
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3417"
 - "3800012"
-ms.openlocfilehash: 8a3691e741fd6874908c30fe3517e6d0b8670a3b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3f159020ac608eac169138231e16455420eeb96edc849fb882fd748a34bf6965
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51789767"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053441"
 ---
-# <a name="create-or-configure-a-room-mailbox"></a>Criar ou configurar uma caixa de correio de quarto
+# <a name="create-or-configure-a-room-mailbox"></a>Criar ou configurar uma caixa de correio de sala
 
-Para obter informações sobre a criação e configuração de caixas de correio de salas, consulte [Criar uma caixa de correio para a sala.](https://docs.microsoft.com/exchange/recipients/room-mailboxes?view=exchserver-2019#create-a-room-mailbox)
+Para obter informações sobre como criar e configurar caixas de correio de sala, consulte [Criar uma caixa de correio de sala.](https://docs.microsoft.com/exchange/recipients/room-mailboxes?view=exchserver-2019#create-a-room-mailbox)

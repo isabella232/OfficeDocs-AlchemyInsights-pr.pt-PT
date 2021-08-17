@@ -1,5 +1,5 @@
 ---
-title: Atrasos na receção de alertas SharePoint e OneDrive
+title: Atrasos na receção de alertas de OneDrive SharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: fd00bd90de382e325a9b8c4ce5b21d535e630730
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7111a26e54a909cd8541d8c351d4f9db0338138d76de1ad14402b1c86932b79c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831241"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107919"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Atrasos na receção de alertas SharePoint e OneDrive
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Atrasos na receção de alertas de OneDrive SharePoint
 
-- Se **todos os alertas de vários ficheiros ou bibliotecas estiverem atrasados,** visite o painel de [instrumentos de saúde](https://portal.office.com/adminportal/home?ref=/servicehealth) do serviço para verificar quaisquer avisos/incidentes que possam ocorrer com SharePoint ou Exchange.
-- Se **um alerta individual de um ficheiro ou biblioteca específico não for entregue,** tente eliminá-lo e recriá-lo. Consulte [Gerir, ver ou eliminar os alertas do SharePoint](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) para recriar o alerta.
-- Verifique a pasta Junk ou Spam no seu e-mail.
+- Se todos os alertas de **múltiplos ficheiros** ou bibliotecas se atrasarem, visite o [dashboard](https://portal.office.com/adminportal/home?ref=/servicehealth) do Estado de Serviço para verificar se existem avisos/incidentes que possam estar a ocorrer no SharePoint ou no Exchange.
+- Se **um alerta individual de um ficheiro ou biblioteca** específica não for entregue , tente eliminá-lo e recriá-lo. Consulte [Gerir, ver ou eliminar alertas do SharePoint](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) para recriar o alerta.
+- Verifique a pasta Lixo ou Spam no seu e-mail.
 
 > [!NOTE]
-> - Os alertas não podem ser enviados para um Grupo de Distribuição. Apenas os grupos de segurança e O365 são apoiados.
-> - Não é possível personalizar modelos de e-mail de alerta. Tem de utilizar o Microsoft Flow ou o SharePoint Designer Workflow para os conseguir.
+> - Não é possível enviar alertas para um Grupo de Distribuição. Apenas são suportados os grupos de Segurança e do O365.
+> - Não pode personalizar modelos de e-mail de alerta. Tem de utilizar o Microsoft Flow ou o Fluxo de Trabalho do SharePoint Designer para os conseguir.

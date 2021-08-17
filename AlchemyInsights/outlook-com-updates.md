@@ -1,5 +1,5 @@
 ---
-title: atualizações Outlook.com
+title: Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 1285a90e651d915cdff292d102669020ee738a3c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 811a694f6361a67d3f5e74299b144a922fdbeae74b84f8a065e3fe85db059087
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722502"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053513"
 ---
-# <a name="outlookcom-updates"></a>atualizações Outlook.com
+# <a name="outlookcom-updates"></a>Outlook.com
 
-**Últimas atualizações**
+**Atualizações mais recentes**
 
-- Obtenha mais informações sobre o seu e-mail com o novo Outlook.com. Simplificamos a procura para tornar mais fácil do que nunca encontrar o que procura. Novas funcionalidades como Fotos e pré-visualizações de anexos permitem-lhe ver as suas fotos e ficheiros sem sair da sua caixa de entrada. E agora pode adicionar emojis e GIFs às suas mensagens.  [Saiba mais sobre o novo Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+- Tire o maior trabalho do seu e-mail com as novas Outlook.com. Simplicou a pesquisa para que seja mais fácil do que nunca encontrar o que procura. As novas funcionalidades, como as Fotografias e as pré-visualizações de anexos, permite-lhe ver as suas imagens e ficheiros sem sair da sua caixa de entrada. Agora pode adicionar emojis e GIFs às suas mensagens. [Saiba mais sobre os novos Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
-**Atualizações de e-mail**
+**Atualizações por e-mail**
 
-- Se a sua caixa de correio Outlook.com não estiver a atualizar, consulte [corrigir Outlook.com problemas de sincronização de e-mail](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+- Se a sua caixa Outlook.com não estiver a atualizar, consulte Corrigir problemas de sincronização de [e-mail Outlook.com.](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy)

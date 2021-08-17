@@ -12,20 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7eae77358b0305582f53c411a092e3d2f1dbe17fd58ceac1ac00d5c07b3dd202
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988135"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888417"
 ---
 # <a name="fix-connection-policy"></a>Corrigir política de ligação
 
-O e-mail foi marcado como seguro e entregue na caixa de entrada do utilizador porque o endereço IP de envio foi marcado como seguro na política Filtro de Ligação. Para rever a política, faça o seguinte:
+O e-mail foi marcado como seguro e entregue na Caixa de Entrada do utilizador porque o endereço IP de origem foi marcado como seguro na política de filtro de ligação predefinida. Para rever a política, faça o seguinte:
 
-1. Vá para o Centro [Office 365 de Conformidade &](https://go.microsoft.com/fwlink/p/?linkid=2077143)de Conformidade e, em seguida, vá para Política de Gestão de ameaças  >    >  [Antisspam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. No separador **Personalizar,** selecione a Política **de filtro de ligação e, em** seguida, selecione **Editar política.**
-3. Reveja **a lista de Endereços IP** Permitidos. Veja se **a Cofre de lista está** ativada.
+1. No portal Microsoft 365 Defender, em , vá para E-mail & políticas de <https://security.microsoft.com/>  \> **colaboração & Regras** \>  \> **contra ameaças Antisspam,** na **secção** Políticas.
 
-    > [!NOTE]
-    > A Microsoft subscreve as fontes de terceiros de relevos de confiança. Se **Cofre lista de correio** estiver ativada, estes remetidos de confiança não são marcados por engano como spam. Recomendamos que selecione esta opção, pois reduzirá o número de falsos positivos (e-mails válidos classificados como spam) que recebe.
+   Para ir diretamente para a **página Políticas antisspam,** utilize <https://security.microsoft.com/antispam> .
+
+2. Na página **Políticas antisspam,** selecione a política denominada Política de filtro de ligação **(Predefinição)** clicando no nome da política.
+
+3. Na panfleto de detalhes que é exibida, clique **em Editar política de filtro de** ligação na secção **Filtragem de** ligação.
+
+4. Reveja as **entradas** na secção Permitir sempre mensagens a partir dos seguintes endereços IP ou intervalo de endereços e veja se a opção Acionar lista **segura** está selecionada.
+
+   > [!NOTE]
+   > A Microsoft subscreve as fontes de terceiros de relevos de confiança. Se a lista de segurança estiver ativada, estes remetidos de confiança não são marcados por engano como spam. Recomendamos que selecione esta opção, uma vez que reduzirá o número de falsos positivos (e-mails bons classificados como spam) que recebe.
+
+Para obter mais informações, consulte [Configurar a filtragem de ligações.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy)

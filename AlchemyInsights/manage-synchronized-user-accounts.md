@@ -1,5 +1,5 @@
 ---
-title: Gerir contas de utilizadores sincronizadas
+title: Gerir contas de utilizador sincronizadas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
-ms.openlocfilehash: 1fe2857043434fd4b0b5723123b1fae908cd66ee
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 159d993f9a54fabc4ed16791e9892bd6f2a268784e06b2c3bccdcab39544349d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51802898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054017"
 ---
-# <a name="manage-synchronized-user-accounts"></a>Gerir contas de utilizadores sincronizadas
+# <a name="manage-synchronized-user-accounts"></a>Gerir contas de utilizador sincronizadas
 
-Normalmente, utiliza-se o centro de administração Microsoft 365 para adicionar e alterar contas de utilizador. No entanto, não pode usá-lo se a sychronização do diretório ou sSO estiverem ativados. Em vez disso, gerencie os seus utilizadores com o Windows PowerShell, conforme descrito nas propriedades da [conta de utilizador Configure com o Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ). 
+Normalmente, utiliza o centro de administração do Microsoft 365 para adicionar e alterar contas de utilizador. No entanto, não pode usá-lo se a sincronização de diretórios ou o SSO estiverem ativados. Em alternativa, faça a gestão dos seus utilizadores Windows PowerShell conforme descrito em Configurar as propriedades [da conta de utilizador com o Office 365 PowerShell.](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ) 
   
 

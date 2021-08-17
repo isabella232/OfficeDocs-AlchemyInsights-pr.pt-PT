@@ -1,5 +1,5 @@
 ---
-title: Criar um e-mail catch all
+title: Criar um e-mail captura tudo
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: 2b9131a620139a93ddb844fd49d8fa2ed68e52c2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0d20f7bcffa3be43fc6186a938bf4a7338722f5cd225b860da6357398db26a69
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816211"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080757"
 ---
-# <a name="create-an-email-catch-all"></a>Criar um e-mail catch all
+# <a name="create-an-email-catch-all"></a>Criar um e-mail captura tudo
 
-A utilização de uma captura é fortemente desencorajada. É melhor dar um salto de volta ao remetente, informando os remetentes que a sua mensagem não possa ser entregue como endereçado, para que possam tomar medidas. Também pode limitar a caixa de correio monitorizada apenas para capturar endereços de e-mail anteriormente válidos. 
+A utilização de um catch all é bastante desconcentrada. É melhor enviar uma mensagem de aviso ao remetente que avisa os remetentes de que a sua mensagem não foi entregue como endereçada para que possam tomar medidas. Também pode limitar a caixa de correio monitorizada para detetar apenas endereços de e-mail anteriormente válidos. 
 
-Qualquer captura de toda a caixa de correio receberá uma boa dose de spam e poderá eventualmente preencher se não for monitorizada de perto. (Existem limites de receção.) 
+Qualquer caixa de correio receberá spam em todas as caixas de correio e poderá eventualmente ser preenchida se não for monitorizada de perto. (Existem limites de receção.) 
 
-Se decidir prosseguir, siga estes passos:
+Se decidir continuar, siga estes passos:
 
-1. Criar um grupo de distribuição dinâmica & inclua "Todos os tipos de destinatários".
+1. Crie um Grupo de Distribuição dinâmico & inclua "Todos os Tipos de Destinatários".
 
-2. Crie uma caixa de correio dedicada para apanhar e-mails, por exemplo, catchall@domain.com.
+2. Crie uma Caixa de Correio dedicada para capturar e-mails, por exemplo, catchall@domain.com.
 
-3. Para o domínio específico, desaprote o 'DomainType' para "InternalRelay". Se mais tarde retirar todas as capturas, certifique-se de que devolve o domínio ao Autoritário.
+3. Para o domínio específico, defina DomainType para "InternalRelay". Se remover a captura de todos, certifique-se de que define o domínio novamente como Autoritativo.
 
-4. Criar uma Regra de Transporte de Fluxo de Correio da seguinte forma:
+4. Crie uma Regra de Transporte de Fluxo de Correio da seguinte forma:
 
-    - Se o Remetente estiver "Fora da Organização"
-    - Redirecione a mensagem para Catchall@domain.com
-    - Exceto se o destinatário for membro da allusers@domain.com (o Grupo de Distribuição contém todos os membros)
-    - Certifique-se de validar que novas caixas de correio são adicionadas ao Grupo de Distribuição Dinâmica
+    - Se o Remetente for "Fora da Organização"
+    - Redirecionar a mensagem para o Catchall@domain.com
+    - Exceto se o destinatário for membro de um grupo allusers@domain.com (o Grupo de Distribuição contém todos os membros)
+    - Certificar-se de que as novas caixas de correio são adicionadas ao Grupo de Distribuição Dinâmico

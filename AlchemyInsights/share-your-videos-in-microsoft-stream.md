@@ -1,5 +1,5 @@
 ---
-title: Partilhe os seus vídeos no Microsoft Stream
+title: Partilhar os seus vídeos no Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3772"
-ms.openlocfilehash: 8363706fbc6dc87ce06ead90a6ff68f809ca9ac4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d8c3a460495eec8b813effa6afef97f75f25545c5ba89e76c123b6273e1a9025
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828415"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108171"
 ---
-# <a name="share-your-videos-in-microsoft-stream"></a>Partilhe os seus vídeos no Microsoft Stream
+# <a name="share-your-videos-in-microsoft-stream"></a>Partilhar os seus vídeos no Microsoft Stream
 
-Pode querer partilhar vídeos no Microsoft Stream com pessoas que de outra forma não têm acesso. Existem várias formas de partilhar os seus vídeos:
+Poderá querer partilhar vídeos no Microsoft Stream com pessoas que de outra forma não têm acesso. Existem várias formas de partilhar os seus vídeos:
 
-- [Partilhe os seus vídeos no Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
+- [Partilhar os seus vídeos no Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
 
 - [Permissões no seu vídeo](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: b32cb8956c66a61090531c137532a2e93819b10b1dee3aa94a429e4d94844451
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937688"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889265"
 ---
 # <a name="activating-microsoft-365-apps"></a>Ativar Microsoft 365 aplicações
 
@@ -29,7 +29,7 @@ Para ativar o Office, consulte:
 
 - [Ativar o Office num Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Nota:**  Certifique-se de que tem uma subscrição Office 365 ou Microsoft 365 que inclui [uma](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)subscrição de cliente Office , por exemplo, Microsoft 365 Empresas, Microsoft 365 Apps para Pequenas e Médias Empresas ou Microsoft 365 Apps para Grandes Empresas. Além disso, certifique-se de que a conta de utilizador que está a utilizar para entrar Office aplicações [têm uma licença atribuída.](/microsoft-365/admin/manage/assign-licenses-to-users)
+**Nota:**  Certifique-se de que tem uma subscrição Office 365 ou Microsoft 365 que inclui [Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)aplicações cliente (por exemplo, Microsoft 365 Empresas, Microsoft 365 Apps para Pequenas e Médias Empresas ou Microsoft 365 Apps para Grandes Empresas. Além disso, certifique-se de que a conta de utilizador que está a utilizar para entrar Office aplicações [têm uma licença atribuída.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Para corrigir problemas de ativação do Office, consulte:
 
@@ -48,6 +48,6 @@ Se não conseguir inscrever-se nas aplicações Microsoft 365, siga os passos ab
 
 3. No Windows, aceda a **Definições > Contas > Aceder a profiss./escolar** e desligue contas profissionais antigas ou não utilizadas.
 
-4. [Redefina o estado de ativação do Office](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) e, em seguida, [Inicie sessão nas Aplicações do Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) com a nova conta.
+4. [Redefina o estado de ativação do Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) e, em seguida, [Inicie sessão nas Aplicações do Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) com a nova conta.
 
 Para obter ações adicionais de resolução de problemas, consulte [É apresentado um aviso de subscrição quando abro uma aplicação do Office 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).

@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 3439379b27303bcf3fd43f35336c05876e3e526e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d91b7a6ec18764ca194e42b90741c01699fddf8d068826fbdba8a1daee5da4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739440"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108315"
 ---
 # <a name="share-a-communication-site-with-external-users"></a>Partilhar um Site de Comunicação com Utilizadores Externos
 
-Para ligar a partilha externa de utilizadores para sites de comunicação, siga estes passos: 
+Para atalhos para a partilha de utilizadores externos em Sites de comunicação, siga estes passos: 
   
-1. Abra o **Modern Admin Center** - Se estiver no clássico Centro de Administração verá um **Try it now** ou ** Experimente o botão de pré-visualização ** a partir da direita superior. Isto vai levá-lo ao Centro De Administração Moderna. 
+1. Abra o Centro de Administração Moderno **–** se estiver no Centro de  Administração clássico, verá o botão Experimentar agora ou ** Experimente o botão pré-visualizar ** no canto superior direito. Esta ação irá levá-lo para o Centro de Administração Moderno. 
   
-2. Selecione **Sites Ativos.**
+2. **Selecione Sites Ativos.**
   
-3. Selecione um site que tenha um **modelo de Site de Comunicação.** 
+3. Selecione um site que tenha um modelo **de Site de Comunicação**. 
   
-4. Selecione o botão **Partilhar** a partir do menu superior. 
+4. Selecione **o** botão Partilhar no menu superior. 
   
- **Nota:** Se tiver mais de um site selecionado, o botão **Partilhar** aparecerá desativado. Selecione apenas um site. 
+ **Nota:** Se tiver mais do que um site selecionado, o **botão Partilhar aparecerá** desativado. Selecionar apenas um site. 
   
 

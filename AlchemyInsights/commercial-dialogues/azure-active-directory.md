@@ -1,5 +1,5 @@
 ---
-title: Diretório Ativo Azure
+title: Azure Active Directory
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0a82646b18b51cf198c287990e5ce447619aac20
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: be92d2397c7088020cc8bea5101acf6717af4db82a785f71d55ec5aff9061b1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482341"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059201"
 ---
-# <a name="azure-active-directory"></a>Diretório Ativo Azure
+# <a name="azure-active-directory"></a>Azure Active Directory
 
-O Microsoft Azure Ative Directory (Azure AD) é um serviço de gestão de identidade e acesso baseado na nuvem que ajuda os colaboradores a iniciar e aceder a recursos tanto externo como interno. Para saber mais, confira os seguintes recursos:
+Microsoft Azure Active Directory (Azure AD) é um serviço de gestão de acesso e identidade baseado na nuvem que ajuda os colaboradores a inscreverem-se e aceder aos recursos externa e internamente. Para saber mais, consulte os seguintes recursos:
 
-- [O que é O Diretório Ativo Azure?](https://go.microsoft.com/fwlink/?linkid=2081145)
-- [Integração do Azure com o Office 365](https://go.microsoft.com/fwlink/?linkid=2081218)
-- [Julgamento gratuito do Azure Ative Directory](https://go.microsoft.com/fwlink/?linkid=2081144)
+- [O que é Azure Active Directory?](https://go.microsoft.com/fwlink/?linkid=2081145)
+- [Integração do Azure com Office 365](https://go.microsoft.com/fwlink/?linkid=2081218)
+- [Azure Active Directory avaliação gratuita](https://go.microsoft.com/fwlink/?linkid=2081144)

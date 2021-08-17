@@ -1,5 +1,5 @@
 ---
-title: Calendário 1081 - RBA CatchAll
+title: 1081 – Calendário - CatchAll de RBA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 3c7dff50fba4bd667d1432bd295edf404b459309
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcc2fbcc73e0c03b09d55de3eadb00273e83379476dfff4af8e2c758c91230d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734382"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059381"
 ---
-# <a name="create-and-manage-room-mailboxes"></a>Criar e gerir caixas de correio de quartos
+# <a name="create-and-manage-room-mailboxes"></a>Criar e gerir caixas de correio de sala
 
-Para criar e modificar caixas de correio de sala no centro de administração Exchange, consulte [Criar e gerir caixas de correio de quartos](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
+Para criar e modificar caixas de correio de sala no Exchange de administração, consulte Criar e gerir caixas de [correio de sala.](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)
 
-Para saber mais sobre caixas de correio de quartos e equipamentos (também conhecidas como caixas de correio de recursos), consulte [caixas de correio de quartos e equipamentos.](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)
+Para saber mais sobre as caixas de correio de sala e de equipamento (também conhecidas como caixas de correio de recurso), consulte Caixas de [correio de sala e de equipamento.](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)

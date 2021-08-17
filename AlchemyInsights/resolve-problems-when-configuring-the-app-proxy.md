@@ -1,5 +1,5 @@
 ---
-title: Resolver problemas ao configurar o Proxy app
+title: Resolver problemas ao configurar o Proxy de Aplicações
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7796"
-ms.openlocfilehash: 39b9af46689bc333b7f590b589a13222d425b497
-ms.sourcegitcommit: 9b8f2ca19fb81b2729ecf5ff7586f4e7d607ba9a
+ms.openlocfilehash: c3d3eeb09b21b09e94ffb8468714f0c7e150468dc9bffe4cd7745fb5d7237908
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50093077"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110295"
 ---
-# <a name="resolve-problems-when-configuring-the-app-proxy"></a>Resolver problemas ao configurar o Proxy app
+# <a name="resolve-problems-when-configuring-the-app-proxy"></a>Resolver problemas ao configurar o Proxy de Aplicações
 
-1. Se você ou um utilizador **puder carregar uma aplicação, mas algo na página parece quebrado,** os seguintes artigos podem ajudá-lo a resolver o seu problema:
-    - [Problemas de aplicação de procuração de aplicação de depurg](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps)
-    - [A página de aplicação não está a ser exibida corretamente](https://docs.microsoft.com/azure/active-directory/application-proxy-page-appearance-broken-problem)
-    - [A aplicação demora muito tempo a carregar](https://docs.microsoft.com/azure/active-directory/application-proxy-page-load-speed-problem)
-    - [Links na página de aplicação não funcionam](https://docs.microsoft.com/azure/active-directory/application-proxy-page-links-broken-problem)
-2. Se tiver um **problema de conectividade com a sua aplicação,** os seguintes artigos podem ajudá-lo a resolver o seu problema:
-    - [Problemas de conector de procuração de aplicação de depurg](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)
-    - [Encontrei um problema porque não havia conector de trabalho num grupo de conector para a minha aplicação.](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector)
-3. Se tiver problemas em **configurar o Proxy de Aplicação AD AD do Azure no portal da administração,** os seguintes artigos podem ajudá-lo a resolver o seu problema:
-    - [Estou a ter dificuldade em configurar uma aplicação de procuração de aplicação](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to)
-    - [Configure um único sinal de inscrição na minha aplicação Proxy de aplicação](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to)
+1. Se o utilizador ou um utilizador puder carregar uma **aplicação,** mas algo na página parecer insustementado, os seguintes artigos poderão ajudá-lo a resolver o seu problema:
+    - [Depurar problemas da aplicação Proxy de Aplicação](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps)
+    - [A página da aplicação não está a ser apresentada corretamente](https://docs.microsoft.com/azure/active-directory/application-proxy-page-appearance-broken-problem)
+    - [A aplicação demora demasiado tempo a carregar](https://docs.microsoft.com/azure/active-directory/application-proxy-page-load-speed-problem)
+    - [As ligações na página da aplicação não funcionam](https://docs.microsoft.com/azure/active-directory/application-proxy-page-links-broken-problem)
+2. Se estiver a ter um problema **de conectividade com** a sua aplicação, os seguintes artigos podem ajudá-lo a resolver o seu problema:
+    - [Depurar problemas do conector Proxy da Aplicação](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)
+    - [Deparei-me com um problema porque não existe nenhum conector num grupo de conectores para a minha aplicação](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector)
+3. Se estiver a ter problemas ao configurar o Proxy de Aplicações do **Azure AD** no portal de administração, os seguintes artigos poderão ajudá-lo a resolver o seu problema:
+    - [Estou a ter dificuldades em configurar uma aplicação proxy de aplicação](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to)
+    - [Configurar o registo único na minha aplicação proxy de aplicação](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to)
     - [Criar a minha aplicação no portal de administração](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem)
-4. Se tiver problemas em **configurar a autenticação de back-end para a sua aplicação,** os seguintes artigos podem ajudá-lo a resolver o seu problema:
-    - [Não sei como configurar a delegação restrita de Kerberos.](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to)
-    - [Não sei como configurar a minha candidatura com o PingAccess.](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to)
-5. Se você ou um utilizador estiver com um **problema ao iniciar sessão na sua aplicação,** os seguintes artigos podem ajudá-lo a resolver o seu problema: [Eu tenho um erro "Não posso aceder a esta Aplicação Corporativa".](https://docs.microsoft.com/azure/active-directory/application-proxy-sign-in-bad-gateway-timeout-error)
-6. Se tiver algum **problema com o Conector de Agente de Procuração de Aplicações,** os seguintes artigos podem ajudá-lo a resolver o seu problema:
-    - [Problemas de conector de procuração de aplicação de depurg](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)
-    - [Estou com problemas na instalação do Conector de Agente de Procuração de Aplicações](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem)
+4. Se estiver a ter um problema ao configurar a autenticação de back-end na sua aplicação, os seguintes artigos poderão **ajudá-lo** a resolver o seu problema:
+    - [Não sei como configurar a Delegação Restrita da Kerberos](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to)
+    - [Não sei como configurar a minha aplicação com o PingAccess](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to)
+5. Se você ou um utilizador estiver **a** ter um problema ao entrar na sua aplicação, os seguintes artigos poderão ajudá-lo a resolver o seu problema: É-me comunicado o erro "Não é possível aceder a esta Aplicação [Empresarial".](https://docs.microsoft.com/azure/active-directory/application-proxy-sign-in-bad-gateway-timeout-error)
+6. Se tiver um problema com o **Application Proxy Agent Connector,** os seguintes artigos poderão ajudá-lo a resolver o seu problema:
+    - [Depurar problemas do conector Proxy da Aplicação](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)
+    - [Estou a ter problemas ao instalar o Application Proxy Agent Connector](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem)

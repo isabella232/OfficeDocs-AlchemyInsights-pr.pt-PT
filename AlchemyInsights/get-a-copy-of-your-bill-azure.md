@@ -1,5 +1,5 @@
 ---
-title: Precisa de uma cópia do seu Bill ou Usage
+title: Necessita de uma cópia da sua Faturação ou Utilização
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,69 +12,69 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea300839f840110f65c3ce51899c89f96294202595b3933d411d6f1803fa7e43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812419"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116919"
 ---
-# <a name="get-a-copy-of-your-bill-or-usage"></a>Obtenha uma cópia da sua conta ou uso
+# <a name="get-a-copy-of-your-bill-or-usage"></a>Obter uma cópia da sua fatura ou utilização
 
-**Faça o download da sua fatura Azure (.pdf)**
+**Transferir a sua fatura do Azure (.pdf)**
 
-1. Selecione a sua subscrição a partir da [página subscrições](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) no portal Azure como [um utilizador com acesso a faturas](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) e, em seguida, selecione **Faturas**
-2. Clique **em Baixar Fatura** para ver uma cópia da sua fatura PDF. Se diz **não disponível,** veja [por que não vejo uma fatura para o último período de faturação?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Também pode ver o seu uso diário clicando no período de faturação Para obter um PDF da sua fatura e uma cópia do seu ficheiro de utilização diário detalhado (. CSV): [Obtenha dados de fatura e utilização](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+1. Selecione a sua subscrição na [Página Subscrições](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)no portal do Microsoft Azure como [um utilizador com acesso a faturas](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support), depois selecione **Faturas**.
+2. Clique em **Transferir fatura** para ver uma cópia da sua fatura em PDF. Se disser **Indisponível**, veja [Porque não vejo uma fatura para o último período de faturação?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice).
+3. Também pode ver a sua utilização diária clicando no período de faturação para obter um PDF da sua fatura e uma cópia do seu ficheiro de utilização diária detalhado (.CSV): [Obter fatura e dados de utilização](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Obtenha a sua fatura por e-mail (.pdf)**
+**Obter a sua fatura por e-mail (.pdf)**
 
-1. Selecione a sua subscrição a partir da [página De Assinaturas](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade). Clique **em Faturas** e envie **por email a minha fatura**
-2. Clique **em optar** e aceitar os termos. Terá de optar por cada subscrição que possuir. Nota: Se não receber um e-mail depois de seguir os passos, certifique-se de que o seu endereço de e-mail está correto nas preferências de [comunicação do seu perfil](https://account.windowsazure.com/profile)
-3. [Faturas Azure enviadas diretamente para a sua caixa de entrada](https://azure.microsoft.com/blog/azure-email-invoices/)
+1. Selecione a sua [subscrição a partir da página Subscrições](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade). Clique em **Faturas e, em** seguida, **em Enviar a minha fatura por e-mail**
+2. Clique **em optar ativos** e aceite os termos. Terá de optar ativamente por ativar por cada subscrição que possui. Nota: se não receber um e-mail após seguir os passos, certifique-se de que o seu endereço de e-mail está correto nas [preferências](https://account.windowsazure.com/profile) de comunicação no seu perfil
+3. [Faturas do Azure enviadas por e-mail diretamente para a sua caixa de entrada](https://azure.microsoft.com/blog/azure-email-invoices/)
 
-**Compreender o uso diário:**  
- [Compreenda a sua conta para o Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Compreender a utilização diária:**  
+ [Compreender a sua fatura Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Gerir custos:** [Evitar custos inesperados com faturação da Azure e gestão de custos](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Gerir custos: Evitar custos** [inesperados com a faturação do Azure e a gestão de custos](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Microsoft Customer Agreement (MCA)**:
+**Contrato de Cliente da Microsoft (MCA):**
 
-[Saiba como verificar o acesso a um Contrato de Cliente da Microsoft?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)  
-Se tiver um Acordo de [Cliente da Microsoft,](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)pode descarregar o uso no [portal Azure](https://portal.azure.com/)
+Saiba  [Como Verificar o acesso a um Contrato de Cliente da Microsoft?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)  
+Se tiver um Contrato de Cliente [da Microsoft,](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)pode transferir a utilização no portal do [Azure](https://portal.azure.com/)
 
-**Obtenha as faturas do Microsoft Customer Agreement por e-mail:**
+**Obter as suas faturas do Contrato de Cliente da Microsoft por e-mail:**
 
-Se tiver um Acordo de Cliente da Microsoft, pode optar por obter a sua fatura num e-mail. Todos os gestores de perfis de faturação Proprietários, Contribuintes, Leitores e Gestores de Fatura receberão a fatura por e-mail. Os leitores não podem atualizar a preferência da fatura de e-mail
+Se tiver um Contrato de Cliente da Microsoft, pode optar por receber a sua fatura por e-mail. Todos os proprietários do perfil de faturação, contribuintes, Leitores e Gestores de faturas receberão a fatura por e-mail. Os leitores não podem atualizar a preferência da fatura por e-mail
 
-- Pesquisa sobre **Gestão de Custos + Faturação**. Selecione um **perfil de faturação**. Em Definições, selecione **Propriedades**
-- Em Fatura de E-mail, selecione **Atualização da preferência da fatura do e-mail**. Selecione opt in. Clique **em Atualização**
+- Procure **Gestão de Custos + Faturação**. Selecione um **perfil de faturação**. Em Definições, selecione **Propriedades**
+- Em Fatura por E-mail, selecione **Atualizar preferência de fatura por e-mail**. Selecione optar a opção por entrar. Clique em **Atualizar**
 
-**Acordo de Empresa (EA)**
+**Contrato Enterprise (EA)**
 
-Para visualizar e descarregar dados de utilização como cliente da EA, tem de ser administrador da empresa, proprietário de conta ou administrador do Departamento com a política de custos de visualização ativada.
+Para ver e transferir dados de utilização como um cliente do EA, tem de ser um Administrador da Empresa, Proprietário da Conta ou Administrador de Departamento com a política de encargos da vista ativada.
 
-- Inscreva-se no portal Azure. Pesquisa sobre **Gestão de Custos + Faturação**. Selecione um perfil de faturação
-- Selecione Utilização + encargos. Para o mês que pretende descarregar, selecione Baixar
+- Inicie sessão no portal do Azure. Procure **Gestão de Custos + Faturação**. Selecionar um perfil de faturação
+- Selecione Utilização + taxas. Para o mês que pretende transferir, selecione Transferir
 
-**Assinatura MOSP Azure**  
-[Baixar fatura de subscrição MOSP Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#download-your-mosp-azure-subscription-invoice)
+**Subscrição do MOSP Azure**  
+[Descarregar fatura de subscrição do MOSP Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#download-your-mosp-azure-subscription-invoice)
 
-**Resolução de problemas: Não pode ver fatura durante o último período de faturação?**
+**Remoção de problemas: Não é possível ver a fatura do último período de faturação?**
 
-Algumas razões possíveis para não ver uma fatura:
+Eis algumas razões possíveis para não ver uma fatura:
 
-- Tem um valor de crédito mensal com a sua subscrição que não excedeu ou tem um Teste Gratuito. Uma fatura só é gerada quando se deve dinheiro
-- Falta menos de 30 dias para o dia em que subscreveu o Azure.
+- Tem um montante de crédito mensal com a sua subscrição que não excedeu ou que tem uma Avaliação Gratuita. Uma fatura só é gerada quando deve dinheiro
+- São menos de 30 dias após o dia em que subscreveu o Azure
 - A fatura ainda não foi gerada. Aguarde até ao fim do período de faturação
-- Se não for o Administrador de Conta, as faturas mais antigas podem não estar disponíveis para si **Nota:** A Microsoft não fornece quaisquer relatórios de utilização ou dados de consumo aos clientes CSP Azure. Os dados de utilização do Partner Center são voltados para o parceiro
-- Saiba mais sobre faturação e utilização AIO [](https://azure.microsoft.com/offers/ms-azr-0111p/) (Azure in open)
+- Se não for o Administrador de Conta, as faturas mais antigas poderão não estar disponíveis para si **Nota:** a Microsoft não fornece relatórios de utilização nem dados de consumo aos clientes do Azure CSP. Os dados de utilização do Centro de Parceiros são orientados para os parceiros
+- Saiba mais sobre a faturação e utilização do AIO (Azure em aberto): [Azure aberto](https://azure.microsoft.com/offers/ms-azr-0111p/)
 
-**Documentos Recomendados**
+**Documentos recomendados**
 
-- [Por que não vê uma fatura?](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-- [Pedido/Download/Ver a sua fatura de faturação Azure e dados de utilização](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Como enviar faturas do Azure diretamente para a sua caixa de entrada](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Compreender taxas de utilização detalhadas](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support#csv)
-- [Compreenda os termos na sua fatura](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Compreender a fatura da CSP Azure](https://docs.microsoft.com/partner-center/azure-plan-lp?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Por que motivo poderá não ver uma fatura?](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+- [Pedir/Transferir/Ver a sua fatura do Azure e os dados de utilização](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Como enviar faturas do Azure diretamente para a sua caixa de entrada por e-mail](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Compreender as taxas de utilização detalhadas](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support#csv)
+- [Compreender os termos na sua fatura](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Compreender a fatura do Azure CSP](https://docs.microsoft.com/partner-center/azure-plan-lp?WT.mc_id=Portal-Microsoft_Azure_Support)

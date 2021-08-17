@@ -1,5 +1,5 @@
 ---
-title: Gerem legendas automáticas e uma transcrição no Microsoft Stream
+title: Gerar legendas automáticas e uma transcrição no Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: 033c479cd31c5028b00b2ffe64d63fea2762f3fc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 37d0194ab8e5def8a9cb9dabe629ecbbf95118160aebc85f734a838cdc0c1893
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812424"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116883"
 ---
-# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Gerem legendas automáticas e uma transcrição no Microsoft Stream
+# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Gerar legendas automáticas e uma transcrição no Microsoft Stream
 
-O stream pode gerar automaticamente legendas utilizando a tecnologia de reconhecimento automático de voz, e pode ver uma janela de transcrição de scrolling para navegar e acompanhar facilmente o conteúdo falado de um vídeo.
+O Stream pode gerar legendas automaticamente com a tecnologia Reconhecimento de Voz Automático e pode ver uma janela de transcrição de deslocamento para navegar e seguir facilmente os conteúdos falados de um vídeo.
 
-- [Gerem legendas automáticas e uma transcrição para os seus vídeos do Microsoft Stream](https://docs.microsoft.com/stream/portal-autogenerate-captions)
+- [Gerar legendas automáticas e uma transcrição para os seus vídeos do Microsoft Stream](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [Mostrar uma janela de transcrição de scrolling para um vídeo no Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [Mostrar uma janela de transcrição de deslocamento para um vídeo no Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)

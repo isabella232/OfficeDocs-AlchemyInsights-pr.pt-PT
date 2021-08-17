@@ -13,16 +13,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 681f7609f32b004ddfa7bfbeff179757e7063657
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891690"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312698"
 ---
 # <a name="alert-policies"></a>Políticas de alertas
 
-Microsoft 365 contém políticas [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) de alerta predefinida que acionam alertas para organizações com uma subscrição do Microsoft 365 Enterprise ou do Microsoft 365 EUA E1/G1, E3/G3 ou E5/G5. Portanto, os administradores poderão receber uma notificação de e-mail de alerta enviada Office365Alerts@microsoft.com por um assunto com uma linha de assunto, como "Um alerta de baixa severidade: nome da política de alerta". As notificações de alerta são enviadas quando os alertas são ativados para atividades comuns, como quando os utilizadores:
+Microsoft 365 contém políticas [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) de alerta predefinida que acionam alertas para organizações com uma subscrição do Microsoft 365 Enterprise ou do Microsoft 365 EUA E1/G1, E3/G3 ou E5/G5. Assim, os administradores poderão receber uma notificação de e-mail de alerta enviada pela Office365Alerts@microsoft.com com um assunto de linha como "Um alerta de baixa severidade: nome da política de alertas". As notificações de alerta são enviadas quando os alertas são ativados para atividades comuns, como quando os utilizadores:
 
 - Crie regras de caixa de entrada que re encaminham e-mails.
 - Atribuir permissões à caixa de correio.
@@ -32,7 +32,7 @@ Microsoft 365 contém políticas [](https://docs.microsoft.com/microsoft-365/com
 Para rever e agir num alerta:
 
 1. Eis um dos seguintes passos:
-   - Na Centro de Conformidade do Microsoft 365 em <https://compliance.microsoft.com> , vá para **Alertas**. Em vez disso, para ir diretamente para **a página Alertas,** utilize <https://compliance.microsoft.com/compliancealerts> .
+   - Na ação Centro de Conformidade do Microsoft 365 <https://compliance.microsoft.com> em , vá para **Alertas**. Em vez disso, para ir diretamente para **a página Alertas,** utilize <https://compliance.microsoft.com/compliancealerts> .
    - No portal Microsoft 365 Defender, em <https://security.microsoft.com> , vá para **Incidentes e &** \> **alertas**. Em vez disso, para ir diretamente para **a página Alertas,** utilize <https://security.microsoft.com/alerts> .
 2. Clique num alerta para apresentar uma página de voo com informações sobre o alerta.
 

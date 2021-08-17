@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9003019"
 - "5777"
-ms.openlocfilehash: a7d4bd596c12609385b35d520dd1179a8c4a49b8f3d9e630ff6c3cf1acaae761
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c8c82257467a484205c4fcbb218b2441244915f943ed8d984c9d41767c676d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059417"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894034"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Cancelar Proteção Avançada Contra Ameaças
 
@@ -27,9 +27,9 @@ Os administradores podem cancelar a subscrição da Proteção Avançada Contra 
 
 1. Vá para a página **Faturação**  >  [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.
 2. No **separador** Produtos, procure o plano Proteção Avançada Contra Ameaças que pretende cancelar. Selecione os três pontos (mais ações) e, em **seguida, selecione Cancelar subscrição**.
-3. No painel **Cancelar subscrição,** escolha um motivo pelo qual está a cancelar. Opcionalmente, forneça feedback.
+3. No painel **Cancelar subscrição,** escolha uma razão pela qual está a cancelar. Opcionalmente, forneça feedback.
 4. Seleccione **Guardar**.
 
 **Reembolso:** Qualquer crédito profissional ser-lhe-à devolvido no próximo ciclo de faturação.
 
-Para saber mais, consulte [Cancelar a sua subscrição](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Para saber mais, consulte [Cancelar a sua subscrição](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

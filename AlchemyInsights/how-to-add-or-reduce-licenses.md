@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 299aca30aa9fdd8fae803f3874b2600483bfc058c128f9e87e4898a69f4505c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ff0ddcba4212697685dd71360532c89e27815f8d96aeced8f36c7416bdbebf64
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501827"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892206"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Adicionar ou remover licenças para a sua subscrição
 
@@ -32,10 +32,10 @@ ms.locfileid: "54501827"
 4. Para comprar ou remover  licenças, em Nova quantidade na caixa Total de **licenças,** introduza o número total de licenças que pretende para esta subscrição. Por exemplo, se tiver 100 licenças e quiser adicionar mais 25, introduza 125. Se quiser remover 25 licenças, introduza 75.
 5. Seleccione **Guardar**.
 
-Para obter informações sobre como atribuir licenças, consulte [Atribuir licenças a utilizadores.](/microsoft-365/admin/manage/assign-licenses-to-users)
+Para obter informações sobre como atribuir licenças, consulte [Atribuir licenças a utilizadores.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 **Recursos**
   
-- [Comprar ou remover licenças](/microsoft-365/commerce/licenses/buy-licenses)
-- [Cancelar o Microsoft 365 para empresas](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [Experimentar ou comprar uma subscrição Microsoft 365 para empresas](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Comprar ou remover licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Cancelar o Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Experimentar ou comprar uma subscrição Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

@@ -15,17 +15,17 @@ ms.custom:
 - "9006502"
 - "6950"
 - "11143"
-ms.openlocfilehash: 2cd50e5b737796ed778571e5fddfb48b3b20a4e745938fc09836525a47ba2b72
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7f4725323a30da42521c95c2f6ee8c72a1671150f251da193199d140f17beb66
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54037187"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892394"
 ---
 # <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Ver o estado de gestão das aplicações da Microsoft através do Microsoft Edge para dispositivos iOS ou Android
 
-Para aceder aos registos de aplicações para utilizar na remoção de problemas das suas aplicações geridas para iOS ou Android, abra o Microsoft Edge e escreva **about:intunehelp** na caixa de endereço. Microsoft Edge inicia no modo de resolução de problemas.
+Para aceder aos registos de aplicações para utilizar na remoção de problemas das suas aplicações geridas para iOS ou Android, abra o Microsoft Edge e escreva **about:intunehelp** na caixa de endereço. Microsoft Edge inicia em modo de resolução de problemas.
 
-Para ver uma lista das definições armazenadas nos registos da aplicação, consulte Rever registos de proteção de aplicações [cliente.](/mem/intune/apps/app-protection-policy-settings-log)
+Para ver uma lista das definições armazenadas nos registos da aplicação, consulte Rever registos de proteção de aplicações [cliente.](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log)
 
-Para saber como ver registos de aplicações em dispositivos Android, consulte Carregar [registos de e-mail.](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)
+Para saber como ver registos de aplicações em dispositivos Android, consulte Carregar [registos de e-mail.](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)

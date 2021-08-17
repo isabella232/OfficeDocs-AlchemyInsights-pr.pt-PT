@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "87"
 - "1400001"
-ms.openlocfilehash: 23f136bdadcb892356c6faf8fd8ae8481aa8ff83
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 132ae114cac8c2ae1af7495c960b962fadd547522c03b9887f9bde481fff4bba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686933"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893966"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Quer cancelar a Microsoft 365 subscrição?
 
@@ -29,8 +29,8 @@ Com base nos dados da sua organização, parece que todas as suas subscrições 
 
 1. Remova licenças de utilizadores até ter menos de 25 utilizadores licenciados.
 2. Vá para a página **Faturação** \> **[dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos.
-3. No **separador Produtos,** localcione a subscrição que pretende cancelar, selecione as remarcas (mais ações) e, em seguida, **selecione Cancelar subscrição**.
+3. No **separador Produtos,** localcione a subscrição que pretende cancelar, selecione as retas (mais ações) e, em seguida, **selecione Cancelar subscrição**.
 
 **Reembolso:** Qualquer crédito profissional ser-lhe-à devolvido no próximo ciclo de faturação.
 
-Para saber mais, consulte [Cancelar a sua subscrição](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Para saber mais, consulte [Cancelar a sua subscrição](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

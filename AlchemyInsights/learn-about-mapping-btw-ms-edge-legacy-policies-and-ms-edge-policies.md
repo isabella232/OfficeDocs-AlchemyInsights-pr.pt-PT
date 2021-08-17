@@ -1,5 +1,5 @@
 ---
-title: Saiba mais sobre mapeamento entre as políticas do Microsoft Edge Legacy e as políticas do Microsoft Edge
+title: Saiba mais sobre mapeamento entre Microsoft Edge Legado e políticas Microsoft Edge dados
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "9003843"
 - "7095"
-ms.openlocfilehash: f9d65c043ee726fa110b09d38cdd4ee6b72c2d7b
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 6891f2d0ee2b1fe4893d5b6173737f8ba20e2d50ef68e51a764e5f9f1fc7f790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573594"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087399"
 ---
-# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Saiba mais sobre mapeamento entre as políticas do Microsoft Edge Legacy e as políticas do Microsoft Edge
+# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Saiba mais sobre mapeamento entre Microsoft Edge Legado e políticas Microsoft Edge dados
 
-As políticas de grupo do Microsoft Edge Legacy (versões 45 e anteriores) e o mapa de definições de Gestão de Dispositivos Móveis (MDM) para as políticas relevantes da versão 80 do Microsoft Edge. Para saber mais, consulte [o Microsoft Edge Legacy para o mapeamento de políticas do Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2141665)
+As Políticas de Grupo do Microsoft Edge Legado (versões 45 e anteriores) e as definições de Gestão de Dispositivos Móveis (MDM) mapeiam as políticas relevantes do Microsoft Edge 80. Para saber mais, consulte [o Microsoft Edge Legado a Microsoft Edge de políticas](https://go.microsoft.com/fwlink/?linkid=2141665).

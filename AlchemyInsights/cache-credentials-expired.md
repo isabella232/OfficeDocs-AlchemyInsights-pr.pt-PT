@@ -1,5 +1,5 @@
 ---
-title: 'Erro: Não podemos carregar ou descarregar as suas alterações porque as suas credenciais em cache expiraram'
+title: 'Erro: não é possível carregar ou transferir as suas alterações porque as suas credenciais expiraram'
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -12,22 +12,22 @@ ms.collection: ''
 ms.custom:
 - "3534"
 - "9001489"
-ms.openlocfilehash: 8105fa7b311bc932f95c8bff4d6b58ed9aabe74a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 623c2f1175ed2ab9638e742521395fe62ba9cad9d21b517f17426fb5c96a2d73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734490"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059453"
 ---
-# <a name="error-we-cant-upload-or-download-your-changes-because-your-cached-credentials-have-expired"></a>Erro: Não podemos carregar ou descarregar as suas alterações porque as suas credenciais em cache expiraram
+# <a name="error-we-cant-upload-or-download-your-changes-because-your-cached-credentials-have-expired"></a>Erro: não é possível carregar ou transferir as suas alterações porque as suas credenciais expiraram
 
-Ao guardar ficheiros para a aplicação OneDrive, se receber um erro que contenha a frase **"as suas credenciais em cache expiraram",** execute os seguintes passos:
+Ao guardar ficheiros na aplicação OneDrive, se receber uma mensagem de erro que contenha a expressão **"as credenciais em cache expiraram",** efetue os seguintes passos:
 
-1. Feche todas as candidaturas do Office.
-1. Abra o Gestor credencial e escreva o **gestor credencial** na caixa de pesquisa na barra de tarefas e, em seguida, selecione o **painel de Controlo do Gestor credencial**.
-1. Selecione **credenciais do Windows**.
-1. Encontre qualquer entrada que comece com a palavra **OneDrive**.
-1. Selecione a entrada e, em seguida, prima **Remover**.
-1. Feche o Gestor credencial, clique à direita na nuvem azul no seu systray e selecione **Close OneDrive**.
-1. Digite **OneDrive** na caixa de pesquisa na barra de tarefas e selecione **a App OneDrive** para lançar o OneDrive.
-1. Inscreva-se no OneDrive e tente guardar o ficheiro para o OneDrive.
+1. Feche todas as Office aplicações.
+1. Abra o Gestor de Credenciais e escreva gestor de **credenciais** na caixa de pesquisa na barra de tarefas e, em seguida, selecione Painel de Controlo do Gestor de **Credenciais.**
+1. **Selecione Windows credenciais**.
+1. Encontre todas as entradas que comecem com a **palavra OneDrive**.
+1. Selecione a entrada e, em seguida, **prima Remover.**
+1. Feche o Gestor de Credenciais e, em seguida, clique com o botão direito do rato na nuvem azul no seu systray e **selecione Fechar OneDrive**.
+1. Escreva **OneDrive na** caixa de pesquisa na barra de tarefas e selecione OneDrive **Aplicação** para iniciar OneDrive.
+1. Inscreva-OneDrive e, em seguida, tente guardar o ficheiro OneDrive.

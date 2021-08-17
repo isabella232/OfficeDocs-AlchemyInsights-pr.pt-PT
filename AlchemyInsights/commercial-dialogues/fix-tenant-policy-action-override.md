@@ -1,5 +1,5 @@
 ---
-title: Corrigir a política do arrendatário (sobreposição de ação)
+title: Corrigir política de inquilino (override de ação)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bc7ad8acd86c9d5b2f99ffdc6fe8a8b53e1fcb8b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748992"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896086"
 ---
-# <a name="fix-tenant-policy-action-override"></a>Corrigir a política do arrendatário (sobreposição de ação)
+# <a name="fix-tenant-policy-action-override"></a>Corrigir política de inquilino (override de ação)
 
-Uma política anti-correio publicitário não-correio eletrónico no seu inquilino afetou esta mensagem. Para rever a política, faça o seguinte:
+Uma das suas políticas antisspam afetou esta mensagem. Para rever as políticas, faça o seguinte:
 
-1. Vá ao [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143), e depois vá para a Política de **Gestão** de Ameaças  >    >  [Antisspam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Verifique se a **fonte de política** indica o seguinte:  **Add-Xheader/ModificarSubject/Redirect/Delete/No action/ BCC message**
+1. No portal Microsoft 365 Defender, em , vá para E-mail & políticas de <https://security.microsoft.com/>  \> **colaboração & Regras** \>  \> **contra ameaças Antisspam,** na **secção** Políticas.
 
-    Em caso afirmativo, no separador **'Personalizado',** verifique as definições da política que afetou a mensagem. É possível que as **definições Standard aplicadas** a todos os clientes da Exchange Online Protection afetassem a mensagem.
+   Para ir diretamente para a **página Políticas antisspam,** utilize <https://security.microsoft.com/antispam> .
 
-Para obter mais informações sobre as políticas de filtragem de spam, consulte [configurar as suas políticas de filtro de spam](https://go.microsoft.com/fwlink/?linkid=2101431).
+2. Na página Políticas **antisspam,** selecione a política ao clicar no nome da  política **(** Tipo é Política **antisspam** personalizada ou Nome é Política de receção Antisspam **(Predefinição).**
+3. Na panfleto de detalhes que é exibida, **selecione Editar ações** na **secção Ações.**
+4. Na secção Ações **de** mensagens, reveja os vereditos de **Spam, Spam** de alta confiança, Phishing e  **Phishing** de Confiança Alta para ver se algum dos seguintes valores está selecionado: 
+   - **Adicionar cabeçalho X**
+   - **Pré-abrir o assunto da mensagem com texto**
+   - **Redirecionar a mensagem para o endereço de e-mail**
+   - **Eliminar mensagem**
+   - **Sem ação**
+
+   É possível que as definições **Padrão aplicadas a** todos os Proteção do Exchange Online clientes afetaram a mensagem.
+
+Para obter mais informações, [consulte Configurar políticas antisspam na EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

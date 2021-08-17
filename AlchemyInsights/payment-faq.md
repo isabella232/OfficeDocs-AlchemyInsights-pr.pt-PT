@@ -14,19 +14,19 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 07db1df6bf3caec12b39ba7cdb012e02a389d9dd
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58310942"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895718"
 ---
 # <a name="payment-faq"></a>FAQ de Pagamentos
 
 Faça a gestão dos **pagamentos no centro de administração do Microsoft 365**.
 
-- Vá para **Opções > [os seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** para atribuir ou alterar os métodos de pagamento da subscrição.
-- Vá para **Opções > [métodos de pagamento para](https://go.microsoft.com/fwlink/p/?linkid=2018806)** adicionar, atualizar, substituir ou eliminar métodos de pagamento.
+- Vá para **Opções > [os seus produtos para](https://go.microsoft.com/fwlink/p/?linkid=842054)** atribuir ou alterar os métodos de pagamento da subscrição.
+- Vá para **Opções > [métodos de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806)** para adicionar, atualizar, substituir ou eliminar métodos de pagamento.
 
 - **Métodos de Pagamento** - Se pagar através de cartão de crédito ou conta bancária, o método de pagamento associado à(s) sua(s) subscrição(ões) será debitado dentro de poucos dias após a emissão da fatura. Se o pagamento falhar, atualize o seu método de pagamento. Para mais informações, consulte [Gerir métodos de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 

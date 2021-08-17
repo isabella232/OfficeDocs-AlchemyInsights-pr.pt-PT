@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029743"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895898"
 ---
 # <a name="expired-subscription"></a>Subscrição expirada
 
@@ -32,10 +32,10 @@ Parece que tem uma ou mais subscrições expiradas. Se quiser continuar com o se
 2. No **separador** Produtos, locale a subscrição que pretende reativar. Selecione os três pontos (mais ações) e, em **seguida, selecione Reativar esta subscrição**.
     > [!NOTE]
     > Se não vir a ligação **Reativar esta subscrição, ligue** para o suporte.
-3. No painel **Reativar esta subscrição,** selecione um método de pagamento na lista única ou selecione **Adicionar método de pagamento**.
+3. No painel **Reativar esta subscrição,** selecione um método de pagamento a partir da lista única ou selecione **Adicionar método de pagamento**.
 4. Seleccione **Guardar**.
 
-Para saber mais, consulte [Reativar a sua subscrição](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Para saber mais, consulte [Reativar a sua subscrição](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Fazer uma nova compra**
   
@@ -44,4 +44,4 @@ Para saber mais, consulte [Reativar a sua subscrição](/microsoft-365/commerce/
 3. Introduza o número de licenças de que precisa e selecione se quer pagar mensal ou anualmente. Selecione se quer atribuir licenças automaticamente a quem não tiver atualmente uma licença. Em seguida, **selecionar Saída agora.**
 4. Siga os restantes passos para concluir a finalização da saída.
 
-Para saber mais, consulte [Comprar outra subscrição.](/microsoft-365/commerce/buy-another-subscription)
+Para saber mais, consulte [Comprar outra subscrição.](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)

@@ -12,44 +12,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 8166a055d7a967faab83484619b443cc98239c7c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3f6e48b9d2f7562d74d60c2901759a7ab359e5c67bd4aa2d556d941a41ab680c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815626"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118605"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>Ativar a encriptação bitlocker com Intune
+# <a name="enabling-bitlocker-encryption-with-intune"></a>Ativar a encriptação do BitLocker com o Intune
 
-A Política de Proteção de Pontos Finais intune pode ser utilizada para configurar definições de encriptação bitlocker para dispositivos Windows. Para obter mais informações, consulte [as definições do Windows 10 (e posterior) para proteger os dispositivos que utilizam o Intune.](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)
+A Política de Proteção contra Pontos Finais do Intune pode ser utilizada para configurar as definições de encriptação do Bitlocker Windows dispositivos. Para obter mais informações, consulte [definições Windows 10 (e posterior) para proteger os dispositivos com o Intune.](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)
 
-Além da Política de Proteção de Pontos Finais, existe também um Relatório de Encriptação que fornece uma visão mais detalhada do estado de encriptação dos dispositivos. Este relatório pode ser acedido a partir do portal MEM no **Monitor > dispositivos**, e, em seguida, no relatório de [encriptação](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport)selecionado de **Configuração** .
+Além da Política de Proteção do Ponto Final, também existe um Relatório de Encriptação que fornece uma vista mais detalhada do estado de encriptação dos dispositivos. Este relatório pode ser acededo a partir do portal MEM em **Dispositivos > Monitor** e, em seguida, em **Configuração,** selecione Relatório de [encriptação](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
 
-Se descobrir que o Bitlocker não está ativado como esperado ou que o perfil utilizado para ativar o Bitlocker está num estado de erro, por favor reveja o relatório de encriptação para obter uma melhor compreensão do porquê do comportamento estar a ocorrer.
+Se achar que o Bitlocker não está ativado conforme esperado ou que o perfil que está a ser utilizado para ativar o Bitlocker se encontra num estado de erro, reveja o relatório de encriptação para compreender melhor por que motivo o comportamento está a ocorrer.
 
-Para obter detalhes sobre como interpretar o relatório, incluindo os vários valores de estado de encriptação, consulte [a encriptação do dispositivo Monitor com o Intune](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+Para encontrar detalhes sobre como interpretar o relatório, incluindo os vários valores de estado de encriptação, consulte Monitorizar a encriptação de [dispositivos com o Intune.](https://docs.microsoft.com/mem/intune/protect/encryption-monitor)
 
-Deve estar ciente de que muitos dispositivos mais recentes que executam a encriptação automática do Bitlocker do Windows 10, que é desencadeada sem a aplicação da política DOM. Isto pode ter impacto na aplicação da política se as definições não padrão forem configuradas. Consulte as seguintes FAQ para obter mais detalhes.
+Deve ter em atenção que muitos dispositivos mais novos a executar o Windows 10 suportam a encriptação automática do Bitlocker, que é ativada sem a aplicação de política MDM. Isto pode afetar a aplicação da política se estiverem configuradas predefinições que não sejam predefinições. Consulte as seguintes FAQ para mais detalhes.
 
-Para obter informações sobre problemas de resolução de problemas, consulte [as políticas bitLocker de resolução de problemas no Microsoft Intune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
+Para obter informações sobre a remoção de problemas com o bitlocker, consulte Remoção de políticas do [BitLocker Microsoft Intune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
 **FAQ**
 
-P: Que edições de encriptação do dispositivo de suporte do Windows utilizando a Política de Proteção de Pontos Finais?<br>
-R: As definições na Política de Proteção do Ponto Final intune são implementadas utilizando o [Bitlocker CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Nem todas as edições ou construções do Windows suportam o Bitlocker CSP. <br><br>
+P: Que edições de encriptação Windows dispositivo suportam a Política de Proteção contra Pontos Finais?<br>
+A: As definições na Política de Proteção contra Pontos Finais do Intune são implementadas através do [Bitlocker CSP.](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp) Nem todas as edições ou com builds do Windows suportam o Bitlocker CSP. <br><br>
 
-P: Como pode o Bitlocker ser ativado em dispositivos sem necessitar de interação do utilizador final?<br>
-R: Enquanto forem cumpridos os pré-requisitos necessários, é possível ativar bitlocker "Silent Encryption" através do Intune. Consulte os detalhes dos requisitos do dispositivo e as definições de política de exemplo para permitir a encriptação silenciosa no seguinte doc: [Ativar silenciosamente a encriptação bitlocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+P: Como é que o Bitlocker pode ser ativado em dispositivos sem ter de interagir com o utilizador final?<br>
+A: Desde que os pré-requisitos necessários sejam cumpridos, é possível ativar a Encriptação Silenciosa do Bitlocker através do Intune. Consulte os detalhes dos requisitos do dispositivo e exemplos de definições de política para ativar a encriptação silenciosa no seguinte doc: Ativar a Encriptação [bitlocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices)de forma silenciosa . <br><br>
 
-P: Se um dispositivo já estiver encriptado com o Bitlocker utilizando as definições padrão do SISTEMA para o método de encriptação e a resistência cifra (XTS-AES-128), aplicará uma política com diferentes configurações desencadeando automaticamente a reen encriptação da unidade com as novas definições?<br>
-R: Não. Para aplicar as novas definições de cifra, a unidade deve primeiro ser desencriptado.<br><br>
-**Nota:** Para os dispositivos que estão a ser matriculados com o Autopilot, a encriptação automática que ocorreria durante o OOBE não é ativada até que a política do Intune seja avaliada, o que permite que as definições baseadas em políticas sejam utilizadas em vez dos padrãos de SISTEMA.
+P: Se um dispositivo já estiver encriptado com o Bitlocker, utilizando as predefinições do SO para o método de encriptação e a força de cifrões (XTS-AES-128), irá aplicar uma política com definições diferentes aciona automaticamente a nova encriptação da unidade com as novas definições?<br>
+R: Não. Para aplicar as novas definições de cifrões, a unidade tem de ser decifrada primeiro.<br><br>
+**Nota:** Para os dispositivos inscritos com o Autopilot, a encriptação automática que ocorria durante o OOBE não é ativada até que a política do Intune seja avaliada, o que permite que as definições baseadas em políticas sejam utilizadas em vez das predefinições do SO.
  
-P: Se um dispositivo for encriptado como resultado da aplicação da política Intune, será desencriptado quando essa política for removida?<br>
-R: A remoção da política relacionada com a encriptação NÃO resulta na desencriptação das unidades configuradas.
+P: Se um dispositivo estiver encriptado como resultado da aplicação da política do Intune, será decifrado quando essa política for removida?<br>
+A: A remoção da política relacionada com encriptação NÃO resulta na decifração das unidade que foram configuradas.
  
-P: Porque é que a Intune Compliance Policy mostra que o meu dispositivo não tem o Bitlocker ativado, mesmo que seja?<br>
-R: A definição "Bitlocker ativada" na Política de Conformidade intune utiliza o cliente windows device Health Attestation (DHA). Este cliente só mede o estado do dispositivo na hora do arranque. Assim, se um dispositivo não tiver sido reiniciado desde que a encriptação Bitlocker foi concluída, o serviço de clientes DHA não reportará bitlocker como estando ativo.
+P: Por que motivo a Política de Conformidade do Intune mostra que o meu dispositivo não tem o Bitlocker ativado, apesar de estar?<br>
+A: A definição "Bitlocker ativado" na Política de Conformidade do Intune utiliza o cliente Windows Atestado de Estado de Funcionamento do Dispositivo (DHA). Este cliente só mede o estado do dispositivo no momento de arranque. Por isso, se um dispositivo não tiver sido reiniciado desde que a encriptação do Bitlocker foi concluída, o serviço de cliente DHA não reportará o Bitlocker como estando ativo.
  
  

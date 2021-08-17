@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: 5b1a2e169d6613d71ef52bcdf6bec2b5206dee2e486fddb150dd288d402a855f
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e479501eb0bd751d364b39ec75b8c8b990702e84
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502871"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314539"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Renovação pré-Microsoft 365 paga
 
@@ -29,8 +29,7 @@ ms.locfileid: "54502871"
 3. Na página detalhes da subscrição, na secção Definições **de subscrição** e pagamento, selecione **Prolongar data de fim.**
 4. Na página **renovar ou adicionar licenças de** utilizador, selecione Utilizar uma **chave** de produto nova e não utilizada e, em seguida, selecione **Seguinte**.
 5. Introduza a chave de produto e, em seguida, **selecione Seguinte.**
-    > [!NOTE]
-    > Se tiver mais do que uma chave de produto, pode selecionar **Adicionar outra chave de produto** para as introduzir.
+    **Nota:** se tiver mais do que uma chave de produto, pode selecionar **Adicionar outra chave de produto** para as introduzir.
 6. Reveja os detalhes da sua encomenda e, em seguida, **selecione Resgatar**.
 
-Para saber mais, consulte Adicionar licenças ou [prolongar uma subscrição paga com uma chave de produto.](/microsoft-365/commerce/licenses/add-licenses-using-product-key)
+Para saber mais, consulte Adicionar licenças ou [prolongar uma subscrição paga com uma chave de produto.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

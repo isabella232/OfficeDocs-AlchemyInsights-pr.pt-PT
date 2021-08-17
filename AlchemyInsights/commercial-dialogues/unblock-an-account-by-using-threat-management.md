@@ -13,17 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 742870fc586daa1f44c88f16405c7b14b5bd2f5000f7e13d396ad6d43829acbd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 38700b516887dd4789e826a02672b5cc5d8354b1cd0ff743ba321724903413ba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081441"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895018"
 ---
 # <a name="unblock-an-account-by-using-threat-management"></a>Desbloquear uma conta através da gestão de ameaças
 
-Eis como fazê-lo: 
+Eis como fazê-lo:
 
-1. Vá para o Centro [de conformidade Office 365 de & de Conformidade.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. **Selecione Revisão de Gestão**  >  **de ameaças**. Na **página** Rever, selecione **[Utilizadores Restritos](https://go.microsoft.com/fwlink/?linkid=2103514)**.
-1. Se a conta comprometida aparecer na lista, clique em **Desbloquear Conta**. A conta deverá conseguir enviar mensagens novamente, normalmente dentro de uma hora.
+1. Vá para o portal de Microsoft 365 Defender em <https://security.microsoft.com> \> **E-mail &** \> **Revisão de** \> **Colaboração, Utilizadores restritos.**
+
+   Para aceder diretamente à **página Utilizadores restritos,** utilize <https://security.microsoft.com/restrictedusers> .
+
+2. Se o utilizador estiver na lista, selecione o utilizador e, em seguida, selecione **Desbloquear**. Siga os passos no painel de panfleto e, em seguida, **selecione Sim** para confirmar.
+
+   A conta deverá conseguir enviar mensagens novamente, normalmente dentro de uma hora.
+
+Para obter mais informações, consulte [Remover utilizadores bloqueados do portal Utilizadores restritos.](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)

@@ -1,5 +1,5 @@
 ---
-title: Alterar o seu Microsoft 365 endereço de e-mail
+title: Alterar o seu Microsoft 365 endereço
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "11543"
 - "9001671"
-ms.openlocfilehash: 10b8e2aba5703cb4995eed521a1d57bbf272b564
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: 9428d8d5ffafb551e36a5da0b9231543143b5115404944806bed3e985aac8679
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52793854"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895278"
 ---
-# <a name="change-your-microsoft-365-address"></a>Alterar o seu Microsoft 365 endereço de e-mail
+# <a name="change-your-microsoft-365-address"></a>Alterar o seu Microsoft 365 endereço
 
-Para alterar os detalhes do endereço da sua organização, [consulte Alterar o endereço, contacto técnico e muito mais.](/microsoft-365/admin/manage/change-address-contact-and-more) Para alterar o endereço de faturação ou subscrição associado, consulte Alterar os endereços para faturação [do Microsoft 365 para empresas.](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses) 
+Para alterar os detalhes do endereço da sua organização, [consulte Alterar o endereço, contacto técnico e muito mais.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more) Para alterar o endereço de faturação ou subscrição associado, consulte Alterar os endereços para faturação [do Microsoft 365 para empresas.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses) 
 
-**Importante:** Não pode alterar o país, região, impostos, moeda de faturação ou a localização do centro de dados. Para alterar estas informações, tem de se inscrever para uma nova conta, escolher o país ou região pretendido e comprar uma nova subscrição. 
+**Importante:** não pode alterar o país, região, impostos, moeda de faturação ou a localização do centro de dados. Para alterar estas informações, tem de se inscrever para uma nova conta, escolher o país ou região pretendido e comprar uma nova subscrição. 

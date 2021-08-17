@@ -1,5 +1,5 @@
 ---
-title: Acesso a resolução de problemas Mensagens negadas
+title: Remoção de mensagens do Access Negado
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,21 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 3189fa61d28253569278024d4191ee63b917509f
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9acde72f82a27c9f2faa2cf4d0417374aa5a294234da96080dc0498d07639248
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707965"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085239"
 ---
-# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Acesso a resolução de problemas Mensagens negadas no Sharepoint/OneDrive Admin Center
+# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Remoção de mensagens do Access Negadas no SharePoint/OneDrive Centro de Administração
 
-Se estiver a receber uma mensagem de acesso negada ao tentar navegar para um Sharepoint/OneDrive Admin Center, certifique-se de que [atribui uma licença ao utilizador](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). Se o utilizador tiver uma licença, deve também certificar-se de que lhes é [atribuída uma função de administrador](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) que pode aceder aos centros de administração.
+Se estiver a receber uma mensagem de acesso negado ao tentar navegar para um Centro de Administração do SharePoint/OneDrive, certifique-se de que atribui uma licença ao [utilizador.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) Se o utilizador tiver uma licença, também [](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) deverá certificar-se de que lhe é atribuída uma função de administrador que pode aceder aos centros de administração.
 
-Este problema também pode ocorrer quando um utilizador é eliminado e recriado com o mesmo nome principal do utilizador (UPN). A nova conta é criada utilizando um valor puid diferente (Passport Unique ID). Quando o utilizador tenta aceder a uma coleção de sites ou ao seu OneDrive, o utilizador tem um PUID incorreto. Um segundo cenário envolve a sincronização do diretório com uma unidade organizacional ative directy (OU). Se os utilizadores já se inscreveram no SharePoint, e depois forem transferidos para um OU diferente e resincamados com o SharePoint, poderão experimentar este problema.
+Este problema também pode ocorrer quando um utilizador é eliminado e recriado com o mesmo nome principal de utilizador (UPN). A nova conta é criada utilizando um valor PUID (Passaporte Exclusivo ID) diferente. Quando o utilizador tenta aceder a uma coleção de site ou à sua OneDrive, o utilizador tem um PUID incorreto. Um segundo cenário envolve a sincronização de diretórios com uma unidade organizacional do Active Directory (OU). Se os utilizadores já têm a sua primeira ação e, em seguida, foram movidos para um OU diferente e voltarem a silhá-lo com o SharePoint, poderão detetá-lo.
 
-Para resolver este problema, deverá restaurar a UPN original com os passos do artigo, [Restaurar um utilizador na Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+Para resolver este problema, deve restaurar o UPN original com os passos no artigo [Restaurar um utilizador no Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
 
-Nota: Se um centro de administração OneDrive ou SharePoint não estiver disponível para vários utilizadores que tenham tido acesso anteriormente, pode haver um problema de serviço temporário.  [Verifique o painel de saúde do serviço.](https://portal.office.com/adminportal/home#/servicehealth)
+Nota: Se um OneDrive de Administração do SharePoint ou um Administrador do SharePoint não estiver disponível para múltiplos utilizadores que tinham acesso anteriormente, poderá haver um problema de serviço temporário.  [Verifique o dashboard do estado de vida do serviço.](https://portal.office.com/adminportal/home#/servicehealth)
 
 

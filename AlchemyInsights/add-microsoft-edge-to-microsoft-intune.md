@@ -1,5 +1,5 @@
 ---
-title: Adicione o Microsoft Edge ao Microsoft Intune
+title: Adicionar Microsoft Edge a Microsoft Intune
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,37 +13,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "8240"
 - "9004604"
-ms.openlocfilehash: d56c65910d1c2170d3e0ce9676e913663701db96
-ms.sourcegitcommit: 03378c78eadac5d950802dcbacc328bca3314032
+ms.openlocfilehash: 7cfc2279acf18a7cb6fab89befc8ef1ccc7a4be7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194572"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315135"
 ---
-# <a name="add-microsoft-edge-to-microsoft-intune"></a>Adicione o Microsoft Edge ao Microsoft Intune
+# <a name="add-microsoft-edge-to-microsoft-intune"></a>Adicionar Microsoft Edge a Microsoft Intune
 
-Para poder implementar, configurar, monitorizar e proteger o Microsoft Edge para o Windows 10, tem primeiro de o adicionar ao Microsoft Intune.
+Para poder implementar, configurar, monitorizar e proteger Microsoft Edge para Windows 10, primeiro tem de adicioná-la ao Microsoft Intune.
 
-> [!IMPORTANT]
-- Intune suporta as versões Microsoft Edge 77 e posteriores.
-- A Intune detetará quaisquer instalações pré-existentes do Microsoft Edge.
-- Se o Microsoft Edge for instalado no contexto do utilizador, uma instalação do sistema substituirá a instalação no contexto do utilizador.
-- Se o Microsoft Edge for instalado em contexto de sistema, o sucesso da instalação será reportado.
-- As versões pré-instaladas do Microsoft Edge 77 e posteriores, para todos os canais em contexto de utilizador, serão substituídas com o Microsoft Edge instalado em contexto de sistema.
+> **Importante:**
+- O Intune suporta Microsoft Edge 77 e versões posteriores.
+- O Intune irá detetar quaisquer instalações pré-Microsoft Edge.
+- Se Microsoft Edge instalado no contexto do utilizador, uma instalação do sistema irá sobrecarregar a instalação no contexto do utilizador.
+- Se Microsoft Edge instalado no contexto do sistema, o êxito da instalação será comunicado.
+- As versões Microsoft Edge 77 e posteriores pré-instaladas para todos os canais no contexto de utilizador serão Microsoft Edge instaladas no contexto do sistema.
 
 **Pré-requisito**
 
-Versões 1709 ou posterior do Windows 10
+Windows 10 versão 1709 ou posterior
 
-**Passos para adicionar Edge ao Intune**
+**Passos para adicionar o Edge ao Intune**
 
-1. [Configure a aplicação em Intune](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
-2. [Configure a informação da aplicação.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
-3. [Configure as definições da aplicação](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
-4. [Selecione as etiquetas de âmbito (opcional)](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
-5. [Adicione a aplicação.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
+1. [Configure a aplicação no Intune](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
+2. [Configure as informações da aplicação.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
+3. [Configure as definições da aplicação.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
+4. [Selecione as etiquetas de âmbito (opcional).](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
+5. [Adicione a aplicação](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
 
-Para obter mais ajuda, consulte [a resolução de problemas.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
+Para mais ajuda, consulte [Remoção de Problemas.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
 
 
 

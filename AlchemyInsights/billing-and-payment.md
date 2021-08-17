@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893066"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314927"
 ---
 # <a name="billing-and-payment"></a>Faturação e pagamento
 
@@ -46,8 +46,7 @@ Se adicionou um novo cartão e continua a receber uma notificação de recusa no
 
 4. Para utilizar um método de pagamento existente, selecione um na lista pendente e, em seguida, a opção **Substituir**.
 
-    > [!NOTE]
-    > Se tiver subscrições associadas a um perfil de faturação, apenas pode utilizar um cartão de crédito ou de débito para pagar as mesmas. Se tiver contas bancárias listadas na página **Métodos de pagamento**, estas não estão disponíveis para serem selecionadas na lista pendente.
+    **Nota:** se tiver subscrições associadas a um perfil de faturação, só poderá utilizar um cartão de crédito ou de débito para pagar as mesmas. Se tiver contas bancárias listadas na página **Métodos de pagamento**, estas não estão disponíveis para serem selecionadas na lista pendente.
 
 5. Para adicionar um novo método de pagamento, selecione **Adicionar método de pagamento**.
 

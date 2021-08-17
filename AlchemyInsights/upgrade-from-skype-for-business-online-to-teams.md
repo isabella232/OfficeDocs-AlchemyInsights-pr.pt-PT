@@ -1,5 +1,5 @@
 ---
-title: Upgrade do Skype para Business Online para Equipas
+title: Atualizar do Skype para Empresas Online para o Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2693"
-ms.openlocfilehash: 6febce6559b697261c1a8dc3d72a39df2fb80652
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8e1c292a415794c65cf6efa1f5f335be627759db64a6aa7b4918f05436502fd0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827335"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073575"
 ---
-# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Upgrade do Skype para Business Online para Equipas  
+# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Atualizar do Skype para Empresas Online para o Teams  
 
-Siga as orientações no artigo abaixo se implementou o Skype para o Business Online e pretende atualizar os seus utilizadores do Skype para business para Teams. Pode atualizar os utilizadores em fases ou todas de uma vez, com base na jornada de upgrade que a sua organização escolheu, atribuindo o modo de coexistência e upgrade adequados aos seus utilizadores.
+Siga as orientações no artigo abaixo se tiver implementado o Skype para Empresas Online e quiser atualizar os seus utilizadores de Skype para Empresas para Teams. Pode atualizar os utilizadores por fases ou todos de uma só vez, com base na jornada de atualização que a sua organização escolheu, ao atribuir a coexistência e o modo de atualização adequados aos seus utilizadores.
 
-[Upgrade do Skype para Business Online para Equipas](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 
+[Atualizar do Skype para Empresas Online para o Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 

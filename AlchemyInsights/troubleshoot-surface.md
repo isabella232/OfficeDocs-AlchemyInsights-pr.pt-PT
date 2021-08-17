@@ -1,5 +1,5 @@
 ---
-title: Superfície de resolução de problemas
+title: Remoção de Problemas do Surface
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "10024"
 - "9003951"
-ms.openlocfilehash: e1fda7763502a4a816874e1ab44d6f8215a21be9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: MT
+ms.openlocfilehash: 7c90dd73c4c552b1e83f494daee0838639ee4e61abf97d5d576f88ded9a4c631
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51837473"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038897"
 ---
-# <a name="troubleshoot-surface"></a>Superfície de resolução de problemas
+# <a name="troubleshoot-surface"></a>Remoção de Problemas do Surface
 
-O Microsoft Support publicou uma variedade de soluções para ajudar os utilizadores a diagnosticar e corrigir problemas com os seus dispositivos Surface. A primeira coisa a fazer é certificar-se de que o seu dispositivo tem as últimas atualizações. Para saber mais, consulte [os controladores de superfície e o firmware.](https://docs.microsoft.com/surface/support-solutions-surface#surface-drivers-and-firmware)
+O Suporte da Microsoft publicou várias soluções para ajudar os utilizadores a diagnosticar e a corrigir problemas com os respetivos dispositivos Surface. A primeira coisa a fazer é certificar-se de que o seu dispositivo tem as atualizações mais recentes. Para saber mais, consulte [Controldores de superfície e firmware.](https://docs.microsoft.com/surface/support-solutions-surface#surface-drivers-and-firmware)
 
-Se o ecrã estiver rachado ou riscado, contacte [o Suporte ao Superfície](https://docs.microsoft.com/surface/contact-surface-support?tabs=online).
+Se o seu ecrã estiver rachado ou rachado, contacte o [Suporte do Surface](https://docs.microsoft.com/surface/contact-surface-support?tabs=online).
 
-Se o seu dispositivo estiver atualizado e o ecrã não estiver danificado, selecione um dos seguintes para resolução de problemas:
+Se o seu dispositivo estiver actualizado e o seu ecrã não estiver danificado, selecione uma das seguintes ações para a remoção de problemas:
  
-- [Problemas da Doca de Superfície](https://docs.microsoft.com/surface/support-solutions-surface#surface-dock-issues)
+- [Problemas da Surface Dock](https://docs.microsoft.com/surface/support-solutions-surface#surface-dock-issues)
  
-- [Problemas de cobertura ou teclado do dispositivo](https://support.microsoft.com/sbs/surface/troubleshoot-your-surface-type-cover-or-keyboard-5b7ed1a7-bedd-5164-94a7-87f8e95df3fe?)
+- [Problemas com a capa ou teclado do dispositivo](https://support.microsoft.com/sbs/surface/troubleshoot-your-surface-type-cover-or-keyboard-5b7ed1a7-bedd-5164-94a7-87f8e95df3fe?)
  
-- [Problemas de potência de superfície ou bateria](https://docs.microsoft.com/surface/support-solutions-surface#surface-power-or-battery-issues)
+- [Problemas de energia ou bateria do Surface](https://docs.microsoft.com/surface/support-solutions-surface#surface-power-or-battery-issues)
  
-- [Questões de implantação](https://docs.microsoft.com/surface/support-solutions-surface#deployment-issues)
+- [Problemas de implementação](https://docs.microsoft.com/surface/support-solutions-surface#deployment-issues)
  
-- [Dispositivo de reset](https://docs.microsoft.com/surface/support-solutions-surface#reset-device)
+- [Repor dispositivo](https://docs.microsoft.com/surface/support-solutions-surface#reset-device)
 
-Se o seu problema não estiver listado aqui, contacte [o Suporte de Superfície](https://docs.microsoft.com/surface/contact-surface-support?tabs=online).
+Se o seu problema não estiver listado aqui, contacte o [Suporte do Surface.](https://docs.microsoft.com/surface/contact-surface-support?tabs=online)
 

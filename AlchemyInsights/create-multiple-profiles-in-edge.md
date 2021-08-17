@@ -1,5 +1,5 @@
 ---
-title: Criar vários perfis no Microsoft Edge
+title: Criar múltiplos perfis no Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,22 +14,22 @@ ms.custom:
 - "6976"
 - "9004596"
 - "8216"
-ms.openlocfilehash: 0c67e8e82199a40f820292fa7473d10a260c1367
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 6202e1aae10fd9a55c20748b7cd34588056fde45f1c4d5c429da651f7a9bb6a7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897022"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103419"
 ---
-# <a name="create-multiple-profiles-in-microsoft-edge"></a>Criar vários perfis no Microsoft Edge
+# <a name="create-multiple-profiles-in-microsoft-edge"></a>Criar múltiplos perfis no Microsoft Edge
 
-Os perfis permitem que vários utilizadores operem num ambiente partilhado, mantendo o acesso às suas configurações personalizadas de navegador, marcadores e extensões. Para adicionar vários perfis no Microsoft Edge, siga estes passos:
+Os perfis permite que múltiplos utilizadores operam num ambiente partilhado ao mesmo tempo que mantém o acesso às definições, aos marcadores e às extensões do browser personalizados. Para adicionar múltiplos perfis no Microsoft Edge, siga estes passos:
 
-1. Iniciar o Microsoft Edge.
-    - Se não estiver inscrito, selecione o ícone de perfil > **Iniciar sessão**. Isto irá levá-lo automaticamente para a página **de definições de perfil Gerir.**
-    - Se estiver inscrito, selecione o ícone de perfil > **Gerir as definições de perfil**.
-2. Selecione **Profile > + Adicionar perfil > Adicionar**.
-3. Selecione **Iniciar sing para sincronizar dados** para ligar a uma conta existente.
-4. Selecione **Sim** para ligar a sincronização de entrada e, em seguida, selecione **Confirmar**.
+1. Inic Microsoft Edge.
+    - Se não tiver a sua assinatura, selecione o ícone de perfil > **Em seguida, Inicie a ação**. Esta ação irá levá-lo automaticamente para **a página Gerir definições de** perfil.
+    - Se tiver a sua assinatura, selecione o ícone de perfil > **Gerir definições de perfil**.
+2. **Selecione Perfil > + Adicionar perfil > Adicionar**.
+3. **Selecione Sign in to sync data** to connect to an existing account.
+4. **Selecione** Sim para acionar a sincronização de sinalização e, em seguida, selecione **Confirmar.**
 
     O perfil adicional está agora disponível para utilização.

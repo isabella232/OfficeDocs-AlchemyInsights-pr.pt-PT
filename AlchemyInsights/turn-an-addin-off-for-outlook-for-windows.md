@@ -1,5 +1,5 @@
 ---
-title: Desativar um add-in para o Outlook for Windows?
+title: Deslige um add-in para Outlook para Windows?
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -12,21 +12,21 @@ ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "9003117"
 - "5896"
-ms.openlocfilehash: aa768a0c4b5672088ef68feedc803b4775e9dc2e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5f76ce38552c9b305acec4a8ddfea1ee7ae5a0016bf8c67aed1d7e7c2c3449b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47803894"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038744"
 ---
-# <a name="turn-an-add-in-off-for-outlook-for-windows"></a>Desativar um add-in para o Outlook para windows
+# <a name="turn-an-add-in-off-for-outlook-for-windows"></a>Deslige um add-in para Outlook para Windows
 
-Se não quiser utilizar um add-in do Outlook 2013 ou do Outlook 2016 para windows, pode desativá-lo para que não apareça nas suas mensagens.  
+Se não quiser utilizar um add-in no Outlook 2013 ou no Outlook 2016 para Windows, pode desatiná-lo para que este não apareça nas suas mensagens.  
 
-1. No Outlook, clique em **'Ficheiros > Gerencie os Add-ins'**.
-2. Clique  **em Gerir Add-ins**
-3. Dica: Isto abre o Outlook na web.
-4. Em Gerir os add-ins, na coluna Turn on, **desseleccionar a caixa para o add-in**  que pretende desligar.
-5. Ligar ou desligar add-ins
+1. No Outlook, clique **em Ficheiro > Gerir Adicionar.**
+2. Clique  **em Gerir Adicionar**
+3. Sugestão: esta ação Outlook na Web.
+4. Em Gerir add-ins, na coluna Ativos, desmarca a caixa do **add-in**  que pretende desligá-lo.
+5. Ateste ou deslige os add-ins
 
-Sugestão: Para voltar a ligar o add-in, verifique a mesma caixa.
+Sugestão: para voltar a a ligar o add-in, marque a mesma caixa.

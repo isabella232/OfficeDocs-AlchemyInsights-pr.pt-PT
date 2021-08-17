@@ -1,5 +1,5 @@
 ---
-title: Ferramenta de diagnóstico de serviço para Windows Virtual Desktop
+title: Ferramenta de diagnóstico de serviço para Windows Ambiente de Trabalho Virtual
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003893"
 - "6947"
-ms.openlocfilehash: c2e6f7fbcddc6721425840e87202a165cdb22664
-ms.sourcegitcommit: 87bf574162e536003164ff9af50005c5a7dce601
+ms.openlocfilehash: 58688e3216ba6777b1a4f76095bd39c81a2d2a8294e06b6bc61c7134f6d589f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680228"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052397"
 ---
-# <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>Ferramenta de diagnóstico de serviço para Windows Virtual Desktop
+# <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>Ferramenta de diagnóstico de serviço para Windows Ambiente de Trabalho Virtual
 
-O Windows Virtual Desktop (WVD) oferece uma ferramenta de diagnóstico que permite aos administradores identificar erros através de uma única interface. Esta ferramenta regista informações relacionadas com diagnósticos sempre que a WVD é usada por alguém que atribui um papel de WVD. Cada registo contém informações sobre o papel da WVD envolvida na atividade, as mensagens de erro que aparecem durante a sessão e a informação sobre o inquilino e utilizador. O Azure Log Analytics pode ser configurado para capturar o registo de atividade criado pela ferramenta de diagnóstico. Faça o seguinte:
+Windows O WVD (Virtual Desktop) oferece uma ferramenta de diagnóstico que permite aos administradores identificar erros através de uma única interface. Esta ferramenta regista informações relacionadas com diagnósticos sempre que o WVD é utilizado por alguém com uma função WVD atribuída. Cada registo contém informações sobre a função WVD envolvida na atividade, as mensagens de erro que são apresentadas durante a sessão e as informações sobre o inquilino e o utilizador. A Análise de Registos do Azure pode ser configurada para capturar o registo de atividade criado pela ferramenta de diagnóstico. Faça o seguinte:
 
-1. Crie um espaço de trabalho Log Analytics com o [portal Azure](https://go.microsoft.com/fwlink/?linkid=2129500) ou [Azure PowerShell](https://go.microsoft.com/fwlink/?linkid=2129501).
-1. [Ligue os computadores Windows ao Azure Monitor.](https://go.microsoft.com/fwlink/?linkid=2129913) Obtenha o ID do espaço de trabalho e a chave primária do seu espaço de trabalho. O assistente de configuração necessita desta informação para configurar corretamente o agente e garantir que pode comunicar com o Azure Monitor.
-1. [Empurre os dados de diagnóstico para o seu espaço de trabalho.](https://go.microsoft.com/fwlink/?linkid=2128284) Pode empurrar os dados de diagnóstico do seu inquilino WVD para o Log Analytics para o seu espaço de trabalho.
-1. [Identificar e diagnosticar problemas internos](https://go.microsoft.com/fwlink/?linkid=2128338) ou externos em relação à WVD.
+1. Crie uma área de trabalho da Log Analytics com o portal ou [com](https://go.microsoft.com/fwlink/?linkid=2129500) o [Azure PowerShell.](https://go.microsoft.com/fwlink/?linkid=2129501)
+1. [Ligação Windows para o Monitor do Azure.](https://go.microsoft.com/fwlink/?linkid=2129913) Obter o ID da Área de Trabalho e a Chave Primária da sua área de trabalho. O assistente de configuração precisa desta informação para configurar o agente corretamente e para garantir que consegue comunicar com o Monitor do Azure.
+1. [Empurrar os dados de diagnóstico para a sua área de trabalho](https://go.microsoft.com/fwlink/?linkid=2128284). Pode push diagnostics data from your WVD tenant to the Log Analytics for your workspace.
+1. [Identifique e diagnostice problemas](https://go.microsoft.com/fwlink/?linkid=2128338) internos ou externos em relação ao WVD.
 
-Para saber mais sobre a configuração da ferramenta de diagnóstico de serviço para WVD, consulte [Use Log Analytics para a funcionalidade de diagnóstico](https://go.microsoft.com/fwlink/?linkid=2128084).
+Para saber mais sobre como configurar a ferramenta de diagnóstico de serviço para o WVD, consulte o artigo Utilizar Análise de Registos para a [funcionalidade de diagnóstico.](https://go.microsoft.com/fwlink/?linkid=2128084)

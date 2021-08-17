@@ -12,20 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070371"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882578"
 ---
 # <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Configurar políticas Cofre Ligação no Microsoft Defender para Office 365
 
-Já é criada uma política Cofre predefinida para ligações no Microsoft Defender Office 365 para empresas. Para alterar as configurações:
+1. No portal Microsoft 365 Defender, em , vá para E-mail & políticas de <https://security.microsoft.com/> **colaboração** & Regras contra \>  \>  \> **ameaças Cofre Ligações**  na secção Políticas.
 
-1. Vá para o Centro [de conformidade Office 365 de & de Conformidade.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. **Selecione Política de**  >  **Gestão de Ameaças**. Na página **Política,** selecione [Microsoft Defender para Office 365 Cofre Links](https://go.microsoft.com/fwlink/?linkid=2101058).
-3. Na secção Políticas **que se aplicam a toda a organização, selecione Predefinido** e, em seguida, selecione o ícone **Editar.** 
-4. Na secção **Bloquear os seguintes URLs,** especifique um ou mais URLs que pretende impedir que as pessoas na sua organização visitem. Para saber mais, consulte ["Bloquear a seguinte lista de URLs" para Cofre Links](https://go.microsoft.com/fwlink/?linkid=2092123).
-5. Na caixa **Definições que se aplicam a conteúdos** exceto ao e-mail, selecione (ou des limpar) as opções que pretende utilizar. (Recomendamos que selecione todas as opções.)
-6. Seleccione **Guardar**.
+   Para ir diretamente para **a página Cofre ligações,** utilize <https://security.microsoft.com/safelinksv2> .
+
+2. Na página **Cofre Ligações,** eis um dos seguintes passos:
+   - Para adicionar uma nova política, selecione **+ Criar.** Será iniciado um assistente que o ajudará a definir as suas definições de política.
+   - Para editar uma política existente, selecione a política clicando no nome da política. Na lista de listas de detalhes que é exibida, selecione **Editar** na secção que contém as definições que pretende configurar.
+   - Para bloquear URLs do Cofre Proteção de ligações ou configurar definições para ligações do Cofre em aplicações do Office 365 suportadas, clique em Definições globais **,** configure as definições que pretende e, em seguida, clique em **Guardar**.
+
+3. Após rever as suas definições,  selecione Submeter (novo) ou **Guardar** (editar).
+
+Para mais informações, consulte os seguintes artigos:
+
+- [Configurar políticas Cofre Ligações no Microsoft Defender para Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- [Configurar definições globais para Cofre Links no Microsoft Defender para Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)

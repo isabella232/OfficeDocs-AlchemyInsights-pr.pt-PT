@@ -1,5 +1,5 @@
 ---
-title: Enviar Como Correio Ativado Pasta Pública em EXO
+title: Enviar Como Pasta Pública Com Ativação de Correio no EXO
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: ed62c6d7db0ae532f806ce4fdc48f42623bcd545
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 22aa3e8f46c2ff4f62cb520b9498041dffb9d3a3eb607d788cc97b10bf32dbb5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48461966"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052577"
 ---
-# <a name="sendas-mail-enabled-public-folder"></a>Envio de Correio Ativado Pasta Pública
+# <a name="sendas-mail-enabled-public-folder"></a>Enviar Como Pasta Pública Ativada por Correio
 
-O exemplo a seguir atribui permissões "Enviar As" para a pasta pública ativada por correio NewPF1 ao utilizador Jason.
+O exemplo seguinte atribui permissões "Enviar Como" para a pasta pública com correio ativado em NewPF1 ao utilizador Jason.
 
-Add-RecipientPermission -Identidade 'NewPF1' -Trustee "Jason" -AccessRights 'SendAs'
+Add-RecipientPermission -Identity 'NewPF1' -Trustee "Jason" -AccessRights 'SendAs'
 
-Para informações detalhadas sobre sintaxe e parâmetros consulte [atribuir permissões "Enviar Como" ou "Enviar em Nome" para pastas públicas ativadas por correio](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs).
+Para obter informações detalhadas sobre a sintaxe e os parâmetros, consulte Atribuir permissões "Enviar Como" ou "Enviar em Nome De" para pastas públicas com correio [ativado.](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs)
 

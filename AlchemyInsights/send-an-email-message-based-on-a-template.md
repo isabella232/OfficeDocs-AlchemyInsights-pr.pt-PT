@@ -1,5 +1,5 @@
 ---
-title: Envie uma mensagem de e-mail com base num modelo
+title: Enviar uma mensagem de e-mail com base num modelo
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003070"
 - "5830"
-ms.openlocfilehash: 0f7ce9cb8054c6e0960aab334ad47123320a0cde
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 1aa60a3be051194e3816e909ba25a32e98463a2179e94844869cd97a564548a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680108"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052649"
 ---
-# <a name="send-an-email-message-based-on-a-template"></a>Envie uma mensagem de e-mail com base num modelo
+# <a name="send-an-email-message-based-on-a-template"></a>Enviar uma mensagem de e-mail com base num modelo
 
-Para utilizar um modelo de mensagem de e-mail no Outlook Desktop, execute os seguintes passos:
+Para utilizar um modelo de mensagem de e-mail Outlook ambiente de trabalho, efetue os seguintes passos:
 
-1. Selecione **novos itens**  >  **Mais itens**  >  **Escolha Formulário.**
-2. Na caixa de diálogo **'Escolha' de Formulário,** em **Olhar para** dentro, clique **em Modelos de Utilizador no Sistema de Ficheiros**.
-3. A pasta de modelos predefinidos é aberta. A localização da pasta (no Windows 7 e nos sistemas operativos posteriores) é **c:\users\username\appdata\roaming\microsoft\templates**. Se o seu modelo for guardado numa pasta diferente, clique em procurar e, em seguida, **selecione** o modelo.
+1. **Selecione Novos Itens**  >  **Mais**  >  **Itens Selecione Formulário.**
+2. Na caixa **de diálogo Escolher** Formulário, em Procurar **Em, clique em** Modelos do Utilizador no Sistema de **Ficheiros**.
+3. A pasta de modelos predefinida é aberta. A localização da pasta (no Windows 7 e sistemas operativos posteriores) é **c:\users\username\appdata\roaming\microsoft\templates.** Se o seu modelo estiver guardado numa pasta diferente, clique em Procurar e, em seguida, selecione o modelo.
 4. Selecione o modelo e, em seguida, clique **em Abrir**.
-5. Então faça quaisquer adições ou revisões aos destinatários nas caixas **To**, **Cc** ou **Bcc** e quaisquer alterações ao assunto e ao corpo de mensagens.
+5. Faça adições ou revisões aos destinatários nas caixas **Para,** **Cc** ou **Bcc** e quaisquer alterações ao assunto e ao corpo da mensagem.
     > [!NOTE]
-    > As alterações efetuadas não são guardadas no modelo. Se utilizar o comando **Save,** isto cria um rascunho da sua mensagem, mas não atualiza o modelo. Para atualizar o modelo, siga os passos para guardar um novo modelo na [Criar um modelo de mensagem de correio eletrónico](https://support.microsoft.com/office/create-an-email-message-template-43ec7142-4dd0-4351-8727-bd0977b6b2d1).
+    > As alterações feitas não são guardadas no modelo. Se utilizar o comando **Guardar,** esta ação cria um rascunho da sua mensagem, mas não atualiza o modelo. Para atualizar o modelo, siga os passos para guardar um novo modelo em Criar um modelo [de mensagem de e-mail](https://support.microsoft.com/office/create-an-email-message-template-43ec7142-4dd0-4351-8727-bd0977b6b2d1).
 6. Clique em **Enviar**.

@@ -1,5 +1,5 @@
 ---
-title: Dicas sobre a recolha de mensagens
+title: Sugestões sobre como recordar mensagens
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 0e44d3c7c13511d2d5e3ad93eb9ca7c9786c8b2d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9a259f4036e9f24e5f03f5526426df82a6644f8db7e0ccafee8aaa37dcd0f552
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749779"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081477"
 ---
-# <a name="tips-about-recalling-messages"></a>Dicas sobre a recolha de mensagens
+# <a name="tips-about-recalling-messages"></a>Sugestões sobre como recordar mensagens
 
-Aqui está quando pode e não se lembra de mensagens:
+Eis quando pode ou não ressartar mensagens:
 
-* Como administrador, pode recordar mensagens em nome dos utilizadores utilizando o PowerShell. Não se lembra das mensagens do centro de administração.
-* Só se lembra de mensagens enviadas a pessoas da sua organização. Se a mensagem foi enviada para um endereço Gmail, por exemplo, não se lembra.
-* **Só é possível recordar as mensagens enviadas do Outlook 2016 para o PC**. Se um utilizador enviar uma mensagem utilizando o Outlook for Mac ou Outlook na web, não se pode lembrar dela.
+* Enquanto administrador, pode ressarmbrar mensagens em nome dos utilizadores através do PowerShell. Não é possível ressaltar mensagens a partir do centro de administração.
+* Só pode ressaltar mensagens enviadas para pessoas na sua organização. Se a mensagem tiver sido enviada para um endereço do Gmail, por exemplo, não se consegue ressaltar.
+* **Só pode ressartar mensagens enviadas a partir Outlook 2016 para o PC.** Se um utilizador enviar uma mensagem através do Outlook para Mac ou Outlook na Web, não é possível ressambrar a mensagem.

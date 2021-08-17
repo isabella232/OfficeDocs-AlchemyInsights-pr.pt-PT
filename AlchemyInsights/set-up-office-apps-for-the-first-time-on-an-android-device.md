@@ -1,5 +1,5 @@
 ---
-title: Configurar aplicativos office pela primeira vez num dispositivo Android
+title: Configurar aplicações Office pela primeira vez num dispositivo Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003965"
 - "7021"
-ms.openlocfilehash: 13adc48acc4dca8735115a7d4cbe57a76ea89df2
-ms.sourcegitcommit: 77d16f186ac95e85be2528c4756f0dac9368fe92
+ms.openlocfilehash: 0bf2156e5aedce40262c2b10ccaed0fbcd7c877c8709c6f2d68d20bdad7dd517
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722179"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073863"
 ---
-# <a name="set-up-office-apps-for-the-first-time-on-an-android-device"></a>Configurar aplicativos office pela primeira vez num dispositivo Android
+# <a name="set-up-office-apps-for-the-first-time-on-an-android-device"></a>Configurar aplicações Office pela primeira vez num dispositivo Android
 
-Num dispositivo Android, pode instalar o Office como uma aplicação móvel do Office que combina Word, Excel e PowerPoint numa única aplicação, ou pode instalar as aplicações do Office individualmente. Para fazer isto:
+Num dispositivo Android, pode instalar o Office como uma aplicação móvel do Office que combina o Word, Excel e PowerPoint numa única aplicação ou pode instalar as aplicações Office individualmente. Para o fazer:
 
-1. Abra uma aplicação do Office, como o Excel, inscreva-se na sua conta Microsoft e toque em **Next**.
-2. Toque **em Sim** ou **Não** para nos ajudar a melhorar a sua experiência móvel do Office e, em seguida, toque em **Ligar Notificações** para ativar alertas ou **não agora** para excluir.
+1. Abra um aplicação do Office, como o Excel, inscreva-se com a sua conta Microsoft e, em seguida, toque **em Seguinte.**
+2. Toque **em Sim** ou **Não para** nos ajudar a melhorar Office sua experiência móvel  e, em seguida, toque em Ativar Notificações para ativar **alertas** ou Em Agora Não para optar ativamente por não aparecer.
     > [!NOTE]
-    > Depois de iniciar sedutado, a sua conta é automaticamente adicionada às outras aplicações do Office instaladas no seu dispositivo Android.
-3. (Opcional) Para adicionar outra conta ou serviço na nuvem, como o OneDrive para negócios ou Dropbox, toque **em Abrir** Adicionar  >  **um Lugar**. Se estiver a utilizar o OneNote, toque em **Contas de**  >  **Definições** e, em seguida, selecione o serviço de cloud que pretende adicionar.
-4. Insira o endereço de e-mail e a palavra-passe que utiliza para iniciar sinsus nesse serviço. Está pronto para ir!
+    > Após entrar, a sua conta é automaticamente adicionada às outras aplicações Office instaladas no seu dispositivo Android.
+3. (Opcional) Para adicionar outra conta ou serviço em nuvem, como o OneDrive para empresas ou o Dropbox, toque **em Abrir** Adicionar  >  **um Local.** Se estiver a utilizar o OneNote, toque **Definições** Contas e, em seguida, selecione o  >  serviço em nuvem que pretende adicionar.
+4. Introduza o endereço de e-mail e palavra-passe que utiliza para entrar nesse serviço. Está tudo a seu favor!
 
-Para obter instruções sobre o download do Office para aplicações móveis ou individuais do Office, consulte [instalar e configurar o Office num Android](https://go.microsoft.com/fwlink/?linkid=2135287).
+Para obter instruções sobre como Office para dispositivos móveis ou aplicações Office individuais, consulte Instalar e [configurar aplicações Office num dispositivo Android.](https://go.microsoft.com/fwlink/?linkid=2135287)

@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "9277"
-ms.openlocfilehash: 826e266d08aa68c0d4213d8058a0244f404fe965
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 12751288d04a2ec5993bf4a546b7d0c862f8f171f5bfd7a337cb79cb95792056
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747049"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040841"
 ---
 # <a name="password-policies"></a>Políticas de palavra-passe
 
-**Estou tendo problemas com a política de senha para um utilizador**
+**Estou a ter problemas com a política de palavras-passe de um utilizador**
 
-- A política de palavra-passe para um utilizador depende se o utilizador é apenas na nuvem ou no local.
-- Apenas os utilizadores da Cloud devem escolher uma palavra-passe que cumpra os requisitos deste artigo: [Políticas de palavra-passe que se aplicam apenas às contas de utilizadores na nuvem](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#password-policies-that-only-apply-to-cloud-user-accounts)
-- No local, os utilizadores devem escolher uma palavra-passe que satisfaça os requisitos no local. Se um utilizador no local não conseguir definir a sua palavra-passe, verifique os seus requisitos no local.
+- A política de palavras-passe de um utilizador depende de se o utilizador é apenas na nuvem ou no local.
+- Apenas os utilizadores na nuvem têm de escolher uma palavra-passe que cumpre os requisitos neste artigo: Políticas de palavra-passe que só se aplicam a contas de [utilizador na nuvem](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#password-policies-that-only-apply-to-cloud-user-accounts)
+- Os utilizadores no local têm de selecionar uma palavra-passe que ender os requisitos no local. Se um utilizador no local não conseguir definir a palavra-passe, verifique os seus requisitos no local.
 
-**Não sei como definir ou verificar as políticas de validade da palavra-passe**
+**Não sei como definir ou verificar políticas de expiração de palavras-passe**
 
-- Pode definir e verificar a política de expiração para utilizadores de nuvem no seu inquilino utilizando o PowerShell. Siga as instruções deste artigo: [Desa estalhe ou verifique as políticas de palavra-passe utilizando o PowerShell](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#set-or-check-the-password-policies-by-using-powershell)
-- A política de expiração da palavra-passe para utilizadores no local está definida no seu AD no local.
+- Pode definir e verificar a política de expiração para utilizadores na nuvem no seu inquilino através do PowerShell. Siga as instruções neste artigo: Definir ou [verificar as políticas de palavra-passe através do PowerShell](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#set-or-check-the-password-policies-by-using-powershell)
+- A política de expiração de palavras-passe para utilizadores no local é definida no seu AD no local.
 
-**Outros links úteis:**
-- [Começar com reset de palavra-passe](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#set-or-check-the-password-policies-by-using-powershell)
-- [Reset de senha iniciado por resolução de problemas](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshoot-the-password-reset-portal)
+**Outras ligações úteis:**
+- [Começar a Repor Palavra-passe](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#set-or-check-the-password-policies-by-using-powershell)
+- [Reposição de Palavras-passe iniciada por Administradores](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshoot-the-password-reset-portal)

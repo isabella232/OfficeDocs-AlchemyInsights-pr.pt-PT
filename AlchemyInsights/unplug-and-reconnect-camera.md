@@ -1,5 +1,5 @@
 ---
-title: Desligue a câmara da ficha e reconecte a câmera
+title: Desligar e voltar a ligar a câmara
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 9c733c69b1430c9a5439caf99cf8f6fddff60ef5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 48b63bab69eac91942fc1b0f3fe63f6d004992bb49757de8df6e3bdcf9d447d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073755"
 ---
-# <a name="unplug-and-reconnect-camera"></a>Desligue a câmara da ficha e reconecte a câmera
+# <a name="unplug-and-reconnect-camera"></a>Desligar e voltar a ligar a câmara
 
-Lamento que não tenha dado certo. Se a câmara for uma câmara externa, desligar o dispositivo e voltar a ligar pode ajudar.
+Lamentamos que não tenha funcionado. Se a câmara for uma câmara externa, desligar o dispositivo e voltar a ligar poderá ajudar.
 
-Se esta é uma câmara incorporada, reiniciar o computador pode ajudar.
+Se for uma câmara incorporada, reiniciar o computador poderá ajudar.

@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: dab7eacb617c8f3a8bd63634e974166b6e448d75
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: ad743cea4b8735b35b90bd5bf3d0b5b933184ed82858e828a68beb2ca2f8270c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482306"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103563"
 ---
 # <a name="block-user-made-email-signatures"></a>Bloquear assinaturas de e-mail feitas pelo utilizador
 
-A seguinte solução aplica-se apenas às assinaturas de e-mail criadas no Outlook na web. Só é possível bloquear assinaturas na aplicação Outlook se tiver um Exchange Server no local.
+A seguinte solução aplica-se apenas às assinaturas de e-mail criadas no Outlook na Web. Só pode bloquear assinaturas na aplicação Outlook se tiver uma aplicação no Exchange Server.
 
-1. No centro de administração, escolha **Admin centers**  >  **Exchange**.
-2. Clique **em permissões**  >  **Outlook Web App policies**.
-3. Selecione a política e, em seguida, clique no ícone do lápis para editá-la.
+1. No centro de administração, **selecionar Centros de administração**  >  **Exchange**.
+2. Clique **em permissões**  >  **Outlook Web App políticas**.
+3. Selecione a política e, em seguida, clique no ícone de lápis para editá-la.
 4. Clique **em**  >  **funcionalidades Mais opções.**
-5. Sob **a experiência do Utilizador,** limpe a caixa de verificação de assinatura de **e-mail** e, em seguida, clique em **Guardar**.
+5. Em Experiência **do utilizador**, des limpar a caixa de **verificação Assinatura** de e-mail e, em seguida, clique em **Guardar**.
 
-**Importante:** Se uma assinatura foi adicionada antes de limpar esta caixa de verificação, o utilizador ainda poderá usá-la. Peça-lhes que o retirem.
+**Importante:** Se tiver sido adicionada uma assinatura antes de desmaiar esta caixa de verificação, o utilizador continuará a poder usá-la. Peça-lhes para o removerem.

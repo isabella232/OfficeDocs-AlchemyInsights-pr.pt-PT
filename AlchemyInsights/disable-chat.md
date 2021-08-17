@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: 65b1de3c7cde8d22fde803cbc12e076957fdfde79216236e16f22ad0ba2222ef
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 90c85197ab97764a68d10217123d7ff2d5857a8038a8f5aad44c0992063e4ef8
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929100"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890481"
 ---
 # <a name="disable-chat"></a>Desativar conversa
 
 Para ativar ou desativar o chat para a sua organização, pode criar políticas que lhe permitirão controlar que funcionalidades de chat e de mensagens de canal estão disponíveis. Existem várias formas de o fazer, dependendo de como precisa de configurar o chat.
 
-- **Reunião**: No centro de Teams de **reuniões,** vá para Políticas de reunião [-](https://admin.teams.microsoft.com/) a definição do chat é Permitir chat em reuniões . Para obter mais informações sobre como criar políticas de reunião personalizadas, consulte Gerir políticas [de reunião Teams](/microsoftteams/meeting-policies-in-teams) e Permitir chat em [reuniões.](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)
+- **Reunião**: No centro de Teams de **reuniões,** vá para Políticas de reunião [-](https://admin.teams.microsoft.com/) a definição do chat é Permitir chat em reuniões . Para obter mais informações sobre como criar políticas de reunião personalizadas, consulte Gerir políticas [de reunião Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) e Permitir chat em [reuniões.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)
 
-- **Mensagens: no** centro de administração do Teams, vá [](https://admin.teams.microsoft.com/)para Políticas de mensagens e altere a seleção do **chat** para Ativo ou **Desativo.** Para obter mais informações sobre políticas de mensagens personalizadas e sobre como atribuir políticas aos utilizadores, consulte Gerir políticas [de mensagens no Teams](/microsoftteams/messaging-policies-in-teams).
+- **Mensagens: no** centro de administração do Teams, vá [](https://admin.teams.microsoft.com/)para Políticas de mensagens e altere o chat Para Ativo **ou** Desativo.  Para obter mais informações sobre políticas de mensagens personalizadas e sobre como atribuir políticas aos utilizadores, consulte Gerir políticas de [mensagens no Teams](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams).
 
-- **Estudantes:** para desativar o chat de um estudante, consulte as opções para permitir chats em reuniões e para permitir uma conversa entre duas pessoas [no Teams pacotes](/microsoftteams/policy-packages-edu)de políticas e pacotes de políticas para a Educação.
+- **Estudantes:** para desativar o chat de um estudante, consulte as opções para permitir chats em reuniões e para permitir uma conversa entre duas pessoas [no Teams pacotes](https://docs.microsoft.com/microsoftteams/policy-packages-edu)de políticas e pacotes de políticas para a Educação.
 
-- Utilizadores Convidados: pode configurar as políticas de acesso de convidados para permitir que os convidados tenham acesso ao chat, que pode alternar entre Conversar por Chat Ativos **ou** **Desligados.** Para obter mais informações, [consulte Configurar o acesso de convidado no Teams de administração.](/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center)
+- Utilizadores Convidados: pode configurar as políticas de acesso de convidados para permitir que os convidados tenham acesso ao chat, que pode alternar entre Conversar por Chat Ativos **ou** **Desligados.** Para obter mais informações, [consulte Configurar o acesso de convidado no Teams de administração.](https://docs.microsoft.com/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center)
 
 
 

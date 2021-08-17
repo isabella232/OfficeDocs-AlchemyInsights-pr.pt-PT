@@ -12,20 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: 17f447a12013f5ace0e85b38d95937abcf9cc7d60afbeef8dddd1c3315eb3467
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 662bf9929ebe2dd7a13d6fe355760bfaff58103ae599949282f86da4b7e2a8e7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994732"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890533"
 ---
 # <a name="unblock-email"></a>Desbloquear e-mail
 
 Se a conta de e-mail de um utilizador estiver bloqueada para envio de spam, eis como o fazer novamente:
 
 1. Repor imediatamente a palavra-passe da conta *afetada.* Não envie a nova palavra-passe ao utilizador por e-mail. Isto impede que alguém aceda ao mesmo para enviar spam.
-2. Vá para o Centro & de Conformidade e veja se a conta está na lista [utilizadores restritos.](https://protection.office.com/#/restrictedusers)
-3. **Selecionar o** ícone Procurar e introduzir o nome de utilizador do utilizador restrito. Por exemplo, se o endereço de e-mail do utilizador *for rob@contoso.com*, introduza **tialo.**
-4. Se a conta estiver lá, selecione **Desbloquear**. Siga os passos no painel de panfleto e, em seguida, **selecione Sim** para confirmar.  
-    > [!NOTE]
-    > Uma vez desbloqueado, a conta deverá conseguir começar a enviar mensagens dentro de 3 a 4 horas.
+2. Vá para o portal Microsoft 365 Defender de Correio Eletrónico & Revisão de Colaboração: Utilizadores restritos para ver se a conta <https://security.microsoft.com> \>  \>  \>  está na lista. Se for necessário, utilize **a caixa** Procurar para encontrar o utilizador na lista.
+3. Se o utilizador estiver na lista, selecione o utilizador e, em seguida, selecione **Desbloquear**. Siga os passos no painel de panfleto e, em seguida, **selecione Sim** para confirmar.
+
+   > [!NOTE]
+   > Uma vez desbloqueado, a conta deverá conseguir começar a enviar mensagens dentro de 3 a 4 horas.
+
+Para obter mais informações, consulte [Remover utilizadores bloqueados do portal Utilizadores restritos.](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)

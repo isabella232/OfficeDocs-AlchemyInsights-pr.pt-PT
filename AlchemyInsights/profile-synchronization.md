@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: b223bad66fb7cc6d1d7c0a2b3ccc7a081c061b4974060dbcafec84dfb24eb782
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a841db70c238bdae58edfca634fe49a04ddce78a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53923655"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320720"
 ---
 # <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Quando é que as alterações ao meu perfil são sincronizados com a Aplicação de Perfis de Utilizador do SharePoint?
 
@@ -24,8 +24,7 @@ O SharePoint Online utiliza a tarefa de temporador de Importação do Active Dir
     
 2. A tarefa de temporizador é executada até que as alterações sejam sincronizados.
     
-> [!NOTE]
-> O tempo que demora a ser executado depende do número de alterações a processar. Um grande número de alterações demora mais tempo. O Contrato de Nível de Serviço (SLA) indica que uma alteração a um utilizador no Diretório do SharePoint Online será refletida na Aplicação de Perfis de Utilizador no prazo de 24 horas. 
+**Nota:** O tempo que se demora a executar a tarefa depende do número de alterações a processar. Um grande número de alterações demora mais tempo. O Contrato de Nível de Serviço (SLA) indica que uma alteração a um utilizador no Diretório do SharePoint Online será refletida na Aplicação de Perfis de Utilizador no prazo de 24 horas. 
   
 [Mais informações sobre a sincronização de perfis de utilizador no SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
   

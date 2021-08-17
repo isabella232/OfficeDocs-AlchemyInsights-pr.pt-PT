@@ -1,5 +1,5 @@
 ---
-title: Sincronização do serviço de domínio
+title: Sincronização de serviços de domínio
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "9003245"
 - "7922"
 - "7921"
-ms.openlocfilehash: b35d3a402bc08a27a818209385c5666b901fa524
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 95b5c3b768caf4b5d80a088a17a33facb39805fc766e4888586ae052d91681e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885567"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057869"
 ---
-# <a name="domain-service-synchronization"></a>Sincronização do serviço de domínio
+# <a name="domain-service-synchronization"></a>Sincronização de serviços de domínio
 
-Objetos e credenciais num domínio gerido por Azure Ative Directory Domain Services (Azure AD DS) podem ser criados localmente dentro do domínio, ou sincronizados a partir de um inquilino do Azure Ative Directory (Azure AD). Quando implementa pela primeira vez O AD DS, uma sincronização automática de sentido único é configurada e iniciada para replicar os objetos do Azure AD. Esta sincronização unidirecionais continua a ser executada em segundo plano para manter o domínio gerido Azure AD DS atualizado com quaisquer alterações a partir de Azure AD. Não ocorre sincronização desde Azure AD DS até Azure AD.
+Os objetos e credenciais num domínio gerido do Azure Active Directory Domain Services (Azure AD DS) podem ser criados localmente no domínio ou sincronizados a partir de um inquilino do Azure Active Directory (Azure AD). Quando implementa o Azure AD DS pela primeira vez, é configurada e iniciada uma sincronização única automática para replicar os objetos a partir do Azure AD. Esta sincronização única continua a ser executada em segundo plano para manter o domínio gerido do Azure AD DS actualizado com quaisquer alterações do Azure AD. Não ocorre sincronização a partir do Azure AD DS de volta para o Azure AD.
 
-Para obter mais detalhes sobre a sincronização do serviço de domínio do Azure Ative Directory, consulte [a Sincronização do Serviço de Domínio](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization). 
+Para obter mais detalhes sobre a Azure Active Directory de serviço de domínio, consulte Sincronização de [Serviços de Domínio.](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization) 

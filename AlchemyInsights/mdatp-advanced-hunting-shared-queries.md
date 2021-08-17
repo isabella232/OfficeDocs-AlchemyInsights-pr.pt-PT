@@ -1,5 +1,5 @@
 ---
-title: 9001220 mdatp consultas avançadas de caça compartilham
+title: 9001220 mdatp avançadas à procura de consultas partilhadas
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "3201"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 4f04b090208d41131fd6abc763b249f0f713e63a
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7f535f5aaa42071c81cbae5df51efba1a28fe070c13ef1bf21a78b23c10f6bbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48300044"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042137"
 ---
-# <a name="sharing-advanced-hunting-queries"></a>Partilha de consultas avançadas de caça
+# <a name="sharing-advanced-hunting-queries"></a>Partilhar consultas avançadas de procura
 
-Consultas avançadas de caça podem ser partilhadas entre os utilizadores na mesma organização. Também pode encontrar consultas partilhadas publicamente no GitHub. Estas consultas permitem-lhe rapidamente perseguir cenários específicos de caça a ameaças sem ter que escrever consultas do zero.
+As consultas avançadas à procura podem ser partilhadas entre utilizadores na mesma organização. Também pode encontrar consultas partilhadas publicamente no GitHub. Estas consultas permite-lhe seguir rapidamente cenários de procura de ameaças específicos sem ter de escrever consultas do zero.
   
-Para mais detalhes, consulte [use consultas partilhadas em caça avançada.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries)
+Para obter detalhes, consulte [Utilizar consultas partilhadas na procura avançada.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries)

@@ -1,5 +1,5 @@
 ---
-title: A bordo de um dispositivo não-Windows para o Microsoft Defender Advanced Threat Protection (MDATP)
+title: Inserir um dispositivo que não Windows para o Microsoft Defender Advanced Threat Protection (MDATP)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: de230abdc56d32780e70e5ae1bf95ac45e9252cc
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 228fe6a4514df4508dda7f7fbdfa650a439b38ef51abafa7936afa4ecfd54e04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748453"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081873"
 ---
-# <a name="onboard-a-non-windows-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>A bordo de um dispositivo não-Windows para o Microsoft Defender Advanced Threat Protection (MDATP)
+# <a name="onboard-a-non-windows-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>Inserir um dispositivo que não Windows para o Microsoft Defender Advanced Threat Protection (MDATP)
 
-Determinar se a versão Linux ou macOS do dispositivo é compatível com ODATP:
+Determine se a distribuição Linux do dispositivo ou a versão do macOS é compatível com mDATP:
 
 - [Requisitos para dispositivos Linux](https://go.microsoft.com/fwlink/?linkid=2143462)
 - [Requisitos para dispositivos macOS](https://go.microsoft.com/fwlink/?linkid=2143461)
-- [Dispositivos não Windows a bordo](https://go.microsoft.com/fwlink/?linkid=2143628)
+- [Dispositivos não Windows IU](https://go.microsoft.com/fwlink/?linkid=2143628)

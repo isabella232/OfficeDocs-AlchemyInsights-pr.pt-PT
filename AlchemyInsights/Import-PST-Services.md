@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 71d2eb88c6ef79952084ff74e63506f097562f7b181248cf9a83ddc56dbffb2a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891766"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312734"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Serviço de importação
 
@@ -31,7 +31,7 @@ Para aceder ao serviço De importação e iniciar o processo de importação:
 
 1. Na página **Importar,** selecione **Nova tarefa de importação**. Introduza um nome para a tarefa e **selecione Seguinte.**
 
-1. **Selecione Carregar dados para** utilizar a opção de carregamento de rede para o Tipo de Tarefa de **Importação.** Para obter passos detalhados, [consulte Utilizar o carregamento de rede para importar os ficheiros PST](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)da sua organização para o Microsoft 365.
+1. **Selecione Carregar dados para** utilizar a opção de carregamento de rede para o Tipo de Tarefa de **Importação.** Para obter passos detalhados, consulte Utilizar o carregamento de rede para importar os [ficheiros PST da sua organização para o Microsoft 365.](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)
 
 Para aceder à **página Importar,** certifique-se de que lhe foram atribuídas as permissões adequadas. Para mais informações, consulte Utilizar [o carregamento de rede para importar ficheiros PST.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 

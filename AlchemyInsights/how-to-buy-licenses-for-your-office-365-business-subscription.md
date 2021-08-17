@@ -14,12 +14,12 @@ ms.custom:
 - commerce_licensing
 - "652"
 - "2000017"
-ms.openlocfilehash: a7c749095478a227f7981b7057a92690d90b9195802bde3a8f784e25d1ac03a7
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 51c3e5ed3398b8d341bc2e84b8ae56bfd36a07f4de167042891a9ed606a94669
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499667"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892550"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Como comprar licenças para a sua subscrição Microsoft 365 Apps para Pequenas e Médias Empresas Subscrição
 
@@ -32,4 +32,4 @@ Ao atribuir licenças aos seus utilizadores, poderá ter de comprar licenças ad
 3. No painel **Comprar licenças,** em Nova quantidade na caixa Total de  **licenças,** introduza o número total de licenças que pretende para esta subscrição. Por exemplo, se tiver 100 licenças e quiser adicionar mais 25, introduza 125.
 4. Seleccione **Guardar**.
 
-Para saber mais, consulte [Comprar ou remover licenças.](/microsoft-365/commerce/licenses/buy-licenses)
+Para saber mais, consulte [Comprar ou remover licenças.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

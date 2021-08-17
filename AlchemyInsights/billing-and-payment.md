@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502403"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893066"
 ---
 # <a name="billing-and-payment"></a>Faturação e pagamento
 
@@ -36,7 +36,7 @@ Na página **Notificações** de  >  [Faturação,](https://go.microsoft.com/fwl
 
 Se pagar através de cartão de crédito ou conta bancária, o método de pagamento associado às suas subscrições é cobrado dentro de alguns dias após a criação da fatura. Se o pagamento falhar, atualize ou altere o seu método de pagamento.
 
-Se adicionou um novo cartão e continua a receber um aviso no antigo cartão de crédito, poderá ter de associar esse novo cartão à subscrição.
+Se adicionou um novo cartão e continua a receber uma notificação de recusa no antigo cartão de crédito, poderá ter de associar esse novo cartão à subscrição.
 
 1. No centro de administração, aceda à página **Faturação** > **Faturas e pagamentos** > [Métodos de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
@@ -55,10 +55,10 @@ Se adicionou um novo cartão e continua a receber um aviso no antigo cartão de 
 
 7. O novo método de pagamento já se encontra selecionado na lista pendente. Selecione **Substituir**.
 
-Para saber mais, consulte [Gerir métodos de pagamento](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Para saber mais, consulte [Gerir métodos de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Frequência de faturação**
 
 As faturas são geradas mensal ou anualmente, consoante a frequência de faturação escolhida na finalidade da compra.  
 
-**Nota:** as encomendas com faturação anual poderão receber uma fatura a médio prazo se tiver sido feita alterações como adicionar ou remover licenças. [Altere a frequência de faturação.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Nota:** as encomendas com faturação anual poderão receber uma fatura a médio prazo se foram e feitas alterações como adicionar ou remover licenças. [Altere a frequência de faturação.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

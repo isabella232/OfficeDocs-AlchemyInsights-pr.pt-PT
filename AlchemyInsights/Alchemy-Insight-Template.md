@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 7b915ab18d10948b8588dc6e2ef6af9891524861a924e2193dd73c2c77ffe6da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b6fbaf3f2ab30888d7a8f9d6f5aeccb65b5cfd0b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918906"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312836"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Obrigatório Cabeçalho Alquimia H1, H2 não funciona."
 Práticas Recomendadas e diretrizes para a autoria alquimia:
@@ -27,9 +27,9 @@ Práticas Recomendadas e diretrizes para a autoria alquimia:
     1. Inclua o ID da Regra ou O ID do grupo do [portal parceiro Alchemy](https://alchemyportal.azurewebsites.net) no campo ms.custom. por ex.: ***ms.custom: 100021***
 1. Utilize os restantes metadados na parte superior deste ficheiro como modelo.
 1. No [portal parceiro Alchemy,](https://alchemyportal.azurewebsites.net)navegue para baixo até à secção Título da Informação do **Cliente:** e utilize-o como ponto de partida para o seu título H1 para as suas insights. 
-    > [!NOTE]
-    > A alquimia Informações TEM de ter apenas um H1 na parte superior ou deixará de estar em produção. Os H2 não são apresentados, por isso utilize **negrito** ou outras convenções para significar secções separadas.
-1. Em seguida, preencha o corpo de texto com o material de rascunho Informações do Cliente secção da página Regra De Alquimia
+
+**Nota:** A alquimia Informações TEM de ter apenas um H1 na parte superior ou deixará de estar em produção. Os H2 não são apresentados, por isso utilize **negrito** ou outras convenções para significar secções separadas.
+1. Em seguida, preencha o corpo de texto com o material de rascunho Informações do Cliente secção da página Regra Alquimia
     1. As listas com marcas estão bem
     1. Também pode ver listas numeradas
     1. **Negrito** *e itálico* estão a-ok

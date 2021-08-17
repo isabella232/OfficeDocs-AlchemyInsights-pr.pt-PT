@@ -13,18 +13,18 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 080b3df3934781ebf0d0cd5243787bf6975fc5f123b5b1593c0b6d9ada4eae5d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 57a1756787f8297a2a1ab3012b95aaa2f33e6045
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887511"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313030"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identificar o endereço IP e o cliente nos registos de auditoria
 
 O endereço IP que corresponde a uma atividade por um Microsoft 365 ou administrador é apresentado nos Registos de Auditoria. As informações do cliente também são com sessão marcada. Eis os passos para identificar essas informações
 
-1. In iniciar sessão no [Centro Microsoft 365 de Conformidade.](https://protection.office.com/)
+1. In sessão no Centro [de Conformidade Microsoft 365 de Conformidade.](https://protection.office.com/)
 
 2. Aceda à página **Pesquisa de registo** de auditoria  >  **de** pesquisa.
 

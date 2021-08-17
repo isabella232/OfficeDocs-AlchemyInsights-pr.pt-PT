@@ -1,5 +1,5 @@
 ---
-title: Mude o fundo do ecrã de bloqueio
+title: Alterar o fundo do ecrã de bloqueio
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 8c13ad21019ffa00067ea6be0af7f05210e264a8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2e6c2bec070bb2fc2d583479604c95e0f0e7d729601dc1b0e8b7edd04995dfe6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818119"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082315"
 ---
-# <a name="change-your-lock-screen-background"></a>Mude o fundo do ecrã de bloqueio
+# <a name="change-your-lock-screen-background"></a>Alterar o fundo do ecrã de bloqueio
 
-- Ir para o ecrã de bloqueio de personalização **de**  >  **definições**  >  ****. Ou clique ou toque [aqui.](ms-settings:lockscreen?activationSource=GetHelp)
+- Vá para o **Definições** ecrã de Bloqueio de  >    >  **Personalização**. Ou clique ou toque [aqui](ms-settings:lockscreen?activationSource=GetHelp).
 
-- Para definir uma imagem de fundo personalizada, selecione **Imagem** da lista de drop-down de **fundo** e escolha ou **navegue** para a imagem.
+- Para definir uma imagem de fundo  personalizada, **selecione** Imagem na lista de listas do fundo e selecione **ou Procurar** para a imagem.
 
-  ![Desa parte de uma imagem de fundo personalizada.](media/set-custom-background-pic.png)
+  ![Definir uma imagem de fundo personalizada.](media/set-custom-background-pic.png)
 
-- Para configurar uma apresentação de diapositivos de imagens personalizadas, selecione **Slideshow** da lista de down-down **background** e escolha um álbum ou adicione uma pasta que contenha as imagens para a apresentação de diapositivos.
+- Para configurar uma apresentação de imagens personalizadas, selecione Apresentação de diapositivos na lista de listas do fundo e selecione um álbum ou adicione uma pasta que contenha as imagens da apresentação de diapositivos.  
 
-  ![Crie uma apresentação de diapositivos de imagens personalizadas.](media/set-up-slideshow-background.png)
+  ![Configurar uma apresentação de diapositivos de imagens personalizadas.](media/set-up-slideshow-background.png)

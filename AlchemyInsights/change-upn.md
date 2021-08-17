@@ -1,5 +1,5 @@
 ---
-title: Mudar UPN
+title: Alterar UPN
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,33 +12,33 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 60b8f4d1cdf64369709b8bd2703d3ae77ae5a410
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818263"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082413"
 ---
 # <a name="change-a-users-email-address"></a>Alterar o endereço de e-mail de um utilizador
 
-Mudar o endereço de e-mail de alguém é fácil! Basta seguir estes passos:
+Alterar o endereço de e-mail de alguém é fácil! Basta seguir estes passos:
   
-1. No centro de administração Microsoft 365, vá à página [dos Utilizadores](https://go.microsoft.com/fwlink/p/?linkid=834822) ou escolha  \> **Utilizadores Ativos** dos Utilizadores .
+1. Na página centro de administração do Microsoft 365, vá para a [página Utilizadores](https://go.microsoft.com/fwlink/p/?linkid=834822) ou selecionar **Utilizadores** \> **Ativos.**
     
 2. Selecione o utilizador.
     
 3. À direita, na linha **Nome de utilizador/Aliases de E-mail**, selecione **Editar**.
     
-4. Na caixa **Alias,** escreva um novo e-mail e, em seguida, escolha **Adicionar**.
+4. Na caixa **Alias, escreva um** novo e-mail e, em seguida, selecionar **Adicionar**.
     
-    **IMPORTANTE**: Se receber a mensagem de erro " **Não é possível encontrar um parâmetro que corresponda ao nome do parâmetro 'EmailAddresses**' significa que está a demorar um pouco mais para a Microsoft terminar a configuração do seu inquilino, ou o seu domínio personalizado se recentemente adicionar um. O processo de configuração poderá demorar até 4 horas para ser concluído. Aguarde um pouco para que o processo de configuração seja concluído e, em seguida, tente novamente. Se o problema continuar, contacte o Suporte e este fará uma sincronização completa automaticamente.
+    **IMPORTANTE:** se for recebida a mensagem de erro " Não é possível encontrar um parâmetro que corresponde ao nome do parâmetro **'EmailAddresses'"** significa que a Microsoft está a demorar um pouco mais a terminar a configuração do seu inquilino ou do seu domínio personalizado, se tiver adicionado um recentemente. O processo de configuração poderá demorar até 4 horas para ser concluído. Aguarde um pouco para que o processo de configuração seja concluído e, em seguida, tente novamente. Se o problema continuar, contacte o Suporte e este fará uma sincronização completa automaticamente.
     
-    Se receber a mensagem de erro " **Lamentamos, o utilizador não pôde ser editado. Reveja as informações do utilizador e tente novamente**" significa que você não é um administrador global e você não tem permissões para alterar o nome do utilizador.
+    Se for recebida a mensagem de erro " **Lamentamos, mas não foi capaz de editar o utilizador. Reveja** as informações do utilizador e tente novamente", significa que não é um administrador global e que não tem permissões para alterar o nome do utilizador.
     
-5. Selecione **Definir como Principal** para o endereço de e-mail que pretende definir como endereço de e-mail principal dessa pessoa. Se adquiriu a sua subscrição do GoDaddy, tem de iniciar sedus na consola de gestão para definir o endereço de e-mail principal. 
+5. Selecione **Definir como Principal** para o endereço de e-mail que pretende definir como endereço de e-mail principal dessa pessoa. Se comprou a sua subscrição na GoDaddy, tem de inscrever-se na respetiva consola de gestão para definir o endereço de e-mail principal. 
     
-6. Escolha **Guardar,** depois **fechar,** e está feito!
+6. **Selecionar** Guardar **e,** em seguida, Fechar e já está!
     
-Não foi fácil? Para mais detalhes e passos com imagens, confira este artigo: [Mude o nome de utilizador e o endereço de e-mail](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
+Foi muito fácil, não foi? Para obter mais detalhes e passos com capturas de ecrã, consulte este artigo: Alterar um nome de utilizador e [endereço de e-mail](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
 

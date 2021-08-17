@@ -1,5 +1,5 @@
 ---
-title: Utilização de chaves de produto do Office
+title: Utilizar Office de produto
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3550"
-ms.openlocfilehash: 16a86343f1c05a5094dc0dd5595c1299c9e44a26
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c09363a2c8d3e610eb50f42b4cbaa4e69827927f9f66c56d4c88b7ede3d85126
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808073"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083925"
 ---
-# <a name="using-office-product-keys"></a>Utilização de chaves de produto do Office
+# <a name="using-office-product-keys"></a>Utilizar Office de produto
 
-**Chaves de produto de escritório**
+**Office Chaves de Produto**
 
-Utilize a sua conta Microsoft, não a chave do produto, para instalar e ativar o Office e adquiriu individualmente aplicações microsoft 365, tais como Project, Visio, Word, Excel e Outlook. Para mais informações, consulte [o Office a pedir-me uma chave de produto](https://support.office.com/article/12a5763a-d45c-4685-8c95-a44500213759?ui=en-US&rs=en-US&ad=US#bkmk_promptforpkey)
+Utilize a sua conta Microsoft, não a chave de produto, para instalar e ativar o Office e as aplicações do Microsoft 365 adquiridas individualmente, como o Project, Visio, Word, Excel e Outlook. Para obter mais informações, [consulte o Office-me uma chave de produto](https://support.office.com/article/12a5763a-d45c-4685-8c95-a44500213759?ui=en-US&rs=en-US&ad=US#bkmk_promptforpkey)
 
-- Se a sua compra do Office veio com uma chave de produto, consulte [onde introduzir a chave do produto do Office](https://support.office.com/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Se a sua compra Office veio com uma chave de produto, consulte Onde introduzir a sua [chave Office produto](https://support.office.com/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- Para obter ajuda com uma chave de produto home ou pessoal do Office 365, consulte [Usando as teclas do produto com o Office](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759).
+- Para ajuda com uma chave Office 365 de produto Casa ou Pessoal, consulte Utilizar [chaves de produto com Office](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759).
 
-**Ativação da subscrição do Office** 
+**Ativar Office subscrição** 
 
-- Se adquiriu uma subscrição microsoft 365 de uma loja de retalho, consulte [insira a chave do produto para apps microsoft 365 para negócios.](https://docs.microsoft.com/microsoft-365/commerce/enter-your-product-key)
+- Se comprou uma subscrição Microsoft 365 numa loja de retalho, consulte Introduzir a sua chave de [produto para Microsoft 365 Apps para Pequenas e Médias Empresas](https://docs.microsoft.com/microsoft-365/commerce/enter-your-product-key).
 
-- Se houver uma mensagem de erro quando tentar resgatar uma chave de produto, consulte [problemas com o Microsoft 365 para a chave do produto comercial?](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)
+- Se vir uma mensagem de erro ao tentar resgatar uma chave de produto, consulte Problemas com a sua chave [de produto do Microsoft 365 para empresas?](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

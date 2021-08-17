@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3046"
 - "9001088"
-ms.openlocfilehash: 0fea960e68eb66d0d14423caa4a6a66f82d9c423
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: df2682a639366a824edbdb36afa49562b71eeae22d2644df41e7bc68490a4f75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077337"
 ---
 # <a name="microsoft-365-multi-geo"></a>Microsoft 365 Multi-Geo
 
-Com o Microsoft 365 Multi-Geo, a sua organização pode expandir a sua presença microsoft 365 para várias regiões geográficas e/ou países dentro do seu inquilino existente. Veja os links abaixo para mais informações.
+Com Microsoft 365 Multi-Geo, a sua organização pode expandir a Microsoft 365 estado de presença a múltiplas regiões geográficas e/ou países no seu inquilino existente. Consulte as ligações abaixo para obter mais informações.
 
 - [Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
-- [Plano para o Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
+- [Plano para Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
 - [Configurar Multi-Geo](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)

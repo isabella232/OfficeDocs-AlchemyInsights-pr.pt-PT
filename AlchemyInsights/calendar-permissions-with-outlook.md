@@ -1,5 +1,5 @@
 ---
-title: Permissões de Calendário
+title: Permissões do Calendário
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800009"
 - "611"
-ms.openlocfilehash: bbd49134bd4a4451649b76bb5f60b19065910cae
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4bf7680a422f096401f0a87bccd1b8dd11f4489f882bcc06864e37d6a248438c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819919"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046115"
 ---
-# <a name="calendar-permissions"></a>Permissões de Calendário
+# <a name="calendar-permissions"></a>Permissões do Calendário
 
-Os utilizadores podem alterar as suas próprias Permissões de Calendário com o Outlook na Web ou outros clientes, mas como administrador poderá também ter de investigar.  
-Com o Cmdlet Exchange PowerShell mostrar-lhe-á a permissão no calendário de um utilizador:
+Os utilizadores podem alterar as suas próprias Permissões de Calendário Outlook com o Outlook na Web ou outros clientes, mas enquanto administrador também poderá ter de investigar.  
+Com Exchange cmdlet do PowerShell irá mostrar-lhe a permissão num calendário de utilizador:
 
 `Get-MailboxFolderPermission <SMTPAddress>:\Calendar | FT -a`
 
-Para ver mais informações consulte o seguinte:
+Para ver mais informações, consulte o seguinte:
 
-- [Get-MailboxPermission](https://docs.microsoft.com/powershell/module/exchange/get-mailboxfolderpermission?view=exchange-ps)
+- [Get-MailboxFolderPermission](https://docs.microsoft.com/powershell/module/exchange/get-mailboxfolderpermission?view=exchange-ps)
 
-- [Set-MailboxPermission](https://docs.microsoft.com/powershell/module/exchange/set-mailboxfolderpermission?view=exchange-ps)
+- [Set-MailboxFolderPermission](https://docs.microsoft.com/powershell/module/exchange/set-mailboxfolderpermission?view=exchange-ps)
 
-- [Add-MailboxPermission](https://office.visualstudio.com/DefaultCollection/MAX/_queries/query/Add-MailboxFolderPermission)
+- [Add-MailboxFolderPermission](https://office.visualstudio.com/DefaultCollection/MAX/_queries/query/Add-MailboxFolderPermission)
 
-As permissões de calendário são usadas na partilha de calendários, para ver mais informações sobre a partilha de um calendário do Outlook, consulte estes artigos:
+As Permissões de Calendário são utilizadas na partilha de calendários. Para ver mais informações sobre como partilhar um calendário Outlook, consulte estes artigos:
 
 - [Partilhar um calendário do Outlook com outras pessoas](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
-- [Partilhe o seu calendário no Outlook na web para negócios](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [Partilhar o seu calendário no Outlook na Web para empresas](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
 
-Para resolver problemas, a Autorização do Calendário pode utilizar a ferramenta [Assistente de Assistência e Recuperação.](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f)
+Para remoção de Permissões de Calendário, pode utilizar [a Assistente de Recuperação e Suporte](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f) Calendário.

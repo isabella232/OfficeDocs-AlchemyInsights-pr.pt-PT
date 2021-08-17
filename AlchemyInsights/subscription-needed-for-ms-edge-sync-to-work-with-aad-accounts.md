@@ -1,5 +1,5 @@
 ---
-title: Subscrição necessária para sincronização do Microsoft Edge para trabalhar com contas do Azure Ative Directory
+title: Subscrição necessária para que Microsoft Edge sincronização funcione com Azure Active Directory contas
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004022"
 - "7088"
-ms.openlocfilehash: ee2369c02896b67eb7c7f448a38fa862de545c73
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 21e4db366f2650bdd4902b2877ace3c1b3a09be8be215c0c27a4faaf4deef8d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573687"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049616"
 ---
-# <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>Subscrição necessária para sincronização do Microsoft Edge para trabalhar com contas do Azure Ative Directory
+# <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>Subscrição necessária para que Microsoft Edge sincronização funcione com Azure Active Directory contas
 
-O Sync funcionará com qualquer uma das seguintes subscrições:
+A sincronização funcionará com qualquer uma das seguintes subscrições:
 
-1. Azure Ative Directory Premium (P1 e P2)
-1. Microsoft 365 Business Premium
-1. Escritório 365 E3 e acima
-1. Proteção de Informação Azure (P1 e P2)
-1. Todas as assinaturas do Office 365 Educação:
-    - Aplicativos da Microsoft para estudantes ou docentes
-    - Intercâmbio Online para Estudantes ou Docentes
-    - Escritório 365 A1 ou superior
+1. Azure Active Directory Premium (P1 e P2)
+1. Microsoft 365 Empresas Premium
+1. Office 365 E3 e superior
+1. Azure Information Protection (P1 e P2)
+1. Todas Office 365 Educação subscrições:
+    - Aplicações Microsoft para estudantes ou corpo docente
+    - Exchange Online para Estudantes ou Corpo Docente
+    - Office 365 A1 ou superior
     - Microsoft 365 A1 ou superior
-    - Proteção de Informação azul P1 ou P2, para Estudantes ou Docentes
+    - Azure Information Protection P1 ou P2, para Estudantes ou Corpo Docente

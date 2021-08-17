@@ -1,5 +1,5 @@
 ---
-title: Permitir ou impedir que utilizadores anónimos se juntem às reuniões das Equipas
+title: Permitir ou impedir que utilizadores anónimos participem em Teams reuniões
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 04813fc092ef58a533164a4e22f4ed9ee959cf9d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a867d9b8da34b3c78add5bad6f30c45653adc965a061ed235429a7d7447cffd6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824770"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106956"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Permitir ou impedir que utilizadores anónimos se juntem às reuniões das Equipas
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Permitir ou impedir que utilizadores anónimos participem em Teams reuniões
 
-Pode controlar as configurações de reunião anónima no Centro de Administração de Equipas.
+Pode controlar as definições de participar em reuniões anónimas no centro Teams administração.
 
-**Pode levar até 24 horas para que esta mudança entre em vigor.**
+**Poderá demorar até 24 horas para que esta alteração entre em vigor.**
 
-1.  Vá ao [centro de administração das equipas](https://admin.teams.microsoft.com)
-2.  Na navegação à esquerda, vá às   >   **definições de Reunião de** Reuniões .
-3.  Sob  **os Participantes,** ligue  **os utilizadores anónimos podem participar numa reunião**.
+1.  Ir para [o Teams de administração](https://admin.teams.microsoft.com)
+2.  No painel de navegação do lado esquerdo, vá **para Definições**   >   **da reunião .**
+3.  Em  **Participantes,** ate os  **utilizadores anónimos podem participar numa reunião**.

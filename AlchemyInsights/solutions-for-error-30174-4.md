@@ -1,5 +1,5 @@
 ---
-title: Soluções para erro 30174-4
+title: Soluções para o erro 30174-4
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -14,22 +14,22 @@ ms.custom:
 - "831"
 - "2000020"
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: fee75a657db7c3e79a8098a9691b2f7d0490acd5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca8f4d68eae7ff223e396925678fbcfd5af7537ff50153bf91d35ed04b41b554
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738648"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050165"
 ---
-# <a name="error-code-30174-4-when-installing-office"></a>Código de erro 30174-4 ao instalar o Office
+# <a name="error-code-30174-4-when-installing-office"></a>Código de erro 30174-4 ao instalar Office
 
-Pode ver este erro se o seu software antivírus, firewall, configurações de procuração ou ligação o impedir de instalar o Office. Aqui estão algumas coisas que pode tentar resolver o problema.
+Poderá ver este erro se o seu software antivírus, firewall, definições de proxy ou ligação o impedirem de instalar Office. Eis algumas sms que pode experimentar para resolver o problema.
   
-- Utilize uma ligação com fios
+- Utilizar uma ligação com fios
 
-- Desligue temporariamente as definições de procuração
+- Deslige temporariamente as definições de proxy
 
-- Desligue temporariamente o software antivírus
+- Deslige temporariamente o software antivírus
 
-[Código de erro 30174-4 ao instalar o Office](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
+[Código de erro 30174-4 ao instalar Office](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
   

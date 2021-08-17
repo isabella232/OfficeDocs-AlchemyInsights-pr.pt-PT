@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5671d8ede9b195f63a5d96767c46b4757d3e887547d31b82c969c36dc974f753
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988270"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898867"
 ---
 # <a name="fix-anti-spam-policy"></a>Corrigir política antisspam
 
-Uma política antisspam personalizada no seu inquilino afetou esta mensagem. Para rever a política, faça o seguinte:
+Uma das suas políticas antisspam afetou esta mensagem. Para rever a política, faça o seguinte:
 
-1. Vá para o Centro [Office 365 de Conformidade &](https://go.microsoft.com/fwlink/p/?linkid=2077143)de Conformidade e, em seguida, vá para Política de Gestão de ameaças  >    >  [Antisspam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. No separador **Personalizar,** selecione a Política do filtro de **spam** predefinida ou qualquer outra política personalizada que possa ter criado e, em seguida, selecione **Editar política**.
-3. Expanda **a opção Propriedades de spam** e reveja **as definições de Marcar como spam.**
+1. No portal Microsoft 365 Defender, em , vá para E-mail & políticas de <https://security.microsoft.com/>  \> **colaboração & Regras** \>  \> **contra ameaças Antisspam,** na **secção** Políticas.
 
-Para obter mais informações sobre como configurar políticas de filtro de spam, consulte Configurar definições de política do filtro de [spam personalizada.](https://go.microsoft.com/fwlink/?linkid=2101054)
+   Para ir diretamente para a **página Políticas antisspam,** utilize <https://security.microsoft.com/antispam> .
+
+2. Na página Políticas **antisspam,** selecione a política ao clicar no nome da  política **(** Tipo é Política **antisspam** personalizada ou Nome é Política de receção Antisspam **(Predefinição).**
+
+3. Na panfleto de detalhes que é exibida, clique em Editar limiar de **spam** e propriedades na secção Limiar de e-mail em massa & de **spam,** selecione **Editar** ações e reveja as definições Marcar como **spam.**
+
+Para obter mais informações, [consulte Configurar políticas antisspam na EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

@@ -1,5 +1,5 @@
 ---
-title: Ativar o Microsoft Defender para o Office 365 para as equipas SharePoint Online, OneDrive e Microsoft
+title: Ativar o Microsoft Defender Office 365 para SharePoint Online, OneDrive e Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 1c29afdcc52e7032fea22d698371677918665fa9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: db79c1d79ddb9bc92f0601ac156e5e41a8ab83cd603556f191d5491cdd5ae2a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747744"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058877"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Ativar o Microsoft Defender para o Office 365 para as equipas SharePoint Online, OneDrive e Microsoft
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Ativar o Microsoft Defender Office 365 para SharePoint Online, OneDrive e Microsoft Teams
 
-1. Utilizando as suas credenciais de administração ou de administração de segurança globais, inicie sessão no [Centro de Segurança e Conformidade do Office 365.](https://protection.office.com/)
-2. Selecione **a gestão** de ameaças no painel esquerdo e, em seguida, selecione os anexos **De Segurança De Política**  >  [](https://protection.office.com/safeattachment).
-3. Selecione **Ligue o Microsoft Defender para o Office 365 para SharePoint, OneDrive e Microsoft Teams**, e, em seguida, selecione **Save**.
+1. Com as suas credenciais de administrador global ou administrador de segurança, instale sessão no Centro de Office 365 de Conformidade [e Segurança.](https://protection.office.com/)
+2. **Selecione Gestão** de ameaças no painel esquerdo e, em seguida, **selecione**  >  [Cofre anexos](https://protection.office.com/safeattachment).
+3. Selecione Acionar o Microsoft Defender para Office 365 para **SharePoint, OneDrive e Microsoft Teams e,** em seguida, selecione **Guardar.**
     > [!TIP]
     >
-    > - Como administrador global ou administrador on-line sharePoint, executar o seguinte cmdlet PowerShell com o parâmetro **DesallowInfectedFileDownload** definido para *verdadeiro*: [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
+    > - Como administrador global ou administrador do SharePoint Online, execute o seguinte cmdlet do PowerShell com o parâmetro **DisallowInfectedFileDownload** definido para *true*: [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
     > - [Configurar alertas para ficheiros detetados](https://go.microsoft.com/fwlink/?linkid=2092110)
 
-Para obter mais informações, consulte [o Microsoft Defender para o Office 365 para SharePoint, OneDrive e Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2092041).
+Para obter mais informações, consulte [Microsoft Defender para Office 365 para SharePoint, OneDrive e Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2092041).

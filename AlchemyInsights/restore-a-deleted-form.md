@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 48018accc23a504c34b5469c198d6f29929d25c2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 186da6e95b6c5806de855e7e38cbf31c1d52f148935532658fae0cc3fe111f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809486"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109791"
 ---
 # <a name="restore-a-deleted-form"></a>Restaurar um formulário eliminado
 
-Se eliminar um formulário em Formulários Microsoft por acidente, poderá recuperá-lo. Inscreva-se no Microsoft Forms como proprietário do formulário eliminado. Selecione a **Caixa de Reciclagem** e, em seguida, selecione o formulário que pretende recuperar e selecione **Restaurar**. Uma vez restaurado, selecione a seta **da página "Voltar para os meus Formulários".**
+Se eliminou um formulário no Microsoft Forms por acidente, pode recuperá-lo. Inscreva-se no Microsoft Forms como o proprietário do formulário eliminado. Selecione **a Reciclagem e, em** seguida, selecione o formulário que pretende recuperar e selecione **Restaurar.** Uma vez restaurada, selecione **a seta Voltar à página Os Meus Formulários.**
 
-Só o proprietário do formulário pode recuperá-lo. Se a conta do proprietário do formulário foi desativada ou removida do arrendatário, apenas o Administrador Global pode recuperar o formulário. O Administrador Global deve ter uma licença de Formulários para efetuar uma restauração. Só podem ser restaurados formulários criados no prazo de 30 dias após a desativação ou remoção da conta do utilizador do arrendatário.
+Apenas o proprietário do formulário pode recuperá-lo. Se a conta do proprietário do formulário tiver sido desativada ou removida do inquilino, apenas o Administrador Global poderá recuperar o formulário. O Administrador Global tem de ter uma licença do Forms para efetuar uma restauro. Apenas os formulários criados no prazo de 30 dias após a desativação ou remoção da conta de utilizador do inquilino podem ser restaurados.
 
-Se é o Administrador Global do arrendatário, e pretende recuperar um formulário de uma conta que foi eliminada ou desativada, substitua [o endereço de e-mail] pelo endereço de e-mail do utilizador eliminado ou desativado no seguinte URL: **https://forms.office.com/Pages/delegatepage.aspx?originalowner= [endereço de e-mail]** Por exemplo, se o seu endereço de e-mail for johndoe@contoso.com, o URL seria: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
+Se for o Administrador Global do inquilino e quiser recuperar um formulário de uma conta que foi eliminada ou desativada, substitua [endereço de e-mail] pelo endereço de e-mail do utilizador eliminado ou desativado no seguinte URL: **https://forms.office.com/Pages/delegatepage.aspx?originalowner= [endereço** de e-mail] Por exemplo, se o seu endereço de e-mail for johndoe@contoso.com, o URL seria: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
 
-Assim que tiver acesso aos formulários eliminados do utilizador, selecione o formulário que pretende mover e, em seguida, selecione **Mais Movimento de Ações de Formulário**  >  .
+Assim que tiver acesso aos formulários eliminados do utilizador, selecione o formulário que pretende mover e, em seguida, selecione Mais Ações **do**  >  **Formulário Movem-se.**
 
-Se pretender recuperar um formulário onde foi eliminado e o utilizador foi removido da organização, um Administrador Global pode optar por recuperar o utilizador, redefinir a palavra-passe para esse utilizador e, em seguida, enquanto inicia o login como utilizador, aceda ao formulário para o transferir para outro utilizador ativo. 
+Se pretender recuperar um formulário no qual este foi eliminado e o utilizador tiver sido removido da organização, um Administrador Global pode optar por recuperar o utilizador, repor a palavra-passe do utilizador e, enquanto tiver sessão início na mesma, aceder ao formulário de forma a movê-lo para outro utilizador ativo. 

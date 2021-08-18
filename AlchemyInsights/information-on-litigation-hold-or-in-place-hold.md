@@ -1,5 +1,5 @@
 ---
-title: Informações sobre o porão de litígios ou no local
+title: Informações sobre a retenção de litigações ou em espera no local
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,24 +10,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 08579c3cf887de649480480856ba42478d488a0a
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: dd508bcd2b09ccb0bcdd99c37c3c5ecfbc26ec42f00ddce520ef8e73e3aef436
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709333"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115443"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>Sobre os holds de litígios e os holds in-place
+# <a name="about-litigation-holds-and-in-place-holds"></a>Acerca de litigações e detenção no local
 
-- Para aplicar um porão de litígio ou um porão de uma caixa de correio, é necessária uma [licença Exchange Online Plan 2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Se tiver outro Plano, atribua uma licença de [arquivamento online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) de troca separada à conta. 
+- Para aplicar uma retenção de litigação ou uma retenção no local a uma caixa de correio, é necessária uma Exchange Online plano [2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Se tiver outro Plano, atribuir uma licença [Arquivo de Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) à conta. 
     
-- **Para permitir um litígio** para um único Utilizador, siga os passos [aqui](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold)descritos . Quando o litígio está ativado, todo o conteúdo da caixa de correio é colocado em espera.
+- **Para ativar uma retenção de litigação** para um único Utilizador, siga os passos aqui [delineados.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold) Quando a retenção de litigações é ativada, todos os conteúdos na caixa de correio são colocados em espera.
     
-- Para aplicar uma **posição em utilizadores individuais** ou um porão **em todas as caixas de correio de toda a Organização,** pode utilizar políticas de retenção no centro de Segurança e Conformidade microsoft 365 seguindo os passos [aqui](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)descritos.
+- Para aplicar  uma retenção no local a utilizadores individuais ou uma retenção em todas as caixas de correio em toda a **Organização,** pode utilizar as Políticas de Retenção no centro de Conformidade e Segurança do Microsoft 365 ao seguir os passos aqui enumetidos. [](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     
     > [!NOTE]
-    > Para as políticas de retenção à escala org, novos utilizadores serão automaticamente adicionados ao porão. 
+    > Para políticas de retenção para toda a empresa, os novos utilizadores serão automaticamente adicionados à espera. 
   
-- Para ver ou descobrir o conteúdo da caixa de correio que é colocado em espera, utilize **o eDiscovery Search and Export**. Para obter informações sobre a utilização **do eDiscovery Search and Export,** siga os passos [aqui](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)descritos.
+- Para ver ou descobrir os conteúdos da caixa de correio que são colocados em espera, utilize a Pesquisa e Exportação da **Deteção de Eletrónicos.** Para obter informações sobre **como utilizar a Pesquisa e** Exportação da Deteção de Dados Online, siga os passos aqui [delineados.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
     
 

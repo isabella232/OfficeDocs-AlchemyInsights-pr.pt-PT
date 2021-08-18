@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f5d6041fd80b4d5cae610e7d9248e45ed410a3d9
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 7e13c9e5fbfa6ade065c2810150687085c1a9daae1a11c134688ec9a83ad37d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317605"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115659"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Auditar registos de mensagens de e-mail eliminadas
 
@@ -34,6 +34,6 @@ A partir de janeiro de 2019, a Microsoft atale o registo de auditoria de caixa d
 
 Nos resultados, selecione um registo de auditoria. Na panfleto de detalhes, clique **em Mais Informações.** As informações adicionais sobre o item eliminado (por exemplo, o assunto da linha e a localização do item quando foi eliminado) são **apresentadas** no campoItens Afetados. A **propriedade ClientInfoString** irá mostrar se a eliminação ocorreu no Outlook, Outlook na Web (anteriormente conhecido como Outlook Web App) ou em qualquer outro dispositivo.
 
-Para obter mais informações, consulte Determinar [quem configurar o receção de e-mails para uma caixa de correio.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
+Para obter mais informações, consulte Determinar [quem configurar o receção de e-mails para uma caixa de correio.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
 
 **Nota:** não pode obter itens eliminados com a funcionalidade de registo de auditoria. Para obter mensagens eliminadas no Outlook na Web, consulte Recuperar [itens eliminados no Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

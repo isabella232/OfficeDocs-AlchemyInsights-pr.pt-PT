@@ -1,5 +1,5 @@
 ---
-title: Inscrição intune
+title: Intune Enrollment
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 79f15b285a9726e65a8d3fc39909d114d2b646ae
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2140dc77dab16cfd42f831314df960d09b6b02a53d513fa52d208ab7e8d66d98
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090891"
 ---
-# <a name="intune-enrollment"></a>Inscrição intune
+# <a name="intune-enrollment"></a>Intune Enrollment
 
-Para resolver problemas de inscrição de dispositivos, consulte:
+Para remoção de problemas de inscrição de dispositivos, consulte:
 
-- [Inscrição de dispositivos de resolução de problemas no Microsoft Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
-- [Resolução de problemas de inscrição de dispositivos iOS/iPadOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
-- [Resolução de problemas Da inscrição automática do Windows 10](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
-- [Resolução de problemas problemas com dispositivo Android Enterprise](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-android-enrollment)
-- [Resolução de problemas problemas de inscrição de dispositivos Windows](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-windows-enrollment-errors)
+- [Remova a inscrição de dispositivos no Microsoft Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
+- [Remova problemas de inscrição de dispositivos iOS/iPadOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
+- [Remoção Windows 10 inscrição automática](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [Remoção de problemas de dispositivos Android Enterprise](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-android-enrollment)
+- [Resolver problemas Windows de inscrição de dispositivos](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-windows-enrollment-errors)
 
-[Leia mais sobre Inscrição Intune...](https://docs.microsoft.com/mem/intune/enrollment/)
+[Leia mais sobre a Inscrição intune...](https://docs.microsoft.com/mem/intune/enrollment/)

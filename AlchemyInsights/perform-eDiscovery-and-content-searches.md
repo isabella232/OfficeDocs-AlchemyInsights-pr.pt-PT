@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317487"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902055"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Como efetuar Pesquisas de Conteúdo e pesquisas de Deteção de Conteúdo
 
@@ -31,7 +31,8 @@ ms.locfileid: "58317487"
 4. Introduza as condições de pesquisa necessárias, incluindo palavras-chave e localizações de conteúdo.
 5. **Selecione Guardar e & para dar** um nome à pesquisa, iniciá-la e, em seguida, pré-visualize os resultados.
 
-**Nota:** Em **Soluções do Microsoft 365 conformidade**, expanda a Deteção de Dados Digitais e selecione a ferramenta de Deteção de Dados  >  Digitais pretendida. 
+> [!NOTE]
+> Em **Soluções Microsoft 365 Centro de Conformidade**, expanda a Deteção de Dados Digitais  >   **e** selecione a ferramenta de Deteção de Dados Digitais pretendida.
 
 Para obter instruções detalhadas sobre pesquisas de conteúdos, exportar resultados [](https://docs.microsoft.com/microsoft-365/compliance/content-search) e criar casos de Deteção de Dados Online para armazenar dados, consulte o trmls casos de Pesquisa de Conteúdos e de Deteção [de Dados Online.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 

@@ -17,12 +17,12 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: 888bac8b4ff8cf5c0ad7616cf4e87c0003e922ae89f9faf7872b94aba76f7027
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b42fe2e660b83d40737855ff84d313c6b7df1860
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891578"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318915"
 ---
 # <a name="change-how-often-you-pay"></a>Alterar a frequência de pagamentos
 
@@ -33,7 +33,6 @@ Para alterar a frequência com que é cobrado e pagar uma subscrição, conclua 
 3. Na página detalhes da subscrição, na secção **Definições** de subscrição e pagamento, selecione **Editar frequência de faturação.**
 4. No painel **Editar frequência de faturação,** selecione a opção para a frequência de faturação e, em seguida, selecione **Alterar**.
 
-> [!NOTE]
-> A faturação mensal ou anual é a única opção.
+**Nota:** a faturação mensal ou anual é a única opção.
 
 Para mais informações, consulte [Altere a frequência da faturação.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

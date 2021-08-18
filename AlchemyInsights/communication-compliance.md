@@ -1,5 +1,5 @@
 ---
-title: Conformidade da comunicação
+title: Conformidade de comunicação
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: fe834e12f35550cef669c5a60a2f3e460648dbd0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817507"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090747"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>Conformidade de comunicação na Microsoft 365
+# <a name="communication-compliance-in-microsoft-365"></a>Conformidade de comunicação Microsoft 365
 
-A conformidade com a comunicação é uma nova solução de conformidade microsoft 365 que ajuda as organizações a cumprir os requisitos de conformidade com a supervisão e minimizar os riscos de comunicação. Baseia-se na funcionalidade supervisão e contém novas melhorias, incluindo:
+A conformidade de comunicação é uma nova Microsoft 365 de conformidade que ajuda as organizações a cumprir os requisitos de conformidade de supervisão e a minimizar os riscos de comunicação. Baseia-se na funcionalidade Supervisão e contém novos melhoramentos, incluindo:
 
 - Modelos personalizáveis inteligentes
 - Fluxos de trabalho de remediação flexíveis
-- Insights accuáveis
+- Ações ações
 
-Se utilizar atualmente [as políticas de supervisão,](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)recomendamos que utilize agora a nova conformidade de comunicação para responder às necessidades regulamentares.
+Se atualmente utiliza as políticas [de Supervisão,](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)recomendamos que utilize agora a nova Conformidade de comunicação para abordar necessidades regulamentares.
 
-Para configurar a conformidade de comunicação, consulte [a conformidade da comunicação Configure](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
+Para configurar a conformidade de comunicação, consulte [Configurar conformidade de comunicação.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
 
-Para investigar, rever e remediar a conformidade da comunicação, consulte [os alertas de conformidade de comunicação de investigação e remediação.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)
+Para investigar, rever e remediar a conformidade de comunicação, consulte [Investigar e remediar alertas de conformidade de comunicação.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)
 
-Para obter uma visão geral da funcionalidade de conformidade de comunicação, consulte [a conformidade da comunicação na Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
+Para uma visão geral da funcionalidade de conformidade de comunicação, consulte Conformidade [de comunicação Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
 
-Requisitos de licença: Os utilizadores monitorizados pelas políticas de comunicação devem ter um dos seguintes:
+Requisitos de licença: os utilizadores monitorizados por políticas de comunicação têm de ter um dos seguintes:
 
-- Licença de conformidade Microsoft 365 E5
-- Licença do Office 365 Enterprise E3 com o complemento de Conformidade Avançada
-- Assinatura do Office 365 Enterprise E5
+- Microsoft 365 E5 Conformidade licença
+- Office 365 Enterprise Licença E3 com o add-on de Conformidade Avançada
+- Office 365 Enterprise Subscrição E5
 
-Se não tiver nenhum dos acima e quiser tentar a conformidade com a comunicação, **[inscreva-se para um julgamento do Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Se não tiver nenhum dos termos acima e quiser experimentar a conformidade de comunicação, inscreva-se numa versão de **[avaliação do Office 365 Enterprise E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
 > [!NOTE]
-> Pode levar até 24 horas para que as mensagens de e-mail sejam processadas na íntegra numa apólice. As comunicações em Equipas microsoft, Yammer e plataformas de terceiros podem demorar até 48 horas para processar totalmente uma política.
+> Uma política poderá demorar até 24 horas para que as mensagens de e-mail sejam totalmente processadas. As comunicações em Microsoft Teams, Yammer e plataformas de terceiros podem demorar até 48 horas a processar totalmente numa política.

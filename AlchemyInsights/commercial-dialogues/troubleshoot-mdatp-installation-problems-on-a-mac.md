@@ -1,5 +1,5 @@
 ---
-title: Problemas de instalação do MDATP na resolução de problemas num Mac
+title: Resolver problemas de instalação MDATP num Mac
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4b03361666f950a2010e4c4d8e78d156438d9e90
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 4139f47f40a89069521aaa1a3e4fdab56e9e27a2096ae0ad099be827f60d51fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749772"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091064"
 ---
-# <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>Problemas de instalação do MDATP na resolução de problemas num Mac
+# <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>Resolver problemas de instalação MDATP num Mac
 
-Se a instalação manual falhar, a página **resumo** do assistente de instalação mostra o seguinte erro:
+Se a instalação manual falhar, a **página** Resumo do assistente de instalação apresenta o seguinte erro:
 
-"Ocorreu um erro durante a instalação. O Instalador encontrou um erro que fez com que a instalação falhasse. Contacte o fabricante de software para obter assistência."
+"Ocorreu um erro durante a instalação. O Instalador encontrou um erro que fez com que a instalação falhasse. Contacte o fabricante do software para obter assistência."
 
-Para as implementações de MDM, a página também mostra uma falha genérica de instalação.
+Para implementar MDM, a página também apresenta uma falha de instalação genérica.
 
-Embora não apresentemos erros exatos para os utilizadores finais, mantemos um ficheiro de registo com o progresso da instalação, em **/Library/Logs/Microsoft/mdatp/install.log**. Cada sessão de instalação anexa a este ficheiro de registo. Para obter apenas a última sessão de instalação, utilize `sed` .
+Apesar de não apresentarmos erros exatos aos utilizadores finais, mantemos um ficheiro de registo com o progresso da instalação, em **/Library/Logs/Microsoft/mdatp/install.log.** Cada sessão de instalação é acrescentada a este ficheiro de registo. Para saída apenas da última sessão de instalação, utilize `sed` .
 
-Para saber mais, consulte [problemas de instalação de resolução de problemas para o Microsoft Defender ATP para Mac](https://go.microsoft.com/fwlink/?linkid=2144615).
+Para saber mais, consulte [Remoção de problemas de instalação do Microsoft Defender ATP para Mac.](https://go.microsoft.com/fwlink/?linkid=2144615)

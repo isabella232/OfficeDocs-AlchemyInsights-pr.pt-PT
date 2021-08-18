@@ -1,5 +1,5 @@
 ---
-title: Configurar a Proteção Online de Intercâmbio
+title: Configurar o Proteção do Exchange Online
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 038274244578f8fd4d05ef94a53705f6498de757
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448969"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085887"
 ---
-# <a name="set-up-exchange-online-protection"></a>Configurar a Proteção Online de Intercâmbio
+# <a name="set-up-exchange-online-protection"></a>Configurar o Proteção do Exchange Online
 
-O Microsoft Exchange Online Protection (EOP) é um serviço de filtragem de email baseado na nuvem para proteção contra spam e malware, com funcionalidades para proteger a sua organização de violações de políticas de mensagens.
+Microsoft Exchange Online A Proteção (EOP) é um serviço de filtragem de e-mail baseado na nuvem para proteção contra spam e software maliceiro, com funcionalidades que protegem a sua organização contra violações da política de mensagens.
 
-Utilize o guia de [configuração da Proteção Online exchange](https://go.microsoft.com/fwlink/?linkid=2071067) para configurar o EOP selecionando entre os três cenários de implementação — caixas de correio no local, caixas de correio híbridas (mistura de caixas de correio no local e nuvem) ou todas as caixas de correio em nuvem — que se adequam à sua organização. O guia fornece informações e recursos para configurar o EOP e rever o licenciamento do seu utilizador, atribuir permissões no centro de administração microsoft 365 e configurar as políticas anti-malware e spam da sua organização no Centro de Conformidade & de Segurança.
+Utilize o guia de configuração do [Proteção do Exchange Online](https://go.microsoft.com/fwlink/?linkid=2071067) para configurar a EOP ao selecionar um dos três cenários de implementação: caixas de correio no local, caixas de correio híbridas (mistura de caixas de correio no local e na nuvem) ou todas as caixas de correio na nuvem que se ajustam à sua organização. O guia fornece informações e recursos para configurar a EOP e rever o licenciamento do seu utilizador, atribuir permissões no centro de administração do Microsoft 365 e configurar as políticas anti-software maligno e spam da sua organização no Centro de Conformidade do & de Segurança.

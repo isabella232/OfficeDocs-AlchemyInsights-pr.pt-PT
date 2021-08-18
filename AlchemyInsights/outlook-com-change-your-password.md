@@ -1,5 +1,5 @@
 ---
-title: Altere a sua palavra-passe em Outlook.com
+title: Alterar a sua palavra-passe em Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "201"
 - "8000002"
 ms.assetid: 4dfaeb2a-2cef-444d-9415-c68a50df1a49
-ms.openlocfilehash: f69fcd8330bbb86cbda67156e69abb6450ea160d
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 909d97011d581641589cbc8245aeb9afa462734d53e208dda84657cd306d6fb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452311"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112203"
 ---
-# <a name="change-your-password"></a>Altere a sua palavra-passe
+# <a name="change-your-password"></a>Alterar a sua palavra-passe
 
-A sua Outlook.com palavra-passe é a mesma que a sua palavra-passe da conta Microsoft.
+A Outlook.com é a mesma que a palavra-passe da sua conta Microsoft.
   
-Para alterar a sua palavra-passe, aceda à segurança da [conta da Microsoft](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) e selecione a segurança da **palavra-passe**.
+Para alterar a sua palavra-passe, vá para Segurança [da conta Microsoft e selecione](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) Segurança da **palavra-passe**.
   
-Se esqueceu a sua palavra-passe, vá à página recuperar a [sua conta.](https://go.microsoft.com/fwlink/p/?linkid=841909)
+Caso se tenha esquecido da sua palavra-passe, vá [para a página Recuperar a sua](https://go.microsoft.com/fwlink/p/?linkid=841909) conta.
   
-Para saber mais, consulte [Alterar a sua palavra-passe em Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy).
+Para saber mais, consulte [Alterar a sua palavra-passe em Outlook.com.](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy)

@@ -1,5 +1,5 @@
 ---
-title: Como fazer uma compra Microsoft 365 cliente
+title: Como fazer uma compra Microsoft 365 nova
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -15,14 +15,14 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 772eeb20defdaa190b000cdcbbd3abe150dff4de971b5cd9d676f261880776a9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499045"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896942"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Como fazer uma compra Microsoft 365 cliente
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Como fazer uma compra Microsoft 365 nova
 
 Pode comprar uma subscrição Microsoft 365 subscrição no centro de administração.
   
@@ -30,7 +30,7 @@ Pode comprar uma subscrição Microsoft 365 subscrição no centro de administra
 - Para comprar licenças adicionais, vá à página **Faturação** \> **[dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos. Selecione a subscrição que pretende alterar e, em seguida, **selecione Comprar licenças**.\
 **VEJA um vídeo** que mostra como fazê-lo: [Comprar novas licenças](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Para saber mais, consulte [Comprar ou remover licenças.](/microsoft-365/commerce/licenses/buy-licenses)
+Para saber mais, consulte [Comprar ou remover licenças.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Resolução de Problemas**
 
@@ -38,5 +38,5 @@ Se tiver problemas com o carregamento da página, experimente abrir a página we
 
 **Recursos Adicionais**
   
-- [Atribuir licenças a utilizadores no Microsoft 365 para empresas](/microsoft-365/admin/add-users/add-users)
-- [Cancelar o Microsoft 365 para Empresas](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Atribuir licenças a utilizadores no Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Cancelar o Microsoft 365 para Empresas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

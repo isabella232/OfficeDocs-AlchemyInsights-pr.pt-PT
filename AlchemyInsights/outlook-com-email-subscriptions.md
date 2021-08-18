@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: cc65c04f0f77936fdc5d7919729aeeafba502c92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 99846eb93c3bc4c46120a6650d4cfe0910a358b1b0c43147f5723d3e09b91fa4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672427"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111915"
 ---
-# <a name="email-subscriptions"></a>Assinaturas de e-mail
+# <a name="email-subscriptions"></a>Subscrições de e-mail
 
-Porque estou a ver e-mails nas minhas listas de assinaturas?
+Por que motivo estou a ver e-mails nas minhas listas de subscrições?
 
-Outlook.com detetou que a mensagem de correio eletrónico contém informações de subscrição, incluindo "Cancelar a subscrição" na mensagem. Outlook.com não o subscreveu automaticamente em nenhuma newsletter.
+Outlook.com detetou que a mensagem de e-mail contém informações de subscrição, incluindo "Anular subscrição" na mensagem. Outlook.com não o subscreveu automaticamente a nenhuma newsletter.
 
-Se quiser deixar de receber newsletters ou promoções, há duas formas de cancelar a subscrição através Outlook.com:
-1. Na sua Caixa de Entrada, selecione uma newsletter ou e-mail promocional. No topo do painel de leitura, selecione **Cancelar a subscrição**.
-2. Abra as [definições de subscrições Outlook.com](https://go.microsoft.com/fwlink/?linkid=2110887) e selecione **Cancelar subscrições**.
+Se pretender deixar de receber newsletters ou promoções, existem duas formas de anular a subscrição através do Outlook.com:
+1. Na sua Caixa de Entrada, selecione uma newsletter ou e-mail promocional. Na parte superior do painel de leitura, **selecione Anular a subscrição**.
+2. Abra as [definições Outlook.com Subscrições](https://go.microsoft.com/fwlink/?linkid=2110887) do Outlook e selecione **Anular subscrição**.
 
-Notas: Só verá esta funcionalidade se tiver recebido um e-mail da empresa que envia e-mails subscritos.
-Se a sua consulta for sobre subscrições pagas microsoft 365, vá [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888)   ou saiba mais sobre o [Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
+Notas: só verá esta funcionalidade se tiver recebido um e-mail da empresa que enviou e-mails subscritos.
+Se a sua consulta for sobre Microsoft 365 de subscrições pagas, vá para ou [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) Saiba mais sobre o [Microsoft 365.](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade)
   

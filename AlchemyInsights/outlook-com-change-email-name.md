@@ -1,5 +1,5 @@
 ---
-title: Mude o nome do seu e-mail em Outlook.com
+title: Alterar o nome do seu e-mail Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,27 +13,27 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: 17c75293103a924dd76fdaf171ad04f5b3252b23
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64b9cd0d61d07aeeb69c83f7f35086ec23fa917b2c90665c567245fe4915abe1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798279"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112527"
 ---
-# <a name="change-your-email-name"></a>Mude o seu nome de e-mail
+# <a name="change-your-email-name"></a>Alterar o nome do seu e-mail
 
-Se tiver um Outlook.com endereço de e-mail e quiser alterar o nome que os destinatários verão nas suas mensagens:
+Se tiver um endereço Outlook.com e quiser alterar o nome que os destinatários irão ver nas suas mensagens:
   
 1. Selecione a sua imagem de conta no canto superior direito da página.
-2. Selecione **o meu perfil**.
-3. **Selecione Editar o nome** para fazer alterações e selecione **Guardar**.
+2. **Selecione O meu perfil**.
+3. **Selecione Editar nome** para fazer alterações e selecione **Guardar**.
 
-Por favor, permita que até 24 horas para que as alterações ao nome do seu perfil entrem em vigor.
+Admeta até 24 horas para que as alterações ao seu nome de perfil entrem em vigor.
   
-Se tiver mais de um pseudónimo ou endereço de e-mail ligado à sua conta Outlook.com, pode optar por enviar e-mail de qualquer um dos seus endereços.
+Se tiver mais do que um alias de e-mail ou endereço ligado à sua conta Outlook.com, pode optar por enviar e-mails a partir de qualquer um dos seus endereços.
   
-1. Ao compor uma mensagem, selecione "..." na parte inferior da janela de composição.
-1. Selecione **Mostrar De onde** ver a linha From.
-1. Acima da linha Para, selecione **partir** e escolha qual o endereço de e-mail que pretende utilizar.
+1. Ao compor uma mensagem, selecione "..." na parte inferior da janela de compor.
+1. **Selecione Mostrar** De para ver a linha De.
+1. Acima da linha Para, selecione **De e** selecione o endereço de e-mail que pretende utilizar.
 
-Para mais informações, consulte [Enviar por email o artigo Outlook.com.](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy)
+Para obter mais informações, consulte [Enviar e-mails a partir de um endereço diferente Outlook.com.](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy)

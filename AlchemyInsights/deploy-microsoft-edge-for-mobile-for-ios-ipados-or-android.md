@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e576bf74ee9e4035ea765ccc0f5e9173fc08be71
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005461"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315631"
 ---
 # <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Implementar o Microsoft Edge para Dispositivos Móveis para iOS/iPadOS ou Android
 
-O cenário guiado resumido abaixo irá ajudá-lo a Microsoft Edge a utilizadores de dispositivos iOS, iPadOS e Android. Após concluir estes passos, as seguintes Microsoft Intune irão ativar as seguintes funcionalidades do Microsoft Edge para empresas:
+O cenário guiado resumido abaixo irá ajudá-lo a Microsoft Edge a utilizadores de dispositivos iOS, iPadOS e Android. Após concluir estes passos, as Microsoft Intune ativará as seguintes funcionalidades do Microsoft Edge para empresas:
 
 - Identidade dupla
 - Integração com a Microsoft Intune de proteção de aplicações
 - Integração com Azure Active Directory Application Proxy
 - Favoritos geridos e atalhos da home page
 
-> [!NOTE]
-> Se bloqueou a inscrição de utilizadores de dispositivos móveis, este cenário guiado não irá funcionar e os utilizadores terão de instalar o Microsoft Edge deles próprios.
+**Nota:** Se bloqueou a inscrição de utilizadores de dispositivos móveis, este cenário guiado não irá funcionar e os utilizadores terão de instalar Microsoft Edge deles próprios.
 
 Para implementar o Microsoft Edge para Dispositivos Móveis para iOS/iPadOS ou Android, consulte:
 

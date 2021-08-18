@@ -17,12 +17,12 @@ ms.custom:
 - "9001497"
 - "4736"
 - "3551"
-ms.openlocfilehash: 0dcb9eae3241ae76850e9c5149b4c813b6967c70a431c3bea38fba1843967a95
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d9e65533910eae15c58eb6b0881bdc60ebf1f5bbfaf0880da90811cb95c820a9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53959486"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897323"
 ---
 # <a name="reactivate-your-subscription"></a>Reativar a sua subscrição
 
@@ -30,10 +30,10 @@ Se a sua subscrição expirar, se a mesma tiver sido desativada pela Microsoft o
 
 1. No centro de administração, vá para a página **Faturação**  >  [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.
 2. No **separador** Produtos, locale a subscrição que pretende reativar. Selecione os três pontos (mais ações) e, em **seguida, selecione Reativar esta subscrição**.
-3. No painel **Reativar esta subscrição,** selecione um método de pagamento na lista única ou selecione **Adicionar método de pagamento**.
+3. No painel **Reativar esta subscrição,** selecione um método de pagamento a partir da lista única ou selecione **Adicionar método de pagamento**.
 4. Seleccione **Guardar**.
 
-Para saber mais, consulte [Reativar a sua subscrição](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Para saber mais, consulte [Reativar a sua subscrição](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Gerir a renovação da subscrição**
 
@@ -45,4 +45,4 @@ Para gerir a faturação mensal ou anual, pode ativar ou desativar a **Faturaç�
 4. No painel **Editar definições de faturação** periódita, selecione Ativos, Ativos, mas renove **uma** vez ou **Deslige**.
 5. Seleccione **Guardar**.
 
-Para mais informações, consulte [Ativar ou desativar a faturação periódica](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Para mais informações, consulte [Ativar ou desativar a faturação periódica](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

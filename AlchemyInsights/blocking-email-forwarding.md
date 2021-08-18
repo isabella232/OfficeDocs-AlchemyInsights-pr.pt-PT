@@ -1,5 +1,5 @@
 ---
-title: 726 Bloquear o re encaminhamento de e-mail
+title: Bloquear ou desbloquear o re encaminhamento de e-mail automático externo
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059643"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897479"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>Bloquear ou desbloquear o recarregamento de e-mails
+# <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Bloquear ou desbloquear o re encaminhamento automático de e-mails automático desbloqueado
 
 Para ativar ou desativar o re encaminhamento de e-mail para uma caixa de correio específica, consulte [Configurar o re encaminhamento de e-mail.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-Ao nível do inquilino, o controlo do re encaminhamento externo é realizado através da política de spam de saída. Pode consultar a política de filtro de spam [](https://protection.office.com/antispam) de saída a partir do Centro de Conformidade e Segurança aqui ou através do comando [Get-HostedOutboundSpamFilterPolicy.](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy)
+Os administradores podem controlar o re encaminhamento externo da organização através de políticas de [spam de saída.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) Pode gerir as políticas de spam no portal do Microsoft 365 Defender em ou através do <https://security.microsoft.com/antispam> cmdlet [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) no Exchange Online PowerShell.
 
-Se estiver a obter o seguinte erro: **"550 5.7.520 O Access foi negado,** a sua organização não permite o re encaminhamento externo", certifique-se de que a política está configurada para ativar o Encaminhamento Automático Externo.
+Se receber a seguinte mensagem de erro: **"550 5.7.520 O Access foi negado,** a sua organização não permite o re encaminhamento externo", certifique-se de que a política está configurada para ativar as mensagens encaminhadas automaticamente externas.
 
-**Nota:** Recomendamos que mantenha a ativação automática externa desativada na sua política do filtro de spam de saída predefinida e ative-a apenas para os utilizadores que necessitam de re encaminhamento externo através da criação de uma política personalizada para esses utilizadores. Pode ler mais em Configurar o [re encaminhamento de e-mail externo no Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**Nota:** Recomendamos o valor predefinido Automático **–** o sistema controlado para a definição Regras de re encaminhamento automático na sua política de filtro de spam predefinida (o re encaminhamento externo automático está bloqueado; o encaminhamento automático interno ainda funciona).  Deve criar políticas personalizadas de filtro de spam de saída e utilizar o valor Ativado **-** O re encaminhamento só está ativado para utilizadores que precisem de re encaminhamento de e-mail automático externo. Para obter mais informações, consulte [Configurar o re encaminhamento de e-mail externo Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).

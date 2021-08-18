@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "441"
 - "1500017"
-ms.openlocfilehash: eaac309cda64aafa5c2d3f99d7761ee7f4faa75f1fa138a095615efe927e109b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bb372f31392d6a8875a6c1e0a1905bcffb0da016b61eaf5bc6dbb2bcbb561a45
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001987"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898703"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Como reativar uma subscrição
 
@@ -29,7 +29,7 @@ Se a sua subscrição expirou, foi cancelada ou desativada pela Microsoft, pode 
 1. No centro de administração, vá para a página **Faturação** \> [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.
 2. No **separador** Produtos, locale a subscrição que pretende reativar. Selecione os três pontos (mais ações) e, em **seguida, selecione Reativar esta subscrição**.
     Se não vir a ação **Reativar esta subscrição como** uma ação disponível, ligue para o suporte.
-3. No painel **Reativar esta subscrição,** selecione um método de pagamento na lista única ou selecione **Adicionar método de pagamento**.
+3. No painel **Reativar esta subscrição,** selecione um método de pagamento a partir da lista única ou selecione **Adicionar método de pagamento**.
 4. Seleccione **Guardar**.
 
-Para saber mais, consulte [Reativar a sua subscrição](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Para saber mais, consulte [Reativar a sua subscrição](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 3e3ce845bdae94c5d0fb54d34448bfc91a7540dcd33f9820c030406f19108f97
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: afc210b65353d2487884070aadb3455a3b510fa7f2ef2800bef31cb77a5f1751
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012139"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901479"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>Grupo de Peritos em Ameaças da Microsoft - Notificação de Ataque Directado
 
@@ -26,7 +26,7 @@ A Notificação de Ataque Diretado é uma das duas Grupo de Peritos em Ameaças 
 
 Se for um cliente do Microsoft Defender para Pontos Finais, tem de se candidatar ao Grupo de Peritos em Ameaças da Microsoft - Notificações de Ataque Diretado para obter informações e análises especiais que o ajudem a identificar as ameaças mais críticas para que possa responder às mesmas rapidamente.
 
-Para se inscrever para o Grupo de Peritos em Ameaças da Microsoft - benefícios das Notificações de Ataque De Destino, vá para **Definições** Funcionalidades Avançadas  >    >    >  **Gerais Grupo de Peritos em Ameaças da Microsoft - Notificações** de Ataque Diretado a aplicar. Assim que aceitar, obterá as vantagens das Notificações de Ataque Diretado.
+Para se inscrever para o Grupo de Peritos em Ameaças da Microsoft - benefícios das Notificações de Ataque De Destino, vá para **Definições** Funcionalidades Avançadas  >    >    >  **Gerais Grupo de Peritos em Ameaças da Microsoft - Notificações** de Ataque Directado a aplicar. Assim que aceitar, obterá as vantagens das Notificações de Ataque Diretado.
 
 Pode receber uma notificação de ataque de destino Grupo de Peritos em Ameaças da Microsoft através dos seguintes meios:
 
@@ -36,6 +36,6 @@ Pode receber uma notificação de ataque de destino Grupo de Peritos em Ameaças
 - Tabela DeviceAlertEvents em Procura avançada
 - O seu e-mail, se optar por configurá-lo
 
-Para receber notificações de ataque diretido por e-mail, crie uma regra de notificação por e-mail. 
+Para receber notificações de ataque direta por e-mail, crie uma regra de notificação por e-mail. 
 
-Consulte [Configurar e gerir Grupo de Peritos em Ameaças da Microsoft funcionalidades de suporte para](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) obter detalhes.
+Consulte [Configurar e gerir Grupo de Peritos em Ameaças da Microsoft funcionalidades de suporte para](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) obter detalhes.

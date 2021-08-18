@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 0fe2b57e7dc443b24709772213c1fed31f2c95bdf821d00b74e9d166dc223410
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf17bb3ed8bab2379b4435d23e5cc0e2491580a6128780b1e6166513e54c6abd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53999611"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901303"
 ---
 # <a name="recording-in-teams"></a>Gravação no Teams
 
 Se o botão  Iniciar gravação de um utilizador estiver desa cinzento ou em falta numa reunião do Teams, experimente executar o Diagnóstico de Gravação da Reunião ao escrever **Marcação:** Gravação da Reunião na caixa acima. 
 
-Microsoft Teams gravações de reuniões podem agora ser armazenadas no OneDrive SharePoint. Mover a sua localização de armazenamento para OneDrive e o SharePoint corrige o problema em que as gravações das reuniões não funcionam porque o Stream não está disponível na sua região. Para obter mais informações, consulte as [FAQ do Microsoft Stream.](/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)
+Microsoft Teams gravações de reuniões podem agora ser armazenadas no OneDrive SharePoint. Mover a sua localização de armazenamento para OneDrive e o SharePoint corrige o problema em que as gravações das reuniões não funcionam porque o Stream não está disponível na sua região. Para obter mais informações, consulte as [FAQ do Microsoft Stream.](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)
 
 Para mais informações sobre guardar gravações de reuniões, consulte o artigo do Centro de Mensagens: [(Atualizado) Microsoft Teams:](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)gravações de reuniões guardadas no OneDrive e no SharePoint .
 
-Para saber como ativar e configurar a funcionalidade de gravação no Teams para a sua organização, incluindo os controlos para ativar ou desativar a gravação de reuniões para utilizadores específicos, consulte o Teams gravação da reunião na nuvem [.](/microsoftteams/cloud-recording) 
+Para saber como ativar e configurar a funcionalidade de gravação no Teams para a sua organização, incluindo os controlos para ativar ou desativar a gravação de reuniões para utilizadores específicos, consulte Gravar uma reunião na nuvem [Teams](https://docs.microsoft.com/microsoftteams/cloud-recording). 
 
 Se ainda não conseguir gravar no Teams ou precisar de compreender como gravar no Teams, consulte: 
 
 [Funcionalidade Atualizada: controlo de armazenamento regional das gravações na nuvem do Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 
-A gravação da reunião Teams requer licenças e políticas atribuídas específicas, incluindo licenças do Stream para carregar ou transferir gravações de reuniões para o Microsoft Stream. Para obter detalhes, consulte [Pré-requisitos para ver a Teams de reunião na nuvem](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording).
+A gravação da reunião no Teams requer licenças e políticas atribuídas específicas, incluindo licenças do Stream para carregar ou transferir gravações de reuniões para o Microsoft Stream. Para obter detalhes, consulte [Pré-requisitos para a Teams de reunião na nuvem](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording).
 
-Assim que confirmar que todos os requisitos são cumpridos, incluindo o licenciamento, as políticas e a disponibilidade regional do Stream, consulte Gravar uma reunião [no Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24). 
+Assim que confirmar que todos os requisitos são cumpridos, incluindo licenciamento, políticas e disponibilidade regional do Stream, consulte Gravar uma reunião [no Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24). 

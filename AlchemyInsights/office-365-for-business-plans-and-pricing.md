@@ -16,13 +16,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: 598701d6883132c20d13345db846356a5cc89b6a2ca6f76a8a6a05c57e494f8b
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 0ab2a4575f360abd4757d25626a1ab3d5888b887
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503211"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318207"
 ---
 # <a name="compare-microsoft-365-for-business"></a>Comparar Microsoft 365 para empresas
 
-Existem planos diferentes disponíveis com o Microsoft 365 para empresas. Para obter mais informações sobre funcionalidades e preços, consulte [Comparar Microsoft 365 para planos para empresas.](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products)  
+Existem diferentes planos disponíveis com o Microsoft 365 para empresas. Para obter informações sobre funcionalidades e preços, consulte [Comparar Microsoft 365 para planos para empresas.](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products)  

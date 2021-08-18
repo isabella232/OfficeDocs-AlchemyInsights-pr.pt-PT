@@ -1,5 +1,5 @@
 ---
-title: 761 Conectar-se a Exchange Online PowerShell quando o MFA estiver ativado
+title: 761 Ligar-se a Exchange Online PowerShell quando a mfa está ativada
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 5622b6faef8f1fb5d39d884410feda5af07ff466
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d60e36e779327f18de760bfd487f9056034cdf016b4282180648906277f6d2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748111"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090279"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Ligue-se a Exchange Online PowerShell quando o MFA estiver ativado
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Ligação a Exchange Online PowerShell quando a mfa está ativada
 
-Se a sua conta tiver a autenticação multi-factor (MFA) ativada, tem de seguir estas instruções para ligar ao Exchange Online PowerShell: [Utilize o Exchange Online PowerShell com a autenticação moderna utilizando o módulo V2](https://aka.ms/exops-docs). Por favor, procure instruções de autenticação de MFA / Multi Fator nessa página.
+Se a sua conta tiver a autenticação multifactor (MFA) ativada, tem de seguir estas instruções para se ligar ao Exchange Online PowerShell: utilize [o Exchange Online PowerShell](https://aka.ms/exops-docs)com a autenticação moderna utilizando o módulo V2 . Procure as instruções MFA/Multi Factor Authentication na página.

@@ -11,17 +11,16 @@ ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms-custom:
 - "1846"
 - "9000253"
-ms.openlocfilehash: 2ce3d5467d8582aa3a3216b0efbc73ead5570248c4da57e175e0d4decc326f1c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 341a77e9a6738cd96a8b4587e52e633be0176010
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54051101"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318099"
 ---
 # <a name="sharepoint-publishing-infrastructure"></a>Infraestrutura de Publicação do SharePoint
 
-> [!IMPORTANT]
-> Os Sites de Comunicação Moderna não suportam as funcionalidades de publicação clássicas conhecidas como Infraestrutura de Publicação do SharePoint Server. Ao tentar ativar a funcionalidade para um Site de Comunicação moderno, irá receber uma mensagem de erro. Os sites de comunicação modernos fornecem uma nova alternativa por predefinição.
+**Importante:** os Sites de Comunicação Moderna não suportam as funcionalidades de publicação clássicas conhecidas como Infraestrutura de Publicação do SharePoint Server. Ao tentar ativar a funcionalidade para um Site de Comunicação moderno, irá receber uma mensagem de erro. Os sites de comunicação modernos fornecem uma nova alternativa por predefinição.
 
 Para sites clássicos, o SharePoint inclui um conjunto clássico de funcionalidades que lhe permitem criar e publicar páginas Web avançadas para a sua intranet. Ative a Infraestrutura de Publicação do SharePoint ao nível da coleção de site para ativá-la.
 

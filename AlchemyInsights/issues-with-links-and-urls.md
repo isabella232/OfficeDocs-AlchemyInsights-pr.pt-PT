@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054809"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321918"
 ---
 # <a name="issues-with-links-and-urls"></a>Problemas com ligações e URLs
 
@@ -42,15 +42,13 @@ Para adicionar um URL de resposta, aceda ao separador **Autenticação** na sua 
     - da plataforma (iOS/Android/UWP)
     - das informações utilizadas para criar a sua aplicação, como o ID do pacote no iOS, e o nome do pacote e o hash da assinatura no Android. O registo da aplicação no portal do Azure irá ajudá-lo. Para mais informações, consulte [Configuração da plataforma e URIs de redirecionamento](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> As APIs Web e algumas das formas silenciosas de adquirir tokens (IWA e nome de utilizador/palavra-passe) não requerem um URI de redirecionamento.
+**Nota:** as APIs Web e algumas das formas silenciosas de adquirir tokens (IWA e nome de utilizador/palavra-passe) não necessitam de um URI de redirecionamento.
 
 **Implementei a minha aplicação Web e quando estou a testar a aplicação implementada, obtenho uma mensagem sobre um erro de correspondência de um URL de resposta**
 
 Adicione URIs de redirecionamento para todas as localizações nas quais está a implementar a sua aplicação Web. Para mais informações, consulte [Registar uma aplicação Web através do portal do Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Adicione o URI de redirecionamento a uma localização imediatamente após implementar a aplicação nessa localização.
+**Nota:** adicione o URI de redirecionamento para uma localização imediatamente após ter implementado a aplicação nessa localização.
 
 **Não consigo registar URLs de resposta suficientes**
 

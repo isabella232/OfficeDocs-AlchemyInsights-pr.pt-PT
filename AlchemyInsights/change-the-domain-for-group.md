@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: eab64b90775c28a84ebd33774ec5bf68303892dd4b2880493a4b236d9d8993d0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a4505b586f474568ea6ec71f23f3c7eab868fe05
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53917002"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322306"
 ---
 # <a name="change-the-domain-for-a-microsoft-365-group"></a>Alterar o domínio de um Microsoft 365 Grupo
 
@@ -29,5 +29,4 @@ Para alterar o domínio de um Grupo de Microsoft 365, como administrador, pode n
 - Procure o Grupo M365 que pretende modificar e escolha-o e, em seguida, clique em **Editar** em Endereços de **E-mail** quando estiver no **separador** Geral.
 - Agora pode alterar o domínio do seu endereço de e-mail principal e também pode adicionar aliases de e-mail.
 
-> [!IMPORTANT]
-> Os grupos de distribuição normais e os grupos de segurança com capacidade de correio  irão permitir-lhe gerir menos definições a partir do Centro de Administração M365, secção Grupos. Se quiser gerir mais detalhes, clique no separador **Definições** ao editar um deles no Centro de Administração do M365 e selecionar Gerir mais definições na opção **Exchange** de administração.
+> **Importante:** Os grupos de distribuição regulares e os grupos de segurança com capacidade de  correio irão permitir-lhe gerir menos definições a partir do Centro de Administração do M365, secção Grupos. Se quiser gerir mais detalhes, clique no separador **Definições** ao editar um deles no Centro de Administração do M365 e selecionar Gerir mais definições na opção centro de administração do **Exchange.**

@@ -1,5 +1,5 @@
 ---
-title: Utilize opções de linha de comando para configurar definições de procuração no Microsoft Edge
+title: Utilizar opções da linha de comandos para configurar definições de proxy no Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,17 +14,17 @@ ms.custom:
 - "9004632"
 - "7561"
 - "8363"
-ms.openlocfilehash: e8702c6ef6d4f723e314ad5b82ddcf554988b36f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 09d29d48f7829e606afce7909d8a986b63dd8dc3484ca0ea6c07af60bc8f1a23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403430"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118425"
 ---
-# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Utilize opções de linha de comando para configurar definições de procuração no Microsoft Edge
+# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Utilizar opções da linha de comandos para configurar definições de proxy no Microsoft Edge
 
-Nas versões 77 e posteriores do Microsoft Edge, a pilha de rede utiliza as definições de rede do sistema por padrão. Em cenários híbridos onde os utilizadores solicitam uma alternativa, o Microsoft Edge suporta opções de linha de comando para configurar configurações de procuração personalizadas. Para mais detalhes, consulte:
+Nas Microsoft Edge 77 e posteriores, a pilha de rede utiliza as definições de rede do sistema por predefinição. Em cenários híbridos em que os utilizadores pedem uma alternativa, o Microsoft Edge suporta opções de linha de comandos para configurar definições de proxy personalizadas. Para obter detalhes, consulte:
 
-1. [Definições de rede de sistema](https://go.microsoft.com/fwlink/?linkid=2133962)
-2. [Opções de linha de comando para configurações de procuração](https://go.microsoft.com/fwlink/?linkid=2134292)
+1. [Definições de rede do sistema](https://go.microsoft.com/fwlink/?linkid=2133962)
+2. [Opções da linha de comandos para definições de proxy](https://go.microsoft.com/fwlink/?linkid=2134292)
 3. [Definições de configuração avançadas e outras opções](https://go.microsoft.com/fwlink/?linkid=2134293)

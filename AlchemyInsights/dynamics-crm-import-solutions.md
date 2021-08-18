@@ -1,5 +1,5 @@
 ---
-title: Soluções de importação de CRM dinâmicos
+title: Soluções de Importação do Dynamics CRM
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,22 +12,22 @@ ms.custom:
 - "1077"
 - "1078"
 - "6200003"
-ms.openlocfilehash: b27dc0251ac89fa6e47744ac42ba9a95c8568c21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a2db0671d2d7caa1540704e74a8330e0791f68f1dfc2a5b3bf9988f8d716b684
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711178"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118503"
 ---
-# <a name="dynamics-crm-import-solutions"></a>Soluções de importação de CRM dinâmicos
+# <a name="dynamics-crm-import-solutions"></a>Soluções de Importação do Dynamics CRM
 
-* [Solução não pode ser eliminada devido a dependências](https://support.microsoft.com/help/4345785/solution-cannot-be-deleted-due-to-dependencies-from-other-components-i)
+* [A solução não pode ser eliminada devido a dependências](https://support.microsoft.com/help/4345785/solution-cannot-be-deleted-due-to-dependencies-from-other-components-i)
 
-* [Solução de importação de erro de versão de montagem](https://support.microsoft.com/help/4345239/assembly-version-error-importing-dynamics-365-solution)
+* [Solução de importação de erros de versão de Assemblagem](https://support.microsoft.com/help/4345239/assembly-version-error-importing-dynamics-365-solution)
 
-* [Falhou na exportação de erro do Processo Comercial](https://support.microsoft.com/help/4337537/invalid-export-business-process-entity-missing)
+* [Falha ao exportar o erro Processo de Negócio](https://support.microsoft.com/help/4337537/invalid-export-business-process-entity-missing)
 
-* [A instalação ou remoção da solução falhou devido à instalação ou remoção de outra solução ao mesmo tempo](https://support.microsoft.com/help/4343228/the-solution-installation-or-removal-failed-due-to-the-installation-or)
+* [Falha na instalação ou remoção da solução devido à instalação ou remoção de outra solução ao mesmo tempo](https://support.microsoft.com/help/4343228/the-solution-installation-or-removal-failed-due-to-the-installation-or)
 
-* [Instale, atualize ou remova uma solução preferida](https://docs.microsoft.com/dynamics365/customer-engagement/admin/install-remove-preferred-solution)
+* [Instalar, atualizar ou remover uma solução preferida](https://docs.microsoft.com/dynamics365/customer-engagement/admin/install-remove-preferred-solution)
   

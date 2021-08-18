@@ -1,5 +1,5 @@
 ---
-title: Alterar senha de router W-Fi
+title: Alterar a palavra-passe do router W-Fi
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 61de1cd3e1cab28c01aa0a2fddcd41a13a92d361
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a216d0e06a3e6865ca0ed157d976e5623ddbd9b02624e387a2f9755315f913bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818195"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119619"
 ---
-# <a name="change-your-wi-fi-router-password"></a>Altere a sua senha de router de Wi-Fi
+# <a name="change-your-wi-fi-router-password"></a>Alterar a palavra-passe do Wi-Fi do router
 
-Para alterar a palavra-passe do router da sua Wi-Fi, siga estes passos:
+Para alterar a Wi-Fi do router de e-Wi-Fi, siga estes passos:
 
-1. Selecione **Iniciar**  >  **a**  >  **Rede &** Rede de Internet e Centro de  >  **Partilha**.
+1. **Selecione**  >  **Iniciar Definições** Rede & Centro de Rede e Partilha  >    >  **da** Internet .
 
-2. Em **Ver as suas redes ativas,** procure a rede a que está conectado. Selecione o link azul ao lado **das Ligações**.<br>
+2. Em **Ver as suas redes ativas,** procure a rede à que está ligado. Selecione a ligação azul junto **a Ligações.**<br>
 
-   **Nota:** Se não estiver ligado ao Wi-Fi, terá de se ligar antes de alterar a palavra-passe.
+   **Nota:** Se não estiver ligado a uma rede Wi-Fi, terá de se ligar antes de poder alterar a palavra-passe.
 
-3. Selecione **Detalhes**.
+3. **Selecione Detalhes**.
 
-4. Procure o seu Portal Padrão IPv4 e tome nota desta série de números, incluindo períodos. Por exemplo: 192.168.0.1, 192.168.1.1, 10.0.0.1 ou 10.0.1.1
+4. Procure o seu Gateway Predefinido do IPv4 e tome nota desta cadeia de números, incluindo pontos. Por exemplo: 192.168.0.1, 192.168.1.1, 10.0.0.1 ou 10.0.1.1
 
-5. Abra um browser, introduza esta série de números, incluindo os períodos na barra de endereços, e prima Enter para ir à página de configuração do router.
+5. Abra um browser, introduza esta cadeia de números, incluindo os períodos na barra de endereço, e prima Enter para ir para a página de configuração do router.
 
-6. Quando a página de configuração do router abrir, insira o seu nome de utilizador e senha.<br>
-   - Se nunca tiver alterado o nome de utilizador e a palavra-passe padrão para o router, é provável que consiga encontrar esta informação no manual do seu router.
+6. Quando a página de configuração do router abrir, introduza o seu nome de utilizador e palavra-passe.<br>
+   - Se nunca tiver alterado o nome de utilizador e a palavra-passe predefinida do router, é provável que consiga encontrar estas informações no manual do router.
 
-   - Contacte o fabricante do seu router se precisar de suporte adicional para entrar nesta página web.
+   - Contacte o fabricante do router se precisar de mais suporte para entrar nesta página Web.
 
-7. Assim que iniciar sessão, encontre as definições sem fios. Deverá agora poder alterar a sua palavra-passe Wi-Fi.
+7. Depois de ter sessão sessão, procure Definições sem fios. Agora deverá conseguir alterar a sua palavra-passe Wi-Fi-passe.

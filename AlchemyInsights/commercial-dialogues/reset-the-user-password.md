@@ -1,5 +1,5 @@
 ---
-title: Redefinir a senha do utilizador
+title: Repor a palavra-passe do utilizador
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: bd75e15ec07981fea5a8e510d7fa025402affc71
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: ed5f48ba746da47e2e5db1cb9f279e1cf9b862e47813d617ab7df18ed64725ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403106"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119187"
 ---
-# <a name="reset-the-users-password"></a>Redefinir a senha do utilizador
+# <a name="reset-the-users-password"></a>Repor a palavra-passe do utilizador
 
-Terá de redefinir a palavra-passe do utilizador antes de fazer qualquer outra coisa. Faça o seguinte:
+Terá de repor a palavra-passe do utilizador antes de fazer outra ação. Faça o seguinte:
 
-1. Selecione **utilizadores**  >  **[Utilizadores Ative](https://go.microsoft.com/fwlink/p/?linkid=834822)**.
+1. **Selecione Utilizadores**  >  **[Ativos.](https://go.microsoft.com/fwlink/p/?linkid=834822)**
 1. Selecione o utilizador cuja conta foi comprometida.
-1. No flyout que aparece, clique na **palavra-passe Reset**.
+1. Na panfleto que é exibida, clique em **Repor palavra-passe**.
 
 > [!NOTE]
 > Não envie a palavra-passe ao utilizador por e-mail.

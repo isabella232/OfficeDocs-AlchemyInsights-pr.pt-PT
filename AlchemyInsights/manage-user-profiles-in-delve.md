@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: 7bcd7b20d847492d1f516878fd52dc2a6798b6b2afa90edea8eb4e460834a4eb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5b99d4950c72d3167368e3a2754e9cb9e4c6348f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54042209"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322863"
 ---
 # <a name="manage-user-profiles-in-delve"></a>Gerir perfis de utilizador no Delve
 
@@ -28,9 +28,8 @@ Office Delve permite que os utilizadores façam a gestão dos respetivos perfis 
     
 - Alterar o idioma e o formato de hora da Delve
     
-> [!NOTE]
-> Se um utilizador tiver atualizado a sua imagem de perfil e a alteração não for apresentada no SharePoint ou no OneDrive, peça-lhe para abrir um browser, vá a [Office.com,](https://www.office.com)inicie a sua conta escolar ou profissional e, em seguida, clique no mosaico OneDrive ou SharePoint. Esta ação irá pedir à imagem do perfil para sincronização. O utilizador poderá ter de tentar concluir estes passos com a versão Privada do respetivo browser. 
+**Nota:** se um utilizador tiver atualizado a sua imagem de perfil e a alteração não for apresentada no SharePoint ou no OneDrive, peça-lhe para abrir um browser, ir para [Office.com,](https://www.office.com)iniciá-la com a conta escolar ou profissional e, em seguida, clicar no mosaico OneDrive ou SharePoint. Esta ação irá pedir à imagem do perfil para sincronização. O utilizador poderá ter de tentar concluir estes passos com a versão Privada do respetivo browser. 
   
-[Saiba mais sobre atualizar perfis no Delve](https://go.microsoft.com/fwlink/?linkid=735070)
+[Saiba mais sobre como atualizar perfis no Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

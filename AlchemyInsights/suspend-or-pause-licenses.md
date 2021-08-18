@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: 008c46718fed2704bb03972e44f2b7b1933c44da729fa4473841939cc5caed51
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 6d491718291940175fe7f319ba6eebf1c4011577e7e15802725a3c5baa77db25
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501323"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900120"
 ---
 # <a name="suspend-or-pause-licenses"></a>Suspender ou pausar licenças
 
@@ -28,10 +28,10 @@ ms.locfileid: "54501323"
 
 Para suspender ou colocar a utilização da licença em pausa temporariamente, pode remover licenças do centro de administração do Microsoft 365 e, em seguida, adicioná-las novamente mais tarde.
 
-1. Antes de remover licenças da sua subscrição, primeiro tem de cancelar a atribuição [de licenças de utilizadores.](/microsoft-365/admin/manage/remove-licenses-from-users)
+1. Antes de remover licenças da sua subscrição, primeiro tem de cancelar a atribuição [de licenças de utilizadores.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)
 2. Em seguida, vá para **a página Faturação**  >  [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.
 3. No **separador** Produtos, selecione a subscrição que pretende atualizar.
 4. Na página de detalhes da subscrição, **selecione Remover licenças**.
 5. No painel **Remover licenças,** na caixa Total de **licenças,** introduza o número total de licenças que pretende para esta subscrição e, em seguida, selecione **Guardar**. Por exemplo, se tiver 100 licenças e quiser suspender ou pausar 25, introduza 75 como o total de licenças para a sua subscrição.
 
-Para mais informações, consulte [Comprar ou remover licenças](/microsoft-365/commerce/licenses/buy-licenses).
+Para mais informações, consulte [Comprar ou remover licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

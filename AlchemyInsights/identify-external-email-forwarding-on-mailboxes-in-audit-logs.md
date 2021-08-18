@@ -13,31 +13,33 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1e80917a323128ba23175651cdf4d892d7815a89c1223b654812c1b456c787da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54028759"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899895"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identificar quando o re encaminhamento de e-mail externo está configurado em caixas de correio
 
-Quando um Microsoft 365 configura o encaminhamento de e-mail externo numa caixa de correio, a atividade é auditada como parte do cmdlet **Set-Mailbox.** Pode ver a atividade através da pesquisa de registo de auditoria no Centro de conformidade & segurança.
+Quando um utilizador Microsoft 365 configura o receção de e-mail externo numa caixa de correio, a atividade é auditada como parte do cmdlet **Set-Mailbox.** Pode ver a atividade através da pesquisa do registo de auditoria. Eis como fazê-lo.
 
-1. In iniciar sessão no [Centro Microsoft 365 conformidade.](https://protection.office.com/)
+1. Eis um dos seguintes passos:
+   - Na Centro de Conformidade do Microsoft 365 em <https://compliance.microsoft.com> , vá para Auditoria **de** \> **Soluções**. Em vez disso, para ir diretamente para **a página** Auditoria, utilize <https://compliance.microsoft.com/auditlogsearch> .
+   - No portal Microsoft 365 Defender de Equipa em <https://security.microsoft.com> , vá para **Auditoria**. Em vez disso, para ir diretamente para **a página** Auditoria, utilize <https://sip.security.microsoft.com/auditlogsearch> .
 
-2. Aceda à página **Pesquisa de registo** de auditoria  >  **de** pesquisa.
+2. Na página **Auditoria,** verifique se o separador **Procurar está** selecionado e, em seguida, configure as seguintes definições:
+   - Selecione o intervalo de data/hora nas **caixas** **Início e** Fim.
+   - Verifique se **a caixa Atividades** contém Mostrar resultados de todas as **atividades.**
 
-3. Selecione o intervalo de **datas nos campos Data de início** e Data **de** fim. Não precisa de especificar um nome de utilizador. Verifique se o **campo Atividades** está definido para Mostrar resultados de todas **as atividades.**
+3. Quando terminar, clique em **Procurar**. As atividades são apresentadas na nova página **Pesquisa de** auditoria.
 
-4. Clique **em Procurar**.
+4. Nos resultados, clique em **Filtrar Resultados** e escreva **Definir Caixa de Correio** na caixa de filtro de atividade.
 
-Nos resultados, clique em **Filtrar Resultados** e escreva **Definir Caixa de Correio** na caixa de filtro de atividade. Selecione um registo de auditoria nos resultados. Na **panfleto** Detalhes, clique **em Mais informações.** Tem de ver os detalhes de cada registo de auditoria para determinar se a atividade está relacionada com o re encaminhamento de e-mails.
+5. Selecione um registo de auditoria nos resultados. Na **panfleto** Detalhes, clique **em Mais informações.** Tem de ver os detalhes de cada registo de auditoria para determinar se a atividade está relacionada com o re encaminhamento de e-mails.
 
-- **ObjectId:** o valor do alias da caixa de correio que foi modificada.
+   - **ObjectId:** o valor do alias da caixa de correio que foi modificada.
+   - **Parâmetros:** _ForwardingSmtpAddress indica_ o endereço de e-mail de destino.
+   - **UserId:** o utilizador que configurou o re encaminhamento de e-mail na caixa de correio no **campo ObjectId.**
 
-- **Parâmetros:** _ForwardingSmtpAddress indica_ o endereço de e-mail de destino.
-
-- **UserId:** o utilizador que configurou o re encaminhamento de e-mail na caixa de correio no **campo ObjectId.**
-
-Para obter mais informações, consulte Determinar [quem configurar o receção de e-mails para uma caixa de correio.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)
+Para obter mais informações, consulte Determinar [quem configurar o receção de e-mails para uma caixa de correio.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)

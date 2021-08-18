@@ -1,5 +1,5 @@
 ---
-title: Disponibilidade do Microsoft Viva Insights
+title: Informações Microsoft Viva Disponibilidade
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8337"
-ms.openlocfilehash: 141a896fe181a554ae2b5ace46b6f09b6006692f
-ms.sourcegitcommit: 8e08d8c45807fa3dd4db6574977a8466a2514383
+ms.openlocfilehash: 5744a83b5652bc9ef39b81ba98352cfa5c7401143057fc5d51d164757413a6d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50315512"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113787"
 ---
-# <a name="microsoft-viva-insights-availability"></a>Disponibilidade do Microsoft Viva Insights
+# <a name="microsoft-viva-insights-availability"></a>Informações Microsoft Viva Disponibilidade
 
-O Microsoft Viva Insights já se encontra disponível em pré-visualização.
+Informações Microsoft Viva já está disponível na pré-visualização.
 
-[Baixar](https://aka.ms/InsightsDocumentation) Viva Insights em Equipas microsoft.
+[Transferir](https://aka.ms/InsightsDocumentation) Viva Informações no Microsoft Teams.
 
-[Saiba mais](https://aka.ms/VivaInsights) sobre como o Viva Insights ajuda a criar uma cultura onde as pessoas e os negócios possam prosperar.
+[Saiba mais](https://aka.ms/VivaInsights) sobre como o Viva Informações ajuda a criar uma cultura em que as pessoas e as empresas podem ajudar a sua produção.
 
-Para mais informações, veja como [o Microsoft Viva Insights ajuda as pessoas a criar bem-estar e a ser o melhor.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-insights-helps-people-nurture-wellbeing-and-be/ba-p/2107010)
+Para obter mais informações, veja como Informações Microsoft Viva ajuda as pessoas a amadurar [o bem-estar e a ser o melhor.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-insights-helps-people-nurture-wellbeing-and-be/ba-p/2107010)

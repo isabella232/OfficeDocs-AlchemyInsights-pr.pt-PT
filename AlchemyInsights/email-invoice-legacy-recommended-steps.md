@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae0061651012e12ec5792c4c27df99c0092141ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003635"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326516"
 ---
 # <a name="e-mail-invoice---legacy"></a>Fatura por E-mail - Legada
 
@@ -52,5 +52,4 @@ Para permitir que os utilizadores/grupos com acesso ao nível da subscrição tr
 4. Selecione a sua subscrição do Azure e, em seguida, clique em **Permitir que outras pessoas transfiram a fatura**.
 5. Selecione **Ligar** e, em seguida, **Guardar** na parte superior da página.
 
-> [!NOTE]
-Se não for o administrador de conta, contacte o administrador da sua conta para seguir as instruções acima para optar ativamente por ativar a opção, adicionar destinatários ou permitir que outros utilizadores transfiram a fatura.
+**Nota:** se não for o administrador de conta, contacte o administrador da sua conta para seguir as instruções acima para optar ativamente por ativar a utilização, adicionar destinatários ou permitir que outros utilizadores transfiram a fatura.

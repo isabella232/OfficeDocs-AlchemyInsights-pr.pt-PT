@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "1500008"
 - "2443"
-ms.openlocfilehash: ac05aa634f3c96cd90c657254c16503805ab21c8bac0e97b94d2e3021a4a62c4
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7695d0f4bbea4f81146135b800fd2525decb625f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501971"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326190"
 ---
 # <a name="manage-app-licenses"></a>Gerir licenças de aplicações
 
@@ -38,4 +38,4 @@ ms.locfileid: "54501971"
 
 1. Vá para a página **Faturação**  >  **[dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos.
 2. No **separador** Produtos, na secção **Aplicações,** localcione e selecione a aplicação que pretende gerir.
-3. Em **Definições & , selecione** a ligação para Gerir no portal **do Publisher**.
+3. Em **Definições & , selecione** a ligação para Gerir no portal **do editor**.

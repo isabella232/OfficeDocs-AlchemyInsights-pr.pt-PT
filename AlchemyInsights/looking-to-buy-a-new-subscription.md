@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: commerce_purchasing
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: ae9e8990e826a0cc0f6505dc6c0f2083599cd4866c7f4338d4a1c67568083616
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 9a58e263201ae272f51e75bdb0a3826ae236f59e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895458"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326236"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Quer comprar uma nova subscrição?
 
@@ -37,4 +37,4 @@ Se já tiver uma subscrição do Microsoft 365 para empresas e quiser comprar ou
     
 - [Cancelar a sua subscrição](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- Se estiver interessado em mudar de subscrições, consulte Mudar para [um plano Microsoft 365 para empresas.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- Se estiver interessado em mudar de subscrição, consulte Mudar para [um plano Microsoft 365 para empresas.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)

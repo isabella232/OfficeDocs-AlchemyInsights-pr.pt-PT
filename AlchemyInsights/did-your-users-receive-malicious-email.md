@@ -14,12 +14,12 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 525af0b29ffa291ddf69f6f2d97f505e93342989
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893414"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326715"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Os seus utilizadores receberam e-mail malicioso?
 
@@ -40,7 +40,7 @@ Entretanto, pode remover o e-mail malicioso das caixas de entrada dos utilizador
 
 - Os clientes com o Microsoft Defender para Office 365 podem:
   - Utilizar [o Explorador de Ameaças para Encontrar e Eliminar E-mails Suspeitos](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
-  - [Utilizar Cofre para bloquear o acesso](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) a um URL malicioso
+  - [Utilizar Cofre ligações para bloquear o acesso](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) a um URL malicioso
   - Controlar utilizadores que clicam e acederam a URLs maliciosos: Ver o URL de [phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)e clicar em dados de veredito  &  [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
   - Iniciar [manualmente uma Investigação Automática](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 

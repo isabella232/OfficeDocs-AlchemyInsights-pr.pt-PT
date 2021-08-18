@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e5bb1fda1dec0c0f72d1944d54b6f2747a6e909
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883142"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326088"
 ---
 # <a name="outbound-relay-pool"></a>Grupo de relay de saída
 
-A Microsoft está a fazer algumas alterações à configuração do relaying ou encaminhamento de e-mail através Microsoft 365. As mensagens em determinados cenários são re encaminhadas ou relayadas através Microsoft 365 através de um grupo de relay especial. As mensagens enviadas através do grupo de relay podem aparecer na pasta de e-mail de lixo do destinatário. Para obter mais informações, consulte [ações de entrega de saída](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
+A Microsoft está a fazer algumas alterações à configuração de relaying ou encaminhamento de e-mail através Microsoft 365. As mensagens em determinados cenários são re encaminhadas ou relayadas através Microsoft 365 através de um grupo de relay especial. As mensagens enviadas através do grupo de relay podem aparecer na pasta de e-mail de lixo do destinatário. Para obter mais informações, consulte [ações de entrega de saída](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
 
 Para evitar um cenário com o grupo de reenainhamento, certifique-se de que as mensagens reencainhadas/reencainhadas cumprem um dos seguintes critérios:
 
 - O remetente de saída é um domínio aceite do inquilino.
 - O SPF (Sender Policy Framework) passa quando a mensagem é recebida Microsoft 365.
-- O DKIM (DomainKeys Identified Mail) no domínio do remetente P2 passa quando a mensagem é enviada para Microsoft 365.
+- O DKIM (DomainKeys Identified Mail) no domínio do remetente P2 passa quando a mensagem é enviada Microsoft 365.
  
 As mensagens que cumprem os critérios descritos acima não são reencalecidas através do grupo de reenais.
 

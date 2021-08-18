@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a7cf2d8cc00bc9e45f33b0fa564f3e0533c2ce43ffb029f950ddeb4ed67b1100
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2037346485227b7357face23f20b5c61cc837c9c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893206"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327532"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ataque de ransomware no SharePoint ou OneDrive
 
 1.  Se estiver à procura de ajuda sobre o que fazer quando um ficheiro malicioso for encontrado no seu OneDrive, SharePoint ou Teams, consulte O que fazer quando um ficheiro malicioso for [encontrado.](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)
 2. Se estiver à procura de como proteger os seus dados contra ransomware, consulte:
-    - [Salvaguardar os seus dados no SharePoint e no OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
+    - [Proteger os seus dados no SharePoint e no OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
     - [Proteção Contra Ameaças de Ransomware](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  Todos os ficheiros na sua conta OneDrive SharePoint são afetados pelo ransomware ou pelo vírus Malware ou Crypto? 
+3.  Todos os ficheiros na sua conta OneDrive ou sharePoint afetados pelo ransomware ou pelo vírus Malware ou Crypto? 
 
 Pare/pare imediatamente a vista de Sincronização do OneDrive (se necessário) ou desligue a vista do Explorador mapeada para a biblioteca a partir do computador afetado (se for o caso) e, em seguida, pode restaurar a sua biblioteca do OneDrive ou do SharePoint inteira para uma hora anterior com a funcionalidade de restauro de ficheiros. 
 

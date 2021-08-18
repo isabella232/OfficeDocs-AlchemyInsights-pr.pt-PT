@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898255"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330071"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Corrigir problemas comuns com o Microsoft Defender para Office 365
 
@@ -31,7 +31,7 @@ Eis algumas soluções para problemas comuns com o Microsoft Defender para Offic
 
   Para obter mais informações, consulte [Comunicar mensagens e ficheiros à Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)
 
-- **Ativar Cofre Ligação de Ligação de Segurança:**
+- **Ativar Cofre Ligação de Ligação:**
 
   1. No portal Microsoft 365 Defender, em , vá para E-mail & políticas de <https://security.microsoft.com/> **colaboração** & Regras contra \>  \>  \> **ameaças Cofre Ligações**  na secção Políticas.
 

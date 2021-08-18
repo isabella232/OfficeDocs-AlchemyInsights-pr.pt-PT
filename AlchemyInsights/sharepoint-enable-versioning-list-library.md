@@ -13,12 +13,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: c647e802042110c1a1f99598bdc3c0bad404554abdce5120317fdbf00f7dca4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 949c447f2be86a0ee31f1f7d417f744e955cb926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085851"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328383"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Controlo de versões no SharePoint e OneDrive 
 
@@ -39,7 +39,6 @@ Para obter mais informações sobre o sistema de versões, consulte os artigos a
 
 - [Limites de versões](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
->[!Note] 
->Se for um cliente do Microsoft 365, o sistema de versões está agora ativado por predefinição quando cria novas bibliotecas do OneDrive para Empresas e este guarda automaticamente as últimas 500 versões de um documento. Isto irá ajudá-lo a evitar a perda de documentos ou dados importantes. Se tiver bibliotecas existentes no seu site OneDrive para Empresas ou no seu site de equipa que não tenham o versões ativado, pode ativar o versões para as mesmas em qualquer altura.
+**Nota:** se for um cliente do Microsoft 365, o respetivo sistema de versões está agora ativado por predefinição quando cria novas bibliotecas do OneDrive para Empresas e este guarda automaticamente as últimas 500 versões de um documento. Isto irá ajudá-lo a evitar a perda de documentos ou dados importantes. Se tiver bibliotecas existentes no seu site OneDrive para Empresas ou no seu site de equipa que não tenham o versioning ativado, pode ativar o versões para as mesmas em qualquer altura.
 
 

@@ -17,12 +17,12 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 0b99e1e6547fc94e9203997aa8e3fa7465b128add22821ece190995d0aaf8f3f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b480073813239b4bba02bb29b5fbf9a2ff681472
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898903"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330419"
 ---
 # <a name="change-your-billing-address"></a>Alterar o endereço de faturação
 
@@ -35,12 +35,12 @@ A sua fatura contém três endereços.
 3. Na página **Detalhes do método de pagamento,** clique em **Editar.**
 4. Atualize o seu endereço de faturação e, **em seguida, clique > Guardar Como Terminado.**
 
-Para mais informações sobre as alterações de endereços e notificações, consulte Alterar os endereços de faturação [para o Microsoft 365 para empresas.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+Para mais informações sobre as alterações de endereços e notificações, consulte Alterar os endereços de faturação [Microsoft 365 para empresas.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
 
 **Alterar as informações da conta de faturação**
 
 1. No centro de administração, vá a **Faturação > contas de [faturação.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**
 2. **Selecione Editar informações da conta de faturação.**
-3. Atualize as informações da conta de faturação e, **em seguida, clique > Guardar Como Terminado.**
+3. Atualize as informações da conta de faturação e, **em seguida, clique > Guardar e Terminar.**
 
 **Nota:** Não é possível alterar o País/Região. Se este campo precisar de ser alterado, terá de comprar um novo inquilino.

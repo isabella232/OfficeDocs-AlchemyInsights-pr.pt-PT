@@ -12,12 +12,12 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: bc8728583a547e2407e2c91bf777adb23c221015c63d325df33db6c691f98e71
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8cfa98a71764a566158cc316e844f88f3fd29804
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929820"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329883"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>Criar um site central do SharePoint
 
@@ -27,8 +27,7 @@ ms.locfileid: "53929820"
 
 3. Introduza um nome a apresentar para o site central e especifique os utilizadores individuais ou grupos de segurança que pretende permitir para associar sites ao hub.
 
-    > [!NOTE]
-    >  Recomendamos que selecione um site de comunicação ou um site de equipa que utilize o novo modelo. Se utilizar um site de equipa clássico, a navegação central só será apresentada em páginas modernas e as definições de site central só serão apresentadas em páginas modernas. Os sites que já estão associados a outro centro não podem ser registados como um site central.
+    **Nota:** recomendamos que selecione um site de comunicação ou um site de equipa que utilize o novo modelo. Se utilizar um site de equipa clássico, a navegação central só será apresentada em páginas modernas e as definições de site central só serão apresentadas em páginas modernas. Os sites que já estão associados a outro centro não podem ser registados como um site central.
   
 [Saiba mais sobre os sites centrais](https://go.microsoft.com/fwlink/?linkid=869149)
   

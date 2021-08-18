@@ -16,16 +16,16 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 859042d068da6410b6b46a90a14887949825567794361d262c190149530d708b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2e5f1a81aea51384a1e10a3b83f4cb59703c9ff0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898479"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328485"
 ---
 # <a name="reset-or-change-passwords"></a>Repor ou alterar palavras-passe
 
-Um utilizador pode alterar a sua própria palavra-passe ao selecionar a fotografia ou as iniciais > **Ver conta.**
+Um utilizador pode alterar a sua própria palavra-passe ao selecionar a fotografia ou as iniciais > **Ver conta**.
   
 Se o utilizador se tiver esquecido da palavra-passe, um administrador pode repor a palavra-passe ao aceder a Utilizadores Ativos , selecionar os utilizadores e clicar em  >  [](https://portal.office.com/adminportal/home#/users) **Repor palavra-passe**.
   

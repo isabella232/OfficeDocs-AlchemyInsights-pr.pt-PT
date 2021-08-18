@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b6232cfed6a26609dc7cec4cb020ed46f087410e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891910"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328347"
 ---
 # <a name="subscription-expired"></a>Subscrição expirada
 
@@ -29,9 +29,8 @@ Se a sua subscrição expirar, se a mesma tiver sido desativada pela Microsoft o
 **Reativar uma subscrição**
 
 1. No centro de administração, vá para a página **Faturação**  >  [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.
-2. No **separador** Produtos, localcione a subscrição que pretende reativar, selecione as retas (mais ações) e, em seguida, selecione **Reativar esta subscrição**.
-    > [!NOTE]
-    > Se não vir a ação **Reativar esta subscrição,** contacte o suporte.
+2. No **separador** Produtos, localcione a subscrição que pretende reativar, selecione as retas (mais ações) e, em seguida, selecione Reativar esta **subscrição**.\
+    **Nota:** Se não vir a mensagem **Reativar esta subscrição,** contacte o suporte.
 3. No painel **Reativar esta subscrição,** selecione um método de pagamento a partir da lista única ou selecione **Adicionar método de pagamento**.
 4. Seleccione **Guardar**.
 

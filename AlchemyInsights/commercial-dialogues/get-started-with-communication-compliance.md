@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: bd51464ed4d30055bf2279d58aff8b25f55e249f6afc24ec2db227a1e9bdfbad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9b4fbba05af371356497b68399277da4539a50db
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034693"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327929"
 ---
 # <a name="get-started-with-communication-compliance"></a>Começar com a conformidade de comunicação
 
@@ -31,9 +31,8 @@ Antes de começar, a sua organização tem de ter uma das seguintes subscriçõe
 * Microsoft 365 A3 subscrição + o Microsoft 365 A5 Gestão de Riscos do Insider
 * Microsoft 365 Subscrição G5 (versão paga ou de avaliação)
 * Microsoft 365 Subscrição do G5 + Microsoft 365 de Conformidade do G5
-* Microsoft 365 Subscrição do G5 + o Microsoft 365 O G5 Insider Risk Management add-on
+* Microsoft 365 Subscrição do G5 + o Microsoft 365 do G5 Insider Risk Management
 * Office 365 Enterprise Subscrição E5 (versão de avaliação ou paga)
 * Office 365 Enterprise Subscrição E3 + o Funcionalidades de Conformidade Avançadas do Office 365 de subscrições (não está disponível para novas subscrições, consulte nota)
 
-    > [!NOTE]
-    > Se não tiver um plano do Office 365 Enterprise E5 existente e quiser experimentar a gestão de riscos do Insider, pode adicionar [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130508) à sua subscrição existente ou inscrever-se numa versão de avaliação do Office 365 Enterprise E5.
+    **Nota:** se não tiver um plano do Office 365 Enterprise E5 existente e quiser experimentar a gestão de riscos do Insider, pode adicionar [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130508) à sua subscrição existente ou inscrever-se numa versão de avaliação do Office 365 Enterprise E5.

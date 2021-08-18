@@ -1,5 +1,5 @@
 ---
-title: Como utilizar a loja SharePoint Online Term
+title: Como utilizar o Loja de Termos do SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 2425611d18b9751fd68c5cabb7c1bfe5af709bca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c05cd822844c22a7fb5b384d224bcc6b863327c2a20b39512c16e0585e8951b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779098"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115999"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>Como utilizar a loja SharePoint Online Term
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>Como utilizar o Loja de Termos do SharePoint Online
 
-A Term Store está disponível para um Administrador Global, SharePoint Admin e Term Store e pode ser encontrada no novo centro de administração SharePoint Online.
+O Loja de Termos está disponível para administradores globais, administradores do SharePoint e de Loja de Termos e pode ser encontrado no novo centro de administração do SharePoint Online.
   
-Para obter mais informações sobre como utilizar a SharePoint Online Term Store e a taxonomia dentro do SharePoint Online, consulte [Introdução para metadados geridos](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+Para obter mais informações sobre como utilizar o Loja de Termos e a taxonomia do SharePoint Online no SharePoint Online, consulte Introdução aos [metadados geridos.](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409)
   
-Se estiver a ter um problema com termos que não aparecem ou aparecem intermitentemente, recomendamos que espere 24 horas e, em seguida, faça um pedido de apoio se o problema persistir. Embora as 24 horas possam ser muito tempo, pode haver um problema de caching ou podemos já estar a trabalhar numa solução para este problema.
+Se estiver a ter um problema em que os termos não aparecem ou aparecem intermitentemente, recomendamos que aguarde 24 horas e, em seguida, registe um pedido de suporte se o problema persistir. Embora o período de 24 horas possa demorar muito tempo, poderá haver um problema de cache ou podemos já estar a trabalhar numa solução para este problema.
   

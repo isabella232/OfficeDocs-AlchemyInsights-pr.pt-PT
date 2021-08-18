@@ -1,5 +1,5 @@
 ---
-title: Atualizar o endereço vendido e faturado a associado à sua MCA – passos recomendados
+title: Atualizar o endereço vendido e faturado a associado à sua MCA - passos recomendados
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001519"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320041"
 ---
-# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Atualizar o endereço vendido e faturado a associado à sua MCA – passos recomendados
+# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Atualizar o endereço vendido e faturado a associado à sua MCA - passos recomendados
 
 Pode atualizar o endereço vendido e faturado associado ao seu Contrato de Cliente da Microsoft (MCA). 
 
-> [!NOTE]
-> Apenas um administrador de utilizador pode fazer alterações ao perfil Azure Active Directory informações de perfil de utilizador. Se não lhe for atribuída a função de administrador de utilizador, contacte o seu administrador de utilizador. Para obter mais informações sobre como alterar o perfil de um utilizador, consulte Adicionar ou atualizar as informações de perfil de [um utilizador utilizando Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
+**Nota:** apenas o administrador de um utilizador pode fazer alterações à Azure Active Directory de perfil de utilizador. Se não lhe for atribuída a função de administrador de utilizador, contacte o seu administrador de utilizador. Para obter mais informações sobre como alterar o perfil de um utilizador, consulte Adicionar ou atualizar as informações de perfil de um utilizador [utilizando Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
 
-**Endereço vendido** a – o endereço vendido a é o endereço e as informações de contacto da organização ou do indivíduo, que é responsável por uma conta de faturação. É apresentado em todas as faturas geradas para a conta de faturação.
+**Endereço vendido** a – o endereço vendido a é o endereço e as informações de contacto da organização ou do indivíduo, responsável por uma conta de faturação. É apresentado em todas as faturas geradas para a conta de faturação.
 
 **Endereço para faturação** - o endereço para faturação é o endereço e as informações de contacto da organização ou do indivíduo, que é responsável pelas faturas geradas para uma conta de faturação. Para uma conta de faturação de um MCA, existe um endereço para faturação para cada perfil de faturação e é apresentado na fatura gerada para o perfil de faturação.
 

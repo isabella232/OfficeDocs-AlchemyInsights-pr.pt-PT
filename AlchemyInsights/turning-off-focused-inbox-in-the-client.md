@@ -1,5 +1,5 @@
 ---
-title: 911 Desativando a caixa de entrada focada no cliente
+title: 112 Desligá-la na caixa de entrada destaques no cliente
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "911"
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 7d9d065c3b95f5fe75eca5df844fbe7a9f3e6de9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df283ec7aab493dcca684426606b54fdb08a2fa94d2e17845cefc028ed4407c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795219"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092493"
 ---
-# <a name="turn-off-focused-inbox-in-email-clients"></a>Desativar caixa de entrada focada nos clientes de e-mail
+# <a name="turn-off-focused-inbox-in-email-clients"></a>Deslige a Caixa de Entrada Destaques nos clientes de e-mail
 
-Para desativar a caixa de entrada focada no Outlook 2016, o Outlook na web, Outlook.com/Hotmail.com, o Outlook 2016 para Mac ou o Mail for Windows 10, consulte [Desligar a Caixa de Entrada Focada](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).
+Para desarmalar a Caixa de Entrada Destaques no Outlook 2016, Outlook na Web, Outlook.com/Hotmail.com, Outlook 2016 para Mac ou Correio [](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx)para Windows 10, consulte Desligá-la.
 
-Para desativar a Caixa de Entrada Focada para todos na organização, consulte a Caixa de [Entrada Focada Configure para todos na sua organização.](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox)
+Para desligá-la para todas as pessoas na organização, consulte Configurar a Caixa de Entrada Destaques para todas as pessoas [na sua organização.](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox)

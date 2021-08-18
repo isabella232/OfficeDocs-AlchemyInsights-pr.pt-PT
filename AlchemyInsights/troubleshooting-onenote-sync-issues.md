@@ -1,5 +1,5 @@
 ---
-title: Problemas na resolução de problemas problemas de sincronização de uma nota
+title: Remoção de OneNote Problemas de Sincronização
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000555"
 - "2405"
-ms.openlocfilehash: b59105a5c47d7f2b119d017c2b3dc35729dbbdd7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f35bc1b8097d0de5a84bb499d50dd1de88139fc3fd40eafae9d3f4ad17d84d2a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092529"
 ---
-# <a name="troubleshoot-onenote-sync-issues"></a>Problemas de resolução de problemas Problemas de sincronização de notas de uma nota
+# <a name="troubleshoot-onenote-sync-issues"></a>Remova problemas OneNote sincronização
 
-* Para resolver as questões mais comuns relacionadas com a sincronização do OneNote, utilize os passos em [problemas de Correção quando não conseguir sincronizar o OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
+* Para resolver os problemas mais comuns relacionados com OneNote sincronização, utilize os passos em Corrigir problemas quando não consegue [sincronização OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
-Se o portátil que não sincroniza for armazenado no OneDrive ou nas versões mais recentes do SharePoint, tente abrir o portátil no OneNote para a web (a www.onenote.com). Isto pode ajudar a determinar se o problema é causado pelo servidor ou pelo OneNote.
+Se o bloco de notas que não sincroniza estiver armazenado no OneDrive ou numa versão mais recente do SharePoint, experimente abrir o bloco de notas no OneNote na Web (na www.onenote.com). Isto pode ajudar a determinar se o problema é causado pelo servidor ou por OneNote.
 
-1. No OneNote, clique em  >  **Informações de Ficheiros**.
+1. No OneNote, clique em **Informações**  >  **do Ficheiro.**
 
-2. Clique com o direito no URL mostrado abaixo do nome do caderno afetado e clique em **Copiar**.
+2. Clique com o botão direito do rato no URL apresentado abaixo do nome do bloco de notas afetado e clique em **Copiar**.
 
-3. No seu navegador Web, clique na caixa de Endereço e, em seguida, pressione **Ctrl + V** para colar o URL copiado.
+3. No seu browser, clique na caixa Endereço e, em seguida, prima **Ctrl+V** para colar o URL copiado.
 
-4. Prima **Introduza** para carregar e depois o caderno no OneNote para a web.
+4. Prima **Enter para** carregar e, em seguida, o bloco de notas OneNote na Web.
 
-Se não conseguir abrir o caderno no OneNote para a web e as alterações aparecerem, o problema pode ser causado pela versão para desktop do OneNote. Fechar e reabrir o caderno normalmente limpa e reinicia com sucesso a ligação.
+Se não conseguir abrir o bloco de notas no OneNote na Web e as alterações aparecerem, o problema poderá estar a ser causado pela versão de ambiente de trabalho do OneNote. Fechar e voltar a abrir o bloco de notas normalmente limpa e reseta com êxito a ligação.
 
-* Recomendamos seguir os passos nas [atualizações do Instituto de Instalação](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) para instalar as atualizações mais recentes do OneNote no seu PC. Se estiver num Mac, siga automaticamente os passos no [Check for Office for Mac .](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1)
+* Recomendamos que seguindo os passos em [Instalar Office atualizações para](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) instalar as atualizações mais OneNote no seu PC. Se estiver a trabalhar num Mac, siga os passos em [Procurar atualizações Office para Mac automaticamente.](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1)

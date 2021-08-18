@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 5231fca8c0a3cd919dd9fb79e7cbcf5a4f2c67fdd52a0f136b87e9331a3d6c44
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5d328c1d494a978b424a4f9932ec9145637b766c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893534"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319639"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Problemas conhecidos de Conformidade e resoluções
 
@@ -37,7 +37,7 @@ Seguem-se alguns tópicos frequentemente solicitados relacionados com conformida
  
 - Etiquetas de sensibilidade: para saber mais, consulte Criar e configurar etiquetas de sensibilidade e as suas [políticas.](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)
 
-- Ver políticas de alertas: [consulte Políticas de alerta no Centro de Conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
+- Ver políticas de alertas: [Consulte Políticas de alerta no Centro de Conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
 
 - Permissões do centro de complicação: consulte [Permissões na vista Centro de Conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
 

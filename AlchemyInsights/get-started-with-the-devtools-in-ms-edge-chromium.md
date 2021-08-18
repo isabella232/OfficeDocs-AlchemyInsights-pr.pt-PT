@@ -1,5 +1,5 @@
 ---
-title: Começa com as ferramentas de desenvolvimento no Microsoft Edge (Chromium)
+title: Começar a trabalhar com as ferramentas de programador no Microsoft Edge (Chromium)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004029"
 - "7099"
-ms.openlocfilehash: ba44365906b3ccaf763c3e64a7ffd7d1b34b9ac0
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: d1238ac3f3af4857aebe3c51b900e755ff86814fa425ec47be1e83cd5f9faa20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583734"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116379"
 ---
-# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Começa com as ferramentas de desenvolvimento no Microsoft Edge (Chromium)
+# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Começar a trabalhar com as ferramentas de programador no Microsoft Edge (Chromium)
 
-O Microsoft Edge adotou o projeto Chromium open-source, que visa tornar a web menos fragmentada e as plataformas web mais compatíveis. Esta alteração irá capacitar-te a usar o Microsoft Edge para construir e testar os teus websites que funcionam noutros navegadores baseados em Crómio.
+Microsoft Edge adotou o Chromium open source, que tem como objetivo tornar a Web menos fragmentada e plataformas Web mais compatível. Esta alteração irá capacitá-lo a utilizar Microsoft Edge para criar e testar os seus sites que funcionam noutros browsers baseados Chromium baseados na Internet.
 
-O Microsoft Edge (Chromium) também fornece [ferramentas de desenvolvimento de melhor classe](https://go.microsoft.com/fwlink/?linkid=2134941) que devem ser familiares para si e compatíveis com as ferramentas que já utiliza.
+Microsoft Edge (Chromium) também fornece as [](https://go.microsoft.com/fwlink/?linkid=2134941) melhores ferramentas de programador de classe que devem ser familiarizadas e compatíveis com as ferramentas que já utiliza.
 
-Para saber mais, veja [as novidades do Microsoft Edge (Chromium) DevTools](https://go.microsoft.com/fwlink/?linkid=2135020).
+Para saber mais, consulte Novidades no Microsoft Edge [(Chromium) DevTools.](https://go.microsoft.com/fwlink/?linkid=2135020)

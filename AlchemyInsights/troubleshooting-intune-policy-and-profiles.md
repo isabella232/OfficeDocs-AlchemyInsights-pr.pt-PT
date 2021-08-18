@@ -1,5 +1,5 @@
 ---
-title: Resolução de problemas Política e perfis intune
+title: Remoção de perfis e políticas do Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 71cbb52d73261d59732f42789997d0ee55e71906
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b302dbd6e894fef80756a4e77564845474a48affd2cfe1a944765189395f8f6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689857"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092431"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>Resolução de problemas Política e perfis intune
+# <a name="troubleshooting-intune-policy-and-profiles"></a>Remoção de perfis e políticas do Intune
 
-Para ver as políticas existentes, resolver conflitos de problemas, rever os dados do registo e ver questões e questões comuns, os seguintes guias podem ajudar.
+Para ver políticas existentes, resolução de conflitos, rever dados de registo e ver perguntas e problemas comuns, os seguintes guias poderão ajudar.
 
-- [Políticas e perfis de resolução de problemas em Intune](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
+- [Remoção de políticas e perfis no Intune](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
 
-- [Questões, questões e resoluções comuns com políticas e perfis de dispositivos no Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Perguntas, problemas e resoluções comuns com políticas e perfis de dispositivos no Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Monitorize os perfis de configuração do dispositivo e veja conflitos no Intune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [Monitorizar perfis de configuração de dispositivos e ver conflitos no Intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [Conformidade do dispositivo de resolução de problemas e acesso condicional no Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Remova a conformidade do dispositivo e o acesso condicional no Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Monitorizar as políticas de conformidade e ver conflitos no Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Monitorizar políticas de conformidade e ver conflitos no Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Enviar dados de registo intune para armazenamento de Azure, centros de eventos ou análise de registo](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Enviar dados de registo do Intune para o armazenamento do Azure, concentradores de eventos ou análise de registos](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-Consulte a visão geral para [configurar dispositivos](https://docs.microsoft.com/intune/device-profiles) ou [utilizar políticas de conformidade](https://docs.microsoft.com/intune/device-compliance-get-started).
+Consulte a visão geral para [configurar dispositivos ou](https://docs.microsoft.com/intune/device-profiles) utilizar [políticas de conformidade.](https://docs.microsoft.com/intune/device-compliance-get-started)

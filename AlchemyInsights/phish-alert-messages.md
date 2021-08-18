@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 2e24f489292f38b5e9cacc8b9bfe5730ebfc71ce5e3004be479134ef6c791a12
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 90b078147bbb1e60cba0a2de6e49a862469f93aa
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899343"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316369"
 ---
 # <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Alertar mensagens de e-mail da política "Phish Entregue devido a um inquilino ou a uma override de utilizador"
 
-Está disponível uma política de alerta predefinida denominada Phish Entregue devido a uma **override** de utilizador ou inquilino em organizações com o Microsoft Defender para Office 365 licenças P1 e P2. Se recebeu este alerta, eis os passos para investigar:
+Está disponível uma política de alerta predefinida denominada **Phish Entregue** devido a uma sobresserção de utilizador ou inquilino em organizações com o Microsoft Defender para Office 365 licenças P1 e P2. Se recebeu este alerta, eis os passos para investigar:
 
-1. A partir da mensagem de alerta, **clique em** Ver Alerta para ir para a **página Alertas** no Microsoft 365 Defender portal.
+1. A partir da mensagem de alerta, **clique em** Ver Alerta para ir para a **página Alertas** no portal Microsoft 365 Defender alertas.
 
 2. Selecione o alerta para ver a opção ver **a lista de mensagens** ou Ver mensagens no **Explorador.** Ambas as opções levam-no aos detalhes da mensagem, que inclui o ID da Mensagem. Tenha em atenção que a ligação Explorador de Ameaças irá filtrar automaticamente as mensagens que correspondem aos critérios de alerta. Poderá ter de ajustar o filtro de datas no Explorador de Ameaças.
 

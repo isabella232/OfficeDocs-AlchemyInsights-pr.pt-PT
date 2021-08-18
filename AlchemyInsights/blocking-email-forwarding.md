@@ -14,18 +14,18 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe9e52023b809b38c43332a10a1184d114798cfe
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897479"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315885"
 ---
 # <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Bloquear ou desbloquear o re encaminhamento automático de e-mails automático desbloqueado
 
 Para ativar ou desativar o re encaminhamento de e-mail para uma caixa de correio específica, consulte [Configurar o re encaminhamento de e-mail.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-Os administradores podem controlar o re encaminhamento externo da organização através de políticas de [spam de saída.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) Pode gerir as políticas de spam no portal do Microsoft 365 Defender em ou através do <https://security.microsoft.com/antispam> cmdlet [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) no Exchange Online PowerShell.
+Os administradores podem controlar o re encaminhamento externo da organização através de políticas de [spam de saída.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) Pode gerir as políticas de spam de saída no portal do Microsoft 365 Defender em ou através do <https://security.microsoft.com/antispam> cmdlet [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) no Exchange Online PowerShell.
 
 Se receber a seguinte mensagem de erro: **"550 5.7.520 O Access foi negado,** a sua organização não permite o re encaminhamento externo", certifique-se de que a política está configurada para ativar as mensagens encaminhadas automaticamente externas.
 

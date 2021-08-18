@@ -1,5 +1,5 @@
 ---
-title: 606 Informações sobre delegação
+title: 606 Informações sobre Delegação
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 7fca7eb6af2abdaefe03e1ae5aa5976575183f79
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e2c6b17807fe8ecab0b9685f981beda20c122143d1036a9c03075552c5ca897
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755718"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088227"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Delegação de resolução de problemas no Outlook e Outlook na web
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Remoção de problemas de delegação em Outlook e Outlook na Web
 
-**Resolução de problemas com a ferramenta SaRA:**
+**Remoção de problemas com a SaRA de Problemas:**
 
-1. Descarregue e instale [aqui](https://aka.ms/SaRA-SkypeForBusinessSignIn)a ferramenta SaRA.
-1. Selecione **Outlook,** então **estou tendo problemas com o meu calendário**.
-1. Diga **sim** para a máquina afetada.
+1. Transfira e instale a SaRA de [dados aqui.](https://aka.ms/SaRA-SkypeForBusinessSignIn)
+1. **Selecione Outlook** e, **em seguida, estou a ter problemas com o meu calendário**.
+1. Diga **Sim para** o máquina afetado.
 1. Adicione o endereço de e-mail do utilizador afetado.
-1. **Selecione que estou tendo problemas com permissões de delegados.**
-1. Na próxima introdução, se for a pessoa que dá permissões, insira o endereço de e-mail do seu delegado. Se recebeu permissões e é o delegado, insira o endereço de e-mail da pessoa que lhe deu permissões.
+1. **Selecione Estou a ter problemas com permissões de delegado**.
+1. Na mensagem seguinte, se for a pessoa que está a dar permissões, introduza o endereço de e-mail do seu delegado. Se tiver recebido permissões e for o delegado, introduza o endereço de e-mail da pessoa que lhe deu permissões.
 1. No menu seguinte, selecione a opção que se adequa ao seu cenário.
 1. No menu seguinte, selecione o nível de permissão.
-1. Nesta fase, a ferramenta SaRA realizará verificações automatizadas e fornecer-lhe-á uma possível resolução ou, em alternativa, fornecerá um registo de diagnóstico que pode ser usado para posterior resolução de problemas.
-1. Pode encontrar os registos na pasta Resultados do SaRA localizada em C:\Users\Username\AppData\Local\SaraResults.
+1. Nesta fase, a SaRA irá efetuar verificações automáticas e fornecer-lhe-à uma possível resolução ou, em alternativa, fornecerá um registo de diagnóstico que pode ser utilizado para mais resolução de problemas.
+1. Pode encontrar os registos na pasta Resultados da SaRA localizada em C:\Utilizadores \Nome de Utilizador\AppData\Local\SaraResults.

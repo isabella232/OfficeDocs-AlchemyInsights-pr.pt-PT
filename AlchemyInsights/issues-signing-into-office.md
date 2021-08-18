@@ -1,5 +1,5 @@
 ---
-title: Problemas de sessão nas aplicações da Microsoft 365
+title: Problemas ao inscrever-se Microsoft 365 aplicações
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 02841a1b4e92eec94fc6409941d91618f02518c1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1954ceef7454a4bb047d366cc55793dc78a969e375e9eea88d2d0dbe7f4997ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836614"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088011"
 ---
-# <a name="issues-signing-into-microsoft-365-apps"></a>Problemas de sessão no Microsoft 365 Apps
+# <a name="issues-signing-into-microsoft-365-apps"></a>Problemas ao entrar no Microsoft 365 Apps
 
-Para corrigir problemas de inscrição com aplicações microsoft 365, experimente as seguintes opções na máquina afetada:  
+Para corrigir problemas de início de sessão no Microsoft 365 Apps, experimente as seguintes opções no computador afetado:  
 
-- Para windows, consulte [recomendações sobre a resolução de problemas comuns de inscrição](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
-- Para Mac, veja  [Can't assinar em um Office 2016 para app Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+- Para Windows, consulte [o Recomendações sobre a resolução de problemas comuns de lote de trabalho](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
+- Para Mac, consulte [Não é possível entrar numa aplicação Office 2016 para Mac Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
 **Sugestão** Em computadores Windows, podemos diagnosticar e corrigir automaticamente vários problemas comuns de início de sessão do Office. Transfira e execute o **[Assistente de Recuperação e Suporte da Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** para utilizar a nossa ferramenta automatizada.
 
-**Nota:**  **Não é aconselhável** desativar a Autenticação Moderna (ADAL) ou a Gestão de Conta Web (WAM) para corrigir problemas de inscrição ou ativação . Se ocorrerem erros durante a ligação ao Microsoft 365 utilizando o Office 2013, certifique-se de que [ativa a autenticação moderna](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  para o cliente do Office.
+**Nota:** Não é recomendado desativar a Autenticação Moderna (ADAL) ou a Gestão de Conta Web (WAM) para corrigir problemas de arranque ou de **ativação.** Se os erros ocorrerem ao ligar ao Microsoft 365 utilizando o Office 2013, certifique-se de que ativa a autenticação moderna Office cliente. [](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)
 
-Para ações específicas de resolução de problemas, consulte:
+Para ações de remoção de problemas específicas, consulte:
 
 [Problemas de conexão no início de sessão após atualização para o Office 2016 compilação 16.0.7967 no Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
 
-[Não pode entrar na sua conta organizacional, como o Office 365, Azure ou Intune.](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+[Não pode inscrever-se na sua conta organizacional, como o Office 365, o Azure ou o Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
 
-[Como resolver aplicações não-navegador que não podem entrar no Office 365, Azure ou Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
+[Como refletir problemas com aplicações que não são do browser que não conseguem entrar no Office 365, no Azure ou no Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
 
-[Repetidamente solicitado para credenciais no Escritório](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
+[Pedidos repetidamente para as credenciais no Office](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)

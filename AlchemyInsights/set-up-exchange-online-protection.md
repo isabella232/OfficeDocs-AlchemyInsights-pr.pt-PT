@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ab370e992c1f58ff388e5d4db57245fe7fcbd682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897807"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316303"
 ---
 # <a name="set-up-exchange-online-protection"></a>Configurar o Proteção do Exchange Online
 
 Microsoft Exchange Online A Proteção (EOP) é um serviço de filtragem de e-mail baseado na nuvem para proteção contra spam, software maliceiro e spoofing, com funcionalidades que protegem a sua organização contra violações de políticas de mensagens.
 
-Utilize o [Proteção do Exchange Online](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) de configuração da EOP ao selecionar um dos três cenários de implementação que melhor se adequa à sua organização:
+Utilize o [Proteção do Exchange Online](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) de configuração de equipas para configurar a EOP ao selecionar um dos três cenários de implementação que melhor se adequa à sua organização:
 
 - Todas as caixas de correio no local.
 - Híbrido (combinação de caixas de correio no local e na nuvem)

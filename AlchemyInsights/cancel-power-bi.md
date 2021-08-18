@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: 9587793d60f9394721e192f5eb32e7cc9ecd1d43c77e970207a817cb30b5d799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: efd4667d038d53412b3b0e5f9ef4d75d1555be2bfead6ec3316bb2dac4e2e26a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045903"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899551"
 ---
 # <a name="cancel-power-bi"></a>Cancelar Power BI
 
@@ -28,7 +28,7 @@ Power BI pode ser cancelado no centro de administração do Microsoft 365.
 
 1. No centro de administração, vá à página **Faturação > [os seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos.
 2. No **separador** Produtos, localmente a subscrição que pretende cancelar. Selecione os três pontos (mais ações) e, em **seguida, selecione Cancelar subscrição**.
-3. No painel **Cancelar subscrição,** escolha um motivo pelo qual está a cancelar. Opcionalmente, forneça feedback.
+3. No painel **Cancelar subscrição,** escolha uma razão pela qual está a cancelar. Opcionalmente, forneça feedback.
 4. Seleccione **Guardar**.
 
 **Reembolso: qualquer crédito profissional ser-lhe-à devolvido no próximo ciclo de faturação.**
@@ -36,4 +36,4 @@ Power BI pode ser cancelado no centro de administração do Microsoft 365.
 > [!NOTE]
 > Se não vir a opção para cancelar, selecione a subscrição para ver a página de detalhes. Na secção **Subscrição e definições de pagamento,** selecione **Cancelar subscrição**.
 
-Para saber mais, consulte [Cancelar a sua subscrição](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Para saber mais, consulte [Cancelar a sua subscrição](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

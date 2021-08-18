@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 40da85009f051005940429dcd2ac81ec9fa6dd64
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883366"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316987"
 ---
 # <a name="microsoft-secure-score"></a>Pontuação de Segurança da Microsoft
 
@@ -34,7 +34,6 @@ Pode tornar o seu ambiente mais seguro ao utilizar a Pontuação de Segurança d
 
 4. Selecione **um item** Para **ou endereço regressivo** a partir da lista no separador **Ações de** melhoria. É aberta uma nova página que fornece uma descrição completa e um **botão Gerir** para corrigir o problema.
 
-    > [!NOTE]
-    > São-lhe dados pontos para configurar as funcionalidades de segurança recomendadas, mas tenha em atenção que algumas ações são rotuladas como **[Não Pontuada].** Isto significa que, mesmo que implemente essa ação de melhoramento, não lhe serão atribuídos quaisquer pontos para a sua pontuação. Caso contrário, a atualização da sua pontuação poderá demorar até *24* horas.
+    **Nota:** tem pontos para configurar as funcionalidades de segurança recomendadas, mas tenha em atenção que algumas ações são rotuladas como **[Não Pontuada].** Isto significa que, mesmo que implemente essa ação de melhoramento, não lhe serão atribuídos quaisquer pontos para a sua pontuação. Caso contrário, a atualização da sua pontuação poderá demorar até *24* horas.
 
 Para obter mais informações sobre a Pontuação de Segurança da Microsoft, consulte [Pontuação de Segurança da Microsoft.](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score)

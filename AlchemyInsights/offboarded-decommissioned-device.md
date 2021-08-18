@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 6eb59d16a1dab2de0e7a44faf9b34be6432342f9e20c94b6932e69e937751add
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 13865acb75b60a824c1dde9427c11471e980ea9e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892014"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324455"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>Problemas com a remoção de um dispositivo offboarded ou desmissionado do Inventário de Dispositivos
 
@@ -26,7 +26,7 @@ O Microsoft Defender para Pontos Finais não permite atualmente a remoção manu
 
 Por questões de segurança, o dispositivo permanece no portal como um registo histórico durante até 180 dias. No entanto, os dados do dispositivo são retidos de acordo com o período de retenção configurado.
 
-**Nota:** Um dispositivo offboarded ou desativado muda automaticamente para o estado **Inativo** após sete dias. Além disso, os dispositivos que não estão ativos nos últimos 30 dias não são fatorizadas nos dados que refletem a pontuação de exposição Gestão de Vulnerabilidades e Ameaças da sua organização ou a Pontuação de Segurança da Microsoft para Dispositivos.
+**Nota:** Um dispositivo offboarded ou desativado muda automaticamente para o estado **Inativo** após sete dias. Além disso, os dispositivos que não estão ativos nos últimos 30 dias não serão faturados nos dados que refletem a pontuação de exposição Gestão de Vulnerabilidades e Ameaças organização ou a Pontuação Segura da Microsoft para Dispositivos.
  
 Se ainda não quiser ver determinados dispositivos na vista Inventário de Dispositivos, experimente colocar uma etiqueta de dispositivo para filtrar o dispositivo des descomplicado a partir da vista Inventário de Dispositivos.
 

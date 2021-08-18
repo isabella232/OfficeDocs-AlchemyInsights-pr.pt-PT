@@ -1,5 +1,5 @@
 ---
-title: Copiar ficheiros no SharePoint e no OneDrive
+title: Copiar ficheiros no SharePoint e em OneDrive
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,18 +14,17 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 7b7d0972c5ffa8d5b58abcd2aaf0e9fe994a668f5a61289024c98f0cc0242547
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f65b7934be0a6cc8b0e8daf5ad46c7232f25c715
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081081"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325732"
 ---
-# <a name="copy-files-in-sharepoint-and-onedrive"></a>Copiar ficheiros no SharePoint e no OneDrive
+# <a name="copy-files-in-sharepoint-and-onedrive"></a>Copiar ficheiros no SharePoint e em OneDrive
 
-Pode copiar ficheiros do browser para localizações diferentes dentro do SharePoint e OneDrive.
+Pode copiar ficheiros do browser para localizações diferentes no SharePoint e na OneDrive.
 
 Para obter mais informações, consulte Mover [ou Copiar](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)
 
-> [!NOTE]
-> **Copiar** para não está disponível se estiver a utilizar a experiência clássica do SharePoint Online.
+**Nota:** **Copiar** para não está disponível se estiver a utilizar a experiência clássica do SharePoint Online.

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d55dae30c875022b8c38c14ba72eafbc674efcae
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874550"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324536"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>Submeter uma mensagem de e-mail através do rastreio de mensagens
 
-1. Vá para o centro Exchange administração (EAC) no Rastreio <https://admin.exchange.microsoft.com> \> **de mensagens de fluxo** de \> **correio**.
+1. Vá para o centro Exchange administração (EAC) em Rastreio <https://admin.exchange.microsoft.com> \> **de mensagens de fluxo** de \> **correio**.
 
    Para ir diretamente para a página **Rastreio de** mensagens, utilize <https://admin.exchange.microsoft.com/#/messagetrace> .
 

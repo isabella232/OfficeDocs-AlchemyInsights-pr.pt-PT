@@ -15,23 +15,22 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f31352aa920720edb4d8091e01c8a8cddcb602fc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895502"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324047"
 ---
 # <a name="change-payment-method"></a>Alterar o método de pagamento
 
-Pode alterar o método de pagamento da **centro de administração do Microsoft 365**.
+Pode alterar o método de pagamento a partir **da centro de administração do Microsoft 365**.
   
 1. No centro de administração, aceda à página **Faturação** > **Faturas e pagamentos** > [Métodos de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 2. Selecione a linha do método de pagamento a substituir. O painel direito lista todos os perfis de faturação e subscrições individuais que utilizam o método de pagamento selecionado.
 3. No painel direito, selecione **Substituir o método de pagamento para todos os itens**.
 4. Para utilizar um método de pagamento existente, selecione um na lista pendente e, em seguida, a opção **Substituir**.
-    > [!NOTE]
-    > Se tiver subscrições associadas a um perfil de faturação, apenas pode utilizar um cartão de crédito ou de débito para pagar as mesmas. Se tiver contas bancárias listadas na página **Métodos de pagamento**, estas não estão disponíveis para serem selecionadas na lista pendente.
+    **Nota:** se tiver subscrições associadas a um perfil de faturação, só poderá utilizar um cartão de crédito ou de débito para pagar as mesmas. Se tiver contas bancárias listadas na página **Métodos de pagamento**, estas não estão disponíveis para serem selecionadas na lista pendente.
 5. Para adicionar um novo método de pagamento, selecione **Adicionar método de pagamento**.
 6. No painel **Adicionar um método de pagamento**, introduza as informações da conta e, em seguida, selecione **Guardar**. Tem de utilizar um método de pagamento do mesmo país/região que o seu inquilino.
 7. O novo método de pagamento já se encontra selecionado na lista pendente. Selecione **Substituir**.

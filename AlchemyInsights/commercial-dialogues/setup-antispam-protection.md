@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: a5eec054a8459453be9f3b9de79596030a34049a5ce75fbce31240d8e413d5b9
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: be7fde5892c5e5dee09ece2ff4fdce07e6b5b9ba
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874586"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324582"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Configurar uma proteção antisspam
 
-1. No portal Microsoft 365 Defender, em , vá para E-mail & políticas de <https://security.microsoft.com/>  \> **colaboração & Regras** \>  \> **contra ameaças Antisspam,** na **secção** Políticas.
+1. No portal Microsoft 365 Defender, em , vá para E-mail & políticas de colaboração & Regras contra ameaças <https://security.microsoft.com/>  \>  \>  \> **Antisspam,** na **secção** Políticas.
 
    Para ir diretamente para a **página Políticas antisspam,** utilize <https://security.microsoft.com/antispam> .
 

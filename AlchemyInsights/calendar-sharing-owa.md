@@ -13,20 +13,20 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: def2bf5181dc1a79fe8705091b31cc55bafdd3cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f21000033715dd1ea1637289ffe3527759b8ad03593e01ecee1a01369421f55
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684457"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119936"
 ---
-# <a name="troubleshooting-issues-with-calendar-sharing"></a>Problemas de resolução de problemas com partilha de calendário
+# <a name="troubleshooting-issues-with-calendar-sharing"></a>Remoção de problemas com a partilha de calendários
 
-- Para diagnosticar problemas de permissão, utilize [o Exchange Remote Connectivity Analyzer Free Busy](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy), que fornece mensagens de erro muito específicas.
-- Também pode utilizar o [Microsoft Support and Recovery Assistant para o Microsoft 365](https://diagnostics.office.com/) para diagnosticar uma variedade de outros problemas de calendário. 
-- Se o utilizador tiver Desktop Outlook, a [Ferramenta de Verificação de Calendários para Perspetivas](https://www.microsoft.com/download/details.aspx?id=28786) pode resolver potenciais problemas.
+- Para diagnosticar problemas de permissões, utilize Exchange Análise de [Conectividade](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy)Remota, que fornece mensagens de erro muito específicas.
+- Também pode utilizar o [Microsoft Assistente de Recuperação e Suporte para Microsoft 365](https://diagnostics.office.com/) diagnosticar uma variedade de outros problemas no calendário. 
+- Se o utilizador tiver uma ferramenta de Ambiente Outlook, a Ferramenta [de Verificação de Outlook](https://www.microsoft.com/download/details.aspx?id=28786) pode resolver potenciais problemas.
 
-Como obter recursos adicionais:
+Recursos adicionais de formação:
 
 - [Partilhar um calendário do Outlook com outras pessoas](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
-- [Partilhe o seu calendário no Outlook na web para negócios](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [Partilhar o seu calendário no Outlook na Web para empresas](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)

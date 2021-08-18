@@ -16,18 +16,18 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: d65e2d4404ec6bfceb653c4f04deb7529c056cc746e9fefb113cdc1fd16261b1
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: bd0697f9dc6d2f2e46c6b903827d26739a2137e8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889773"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325168"
 ---
 # <a name="past-due-account"></a>Conta vencida?
 
 Um pagamento pode ser recusado por vários motivos, incluindo se o cartão de crédito tiver expirado. Pode utilizar a funcionalidade **Regularizar o saldo** a qualquer altura para alterar os dados do seu cartão de crédito e voltar a submeter imediatamente o pagamento.
 
-1. No centro de administração, vá a Serviço de **Faturação > [serviços de & Empresas.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. No centro de administração, vá a **Faturação > serviços de & [Empresas.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 Localize a subscrição com o montante por pagar. Na secção **Faturação,** junto **a A Subscrição** tem  um pagamento vencido, clique em Liquidar saldo para pagar o saldo em dívida na totalidade.
 2. Se tiver o cartão de crédito, pode alterar a data de expiração, escolher um cartão diferente ou [adicionar um novo cartão](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 3. Se não tiver o cartão de crédito, pode escolher um cartão de crédito diferente ou [adicionar um novo cartão](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

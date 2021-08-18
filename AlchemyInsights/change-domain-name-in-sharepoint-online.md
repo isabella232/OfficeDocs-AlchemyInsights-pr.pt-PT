@@ -1,5 +1,5 @@
 ---
-title: Alterar nome de domínio no SharePoint Online
+title: Alterar o nome de domínio no SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: c45ee866ea5972199ed2539d61013a4f55c493eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f33ee5530d15fb32f74e6c41149ae1abedfb60396287113c59c6b4dc3af24017
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733914"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119835"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a>Alterar nome de domínio no SharePoint Online
+# <a name="change-domain-name-in-sharepoint-online"></a>Alterar o nome de domínio no SharePoint Online
 
-Infelizmente, não é possível alterar o nome de domínio SharePoint Online para a sua organização. Por exemplo, se o nome da sua organização mudar de "Contoso" para "Quarto Café", não pode mudar contoso.sharepoint.com para fourthcoffee.sharepoint.com.
+Infelizmente, não é possível alterar o nome de domínio do SharePoint Online da sua organização. Por exemplo, se o nome da sua organização mudar de "Contoso" para "Fourth Coffee", não pode alterar contoso.sharepoint.com para fourthcoffee.sharepoint.com.
   
-Para utilizar o nome de domínio fourthcoffee.sharepoint.com, precisaria de adquirir uma nova subscrição e mover todos os e-mails, ficheiros e quaisquer outros dados que pretenda manter na nova subscrição.
+Para utilizar o nome de fourthcoffee.sharepoint.com, terá de comprar uma nova subscrição e mover todos os e-mails, ficheiros e outros dados que queira manter para a nova subscrição.
   
- **Nota:** Por exemplo, para alterar o nome de um site https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 de, siga as instruções [deste artigo](https://docs.microsoft.com/sharepoint/change-site-address). 
+ **Nota:** Por exemplo, para alterar o nome de um site de https://contoso.sharepoint.com/sites/sample1 para , siga as instruções neste https://contoso.sharepoint.com/sites/sample2 [artigo](https://docs.microsoft.com/sharepoint/change-site-address). 
   
-Para obter informações sobre a movimentação de itens nas bibliotecas de [documentos, consulte itens move ou copy de uma biblioteca de documentos SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).
+Para mais informações sobre mover itens em bibliotecas de documentos, consulte Mover ou [copiar itens de uma biblioteca de documentos do SharePoint.](https://go.microsoft.com/fwlink/?linkid=2025831)
   

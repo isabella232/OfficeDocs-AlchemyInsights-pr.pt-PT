@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3baece137a8be22808cc9af3e14207317dd261ed
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895898"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325306"
 ---
 # <a name="expired-subscription"></a>Subscrição expirada
 
@@ -30,8 +30,7 @@ Parece que tem uma ou mais subscrições expiradas. Se quiser continuar com o se
   
 1. No centro de administração, vá para a página **Faturação** \> [dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.
 2. No **separador** Produtos, locale a subscrição que pretende reativar. Selecione os três pontos (mais ações) e, em **seguida, selecione Reativar esta subscrição**.
-    > [!NOTE]
-    > Se não vir a ligação **Reativar esta subscrição, ligue** para o suporte.
+    **Nota:** se não vir a mensagem **Reativar esta subscrição, ligue** para o suporte.
 3. No painel **Reativar esta subscrição,** selecione um método de pagamento a partir da lista única ou selecione **Adicionar método de pagamento**.
 4. Seleccione **Guardar**.
 

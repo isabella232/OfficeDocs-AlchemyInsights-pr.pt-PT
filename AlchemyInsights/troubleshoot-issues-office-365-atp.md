@@ -1,5 +1,5 @@
 ---
-title: Remoção de problemas com o Microsoft Defender para Office 365
+title: Remova problemas com o Microsoft Defender para Office 365
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 7ffab72bc4c00ecc1c6d0e92263800c99858980c11764d307914635370306087
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 026e9722ac533e69178c40dd26792a362cf8fdda
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890313"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317197"
 ---
-# <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Remoção de problemas com o Microsoft Defender para Office 365
+# <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Remova problemas com o Microsoft Defender para Office 365
 
 - **Notificação de atrasos com a entrega de mensagens de e-mail?** Experimente utilizar a opção entrega dinâmica para o seu Microsoft Defender para Office 365 Cofre políticas de Anexos. Isto evitará atrasos na entrega de mensagens de e-mail ao mesmo tempo que protege os destinatários de ficheiros maliciosos.
 - **Pretende comunicar falsos positivos ou falsos negativos?** Utilize [o Explorador de Submissões.](https://protection.office.com/reportsubmission)
-- **Sabia que pode ativar o Microsoft Defender** para Microsoft Defender para a proteção Office 365 Cofre Ligações para e-mails enviados entre pessoas na sua organização? Siga estes passos:
+- **Sabia que pode ativar o Microsoft Defender** para Microsoft Defender para a proteção Office 365 Cofre ligações para e-mails enviados entre pessoas na sua organização? Siga estes passos:
     1. Vá para https://protection.office.com e inscreva-se.
     2. Vá para **Ligações de Políticas de**  >    >  **gestão Cofre Ameaças.**
     3. Em **Políticas que se aplicam a destinatários específicos,** edite (ou adicione) uma política.

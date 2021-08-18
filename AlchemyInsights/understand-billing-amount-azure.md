@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97b4138517ef84b8e7fb176a4abee44d64a56d2f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020095"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317151"
 ---
 # <a name="understand-billing-amount"></a>Compreender o montante da faturação
 
@@ -70,7 +70,9 @@ Não. Os clientes obtêm um número fixo de serviços de Nível Grátis e um cr�
 
 **Como posso verificar se os serviços gratuitos estão ativos ou quando irão expirar?**
 
-No Portal Ibiza > Subscrição > página de Visão geral > desloque-se para baixo no ecrã até Serviços gratuitos durante 12 meses e clique no ícone Informações. Esta situação irá apresentar a data em que os Serviços gratuitos irão expirar **Nota**: os serviços V1 não fazem parte dos Serviços Incluídos Gratuitos do Azure. Para obter a lista mais atualizada de serviços gratuitos, consulte [Que produtos são gratuitos durante 12 meses](http://www.microsoftazuresponsorships.com/)
+No Portal Ibiza > Subscrição > página de Visão geral > desloque-se para baixo no ecrã até Serviços gratuitos durante 12 meses e clique no ícone Informações. Esta ação irá apresentar a data em que os serviços gratuitos expiram
+
+**Nota:** Nenhum serviço V1 faz parte dos Serviços Incluídos Gratuitos do Azure. Para obter a lista mais atualizada de serviços gratuitos, consulte [Que produtos são gratuitos durante 12 meses](http://www.microsoftazuresponsorships.com/)
 
 FAQ adicional: [FAQ sobre a conta gratuita](https://azure.microsoft.com/free/free-account-faq/)
 

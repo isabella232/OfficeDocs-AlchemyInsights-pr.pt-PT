@@ -1,5 +1,5 @@
 ---
-title: Utilize o Microsoft Intune para configurar as definições de política do Microsoft Edge para o Windows 10
+title: Utilize Microsoft Intune para configurar as Microsoft Edge de políticas de Windows 10
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,17 +14,17 @@ ms.custom:
 - "9004632"
 - "7096"
 - "8365"
-ms.openlocfilehash: 0107571b4a9313b39751f8c8d06468ccf8cdf807
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 7b044a17c06522bd0cc97eef10841754833f7ae04fb25e9951c1d9df7e93f6f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401774"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114147"
 ---
-# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>Utilize o Microsoft Intune para configurar as definições de política do Microsoft Edge para o Windows 10
+# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>Utilize Microsoft Intune para configurar as Microsoft Edge de políticas de Windows 10
 
-Pode configurar as políticas e definições do Microsoft Edge adicionando um perfil de configuração do dispositivo ao Microsoft Intune. Isto equivale a configurar as políticas do grupo Microsoft Azure Ative Directory ou as definições locais do Group Policy Object (GPO) nos dispositivos do utilizador.
+Pode configurar políticas Microsoft Edge definições ao adicionar um perfil de configuração de dispositivo a Microsoft Intune. Isto equivale a configurar políticas Microsoft Azure Active Directory grupo ou definições de Objeto de Política de Grupo (GPO) locais em dispositivos de utilizador.
 
-Para saber mais, consulte [Criar um perfil para gerir as definições no Microsoft Edge para o Windows 10](https://go.microsoft.com/fwlink/?linkid=2133700).
+Para saber mais, consulte [Criar um perfil para gerir definições no Microsoft Edge para Windows 10](https://go.microsoft.com/fwlink/?linkid=2133700).
 
-Este artigo aplica-se às versões 77 e posteriores do Microsoft Edge.
+Este artigo aplica-se às Microsoft Edge 77 e posteriores.

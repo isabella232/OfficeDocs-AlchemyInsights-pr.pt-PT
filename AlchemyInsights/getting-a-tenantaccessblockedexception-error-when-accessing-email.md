@@ -1,5 +1,5 @@
 ---
-title: 127 Obter um erro de TenantAccessBlockedException ao aceder a e-mail?
+title: 127 Está a obter um erro TenantAccessBlockedException ao aceder ao e-mail?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 024638f3c9379e6b804331c2cfa4cd8ba5fa48dcf892d4c418db0ff9a0206b3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706642"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089451"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Obtendo um erro de TenantAccessBlockedException ao aceder a e-mail?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Está a obter um erro TenantAccessBlockedException ao aceder ao e-mail?
 
-Existem algumas razões diferentes para receber este erro. Por exemplo:
+Existem algumas razões diferentes pelas quais poderá receber este erro. Por exemplo:
 
-- Verifique se a sua subscrição é válida na página **de Faturação** \> **[dos Seus produtos](https://portal.office.com/adminportal/home#/subscriptions)** no centro de administração Microsoft 365.
+- Verifique se a sua subscrição é válida na página **Faturação** \> **[dos seus](https://portal.office.com/adminportal/home#/subscriptions)** produtos no centro de administração do Microsoft 365.
 
-- Verifique se há notificações vencidas passadas na página de pagamentos & contas de **faturação** \> **[Bills & payments](https://portal.office.com/adminportal/home#/billoverview)** no centro de administração da Microsoft 365.
+- Verifique se há notificações vencidas na **página** \> **[Faturação & pagamentos](https://portal.office.com/adminportal/home#/billoverview)** na centro de administração do Microsoft 365.
 
-- Se a faturação e as subscrições da sua conta foram recentemente atualizadas, pode levar tempo para que as alterações se propaguem. Tente de novo em poucos minutos, e se o problema persistir, contacte-nos.
+- Se a faturação e as subscrições da sua conta foram atualizadas recentemente, pode demorar algum tempo até que as alterações se propaguem. Tente novamente dentro de alguns minutos e, se o problema persistir, contacte-nos.

@@ -13,20 +13,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 48634fad8f573e3a7c38cac299bb95ec90814f5c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899895"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331170"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identificar quando o re encaminhamento de e-mail externo está configurado em caixas de correio
 
-Quando um utilizador Microsoft 365 configura o receção de e-mail externo numa caixa de correio, a atividade é auditada como parte do cmdlet **Set-Mailbox.** Pode ver a atividade através da pesquisa do registo de auditoria. Eis como fazê-lo.
+Quando um Microsoft 365 configura o respetivo encaminhamento de e-mail externo numa caixa de correio, a atividade é auditada como parte do cmdlet **Set-Mailbox.** Pode ver a atividade através da pesquisa do registo de auditoria. Eis como fazê-lo.
 
 1. Eis um dos seguintes passos:
-   - Na Centro de Conformidade do Microsoft 365 em <https://compliance.microsoft.com> , vá para Auditoria **de** \> **Soluções**. Em vez disso, para ir diretamente para **a página** Auditoria, utilize <https://compliance.microsoft.com/auditlogsearch> .
-   - No portal Microsoft 365 Defender de Equipa em <https://security.microsoft.com> , vá para **Auditoria**. Em vez disso, para ir diretamente para **a página** Auditoria, utilize <https://sip.security.microsoft.com/auditlogsearch> .
+   - Na Centro de Conformidade do Microsoft 365 em <https://compliance.microsoft.com> , vá para Auditoria de  \> **Soluções**. Em vez disso, para ir diretamente para **a página** Auditoria, utilize <https://compliance.microsoft.com/auditlogsearch> .
+   - No portal Microsoft 365 Defender, em <https://security.microsoft.com> , vá para **Auditoria**. Em vez disso, para ir diretamente para **a página** Auditoria, utilize <https://sip.security.microsoft.com/auditlogsearch> .
 
 2. Na página **Auditoria,** verifique se o separador **Procurar está** selecionado e, em seguida, configure as seguintes definições:
    - Selecione o intervalo de data/hora nas **caixas** **Início e** Fim.

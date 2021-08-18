@@ -16,18 +16,18 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: c145a5366ef173dbf82521e91d5cf032a26e2e7fa09d8e0061ec03887a2a3124
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 398f4409429f33c0e1a9e7481766d014db0f092c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897427"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332492"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Alterar o endereço de faturação ou as notificações de e-mail de faturação
 
-**Alterar o seu Bill-To endereço de e-mail**
+**Alterar o endereço Bill-To endereço**
 
-1. No centro de administração, vá à página Métodos **de > [de faturação.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
+1. No centro de administração, vá à página **Métodos de > [de faturação.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 
 2. Selecione o cartão de crédito ou conta bancária que pretende alterar.
 
@@ -45,4 +45,4 @@ ms.locfileid: "57897427"
 
 4. Na caixa **E-mail alternativo,** escreva o endereço de e-mail alternativo que pretende utilizar e, em seguida, clique em **Guardar**.
 
-Para mais informações sobre as alterações a endereços e notificações, consulte Alterar os endereços para [faturação Microsoft 365 para empresas.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+Para mais informações sobre as alterações de endereços e notificações, consulte Alterar os endereços de faturação [Microsoft 365 para empresas.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)

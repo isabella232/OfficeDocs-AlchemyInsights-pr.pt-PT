@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b87a0dbc9640cefe32a6bec3bea228eee91fe21a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082413"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332446"
 ---
 # <a name="change-a-users-email-address"></a>Alterar o endereço de e-mail de um utilizador
 
@@ -31,7 +31,7 @@ Alterar o endereço de e-mail de alguém é fácil! Basta seguir estes passos:
     
 4. Na caixa **Alias, escreva um** novo e-mail e, em seguida, selecionar **Adicionar**.
     
-    **IMPORTANTE:** se for recebida a mensagem de erro " Não é possível encontrar um parâmetro que corresponde ao nome do parâmetro **'EmailAddresses'"** significa que a Microsoft está a demorar um pouco mais a terminar a configuração do seu inquilino ou do seu domínio personalizado, se tiver adicionado um recentemente. O processo de configuração poderá demorar até 4 horas para ser concluído. Aguarde um pouco para que o processo de configuração seja concluído e, em seguida, tente novamente. Se o problema continuar, contacte o Suporte e este fará uma sincronização completa automaticamente.
+    **Importante:** se for recebida a mensagem de erro " Não é possível encontrar um parâmetro que corresponde ao nome do parâmetro **'EmailAddresses'"** significa que a Microsoft está a demorar um pouco mais a terminar a configuração do seu inquilino ou do seu domínio personalizado, se tiver adicionado um recentemente. O processo de configuração poderá demorar até 4 horas para ser concluído. Aguarde um pouco para que o processo de configuração seja concluído e, em seguida, tente novamente. Se o problema continuar, contacte o Suporte e este fará uma sincronização completa automaticamente.
     
     Se for recebida a mensagem de erro " **Lamentamos, mas não foi capaz de editar o utilizador. Reveja** as informações do utilizador e tente novamente", significa que não é um administrador global e que não tem permissões para alterar o nome do utilizador.
     

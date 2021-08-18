@@ -14,12 +14,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: d3d4443d0b82c3dc3b89b25f119f32dccdda9ef82e674cba97a945af9019ad00
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c1c4584a5850c2a11401c4f5bd1c04da3e9b23d6
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53985648"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331904"
 ---
 # <a name="more-info-about-retention-policies"></a>Mais informações sobre políticas de retenção
 
@@ -30,15 +30,15 @@ Para a maioria das organizações, o volume e complexidade dos seus dados está 
 - Ir para Segurança e Conformidade > Dados de > Retenção
   - Consulte [ESTE](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) artigo
 
-- Vá para Segurança e Conformidade > de Deteção de> Advanced eDiscovery 
+- Ir para Segurança e Conformidade > de Deteção de> Advanced eDiscovery 
   - Consulte [ESTE](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) artigo
 
-- Ir para Controlo de > Segurança e > Retenção
+- Ir para Controlo de Conformidade > Segurança e > Retenção
   - Consulte estes artigos
     - [Etiquetas de Sensibilidade](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
     - [Visão Geral de Etiquetas](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a>B) Políticas legada de Deteção de Dados Elecrais
+## <a name="b-legacy-ediscovery-policies"></a>B) Políticas legada de Deteção de Dados Eletrodexados
 
 - Consulte [ESTE](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) artigo
 
@@ -52,5 +52,4 @@ Para a maioria das organizações, o volume e complexidade dos seus dados está 
   - [IRM numa lista/Biblioteca](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
   - [Visão Geral da IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
-> [!Note]
-> Recomendamos vivamente que se mova para as políticas de Segurança e Conformidade se ainda estiver a utilizar políticas de Deteção de Dados Online ou IRM ou Fecho de Site e eliminação.
+**Nota:** recomendamos vivamente que se mova para as políticas de Segurança e Conformidade se ainda estiver a utilizar políticas de Deteção de Dados Eletrodexados ou IRM ou Fecho de Site e eliminação.

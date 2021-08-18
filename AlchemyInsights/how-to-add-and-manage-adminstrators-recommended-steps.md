@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963798"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339043"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Como adicionar e gerir administradores – passos recomendados
 
@@ -29,7 +29,7 @@ Com base na descrição do seu problema, encontrámos uma solução para si. A m
 - O Administrador de Conta pode editar ambas as funções, enquanto o Administrador de Subscrição apenas pode alterar Co-administradores no [portal do Azure.](https://ms.portal.azure.com/#home)
 - [Adicionar ou alterar os administradores da subscrição do Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**Atualizar o Administrador de Subscrição ou o Co-Administrator para Subscrições Internas (AIRS)**
+**Atualizar o Administrador de Subscrição ou Co-Administrator para Subscrições Internas (AIRS)**
 
 O Administrador de Serviços ou o Co-administrador pode efetivamente servir esta ação ao seguir os seguintes passos:
 
@@ -57,15 +57,15 @@ O Administrador de Serviços ou o Co-administrador pode efetivamente servir esta
 
 Pode adicionar novos utilizadores ou eliminar utilizadores existentes da sua Azure Active Directory (Azure AD):
 
-1. Para adicionar um novo utilizador, inscreva-se no [portal do Azure](https://ms.portal.azure.com/#home) como administrador do Utilizador da organização.
-2. **Selecione Azure Active Directory**, **selecione Utilizadores e,** em seguida, clique **em Novo utilizador**.
+1. Para adicionar um novo utilizador, inscreva-se no [portal do Azure](https://ms.portal.azure.com/#home) como Administrador de utilizador da organização.
+2. **Selecione Azure Active Directory**, selecione **Utilizadores e,** em seguida, clique **em Novo utilizador**.
 3. Na página **Utilizador,** preencha as informações necessárias. Clique **em Criar**. O utilizador é criado e adicionado ao seu inquilino do Azure AD.
 
 **Saiba mais:**
 
 - [Adicionar um novo utilizador](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
 - [Eliminar um utilizador](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
-- [Adicionar ou atualizar as informações de perfil de um utilizador através Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+- [Adicionar ou atualizar as informações de perfil de um utilizador utilizando o Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
 **Documentos recomendados**
 
@@ -75,7 +75,7 @@ Pode adicionar novos utilizadores ou eliminar utilizadores existentes da sua Azu
 - [Tutorial: Conceder acesso a um utilizador através do RBAC e do portal do Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Remoção de problemas de RBAC no Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Organizar os seus recursos com os grupos de gestão do Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Como pedir cópia da fatura do Azure por e-mail](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Como pedir cópia da fatura do Azure por e-mail](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Como adicionar, atualizar ou remover um cartão de crédito ou débito do Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Gerir (Reativar/Cancelar/Mudar) subscrição](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

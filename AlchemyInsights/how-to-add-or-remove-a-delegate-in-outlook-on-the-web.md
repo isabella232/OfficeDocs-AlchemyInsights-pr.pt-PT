@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7335"
-ms.openlocfilehash: d28b857a95a9959ed3b6b8954878f9c60a367db6d53e67e6729b174c5ce7b364
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4d5aecdd770aba0017dd4d99e680b51c31044b18
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53993436"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333042"
 ---
 # <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Como adicionar ou remover um Delegado no Outlook na Web (OWA)
 
@@ -30,16 +30,14 @@ Para atribuir acesso de Editor ou Delegado ao seu calendário:
 
     - **Selecione Pode editar** para lhes dar permissão para fazer alterações ao seu calendário.
     - **Selecione Delegado** para lhe dar a mesma permissão que um editor e este irá receber pedidos de reunião e respostas em seu nome.
-    > [!NOTE]
-    > Quando um delegado responder a um convite de reunião em seu nome, não verá a resposta no convite na sua caixa de entrada ao utilizar Outlook na Web. As reuniões aceites ou aceites em tentativa serão apresentadas no seu calendário e mostrarão que o seu delegado as aceitou.
+    **Nota:** quando um delegado responder a um convite de reunião em seu nome, não verá a resposta no convite na sua caixa de entrada ao utilizar Outlook na Web. As reuniões aceites ou aceites em tentativa serão apresentadas no seu calendário e mostrarão que o seu delegado as aceitou.
     - As opções Pode ver quando estou **ocupado,** Pode ver **títulos** e localizações e Pode ver todos os detalhes permitem que outras pessoas visualizarem o seu calendário, mas não que façam alterações ao mesmo.  O acesso a pessoas fora da sua organização está limitado a estas opções.
 
 5. Após terminar de adicionar a pessoa com quem pretende partilhar o seu calendário e ter escolhido a permissão que lhe pretende dar, selecione **Partilhar**. Se optar por não partilhar o seu calendário neste momento, selecione **Remover**.
 
 A pessoa com quem partilhou o seu calendário irá receber uma mensagem de e-mail a dizer-lhe sobre isso. Ao selecionarem **o** botão Aceitar no convite, o seu calendário será adicionado à respetivo lista de calendários.
 
-> [!NOTE]
-> Os itens de calendário **marcados como Privados** estão protegidos. A maioria das pessoas com quem partilha o seu calendário vê apenas a hora dos itens marcados Privados **e** não vê o assunto, a localização ou outros detalhes. A exceção a esta regra é se selecionar a caixa de verificação Permitir que **o delegado veja eventos privados.**
+**Nota:** os itens de calendário **marcados como Privados** estão protegidos. A maioria das pessoas com quem partilha o seu calendário vê apenas a hora dos itens marcados Privados **e** não o assunto, localização ou outros detalhes. A exceção a esta regra é se selecionar a caixa de verificação Permitir que **o delegado veja eventos privados.**
 
 Para remover um Delegado no Outlook na Web (OWA):
 

@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "12320"
 - "9001669"
-ms.openlocfilehash: a6f36ebff88efee00c0fc9256250cf570a04e614af936b8f907d564e0e82398f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d9cce98713e1a0a29402821a358afa5aac548a38
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887399"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332042"
 ---
 # <a name="microsoft-365-developer-program"></a>Microsoft 365 Programa de Programador
 
-O Microsoft 365 Programa de Programador inclui uma subscrição do Microsoft 365 E5 programador que pode utilizar para criar o seu próprio sandbox e desenvolver soluções independentes do seu ambiente de produção. Para obter mais informações e FAQs sobre as Microsoft 365 Programador de Programador e Visual Studio, consulte Programa [Microsoft 365 Programa de Programador de Programador.](https://docs.microsoft.com/office/developer-program/microsoft-365-developer-program)
+O Microsoft 365 Programa de Programador inclui uma subscrição de programador do Microsoft 365 E5 que pode utilizar para criar o seu próprio sandbox e desenvolver soluções independentes do seu ambiente de produção. Para obter mais informações e FAQs sobre as subscrições do Microsoft 365 programador Visual Studio, consulte Programa [Microsoft 365 Programa de Programador.](https://docs.microsoft.com/office/developer-program/microsoft-365-developer-program)
 
 Para obter assistência com o Microsoft 365 Programa de Programador ou Subscrições do Visual Studio, submeta um pedido [de suporte Visual Studio Suporte da Subscrição.](https://visualstudio.microsoft.com/subscriptions/support/)

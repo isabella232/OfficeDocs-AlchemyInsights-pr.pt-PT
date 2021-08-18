@@ -12,23 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9ed0c5f350138e9745a87d6f5a90f11e7ce4b279
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53973852"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58338971"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>Permissões necessárias para pesquisas de Deteção de Dados Dados
 
-Para efetuar Pesquisas de Conteúdo no Centro de Conformidade do & de Segurança, um utilizador tem de ser, pelo menos, membro do grupo de funções do Gestor da Deteção de Dados Eletrónicos, o que lhe permite efetuar pesquisas e colocar retenção em caixas de correio, sites do SharePoint e localizações de OneDrive. Os membros também podem criar e gerir casos de Deteção de Dados Advanced eDiscovery.
+Para executar descobertas de conteúdo no Centro de Conformidade & Segurança, um utilizador tem de ser, pelo menos, um membro do grupo de funções do Gestor da Deteção de Dados Técnicos.
 
-Para efetuar In-Place pesquisas de Deteção de Dados Exchange no centro de administração do Exchange (EAC), o utilizador tem de ser membro do grupo de funções Gestão de Deteção no Exchange Online.
+Para efetuar pesquisas de conteúdos no Centro de Conformidade do Microsoft 365, um utilizador tem de, pelo menos, ser membro do grupo de funções do Gestor da Deteção de Dados Técnicos.  
 
-Para obter mais informações sobre as permissões da Deteção de Dados Pessoais, consulte: 
+Para atribuir permissões:
 
-- [Atribuir permissões de Deteção de Dados & Centro de Conformidade](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
-
-- [Atribuir permissões de Deteção de Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+1. Vá para [a Centro de Conformidade do Microsoft 365](https://compliance.microsoft.com/)  >  **de Utilizador**.
+1. Em **Centro de conformidade**, selecione Funções **e, em** seguida, selecione Gestor da **Deteção de Dados Técnicos**.
+1. No folheto, adicione o utilizador à função pretendida ao selecionar **Editar** junto ao Gestor de Deteção de Dados Técnicos ou à função Administrador da Deteção de Dados Técnicos.
 
 **Nota:** Após atribuir permissões de Deteção de E-missões, poderá ter de aguardar alguns minutos para que as permissões se propaguem.
+
+Para obter mais informações sobre permissões de Deteção de Dados [Centro de Conformidade do Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)

@@ -12,21 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: e3d645f3c45525107f42a074899a30ef26bd559e5c5657e7b8ef69d406357b32
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c27997b1bca1d47ad876a0a6941607517912333
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088911"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333134"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>Dar aos utilizadores acesso ao SharePoint e à OneDrive
 
-> [!NOTE]
-> Se um OneDrive site do SharePoint ou um site do SharePoint não estiver disponível para múltiplos utilizadores que tinham acesso anteriormente, poderá haver um problema de serviço temporário. [Verificar o dashboard do estado de vida do serviço](https://portal.office.com/adminportal/home#/servicehealth)
+**Nota:** Se um OneDrive site do SharePoint ou um site do SharePoint não estiver disponível para múltiplos utilizadores que tinham acesso anteriormente, poderá haver um problema de serviço temporário. [Verificar o dashboard do estado de vida do serviço](https://portal.office.com/adminportal/home#/servicehealth)
   
 Se pretender que as pessoas na sua organização consigam entrar e utilizar o SharePoint e o OneDrive, tem de adicionar contas às mesmas e certificar-se de que têm uma licença que lhes dá acesso ao SharePoint e OneDrive. A forma mais fácil de adicionar utilizadores é a centro de administração do Microsoft 365.
   
-1. Vá para a página [Utilizadores ativos na página centro de administração do Microsoft 365, em](https://portal.office.com/adminportal/home#/users)seguida, clique **em Adicionar um utilizador.**
+1. Vá para a página [Utilizadores ativos na página centro de administração do Microsoft 365](https://portal.office.com/adminportal/home#/users)e, em seguida, clique em Adicionar um **utilizador.**
     
 2. Preencha as informações do utilizador e certifique-se de que, em **Licenças** de produtos, está atribuída uma licença e o **SharePoint Online** está selecionado. 
     

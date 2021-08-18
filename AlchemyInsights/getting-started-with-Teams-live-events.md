@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088875"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333170"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Introdução aos evento em direto no Microsoft Teams
 
@@ -27,7 +27,9 @@ Para criar um evento em direto, precisará do seguinte:
 
 - Em primeiro lugar, confirme se os eventos do Teams em direto estão [disponíveis no seu país/região](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); os eventos em direto ainda não são suportados em alguns países.  Se atribuiu licenças e configurou políticas, mas ainda não consegue criar um evento do Teams em direto, é provável que esteja num país/região onde os eventos em direto ainda não estão disponíveis.
 
-- Uma [licença do Office 365 Enterprise E1, E3, ou E5 ou uma licença do Office 365 A3 ou A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Nota**: devido a um recente aumento de utilização do Teams, ao atribuir uma licença do Teams a um utilizador, poderá ter de aguardar cerca de 24 horas até que a configuração esteja completa. Até isso acontecer, não poderá atribuir-lhes políticas do Teams, e é possível que os utilizadores não tenham acesso a algumas funcionalidades do Teams, como chamadas e conferências de áudio.
+- Uma [licença do Office 365 Enterprise E1, E3, ou E5 ou uma licença do Office 365 A3 ou A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). 
+
+    **Nota**: devido a um recente aumento de utilização do Teams, ao atribuir uma licença do Teams a um utilizador, poderá ter de aguardar cerca de 24 horas até que a configuração esteja completa. Até isso acontecer, não poderá atribuir-lhes políticas do Teams, e é possível que os utilizadores não tenham acesso a algumas funcionalidades do Teams, como chamadas e conferências de áudio.
 
 - Permissão para [criar eventos em direito no centro de administração do Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 

@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922256"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331052"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Desativar dados e apagar dispositivos do Intune
 
@@ -32,8 +32,7 @@ As ações remotas de Desativar Dispositivo e Eliminar Todos os Dados do Disposi
 4. Selecione **Sim** para confirmar. Até que o a eliminação de todos os dados esteja concluída, o estado de ação do Dispositivo é apresentado como *Desativação Pendente*.
     Após concluir a ação, deixará de ver o dispositivo móvel na lista de dispositivos geridos.
 
-> [!NOTE]
-> Os dados da empresa não podem ser removidos dos dispositivos ASSOCIADOS ao Azure AD. 
+**Nota:** os dados da empresa não podem ser removidos dos dispositivos JOINED para o Azure AD. 
 
 Para obter detalhes completos sobre o efeito das ações Desativar e Eliminar todos os dados, incluindo o que é retido e eliminado, consulte a seguinte documentação:
 

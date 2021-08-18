@@ -16,12 +16,12 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 328653214d99d06ad76f2bc256f16518df7757a912dd064b20501af03813ebb3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: de22b17e0863af13073a47b31ed9c8236cce23e8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501287"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332910"
 ---
 # <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 para organizações sem fins lucrantes - aprovado
 
@@ -33,4 +33,4 @@ O seu estatuto enquanto Organização Sem Fins Lucrativos Qualificados da Micros
 
 3. Paire o pairar sobre a subscrição que pretende comprar e **selecionar Comprar Agora.**
 
-Para mais informações, consulte o [Microsoft 365 para organizações sem fins lucrantes ou vendas](https://www.microsoft.com/nonprofits/microsoft-365) de [contacto.](https://www.microsoft.com/nonprofits/contact-us)
+Para mais informações, consulte o [Microsoft 365 para organizações sem fins lucratos ou vendas](https://www.microsoft.com/nonprofits/microsoft-365) de [contacto.](https://www.microsoft.com/nonprofits/contact-us)

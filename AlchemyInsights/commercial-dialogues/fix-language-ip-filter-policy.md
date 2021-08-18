@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 16aa12120034e1f848e62bab151d8e30b251a29e5727f085300d74ca7b49ca52
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 25744bee6f3ed06ae67fc3c246c7d64fce9994bb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896166"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320536"
 ---
 # <a name="fix-languageip-filter-policy"></a>Corrigir a política de filtros de IP/idioma
 
 Uma das suas políticas antisspam afetou esta mensagem. Para rever as políticas, faça o seguinte:
 
-1. No portal Microsoft 365 Defender, em , vá para E-mail & políticas de <https://security.microsoft.com/>  \> **colaboração & Regras** \>  \> **contra ameaças Antisspam,** na **secção** Políticas.
+1. No portal Microsoft 365 Defender, em , vá para E-mail & políticas de colaboração & Regras contra ameaças <https://security.microsoft.com/>  \>  \>  \> **Antisspam,** na **secção** Políticas.
 
    Para ir diretamente para a **página Políticas antisspam,** utilize <https://security.microsoft.com/antispam> .
 

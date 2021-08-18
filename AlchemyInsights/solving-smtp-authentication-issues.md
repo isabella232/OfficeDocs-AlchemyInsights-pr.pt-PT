@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: d16389ca577970deaf743255f75dc86134e79dcab2fff8c33987532fc7ee1105
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 14f1454ad687b4d76cf419583b442685fa19b5a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890445"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321764"
 ---
 # <a name="enable-smtp-authentication-and-troubleshooting"></a>Ativar a autenticação e reação de problemas SMTP
 
@@ -33,7 +33,7 @@ Se quiser ativar a autenticação SMTP para uma caixa de correio ou se estiver a
 
 2. [Ative a submissão SMTP de](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) Cliente na caixa de correio licenciada.
 
-    a. A partir do centro de administração do Microsoft 365, vá para **Utilizadores Ativos** e selecione o utilizador.<BR/>
+    a. A partir do centro de administração do Microsoft 365, vá para Utilizadores **Ativos** e selecione o utilizador.<BR/>
     b. Vá para o separador Correio e, em Aplicações **de e-mail**, selecione **Gerir aplicações de e-mail**.<BR/>
     d. Certifique-se **de que O SMTP Autenticado** está se des marcada (ativado).<BR/>
     e. **Selecione Guardar alterações**.<BR/>

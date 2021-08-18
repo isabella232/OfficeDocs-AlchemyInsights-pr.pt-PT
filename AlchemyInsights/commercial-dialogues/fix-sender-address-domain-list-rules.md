@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e3c729e9bf630fa798c746f25f046606a1459a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896122"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320500"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Corrigir regras de Lista de Domínios/Endereço do Remetente
 
 Uma das suas políticas antisspam afetou esta mensagem. O remetente da mensagem foi encontrado numa lista por Permitir ou Bloquear. Para rever as políticas, faça o seguinte:
 
-1. No portal Microsoft 365 Defender, em , vá para E-mail & políticas de <https://security.microsoft.com/>  \> **colaboração & Regras** \>  \> **contra ameaças Antisspam,** na **secção** Políticas.
+1. No portal Microsoft 365 Defender, em , vá para E-mail & políticas de colaboração & Regras contra ameaças <https://security.microsoft.com/>  \>  \>  \> **Antisspam,** na **secção** Políticas.
 
    Para ir diretamente para a **página Políticas antisspam,** utilize <https://security.microsoft.com/antispam> .
 

@@ -1,5 +1,5 @@
 ---
-title: Data de validade da equipa e grupo subjacente não correspondem
+title: A data de validade da equipa e do grupo sub segundo lugar não correspondem
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6667"
 - "9003760"
-ms.openlocfilehash: 7174158a73cd5c26f3ff531381e2d6c62b6a1ad3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 76bf82780ad74c4ecc7077b26d3bd9c88f3957842685bcd683d7b2bbaf3a26fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813447"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117747"
 ---
-# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>Data de validade da equipa e grupo subjacente não correspondem
+# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>A data de validade da equipa e do grupo sub segundo lugar não correspondem
 
-Antes de uma equipa ser renovada, o grupo que apoia a equipa é renovado primeiro. Como parte da renovação, uma nova data de validade é fixada no grupo para uma data futura. Esta nova data pode não ser imediatamente visível em Equipas. Pode levar até 24 horas para sincronizar. Se vir uma discrepância entre a data de validade de uma equipa e o seu grupo subjacente, aguarde 24 horas antes de procurar mais apoio.  
+Antes de uma equipa ser renovada, o grupo que renova a equipa é renovado em primeiro lugar. Como parte da renovação, é definida uma nova data de expiração no grupo para uma data futura. Esta nova data poderá não ser imediatamente visível no Teams. A sincronização pode demorar até 24 horas. Se vir uma discrepância entre a data de expiração de uma equipa e o respetiva grupo sub acordo, aguarde 24 horas antes de procurar mais suporte.  
 
-Consulte [a expiração da equipa e a renovação nas Equipas da Microsoft](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  para obter mais informações.
+Consulte [Expiração e renovação de equipa Microsoft Teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal) equipa para obter mais informações.

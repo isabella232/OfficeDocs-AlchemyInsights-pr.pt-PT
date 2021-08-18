@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9000568"
 - "2425"
-ms.openlocfilehash: 31b2069e02aff949adcbe703675cd85ed2c87256fda2e73e96742542d1971b1f
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 3e6ab7cdc92294a5902bd98c8c39cd3187b0aace
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502511"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321428"
 ---
 # <a name="change-app-license-quantity"></a>Alterar a quantidade de licenças de aplicação
 
@@ -40,4 +40,4 @@ Pode ver ou alterar o número de licenças que tem e atribui-las aos utilizadore
 
 1. Vá para a página **Faturação**  >  **[dos seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos.
 2. No **separador** Produtos, na **secção Aplicações,** localmente a aplicação que pretende gerir.
-3. Em **Definições & , selecione** a ligação para Gerir no portal **do Publisher**.
+3. Em **Definições &, selecione** a ligação **para Gerir no portal do editor**.

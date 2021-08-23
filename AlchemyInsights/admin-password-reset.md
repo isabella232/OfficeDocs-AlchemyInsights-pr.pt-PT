@@ -1,5 +1,5 @@
 ---
-title: Reposição de Palavra-Passe de Administrador
+title: Reposição da palavra-passe de administrador
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: 13d4591fee375ed2ebbbef68220292f910c5eb3d
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 26cb1ca85b63e5d99ce9a86c800d2b076eb6f441
+ms.sourcegitcommit: 3654e244361988ae92a16087d00a458277aff439
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58315967"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "58422491"
 ---
-# <a name="admin-password-reset"></a>Reposição de Palavra-Passe de Administrador
+# <a name="admin-password-reset"></a>Reposição da palavra-passe de administrador
 
 - Utilize a [Reposição de palavra-passe em self service](https://passwordreset.microsoftonline.com/) (SSPR) para repor a sua palavra-passe de administrador.
 
-- Caso se tenha esquecido da sua palavra-passe mas tenha sessão início de sessão com credenciais em cache, adicione ou altere as suas informações de segurança em Informações de Segurança [do >](https://mysignins.microsoft.com/security-info)A Minha Conta e, em seguida, repor a sua palavra-passe através [do SSPR.](https://passwordreset.microsoftonline.com/) (A maioria das contas necessita de um e-mail e número de telefone alternativos para completar a reposição).
+- Caso se tenha esquecido da sua palavra-passe mas tenha sessão início de sessão com credenciais em cache, pode alterar as suas informações de segurança em Informações de Segurança [do >](https://mysignins.microsoft.com/security-info)A Minha Conta e, em seguida, repor a sua palavra-passe através [do SSPR.](https://passwordreset.microsoftonline.com/) (A maioria das contas necessita de um e-mail e número de telefone alternativos para completar a reposição).
 
-- Se esqueceu o seu nome de utilizador, pesquise no seu e-mail aternativo/pessoal por ".onmicrosoft.com" para encontrar um e-mail que talvez o contenha.  O nome de utilizador também pode ser encontrado nas aplicações do Office 365, no friso superior direito, ou ao aceder a **Ficheiro > Conta**.
+- Caso se tenha esquecido do seu nome de utilizador, procure **.onmicrosoft.com** no seu e-mail alternativo ou pessoal para encontrar um e-mail que possa ter.  O nome de utilizador também pode ser encontrado em aplicações Office 365 no canto superior direito ou ao ir para Conta **de**  >  **Ficheiro.**
 
-- Outro administrador pode repor a sua palavra-passe a partir de **Utilizadores > [Utilizadores ativos](https://portal.office.com/adminportal/home#/users)**. Selecione a conta e, em seguida, clique no ícone chave.  Em alternativa, se as suas credenciais estiverem em cache, pode [criar uma nova conta de administração](https://portal.office.com/adminportal/home#/users), iniciar sessão com essa conta e redefinir a sua própria palavra-passe de administração.
+- Outro administrador pode repor a sua palavra-passe a partir **de Utilizadores > utilizadores [ativos](https://portal.office.com/adminportal/home#/users)**; selecione a conta e, em seguida, selecione o ícone de chave.  Em alternativa, se as suas credenciais estiverem em cache, pode [criar uma nova conta de administração](https://portal.office.com/adminportal/home#/users), iniciar sessão com essa conta e redefinir a sua própria palavra-passe de administração.
 
 Para mais cenários de reposição de palavras-passe, consulte [Repor palavras-passe do Office 365 Empresas](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) ou abra um pedido de suporte para obter assistência.

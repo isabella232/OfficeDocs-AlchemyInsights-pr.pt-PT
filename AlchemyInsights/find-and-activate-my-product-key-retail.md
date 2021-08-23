@@ -3,8 +3,7 @@ title: Cartão pré-pago a retalho
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
-ms.reviewer: commerce_purchase
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,16 +14,16 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: f9c84853d30ca327cd12f06d2b802286b7ce1beb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 56bd131a3bbbd42bd6cd4ccf53f18d63ea2408b2
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321000"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451933"
 ---
 # <a name="retail-prepaid-card"></a>Cartão pré-pago a retalho
 
-Se comprou um Microsoft 365 Empresas numa loja de retalho, utilize os seguintes passos para prolongar a data de expiração ou adicionar uma licença a uma subscrição existente.
+Se comprou o Microsoft 365 Empresas numa loja de retalho, utilize os passos seguintes para prolongar a data de expiração ou adicionar uma licença a uma subscrição existente.
 
 **Nota:** para utilizar uma chave de produto para prolongar a data de expiração ou adicionar uma licença à sua subscrição do Microsoft 365 Empresas existente, precisa de uma chave nova e não utilizada para a mesma Microsoft 365 subscrição. Introduzir a chave Microsoft 365 chave de produto original não irá funcionar porque uma chave que já tenha sido resgatada não pode ser utilizada novamente.
 

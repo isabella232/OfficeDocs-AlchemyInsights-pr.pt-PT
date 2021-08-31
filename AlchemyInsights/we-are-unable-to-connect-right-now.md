@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 5dad4b43efac2468b57351a4d6c96379ed505071ca144ec0aa518e975633bb18
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0ab831696736352bf9de84f43c96bb8f7238d8eb
+ms.sourcegitcommit: b6dd6ae628a02ea6b997a993c49de083465bc2ac
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998171"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58744606"
 ---
-# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Corrigir a mensagem Microsoft 365 aplicações "Não é possível ligar neste momento"
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Corrigir a mensagem Microsoft 365 aplicações de comunicação "Não é possível ligar neste momento"
+
+Nota: se estiver a utilizar uma versão mais antiga do Windows (por exemplo, Windows 7 SP1, Windows Server [](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) 2008 R2), utilize a correção fácil para ativar o TLS 1.2 como predefinição. Para obter mais informações, consulte Update [to enable TLS 1.1 and TLS 1.2 as default secure protocols in WinHTTP in Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392).
 
 Se receber esta mensagem, experimente o seguinte:
 
@@ -37,4 +39,4 @@ Se um destes serviços não estiver em execução, tente iniciá-lo. Se tiver pr
 
 Quando este comando terminar, reinicie o computador.
 
-Para obter informações detalhadas, [consulte "Lamentamos, mas não é possível ligar à sua conta. Erro tente novamente mais tarde", ao ativar Office a partir Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Para obter informações detalhadas, [consulte "Lamentamos, mas não é possível ligar à sua conta. Erro "Tente novamente mais tarde" ao ativar Office a partir Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

@@ -1,9 +1,8 @@
 ---
-title: Como comprar licenças para a sua subscrição Microsoft 365 Apps para Pequenas e Médias Empresas subscrição
+title: Como comprar licenças para a sua subscrição Microsoft 365 Apps para Pequenas e Médias Empresas Subscrição
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: sinakassaw, nicholak
 ms.audience: ITPro
 ms.topic: article
@@ -14,14 +13,15 @@ ms.custom:
 - commerce_licensing
 - "652"
 - "2000017"
-ms.openlocfilehash: aa7eb7f5d3136e158c13ee2948979a4545cae5a5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 2d02506ca538293c1a8e9f56518759b13eab20dc
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313122"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842489"
 ---
-# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Como comprar licenças para a sua subscrição Microsoft 365 Apps para Pequenas e Médias Empresas subscrição
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Como comprar licenças para a sua subscrição Microsoft 365 Apps para Pequenas e Médias Empresas Subscrição
 
 Ao atribuir licenças aos seus utilizadores, poderá ter de comprar licenças adicionais.
 

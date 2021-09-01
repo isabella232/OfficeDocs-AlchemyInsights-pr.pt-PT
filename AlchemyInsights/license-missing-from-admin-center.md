@@ -1,26 +1,29 @@
 ---
-title: Licença em falta ou desaparece do centro de administração
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: Licença em falta ou desaparece do centro administrativo
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9003038"
 - "5800"
-ms.openlocfilehash: 90c6a9bf73148fbd91573972f8d64f5f63af5164
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.date: 08/05/2021
+ms.openlocfilehash: b2e9290806465bf0d1f862ed4e91a9bfd6a84b88
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708097"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844541"
 ---
-# <a name="license-missing-or-disappears-from-the-admin-center"></a>Licença em falta ou desaparece do centro de administração
+# <a name="license-missing-or-disappears-from-the-admin-center"></a>Licença em falta ou desaparece do centro administrativo
 
+Se as suas licenças desapareceram, verifique se a sua subscrição não expirou. Para verificar a data de expiração, aceda **Faturação** > [dos Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-Se as suas licenças desaparecerem, verifique se a sua subscrição não expirou. Para verificar a data de validade, vá à **Faturação**   >   **[dos Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**.  
-
-Dependendo da vista, a data de validade aparecerá na coluna de extrema-direita com a **etiqueta Data** ou na secção de **Faturação** dos detalhes da subscrição ao lado **de Expirar em**.
+A data de expiração aparece na coluna **Estado de subscrição**.

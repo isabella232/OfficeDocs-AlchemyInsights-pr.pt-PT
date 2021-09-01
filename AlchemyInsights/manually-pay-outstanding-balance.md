@@ -3,6 +3,7 @@ title: Pagar manualmente um saldo pendente
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,26 +11,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001506"
 - "9147"
 - "1500012"
 - "9689"
 - "1500018"
 - "9690"
-ms.openlocfilehash: c2b9f6142772f4afa9146b79fb9797acba611cff
-ms.sourcegitcommit: 1e00da0b3665f54e377cbe28809b2d1e1db4bd4b
-ms.translationtype: MT
+ms.date: 08/10/2021
+ms.openlocfilehash: 65621eae4c201a07983853f589caa5169a85660f
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51492297"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836692"
 ---
 # <a name="manually-pay-an-outstanding-balance"></a>Pagar manualmente um saldo pendente
 
-As recentes alterações nos regulamentos bancários das transações recorrentes automáticas podem ter feito com que o seu pagamento fosse recusado pelo seu banco. Siga os passos abaixo para pagar manualmente o seu saldo.
+Alterações recentes nos regulamentos bancários para transações periódicas automáticas podem ter causado a recusa do seu pagamento pelo seu banco. Siga os passos abaixo para pagar manualmente o seu saldo.
 
-1. No centro de administração, vá à página de pagamentos & Contas de **Faturação**  >  [](https://go.microsoft.com/fwlink/p/?linkid=2018806) e, em seguida, selecione o separador **Métodos de Pagamento.**
-2. Uma mensagem de aviso diz qual o método de pagamento que foi recusado. Selecione o **link de equilíbrio Settle.**
-3. No painel direito, escolha o seu método de pagamento atual, selecione outro método de pagamento ou adicione um novo método de pagamento e, em seguida, **selecione Settle balance**.
-4. Se o seu banco assim o exigir, será solicitado que forneça detalhes adicionais de segurança e autenticação.
+1. No centro administrativo, aceda a página de **Faturação** > [Faturas e pagamentos](https://go.microsoft.com/fwlink/p/?linkid=2018806), depois selecione o separador **Métodos de pagamento**.
+2. Uma mensagem de aviso diz qual o método de pagamento que foi recusado. Selecione a ligação **Liquidar saldo**.
+3. No painel da direita, escolha o seu método de pagamento atual, selecione outro método de pagamento, ou adicione um novo método de pagamento, depois selecione **Liquidar saldo**.
+4. Se o seu banco o exigir, ser-lhe-á pedido que forneça detalhes adicionais de segurança e autenticação.
 
-Para saber mais, consulte [Gerir os métodos](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) de pagamento e [pagar a sua subscrição.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Para saber mais, consulte [Gerir os métodos de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) e [Pagar a sua subscrição](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).

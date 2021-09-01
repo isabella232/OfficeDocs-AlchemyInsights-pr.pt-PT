@@ -3,7 +3,6 @@ title: Alterar o método de pagamento
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f31352aa920720edb4d8091e01c8a8cddcb602fc
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 924c3afce5ceda57175de1f638a2a4012b2ba96b
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324047"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836836"
 ---
 # <a name="change-payment-method"></a>Alterar o método de pagamento
 
-Pode alterar o método de pagamento a partir **da centro de administração do Microsoft 365**.
+Pode alterar o método de pagamento a partir da **centro de administração do Microsoft 365**.
   
 1. No centro de administração, aceda à página **Faturação** > **Faturas e pagamentos** > [Métodos de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 2. Selecione a linha do método de pagamento a substituir. O painel direito lista todos os perfis de faturação e subscrições individuais que utilizam o método de pagamento selecionado.

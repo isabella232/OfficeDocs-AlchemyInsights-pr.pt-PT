@@ -1,10 +1,9 @@
 ---
-title: O que acontece aos meus dados e acesso quando a minha subscrição Microsoft 365 para empresas termina?
+title: O que acontece aos meus dados e acesso quando a minha Microsoft 365 subscrição para empresas termina?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,15 +14,16 @@ ms.custom:
 - commerce_subscriptions
 - "484"
 - "1500030"
+ms.date: 04/21/2020
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: cb8af5d2a5b0e42bed280cdc283c1c486f5b1cd660df3f4340159950395034e9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7daba728085660bf64c25380a0d6468abf8ec015
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54083349"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841876"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>O que acontece aos meus dados e acesso quando a minha subscrição Microsoft 365 para empresas termina?
+# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>O que acontece aos meus dados e acesso quando a minha Microsoft 365 subscrição para empresas termina?
 
 Se a sua subscrição terminar porque expirou ou porque decidiu cancelá-la, o seu acesso aos serviços, aplicações e dados do cliente passam por vários estados antes de a subscrição ser completamente desligada ou *desaprovisionada.* Se estiver consciente desta progressão, estará melhor preparado para renovar a sua subscrição antes que seja tarde demais ou, se estiver a deixar a Microsoft, fazer uma segurança dos dados antes de estes poderem ser eliminados.
   

@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978172"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923565"
 ---
 # <a name="endpoint-manager---security-baselines"></a>Endpoint Manager - Linhas de base de segurança
 
@@ -37,6 +37,8 @@ Cada uma das linhas de base é atualizada periodicamente e lançada em versões 
 Para obter orientações sobre a forma mais eficiente de alterar a versão da linha de base que é implementada, consulte [Gerir perfis de segurança de linha de base no Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
 Após implementar uma linha de base de segurança, pode monitorizar o estado da implementação e rever as definições dispositivo a dispositivo.
+
+Uma vez que as linhas de base de segurança contêm muitas definições, é importante rever as alterações de configuração e efetuar testes para garantir que todas as definições são adequadas para os seus dispositivos e necessidades empresariais.
 
 **Nota:** os dados de relatórios das linhas de base podem demorar até 24 horas a serem apresentados após a implementação inicial para um dispositivo, e até 6 horas para atualizações futuras. 
 

@@ -1,5 +1,5 @@
 ---
-title: Ativar Office 365 aplicações em Windows 365 PCs
+title: Ativar aplicações do Office 365 em PCs com o Windows 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "13738"
 - "9008599"
-ms.openlocfilehash: ecbd34d10ca079cfd4a7c3cd0511e9101b946511
-ms.sourcegitcommit: faeffebb79a18b9256b3c518840842879e22c00e
-ms.translationtype: MT
+ms.openlocfilehash: 9582264ce6ef8ab6e5a1e1c2a09baba7f1f03f50
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58792942"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923529"
 ---
-# <a name="activating-office-365-applications-on-windows-365-pcs"></a>Ativar Office 365 aplicações em Windows 365 PCs
+# <a name="activating-office-365-applications-on-windows-365-pcs"></a>Ativar aplicações do Office 365 em PCs com o Windows 365
 
-Windows 365 imagens de PC incluem cópias instaladas de aplicações Office 365, que são ativadas ao abrir uma das aplicações Office Aplicações do Office pela primeira vez.
+**Note**: este problema NÃO é aplicável a utilizadores com licenças Windows 365 Enterprise.
 
-Durante o processo de ativação, um utilizador licenciado do Windows 365 Empresas poderá deparar-se com o seguinte erro:
+As imagens para PC com Windows 365 incluem cópias instaladas das aplicações do Office 365, que são ativadas ao abrir qualquer uma das aplicações do Office pela primeira vez.
+
+Durante o processo de ativação, um utilizador com licença do Windows 365 Business poderá deparar-se com o seguinte erro:
 
 "Problema de Conta
 
-Os produtos que encontrámos na sua conta não podem ser utilizados para ativar o Office em cenários de computadores partilhados Código de erro 0x80004005"
+Os produtos que encontrámos na sua conta não podem ser utilizados para ativar o Office em cenários de computador partilhado. Código de erro 0x80004005"
 
-Para resolver este problema, peça ao utilizador afetado para concluir os seguintes passos: 
+Para resolver este problema, peça ao utilizador afetado para completar os seguintes passos: 
 
-1. Desinstale aplicações Office do PC na nuvem.
-1. Vá para Office.com e selecione a opção para Instalar Office.
+1. Desinstale as aplicações existentes do Office a partir do PC na Nuvem.
+1. Aceda a Office.com e selecione a opção para Instalar o Office.
 
-    Office ativação deverá ser concluída com êxito.
+    A ativação do Office deverá, então, ser concluída com êxito.

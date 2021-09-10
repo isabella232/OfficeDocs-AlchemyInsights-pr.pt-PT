@@ -13,28 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9808"
 - "9005728"
-ms.openlocfilehash: 2c284e38e36658dde8d28214908865a4cb8ed3065bf571eb450ce540b9207cd2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8a1f8d0b1bb0ab38c3facf63c01a5c2ed68ca96d
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54016351"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923781"
 ---
 # <a name="create-an-email-signature-in-outlook-for-windows"></a>Criar uma assinatura de e-mail no Outlook para Windows
 
-Crie uma assinatura de e-mail para versões mais recentes do Outlook, como o Outlook 2019, 2016 ou 2013 através do seguinte procedimento:
+Para criar uma assinatura de e-mail no Outlook 2019, 2016, ou 2013 para Windows, fazer o seguinte:
 
-1. No Outlook, no separador Base, **selecione** Novo **E-mail** e, em seguida, selecione o **separador** Mensagem.
+1. Abra o Outlook, e selecione **Opções** > **de Ficheiro**.
+1. Selecione Assinatura por **Correio do Outlook** > **...**.
+1. Selecione **Novo**, escreva um nome, e selecione **OK**.
+1. Na caixa **Editar assinatura**, componha a sua assinatura, e selecione **Guardar**.
+1. Para incluir a sua nova assinatura em novas mensagens ou respostas/avanços, selecione a caixa pendente ao lado de **Escolher assinatura de predefinição** e depois selecione a sua nova assinatura.
+1. Selecione **OK**.
 
-1. No **grupo** Incluir, selecione **Assinatura e,** em seguida, **selecione Assinaturas**.
-
-1. Em **Selecionar** assinatura a editar , **selecione** Nova e, na **caixa de** diálogo Nova Assinatura, escreva um nome para a assinatura.
-
-1. Em **Escolher assinatura predefinida,** na **lista Conta de e-mail,** selecione uma conta de e-mail para associar à assinatura.
-
-1. Em **Selecionar assinatura a editar**, **selecione** Novo e escreva um nome para a assinatura.
-
-1. Em **Editar assinatura**, escreva a assinatura que pretende utilizar e selecione **OK.**
-
-Para obter informações sobre como criar uma assinatura de e-mail em versões mais antigas do Outlook como o Outlook 2010 ou 2007, consulte Criar e adicionar uma assinatura [a](https://support.microsoft.com/office/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#ID0EAADAAA=Office_2007_-_2010)mensagens.
-
+Para informações sobre como criar uma subscrição de e-mail em versões antigas do Outlook, como o Outlook 2010, veja [Criar e adicionar uma assinatura às mensagens](https://support.microsoft.com/office/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#ID0EAADAAA=Office_2007_-_2010).

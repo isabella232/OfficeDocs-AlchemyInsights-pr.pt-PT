@@ -13,12 +13,12 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 1b0beb89eaf8a4105659a1faa7cc723174a73940ef46bd2355bdddfee7b94adb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c0996e0cc923c13b7de3752ac6534026e8627c51
+ms.sourcegitcommit: dcd1c76ced1a0cec27f4cf8d383593760c198424
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030805"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59446702"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP poderá necessitar de um tipo personalizado
 
@@ -26,18 +26,20 @@ ms.locfileid: "54030805"
 
 **O DLP pode exigir um tipo de informações personalizado**
 
-Com uma política de prevenção de perda de dados (DLP), pode identificar e proteger dados confidenciais na sua organização. Em alguns cenários, poderá ter de criar o seu **próprio** tipo de informações confidenciais personalizado para proteger os dados da sua organização.
+Com uma política de prevenção de perda de dados (DLP), pode identificar e proteger dados confidenciais na sua organização. Em alguns cenários, poderá ter de criar o seu próprio tipo de informações confidenciais personalizado para proteger os dados da sua organização. Para obter mais informações, consulte Obter [informações sobre tipos de informações confidenciais](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about) e [Definições de entidades](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)de tipo de informação sensível.
 
-Por exemplo, a sua organização poderá precisar de identificar e proteger IDs de colaboradores ou outros dados em algum formato específico da sua organização. Se for o caso, consulte os seguintes artigos para obter mais informações.
-  
- **Personalizar um tipo de informação confidencial incorporado**
-  
-Se um tipo de informação confidencial incorporado se adeque às suas necessidades com apenas algumas otimizações, pode personalizar um tipo de informação [confidencial incorporado.](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type) Por exemplo, pode adicionar ou remover palavras-chave ou adicionar ou remover provas de suporte, como uma data ou endereço.
-  
- **Criar um tipo de informações confidenciais personalizado**
-  
-No entanto, se precisar de identificar e proteger um tipo [](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) diferente de informações confidenciais, pode criar um tipo de informação confidencial personalizado na IU do Centro de Conformidade & segurança.
-  
-**Criar um tipo de informações confidenciais personalizado no PowerShell & Segurança**
+Para obter mais informações sobre como criar políticas e tipos de informação confidenciais personalizados, consulte: 
 
-Por fim, se a IU não fornecer todas as opções de que precisa, pode criar um tipo de informações confidenciais personalizado no [PowerShell](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell)do & de Conformidade. Ao começar com um ficheiro XML, pode utilizar todas as opções disponíveis.
+**Personalizar um tipo de informação confidencial incorporado**
+
+Se um tipo de informação confidencial incorporado se adeque às suas necessidades com apenas algumas otimizações, consulte Personalizar um tipo de informação [confidencial incorporado.](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type) Por exemplo, pode adicionar ou remover palavras-chave ou adicionar ou remover provas de suporte, como uma data ou endereço.
+
+**Criar um tipo de informações confidenciais personalizado**
+
+No entanto, se precisar de identificar e proteger um tipo diferente de informações confidenciais, pode criar um tipo de informação confidencial personalizado no Centro de Conformidade do Microsoft 365. Para obter mais informações, consulte [Começar a trabalhar com tipos de informação confidenciais personalizados.](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type)
+
+**Criar um tipo de informações confidenciais personalizado no PowerShell do & de Conformidade e Segurança**
+
+Por fim, se a interface de utilizador não fornecer todas as opções de que precisa, pode criar um tipo de informações confidenciais personalizado no PowerShell do centro de & de Conformidade. Ao começar com um ficheiro XML, pode utilizar todas as opções disponíveis. Para obter mais informações, consulte [Criar um tipo de informação confidencial personalizado com o PowerShell.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell)
+
+Para primeiro testar a sua política no modo de teste, consulte [Implementar](https://docs.microsoft.com/microsoft-365/compliance/dlp-learn-about-dlp#implement-policy-in-test-mode) política no modo de teste e Criar, testar e [ajustar uma política DLP.](https://docs.microsoft.com/microsoft-365/compliance/create-test-tune-dlp-policy) 

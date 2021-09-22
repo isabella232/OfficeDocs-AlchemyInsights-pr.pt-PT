@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: eb584743a717246f761b9d9c3d40dd546e4b9630b852c70b45165edcc29e5859
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff7078f3d1604fa34533b8eb0c0b9430ba3637ed
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54032533"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475264"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Como criar uma etiqueta de sensibilidade
 
-1. Vá para o Centro Microsoft 365 de Conformidade > **Etiquetas de Proteção**  >  **de Informações.**
+1. Vá para o Centro Microsoft 365 de Conformidade > **Etiquetas de**  >  **Proteção de Informações.**
 
 1. **Selecione + Criar uma** etiqueta para iniciar o Assistente de Nova etiqueta de sensibilidade.
 
-    Para saber mais sobre as definições de encriptação, consulte Restringir o acesso aos conteúdos ao utilizar encriptação [em etiquetas de sensibilidade.](https://go.microsoft.com/fwlink/?linkid=2106331)
+    Para saber mais sobre as definições de encriptação, consulte Restringir o acesso aos [conteúdos através da encriptação em etiquetas de sensibilidade.](https://go.microsoft.com/fwlink/?linkid=2106331)
 
     Para saber mais sobre etiquetagem automática, consulte Aplicar automaticamente uma [etiqueta de sensibilidade ao conteúdo.](https://go.microsoft.com/fwlink/?linkid=2105837)
 
@@ -35,3 +35,5 @@ ms.locfileid: "54032533"
 1. Depois de criar todas as etiquetas de que precisa, reveja a encomenda e, se necessário, mova-as para cima ou para baixo. 
     
     Para alterar a ordem de uma etiqueta, selecione os três pontos (mais ações) e, em seguida, selecione Mover para **cima** **ou Mover para baixo**.
+
+Para obter mais informações, [consulte Criar e configurar etiquetas de confidencialidade e as respetivas políticas.](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)

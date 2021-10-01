@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 782d79d7a67515ff02f9cef61176b9bea9017f1ad490090e748a10005c3c8bf3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54092319"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60077225"
 ---
 # <a name="uk-domain-transfers"></a>Transferências de domínio .uk
 
-Contacte o Suporte da Microsoft e peça uma alteração de **Etiqueta IPS** para corresponder à registora que pretende que faça a gestão do seu domínio a seguir. Quando a etiqueta é alterada, o domínio é imediatamente transferido para a nova registrora. Em seguida, terá de trabalhar com a nova pessoa de registo de domínios para concluir a transferência, provavelmente terá de pagar as taxas de transferência e adicionar o domínio transferido à sua conta com a sua nova pessoa de registo de domínios.
+As transferências de domínios no Reino Unido requerem a etiqueta IPS da nova registrora. A etiqueta IPS pode ser introduzida no Assistente de Transferência de Domínios no portal de administração da Microsoft:
 
-Para obter mais informações sobre transferências de domínios, consulte [Transferir um domínio da Microsoft para outro anfitrião.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)
+- Vá para **Definições**  >  **domínios ,** faça duplo clique no domínio e selete Transferir **Domínio** para iniciar o assistente de transferência.
 
-Esteja preparado para fornecer a etiqueta IPS da nova registrora, que pode ser encontrada em https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .
+Quando a etiqueta é alterada, o domínio é imediatamente transferido para a nova registrora. Em seguida, tem de trabalhar com a nova pessoa de registo de domínios para concluir a transferência, provavelmente pagando as taxas de transferência e adicionando o domínio transferido à sua conta com a sua nova pessoa de registo de domínios.
+
+Para obter mais informações sobre transferências de domínios, [consulte Transferir um domínio da Microsoft para outro anfitrião.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)

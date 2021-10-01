@@ -1,5 +1,5 @@
 ---
-title: Implementar Microsoft 365 Apps para Grandes Empresas para utilização partilhada em RDS, Servidor de Terminal ou VDI
+title: Implementar Microsoft 365 Apps para utilização partilhada em RDS, Servidor de Terminal ou VDI
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 9d928a3bf58dedc3aaf231c8a051f87b0bbdf438
-ms.sourcegitcommit: 391052026a6ce7646926d233d0fd9ba135088f79
+ms.openlocfilehash: 81183cf1823480c1b15eba9ba9f519b4e3746b52
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 10/01/2021
-ms.locfileid: "60041017"
+ms.locfileid: "60077261"
 ---
-# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Implementar Microsoft 365 Apps para Grandes Empresas para utilização partilhada em RDS, Servidor de Terminal ou VDI
+# <a name="deploying-microsoft-365-apps-for-shared-use-on-rds-terminal-server-or-vdi"></a>Implementar Microsoft 365 Apps para utilização partilhada em RDS, Servidor de Terminal ou VDI
 
-Para implementar o Microsoft 365 Apps a utilização dos Serviços de Ambiente de Trabalho Remoto (RDS), anteriormente utilizados os Serviços de Terminal, tem de:
+Para implementar o Microsoft 365 Apps Serviços de Ambiente de Trabalho Remoto (RDS), anteriormente os Serviços de Terminal, tem de:
 
-- Utilize a correção fácil para ativar o TLS 1.2 como predefinição se estiver a executar uma versão anterior do Windows (por exemplo, Windows 7 SP1, Windows Server 2008 R2). Para uma correção fácil e mais informações, consulte Atualizar para ativar o [TLS 1.1 e o TLS 1.2 como protocolos seguros predefinido no WinHTTP no Windows](https://support.microsoft.com/en-us/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392#bkmk_easy). 
-- Tenha um plano que inclua Microsoft 365 Apps para Grandes Empresas (anteriormente Office 365 Plus). Por exemplo, Office 365 E3 ou Microsoft 365 E5 ou qualquer plano que inclua a versão de ambiente de trabalho do Project ou Visio, como o Project (Plano 3) ou Visio (Plano 2) ou o plano Microsoft 365 Empresas Premium, que também inclui Microsoft 365 Apps para Pequenas e Médias Empresas.
-- Ativar a ativação do computador partilhado. Para obter mais informações, consulte [Resumo da ativação do computador partilhado para o Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation).
+- Utilize a correção fácil para ativar o TLS 1.2 como predefinição se estiver a executar uma versão anterior do Windows (por exemplo, Windows 7 SP1, Windows Server 2008 R2). Para uma correção fácil e mais informações, consulte o [tls update to enable TLS 1.1 and TLS 1.2 as default secure protocols in WinHTTP in Windows](https://support.microsoft.com/en-us/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392#bkmk_easy). 
+- Ter um plano que inclua Microsoft 365 Apps para Grandes Empresas (anteriormente Office 365 Plus). Por exemplo, Office 365 E3 ou Microsoft 365 E5 ou qualquer plano que inclua a versão de ambiente de trabalho do Project ou Visio, como o Project (Plano 3) ou Visio (Plano 2) ou o plano Microsoft 365 Empresas Premium, que também inclui Microsoft 365 Apps para Pequenas e Médias Empresas.
+- Ativar a ativação do computador partilhado. Para obter mais informações, consulte [Resumo da ativação do computador partilhado para o Microsoft 365 Apps.](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation)
 
-**Nota:** para instalar o Microsoft 365 Apps no modo de ativação do computador partilhado, transfira e execute [o Microsoft Assistente de Recuperação e Suporte](https://docs.microsoft.com/alchemyinsights/deploy-o365-remotely-to-rds). Para obter detalhes sobre pré-requisitos, instruções de configuração e orientações para personalizar instalações com a Ferramenta de Implementação do Office, consulte Implementar o [Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)através dos Serviços de Ambiente de Trabalho Remoto.
+**Nota:** para instalar o Microsoft 365 Apps no modo de ativação do computador partilhado, transfira e execute [o Microsoft Assistente de Recuperação e Suporte](https://aka.ms/SaRA_OfficeSCA_M365Portal). Para obter detalhes sobre pré-requisitos, instruções de configuração e orientações para personalizar instalações com a Ferramenta de Implementação do Office, consulte Implementar o [Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)através dos Serviços de Ambiente de Trabalho Remoto.
 
 Para corrigir erros relacionados com a ativação de computadores partilhados, consulte:
 
@@ -37,13 +37,13 @@ Para corrigir erros relacionados com a ativação de computadores partilhados, c
 
 Se quiser instalar o Microsoft 365 Apps RDS a partir do centro de administração do Microsoft 365, que utiliza as predefinições de instalação, siga estes passos:
 
-1. Verifique que Microsoft 365 plano que tem. Para obter mais informações, [consulte Que subscrição tenho?](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
+1. Verifique o Microsoft 365 plano que tem. Para obter mais informações, [consulte Que subscrição tenho?](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
 
 1. Se for necessário, mude para um plano Microsoft 365 diferente. Para obter mais informações, [consulte Atualizar para um plano diferente.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)
 
-1. Se Microsoft 365 Apps já estiver instalado no servidor RDS com outros planos incompatíveis, desinstale-o indo ao Painel de Controlo  >  **Desinstalar um programa.** Se encontrar problemas, desinstale ao transferir o [Microsoft Assistente de Recuperação e Suporte](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+1. Se Microsoft 365 Apps servidor RDS já estiver instalado com outros planos incompatíveis, desinstale-o indo ao Painel de Controlo   >  **Desinstalar um programa.** Se encontrar problemas, desinstale ao transferir o [Microsoft Assistente de Recuperação e Suporte](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. No servidor RDS, inscreva-se no servidor centro de administração do Microsoft 365 a sua conta de administrador e [instale a Office](https://portal.office.com/OLS/MySoftware.aspx).
+1. No servidor RDS, inscreva-se no computador com centro de administração do Microsoft 365 conta de administrador e [instale a Office.](https://portal.office.com/OLS/MySoftware.aspx)
 
    Após Office instalada, não abra ou inscreva-se em nenhuma Office aplicações.
 
